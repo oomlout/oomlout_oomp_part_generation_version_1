@@ -8,7 +8,7 @@ types[""]["files"] = ["working.yaml", "working.json"]
 types["_image"] = {}
 types["_image"]["files"] = ["image.jpg","image_reference.jpg"]
 types["_drawing"] = {}
-types["_drawing"]["files"] = ["working.cdr"]
+types["_drawing"]["files"] = ["drawing.cdr"]
 types["_three_d_model"] = {}
 types["_three_d_model"]["files"] = ["working.stl","working.scad"]
 types["_datasheet"] = {}
@@ -18,7 +18,7 @@ def main(**kwargs):
 
     git = True
 
-    releases = {"electronic", "hardware"}
+    releases = {"electronic", "hardware", "packaging"}
     directory_source = "parts"
     for typ_id in types:
         typ = types[typ_id]
