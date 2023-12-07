@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss20
 * oomp_word: sunflower elephant lock
-* oomp_word_emoji: :sunflower: :elephant: :lock:
+* oomp_word_emoji :sunflower: :elephant: :lock:
 * md5_6_alpha: 3wu4j
-* md5_6: 644383* 
+* md5_6: 644383

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh8pth
 * oomp_word: hamster cupid sleeping
-* oomp_word_emoji: :hamster: :cupid: :sleeping:
+* oomp_word_emoji :hamster: :cupid: :sleeping:
 * md5_6_alpha: 22iva
-* md5_6: 350e06* 
+* md5_6: 350e06

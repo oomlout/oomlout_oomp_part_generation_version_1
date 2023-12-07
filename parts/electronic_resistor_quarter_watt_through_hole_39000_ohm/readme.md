@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro393
 * oomp_word: boat tophat violin
-* oomp_word_emoji: :boat: :tophat: :violin:
+* oomp_word_emoji :boat: :tophat: :violin:
 * md5_6_alpha: 8t0gy
-* md5_6: e1afa2* 
+* md5_6: e1afa2

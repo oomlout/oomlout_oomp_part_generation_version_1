@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi135pth
 * oomp_word: octopus beetle muscle
-* oomp_word_emoji: :octopus: :beetle: :muscle:
+* oomp_word_emoji :octopus: :beetle: :muscle:
 * md5_6_alpha: 37me3
-* md5_6: 52501b* 
+* md5_6: 52501b

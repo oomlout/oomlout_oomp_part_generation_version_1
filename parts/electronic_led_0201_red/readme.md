@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: lr
 * oomp_word: sleepy leopard eyeglasses
-* oomp_word_emoji: :sleepy: :leopard: :eyeglasses:
+* oomp_word_emoji :sleepy: :leopard: :eyeglasses:
 * md5_6_alpha: ekkz
-* md5_6: 0a5fb3* 
+* md5_6: 0a5fb3

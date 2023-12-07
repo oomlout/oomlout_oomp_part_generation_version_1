@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o221
 * oomp_word: rowboat cry hourglass
-* oomp_word_emoji: :rowboat: :cry: :hourglass:
+* oomp_word_emoji :rowboat: :cry: :hourglass:
 * md5_6_alpha: 8uwe8
-* md5_6: e30780* 
+* md5_6: e30780

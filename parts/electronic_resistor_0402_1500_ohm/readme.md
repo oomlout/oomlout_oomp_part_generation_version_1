@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o152
 * oomp_word: angel pushpin stars
-* oomp_word_emoji: :angel: :pushpin: :stars:
+* oomp_word_emoji :angel: :pushpin: :stars:
 * md5_6_alpha: 16xul
-* md5_6: 1e91dd* 
+* md5_6: 1e91dd

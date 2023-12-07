@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o754
 * oomp_word: gift ghost rainbow
-* oomp_word_emoji: :gift: :ghost: :rainbow:
+* oomp_word_emoji :gift: :ghost: :rainbow:
 * md5_6_alpha: 4nsv2
-* md5_6: 7775de* 
+* md5_6: 7775de

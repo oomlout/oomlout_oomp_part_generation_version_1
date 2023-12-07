@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro221
 * oomp_word: handbag frog ticket
-* oomp_word_emoji: :handbag: :frog: :ticket:
+* oomp_word_emoji :handbag: :frog: :ticket:
 * md5_6_alpha: 6ycc1
-* md5_6: b238f1* 
+* md5_6: b238f1

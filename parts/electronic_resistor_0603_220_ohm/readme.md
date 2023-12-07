@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o221
 * oomp_word: sparkles helicopter key
-* oomp_word_emoji: :sparkles: :helicopter: :key:
+* oomp_word_emoji :sparkles: :helicopter: :key:
 * md5_6_alpha: mc90
-* md5_6: 0fe784* 
+* md5_6: 0fe784

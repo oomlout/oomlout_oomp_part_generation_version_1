@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi139pths
 * oomp_word: tennis trident squirrel
-* oomp_word_emoji: :tennis: :trident: :squirrel:
+* oomp_word_emoji :tennis: :trident: :squirrel:
 * md5_6_alpha: 5yws0
-* md5_6: 98ff70* 
+* md5_6: 98ff70

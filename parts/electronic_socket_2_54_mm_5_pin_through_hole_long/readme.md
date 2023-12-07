@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci15pthl
 * oomp_word: boat blossom bowtie
-* oomp_word_emoji: :boat: :blossom: :bowtie:
+* oomp_word_emoji :boat: :blossom: :bowtie:
 * md5_6_alpha: 8sn40
-* md5_6: e16c00* 
+* md5_6: e16c00

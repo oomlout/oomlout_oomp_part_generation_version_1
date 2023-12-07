@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb
 * oomp_word: goat tennis three
-* oomp_word_emoji: :goat: :tennis: :three:
+* oomp_word_emoji :goat: :tennis: :three:
 * md5_6_alpha: 3j9bo
-* md5_6: 5a98f4* 
+* md5_6: 5a98f4

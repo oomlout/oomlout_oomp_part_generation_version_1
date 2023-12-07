@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: chi1b11pd
 * oomp_word: bowtie herb boat
-* oomp_word_emoji: :bowtie: :herb: :boat:
+* oomp_word_emoji :bowtie: :herb: :boat:
 * md5_6_alpha: kip
-* md5_6: 0067e1* 
+* md5_6: 0067e1

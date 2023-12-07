@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l12w
 * oomp_word: goat airplane house
-* oomp_word_emoji: :goat: :airplane: :house:
+* oomp_word_emoji :goat: :airplane: :house:
 * md5_6_alpha: 3joph
-* md5_6: 5ae6d5* 
+* md5_6: 5ae6d5

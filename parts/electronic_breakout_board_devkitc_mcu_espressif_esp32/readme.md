@@ -22,6 +22,6 @@ Devkitc pinout version of espresif esp32 breakout.
 ### other_codes
 * short_code: bbdcmcue32
 * oomp_word: thumbsup rowboat scroll
-* oomp_word_emoji: :thumbsup: :rowboat: :scroll:
+* oomp_word_emoji :thumbsup: :rowboat: :scroll:
 * md5_6_alpha: w5fx
-* md5_6: 16e38d* 
+* md5_6: 16e38d

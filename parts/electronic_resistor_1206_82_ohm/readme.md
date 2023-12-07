@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o820
 * oomp_word: bowtie tea frog
-* oomp_word_emoji: :bowtie: :tea: :frog:
+* oomp_word_emoji :bowtie: :tea: :frog:
 * md5_6_alpha: zso
-* md5_6: 00b538* 
+* md5_6: 00b538

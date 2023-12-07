@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb14
 * oomp_word: sunglasses dog tractor
-* oomp_word_emoji: :sunglasses: :dog: :tractor:
+* oomp_word_emoji :sunglasses: :dog: :tractor:
 * md5_6_alpha: fqi2
-* md5_6: 0b33ea* 
+* md5_6: 0b33ea

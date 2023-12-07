@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o151
 * oomp_word: ring hamburger dolphin
-* oomp_word_emoji: :ring: :hamburger: :dolphin:
+* oomp_word_emoji :ring: :hamburger: :dolphin:
 * md5_6_alpha: 69r9x
-* md5_6: a0b855* 
+* md5_6: a0b855

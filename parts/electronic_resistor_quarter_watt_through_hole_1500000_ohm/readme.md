@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro155
 * oomp_word: briefcase bath door
-* oomp_word_emoji: :briefcase: :bath: :door:
+* oomp_word_emoji :briefcase: :bath: :door:
 * md5_6_alpha: 6xd3f
-* md5_6: b1868b* 
+* md5_6: b1868b

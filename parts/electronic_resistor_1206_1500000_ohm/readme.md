@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o155
 * oomp_word: ticket hammer trumpet
-* oomp_word_emoji: :ticket: :hammer: :trumpet:
+* oomp_word_emoji :ticket: :hammer: :trumpet:
 * md5_6_alpha: 9fa1y
-* md5_6: f189a6* 
+* md5_6: f189a6

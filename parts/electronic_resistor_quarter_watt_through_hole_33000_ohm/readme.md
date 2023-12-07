@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro333
 * oomp_word: jeans umbrella bell
-* oomp_word_emoji: :jeans: :umbrella: :bell:
+* oomp_word_emoji :jeans: :umbrella: :bell:
 * md5_6_alpha: 6sn7c
-* md5_6: ae2a78* 
+* md5_6: ae2a78

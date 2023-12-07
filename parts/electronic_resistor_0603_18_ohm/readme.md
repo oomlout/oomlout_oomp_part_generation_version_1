@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o180
 * oomp_word: trident ram phone
-* oomp_word_emoji: :trident: :ram: :phone:
+* oomp_word_emoji :trident: :ram: :phone:
 * md5_6_alpha: 9ynwd
-* md5_6: ff567d* 
+* md5_6: ff567d

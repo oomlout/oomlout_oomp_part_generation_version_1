@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci11pthl
 * oomp_word: baseball nose koala
-* oomp_word_emoji: :baseball: :nose: :koala:
+* oomp_word_emoji :baseball: :nose: :koala:
 * md5_6_alpha: 5wbi2
-* md5_6: 97273a* 
+* md5_6: 97273a

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb50
 * oomp_word: ear fireworks books
-* oomp_word_emoji: :ear: :fireworks: :books:
+* oomp_word_emoji :ear: :fireworks: :books:
 * md5_6_alpha: 1gm1f
-* md5_6: 257493* 
+* md5_6: 257493

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro332
 * oomp_word: phone radio pray
-* oomp_word_emoji: :phone: :radio: :pray:
+* oomp_word_emoji :phone: :radio: :pray:
 * md5_6_alpha: 4waop
-* md5_6: 7d8219* 
+* md5_6: 7d8219

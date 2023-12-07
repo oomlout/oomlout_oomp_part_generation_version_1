@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi113pthl
 * oomp_word: train balloon helicopter
-* oomp_word_emoji: :train: :balloon: :helicopter:
+* oomp_word_emoji :train: :balloon: :helicopter:
 * md5_6_alpha: 9dsdj
-* md5_6: f079e7* 
+* md5_6: f079e7

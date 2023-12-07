@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x17pthra
 * oomp_word: cyclone banana fire
-* oomp_word_emoji: :cyclone: :banana: :fire:
+* oomp_word_emoji :cyclone: :banana: :fire:
 * md5_6_alpha: 1v5sk
-* md5_6: 2fd014* 
+* md5_6: 2fd014

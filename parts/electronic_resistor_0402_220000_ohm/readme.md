@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o224
 * oomp_word: elephant fax cactus
-* oomp_word_emoji: :elephant: :fax: :cactus:
+* oomp_word_emoji :elephant: :fax: :cactus:
 * md5_6_alpha: 2mt0p
-* md5_6: 437e69* 
+* md5_6: 437e69

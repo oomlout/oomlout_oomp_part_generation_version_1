@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb4
 * oomp_word: lollipop koala factory
-* oomp_word_emoji: :lollipop: :koala: :factory:
+* oomp_word_emoji :lollipop: :koala: :factory:
 * md5_6_alpha: 7qg2k
-* md5_6: c63adc* 
+* md5_6: c63adc

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o274
 * oomp_word: rice apple koala
-* oomp_word_emoji: :rice: :apple: :koala:
+* oomp_word_emoji :rice: :apple: :koala:
 * md5_6_alpha: 7ekvu
-* md5_6: bdc83a* 
+* md5_6: bdc83a

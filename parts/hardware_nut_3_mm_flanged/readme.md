@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu3
 * oomp_word: grapes herb guitar
-* oomp_word_emoji: :grapes: :herb: :guitar:
+* oomp_word_emoji :grapes: :herb: :guitar:
 * md5_6_alpha: 7xprb
-* md5_6: cb67a7* 
+* md5_6: cb67a7

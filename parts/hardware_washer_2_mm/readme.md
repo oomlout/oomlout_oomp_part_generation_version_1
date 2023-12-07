@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: w2
 * oomp_word: violin bowling blush
-* oomp_word_emoji: :violin: :bowling: :blush:
+* oomp_word_emoji :violin: :bowling: :blush:
 * md5_6_alpha: 6ce82
-* md5_6: a29902* 
+* md5_6: a29902

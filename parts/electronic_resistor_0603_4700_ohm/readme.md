@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o472
 * oomp_word: gift hourglass santa
-* oomp_word_emoji: :gift: :hourglass: :santa:
+* oomp_word_emoji :gift: :hourglass: :santa:
 * md5_6_alpha: 4nuye
-* md5_6: 778076* 
+* md5_6: 778076

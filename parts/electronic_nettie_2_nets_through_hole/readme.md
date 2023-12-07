@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nt2th
 * oomp_word: apple chestnut fountain
-* oomp_word_emoji: :apple: :chestnut: :fountain:
+* oomp_word_emoji :apple: :chestnut: :fountain:
 * md5_6_alpha: 7tivz
-* md5_6: c86bdf* 
+* md5_6: c86bdf

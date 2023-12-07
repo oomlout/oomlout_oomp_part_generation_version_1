@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hth
 * oomp_word: palm_tree bear anchor
-* oomp_word_emoji: :palm_tree: :bear: :anchor:
+* oomp_word_emoji :palm_tree: :bear: :anchor:
 * md5_6_alpha: 45810
-* md5_6: 6a3be4* 
+* md5_6: 6a3be4

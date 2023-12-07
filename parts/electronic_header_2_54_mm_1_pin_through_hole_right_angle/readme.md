@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi11pthra
 * oomp_word: eyes water_buffalo ant
-* oomp_word_emoji: :eyes: :water_buffalo: :ant:
+* oomp_word_emoji :eyes: :water_buffalo: :ant:
 * md5_6_alpha: 1hv0v
-* md5_6: 26584f* 
+* md5_6: 26584f

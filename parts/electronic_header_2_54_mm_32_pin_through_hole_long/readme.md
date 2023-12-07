@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi132pthl
 * oomp_word: angel sparkles scream
-* oomp_word_emoji: :angel: :sparkles: :scream:
+* oomp_word_emoji :angel: :sparkles: :scream:
 * md5_6_alpha: 16808
-* md5_6: 1e0f08* 
+* md5_6: 1e0f08

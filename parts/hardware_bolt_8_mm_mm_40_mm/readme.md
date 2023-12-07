@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b40
 * oomp_word: fireworks nine four
-* oomp_word_emoji: :fireworks: :nine: :four:
+* oomp_word_emoji :fireworks: :nine: :four:
 * md5_6_alpha: 4kbg5
-* md5_6: 74faf5* 
+* md5_6: 74faf5

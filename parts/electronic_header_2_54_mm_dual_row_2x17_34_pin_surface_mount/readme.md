@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x17psm
 * oomp_word: princess beetle pushpin
-* oomp_word_emoji: :princess: :beetle: :pushpin:
+* oomp_word_emoji :princess: :beetle: :pushpin:
 * md5_6_alpha: 17zip
-* md5_6: 1f5091* 
+* md5_6: 1f5091

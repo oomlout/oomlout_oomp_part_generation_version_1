@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh9pthra
 * oomp_word: hospital curry taxi
-* oomp_word_emoji: :hospital: :curry: :taxi:
+* oomp_word_emoji :hospital: :curry: :taxi:
 * md5_6_alpha: 8gfsc
-* md5_6: d8bbec* 
+* md5_6: d8bbec

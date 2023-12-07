@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro822
 * oomp_word: book key bath
-* oomp_word_emoji: :book: :key: :bath:
+* oomp_word_emoji :book: :key: :bath:
 * md5_6_alpha: 6f3ba
-* md5_6: a48486* 
+* md5_6: a48486

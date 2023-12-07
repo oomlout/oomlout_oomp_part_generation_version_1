@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro395
 * oomp_word: flags clubs corn
-* oomp_word_emoji: :flags: :clubs: :corn:
+* oomp_word_emoji :flags: :clubs: :corn:
 * md5_6_alpha: 4ieok
-* md5_6: 739ed4* 
+* md5_6: 739ed4

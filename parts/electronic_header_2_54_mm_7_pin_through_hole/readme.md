@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi17pth
 * oomp_word: star ear rowboat
-* oomp_word_emoji: :star: :ear: :rowboat:
+* oomp_word_emoji :star: :ear: :rowboat:
 * md5_6_alpha: mokj
-* md5_6: 1025e3* 
+* md5_6: 1025e3

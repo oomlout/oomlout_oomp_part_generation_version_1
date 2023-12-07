@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb60
 * oomp_word: turtle hamster goat
-* oomp_word_emoji: :turtle: :hamster: :goat:
+* oomp_word_emoji :turtle: :hamster: :goat:
 * md5_6_alpha: 2z1p6
-* md5_6: 4c355a* 
+* md5_6: 4c355a

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o330
 * oomp_word: nose shell bug
-* oomp_word_emoji: :nose: :shell: :bug:
+* oomp_word_emoji :nose: :shell: :bug:
 * md5_6_alpha: 1jdql
-* md5_6: 276d4d* 
+* md5_6: 276d4d

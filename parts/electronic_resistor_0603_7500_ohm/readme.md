@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o752
 * oomp_word: leopard octopus baseball
-* oomp_word_emoji: :leopard: :octopus: :baseball:
+* oomp_word_emoji :leopard: :octopus: :baseball:
 * md5_6_alpha: 3pw9j
-* md5_6: 5f5297* 
+* md5_6: 5f5297

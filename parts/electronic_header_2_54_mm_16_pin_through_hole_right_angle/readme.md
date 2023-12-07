@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi116pthra
 * oomp_word: trident five droplet
-* oomp_word_emoji: :trident: :five: :droplet:
+* oomp_word_emoji :trident: :five: :droplet:
 * md5_6_alpha: 9zjfo
-* md5_6: fff624* 
+* md5_6: fff624

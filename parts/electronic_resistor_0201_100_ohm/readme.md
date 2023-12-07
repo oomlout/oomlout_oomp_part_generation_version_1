@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro101
 * oomp_word: one blush sunflower
-* oomp_word_emoji: :one: :blush: :sunflower:
+* oomp_word_emoji :one: :blush: :sunflower:
 * md5_6_alpha: 9fxwk
-* md5_6: f20264* 
+* md5_6: f20264

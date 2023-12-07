@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu6
 * oomp_word: headphones honeybee bug
-* oomp_word_emoji: :headphones: :honeybee: :bug:
+* oomp_word_emoji :headphones: :honeybee: :bug:
 * md5_6_alpha: 6g765
-* md5_6: a54e4d* 
+* md5_6: a54e4d

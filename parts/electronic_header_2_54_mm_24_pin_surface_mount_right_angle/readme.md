@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi124psmra
 * oomp_word: watermelon angel blush
-* oomp_word_emoji: :watermelon: :angel: :blush:
+* oomp_word_emoji :watermelon: :angel: :blush:
 * md5_6_alpha: 7yps2
-* md5_6: cc1e02* 
+* md5_6: cc1e02

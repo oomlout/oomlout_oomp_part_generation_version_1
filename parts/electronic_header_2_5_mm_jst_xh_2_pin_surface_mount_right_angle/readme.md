@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh2psmra
 * oomp_word: cow four bear
-* oomp_word_emoji: :cow: :four: :bear:
+* oomp_word_emoji :cow: :four: :bear:
 * md5_6_alpha: 2f12z
-* md5_6: 3df53b* 
+* md5_6: 3df53b

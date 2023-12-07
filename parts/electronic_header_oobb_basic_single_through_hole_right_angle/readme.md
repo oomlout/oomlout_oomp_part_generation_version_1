@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hob1thra
 * oomp_word: tennis lips fish
-* oomp_word_emoji: :tennis: :lips: :fish:
+* oomp_word_emoji :tennis: :lips: :fish:
 * md5_6_alpha: 5xp3n
-* md5_6: 982253* 
+* md5_6: 982253

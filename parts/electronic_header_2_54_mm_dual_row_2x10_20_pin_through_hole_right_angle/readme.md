@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x10pthra
 * oomp_word: blowfish lipstick toilet
-* oomp_word_emoji: :blowfish: :lipstick: :toilet:
+* oomp_word_emoji :blowfish: :lipstick: :toilet:
 * md5_6_alpha: 3nkhz
-* md5_6: 5daa87* 
+* md5_6: 5daa87

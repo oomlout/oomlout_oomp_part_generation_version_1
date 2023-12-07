@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: conw2212poi
 * oomp_word: bike pear book
-* oomp_word_emoji: :bike: :pear: :book:
+* oomp_word_emoji :bike: :pear: :book:
 * md5_6_alpha: 94fqc
-* md5_6: e9d1a4* 
+* md5_6: e9d1a4

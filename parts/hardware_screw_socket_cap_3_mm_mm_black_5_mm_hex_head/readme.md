@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb5
 * oomp_word: calendar tulip lipstick
-* oomp_word_emoji: :calendar: :tulip: :lipstick:
+* oomp_word_emoji :calendar: :tulip: :lipstick:
 * md5_6_alpha: 5lep6
-* md5_6: 8f62aa* 
+* md5_6: 8f62aa

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb35
 * oomp_word: squirrel moon headphones
-* oomp_word_emoji: :squirrel: :moon: :headphones:
+* oomp_word_emoji :squirrel: :moon: :headphones:
 * md5_6_alpha: 4dxnp
-* md5_6: 706fa5* 
+* md5_6: 706fa5

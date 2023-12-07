@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o106
 * oomp_word: fax envelope pear
-* oomp_word_emoji: :fax: :envelope: :pear:
+* oomp_word_emoji :fax: :envelope: :pear:
 * md5_6_alpha: 4xqz5
-* md5_6: 7e8ad1* 
+* md5_6: 7e8ad1

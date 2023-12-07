@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh3pth
 * oomp_word: boot blossom bamboo
-* oomp_word_emoji: :boot: :blossom: :bamboo:
+* oomp_word_emoji :boot: :blossom: :bamboo:
 * md5_6_alpha: 6osj5
-* md5_6: ab6c71* 
+* md5_6: ab6c71

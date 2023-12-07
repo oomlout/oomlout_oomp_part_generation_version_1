@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi129pthra
 * oomp_word: chicken fountain spades
-* oomp_word_emoji: :chicken: :fountain: :spades:
+* oomp_word_emoji :chicken: :fountain: :spades:
 * md5_6_alpha: 2x670
-* md5_6: 4adf9c* 
+* md5_6: 4adf9c

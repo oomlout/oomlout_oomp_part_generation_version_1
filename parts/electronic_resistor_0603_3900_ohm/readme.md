@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o392
 * oomp_word: blowfish recycle rainbow
-* oomp_word_emoji: :blowfish: :recycle: :rainbow:
+* oomp_word_emoji :blowfish: :recycle: :rainbow:
 * md5_6_alpha: 3o15q
-* md5_6: 5dfede* 
+* md5_6: 5dfede

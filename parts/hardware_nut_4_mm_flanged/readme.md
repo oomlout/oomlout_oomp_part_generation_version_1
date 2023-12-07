@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu4
 * oomp_word: baseball ticket nine
-* oomp_word_emoji: :baseball: :ticket: :nine:
+* oomp_word_emoji :baseball: :ticket: :nine:
 * md5_6_alpha: 5xfju
-* md5_6: 97f1fa* 
+* md5_6: 97f1fa

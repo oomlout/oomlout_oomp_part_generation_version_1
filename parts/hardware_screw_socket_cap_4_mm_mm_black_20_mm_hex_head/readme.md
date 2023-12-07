@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb20
 * oomp_word: peach panda_face clap
-* oomp_word_emoji: :peach: :panda_face: :clap:
+* oomp_word_emoji :peach: :panda_face: :clap:
 * md5_6_alpha: 81qfu
-* md5_6: ce441a* 
+* md5_6: ce441a

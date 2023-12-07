@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb8
 * oomp_word: trumpet bulb pizza
-* oomp_word_emoji: :trumpet: :bulb: :pizza:
+* oomp_word_emoji :trumpet: :bulb: :pizza:
 * md5_6_alpha: 6hwon
-* md5_6: a685b7* 
+* md5_6: a685b7

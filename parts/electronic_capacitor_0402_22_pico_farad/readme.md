@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: c4pf22
 * oomp_word: hourglass scream eyes
-* oomp_word_emoji: :hourglass: :scream: :eyes:
+* oomp_word_emoji :hourglass: :scream: :eyes:
 * md5_6_alpha: 4zuau
-* md5_6: 800826* 
+* md5_6: 800826

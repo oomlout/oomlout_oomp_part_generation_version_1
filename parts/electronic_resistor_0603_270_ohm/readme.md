@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o271
 * oomp_word: trophy anchor sandal
-* oomp_word_emoji: :trophy: :anchor: :sandal:
+* oomp_word_emoji :trophy: :anchor: :sandal:
 * md5_6_alpha: 6bell
-* md5_6: a1e4a9* 
+* md5_6: a1e4a9

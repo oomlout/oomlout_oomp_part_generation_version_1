@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss40
 * oomp_word: ox fountain book
-* oomp_word_emoji: :ox: :fountain: :book:
+* oomp_word_emoji :ox: :fountain: :book:
 * md5_6_alpha: 3mgf8
-* md5_6: 5cdfa4* 
+* md5_6: 5cdfa4

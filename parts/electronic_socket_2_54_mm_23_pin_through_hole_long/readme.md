@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci123pthl
 * oomp_word: one beetle mushroom
-* oomp_word_emoji: :one: :beetle: :mushroom:
+* oomp_word_emoji :one: :beetle: :mushroom:
 * md5_6_alpha: 9gdbc
-* md5_6: f25068* 
+* md5_6: f25068

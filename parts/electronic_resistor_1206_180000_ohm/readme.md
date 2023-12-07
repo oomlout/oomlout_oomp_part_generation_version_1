@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o184
 * oomp_word: rat clipboard crocodile
-* oomp_word_emoji: :rat: :clipboard: :crocodile:
+* oomp_word_emoji :rat: :clipboard: :crocodile:
 * md5_6_alpha: 3ezj2
-* md5_6: 578e5e* 
+* md5_6: 578e5e

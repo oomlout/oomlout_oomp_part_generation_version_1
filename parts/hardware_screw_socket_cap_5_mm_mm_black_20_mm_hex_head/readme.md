@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb20
 * oomp_word: ramen koala ambulance
-* oomp_word_emoji: :ramen: :koala: :ambulance:
+* oomp_word_emoji :ramen: :koala: :ambulance:
 * md5_6_alpha: 7f7ji
-* md5_6: be3aee* 
+* md5_6: be3aee

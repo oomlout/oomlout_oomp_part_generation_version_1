@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss10
 * oomp_word: sandal dancer snail
-* oomp_word_emoji: :sandal: :dancer: :snail:
+* oomp_word_emoji :sandal: :dancer: :snail:
 * md5_6_alpha: 6ljkh
-* md5_6: a91c51* 
+* md5_6: a91c51

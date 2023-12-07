@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: c6nf10
 * oomp_word: dog birthday scissors
-* oomp_word_emoji: :dog: :birthday: :scissors:
+* oomp_word_emoji :dog: :birthday: :scissors:
 * md5_6_alpha: 20pe8
-* md5_6: 33c290* 
+* md5_6: 33c290

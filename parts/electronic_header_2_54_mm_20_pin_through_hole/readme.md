@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi120pth
 * oomp_word: tractor sushi bulb
-* oomp_word_emoji: :tractor: :sushi: :bulb:
+* oomp_word_emoji :tractor: :sushi: :bulb:
 * md5_6_alpha: 95q4l
-* md5_6: eabc85* 
+* md5_6: eabc85

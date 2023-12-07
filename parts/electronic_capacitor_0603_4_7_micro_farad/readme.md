@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: c6uf4d7
 * oomp_word: palm_tree eyeglasses pill
-* oomp_word_emoji: :palm_tree: :eyeglasses: :pill:
+* oomp_word_emoji :palm_tree: :eyeglasses: :pill:
 * md5_6_alpha: 45vnw
-* md5_6: 6ab38c* 
+* md5_6: 6ab38c

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: chi1b13pd
 * oomp_word: sunny bamboo curry
-* oomp_word_emoji: :sunny: :bamboo: :curry:
+* oomp_word_emoji :sunny: :bamboo: :curry:
 * md5_6_alpha: 1m7qz
-* md5_6: 2971bb* 
+* md5_6: 2971bb

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l6
 * oomp_word: camel sparkles cactus
-* oomp_word_emoji: :camel: :sparkles: :cactus:
+* oomp_word_emoji :camel: :sparkles: :cactus:
 * md5_6_alpha: 2jdyh
-* md5_6: 410f69* 
+* md5_6: 410f69

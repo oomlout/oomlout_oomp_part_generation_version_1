@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o105
 * oomp_word: birthday camera cyclone
-* oomp_word_emoji: :birthday: :camera: :cyclone:
+* oomp_word_emoji :birthday: :camera: :cyclone:
 * md5_6_alpha: 7l6b3
-* md5_6: c27a2f* 
+* md5_6: c27a2f

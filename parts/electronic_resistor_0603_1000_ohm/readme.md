@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o102
 * oomp_word: smile tophat boot
-* oomp_word_emoji: :smile: :tophat: :boot:
+* oomp_word_emoji :smile: :tophat: :boot:
 * md5_6_alpha: 2d9n
-* md5_6: 01afab* 
+* md5_6: 01afab

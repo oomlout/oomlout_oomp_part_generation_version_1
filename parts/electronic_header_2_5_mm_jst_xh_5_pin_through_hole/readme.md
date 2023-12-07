@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh5pth
 * oomp_word: beer cake shell
-* oomp_word_emoji: :beer: :cake: :shell:
+* oomp_word_emoji :beer: :cake: :shell:
 * md5_6_alpha: 74pyl
-* md5_6: b6c36d* 
+* md5_6: b6c36d

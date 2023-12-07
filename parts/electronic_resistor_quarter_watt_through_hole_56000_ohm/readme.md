@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro563
 * oomp_word: pineapple bell tram
-* oomp_word_emoji: :pineapple: :bell: :tram:
+* oomp_word_emoji :pineapple: :bell: :tram:
 * md5_6_alpha: 87n54
-* md5_6: d278e8* 
+* md5_6: d278e8

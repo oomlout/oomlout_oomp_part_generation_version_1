@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b35
 * oomp_word: feet cow eyeglasses
-* oomp_word_emoji: :feet: :cow: :eyeglasses:
+* oomp_word_emoji :feet: :cow: :eyeglasses:
 * md5_6_alpha: 1aoxf
-* md5_6: 213db3* 
+* md5_6: 213db3

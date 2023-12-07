@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi124pthl
 * oomp_word: dress turtle cookie
-* oomp_word_emoji: :dress: :turtle: :cookie:
+* oomp_word_emoji :dress: :turtle: :cookie:
 * md5_6_alpha: 6rfes
-* md5_6: ad4cc4* 
+* md5_6: ad4cc4

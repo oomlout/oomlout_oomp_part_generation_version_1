@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss610
 * oomp_word: 
-* oomp_word_emoji: 
+* oomp_word_emoji 
 * md5_6_alpha: 70u57
-* md5_6: b3ff9b* 
+* md5_6: b3ff9b

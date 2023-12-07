@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro100
 * oomp_word: trident peach bird
-* oomp_word_emoji: :trident: :peach: :bird:
+* oomp_word_emoji :trident: :peach: :bird:
 * md5_6_alpha: 9zbk6
-* md5_6: ffce46* 
+* md5_6: ffce46

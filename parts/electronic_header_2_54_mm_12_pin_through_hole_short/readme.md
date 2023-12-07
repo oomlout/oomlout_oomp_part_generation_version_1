@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi112pths
 * oomp_word: lock basketball penguin
-* oomp_word_emoji: :lock: :basketball: :penguin:
+* oomp_word_emoji :lock: :basketball: :penguin:
 * md5_6_alpha: 54u2z
-* md5_6: 83964b* 
+* md5_6: 83964b

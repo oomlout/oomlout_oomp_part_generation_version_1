@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o182
 * oomp_word: droplet hospital candy
-* oomp_word_emoji: :droplet: :hospital: :candy:
+* oomp_word_emoji :droplet: :hospital: :candy:
 * md5_6_alpha: 1fr9h
-* md5_6: 24d8c5* 
+* md5_6: 24d8c5

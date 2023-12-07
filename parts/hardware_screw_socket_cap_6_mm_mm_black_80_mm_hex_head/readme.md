@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb80
 * oomp_word: hatching_chick fax angel
-* oomp_word_emoji: :hatching_chick: :fax: :angel:
+* oomp_word_emoji :hatching_chick: :fax: :angel:
 * md5_6_alpha: 2v8da
-* md5_6: 497e1e* 
+* md5_6: 497e1e

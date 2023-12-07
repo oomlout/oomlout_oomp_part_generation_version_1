@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi114pth
 * oomp_word: poodle shell fish
-* oomp_word_emoji: :poodle: :shell: :fish:
+* oomp_word_emoji :poodle: :shell: :fish:
 * md5_6_alpha: 3rg43
-* md5_6: 606d53* 
+* md5_6: 606d53

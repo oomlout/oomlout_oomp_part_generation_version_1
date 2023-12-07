@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh6psmra
 * oomp_word: nose bird fish
-* oomp_word_emoji: :nose: :bird: :fish:
+* oomp_word_emoji :nose: :bird: :fish:
 * md5_6_alpha: 1j61f
-* md5_6: 274653* 
+* md5_6: 274653

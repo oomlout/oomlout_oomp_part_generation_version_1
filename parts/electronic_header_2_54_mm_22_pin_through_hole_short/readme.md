@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi122pths
 * oomp_word: tomato peach watermelon
-* oomp_word_emoji: :tomato: :peach: :watermelon:
+* oomp_word_emoji :tomato: :peach: :watermelon:
 * md5_6_alpha: 89ioc
-* md5_6: d3cecc* 
+* md5_6: d3cecc

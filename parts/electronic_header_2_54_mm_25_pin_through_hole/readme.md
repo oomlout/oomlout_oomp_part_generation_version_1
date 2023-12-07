@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi125pth
 * oomp_word: cyclone leaves factory
-* oomp_word_emoji: :cyclone: :leaves: :factory:
+* oomp_word_emoji :cyclone: :leaves: :factory:
 * md5_6_alpha: 1ul0c
-* md5_6: 2f66dc* 
+* md5_6: 2f66dc

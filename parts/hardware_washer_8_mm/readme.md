@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: w8
 * oomp_word: stars helicopter ghost
-* oomp_word_emoji: :stars: :helicopter: :ghost:
+* oomp_word_emoji :stars: :helicopter: :ghost:
 * md5_6_alpha: 8np85
-* md5_6: dde775* 
+* md5_6: dde775

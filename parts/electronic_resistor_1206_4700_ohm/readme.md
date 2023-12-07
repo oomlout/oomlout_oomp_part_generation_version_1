@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o472
 * oomp_word: cupid cupid poodle
-* oomp_word_emoji: :cupid: :cupid: :poodle:
+* oomp_word_emoji :cupid: :cupid: :poodle:
 * md5_6_alpha: jqsg
-* md5_6: 0e0e60* 
+* md5_6: 0e0e60

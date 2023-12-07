@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x18pthra
 * oomp_word: snail shirt basketball
-* oomp_word_emoji: :snail: :shirt: :basketball:
+* oomp_word_emoji :snail: :shirt: :basketball:
 * md5_6_alpha: 36q3a
-* md5_6: 51ac96* 
+* md5_6: 51ac96

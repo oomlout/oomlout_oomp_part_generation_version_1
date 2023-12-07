@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hth
 * oomp_word: scroll dolls fax
-* oomp_word_emoji: :scroll: :dolls: :fax:
+* oomp_word_emoji :scroll: :dolls: :fax:
 * md5_6_alpha: 5ioou
-* md5_6: 8d727e* 
+* md5_6: 8d727e

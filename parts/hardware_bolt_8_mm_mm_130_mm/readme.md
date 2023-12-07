@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b
 * oomp_word: racehorse ghost hatched_chick
-* oomp_word_emoji: :racehorse: :ghost: :hatched_chick:
+* oomp_word_emoji :racehorse: :ghost: :hatched_chick:
 * md5_6_alpha: 2ijig
-* md5_6: 407548* 
+* md5_6: 407548

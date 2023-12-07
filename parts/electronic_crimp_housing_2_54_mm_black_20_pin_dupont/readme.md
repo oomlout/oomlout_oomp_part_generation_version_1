@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: chi1b20pd
 * oomp_word: hatched_chick princess envelope
-* oomp_word_emoji: :hatched_chick: :princess: :envelope:
+* oomp_word_emoji :hatched_chick: :princess: :envelope:
 * md5_6_alpha: 2tb4a
-* md5_6: 481f8a* 
+* md5_6: 481f8a

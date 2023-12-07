@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro121
 * oomp_word: hatching_chick speaker tractor
-* oomp_word_emoji: :hatching_chick: :speaker: :tractor:
+* oomp_word_emoji :hatching_chick: :speaker: :tractor:
 * md5_6_alpha: 2v8q2
-* md5_6: 497fea* 
+* md5_6: 497fea

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: chi1b8pd
 * oomp_word: tophat tram banana
-* oomp_word_emoji: :tophat: :tram: :banana:
+* oomp_word_emoji :tophat: :tram: :banana:
 * md5_6_alpha: 6v3dc
-* md5_6: afe8d0* 
+* md5_6: afe8d0

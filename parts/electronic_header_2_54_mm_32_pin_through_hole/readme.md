@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi132pth
 * oomp_word: camera hourglass princess
-* oomp_word_emoji: :camera: :hourglass: :princess:
+* oomp_word_emoji :camera: :hourglass: :princess:
 * md5_6_alpha: 4s2lb
-* md5_6: 7a801f* 
+* md5_6: 7a801f

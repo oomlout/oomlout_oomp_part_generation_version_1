@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb8
 * oomp_word: bear ski penguin
-* oomp_word_emoji: :bear: :ski: :penguin:
+* oomp_word_emoji :bear: :ski: :penguin:
 * md5_6_alpha: 2bq6j
-* md5_6: 3b9b4b* 
+* md5_6: 3b9b4b

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci110pthl
 * oomp_word: pizza trident rainbow
-* oomp_word_emoji: :pizza: :trident: :rainbow:
+* oomp_word_emoji :pizza: :trident: :rainbow:
 * md5_6_alpha: 76ggu
-* md5_6: b7ffde* 
+* md5_6: b7ffde

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi120pths
 * oomp_word: fries beetle door
-* oomp_word_emoji: :fries: :beetle: :door:
+* oomp_word_emoji :fries: :beetle: :door:
 * md5_6_alpha: 78ayz
-* md5_6: b9508b* 
+* md5_6: b9508b

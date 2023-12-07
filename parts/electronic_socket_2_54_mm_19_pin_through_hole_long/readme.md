@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci119pthl
 * oomp_word: bulb cherries ship
-* oomp_word_emoji: :bulb: :cherries: :ship:
+* oomp_word_emoji :bulb: :cherries: :ship:
 * md5_6_alpha: 57xls
-* md5_6: 85cae0* 
+* md5_6: 85cae0

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o104
 * oomp_word: hearts egg sunflower
-* oomp_word_emoji: :hearts: :egg: :sunflower:
+* oomp_word_emoji :hearts: :egg: :sunflower:
 * md5_6_alpha: 65kys
-* md5_6: 9dbf64* 
+* md5_6: 9dbf64

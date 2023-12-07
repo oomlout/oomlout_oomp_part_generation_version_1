@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o823
 * oomp_word: racehorse curry fountain
-* oomp_word_emoji: :racehorse: :curry: :fountain:
+* oomp_word_emoji :racehorse: :curry: :fountain:
 * md5_6_alpha: 2ixgf
-* md5_6: 40bbdf* 
+* md5_6: 40bbdf

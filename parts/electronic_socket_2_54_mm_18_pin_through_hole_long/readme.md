@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci118pthl
 * oomp_word: question clubs school
-* oomp_word_emoji: :question: :clubs: :school:
+* oomp_word_emoji :question: :clubs: :school:
 * md5_6_alpha: rk5y
-* md5_6: 139ed6* 
+* md5_6: 139ed6

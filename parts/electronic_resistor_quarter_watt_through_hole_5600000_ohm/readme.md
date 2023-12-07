@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro565
 * oomp_word: tophat bowling pill
-* oomp_word_emoji: :tophat: :bowling: :pill:
+* oomp_word_emoji :tophat: :bowling: :pill:
 * md5_6_alpha: 6unpo
-* md5_6: af998c* 
+* md5_6: af998c

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o334
 * oomp_word: sparkles peach briefcase
-* oomp_word_emoji: :sparkles: :peach: :briefcase:
+* oomp_word_emoji :sparkles: :peach: :briefcase:
 * md5_6_alpha: m7ch
-* md5_6: 0fceb1* 
+* md5_6: 0fceb1

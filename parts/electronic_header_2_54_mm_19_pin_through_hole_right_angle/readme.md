@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi119pthra
 * oomp_word: feet cake snail
-* oomp_word_emoji: :feet: :cake: :snail:
+* oomp_word_emoji :feet: :cake: :snail:
 * md5_6_alpha: 1bfbl
-* md5_6: 21c351* 
+* md5_6: 21c351

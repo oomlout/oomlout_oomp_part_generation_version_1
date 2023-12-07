@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu1
 * oomp_word: factory elephant apple
-* oomp_word_emoji: :factory: :elephant: :apple:
+* oomp_word_emoji :factory: :elephant: :apple:
 * md5_6_alpha: 8lebs
-* md5_6: dc43c8* 
+* md5_6: dc43c8

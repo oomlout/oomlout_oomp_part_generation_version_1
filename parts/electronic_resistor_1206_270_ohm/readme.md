@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o271
 * oomp_word: fire bus pushpin
-* oomp_word_emoji: :fire: :bus: :pushpin:
+* oomp_word_emoji :fire: :bus: :pushpin:
 * md5_6_alpha: tea9
-* md5_6: 14ed91* 
+* md5_6: 14ed91

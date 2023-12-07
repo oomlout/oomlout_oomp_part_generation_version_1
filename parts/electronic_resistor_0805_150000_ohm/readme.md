@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o154
 * oomp_word: moon envelope dancer
-* oomp_word_emoji: :moon: :envelope: :dancer:
+* oomp_word_emoji :moon: :envelope: :dancer:
 * md5_6_alpha: 4cobg
-* md5_6: 6f8a1c* 
+* md5_6: 6f8a1c

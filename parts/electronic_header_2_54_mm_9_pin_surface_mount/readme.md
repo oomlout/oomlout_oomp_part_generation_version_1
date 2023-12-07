@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi19psm
 * oomp_word: bowling star stars
-* oomp_word_emoji: :bowling: :star: :stars:
+* oomp_word_emoji :bowling: :star: :stars:
 * md5_6_alpha: 5z07x
-* md5_6: 9910dd* 
+* md5_6: 9910dd

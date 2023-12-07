@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro271
 * oomp_word: poop grin snake
-* oomp_word_emoji: :poop: :grin: :snake:
+* oomp_word_emoji :poop: :grin: :snake:
 * md5_6_alpha: tikl
-* md5_6: 150345* 
+* md5_6: 150345

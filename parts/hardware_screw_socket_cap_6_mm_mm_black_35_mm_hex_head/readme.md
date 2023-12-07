@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb35
 * oomp_word: poop rainbow golf
-* oomp_word_emoji: :poop: :rainbow: :golf:
+* oomp_word_emoji :poop: :rainbow: :golf:
 * md5_6_alpha: upwa
-* md5_6: 15de9a* 
+* md5_6: 15de9a

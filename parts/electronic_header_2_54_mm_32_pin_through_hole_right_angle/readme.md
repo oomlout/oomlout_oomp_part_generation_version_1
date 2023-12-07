@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi132pthra
 * oomp_word: rabbit koala hourglass
-* oomp_word_emoji: :rabbit: :koala: :hourglass:
+* oomp_word_emoji :rabbit: :koala: :hourglass:
 * md5_6_alpha: 24680
-* md5_6: 363a80* 
+* md5_6: 363a80

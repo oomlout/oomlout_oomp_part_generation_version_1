@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: chi1b3pd
 * oomp_word: school sheep computer
-* oomp_word_emoji: :school: :sheep: :computer:
+* oomp_word_emoji :school: :sheep: :computer:
 * md5_6_alpha: 8cynv
-* md5_6: d6427b* 
+* md5_6: d6427b

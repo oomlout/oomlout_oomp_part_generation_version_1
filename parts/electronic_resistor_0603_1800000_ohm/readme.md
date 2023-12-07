@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o185
 * oomp_word: thumbsdown feet birthday
-* oomp_word_emoji: :thumbsdown: :feet: :birthday:
+* oomp_word_emoji :thumbsdown: :feet: :birthday:
 * md5_6_alpha: whqa
-* md5_6: 1721c2* 
+* md5_6: 1721c2

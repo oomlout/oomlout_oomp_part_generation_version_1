@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro562
 * oomp_word: angel palm_tree bamboo
-* oomp_word_emoji: :angel: :palm_tree: :bamboo:
+* oomp_word_emoji :angel: :palm_tree: :bamboo:
 * md5_6_alpha: 16q29
-* md5_6: 1e6a71* 
+* md5_6: 1e6a71

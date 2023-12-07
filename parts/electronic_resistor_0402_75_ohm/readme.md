@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o750
 * oomp_word: new_moon eight tram
-* oomp_word_emoji: :new_moon: :eight: :tram:
+* oomp_word_emoji :new_moon: :eight: :tram:
 * md5_6_alpha: 4bvu0
-* md5_6: 6ef9e8* 
+* md5_6: 6ef9e8

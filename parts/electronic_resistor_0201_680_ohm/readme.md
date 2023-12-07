@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro681
 * oomp_word: wolf cow microscope
-* oomp_word_emoji: :wolf: :cow: :microscope:
+* oomp_word_emoji :wolf: :cow: :microscope:
 * md5_6_alpha: 25lec
-* md5_6: 373d94* 
+* md5_6: 373d94

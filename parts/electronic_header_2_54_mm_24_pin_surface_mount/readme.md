@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi124psm
 * oomp_word: cat poop anchor
-* oomp_word_emoji: :cat: :poop: :anchor:
+* oomp_word_emoji :cat: :poop: :anchor:
 * md5_6_alpha: 1ycpw
-* md5_6: 3215e4* 
+* md5_6: 3215e4

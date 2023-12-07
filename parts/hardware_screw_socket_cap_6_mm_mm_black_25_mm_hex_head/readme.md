@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb25
 * oomp_word: hotel truck lemon
-* oomp_word_emoji: :hotel: :truck: :lemon:
+* oomp_word_emoji :hotel: :truck: :lemon:
 * md5_6_alpha: 8jj61
-* md5_6: daefc9* 
+* md5_6: daefc9

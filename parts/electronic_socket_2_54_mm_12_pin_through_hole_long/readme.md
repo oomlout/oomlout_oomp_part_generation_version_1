@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci112pthl
 * oomp_word: whale blossom anchor
-* oomp_word_emoji: :whale: :blossom: :anchor:
+* oomp_word_emoji :whale: :blossom: :anchor:
 * md5_6_alpha: 3al7o
-* md5_6: 546ce4* 
+* md5_6: 546ce4

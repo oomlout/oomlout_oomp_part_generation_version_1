@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l4y
 * oomp_word: dizzy ox spades
-* oomp_word_emoji: :dizzy: :ox: :spades:
+* oomp_word_emoji :dizzy: :ox: :spades:
 * md5_6_alpha: ody4
-* md5_6: 115c9c* 
+* md5_6: 115c9c

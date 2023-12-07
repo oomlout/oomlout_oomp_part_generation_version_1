@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro472
 * oomp_word: alien bread telescope
-* oomp_word_emoji: :alien: :bread: :telescope:
+* oomp_word_emoji :alien: :bread: :telescope:
 * md5_6_alpha: hwut
-* md5_6: 0cc095* 
+* md5_6: 0cc095

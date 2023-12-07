@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x10psm
 * oomp_word: dizzy umbrella chicken
-* oomp_word_emoji: :dizzy: :umbrella: :chicken:
+* oomp_word_emoji :dizzy: :umbrella: :chicken:
 * md5_6_alpha: o40a
-* md5_6: 112a4a* 
+* md5_6: 112a4a

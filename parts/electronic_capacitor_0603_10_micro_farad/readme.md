@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: c6uf10
 * oomp_word: smile trumpet books
-* oomp_word_emoji: :smile: :trumpet: :books:
+* oomp_word_emoji :smile: :trumpet: :books:
 * md5_6_alpha: 2bgz
-* md5_6: 01a693* 
+* md5_6: 01a693

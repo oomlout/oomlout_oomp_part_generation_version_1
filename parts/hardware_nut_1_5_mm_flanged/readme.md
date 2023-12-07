@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu
 * oomp_word: dog hotel cake
-* oomp_word_emoji: :dog: :hotel: :cake:
+* oomp_word_emoji :dog: :hotel: :cake:
 * md5_6_alpha: 20u6b
-* md5_6: 33dac3* 
+* md5_6: 33dac3

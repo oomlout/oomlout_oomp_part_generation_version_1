@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh10psmra
 * oomp_word: angel paperclip pill
-* oomp_word_emoji: :angel: :paperclip: :pill:
+* oomp_word_emoji :angel: :paperclip: :pill:
 * md5_6_alpha: 16xzg
-* md5_6: 1e928c* 
+* md5_6: 1e928c

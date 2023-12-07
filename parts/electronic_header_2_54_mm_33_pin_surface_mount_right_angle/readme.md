@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi133psmra
 * oomp_word: pushpin herb poop
-* oomp_word_emoji: :pushpin: :herb: :poop:
+* oomp_word_emoji :pushpin: :herb: :poop:
 * md5_6_alpha: 5o8ph
-* md5_6: 916715* 
+* md5_6: 916715

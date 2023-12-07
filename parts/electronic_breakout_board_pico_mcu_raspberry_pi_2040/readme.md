@@ -22,6 +22,6 @@ The official Raspberry Pi breakout for the 2040
 ### other_codes
 * short_code: bbpcmcurp2040
 * oomp_word: tram snake diamonds
-* oomp_word_emoji: :tram: :snake: :diamonds:
+* oomp_word_emoji :tram: :snake: :diamonds:
 * md5_6_alpha: 929i7
-* md5_6: e8459f* 
+* md5_6: e8459f

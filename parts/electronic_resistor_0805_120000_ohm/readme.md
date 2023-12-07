@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o124
 * oomp_word: shoe feet fax
-* oomp_word_emoji: :shoe: :feet: :fax:
+* oomp_word_emoji :shoe: :feet: :fax:
 * md5_6_alpha: 6k60u
-* md5_6: a8217e* 
+* md5_6: a8217e

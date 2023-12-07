@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi115pth
 * oomp_word: sunglasses ox pizza
-* oomp_word_emoji: :sunglasses: :ox: :pizza:
+* oomp_word_emoji :sunglasses: :ox: :pizza:
 * md5_6_alpha: fyk7
-* md5_6: 0b5cb7* 
+* md5_6: 0b5cb7

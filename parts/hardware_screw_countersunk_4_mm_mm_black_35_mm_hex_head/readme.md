@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb35
 * oomp_word: leopard taxi blush
-* oomp_word_emoji: :leopard: :taxi: :blush:
+* oomp_word_emoji :leopard: :taxi: :blush:
 * md5_6_alpha: 3qqki
-* md5_6: 5fec02* 
+* md5_6: 5fec02

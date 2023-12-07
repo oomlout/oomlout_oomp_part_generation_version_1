@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o222
 * oomp_word: herb cake spades
-* oomp_word_emoji: :herb: :cake: :spades:
+* oomp_word_emoji :herb: :cake: :spades:
 * md5_6_alpha: 41r4s
-* md5_6: 67c39c* 
+* md5_6: 67c39c

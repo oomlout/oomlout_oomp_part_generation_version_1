@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b70
 * oomp_word: chestnut snail door
-* oomp_word_emoji: :chestnut: :snail: :door:
+* oomp_word_emoji :chestnut: :snail: :door:
 * md5_6_alpha: 46qvf
-* md5_6: 6b518b* 
+* md5_6: 6b518b

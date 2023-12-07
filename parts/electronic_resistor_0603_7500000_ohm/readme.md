@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o755
 * oomp_word: hand ship cloud
-* oomp_word_emoji: :hand: :ship: :cloud:
+* oomp_word_emoji :hand: :ship: :cloud:
 * md5_6_alpha: yxwr
-* md5_6: 18e02b* 
+* md5_6: 18e02b

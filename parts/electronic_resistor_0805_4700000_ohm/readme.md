@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o475
 * oomp_word: scissors bowtie cat
-* oomp_word_emoji: :scissors: :bowtie: :cat:
+* oomp_word_emoji :scissors: :bowtie: :cat:
 * md5_6_alpha: 5m9te
-* md5_6: 900032* 
+* md5_6: 900032

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi112pthra
 * oomp_word: camera five spades
-* oomp_word_emoji: :camera: :five: :spades:
+* oomp_word_emoji :camera: :five: :spades:
 * md5_6_alpha: 4spzw
-* md5_6: 7af69c* 
+* md5_6: 7af69c

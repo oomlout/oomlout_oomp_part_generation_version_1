@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro824
 * oomp_word: cupid grapes mouse
-* oomp_word_emoji: :cupid: :grapes: :mouse:
+* oomp_word_emoji :cupid: :grapes: :mouse:
 * md5_6_alpha: ks38
-* md5_6: 0ecb34* 
+* md5_6: 0ecb34

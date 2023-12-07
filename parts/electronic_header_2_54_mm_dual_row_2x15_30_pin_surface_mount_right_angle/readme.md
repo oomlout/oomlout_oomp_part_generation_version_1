@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x15psmra
 * oomp_word: corn sunny bamboo
-* oomp_word_emoji: :corn: :sunny: :bamboo:
+* oomp_word_emoji :corn: :sunny: :bamboo:
 * md5_6_alpha: 8a0kx
-* md5_6: d42971* 
+* md5_6: d42971

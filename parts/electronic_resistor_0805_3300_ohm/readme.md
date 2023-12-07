@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o332
 * oomp_word: crocodile tv snail
-* oomp_word_emoji: :crocodile: :tv: :snail:
+* oomp_word_emoji :crocodile: :tv: :snail:
 * md5_6_alpha: 3opxt
-* md5_6: 5e7c51* 
+* md5_6: 5e7c51

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb20
 * oomp_word: wrench water_buffalo cow
-* oomp_word_emoji: :wrench: :water_buffalo: :cow:
+* oomp_word_emoji :wrench: :water_buffalo: :cow:
 * md5_6_alpha: 5binx
-* md5_6: 88583d* 
+* md5_6: 88583d

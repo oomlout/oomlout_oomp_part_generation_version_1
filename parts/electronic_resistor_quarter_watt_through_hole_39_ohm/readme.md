@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro390
 * oomp_word: ring computer microscope
-* oomp_word_emoji: :ring: :computer: :microscope:
+* oomp_word_emoji :ring: :computer: :microscope:
 * md5_6_alpha: 69f9w
-* md5_6: a07b94* 
+* md5_6: a07b94

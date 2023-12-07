@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x14pth
 * oomp_word: chestnut recycle squirrel
-* oomp_word_emoji: :chestnut: :recycle: :squirrel:
+* oomp_word_emoji :chestnut: :recycle: :squirrel:
 * md5_6_alpha: 47p0w
-* md5_6: 6bfe70* 
+* md5_6: 6bfe70

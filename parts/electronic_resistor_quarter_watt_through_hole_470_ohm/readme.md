@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro471
 * oomp_word: penguin shirt peach
-* oomp_word_emoji: :penguin: :shirt: :peach:
+* oomp_word_emoji :penguin: :shirt: :peach:
 * md5_6_alpha: 2yaq6
-* md5_6: 4bacce* 
+* md5_6: 4bacce

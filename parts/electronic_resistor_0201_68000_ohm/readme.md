@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro683
 * oomp_word: maple_leaf beetle tomato
-* oomp_word_emoji: :maple_leaf: :beetle: :tomato:
+* oomp_word_emoji :maple_leaf: :beetle: :tomato:
 * md5_6_alpha: 3ybbn
-* md5_6: 6550d3* 
+* md5_6: 6550d3

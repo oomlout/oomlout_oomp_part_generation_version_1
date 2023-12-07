@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o332
 * oomp_word: up four monkey
-* oomp_word_emoji: :up: :four: :monkey:
+* oomp_word_emoji :up: :four: :monkey:
 * md5_6_alpha: 9vbjy
-* md5_6: fcf53e* 
+* md5_6: fcf53e

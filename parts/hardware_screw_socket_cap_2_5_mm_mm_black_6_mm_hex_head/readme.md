@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb6
 * oomp_word: clap horse tiger
-* oomp_word_emoji: :clap: :horse: :tiger:
+* oomp_word_emoji :clap: :horse: :tiger:
 * md5_6_alpha: 10v95
-* md5_6: 1a3f39* 
+* md5_6: 1a3f39

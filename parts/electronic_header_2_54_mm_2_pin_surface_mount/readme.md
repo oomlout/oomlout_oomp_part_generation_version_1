@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12psm
 * oomp_word: mushroom basketball cake
-* oomp_word_emoji: :mushroom: :basketball: :cake:
+* oomp_word_emoji :mushroom: :basketball: :cake:
 * md5_6_alpha: 42wub
-* md5_6: 6896c3* 
+* md5_6: 6896c3

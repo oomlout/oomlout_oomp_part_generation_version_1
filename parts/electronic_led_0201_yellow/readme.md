@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ly
 * oomp_word: banana thumbsup dog
-* oomp_word_emoji: :banana: :thumbsup: :dog:
+* oomp_word_emoji :banana: :thumbsup: :dog:
 * md5_6_alpha: 84aib
-* md5_6: d01633* 
+* md5_6: d01633

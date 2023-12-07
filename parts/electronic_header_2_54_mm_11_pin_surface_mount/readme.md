@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi111psm
 * oomp_word: key frog thumbsdown
-* oomp_word_emoji: :key: :frog: :thumbsdown:
+* oomp_word_emoji :key: :frog: :thumbsdown:
 * md5_6_alpha: 55q1j
-* md5_6: 843817* 
+* md5_6: 843817

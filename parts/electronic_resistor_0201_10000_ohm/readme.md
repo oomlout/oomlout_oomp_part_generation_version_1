@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro103
 * oomp_word: hatched_chick horse bank
-* oomp_word_emoji: :hatched_chick: :horse: :bank:
+* oomp_word_emoji :hatched_chick: :horse: :bank:
 * md5_6_alpha: 2thi1
-* md5_6: 483fd9* 
+* md5_6: 483fd9

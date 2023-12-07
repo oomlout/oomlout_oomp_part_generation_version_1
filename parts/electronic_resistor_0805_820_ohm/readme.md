@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o821
 * oomp_word: star ramen tongue
-* oomp_word_emoji: :star: :ramen: :tongue:
+* oomp_word_emoji :star: :ramen: :tongue:
 * md5_6_alpha: ninc
-* md5_6: 10be28* 
+* md5_6: 10be28

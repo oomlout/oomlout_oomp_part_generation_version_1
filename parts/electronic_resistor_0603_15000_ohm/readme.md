@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o153
 * oomp_word: honeybee tea four
-* oomp_word_emoji: :honeybee: :tea: :four:
+* oomp_word_emoji :honeybee: :tea: :four:
 * md5_6_alpha: 32k8l
-* md5_6: 4eb5f5* 
+* md5_6: 4eb5f5

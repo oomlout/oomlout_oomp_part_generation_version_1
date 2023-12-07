@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: catuf4d7v16
 * oomp_word: telescope angel car
-* oomp_word_emoji: :telescope: :angel: :car:
+* oomp_word_emoji :telescope: :angel: :car:
 * md5_6_alpha: 5tgq3
-* md5_6: 951eeb* 
+* md5_6: 951eeb

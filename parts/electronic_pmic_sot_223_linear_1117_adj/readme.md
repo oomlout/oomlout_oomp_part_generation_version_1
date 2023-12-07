@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: pms2231117
 * oomp_word: strawberry candy sunflower
-* oomp_word_emoji: :strawberry: :candy: :sunflower:
+* oomp_word_emoji :strawberry: :candy: :sunflower:
 * md5_6_alpha: 811es
-* md5_6: cdc564* 
+* md5_6: cdc564

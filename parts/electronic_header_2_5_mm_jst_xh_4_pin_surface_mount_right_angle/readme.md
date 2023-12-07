@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh4psmra
 * oomp_word: cupid birthday tulip
-* oomp_word_emoji: :cupid: :birthday: :tulip:
+* oomp_word_emoji :cupid: :birthday: :tulip:
 * md5_6_alpha: kqci
-* md5_6: 0ec262* 
+* md5_6: 0ec262

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi140pth
 * oomp_word: beer basketball chestnut
-* oomp_word_emoji: :beer: :basketball: :chestnut:
+* oomp_word_emoji :beer: :basketball: :chestnut:
 * md5_6_alpha: 74h2j
-* md5_6: b6966b* 
+* md5_6: b6966b

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: w8
 * oomp_word: pizza ship one
-* oomp_word_emoji: :pizza: :ship: :one:
+* oomp_word_emoji :pizza: :ship: :one:
 * md5_6_alpha: 76acy
-* md5_6: b7e0f2* 
+* md5_6: b7e0f2

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro752
 * oomp_word: bowtie fountain four
-* oomp_word_emoji: :bowtie: :fountain: :four:
+* oomp_word_emoji :bowtie: :fountain: :four:
 * md5_6_alpha: 188l
-* md5_6: 00dff5* 
+* md5_6: 00dff5

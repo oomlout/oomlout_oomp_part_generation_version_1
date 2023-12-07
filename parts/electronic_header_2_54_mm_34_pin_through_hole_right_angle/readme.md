@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi134pthra
 * oomp_word: phone chestnut dragon
-* oomp_word_emoji: :phone: :chestnut: :dragon:
+* oomp_word_emoji :phone: :chestnut: :dragon:
 * md5_6_alpha: 4w66x
-* md5_6: 7d6b59* 
+* md5_6: 7d6b59

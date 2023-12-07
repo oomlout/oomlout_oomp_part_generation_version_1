@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi128pths
 * oomp_word: clipboard tiger kiss
-* oomp_word_emoji: :clipboard: :tiger: :kiss:
+* oomp_word_emoji :clipboard: :tiger: :kiss:
 * md5_6_alpha: 5jrxf
-* md5_6: 8e3923* 
+* md5_6: 8e3923

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o684
 * oomp_word: kissing umbrella blush
-* oomp_word_emoji: :kissing: :umbrella: :blush:
+* oomp_word_emoji :kissing: :umbrella: :blush:
 * md5_6_alpha: 794y
-* md5_6: 052a02* 
+* md5_6: 052a02

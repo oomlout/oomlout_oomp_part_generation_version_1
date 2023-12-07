@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi138pth
 * oomp_word: cloud shirt grapes
-* oomp_word_emoji: :cloud: :shirt: :grapes:
+* oomp_word_emoji :cloud: :shirt: :grapes:
 * md5_6_alpha: 1pcjv
-* md5_6: 2baccb* 
+* md5_6: 2baccb

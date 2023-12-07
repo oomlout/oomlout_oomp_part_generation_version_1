@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci115pthl
 * oomp_word: bamboo frog fireworks
-* oomp_word_emoji: :bamboo: :frog: :fireworks:
+* oomp_word_emoji :bamboo: :frog: :fireworks:
 * md5_6_alpha: 4f1bo
-* md5_6: 713874* 
+* md5_6: 713874

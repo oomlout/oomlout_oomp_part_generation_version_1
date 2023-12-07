@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro820
 * oomp_word: mouse beetle corn
-* oomp_word_emoji: :mouse: :beetle: :corn:
+* oomp_word_emoji :mouse: :beetle: :corn:
 * md5_6_alpha: 21hhw
-* md5_6: 3450d4* 
+* md5_6: 3450d4

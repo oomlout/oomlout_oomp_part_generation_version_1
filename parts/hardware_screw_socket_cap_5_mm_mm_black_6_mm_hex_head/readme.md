@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb6
 * oomp_word: cloud muscle skull
-* oomp_word_emoji: :cloud: :muscle: :skull:
+* oomp_word_emoji :cloud: :muscle: :skull:
 * md5_6_alpha: 1ojs0
-* md5_6: 2b1b20* 
+* md5_6: 2b1b20

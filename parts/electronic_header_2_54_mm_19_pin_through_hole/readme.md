@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi119pth
 * oomp_word: pray ramen rat
-* oomp_word_emoji: :pray: :ramen: :rat:
+* oomp_word_emoji :pray: :ramen: :rat:
 * md5_6_alpha: 105sn
-* md5_6: 19be57* 
+* md5_6: 19be57

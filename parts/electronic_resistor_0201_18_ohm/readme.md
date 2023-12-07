@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro180
 * oomp_word: car baseball palm_tree
-* oomp_word_emoji: :car: :baseball: :palm_tree:
+* oomp_word_emoji :car: :baseball: :palm_tree:
 * md5_6_alpha: 96xd6
-* md5_6: eb976a* 
+* md5_6: eb976a

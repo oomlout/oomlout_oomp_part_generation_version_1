@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o120
 * oomp_word: angry feet dog
-* oomp_word_emoji: :angry: :feet: :dog:
+* oomp_word_emoji :angry: :feet: :dog:
 * md5_6_alpha: cto3
-* md5_6: 092133* 
+* md5_6: 092133

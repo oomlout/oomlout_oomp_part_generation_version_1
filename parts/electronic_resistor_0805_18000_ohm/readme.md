@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o183
 * oomp_word: leaves diamonds horse
-* oomp_word_emoji: :leaves: :diamonds: :horse:
+* oomp_word_emoji :leaves: :diamonds: :horse:
 * md5_6_alpha: 405dr
-* md5_6: 669f3f* 
+* md5_6: 669f3f

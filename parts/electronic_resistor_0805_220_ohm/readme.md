@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o221
 * oomp_word: rooster thumbsup umbrella
-* oomp_word_emoji: :rooster: :thumbsup: :umbrella:
+* oomp_word_emoji :rooster: :thumbsup: :umbrella:
 * md5_6_alpha: 3jy22
-* md5_6: 5b162a* 
+* md5_6: 5b162a

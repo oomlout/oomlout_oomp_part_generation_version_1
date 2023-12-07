@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi121pth
 * oomp_word: microscope dog kissing
-* oomp_word_emoji: :microscope: :dog: :kissing:
+* oomp_word_emoji :microscope: :dog: :kissing:
 * md5_6_alpha: 5s64l
-* md5_6: 943305* 
+* md5_6: 943305

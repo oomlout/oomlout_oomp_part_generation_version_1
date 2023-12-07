@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss8
 * oomp_word: ocean snake truck
-* oomp_word_emoji: :ocean: :snake: :truck:
+* oomp_word_emoji :ocean: :snake: :truck:
 * md5_6_alpha: 1x7n3
-* md5_6: 3145ef* 
+* md5_6: 3145ef

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb4
 * oomp_word: shell beetle beer
-* oomp_word_emoji: :shell: :beetle: :beer:
+* oomp_word_emoji :shell: :beetle: :beer:
 * md5_6_alpha: 49jue
-* md5_6: 6d50b6* 
+* md5_6: 6d50b6

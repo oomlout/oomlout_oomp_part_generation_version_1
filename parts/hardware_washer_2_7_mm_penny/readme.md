@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: w
 * oomp_word: eyes zap rainbow
-* oomp_word_emoji: :eyes: :zap: :rainbow:
+* oomp_word_emoji :eyes: :zap: :rainbow:
 * md5_6_alpha: 1hmu6
-* md5_6: 262ede* 
+* md5_6: 262ede

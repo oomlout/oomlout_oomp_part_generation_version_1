@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o272
 * oomp_word: guitar diamonds maple_leaf
-* oomp_word_emoji: :guitar: :diamonds: :maple_leaf:
+* oomp_word_emoji :guitar: :diamonds: :maple_leaf:
 * md5_6_alpha: 6jgbp
-* md5_6: a79f65* 
+* md5_6: a79f65

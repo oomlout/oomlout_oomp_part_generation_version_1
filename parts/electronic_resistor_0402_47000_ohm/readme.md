@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o473
 * oomp_word: tractor penguin toilet
-* oomp_word_emoji: :tractor: :penguin: :toilet:
+* oomp_word_emoji :tractor: :penguin: :toilet:
 * md5_6_alpha: 953t3
-* md5_6: ea4b87* 
+* md5_6: ea4b87

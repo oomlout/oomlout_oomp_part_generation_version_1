@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l5r
 * oomp_word: foggy rat pill
-* oomp_word_emoji: :foggy: :rat: :pill:
+* oomp_word_emoji :foggy: :rat: :pill:
 * md5_6_alpha: 1vwjw
-* md5_6: 30578c* 
+* md5_6: 30578c

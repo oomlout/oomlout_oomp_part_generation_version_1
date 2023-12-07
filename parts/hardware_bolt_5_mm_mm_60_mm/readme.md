@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b60
 * oomp_word: pill hearts clipboard
-* oomp_word_emoji: :pill: :hearts: :clipboard:
+* oomp_word_emoji :pill: :hearts: :clipboard:
 * md5_6_alpha: 5himm
-* md5_6: 8c9d8e* 
+* md5_6: 8c9d8e

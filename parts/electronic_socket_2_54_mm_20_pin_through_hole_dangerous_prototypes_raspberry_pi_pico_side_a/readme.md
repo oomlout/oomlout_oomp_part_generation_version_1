@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci120pth
 * oomp_word: ocean five eight
-* oomp_word_emoji: :ocean: :five: :eight:
+* oomp_word_emoji :ocean: :five: :eight:
 * md5_6_alpha: 1y6m1
-* md5_6: 31f6f9* 
+* md5_6: 31f6f9

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: w
 * oomp_word: stars hamster cat
-* oomp_word_emoji: :stars: :hamster: :cat:
+* oomp_word_emoji :stars: :hamster: :cat:
 * md5_6_alpha: 8mq0i
-* md5_6: dd3532* 
+* md5_6: dd3532

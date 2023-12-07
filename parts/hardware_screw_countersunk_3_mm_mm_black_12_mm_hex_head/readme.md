@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb12
 * oomp_word: racehorse pig key
-* oomp_word_emoji: :racehorse: :pig: :key:
+* oomp_word_emoji :racehorse: :pig: :key:
 * md5_6_alpha: 2i8as
-* md5_6: 403c84* 
+* md5_6: 403c84

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci116pthl
 * oomp_word: rocket palm_tree blossom
-* oomp_word_emoji: :rocket: :palm_tree: :blossom:
+* oomp_word_emoji :rocket: :palm_tree: :blossom:
 * md5_6_alpha: 8y92k
-* md5_6: e56a6c* 
+* md5_6: e56a6c

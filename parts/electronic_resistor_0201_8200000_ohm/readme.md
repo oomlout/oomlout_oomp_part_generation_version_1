@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro825
 * oomp_word: hotel candy one
-* oomp_word_emoji: :hotel: :candy: :one:
+* oomp_word_emoji :hotel: :candy: :one:
 * md5_6_alpha: 8jawi
-* md5_6: dac5f2* 
+* md5_6: dac5f2

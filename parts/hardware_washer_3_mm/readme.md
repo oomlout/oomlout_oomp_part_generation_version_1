@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: w3
 * oomp_word: sunny ocean baseball
-* oomp_word_emoji: :sunny: :ocean: :baseball:
+* oomp_word_emoji :sunny: :ocean: :baseball:
 * md5_6_alpha: 1lv2v
-* md5_6: 293197* 
+* md5_6: 293197

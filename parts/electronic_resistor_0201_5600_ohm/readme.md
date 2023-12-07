@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro562
 * oomp_word: dragon zap clap
-* oomp_word_emoji: :dragon: :zap: :clap:
+* oomp_word_emoji :dragon: :zap: :clap:
 * md5_6_alpha: 3h9ne
-* md5_6: 592e1a* 
+* md5_6: 592e1a

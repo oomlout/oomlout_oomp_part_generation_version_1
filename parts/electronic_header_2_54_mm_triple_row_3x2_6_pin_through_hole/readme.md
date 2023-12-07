@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hth
 * oomp_word: cupid grapes fries
-* oomp_word_emoji: :cupid: :grapes: :fries:
+* oomp_word_emoji :cupid: :grapes: :fries:
 * md5_6_alpha: ks6x
-* md5_6: 0ecbb9* 
+* md5_6: 0ecbb9

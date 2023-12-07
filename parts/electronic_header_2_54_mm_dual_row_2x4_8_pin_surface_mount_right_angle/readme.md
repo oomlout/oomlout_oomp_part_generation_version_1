@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x4psmra
 * oomp_word: sushi fish bike
-* oomp_word_emoji: :sushi: :fish: :bike:
+* oomp_word_emoji :sushi: :fish: :bike:
 * md5_6_alpha: 7cjc9
-* md5_6: bc53e9* 
+* md5_6: bc53e9

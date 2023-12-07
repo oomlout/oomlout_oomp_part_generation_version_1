@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi137psmra
 * oomp_word: handbag cry factory
-* oomp_word_emoji: :handbag: :cry: :factory:
+* oomp_word_emoji :handbag: :cry: :factory:
 * md5_6_alpha: 6y2n0
-* md5_6: b207dc* 
+* md5_6: b207dc

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi140psm
 * oomp_word: muscle two factory
-* oomp_word_emoji: :muscle: :two: :factory:
+* oomp_word_emoji :muscle: :two: :factory:
 * md5_6_alpha: 139i4
-* md5_6: 1bf3dc* 
+* md5_6: 1bf3dc

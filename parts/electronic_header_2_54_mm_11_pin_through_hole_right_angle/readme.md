@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi111pthra
 * oomp_word: stars candy phone
-* oomp_word_emoji: :stars: :candy: :phone:
+* oomp_word_emoji :stars: :candy: :phone:
 * md5_6_alpha: 8niil
-* md5_6: ddc57d* 
+* md5_6: ddc57d

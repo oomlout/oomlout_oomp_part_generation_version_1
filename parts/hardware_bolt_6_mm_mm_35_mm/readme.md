@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b35
 * oomp_word: bulb whale boat
-* oomp_word_emoji: :bulb: :whale: :boat:
+* oomp_word_emoji :bulb: :whale: :boat:
 * md5_6_alpha: 57aap
-* md5_6: 8554e1* 
+* md5_6: 8554e1

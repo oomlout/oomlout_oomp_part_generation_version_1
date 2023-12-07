@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi115psmra
 * oomp_word: chestnut bulb ant
-* oomp_word_emoji: :chestnut: :bulb: :ant:
+* oomp_word_emoji :chestnut: :bulb: :ant:
 * md5_6_alpha: 4713j
-* md5_6: 6b854f* 
+* md5_6: 6b854f

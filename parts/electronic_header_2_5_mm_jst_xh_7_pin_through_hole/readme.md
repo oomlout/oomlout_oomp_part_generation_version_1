@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh7pth
 * oomp_word: lemon dragon racehorse
-* oomp_word_emoji: :lemon: :dragon: :racehorse:
+* oomp_word_emoji :lemon: :dragon: :racehorse:
 * md5_6_alpha: 7uts0
-* md5_6: c95940* 
+* md5_6: c95940

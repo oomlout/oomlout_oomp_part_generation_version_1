@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi11pthl
 * oomp_word: skull chicken eyeglasses
-* oomp_word_emoji: :skull: :chicken: :eyeglasses:
+* oomp_word_emoji :skull: :chicken: :eyeglasses:
 * md5_6_alpha: 19cxf
-* md5_6: 204ab3* 
+* md5_6: 204ab3

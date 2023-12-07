@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x5psmra
 * oomp_word: egg bank taxi
-* oomp_word_emoji: :egg: :bank: :taxi:
+* oomp_word_emoji :egg: :bank: :taxi:
 * md5_6_alpha: 7hhik
-* md5_6: bfd9ec* 
+* md5_6: bfd9ec

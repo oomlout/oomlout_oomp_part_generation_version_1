@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o754
 * oomp_word: honeybee kiss taxi
-* oomp_word_emoji: :honeybee: :kiss: :taxi:
+* oomp_word_emoji :honeybee: :kiss: :taxi:
 * md5_6_alpha: 31re4
-* md5_6: 4e23ec* 
+* md5_6: 4e23ec

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss10
 * oomp_word: koala watch hatched_chick
-* oomp_word_emoji: :koala: :watch: :hatched_chick:
+* oomp_word_emoji :koala: :watch: :hatched_chick:
 * md5_6_alpha: 2a6h4
-* md5_6: 3a8148* 
+* md5_6: 3a8148

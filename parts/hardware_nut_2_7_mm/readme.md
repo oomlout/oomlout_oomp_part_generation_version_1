@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu
 * oomp_word: chestnut herb bouquet
-* oomp_word_emoji: :chestnut: :herb: :bouquet:
+* oomp_word_emoji :chestnut: :herb: :bouquet:
 * md5_6_alpha: 46v6p
-* md5_6: 6b6761* 
+* md5_6: 6b6761

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o181
 * oomp_word: shirt sunny basketball
-* oomp_word_emoji: :shirt: :sunny: :basketball:
+* oomp_word_emoji :shirt: :sunny: :basketball:
 * md5_6_alpha: 6ptw6
-* md5_6: ac2996* 
+* md5_6: ac2996

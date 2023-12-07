@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjsh4psmra
 * oomp_word: dress recycle gift
-* oomp_word_emoji: :dress: :recycle: :gift:
+* oomp_word_emoji :dress: :recycle: :gift:
 * md5_6_alpha: 6seif
-* md5_6: adfe77* 
+* md5_6: adfe77

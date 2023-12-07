@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss25
 * oomp_word: ramen cactus cry
-* oomp_word_emoji: :ramen: :cactus: :cry:
+* oomp_word_emoji :ramen: :cactus: :cry:
 * md5_6_alpha: 7fgnb
-* md5_6: be6907* 
+* md5_6: be6907

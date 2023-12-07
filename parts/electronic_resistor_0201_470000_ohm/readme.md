@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro474
 * oomp_word: rocket trophy bike
-* oomp_word_emoji: :rocket: :trophy: :bike:
+* oomp_word_emoji :rocket: :trophy: :bike:
 * md5_6_alpha: 8yk15
-* md5_6: e5a1e9* 
+* md5_6: e5a1e9

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l6l
 * oomp_word: basketball fireworks four
-* oomp_word_emoji: :basketball: :fireworks: :four:
+* oomp_word_emoji :basketball: :fireworks: :four:
 * md5_6_alpha: 5vcad
-* md5_6: 9674f5* 
+* md5_6: 9674f5

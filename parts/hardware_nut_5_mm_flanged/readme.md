@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu5
 * oomp_word: baby angry peach
-* oomp_word_emoji: :baby: :angry: :peach:
+* oomp_word_emoji :baby: :angry: :peach:
 * md5_6_alpha: 14sem
-* md5_6: 1d09ce* 
+* md5_6: 1d09ce

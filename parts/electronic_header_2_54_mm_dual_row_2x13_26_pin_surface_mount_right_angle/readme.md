@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x13psmra
 * oomp_word: hearts pill pear
-* oomp_word_emoji: :hearts: :pill: :pear:
+* oomp_word_emoji :hearts: :pill: :pear:
 * md5_6_alpha: 65az5
-* md5_6: 9d8cd1* 
+* md5_6: 9d8cd1

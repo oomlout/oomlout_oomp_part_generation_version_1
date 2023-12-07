@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu4
 * oomp_word: bear grin phone
-* oomp_word_emoji: :bear: :grin: :phone:
+* oomp_word_emoji :bear: :grin: :phone:
 * md5_6_alpha: 2aw71
-* md5_6: 3b037d* 
+* md5_6: 3b037d

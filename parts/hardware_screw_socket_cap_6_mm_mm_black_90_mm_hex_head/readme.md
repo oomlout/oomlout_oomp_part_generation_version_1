@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb90
 * oomp_word: tiger lipstick handbag
-* oomp_word_emoji: :tiger: :lipstick: :handbag:
+* oomp_word_emoji :tiger: :lipstick: :handbag:
 * md5_6_alpha: 29036
-* md5_6: 39aab2* 
+* md5_6: 39aab2

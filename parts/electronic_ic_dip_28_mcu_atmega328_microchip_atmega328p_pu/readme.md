@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: id28mcuat328
 * oomp_word: rooster cloud blowfish
-* oomp_word_emoji: :rooster: :cloud: :blowfish:
+* oomp_word_emoji :rooster: :cloud: :blowfish:
 * md5_6_alpha: 3k28t
-* md5_6: 5b2b5d* 
+* md5_6: 5b2b5d

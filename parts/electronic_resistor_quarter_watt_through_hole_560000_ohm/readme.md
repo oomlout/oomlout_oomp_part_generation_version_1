@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro564
 * oomp_word: watermelon headphones tea
-* oomp_word_emoji: :watermelon: :headphones: :tea:
+* oomp_word_emoji :watermelon: :headphones: :tea:
 * md5_6_alpha: 7zgl1
-* md5_6: cca5b5* 
+* md5_6: cca5b5

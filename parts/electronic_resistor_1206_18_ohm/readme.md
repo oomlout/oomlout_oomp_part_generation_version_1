@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o180
 * oomp_word: cactus dolls dolls
-* oomp_word_emoji: :cactus: :dolls: :dolls:
+* oomp_word_emoji :cactus: :dolls: :dolls:
 * md5_6_alpha: 4448i
-* md5_6: 697272* 
+* md5_6: 697272

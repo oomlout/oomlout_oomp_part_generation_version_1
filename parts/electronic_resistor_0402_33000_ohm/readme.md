@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o333
 * oomp_word: anchor poop sparkles
-* oomp_word_emoji: :anchor: :poop: :sparkles:
+* oomp_word_emoji :anchor: :poop: :sparkles:
 * md5_6_alpha: 8wdn3
-* md5_6: e4150f* 
+* md5_6: e4150f

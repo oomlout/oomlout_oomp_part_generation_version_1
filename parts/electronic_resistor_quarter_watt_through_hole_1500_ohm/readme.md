@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro152
 * oomp_word: peach leopard monkey
-* oomp_word_emoji: :peach: :leopard: :monkey:
+* oomp_word_emoji :peach: :leopard: :monkey:
 * md5_6_alpha: 81vsu
-* md5_6: ce5f3e* 
+* md5_6: ce5f3e

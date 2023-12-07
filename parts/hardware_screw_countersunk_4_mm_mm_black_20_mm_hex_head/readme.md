@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb20
 * oomp_word: sleeping hamburger train
-* oomp_word_emoji: :sleeping: :hamburger: :train:
+* oomp_word_emoji :sleeping: :hamburger: :train:
 * md5_6_alpha: 9fxs
-* md5_6: 06b8f0* 
+* md5_6: 06b8f0

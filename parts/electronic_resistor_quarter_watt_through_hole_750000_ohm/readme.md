@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro754
 * oomp_word: sheep fish camera
-* oomp_word_emoji: :sheep: :fish: :camera:
+* oomp_word_emoji :sheep: :fish: :camera:
 * md5_6_alpha: 2l5yy
-* md5_6: 42537a* 
+* md5_6: 42537a

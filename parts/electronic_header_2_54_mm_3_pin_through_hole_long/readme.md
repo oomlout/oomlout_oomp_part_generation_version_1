@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi13pthl
 * oomp_word: fountain corn sunny
-* oomp_word_emoji: :fountain: :corn: :sunny:
+* oomp_word_emoji :fountain: :corn: :sunny:
 * md5_6_alpha: 8qejt
-* md5_6: dfd429* 
+* md5_6: dfd429

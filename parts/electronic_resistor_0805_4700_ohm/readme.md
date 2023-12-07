@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o472
 * oomp_word: octopus sleeping parking
-* oomp_word_emoji: :octopus: :sleeping: :parking:
+* oomp_word_emoji :octopus: :sleeping: :parking:
 * md5_6_alpha: 377y5
-* md5_6: 5206fd* 
+* md5_6: 5206fd

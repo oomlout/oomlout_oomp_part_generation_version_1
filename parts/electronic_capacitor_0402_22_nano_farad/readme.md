@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: c4nf22
 * oomp_word: thumbsup hourglass pencil
-* oomp_word_emoji: :thumbsup: :hourglass: :pencil:
+* oomp_word_emoji :thumbsup: :hourglass: :pencil:
 * md5_6_alpha: vlwj
-* md5_6: 1680a3* 
+* md5_6: 1680a3

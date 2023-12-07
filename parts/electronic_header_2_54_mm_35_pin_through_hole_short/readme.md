@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi135pths
 * oomp_word: sheep parking dancer
-* oomp_word_emoji: :sheep: :parking: :dancer:
+* oomp_word_emoji :sheep: :parking: :dancer:
 * md5_6_alpha: 2m3h8
-* md5_6: 42fd1c* 
+* md5_6: 42fd1c

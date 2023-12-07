@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: swsi1hs
 * oomp_word: wink mushroom rose
-* oomp_word_emoji: :wink: :mushroom: :rose:
+* oomp_word_emoji :wink: :mushroom: :rose:
 * md5_6_alpha: 66w3
-* md5_6: 046863* 
+* md5_6: 046863

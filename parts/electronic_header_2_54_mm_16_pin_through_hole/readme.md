@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi116pth
 * oomp_word: tulip calendar fireworks
-* oomp_word_emoji: :tulip: :calendar: :fireworks:
+* oomp_word_emoji :tulip: :calendar: :fireworks:
 * md5_6_alpha: 3ufzo
-* md5_6: 628f74* 
+* md5_6: 628f74

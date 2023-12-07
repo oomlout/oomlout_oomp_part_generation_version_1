@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci110pth
 * oomp_word: tv lips sheep
-* oomp_word_emoji: :tv: :lips: :sheep:
+* oomp_word_emoji :tv: :lips: :sheep:
 * md5_6_alpha: 4ud6q
-* md5_6: 7c2242* 
+* md5_6: 7c2242

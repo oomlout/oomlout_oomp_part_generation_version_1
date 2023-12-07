@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci126pthl
 * oomp_word: book tractor rowboat
-* oomp_word_emoji: :book: :tractor: :rowboat:
+* oomp_word_emoji :book: :tractor: :rowboat:
 * md5_6_alpha: 6fnj7
-* md5_6: a4eae3* 
+* md5_6: a4eae3

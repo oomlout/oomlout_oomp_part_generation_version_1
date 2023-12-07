@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss40
 * oomp_word: mouse heart cactus
-* oomp_word_emoji: :mouse: :heart: :cactus:
+* oomp_word_emoji :mouse: :heart: :cactus:
 * md5_6_alpha: 2146h
-* md5_6: 340d69* 
+* md5_6: 340d69

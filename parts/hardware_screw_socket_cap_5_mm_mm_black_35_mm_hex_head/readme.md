@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb35
 * oomp_word: alien santa sunglasses
-* oomp_word_emoji: :alien: :santa: :sunglasses:
+* oomp_word_emoji :alien: :santa: :sunglasses:
 * md5_6_alpha: hi4r
-* md5_6: 0c760b* 
+* md5_6: 0c760b

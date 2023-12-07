@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci129pthl
 * oomp_word: blush rose car
-* oomp_word_emoji: :blush: :rose: :car:
+* oomp_word_emoji :blush: :rose: :car:
 * md5_6_alpha: 3cvf
-* md5_6: 0263eb* 
+* md5_6: 0263eb

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l10w
 * oomp_word: whale office pig
-* oomp_word_emoji: :whale: :office: :pig:
+* oomp_word_emoji :whale: :office: :pig:
 * md5_6_alpha: 3b67w
-* md5_6: 54d73c* 
+* md5_6: 54d73c

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: isoic28waip1640
 * oomp_word: sparkles wink penguin
-* oomp_word_emoji: :sparkles: :wink: :penguin:
+* oomp_word_emoji :sparkles: :wink: :penguin:
 * md5_6_alpha: l3d7
-* md5_6: 0f044b* 
+* md5_6: 0f044b

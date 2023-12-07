@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh5psmra
 * oomp_word: thumbsdown honeybee leopard
-* oomp_word_emoji: :thumbsdown: :honeybee: :leopard:
+* oomp_word_emoji :thumbsdown: :honeybee: :leopard:
 * md5_6_alpha: wqjj
-* md5_6: 174e5f* 
+* md5_6: 174e5f

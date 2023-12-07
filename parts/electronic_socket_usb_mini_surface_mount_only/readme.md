@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scumnsmo
 * oomp_word: mouse candy bread
-* oomp_word_emoji: :mouse: :candy: :bread:
+* oomp_word_emoji :mouse: :candy: :bread:
 * md5_6_alpha: 224lc
-* md5_6: 34c5c0* 
+* md5_6: 34c5c0

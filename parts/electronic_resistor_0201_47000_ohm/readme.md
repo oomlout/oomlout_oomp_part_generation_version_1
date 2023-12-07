@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro473
 * oomp_word: trumpet boot angry
-* oomp_word_emoji: :trumpet: :boot: :angry:
+* oomp_word_emoji :trumpet: :boot: :angry:
 * md5_6_alpha: 6i421
-* md5_6: a6ab09* 
+* md5_6: a6ab09

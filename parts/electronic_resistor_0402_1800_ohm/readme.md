@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o182
 * oomp_word: mushroom flags coffee
-* oomp_word_emoji: :mushroom: :flags: :coffee:
+* oomp_word_emoji :mushroom: :flags: :coffee:
 * md5_6_alpha: 42px0
-* md5_6: 6873b4* 
+* md5_6: 6873b4

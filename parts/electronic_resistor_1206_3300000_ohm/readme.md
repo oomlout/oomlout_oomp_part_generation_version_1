@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o335
 * oomp_word: speaker curry bus
-* oomp_word_emoji: :speaker: :curry: :bus:
+* oomp_word_emoji :speaker: :curry: :bus:
 * md5_6_alpha: 4zf8t
-* md5_6: 7fbbed* 
+* md5_6: 7fbbed

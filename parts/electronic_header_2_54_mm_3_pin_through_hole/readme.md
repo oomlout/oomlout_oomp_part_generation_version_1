@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi13pth
 * oomp_word: baseball shell ant
-* oomp_word_emoji: :baseball: :shell: :ant:
+* oomp_word_emoji :baseball: :shell: :ant:
 * md5_6_alpha: 5wpcf
-* md5_6: 976d4f* 
+* md5_6: 976d4f

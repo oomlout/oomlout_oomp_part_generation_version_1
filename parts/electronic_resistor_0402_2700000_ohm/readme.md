@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o275
 * oomp_word: monkey chestnut pizza
-* oomp_word_emoji: :monkey: :chestnut: :pizza:
+* oomp_word_emoji :monkey: :chestnut: :pizza:
 * md5_6_alpha: 2fohj
-* md5_6: 3e6bb7* 
+* md5_6: 3e6bb7

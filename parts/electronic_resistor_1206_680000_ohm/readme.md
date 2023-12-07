@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o684
 * oomp_word: star wolf coffee
-* oomp_word_emoji: :star: :wolf: :coffee:
+* oomp_word_emoji :star: :wolf: :coffee:
 * md5_6_alpha: ms38
-* md5_6: 1037b4* 
+* md5_6: 1037b4

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x16psm
 * oomp_word: airplane airplane skull
-* oomp_word_emoji: :airplane: :airplane: :skull:
+* oomp_word_emoji :airplane: :airplane: :skull:
 * md5_6_alpha: 90c2o
-* md5_6: e6e620* 
+* md5_6: e6e620

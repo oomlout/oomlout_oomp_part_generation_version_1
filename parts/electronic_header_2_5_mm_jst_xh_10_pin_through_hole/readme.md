@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh10pth
 * oomp_word: crown ocean rabbit
-* oomp_word_emoji: :crown: :ocean: :rabbit:
+* oomp_word_emoji :crown: :ocean: :rabbit:
 * md5_6_alpha: 6vho6
-* md5_6: b03136* 
+* md5_6: b03136

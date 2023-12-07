@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro183
 * oomp_word: elephant ox lemon
-* oomp_word_emoji: :elephant: :ox: :lemon:
+* oomp_word_emoji :elephant: :ox: :lemon:
 * md5_6_alpha: 2mmdl
-* md5_6: 435cc9* 
+* md5_6: 435cc9

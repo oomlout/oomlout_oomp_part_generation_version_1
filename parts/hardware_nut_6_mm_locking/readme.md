@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu6
 * oomp_word: heart zap cyclone
-* oomp_word_emoji: :heart: :zap: :cyclone:
+* oomp_word_emoji :heart: :zap: :cyclone:
 * md5_6_alpha: iii7
-* md5_6: 0d2e2f* 
+* md5_6: 0d2e2f

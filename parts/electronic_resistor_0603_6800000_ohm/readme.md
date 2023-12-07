@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o685
 * oomp_word: hammer office blush
-* oomp_word_emoji: :hammer: :office: :blush:
+* oomp_word_emoji :hammer: :office: :blush:
 * md5_6_alpha: 5dm9u
-* md5_6: 89d702* 
+* md5_6: 89d702

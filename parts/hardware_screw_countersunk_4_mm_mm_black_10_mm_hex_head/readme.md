@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb10
 * oomp_word: santa phone taxi
-* oomp_word_emoji: :santa: :phone: :taxi:
+* oomp_word_emoji :santa: :phone: :taxi:
 * md5_6_alpha: 4mfvw
-* md5_6: 767dec* 
+* md5_6: 767dec

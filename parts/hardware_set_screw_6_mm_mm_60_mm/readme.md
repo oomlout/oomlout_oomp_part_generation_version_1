@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss60
 * oomp_word: tram penguin books
-* oomp_word_emoji: :tram: :penguin: :books:
+* oomp_word_emoji :tram: :penguin: :books:
 * md5_6_alpha: 92aoj
-* md5_6: e84b93* 
+* md5_6: e84b93

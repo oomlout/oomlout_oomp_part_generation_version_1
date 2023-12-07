@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l3l
 * oomp_word: dolls ghost wink
-* oomp_word_emoji: :dolls: :ghost: :wink:
+* oomp_word_emoji :dolls: :ghost: :wink:
 * md5_6_alpha: 4grus
-* md5_6: 727504* 
+* md5_6: 727504

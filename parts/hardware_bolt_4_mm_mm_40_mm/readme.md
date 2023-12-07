@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b40
 * oomp_word: cloud shoe radio
-* oomp_word_emoji: :cloud: :shoe: :radio:
+* oomp_word_emoji :cloud: :shoe: :radio:
 * md5_6_alpha: 1pbpe
-* md5_6: 2ba882* 
+* md5_6: 2ba882

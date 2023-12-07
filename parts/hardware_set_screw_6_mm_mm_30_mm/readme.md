@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss30
 * oomp_word: lollipop lock cyclone
-* oomp_word_emoji: :lollipop: :lock: :cyclone:
+* oomp_word_emoji :lollipop: :lock: :cyclone:
 * md5_6_alpha: 7qucv
-* md5_6: c6832f* 
+* md5_6: c6832f

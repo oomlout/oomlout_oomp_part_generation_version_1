@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb90
 * oomp_word: lemon ocean paperclip
-* oomp_word_emoji: :lemon: :ocean: :paperclip:
+* oomp_word_emoji :lemon: :ocean: :paperclip:
 * md5_6_alpha: 7ulxu
-* md5_6: c93192* 
+* md5_6: c93192

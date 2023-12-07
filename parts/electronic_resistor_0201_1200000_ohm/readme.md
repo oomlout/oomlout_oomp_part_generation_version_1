@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro125
 * oomp_word: hamster nine leopard
-* oomp_word_emoji: :hamster: :nine: :leopard:
+* oomp_word_emoji :hamster: :nine: :leopard:
 * md5_6_alpha: 23tjz
-* md5_6: 35fa5f* 
+* md5_6: 35fa5f

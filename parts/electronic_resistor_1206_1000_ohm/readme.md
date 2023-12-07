@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o102
 * oomp_word: moon tractor bread
-* oomp_word_emoji: :moon: :tractor: :bread:
+* oomp_word_emoji :moon: :tractor: :bread:
 * md5_6_alpha: 4d7eo
-* md5_6: 6feac0* 
+* md5_6: 6feac0

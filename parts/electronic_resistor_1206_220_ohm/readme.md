@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o221
 * oomp_word: snake spades two
-* oomp_word_emoji: :snake: :spades: :two:
+* oomp_word_emoji :snake: :spades: :two:
 * md5_6_alpha: 2ps6r
-* md5_6: 459cf3* 
+* md5_6: 459cf3

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb8
 * oomp_word: herb question kiss
-* oomp_word_emoji: :herb: :question: :kiss:
+* oomp_word_emoji :herb: :question: :kiss:
 * md5_6_alpha: 40s9v
-* md5_6: 671323* 
+* md5_6: 671323

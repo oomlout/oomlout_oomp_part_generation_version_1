@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x11pth
 * oomp_word: ramen bath cupid
-* oomp_word_emoji: :ramen: :bath: :cupid:
+* oomp_word_emoji :ramen: :bath: :cupid:
 * md5_6_alpha: 7fmdq
-* md5_6: be860e* 
+* md5_6: be860e

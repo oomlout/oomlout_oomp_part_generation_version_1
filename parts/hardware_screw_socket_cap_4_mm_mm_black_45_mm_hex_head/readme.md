@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb45
 * oomp_word: hammer watch three
-* oomp_word_emoji: :hammer: :watch: :three:
+* oomp_word_emoji :hammer: :watch: :three:
 * md5_6_alpha: 5d5h0
-* md5_6: 8981f4* 
+* md5_6: 8981f4

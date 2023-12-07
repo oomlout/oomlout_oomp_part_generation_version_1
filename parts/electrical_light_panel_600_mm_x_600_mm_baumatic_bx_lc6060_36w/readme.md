@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: 
 * oomp_word: sparkles pizza blowfish
-* oomp_word_emoji: :sparkles: :pizza: :blowfish:
+* oomp_word_emoji :sparkles: :pizza: :blowfish:
 * md5_6_alpha: m2ql
-* md5_6: 0fb75d* 
+* md5_6: 0fb75d

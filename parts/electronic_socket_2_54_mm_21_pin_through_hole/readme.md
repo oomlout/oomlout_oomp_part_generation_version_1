@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci121pth
 * oomp_word: bread three wrench
-* oomp_word_emoji: :bread: :three: :wrench:
+* oomp_word_emoji :bread: :three: :wrench:
 * md5_6_alpha: 7j1c8
-* md5_6: c0f488* 
+* md5_6: c0f488

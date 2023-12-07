@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l5l
 * oomp_word: peach mouse camel
-* oomp_word_emoji: :peach: :mouse: :camel:
+* oomp_word_emoji :peach: :mouse: :camel:
 * md5_6_alpha: 81nb5
-* md5_6: ce3441* 
+* md5_6: ce3441

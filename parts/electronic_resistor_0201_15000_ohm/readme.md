@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro153
 * oomp_word: turtle hammer office
-* oomp_word_emoji: :turtle: :hammer: :office:
+* oomp_word_emoji :turtle: :hammer: :office:
 * md5_6_alpha: 2zidz
-* md5_6: 4c89d7* 
+* md5_6: 4c89d7

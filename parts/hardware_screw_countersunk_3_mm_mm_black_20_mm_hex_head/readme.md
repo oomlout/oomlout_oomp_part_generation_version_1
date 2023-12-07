@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb20
 * oomp_word: doughnut melon violin
-* oomp_word_emoji: :doughnut: :melon: :violin:
+* oomp_word_emoji :doughnut: :melon: :violin:
 * md5_6_alpha: 7k8ma
-* md5_6: c1cfa2* 
+* md5_6: c1cfa2

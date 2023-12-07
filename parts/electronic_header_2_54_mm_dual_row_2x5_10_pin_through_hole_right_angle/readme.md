@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x5pthra
 * oomp_word: penguin shell cherries
-* oomp_word_emoji: :penguin: :shell: :cherries:
+* oomp_word_emoji :penguin: :shell: :cherries:
 * md5_6_alpha: 2xya2
-* md5_6: 4b6dca* 
+* md5_6: 4b6dca

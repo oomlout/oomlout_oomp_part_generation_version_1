@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: dsod123pmt44148
 * oomp_word: hamster tea snake
-* oomp_word_emoji: :hamster: :tea: :snake:
+* oomp_word_emoji :hamster: :tea: :snake:
 * md5_6_alpha: 23fwl
-* md5_6: 35b545* 
+* md5_6: 35b545

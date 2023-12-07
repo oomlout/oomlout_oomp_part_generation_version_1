@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi127pths
 * oomp_word: eyeglasses rice apple
-* oomp_word_emoji: :eyeglasses: :rice: :apple:
+* oomp_word_emoji :eyeglasses: :rice: :apple:
 * md5_6_alpha: 70h54
-* md5_6: b3bdc8* 
+* md5_6: b3bdc8

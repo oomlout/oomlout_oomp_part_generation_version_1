@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x12psmra
 * oomp_word: coffee eight lips
-* oomp_word_emoji: :coffee: :eight: :lips:
+* oomp_word_emoji :coffee: :eight: :lips:
 * md5_6_alpha: 727fm
-* md5_6: b4f922* 
+* md5_6: b4f922

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: w2d5
 * oomp_word: toilet alien bear
-* oomp_word_emoji: :toilet: :alien: :bear:
+* oomp_word_emoji :toilet: :alien: :bear:
 * md5_6_alpha: 59p2z
-* md5_6: 870c3b* 
+* md5_6: 870c3b

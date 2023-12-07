@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb16
 * oomp_word: hammer water_buffalo computer
-* oomp_word_emoji: :hammer: :water_buffalo: :computer:
+* oomp_word_emoji :hammer: :water_buffalo: :computer:
 * md5_6_alpha: 5cxa3
-* md5_6: 89587b* 
+* md5_6: 89587b

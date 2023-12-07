@@ -22,6 +22,6 @@ An interposer between an i2c chip and a soic_14_wide package. This is the landin
 ### other_codes
 * short_code: insoic14wi2cland
 * oomp_word: pig five crocodile
-* oomp_word_emoji: :pig: :five: :crocodile:
+* oomp_word_emoji :pig: :five: :crocodile:
 * md5_6_alpha: 2dmqm
-* md5_6: 3cf65e* 
+* md5_6: 3cf65e

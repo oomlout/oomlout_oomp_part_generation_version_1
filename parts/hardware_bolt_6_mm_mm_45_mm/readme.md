@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b45
 * oomp_word: candy headphones cookie
-* oomp_word_emoji: :candy: :headphones: :cookie:
+* oomp_word_emoji :candy: :headphones: :cookie:
 * md5_6_alpha: 7pmmc
-* md5_6: c5a5c4* 
+* md5_6: c5a5c4

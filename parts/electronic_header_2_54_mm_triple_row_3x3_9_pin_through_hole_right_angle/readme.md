@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hthra
 * oomp_word: four alien cupid
-* oomp_word_emoji: :four: :alien: :cupid:
+* oomp_word_emoji :four: :alien: :cupid:
 * md5_6_alpha: 9k7im
-* md5_6: f50c0e* 
+* md5_6: f50c0e

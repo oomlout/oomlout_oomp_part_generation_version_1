@@ -22,6 +22,6 @@ A mini usb port free arduino compatible breakout
 ### other_codes
 * short_code: bbpmmcu328ac
 * oomp_word: sheep dress blush
-* oomp_word_emoji: :sheep: :dress: :blush:
+* oomp_word_emoji :sheep: :dress: :blush:
 * md5_6_alpha: 2lnnm
-* md5_6: 42ad02* 
+* md5_6: 42ad02

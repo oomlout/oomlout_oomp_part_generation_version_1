@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi121pths
 * oomp_word: hamburger princess boot
-* oomp_word_emoji: :hamburger: :princess: :boot:
+* oomp_word_emoji :hamburger: :princess: :boot:
 * md5_6_alpha: 76mqz
-* md5_6: b81fab* 
+* md5_6: b81fab

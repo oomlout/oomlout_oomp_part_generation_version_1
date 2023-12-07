@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o220
 * oomp_word: sunflower ghost violin
-* oomp_word_emoji: :sunflower: :ghost: :violin:
+* oomp_word_emoji :sunflower: :ghost: :violin:
 * md5_6_alpha: 3x40y
-* md5_6: 6475a2* 
+* md5_6: 6475a2

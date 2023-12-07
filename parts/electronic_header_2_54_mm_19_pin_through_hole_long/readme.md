@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi119pthl
 * oomp_word: apple cat ant
-* oomp_word_emoji: :apple: :cat: :ant:
+* oomp_word_emoji :apple: :cat: :ant:
 * md5_6_alpha: 7t7in
-* md5_6: c8324f* 
+* md5_6: c8324f

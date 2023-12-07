@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o185
 * oomp_word: house dolls dog
-* oomp_word_emoji: :house: :dolls: :dog:
+* oomp_word_emoji :house: :dolls: :dog:
 * md5_6_alpha: 8btir
-* md5_6: d57233* 
+* md5_6: d57233

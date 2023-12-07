@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu
 * oomp_word: book one rocket
-* oomp_word_emoji: :book: :one: :rocket:
+* oomp_word_emoji :book: :one: :rocket:
 * md5_6_alpha: 6fp45
-* md5_6: a4f2e5* 
+* md5_6: a4f2e5

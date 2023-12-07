@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o823
 * oomp_word: sunflower phone umbrella
-* oomp_word_emoji: :sunflower: :phone: :umbrella:
+* oomp_word_emoji :sunflower: :phone: :umbrella:
 * md5_6_alpha: 3x5ii
-* md5_6: 647d2a* 
+* md5_6: 647d2a

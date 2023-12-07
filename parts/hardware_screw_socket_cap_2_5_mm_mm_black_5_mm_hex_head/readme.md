@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb5
 * oomp_word: snake computer two
-* oomp_word_emoji: :snake: :computer: :two:
+* oomp_word_emoji :snake: :computer: :two:
 * md5_6_alpha: 2plo3
-* md5_6: 457bf3* 
+* md5_6: 457bf3

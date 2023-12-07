@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o822
 * oomp_word: octopus skull ox
-* oomp_word_emoji: :octopus: :skull: :ox:
+* oomp_word_emoji :octopus: :skull: :ox:
 * md5_6_alpha: 37cyk
-* md5_6: 52205c* 
+* md5_6: 52205c

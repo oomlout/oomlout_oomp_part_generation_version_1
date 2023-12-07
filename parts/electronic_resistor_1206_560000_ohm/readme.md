@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o564
 * oomp_word: pray tulip wink
-* oomp_word_emoji: :pray: :tulip: :wink:
+* oomp_word_emoji :pray: :tulip: :wink:
 * md5_6_alpha: znk4
-* md5_6: 196204* 
+* md5_6: 196204

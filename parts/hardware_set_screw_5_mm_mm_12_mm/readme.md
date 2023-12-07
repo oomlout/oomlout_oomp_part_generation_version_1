@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss12
 * oomp_word: tent fish tractor
-* oomp_word_emoji: :tent: :fish: :tractor:
+* oomp_word_emoji :tent: :fish: :tractor:
 * md5_6_alpha: 8k2y2
-* md5_6: db53ea* 
+* md5_6: db53ea

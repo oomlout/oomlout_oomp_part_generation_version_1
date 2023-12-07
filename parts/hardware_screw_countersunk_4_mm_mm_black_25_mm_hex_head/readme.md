@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb25
 * oomp_word: boat fries three
-* oomp_word_emoji: :boat: :fries: :three:
+* oomp_word_emoji :boat: :fries: :three:
 * md5_6_alpha: 8t2ic
-* md5_6: e1b9f4* 
+* md5_6: e1b9f4

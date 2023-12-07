@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: isnpt280
 * oomp_word: pig new_moon school
-* oomp_word_emoji: :pig: :new_moon: :school:
+* oomp_word_emoji :pig: :new_moon: :school:
 * md5_6_alpha: 2cvyu
-* md5_6: 3c6ed6* 
+* md5_6: 3c6ed6

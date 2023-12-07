@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o154
 * oomp_word: rice candy eyeglasses
-* oomp_word_emoji: :rice: :candy: :eyeglasses:
+* oomp_word_emoji :rice: :candy: :eyeglasses:
 * md5_6_alpha: 7ekdv
-* md5_6: bdc5b3* 
+* md5_6: bdc5b3

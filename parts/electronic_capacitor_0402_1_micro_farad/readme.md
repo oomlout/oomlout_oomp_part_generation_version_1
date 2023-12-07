@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: c4uf1
 * oomp_word: thumbsup dancer guitar
-* oomp_word_emoji: :thumbsup: :dancer: :guitar:
+* oomp_word_emoji :thumbsup: :dancer: :guitar:
 * md5_6_alpha: v25j
-* md5_6: 161ca7* 
+* md5_6: 161ca7

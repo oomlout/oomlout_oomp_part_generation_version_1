@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o390
 * oomp_word: angry maple_leaf turtle
-* oomp_word_emoji: :angry: :maple_leaf: :turtle:
+* oomp_word_emoji :angry: :maple_leaf: :turtle:
 * md5_6_alpha: d74c
-* md5_6: 09654c* 
+* md5_6: 09654c

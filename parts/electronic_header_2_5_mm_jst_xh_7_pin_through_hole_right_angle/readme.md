@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh7pthra
 * oomp_word: stars baby_chick egg
-* oomp_word_emoji: :stars: :baby_chick: :egg:
+* oomp_word_emoji :stars: :baby_chick: :egg:
 * md5_6_alpha: 8mtof
-* md5_6: dd47bf* 
+* md5_6: dd47bf

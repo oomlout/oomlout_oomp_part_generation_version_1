@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o393
 * oomp_word: lollipop sunglasses ok
-* oomp_word_emoji: :lollipop: :sunglasses: :ok:
+* oomp_word_emoji :lollipop: :sunglasses: :ok:
 * md5_6_alpha: 7q6t7
-* md5_6: c60bfb* 
+* md5_6: c60bfb

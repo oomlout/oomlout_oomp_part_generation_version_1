@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss25
 * oomp_word: golf telescope birthday
-* oomp_word_emoji: :golf: :telescope: :birthday:
+* oomp_word_emoji :golf: :telescope: :birthday:
 * md5_6_alpha: 6151e
-* md5_6: 9a95c2* 
+* md5_6: 9a95c2

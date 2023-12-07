@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi19pthra
 * oomp_word: chestnut sheep ghost
-* oomp_word_emoji: :chestnut: :sheep: :ghost:
+* oomp_word_emoji :chestnut: :sheep: :ghost:
 * md5_6_alpha: 46nw5
-* md5_6: 6b4275* 
+* md5_6: 6b4275

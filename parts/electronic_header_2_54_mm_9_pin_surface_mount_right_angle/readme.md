@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi19psmra
 * oomp_word: droplet flags hourglass
-* oomp_word_emoji: :droplet: :flags: :hourglass:
+* oomp_word_emoji :droplet: :flags: :hourglass:
 * md5_6_alpha: 1f79c
-* md5_6: 247380* 
+* md5_6: 247380

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o184
 * oomp_word: poop bread house
-* oomp_word_emoji: :poop: :bread: :house:
+* oomp_word_emoji :poop: :bread: :house:
 * md5_6_alpha: uk0l
-* md5_6: 15c0d5* 
+* md5_6: 15c0d5

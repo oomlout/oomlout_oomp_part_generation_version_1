@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l10l
 * oomp_word: bell kissing leopard
-* oomp_word_emoji: :bell: :kissing: :leopard:
+* oomp_word_emoji :bell: :kissing: :leopard:
 * md5_6_alpha: 4ol7j
-* md5_6: 78055f* 
+* md5_6: 78055f

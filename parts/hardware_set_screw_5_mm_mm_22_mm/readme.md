@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss22
 * oomp_word: cactus bread snail
-* oomp_word_emoji: :cactus: :bread: :snail:
+* oomp_word_emoji :cactus: :bread: :snail:
 * md5_6_alpha: 44jm9
-* md5_6: 69c051* 
+* md5_6: 69c051

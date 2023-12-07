@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci12pthl
 * oomp_word: peach kiss star
-* oomp_word_emoji: :peach: :kiss: :star:
+* oomp_word_emoji :peach: :kiss: :star:
 * md5_6_alpha: 81jww
-* md5_6: ce2310* 
+* md5_6: ce2310

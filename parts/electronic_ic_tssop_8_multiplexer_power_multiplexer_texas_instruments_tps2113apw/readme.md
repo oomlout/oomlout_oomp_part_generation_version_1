@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: itssp8mpptps2113
 * oomp_word: phone books water_buffalo
-* oomp_word_emoji: :phone: :books: :water_buffalo:
+* oomp_word_emoji :phone: :books: :water_buffalo:
 * md5_6_alpha: 4we3c
-* md5_6: 7d9358* 
+* md5_6: 7d9358

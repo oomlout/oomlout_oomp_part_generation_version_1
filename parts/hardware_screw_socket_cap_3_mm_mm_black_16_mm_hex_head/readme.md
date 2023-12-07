@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb16
 * oomp_word: foggy hamster train
-* oomp_word_emoji: :foggy: :hamster: :train:
+* oomp_word_emoji :foggy: :hamster: :train:
 * md5_6_alpha: 1vpww
-* md5_6: 3035f0* 
+* md5_6: 3035f0

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb6
 * oomp_word: spaghetti fountain shirt
-* oomp_word_emoji: :spaghetti: :fountain: :shirt:
+* oomp_word_emoji :spaghetti: :fountain: :shirt:
 * md5_6_alpha: 7aht8
-* md5_6: badfac* 
+* md5_6: badfac

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi138pthl
 * oomp_word: snowman truck clubs
-* oomp_word_emoji: :snowman: :truck: :clubs:
+* oomp_word_emoji :snowman: :truck: :clubs:
 * md5_6_alpha: 1sivy
-* md5_6: 2def9e* 
+* md5_6: 2def9e

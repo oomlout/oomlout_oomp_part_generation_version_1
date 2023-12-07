@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: imcup32mk1024
 * oomp_word: star pill scroll
-* oomp_word_emoji: :star: :pill: :scroll:
+* oomp_word_emoji :star: :pill: :scroll:
 * md5_6_alpha: n8ul
-* md5_6: 108c8d* 
+* md5_6: 108c8d

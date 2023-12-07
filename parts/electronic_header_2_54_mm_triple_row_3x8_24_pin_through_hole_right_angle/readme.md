@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hthra
 * oomp_word: bus tv leaves
-* oomp_word_emoji: :bus: :tv: :leaves:
+* oomp_word_emoji :bus: :tv: :leaves:
 * md5_6_alpha: 99l5y
-* md5_6: ed7c66* 
+* md5_6: ed7c66

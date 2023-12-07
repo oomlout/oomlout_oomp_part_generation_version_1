@@ -22,6 +22,6 @@ A common breakout format for a stepper motor driver
 ### other_codes
 * short_code: bbssmdsm
 * oomp_word: blossom microscope hotel
-* oomp_word_emoji: :blossom: :microscope: :hotel:
+* oomp_word_emoji :blossom: :microscope: :hotel:
 * md5_6_alpha: 48iqi
-* md5_6: 6c94da* 
+* md5_6: 6c94da

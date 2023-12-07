@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l3
 * oomp_word: dancer zap strawberry
-* oomp_word_emoji: :dancer: :zap: :strawberry:
+* oomp_word_emoji :dancer: :zap: :strawberry:
 * md5_6_alpha: 13l59
-* md5_6: 1c2ecd* 
+* md5_6: 1c2ecd

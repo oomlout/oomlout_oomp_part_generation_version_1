@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi127pth
 * oomp_word: thumbsdown fish shoe
-* oomp_word_emoji: :thumbsdown: :fish: :shoe:
+* oomp_word_emoji :thumbsdown: :fish: :shoe:
 * md5_6_alpha: wrl4
-* md5_6: 1753a8* 
+* md5_6: 1753a8

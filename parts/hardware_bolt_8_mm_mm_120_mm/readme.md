@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b
 * oomp_word: watermelon pizza thumbsdown
-* oomp_word_emoji: :watermelon: :pizza: :thumbsdown:
+* oomp_word_emoji :watermelon: :pizza: :thumbsdown:
 * md5_6_alpha: 7zk0n
-* md5_6: ccb717* 
+* md5_6: ccb717

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b60
 * oomp_word: balloon book hamster
-* oomp_word_emoji: :balloon: :book: :hamster:
+* oomp_word_emoji :balloon: :book: :hamster:
 * md5_6_alpha: 4qv5h
-* md5_6: 79a435* 
+* md5_6: 79a435

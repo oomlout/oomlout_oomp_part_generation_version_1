@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjsh8psmra
 * oomp_word: crocodile hotel egg
-* oomp_word_emoji: :crocodile: :hotel: :egg:
+* oomp_word_emoji :crocodile: :hotel: :egg:
 * md5_6_alpha: 3p8lb
-* md5_6: 5edabf* 
+* md5_6: 5edabf

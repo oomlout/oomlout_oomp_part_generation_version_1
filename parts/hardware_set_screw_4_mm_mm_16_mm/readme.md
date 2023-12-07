@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss16
 * oomp_word: chestnut briefcase factory
-* oomp_word_emoji: :chestnut: :briefcase: :factory:
+* oomp_word_emoji :chestnut: :briefcase: :factory:
 * md5_6_alpha: 479wc
-* md5_6: 6bb1dc* 
+* md5_6: 6bb1dc

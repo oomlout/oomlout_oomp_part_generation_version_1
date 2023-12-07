@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi115psm
 * oomp_word: sunny golf rowboat
-* oomp_word_emoji: :sunny: :golf: :rowboat:
+* oomp_word_emoji :sunny: :golf: :rowboat:
 * md5_6_alpha: 1mfvn
-* md5_6: 299ae3* 
+* md5_6: 299ae3

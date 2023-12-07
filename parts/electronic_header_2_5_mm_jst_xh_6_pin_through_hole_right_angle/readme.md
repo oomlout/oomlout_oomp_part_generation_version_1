@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh6pthra
 * oomp_word: thumbsup parking eyeglasses
-* oomp_word_emoji: :thumbsup: :parking: :eyeglasses:
+* oomp_word_emoji :thumbsup: :parking: :eyeglasses:
 * md5_6_alpha: walv
-* md5_6: 16fdb3* 
+* md5_6: 16fdb3

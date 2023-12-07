@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o330
 * oomp_word: sleepy lock heart
-* oomp_word_emoji: :sleepy: :lock: :heart:
+* oomp_word_emoji :sleepy: :lock: :heart:
 * md5_6_alpha: erkd
-* md5_6: 0a830d* 
+* md5_6: 0a830d

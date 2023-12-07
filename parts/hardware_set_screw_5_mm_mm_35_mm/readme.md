@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss35
 * oomp_word: dizzy tongue scream
-* oomp_word_emoji: :dizzy: :tongue: :scream:
+* oomp_word_emoji :dizzy: :tongue: :scream:
 * md5_6_alpha: o3k8
-* md5_6: 112808* 
+* md5_6: 112808

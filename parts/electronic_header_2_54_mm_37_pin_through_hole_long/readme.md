@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi137pthl
 * oomp_word: kiss santa scissors
-* oomp_word_emoji: :kiss: :santa: :scissors:
+* oomp_word_emoji :kiss: :santa: :scissors:
 * md5_6_alpha: 1dtao
-* md5_6: 237690* 
+* md5_6: 237690

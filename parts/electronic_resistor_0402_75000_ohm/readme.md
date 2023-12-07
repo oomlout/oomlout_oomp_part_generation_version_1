@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o753
 * oomp_word: tophat bouquet pear
-* oomp_word_emoji: :tophat: :bouquet: :pear:
+* oomp_word_emoji :tophat: :bouquet: :pear:
 * md5_6_alpha: 6ucpd
-* md5_6: af61d1* 
+* md5_6: af61d1

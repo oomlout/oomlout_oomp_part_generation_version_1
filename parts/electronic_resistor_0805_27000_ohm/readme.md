@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o273
 * oomp_word: ambulance rose dog
-* oomp_word_emoji: :ambulance: :rose: :dog:
+* oomp_word_emoji :ambulance: :rose: :dog:
 * md5_6_alpha: 9aur7
-* md5_6: ee6333* 
+* md5_6: ee6333

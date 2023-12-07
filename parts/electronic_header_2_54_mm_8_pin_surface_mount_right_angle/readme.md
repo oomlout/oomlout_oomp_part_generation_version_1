@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi18psmra
 * oomp_word: turtle ant egg
-* oomp_word_emoji: :turtle: :ant: :egg:
+* oomp_word_emoji :turtle: :ant: :egg:
 * md5_6_alpha: 2z6wv
-* md5_6: 4c4fbf* 
+* md5_6: 4c4fbf

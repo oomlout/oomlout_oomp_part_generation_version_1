@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss8
 * oomp_word: books tv moon
-* oomp_word_emoji: :books: :tv: :moon:
+* oomp_word_emoji :books: :tv: :moon:
 * md5_6_alpha: 5r627
-* md5_6: 937c6f* 
+* md5_6: 937c6f

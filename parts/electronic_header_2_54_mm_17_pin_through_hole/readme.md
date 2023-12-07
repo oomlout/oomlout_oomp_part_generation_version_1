@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi117pth
 * oomp_word: fireworks sparkles crocodile
-* oomp_word_emoji: :fireworks: :sparkles: :crocodile:
+* oomp_word_emoji :fireworks: :sparkles: :crocodile:
 * md5_6_alpha: 4j0wu
-* md5_6: 740f5e* 
+* md5_6: 740f5e

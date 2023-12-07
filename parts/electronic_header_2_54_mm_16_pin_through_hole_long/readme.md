@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi116pthl
 * oomp_word: tomato rainbow snowman
-* oomp_word_emoji: :tomato: :rainbow: :snowman:
+* oomp_word_emoji :tomato: :rainbow: :snowman:
 * md5_6_alpha: 89lpp
-* md5_6: d3de2d* 
+* md5_6: d3de2d

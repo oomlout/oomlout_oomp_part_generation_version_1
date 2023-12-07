@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o331
 * oomp_word: pray cry skull
-* oomp_word_emoji: :pray: :cry: :skull:
+* oomp_word_emoji :pray: :cry: :skull:
 * md5_6_alpha: z5ls
-* md5_6: 190720* 
+* md5_6: 190720

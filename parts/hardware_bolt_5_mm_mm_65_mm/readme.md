@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b65
 * oomp_word: three camel rainbow
-* oomp_word_emoji: :three: :camel: :rainbow:
+* oomp_word_emoji :three: :camel: :rainbow:
 * md5_6_alpha: 9j3ku
-* md5_6: f441de* 
+* md5_6: f441de

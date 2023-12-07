@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss50
 * oomp_word: birthday herb calendar
-* oomp_word_emoji: :birthday: :herb: :calendar:
+* oomp_word_emoji :birthday: :herb: :calendar:
 * md5_6_alpha: 7l2mn
-* md5_6: c2678f* 
+* md5_6: c2678f

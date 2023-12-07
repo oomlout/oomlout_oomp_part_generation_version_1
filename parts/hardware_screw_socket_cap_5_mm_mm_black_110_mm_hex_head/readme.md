@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb
 * oomp_word: rocket blush rainbow
-* oomp_word_emoji: :rocket: :blush: :rainbow:
+* oomp_word_emoji :rocket: :blush: :rainbow:
 * md5_6_alpha: 8xom6
-* md5_6: e502de* 
+* md5_6: e502de

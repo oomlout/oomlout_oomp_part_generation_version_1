@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o334
 * oomp_word: pineapple lemon birthday
-* oomp_word_emoji: :pineapple: :lemon: :birthday:
+* oomp_word_emoji :pineapple: :lemon: :birthday:
 * md5_6_alpha: 88342
-* md5_6: d2c9c2* 
+* md5_6: d2c9c2

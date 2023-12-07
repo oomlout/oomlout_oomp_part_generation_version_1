@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o151
 * oomp_word: jeans chestnut rose
-* oomp_word_emoji: :jeans: :chestnut: :rose:
+* oomp_word_emoji :jeans: :chestnut: :rose:
 * md5_6_alpha: 6t00z
-* md5_6: ae6b63* 
+* md5_6: ae6b63

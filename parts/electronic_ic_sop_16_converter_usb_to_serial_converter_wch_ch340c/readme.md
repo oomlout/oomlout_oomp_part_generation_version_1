@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: isp16ch340c
 * oomp_word: door tiger turtle
-* oomp_word_emoji: :door: :tiger: :turtle:
+* oomp_word_emoji :door: :tiger: :turtle:
 * md5_6_alpha: 5fk98
-* md5_6: 8b394c* 
+* md5_6: 8b394c

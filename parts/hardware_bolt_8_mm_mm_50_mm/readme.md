@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b50
 * oomp_word: tea crown muscle
-* oomp_word_emoji: :tea: :crown: :muscle:
+* oomp_word_emoji :tea: :crown: :muscle:
 * md5_6_alpha: 737kr
-* md5_6: b5b01b* 
+* md5_6: b5b01b

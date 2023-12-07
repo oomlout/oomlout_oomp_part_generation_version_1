@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o272
 * oomp_word: lipstick basketball lollipop
-* oomp_word_emoji: :lipstick: :basketball: :lollipop:
+* oomp_word_emoji :lipstick: :basketball: :lollipop:
 * md5_6_alpha: 6nmbq
-* md5_6: aa96c6* 
+* md5_6: aa96c6

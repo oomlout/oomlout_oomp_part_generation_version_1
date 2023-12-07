@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi134pth
 * oomp_word: watch ring sunflower
-* oomp_word_emoji: :watch: :ring: :sunflower:
+* oomp_word_emoji :watch: :ring: :sunflower:
 * md5_6_alpha: 522xw
-* md5_6: 81a064* 
+* md5_6: 81a064

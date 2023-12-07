@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l3g
 * oomp_word: chestnut eyes feet
-* oomp_word_emoji: :chestnut: :eyes: :feet:
+* oomp_word_emoji :chestnut: :eyes: :feet:
 * md5_6_alpha: 46iap
-* md5_6: 6b2621* 
+* md5_6: 6b2621

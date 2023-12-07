@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci117pthl
 * oomp_word: fire elephant koala
-* oomp_word_emoji: :fire: :elephant: :koala:
+* oomp_word_emoji :fire: :elephant: :koala:
 * md5_6_alpha: sgmy
-* md5_6: 14433a* 
+* md5_6: 14433a

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi11psmra
 * oomp_word: grin dizzy umbrella
-* oomp_word_emoji: :grin: :dizzy: :umbrella:
+* oomp_word_emoji :grin: :dizzy: :umbrella:
 * md5_6_alpha: 4b3e
-* md5_6: 03112a* 
+* md5_6: 03112a

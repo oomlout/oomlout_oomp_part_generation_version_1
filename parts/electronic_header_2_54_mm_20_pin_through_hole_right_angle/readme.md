@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi120pthra
 * oomp_word: bread bird ok
-* oomp_word_emoji: :bread: :bird: :ok:
+* oomp_word_emoji :bread: :bird: :ok:
 * md5_6_alpha: 7i323
-* md5_6: c046fb* 
+* md5_6: c046fb

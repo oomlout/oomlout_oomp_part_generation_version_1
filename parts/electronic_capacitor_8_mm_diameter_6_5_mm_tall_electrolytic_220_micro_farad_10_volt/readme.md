@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: c8d65tuf220v10
 * oomp_word: elephant cloud eyes
-* oomp_word_emoji: :elephant: :cloud: :eyes:
+* oomp_word_emoji :elephant: :cloud: :eyes:
 * md5_6_alpha: 2mckm
-* md5_6: 432b26* 
+* md5_6: 432b26

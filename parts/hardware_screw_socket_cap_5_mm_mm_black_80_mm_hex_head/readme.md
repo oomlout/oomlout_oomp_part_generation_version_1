@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb80
 * oomp_word: five camel fireworks
-* oomp_word_emoji: :five: :camel: :fireworks:
+* oomp_word_emoji :five: :camel: :fireworks:
 * md5_6_alpha: 9lwms
-* md5_6: f64174* 
+* md5_6: f64174

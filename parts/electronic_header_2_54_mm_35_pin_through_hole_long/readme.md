@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi135pthl
 * oomp_word: tomato chestnut bath
-* oomp_word_emoji: :tomato: :chestnut: :bath:
+* oomp_word_emoji :tomato: :chestnut: :bath:
 * md5_6_alpha: 88z2e
-* md5_6: d36b86* 
+* md5_6: d36b86

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi140pthl
 * oomp_word: pencil stars squirrel
-* oomp_word_emoji: :pencil: :stars: :squirrel:
+* oomp_word_emoji :pencil: :stars: :squirrel:
 * md5_6_alpha: 6e6b4
-* md5_6: a3dd70* 
+* md5_6: a3dd70

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb
 * oomp_word: car gift lollipop
-* oomp_word_emoji: :car: :gift: :lollipop:
+* oomp_word_emoji :car: :gift: :lollipop:
 * md5_6_alpha: 96r46
-* md5_6: eb77c6* 
+* md5_6: eb77c6

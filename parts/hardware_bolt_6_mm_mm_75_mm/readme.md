@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b75
 * oomp_word: watch dress tennis
-* oomp_word_emoji: :watch: :dress: :tennis:
+* oomp_word_emoji :watch: :dress: :tennis:
 * md5_6_alpha: 525js
-* md5_6: 81ad98* 
+* md5_6: 81ad98

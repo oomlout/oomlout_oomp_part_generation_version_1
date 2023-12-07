@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l6y
 * oomp_word: nose tent coffee
-* oomp_word_emoji: :nose: :tent: :coffee:
+* oomp_word_emoji :nose: :tent: :coffee:
 * md5_6_alpha: 1jzjo
-* md5_6: 27dbb4* 
+* md5_6: 27dbb4

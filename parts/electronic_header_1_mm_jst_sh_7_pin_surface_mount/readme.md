@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjsh7psm
 * oomp_word: pray tv calendar
-* oomp_word_emoji: :pray: :tv: :calendar:
+* oomp_word_emoji :pray: :tv: :calendar:
 * md5_6_alpha: zssv
-* md5_6: 197c8f* 
+* md5_6: 197c8f

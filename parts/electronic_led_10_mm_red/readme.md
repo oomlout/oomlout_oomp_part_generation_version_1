@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l10r
 * oomp_word: two ambulance mouse
-* oomp_word_emoji: :two: :ambulance: :mouse:
+* oomp_word_emoji :two: :ambulance: :mouse:
 * md5_6_alpha: 9in1w
-* md5_6: f3ee34* 
+* md5_6: f3ee34

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb20
 * oomp_word: sandal cherries shoe
-* oomp_word_emoji: :sandal: :cherries: :shoe:
+* oomp_word_emoji :sandal: :cherries: :shoe:
 * md5_6_alpha: 6mi08
-* md5_6: a9caa8* 
+* md5_6: a9caa8

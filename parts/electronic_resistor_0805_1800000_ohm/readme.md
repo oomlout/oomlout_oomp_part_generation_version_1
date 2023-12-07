@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o185
 * oomp_word: sparkles pray taxi
-* oomp_word_emoji: :sparkles: :pray: :taxi:
+* oomp_word_emoji :sparkles: :pray: :taxi:
 * md5_6_alpha: l7n0
-* md5_6: 0f19ec* 
+* md5_6: 0f19ec

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l5w
 * oomp_word: computer sparkles shoe
-* oomp_word_emoji: :computer: :sparkles: :shoe:
+* oomp_word_emoji :computer: :sparkles: :shoe:
 * md5_6_alpha: 4suy0
-* md5_6: 7b0fa8* 
+* md5_6: 7b0fa8

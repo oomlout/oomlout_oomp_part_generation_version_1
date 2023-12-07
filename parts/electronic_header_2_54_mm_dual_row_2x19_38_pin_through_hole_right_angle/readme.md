@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x19pthra
 * oomp_word: truck hotel clap
-* oomp_word_emoji: :truck: :hotel: :clap:
+* oomp_word_emoji :truck: :hotel: :clap:
 * md5_6_alpha: 9cwt6
-* md5_6: efda1a* 
+* md5_6: efda1a

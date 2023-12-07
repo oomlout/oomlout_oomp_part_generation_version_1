@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: w6
 * oomp_word: feet angry spaghetti
-* oomp_word_emoji: :feet: :angry: :spaghetti:
+* oomp_word_emoji :feet: :angry: :spaghetti:
 * md5_6_alpha: 1aenu
-* md5_6: 2109ba* 
+* md5_6: 2109ba

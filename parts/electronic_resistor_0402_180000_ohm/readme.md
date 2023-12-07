@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o184
 * oomp_word: seven jeans angel
-* oomp_word_emoji: :seven: :jeans: :angel:
+* oomp_word_emoji :seven: :jeans: :angel:
 * md5_6_alpha: 9pb8e
-* md5_6: f8ae1e* 
+* md5_6: f8ae1e

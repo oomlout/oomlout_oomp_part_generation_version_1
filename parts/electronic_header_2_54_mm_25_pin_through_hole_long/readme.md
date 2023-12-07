@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi125pthl
 * oomp_word: beer hatched_chick santa
-* oomp_word_emoji: :beer: :hatched_chick: :santa:
+* oomp_word_emoji :beer: :hatched_chick: :santa:
 * md5_6_alpha: 741o6
-* md5_6: b64876* 
+* md5_6: b64876

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b40
 * oomp_word: melon rice scream
-* oomp_word_emoji: :melon: :rice: :scream:
+* oomp_word_emoji :melon: :rice: :scream:
 * md5_6_alpha: 83sw8
-* md5_6: cfbd08* 
+* md5_6: cfbd08

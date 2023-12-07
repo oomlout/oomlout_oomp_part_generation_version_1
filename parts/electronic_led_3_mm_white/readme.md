@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l3w
 * oomp_word: balloon golf santa
-* oomp_word_emoji: :balloon: :golf: :santa:
+* oomp_word_emoji :balloon: :golf: :santa:
 * md5_6_alpha: 4qt86
-* md5_6: 799a76* 
+* md5_6: 799a76

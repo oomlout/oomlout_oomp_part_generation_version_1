@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjsh9psm
 * oomp_word: dog paperclip melon
-* oomp_word_emoji: :dog: :paperclip: :melon:
+* oomp_word_emoji :dog: :paperclip: :melon:
 * md5_6_alpha: 20fyn
-* md5_6: 3392cf* 
+* md5_6: 3392cf

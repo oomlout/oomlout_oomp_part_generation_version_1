@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b65
 * oomp_word: poop rabbit foggy
-* oomp_word_emoji: :poop: :rabbit: :foggy:
+* oomp_word_emoji :poop: :rabbit: :foggy:
 * md5_6_alpha: tsmo
-* md5_6: 153630* 
+* md5_6: 153630

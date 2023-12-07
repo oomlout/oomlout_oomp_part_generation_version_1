@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi139pthra
 * oomp_word: tram dolphin fire
-* oomp_word_emoji: :tram: :dolphin: :fire:
+* oomp_word_emoji :tram: :dolphin: :fire:
 * md5_6_alpha: 92ck4
-* md5_6: e85514* 
+* md5_6: e85514

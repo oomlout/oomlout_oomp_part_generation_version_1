@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss65
 * oomp_word: baby lips fish
-* oomp_word_emoji: :baby: :lips: :fish:
+* oomp_word_emoji :baby: :lips: :fish:
 * md5_6_alpha: 14x8z
-* md5_6: 1d2253* 
+* md5_6: 1d2253

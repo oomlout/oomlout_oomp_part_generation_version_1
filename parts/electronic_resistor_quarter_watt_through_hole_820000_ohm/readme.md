@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro824
 * oomp_word: fish scroll heart
-* oomp_word_emoji: :fish: :scroll: :heart:
+* oomp_word_emoji :fish: :scroll: :heart:
 * md5_6_alpha: 39czx
-* md5_6: 538d0d* 
+* md5_6: 538d0d

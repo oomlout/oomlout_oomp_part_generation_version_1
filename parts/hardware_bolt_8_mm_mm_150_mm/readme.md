@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b
 * oomp_word: frog sunny chestnut
-* oomp_word_emoji: :frog: :sunny: :chestnut:
+* oomp_word_emoji :frog: :sunny: :chestnut:
 * md5_6_alpha: 26vzf
-* md5_6: 38296b* 
+* md5_6: 38296b

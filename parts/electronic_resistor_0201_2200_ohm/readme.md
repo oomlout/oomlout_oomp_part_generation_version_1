@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro222
 * oomp_word: eyes penguin headphones
-* oomp_word_emoji: :eyes: :penguin: :headphones:
+* oomp_word_emoji :eyes: :penguin: :headphones:
 * md5_6_alpha: 1hsit
-* md5_6: 264ba5* 
+* md5_6: 264ba5

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o121
 * oomp_word: dolls moon radio
-* oomp_word_emoji: :dolls: :moon: :radio:
+* oomp_word_emoji :dolls: :moon: :radio:
 * md5_6_alpha: 4gqrm
-* md5_6: 726f82* 
+* md5_6: 726f82

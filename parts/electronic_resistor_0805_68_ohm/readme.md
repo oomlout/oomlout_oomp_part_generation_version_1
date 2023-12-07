@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o680
 * oomp_word: koala herb hand
-* oomp_word_emoji: :koala: :herb: :hand:
+* oomp_word_emoji :koala: :herb: :hand:
 * md5_6_alpha: 2a1aw
-* md5_6: 3a6718* 
+* md5_6: 3a6718

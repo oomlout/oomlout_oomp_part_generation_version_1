@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi118pthl
 * oomp_word: thumbsdown thumbsup elephant
-* oomp_word_emoji: :thumbsdown: :thumbsup: :elephant:
+* oomp_word_emoji :thumbsdown: :thumbsup: :elephant:
 * md5_6_alpha: wfgj
-* md5_6: 171643* 
+* md5_6: 171643

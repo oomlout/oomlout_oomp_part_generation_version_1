@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi125pthra
 * oomp_word: hamburger monkey horse
-* oomp_word_emoji: :hamburger: :monkey: :horse:
+* oomp_word_emoji :hamburger: :monkey: :horse:
 * md5_6_alpha: 76ssf
-* md5_6: b83e3f* 
+* md5_6: b83e3f

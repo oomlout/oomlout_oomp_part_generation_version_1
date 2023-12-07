@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hth
 * oomp_word: fish blush banana
-* oomp_word_emoji: :fish: :blush: :banana:
+* oomp_word_emoji :fish: :blush: :banana:
 * md5_6_alpha: 38low
-* md5_6: 5302d0* 
+* md5_6: 5302d0

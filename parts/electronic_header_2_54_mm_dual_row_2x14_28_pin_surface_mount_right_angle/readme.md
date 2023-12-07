@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x14psmra
 * oomp_word: tv grapes golf
-* oomp_word_emoji: :tv: :grapes: :golf:
+* oomp_word_emoji :tv: :grapes: :golf:
 * md5_6_alpha: 4vamy
-* md5_6: 7ccb9a* 
+* md5_6: 7ccb9a

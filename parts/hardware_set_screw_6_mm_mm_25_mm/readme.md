@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss25
 * oomp_word: camera ring flags
-* oomp_word_emoji: :camera: :ring: :flags:
+* oomp_word_emoji :camera: :ring: :flags:
 * md5_6_alpha: 4s8z7
-* md5_6: 7aa073* 
+* md5_6: 7aa073

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss80
 * oomp_word: airplane tent tennis
-* oomp_word_emoji: :airplane: :tent: :tennis:
+* oomp_word_emoji :airplane: :tent: :tennis:
 * md5_6_alpha: 909zs
-* md5_6: e6db98* 
+* md5_6: e6db98

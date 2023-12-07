@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjsh3psm
 * oomp_word: ant hatched_chick ramen
-* oomp_word_emoji: :ant: :hatched_chick: :ramen:
+* oomp_word_emoji :ant: :hatched_chick: :ramen:
 * md5_6_alpha: 33d8e
-* md5_6: 4f48be* 
+* md5_6: 4f48be

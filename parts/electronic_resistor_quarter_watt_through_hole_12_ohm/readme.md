@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro120
 * oomp_word: angel snake trident
-* oomp_word_emoji: :angel: :snake: :trident:
+* oomp_word_emoji :angel: :snake: :trident:
 * md5_6_alpha: 16iv3
-* md5_6: 1e45ff* 
+* md5_6: 1e45ff

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjsh6psm
 * oomp_word: poodle tulip envelope
-* oomp_word_emoji: :poodle: :tulip: :envelope:
+* oomp_word_emoji :poodle: :tulip: :envelope:
 * md5_6_alpha: 3rdze
-* md5_6: 60628a* 
+* md5_6: 60628a

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o105
 * oomp_word: ghost two squirrel
-* oomp_word_emoji: :ghost: :two: :squirrel:
+* oomp_word_emoji :ghost: :two: :squirrel:
 * md5_6_alpha: 4loj4
-* md5_6: 75f370* 
+* md5_6: 75f370

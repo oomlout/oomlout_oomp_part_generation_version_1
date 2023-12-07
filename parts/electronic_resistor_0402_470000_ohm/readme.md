@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o474
 * oomp_word: squirrel toilet watermelon
-* oomp_word_emoji: :squirrel: :toilet: :watermelon:
+* oomp_word_emoji :squirrel: :toilet: :watermelon:
 * md5_6_alpha: 4e2fg
-* md5_6: 7087cc* 
+* md5_6: 7087cc

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb45
 * oomp_word: headphones hatched_chick pineapple
-* oomp_word_emoji: :headphones: :hatched_chick: :pineapple:
+* oomp_word_emoji :headphones: :hatched_chick: :pineapple:
 * md5_6_alpha: 6g636
-* md5_6: a548d2* 
+* md5_6: a548d2

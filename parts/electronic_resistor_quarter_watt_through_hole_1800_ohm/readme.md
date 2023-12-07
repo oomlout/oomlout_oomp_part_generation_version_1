@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro182
 * oomp_word: blossom four kiss
-* oomp_word_emoji: :blossom: :four: :kiss:
+* oomp_word_emoji :blossom: :four: :kiss:
 * md5_6_alpha: 491r7
-* md5_6: 6cf523* 
+* md5_6: 6cf523

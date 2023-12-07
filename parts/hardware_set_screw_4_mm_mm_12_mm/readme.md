@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss12
 * oomp_word: muscle beer hospital
-* oomp_word_emoji: :muscle: :beer: :hospital:
+* oomp_word_emoji :muscle: :beer: :hospital:
 * md5_6_alpha: 12xg8
-* md5_6: 1bb6d8* 
+* md5_6: 1bb6d8

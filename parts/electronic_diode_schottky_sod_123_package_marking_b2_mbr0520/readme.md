@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: dssod123pmb2mbr0520
 * oomp_word: parking muscle ok
-* oomp_word_emoji: :parking: :muscle: :ok:
+* oomp_word_emoji :parking: :muscle: :ok:
 * md5_6_alpha: 9vj7f
-* md5_6: fd1bfb* 
+* md5_6: fd1bfb

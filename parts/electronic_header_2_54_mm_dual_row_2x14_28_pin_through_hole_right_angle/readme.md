@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x14pthra
 * oomp_word: candy three rat
-* oomp_word_emoji: :candy: :three: :rat:
+* oomp_word_emoji :candy: :three: :rat:
 * md5_6_alpha: 7q253
-* md5_6: c5f457* 
+* md5_6: c5f457

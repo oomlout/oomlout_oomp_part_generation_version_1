@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o560
 * oomp_word: question new_moon lemon
-* oomp_word_emoji: :question: :new_moon: :lemon:
+* oomp_word_emoji :question: :new_moon: :lemon:
 * md5_6_alpha: rao9
-* md5_6: 136ec9* 
+* md5_6: 136ec9

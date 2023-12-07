@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci128pthl
 * oomp_word: horse ramen droplet
-* oomp_word_emoji: :horse: :ramen: :droplet:
+* oomp_word_emoji :horse: :ramen: :droplet:
 * md5_6_alpha: 2hjc4
-* md5_6: 3fbe24* 
+* md5_6: 3fbe24

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci111pth
 * oomp_word: whale recycle clipboard
-* oomp_word_emoji: :whale: :recycle: :clipboard:
+* oomp_word_emoji :whale: :recycle: :clipboard:
 * md5_6_alpha: 3bdzi
-* md5_6: 54fe8e* 
+* md5_6: 54fe8e

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi14pth
 * oomp_word: blush ocean grapes
-* oomp_word_emoji: :blush: :ocean: :grapes:
+* oomp_word_emoji :blush: :ocean: :grapes:
 * md5_6_alpha: 32yz
-* md5_6: 0231cb* 
+* md5_6: 0231cb

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb25
 * oomp_word: cactus doughnut hearts
-* oomp_word_emoji: :cactus: :doughnut: :hearts:
+* oomp_word_emoji :cactus: :doughnut: :hearts:
 * md5_6_alpha: 44jvh
-* md5_6: 69c19d* 
+* md5_6: 69c19d

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o821
 * oomp_word: toilet kiss bath
-* oomp_word_emoji: :toilet: :kiss: :bath:
+* oomp_word_emoji :toilet: :kiss: :bath:
 * md5_6_alpha: 59tom
-* md5_6: 872386* 
+* md5_6: 872386

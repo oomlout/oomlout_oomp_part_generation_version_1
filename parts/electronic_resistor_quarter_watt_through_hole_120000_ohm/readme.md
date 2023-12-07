@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro124
 * oomp_word: sleepy corn blossom
-* oomp_word_emoji: :sleepy: :corn: :blossom:
+* oomp_word_emoji :sleepy: :corn: :blossom:
 * md5_6_alpha: f7n0
-* md5_6: 0ad46c* 
+* md5_6: 0ad46c

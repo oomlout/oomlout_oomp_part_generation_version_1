@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro820
 * oomp_word: corn moon moon
-* oomp_word_emoji: :corn: :moon: :moon:
+* oomp_word_emoji :corn: :moon: :moon:
 * md5_6_alpha: 8aeen
-* md5_6: d46f6f* 
+* md5_6: d46f6f

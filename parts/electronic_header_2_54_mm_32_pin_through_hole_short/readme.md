@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi132pths
 * oomp_word: six bouquet bird
-* oomp_word_emoji: :six: :bouquet: :bird:
+* oomp_word_emoji :six: :bouquet: :bird:
 * md5_6_alpha: 9nhhi
-* md5_6: f76146* 
+* md5_6: f76146

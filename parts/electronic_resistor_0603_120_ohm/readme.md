@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o121
 * oomp_word: radio water_buffalo tongue
-* oomp_word_emoji: :radio: :water_buffalo: :tongue:
+* oomp_word_emoji :radio: :water_buffalo: :tongue:
 * md5_6_alpha: 5338o
-* md5_6: 825828* 
+* md5_6: 825828

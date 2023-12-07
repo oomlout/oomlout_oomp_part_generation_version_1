@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb14
 * oomp_word: blowfish bell elephant
-* oomp_word_emoji: :blowfish: :bell: :elephant:
+* oomp_word_emoji :blowfish: :bell: :elephant:
 * md5_6_alpha: 3nakj
-* md5_6: 5d7843* 
+* md5_6: 5d7843

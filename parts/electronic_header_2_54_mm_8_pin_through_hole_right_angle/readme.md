@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi18pthra
 * oomp_word: peach factory bird
-* oomp_word_emoji: :peach: :factory: :bird:
+* oomp_word_emoji :peach: :factory: :bird:
 * md5_6_alpha: 82khy
-* md5_6: cedc46* 
+* md5_6: cedc46

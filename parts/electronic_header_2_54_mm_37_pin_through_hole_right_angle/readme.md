@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi137pthra
 * oomp_word: tractor cactus snowman
-* oomp_word_emoji: :tractor: :cactus: :snowman:
+* oomp_word_emoji :tractor: :cactus: :snowman:
 * md5_6_alpha: 959nx
-* md5_6: ea692d* 
+* md5_6: ea692d

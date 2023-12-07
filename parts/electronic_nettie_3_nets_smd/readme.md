@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nt3
 * oomp_word: hatching_chick elephant fire
-* oomp_word_emoji: :hatching_chick: :elephant: :fire:
+* oomp_word_emoji :hatching_chick: :elephant: :fire:
 * md5_6_alpha: 2uwpg
-* md5_6: 494314* 
+* md5_6: 494314

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o223
 * oomp_word: dolphin maple_leaf hatching_chick
-* oomp_word_emoji: :dolphin: :maple_leaf: :hatching_chick:
+* oomp_word_emoji :dolphin: :maple_leaf: :hatching_chick:
 * md5_6_alpha: 3bya1
-* md5_6: 556549* 
+* md5_6: 556549

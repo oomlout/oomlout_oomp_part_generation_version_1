@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi119psmra
 * oomp_word: mouse mushroom hotel
-* oomp_word_emoji: :mouse: :mushroom: :hotel:
+* oomp_word_emoji :mouse: :mushroom: :hotel:
 * md5_6_alpha: 21m8q
-* md5_6: 3468da* 
+* md5_6: 3468da

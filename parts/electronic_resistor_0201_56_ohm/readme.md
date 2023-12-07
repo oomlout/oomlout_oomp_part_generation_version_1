@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro560
 * oomp_word: cookie toilet rocket
-* oomp_word_emoji: :cookie: :toilet: :rocket:
+* oomp_word_emoji :cookie: :toilet: :rocket:
 * md5_6_alpha: 7o25h
-* md5_6: c487e5* 
+* md5_6: c487e5

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro122
 * oomp_word: apple shell bear
-* oomp_word_emoji: :apple: :shell: :bear:
+* oomp_word_emoji :apple: :shell: :bear:
 * md5_6_alpha: 7tj5n
-* md5_6: c86d3b* 
+* md5_6: c86d3b

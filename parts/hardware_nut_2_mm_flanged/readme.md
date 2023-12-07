@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu2
 * oomp_word: key snowman ant
-* oomp_word_emoji: :key: :snowman: :ant:
+* oomp_word_emoji :key: :snowman: :ant:
 * md5_6_alpha: 55nwv
-* md5_6: 842d4f* 
+* md5_6: 842d4f

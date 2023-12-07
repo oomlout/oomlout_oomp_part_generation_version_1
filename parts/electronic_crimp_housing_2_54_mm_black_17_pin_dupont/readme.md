@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: chi1b17pd
 * oomp_word: alien eight car
-* oomp_word_emoji: :alien: :eight: :car:
+* oomp_word_emoji :alien: :eight: :car:
 * md5_6_alpha: i86j
-* md5_6: 0cf9eb* 
+* md5_6: 0cf9eb

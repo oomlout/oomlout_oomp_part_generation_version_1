@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci114pthl
 * oomp_word: kiss speaker cry
-* oomp_word_emoji: :kiss: :speaker: :cry:
+* oomp_word_emoji :kiss: :speaker: :cry:
 * md5_6_alpha: 1duyv
-* md5_6: 237f07* 
+* md5_6: 237f07

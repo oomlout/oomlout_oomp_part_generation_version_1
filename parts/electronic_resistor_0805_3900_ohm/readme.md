@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o392
 * oomp_word: dizzy angel camera
-* oomp_word_emoji: :dizzy: :angel: :camera:
+* oomp_word_emoji :dizzy: :angel: :camera:
 * md5_6_alpha: o1oa
-* md5_6: 111e7a* 
+* md5_6: 111e7a

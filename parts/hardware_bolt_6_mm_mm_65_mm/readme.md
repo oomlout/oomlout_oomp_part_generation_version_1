@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b65
 * oomp_word: flags lips handbag
-* oomp_word_emoji: :flags: :lips: :handbag:
+* oomp_word_emoji :flags: :lips: :handbag:
 * md5_6_alpha: 4hq5u
-* md5_6: 7322b2* 
+* md5_6: 7322b2

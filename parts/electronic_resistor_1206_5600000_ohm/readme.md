@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o565
 * oomp_word: monkey tophat blowfish
-* oomp_word_emoji: :monkey: :tophat: :blowfish:
+* oomp_word_emoji :monkey: :tophat: :blowfish:
 * md5_6_alpha: 2g1ul
-* md5_6: 3eaf5d* 
+* md5_6: 3eaf5d

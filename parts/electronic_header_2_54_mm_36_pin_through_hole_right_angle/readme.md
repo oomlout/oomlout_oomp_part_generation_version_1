@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi136pthra
 * oomp_word: foggy camel dancer
-* oomp_word_emoji: :foggy: :camel: :dancer:
+* oomp_word_emoji :foggy: :camel: :dancer:
 * md5_6_alpha: 1vs4c
-* md5_6: 30411c* 
+* md5_6: 30411c

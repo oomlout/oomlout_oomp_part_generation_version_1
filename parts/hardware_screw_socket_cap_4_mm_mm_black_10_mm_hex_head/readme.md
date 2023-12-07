@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb10
 * oomp_word: pear pineapple sunflower
-* oomp_word_emoji: :pear: :pineapple: :sunflower:
+* oomp_word_emoji :pear: :pineapple: :sunflower:
 * md5_6_alpha: 86q90
-* md5_6: d1d264* 
+* md5_6: d1d264

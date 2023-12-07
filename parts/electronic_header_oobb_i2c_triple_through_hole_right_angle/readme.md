@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hob3thra
 * oomp_word: herb cherries beetle
-* oomp_word_emoji: :herb: :cherries: :beetle:
+* oomp_word_emoji :herb: :cherries: :beetle:
 * md5_6_alpha: 41sgg
-* md5_6: 67ca50* 
+* md5_6: 67ca50

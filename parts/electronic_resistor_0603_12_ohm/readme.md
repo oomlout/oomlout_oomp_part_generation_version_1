@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o120
 * oomp_word: poop dragon hamburger
-* oomp_word_emoji: :poop: :dragon: :hamburger:
+* oomp_word_emoji :poop: :dragon: :hamburger:
 * md5_6_alpha: tznc
-* md5_6: 1559b8* 
+* md5_6: 1559b8

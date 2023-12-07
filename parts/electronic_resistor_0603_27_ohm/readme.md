@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o270
 * oomp_word: rocket telescope house
-* oomp_word_emoji: :rocket: :telescope: :house:
+* oomp_word_emoji :rocket: :telescope: :house:
 * md5_6_alpha: 8yhn9
-* md5_6: e595d5* 
+* md5_6: e595d5

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hthra
 * oomp_word: bug bike grapes
-* oomp_word_emoji: :bug: :bike: :grapes:
+* oomp_word_emoji :bug: :bike: :grapes:
 * md5_6_alpha: 31fwr
-* md5_6: 4de9cb* 
+* md5_6: 4de9cb

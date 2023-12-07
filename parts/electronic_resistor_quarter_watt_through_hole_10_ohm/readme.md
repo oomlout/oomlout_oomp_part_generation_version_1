@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro100
 * oomp_word: beer diamonds lemon
-* oomp_word_emoji: :beer: :diamonds: :lemon:
+* oomp_word_emoji :beer: :diamonds: :lemon:
 * md5_6_alpha: 74ix5
-* md5_6: b69fc9* 
+* md5_6: b69fc9

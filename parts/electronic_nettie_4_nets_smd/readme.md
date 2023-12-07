@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nt4
 * oomp_word: strawberry dolls cry
-* oomp_word_emoji: :strawberry: :dolls: :cry:
+* oomp_word_emoji :strawberry: :dolls: :cry:
 * md5_6_alpha: 80kxz
-* md5_6: cd7207* 
+* md5_6: cd7207

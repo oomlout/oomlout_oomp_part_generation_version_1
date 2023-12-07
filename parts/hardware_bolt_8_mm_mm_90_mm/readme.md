@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b90
 * oomp_word: skull birthday alien
-* oomp_word_emoji: :skull: :birthday: :alien:
+* oomp_word_emoji :skull: :birthday: :alien:
 * md5_6_alpha: 1a0i4
-* md5_6: 20c20c* 
+* md5_6: 20c20c

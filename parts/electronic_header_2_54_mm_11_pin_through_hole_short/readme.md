@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi111pths
 * oomp_word: squirrel santa bowling
-* oomp_word_emoji: :squirrel: :santa: :bowling:
+* oomp_word_emoji :squirrel: :santa: :bowling:
 * md5_6_alpha: 4dz15
-* md5_6: 707699* 
+* md5_6: 707699

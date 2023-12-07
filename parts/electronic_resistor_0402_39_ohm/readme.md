@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o390
 * oomp_word: kissing angel golf
-* oomp_word_emoji: :kissing: :angel: :golf:
+* oomp_word_emoji :kissing: :angel: :golf:
 * md5_6_alpha: 76vu
-* md5_6: 051e9a* 
+* md5_6: 051e9a

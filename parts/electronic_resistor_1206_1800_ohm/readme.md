@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o182
 * oomp_word: bird turtle rose
-* oomp_word_emoji: :bird: :turtle: :rose:
+* oomp_word_emoji :bird: :turtle: :rose:
 * md5_6_alpha: 2qqub
-* md5_6: 464c63* 
+* md5_6: 464c63

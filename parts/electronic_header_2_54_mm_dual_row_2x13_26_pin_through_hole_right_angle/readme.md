@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x13pthra
 * oomp_word: wolf toilet squirrel
-* oomp_word_emoji: :wolf: :toilet: :squirrel:
+* oomp_word_emoji :wolf: :toilet: :squirrel:
 * md5_6_alpha: 25zzk
-* md5_6: 378770* 
+* md5_6: 378770

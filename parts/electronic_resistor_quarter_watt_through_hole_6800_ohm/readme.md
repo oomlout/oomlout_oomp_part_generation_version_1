@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro682
 * oomp_word: trophy elephant tram
-* oomp_word_emoji: :trophy: :elephant: :tram:
+* oomp_word_emoji :trophy: :elephant: :tram:
 * md5_6_alpha: 6aiug
-* md5_6: a143e8* 
+* md5_6: a143e8

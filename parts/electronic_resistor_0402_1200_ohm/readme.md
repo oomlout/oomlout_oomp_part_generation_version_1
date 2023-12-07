@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o122
 * oomp_word: camel frog mushroom
-* oomp_word_emoji: :camel: :frog: :mushroom:
+* oomp_word_emoji :camel: :frog: :mushroom:
 * md5_6_alpha: 2jm20
-* md5_6: 413868* 
+* md5_6: 413868

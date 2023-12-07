@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss10
 * oomp_word: speaker basketball recycle
-* oomp_word_emoji: :speaker: :basketball: :recycle:
+* oomp_word_emoji :speaker: :basketball: :recycle:
 * md5_6_alpha: 4z7y6
-* md5_6: 7f96fe* 
+* md5_6: 7f96fe

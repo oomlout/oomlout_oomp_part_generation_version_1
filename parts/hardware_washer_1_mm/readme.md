@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: w1
 * oomp_word: cherries door angel
-* oomp_word_emoji: :cherries: :door: :angel:
+* oomp_word_emoji :cherries: :door: :angel:
 * md5_6_alpha: 7wi72
-* md5_6: ca8b1e* 
+* md5_6: ca8b1e

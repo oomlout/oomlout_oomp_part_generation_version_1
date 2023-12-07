@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12psmra
 * oomp_word: angry guitar handbag
-* oomp_word_emoji: :angry: :guitar: :handbag:
+* oomp_word_emoji :angry: :guitar: :handbag:
 * md5_6_alpha: dk8i
-* md5_6: 09a7b2* 
+* md5_6: 09a7b2

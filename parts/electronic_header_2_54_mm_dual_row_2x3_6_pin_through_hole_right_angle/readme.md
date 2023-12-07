@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x3pthra
 * oomp_word: sleepy gift blossom
-* oomp_word_emoji: :sleepy: :gift: :blossom:
+* oomp_word_emoji :sleepy: :gift: :blossom:
 * md5_6_alpha: ep9o
-* md5_6: 0a776c* 
+* md5_6: 0a776c

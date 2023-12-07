@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b45
 * oomp_word: jeans ramen cake
-* oomp_word_emoji: :jeans: :ramen: :cake:
+* oomp_word_emoji :jeans: :ramen: :cake:
 * md5_6_alpha: 6tghv
-* md5_6: aebec3* 
+* md5_6: aebec3

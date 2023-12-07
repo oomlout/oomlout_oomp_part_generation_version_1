@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o122
 * oomp_word: corn strawberry camera
-* oomp_word_emoji: :corn: :strawberry: :camera:
+* oomp_word_emoji :corn: :strawberry: :camera:
 * md5_6_alpha: 8awze
-* md5_6: d4cd7a* 
+* md5_6: d4cd7a

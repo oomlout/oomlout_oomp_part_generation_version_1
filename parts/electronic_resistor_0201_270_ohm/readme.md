@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro271
 * oomp_word: penguin cloud ship
-* oomp_word_emoji: :penguin: :cloud: :ship:
+* oomp_word_emoji :penguin: :cloud: :ship:
 * md5_6_alpha: 2xl9c
-* md5_6: 4b2be0* 
+* md5_6: 4b2be0

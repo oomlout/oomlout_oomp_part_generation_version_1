@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro182
 * oomp_word: pizza tractor horse
-* oomp_word_emoji: :pizza: :tractor: :horse:
+* oomp_word_emoji :pizza: :tractor: :horse:
 * md5_6_alpha: 76c73
-* md5_6: b7ea3f* 
+* md5_6: b7ea3f

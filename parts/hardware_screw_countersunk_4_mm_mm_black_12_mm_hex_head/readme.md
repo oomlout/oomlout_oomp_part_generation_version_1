@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb12
 * oomp_word: cry poop lollipop
-* oomp_word_emoji: :cry: :poop: :lollipop:
+* oomp_word_emoji :cry: :poop: :lollipop:
 * md5_6_alpha: 9y9y
-* md5_6: 0715c6* 
+* md5_6: 0715c6

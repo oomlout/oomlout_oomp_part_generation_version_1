@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro564
 * oomp_word: peach hourglass crocodile
-* oomp_word_emoji: :peach: :hourglass: :crocodile:
+* oomp_word_emoji :peach: :hourglass: :crocodile:
 * md5_6_alpha: 822ce
-* md5_6: ce805e* 
+* md5_6: ce805e

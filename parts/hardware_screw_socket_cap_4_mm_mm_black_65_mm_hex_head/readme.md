@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb65
 * oomp_word: clubs hospital bear
-* oomp_word_emoji: :clubs: :hospital: :bear:
+* oomp_word_emoji :clubs: :hospital: :bear:
 * md5_6_alpha: 674fv
-* md5_6: 9ed83b* 
+* md5_6: 9ed83b

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o750
 * oomp_word: office ski fire
-* oomp_word_emoji: :office: :ski: :fire:
+* oomp_word_emoji :office: :ski: :fire:
 * md5_6_alpha: 8euqc
-* md5_6: d79b14* 
+* md5_6: d79b14

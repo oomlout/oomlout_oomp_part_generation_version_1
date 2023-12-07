@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi125pths
 * oomp_word: bouquet telescope tennis
-* oomp_word_emoji: :bouquet: :telescope: :tennis:
+* oomp_word_emoji :bouquet: :telescope: :tennis:
 * md5_6_alpha: 3t2mw
-* md5_6: 619598* 
+* md5_6: 619598

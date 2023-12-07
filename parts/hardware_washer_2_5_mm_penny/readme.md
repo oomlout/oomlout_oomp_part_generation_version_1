@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: w2d5
 * oomp_word: nine pray doughnut
-* oomp_word_emoji: :nine: :pray: :doughnut:
+* oomp_word_emoji :nine: :pray: :doughnut:
 * md5_6_alpha: 9rb29
-* md5_6: fa19c1* 
+* md5_6: fa19c1

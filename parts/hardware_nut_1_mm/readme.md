@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu1
 * oomp_word: wink tophat snowflake
-* oomp_word_emoji: :wink: :tophat: :snowflake:
+* oomp_word_emoji :wink: :tophat: :snowflake:
 * md5_6_alpha: 6kvg
-* md5_6: 04af2c* 
+* md5_6: 04af2c

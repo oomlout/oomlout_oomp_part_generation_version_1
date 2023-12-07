@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o391
 * oomp_word: rat boat tongue
-* oomp_word_emoji: :rat: :boat: :tongue:
+* oomp_word_emoji :rat: :boat: :tongue:
 * md5_6_alpha: 3ffvs
-* md5_6: 57e128* 
+* md5_6: 57e128

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi131pths
 * oomp_word: ram turtle angel
-* oomp_word_emoji: :ram: :turtle: :angel:
+* oomp_word_emoji :ram: :turtle: :angel:
 * md5_6_alpha: 3d7vi
-* md5_6: 564c1e* 
+* md5_6: 564c1e

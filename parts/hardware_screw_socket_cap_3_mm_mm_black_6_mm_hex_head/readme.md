@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb6
 * oomp_word: ghost alien ear
-* oomp_word_emoji: :ghost: :alien: :ear:
+* oomp_word_emoji :ghost: :alien: :ear:
 * md5_6_alpha: 4keud
-* md5_6: 750c25* 
+* md5_6: 750c25

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi15pth
 * oomp_word: fountain bird wrench
-* oomp_word_emoji: :fountain: :bird: :wrench:
+* oomp_word_emoji :fountain: :bird: :wrench:
 * md5_6_alpha: 8pmko
-* md5_6: df4688* 
+* md5_6: df4688

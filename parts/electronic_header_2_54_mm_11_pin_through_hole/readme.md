@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi111pth
 * oomp_word: book bulb tea
-* oomp_word_emoji: :book: :bulb: :tea:
+* oomp_word_emoji :book: :bulb: :tea:
 * md5_6_alpha: 6f3jp
-* md5_6: a485b5* 
+* md5_6: a485b5

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x4psm
 * oomp_word: spaghetti lollipop briefcase
-* oomp_word_emoji: :spaghetti: :lollipop: :briefcase:
+* oomp_word_emoji :spaghetti: :lollipop: :briefcase:
 * md5_6_alpha: 7acvl
-* md5_6: bac6b1* 
+* md5_6: bac6b1

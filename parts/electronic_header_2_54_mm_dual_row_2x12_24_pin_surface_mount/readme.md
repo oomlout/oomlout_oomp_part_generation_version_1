@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x12psm
 * oomp_word: balloon factory turtle
-* oomp_word_emoji: :balloon: :factory: :turtle:
+* oomp_word_emoji :balloon: :factory: :turtle:
 * md5_6_alpha: 4r68c
-* md5_6: 79dc4c* 
+* md5_6: 79dc4c

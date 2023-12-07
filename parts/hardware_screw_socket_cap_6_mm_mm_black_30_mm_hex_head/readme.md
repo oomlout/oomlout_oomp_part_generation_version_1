@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb30
 * oomp_word: skull tulip turtle
-* oomp_word_emoji: :skull: :tulip: :turtle:
+* oomp_word_emoji :skull: :tulip: :turtle:
 * md5_6_alpha: 19hl8
-* md5_6: 20624c* 
+* md5_6: 20624c

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x8psmra
 * oomp_word: octopus sleepy wink
-* oomp_word_emoji: :octopus: :sleepy: :wink:
+* oomp_word_emoji :octopus: :sleepy: :wink:
 * md5_6_alpha: 378jo
-* md5_6: 520a04* 
+* md5_6: 520a04

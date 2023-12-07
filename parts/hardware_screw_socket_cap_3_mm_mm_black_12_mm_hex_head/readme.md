@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb12
 * oomp_word: cookie princess pray
-* oomp_word_emoji: :cookie: :princess: :pray:
+* oomp_word_emoji :cookie: :princess: :pray:
 * md5_6_alpha: 7nhg9
-* md5_6: c41f19* 
+* md5_6: c41f19

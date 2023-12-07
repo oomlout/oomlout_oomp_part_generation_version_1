@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x7psmra
 * oomp_word: cloud octopus mushroom
-* oomp_word_emoji: :cloud: :octopus: :mushroom:
+* oomp_word_emoji :cloud: :octopus: :mushroom:
 * md5_6_alpha: 1oup4
-* md5_6: 2b5268* 
+* md5_6: 2b5268

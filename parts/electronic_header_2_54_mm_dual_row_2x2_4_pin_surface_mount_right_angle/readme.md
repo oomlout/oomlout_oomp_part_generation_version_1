@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x2psmra
 * oomp_word: chestnut apple boot
-* oomp_word_emoji: :chestnut: :apple: :boot:
+* oomp_word_emoji :chestnut: :apple: :boot:
 * md5_6_alpha: 47eej
-* md5_6: 6bc8ab* 
+* md5_6: 6bc8ab

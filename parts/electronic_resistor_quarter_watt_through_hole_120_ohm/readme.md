@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro121
 * oomp_word: lipstick parking apple
-* oomp_word_emoji: :lipstick: :parking: :apple:
+* oomp_word_emoji :lipstick: :parking: :apple:
 * md5_6_alpha: 6o6o8
-* md5_6: aafdc8* 
+* md5_6: aafdc8

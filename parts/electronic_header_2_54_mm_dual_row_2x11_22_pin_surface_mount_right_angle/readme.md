@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x11psmra
 * oomp_word: eyes spades jeans
-* oomp_word_emoji: :eyes: :spades: :jeans:
+* oomp_word_emoji :eyes: :spades: :jeans:
 * md5_6_alpha: 1i8j2
-* md5_6: 269cae* 
+* md5_6: 269cae

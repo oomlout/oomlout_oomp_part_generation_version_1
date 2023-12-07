@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro750
 * oomp_word: lipstick dolls cactus
-* oomp_word_emoji: :lipstick: :dolls: :cactus:
+* oomp_word_emoji :lipstick: :dolls: :cactus:
 * md5_6_alpha: 6nf55
-* md5_6: aa7269* 
+* md5_6: aa7269

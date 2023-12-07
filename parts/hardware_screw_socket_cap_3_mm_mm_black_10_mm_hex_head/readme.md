@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb10
 * oomp_word: hand jeans four
-* oomp_word_emoji: :hand: :jeans: :four:
+* oomp_word_emoji :hand: :jeans: :four:
 * md5_6_alpha: yo6t
-* md5_6: 18aef5* 
+* md5_6: 18aef5

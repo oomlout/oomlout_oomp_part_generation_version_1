@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l8
 * oomp_word: scroll leaves bug
-* oomp_word_emoji: :scroll: :leaves: :bug:
+* oomp_word_emoji :scroll: :leaves: :bug:
 * md5_6_alpha: 5ima5
-* md5_6: 8d664d* 
+* md5_6: 8d664d

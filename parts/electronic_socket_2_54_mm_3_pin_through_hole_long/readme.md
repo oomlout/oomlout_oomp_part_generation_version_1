@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci13pthl
 * oomp_word: ghost honey_pot thumbsdown
-* oomp_word_emoji: :ghost: :honey_pot: :thumbsdown:
+* oomp_word_emoji :ghost: :honey_pot: :thumbsdown:
 * md5_6_alpha: 4lfrr
-* md5_6: 75c717* 
+* md5_6: 75c717

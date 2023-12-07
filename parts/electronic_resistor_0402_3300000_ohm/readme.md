@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o335
 * oomp_word: paperclip bulb poodle
-* oomp_word_emoji: :paperclip: :bulb: :poodle:
+* oomp_word_emoji :paperclip: :bulb: :poodle:
 * md5_6_alpha: 5pt9c
-* md5_6: 928560* 
+* md5_6: 928560

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o750
 * oomp_word: mouse octopus scroll
-* oomp_word_emoji: :mouse: :octopus: :scroll:
+* oomp_word_emoji :mouse: :octopus: :scroll:
 * md5_6_alpha: 21hu5
-* md5_6: 34528d* 
+* md5_6: 34528d

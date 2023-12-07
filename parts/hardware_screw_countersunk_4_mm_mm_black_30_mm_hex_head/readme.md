@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb30
 * oomp_word: sheep office lips
-* oomp_word_emoji: :sheep: :office: :lips:
+* oomp_word_emoji :sheep: :office: :lips:
 * md5_6_alpha: 2lvz6
-* md5_6: 42d722* 
+* md5_6: 42d722

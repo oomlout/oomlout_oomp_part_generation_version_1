@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: w5
 * oomp_word: watch helicopter sunny
-* oomp_word_emoji: :watch: :helicopter: :sunny:
+* oomp_word_emoji :watch: :helicopter: :sunny:
 * md5_6_alpha: 52gx5
-* md5_6: 81e729* 
+* md5_6: 81e729

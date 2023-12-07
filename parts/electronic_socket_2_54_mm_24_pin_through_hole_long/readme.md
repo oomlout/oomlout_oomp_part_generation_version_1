@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci124pthl
 * oomp_word: droplet wrench ram
-* oomp_word_emoji: :droplet: :wrench: :ram:
+* oomp_word_emoji :droplet: :wrench: :ram:
 * md5_6_alpha: 1fbdi
-* md5_6: 248856* 
+* md5_6: 248856

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: chi1b14pd
 * oomp_word: key snowflake two
-* oomp_word_emoji: :key: :snowflake: :two:
+* oomp_word_emoji :key: :snowflake: :two:
 * md5_6_alpha: 55nub
-* md5_6: 842cf3* 
+* md5_6: 842cf3

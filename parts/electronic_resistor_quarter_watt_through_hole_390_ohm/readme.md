@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro391
 * oomp_word: rowboat sunglasses ram
-* oomp_word_emoji: :rowboat: :sunglasses: :ram:
+* oomp_word_emoji :rowboat: :sunglasses: :ram:
 * md5_6_alpha: 8ux5i
-* md5_6: e30b56* 
+* md5_6: e30b56

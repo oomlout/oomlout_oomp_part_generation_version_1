@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjsh10psmra
 * oomp_word: headphones bank hand
-* oomp_word_emoji: :headphones: :bank: :hand:
+* oomp_word_emoji :headphones: :bank: :hand:
 * md5_6_alpha: 6gyl4
-* md5_6: a5d918* 
+* md5_6: a5d918

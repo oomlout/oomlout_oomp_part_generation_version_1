@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci127pthl
 * oomp_word: cherries scream bell
-* oomp_word_emoji: :cherries: :scream: :bell:
+* oomp_word_emoji :cherries: :scream: :bell:
 * md5_6_alpha: 7vse0
-* md5_6: ca0878* 
+* md5_6: ca0878

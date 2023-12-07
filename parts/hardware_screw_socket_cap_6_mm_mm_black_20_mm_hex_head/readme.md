@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb20
 * oomp_word: clipboard wrench curry
-* oomp_word_emoji: :clipboard: :wrench: :curry:
+* oomp_word_emoji :clipboard: :wrench: :curry:
 * md5_6_alpha: 5k7nf
-* md5_6: 8e88bb* 
+* md5_6: 8e88bb

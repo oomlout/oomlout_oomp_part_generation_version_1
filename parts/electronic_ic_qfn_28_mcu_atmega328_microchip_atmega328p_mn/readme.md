@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: iq28mcuat328
 * oomp_word: honeybee pig car
-* oomp_word_emoji: :honeybee: :pig: :car:
+* oomp_word_emoji :honeybee: :pig: :car:
 * md5_6_alpha: 31wbv
-* md5_6: 4e3ceb* 
+* md5_6: 4e3ceb

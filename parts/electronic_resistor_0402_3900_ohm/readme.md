@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o392
 * oomp_word: pencil hearts pencil
-* oomp_word_emoji: :pencil: :hearts: :pencil:
+* oomp_word_emoji :pencil: :hearts: :pencil:
 * md5_6_alpha: 6dtpf
-* md5_6: a39da3* 
+* md5_6: a39da3

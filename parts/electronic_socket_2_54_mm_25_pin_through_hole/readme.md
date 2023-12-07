@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci125pth
 * oomp_word: dragon bike nine
-* oomp_word_emoji: :dragon: :bike: :nine:
+* oomp_word_emoji :dragon: :bike: :nine:
 * md5_6_alpha: 3iare
-* md5_6: 59e9fa* 
+* md5_6: 59e9fa

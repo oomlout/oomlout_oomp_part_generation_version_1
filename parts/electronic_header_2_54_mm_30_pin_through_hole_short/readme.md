@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi130pths
 * oomp_word: ticket pear ring
-* oomp_word_emoji: :ticket: :pear: :ring:
+* oomp_word_emoji :ticket: :pear: :ring:
 * md5_6_alpha: 9fo9s
-* md5_6: f1d1a0* 
+* md5_6: f1d1a0

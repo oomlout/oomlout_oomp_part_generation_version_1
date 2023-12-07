@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu2
 * oomp_word: ocean wolf palm_tree
-* oomp_word_emoji: :ocean: :wolf: :palm_tree:
+* oomp_word_emoji :ocean: :wolf: :palm_tree:
 * md5_6_alpha: 1x4ru
-* md5_6: 31376a* 
+* md5_6: 31376a

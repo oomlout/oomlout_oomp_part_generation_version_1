@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb65
 * oomp_word: office rowboat cyclone
-* oomp_word_emoji: :office: :rowboat: :cyclone:
+* oomp_word_emoji :office: :rowboat: :cyclone:
 * md5_6_alpha: 8f8z3
-* md5_6: d7e32f* 
+* md5_6: d7e32f

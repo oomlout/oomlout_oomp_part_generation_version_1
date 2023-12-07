@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o751
 * oomp_word: ram school santa
-* oomp_word_emoji: :ram: :school: :santa:
+* oomp_word_emoji :ram: :school: :santa:
 * md5_6_alpha: 3dz7a
-* md5_6: 56d676* 
+* md5_6: 56d676

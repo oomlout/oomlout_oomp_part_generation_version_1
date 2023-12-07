@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb40
 * oomp_word: helicopter dragon truck
-* oomp_word_emoji: :helicopter: :dragon: :truck:
+* oomp_word_emoji :helicopter: :dragon: :truck:
 * md5_6_alpha: 90yy7
-* md5_6: e759ef* 
+* md5_6: e759ef

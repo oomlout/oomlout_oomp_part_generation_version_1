@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l12l
 * oomp_word: coffee balloon shoe
-* oomp_word_emoji: :coffee: :balloon: :shoe:
+* oomp_word_emoji :coffee: :balloon: :shoe:
 * md5_6_alpha: 71i94
-* md5_6: b479a8* 
+* md5_6: b479a8

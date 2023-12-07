@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o272
 * oomp_word: sailboat trumpet grapes
-* oomp_word_emoji: :sailboat: :trumpet: :grapes:
+* oomp_word_emoji :sailboat: :trumpet: :grapes:
 * md5_6_alpha: 8udaj
-* md5_6: e2a6cb* 
+* md5_6: e2a6cb

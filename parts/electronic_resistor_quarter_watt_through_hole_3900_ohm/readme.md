@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro392
 * oomp_word: toilet candy sheep
-* oomp_word_emoji: :toilet: :candy: :sheep:
+* oomp_word_emoji :toilet: :candy: :sheep:
 * md5_6_alpha: 5apmq
-* md5_6: 87c542* 
+* md5_6: 87c542

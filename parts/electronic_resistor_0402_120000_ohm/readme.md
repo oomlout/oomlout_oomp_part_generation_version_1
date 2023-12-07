@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o124
 * oomp_word: jeans wink maple_leaf
-* oomp_word_emoji: :jeans: :wink: :maple_leaf:
+* oomp_word_emoji :jeans: :wink: :maple_leaf:
 * md5_6_alpha: 6sfol
-* md5_6: ae0465* 
+* md5_6: ae0465

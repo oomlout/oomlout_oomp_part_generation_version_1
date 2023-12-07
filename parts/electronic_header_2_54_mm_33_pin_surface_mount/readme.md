@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi133psm
 * oomp_word: eyeglasses camel princess
-* oomp_word_emoji: :eyeglasses: :camel: :princess:
+* oomp_word_emoji :eyeglasses: :camel: :princess:
 * md5_6_alpha: 6zsin
-* md5_6: b3411f* 
+* md5_6: b3411f

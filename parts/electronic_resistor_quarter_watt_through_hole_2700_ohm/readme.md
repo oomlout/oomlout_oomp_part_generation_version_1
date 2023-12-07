@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro272
 * oomp_word: pear cat sunny
-* oomp_word_emoji: :pear: :cat: :sunny:
+* oomp_word_emoji :pear: :cat: :sunny:
 * md5_6_alpha: 85ull
-* md5_6: d13229* 
+* md5_6: d13229

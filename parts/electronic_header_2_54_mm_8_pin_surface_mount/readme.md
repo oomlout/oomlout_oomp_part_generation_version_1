@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi18psm
 * oomp_word: stars princess hearts
-* oomp_word_emoji: :stars: :princess: :hearts:
+* oomp_word_emoji :stars: :princess: :hearts:
 * md5_6_alpha: 8mlr1
-* md5_6: dd1f9d* 
+* md5_6: dd1f9d

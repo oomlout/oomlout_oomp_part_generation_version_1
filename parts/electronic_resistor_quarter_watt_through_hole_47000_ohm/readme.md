@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro473
 * oomp_word: eight ram wolf
-* oomp_word_emoji: :eight: :ram: :wolf:
+* oomp_word_emoji :eight: :ram: :wolf:
 * md5_6_alpha: 9q8fr
-* md5_6: f95637* 
+* md5_6: f95637

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi1j
 * oomp_word: paperclip lips computer
-* oomp_word_emoji: :paperclip: :lips: :computer:
+* oomp_word_emoji :paperclip: :lips: :computer:
 * md5_6_alpha: 5p9q3
-* md5_6: 92227b* 
+* md5_6: 92227b

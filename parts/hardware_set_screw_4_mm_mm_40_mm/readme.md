@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss40
 * oomp_word: camera trumpet six
-* oomp_word_emoji: :camera: :trumpet: :six:
+* oomp_word_emoji :camera: :trumpet: :six:
 * md5_6_alpha: 4sa9j
-* md5_6: 7aa6f7* 
+* md5_6: 7aa6f7

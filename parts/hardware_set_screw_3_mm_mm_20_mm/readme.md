@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss20
 * oomp_word: tiger cherries wink
-* oomp_word_emoji: :tiger: :cherries: :wink:
+* oomp_word_emoji :tiger: :cherries: :wink:
 * md5_6_alpha: 2969w
-* md5_6: 39ca04* 
+* md5_6: 39ca04

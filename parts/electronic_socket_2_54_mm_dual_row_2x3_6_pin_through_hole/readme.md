@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci12x3pth
 * oomp_word: dancer wink ghost
-* oomp_word_emoji: :dancer: :wink: :ghost:
+* oomp_word_emoji :dancer: :wink: :ghost:
 * md5_6_alpha: 13cs5
-* md5_6: 1c0475* 
+* md5_6: 1c0475

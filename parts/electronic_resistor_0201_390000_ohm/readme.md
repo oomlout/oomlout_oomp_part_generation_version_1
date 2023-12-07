@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro394
 * oomp_word: cookie pencil books
-* oomp_word_emoji: :cookie: :pencil: :books:
+* oomp_word_emoji :cookie: :pencil: :books:
 * md5_6_alpha: 7o7mb
-* md5_6: c4a393* 
+* md5_6: c4a393

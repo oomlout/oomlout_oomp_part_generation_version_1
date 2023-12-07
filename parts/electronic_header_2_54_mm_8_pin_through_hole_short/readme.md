@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi18pths
 * oomp_word: rat door pushpin
-* oomp_word_emoji: :rat: :door: :pushpin:
+* oomp_word_emoji :rat: :door: :pushpin:
 * md5_6_alpha: 3eyz5
-* md5_6: 578b91* 
+* md5_6: 578b91

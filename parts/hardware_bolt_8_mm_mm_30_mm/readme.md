@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b30
 * oomp_word: tractor grin briefcase
-* oomp_word_emoji: :tractor: :grin: :briefcase:
+* oomp_word_emoji :tractor: :grin: :briefcase:
 * md5_6_alpha: 94pm9
-* md5_6: ea03b1* 
+* md5_6: ea03b1

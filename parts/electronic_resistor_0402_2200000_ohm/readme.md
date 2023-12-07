@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o225
 * oomp_word: bamboo tiger trumpet
-* oomp_word_emoji: :bamboo: :tiger: :trumpet:
+* oomp_word_emoji :bamboo: :tiger: :trumpet:
 * md5_6_alpha: 4f1k6
-* md5_6: 7139a6* 
+* md5_6: 7139a6

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: i6snl
 * oomp_word: shoe bowling nine
-* oomp_word_emoji: :shoe: :bowling: :nine:
+* oomp_word_emoji :shoe: :bowling: :nine:
 * md5_6_alpha: 6kttm
-* md5_6: a899fa* 
+* md5_6: a899fa

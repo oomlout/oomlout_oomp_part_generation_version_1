@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro470
 * oomp_word: basketball violin bike
-* oomp_word_emoji: :basketball: :violin: :bike:
+* oomp_word_emoji :basketball: :violin: :bike:
 * md5_6_alpha: 5vld5
-* md5_6: 96a2e9* 
+* md5_6: 96a2e9

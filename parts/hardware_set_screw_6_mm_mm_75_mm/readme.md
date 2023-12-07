@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss75
 * oomp_word: rice sheep lipstick
-* oomp_word_emoji: :rice: :sheep: :lipstick:
+* oomp_word_emoji :rice: :sheep: :lipstick:
 * md5_6_alpha: 7dui2
-* md5_6: bd42aa* 
+* md5_6: bd42aa

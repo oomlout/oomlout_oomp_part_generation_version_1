@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o151
 * oomp_word: hamburger snake clipboard
-* oomp_word_emoji: :hamburger: :snake: :clipboard:
+* oomp_word_emoji :hamburger: :snake: :clipboard:
 * md5_6_alpha: 76u8e
-* md5_6: b8458e* 
+* md5_6: b8458e

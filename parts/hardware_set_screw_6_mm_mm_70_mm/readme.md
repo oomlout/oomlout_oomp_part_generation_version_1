@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss70
 * oomp_word: fire pushpin mouse
-* oomp_word_emoji: :fire: :pushpin: :mouse:
+* oomp_word_emoji :fire: :pushpin: :mouse:
 * md5_6_alpha: sw1g
-* md5_6: 149134* 
+* md5_6: 149134

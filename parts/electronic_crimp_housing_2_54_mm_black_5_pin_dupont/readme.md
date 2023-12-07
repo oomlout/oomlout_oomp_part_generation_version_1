@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: chi1b5pd
 * oomp_word: angel cry thumbsdown
-* oomp_word_emoji: :angel: :cry: :thumbsdown:
+* oomp_word_emoji :angel: :cry: :thumbsdown:
 * md5_6_alpha: 166fr
-* md5_6: 1e0717* 
+* md5_6: 1e0717

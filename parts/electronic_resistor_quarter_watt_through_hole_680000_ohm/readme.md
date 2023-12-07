@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro684
 * oomp_word: fireworks alien bamboo
-* oomp_word_emoji: :fireworks: :alien: :bamboo:
+* oomp_word_emoji :fireworks: :alien: :bamboo:
 * md5_6_alpha: 4j0c1
-* md5_6: 740c71* 
+* md5_6: 740c71

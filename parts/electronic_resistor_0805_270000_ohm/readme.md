@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o274
 * oomp_word: rowboat rabbit ocean
-* oomp_word_emoji: :rowboat: :rabbit: :ocean:
+* oomp_word_emoji :rowboat: :rabbit: :ocean:
 * md5_6_alpha: 8v5m9
-* md5_6: e33631* 
+* md5_6: e33631

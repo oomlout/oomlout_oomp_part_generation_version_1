@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi132psm
 * oomp_word: honeybee trumpet chicken
-* oomp_word_emoji: :honeybee: :trumpet: :chicken:
+* oomp_word_emoji :honeybee: :trumpet: :chicken:
 * md5_6_alpha: 32h56
-* md5_6: 4ea64a* 
+* md5_6: 4ea64a

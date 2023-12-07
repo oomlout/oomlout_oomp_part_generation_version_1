@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o682
 * oomp_word: sushi shell beetle
-* oomp_word_emoji: :sushi: :shell: :beetle:
+* oomp_word_emoji :sushi: :shell: :beetle:
 * md5_6_alpha: 7cocw
-* md5_6: bc6d50* 
+* md5_6: bc6d50

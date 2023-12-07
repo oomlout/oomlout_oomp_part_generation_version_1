@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb10
 * oomp_word: sleepy lock bird
-* oomp_word_emoji: :sleepy: :lock: :bird:
+* oomp_word_emoji :sleepy: :lock: :bird:
 * md5_6_alpha: erly
-* md5_6: 0a8346* 
+* md5_6: 0a8346

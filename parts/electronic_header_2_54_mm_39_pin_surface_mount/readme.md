@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi139psm
 * oomp_word: trident corn gift
-* oomp_word_emoji: :trident: :corn: :gift:
+* oomp_word_emoji :trident: :corn: :gift:
 * md5_6_alpha: 9zcs7
-* md5_6: ffd477* 
+* md5_6: ffd477

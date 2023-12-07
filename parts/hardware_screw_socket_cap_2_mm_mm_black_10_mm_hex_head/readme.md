@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb10
 * oomp_word: blush sheep books
-* oomp_word_emoji: :blush: :sheep: :books:
+* oomp_word_emoji :blush: :sheep: :books:
 * md5_6_alpha: 36ab
-* md5_6: 024293* 
+* md5_6: 024293

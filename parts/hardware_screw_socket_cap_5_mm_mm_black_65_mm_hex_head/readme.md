@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb65
 * oomp_word: computer wrench trident
-* oomp_word_emoji: :computer: :wrench: :trident:
+* oomp_word_emoji :computer: :wrench: :trident:
 * md5_6_alpha: 4tiwv
-* md5_6: 7b88ff* 
+* md5_6: 7b88ff

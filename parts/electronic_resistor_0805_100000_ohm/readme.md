@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o104
 * oomp_word: tiger basketball princess
-* oomp_word_emoji: :tiger: :basketball: :princess:
+* oomp_word_emoji :tiger: :basketball: :princess:
 * md5_6_alpha: 28w0v
-* md5_6: 39961f* 
+* md5_6: 39961f

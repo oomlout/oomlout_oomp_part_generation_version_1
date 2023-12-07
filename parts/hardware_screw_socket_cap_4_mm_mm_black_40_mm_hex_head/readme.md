@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb40
 * oomp_word: snail cat diamonds
-* oomp_word_emoji: :snail: :cat: :diamonds:
+* oomp_word_emoji :snail: :cat: :diamonds:
 * md5_6_alpha: 361zz
-* md5_6: 51329f* 
+* md5_6: 51329f

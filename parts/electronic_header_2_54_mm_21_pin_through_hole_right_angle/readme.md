@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi121pthra
 * oomp_word: ship shoe hourglass
-* oomp_word_emoji: :ship: :shoe: :hourglass:
+* oomp_word_emoji :ship: :shoe: :hourglass:
 * md5_6_alpha: 8rkhs
-* md5_6: e0a880* 
+* md5_6: e0a880

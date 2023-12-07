@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro102
 * oomp_word: phone monkey tent
-* oomp_word_emoji: :phone: :monkey: :tent:
+* oomp_word_emoji :phone: :monkey: :tent:
 * md5_6_alpha: 4vxej
-* md5_6: 7d3edb* 
+* md5_6: 7d3edb

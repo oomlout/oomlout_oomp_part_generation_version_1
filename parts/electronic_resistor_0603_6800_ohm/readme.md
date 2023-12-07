@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o682
 * oomp_word: banana dog hamburger
-* oomp_word_emoji: :banana: :dog: :hamburger:
+* oomp_word_emoji :banana: :dog: :hamburger:
 * md5_6_alpha: 84gc8
-* md5_6: d033b8* 
+* md5_6: d033b8

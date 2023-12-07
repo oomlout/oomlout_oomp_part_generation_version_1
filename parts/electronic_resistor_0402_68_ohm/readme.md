@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o680
 * oomp_word: apple violin four
-* oomp_word_emoji: :apple: :violin: :four:
+* oomp_word_emoji :apple: :violin: :four:
 * md5_6_alpha: 7ttrp
-* md5_6: c8a2f5* 
+* md5_6: c8a2f5

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b3560s
 * oomp_word: hotel shirt fish
-* oomp_word_emoji: :hotel: :shirt: :fish:
+* oomp_word_emoji :hotel: :shirt: :fish:
 * md5_6_alpha: 8j5ub
-* md5_6: daac53* 
+* md5_6: daac53

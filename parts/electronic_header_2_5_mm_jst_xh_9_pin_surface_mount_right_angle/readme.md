@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh9psmra
 * oomp_word: pray rocket handbag
-* oomp_word_emoji: :pray: :rocket: :handbag:
+* oomp_word_emoji :pray: :rocket: :handbag:
 * md5_6_alpha: 10dki
-* md5_6: 19e5b2* 
+* md5_6: 19e5b2

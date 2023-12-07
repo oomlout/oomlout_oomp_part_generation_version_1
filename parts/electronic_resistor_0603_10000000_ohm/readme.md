@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o106
 * oomp_word: squirrel bug phone
-* oomp_word_emoji: :squirrel: :bug: :phone:
+* oomp_word_emoji :squirrel: :bug: :phone:
 * md5_6_alpha: 4dqwt
-* md5_6: 704d7d* 
+* md5_6: 704d7d

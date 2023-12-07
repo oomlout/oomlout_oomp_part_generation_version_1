@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o473
 * oomp_word: watch honey_pot racehorse
-* oomp_word_emoji: :watch: :honey_pot: :racehorse:
+* oomp_word_emoji :watch: :honey_pot: :racehorse:
 * md5_6_alpha: 52am8
-* md5_6: 81c740* 
+* md5_6: 81c740

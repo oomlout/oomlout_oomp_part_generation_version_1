@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro823
 * oomp_word: penguin guitar zap
-* oomp_word_emoji: :penguin: :guitar: :zap:
+* oomp_word_emoji :penguin: :guitar: :zap:
 * md5_6_alpha: 2y9m6
-* md5_6: 4ba72e* 
+* md5_6: 4ba72e

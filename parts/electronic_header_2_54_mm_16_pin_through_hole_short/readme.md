@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi116pths
 * oomp_word: droplet princess fries
-* oomp_word_emoji: :droplet: :princess: :fries:
+* oomp_word_emoji :droplet: :princess: :fries:
 * md5_6_alpha: 1eqpl
-* md5_6: 241fb9* 
+* md5_6: 241fb9

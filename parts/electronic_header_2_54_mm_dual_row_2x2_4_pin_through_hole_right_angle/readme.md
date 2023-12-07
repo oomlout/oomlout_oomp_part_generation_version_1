@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x2pthra
 * oomp_word: cat gift pig
-* oomp_word_emoji: :cat: :gift: :pig:
+* oomp_word_emoji :cat: :gift: :pig:
 * md5_6_alpha: 1yvy4
-* md5_6: 32773c* 
+* md5_6: 32773c

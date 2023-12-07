@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi113psmra
 * oomp_word: rooster violin pizza
-* oomp_word_emoji: :rooster: :violin: :pizza:
+* oomp_word_emoji :rooster: :violin: :pizza:
 * md5_6_alpha: 3kptj
-* md5_6: 5ba2b7* 
+* md5_6: 5ba2b7

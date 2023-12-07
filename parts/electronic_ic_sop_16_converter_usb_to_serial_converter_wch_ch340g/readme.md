@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: isp16ch340g
 * oomp_word: sparkles bear frog
-* oomp_word_emoji: :sparkles: :bear: :frog:
+* oomp_word_emoji :sparkles: :bear: :frog:
 * md5_6_alpha: le7s
-* md5_6: 0f3b38* 
+* md5_6: 0f3b38

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb50
 * oomp_word: moon bird star
-* oomp_word_emoji: :moon: :bird: :star:
+* oomp_word_emoji :moon: :bird: :star:
 * md5_6_alpha: 4cavk
-* md5_6: 6f4610* 
+* md5_6: 6f4610

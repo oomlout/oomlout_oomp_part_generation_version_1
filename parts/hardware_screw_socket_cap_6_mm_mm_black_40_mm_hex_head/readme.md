@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb40
 * oomp_word: diamonds toilet telescope
-* oomp_word_emoji: :diamonds: :toilet: :telescope:
+* oomp_word_emoji :diamonds: :toilet: :telescope:
 * md5_6_alpha: 6832t
-* md5_6: 9f8795* 
+* md5_6: 9f8795

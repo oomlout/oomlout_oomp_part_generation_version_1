@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss12
 * oomp_word: rooster curry sleeping
-* oomp_word_emoji: :rooster: :curry: :sleeping:
+* oomp_word_emoji :rooster: :curry: :sleeping:
 * md5_6_alpha: 3kume
-* md5_6: 5bbb06* 
+* md5_6: 5bbb06

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o103
 * oomp_word: kiss angel bear
-* oomp_word_emoji: :kiss: :angel: :bear:
+* oomp_word_emoji :kiss: :angel: :bear:
 * md5_6_alpha: 1dbuj
-* md5_6: 231e3b* 
+* md5_6: 231e3b

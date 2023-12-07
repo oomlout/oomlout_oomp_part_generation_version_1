@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hob2thra
 * oomp_word: recycle droplet ghost
-* oomp_word_emoji: :recycle: :droplet: :ghost:
+* oomp_word_emoji :recycle: :droplet: :ghost:
 * md5_6_alpha: 9wzg5
-* md5_6: fe2475* 
+* md5_6: fe2475

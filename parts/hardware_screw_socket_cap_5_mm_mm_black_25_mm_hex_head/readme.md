@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb25
 * oomp_word: tram golf six
-* oomp_word_emoji: :tram: :golf: :six:
+* oomp_word_emoji :tram: :golf: :six:
 * md5_6_alpha: 92qd3
-* md5_6: e89af7* 
+* md5_6: e89af7

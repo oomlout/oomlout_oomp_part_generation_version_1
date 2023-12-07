@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci113pth
 * oomp_word: grapes coffee lock
-* oomp_word_emoji: :grapes: :coffee: :lock:
+* oomp_word_emoji :grapes: :coffee: :lock:
 * md5_6_alpha: 7y4xv
-* md5_6: cbb483* 
+* md5_6: cbb483

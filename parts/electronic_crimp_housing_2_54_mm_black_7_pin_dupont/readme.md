@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: chi1b7pd
 * oomp_word: bowtie shirt star
-* oomp_word_emoji: :bowtie: :shirt: :star:
+* oomp_word_emoji :bowtie: :shirt: :star:
 * md5_6_alpha: xzk
-* md5_6: 00ac10* 
+* md5_6: 00ac10

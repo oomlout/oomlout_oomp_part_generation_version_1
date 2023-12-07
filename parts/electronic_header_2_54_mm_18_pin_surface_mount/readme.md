@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi118psm
 * oomp_word: baby_chick wrench calendar
-* oomp_word_emoji: :baby_chick: :wrench: :calendar:
+* oomp_word_emoji :baby_chick: :wrench: :calendar:
 * md5_6_alpha: 2shan
-* md5_6: 47888f* 
+* md5_6: 47888f

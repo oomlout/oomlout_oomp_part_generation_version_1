@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro183
 * oomp_word: snake ok tophat
-* oomp_word_emoji: :snake: :ok: :tophat:
+* oomp_word_emoji :snake: :ok: :tophat:
 * md5_6_alpha: 2qawf
-* md5_6: 45fbaf* 
+* md5_6: 45fbaf

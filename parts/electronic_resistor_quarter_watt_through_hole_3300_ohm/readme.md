@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro332
 * oomp_word: curry shell book
-* oomp_word_emoji: :curry: :shell: :book:
+* oomp_word_emoji :curry: :shell: :book:
 * md5_6_alpha: 7b9us
-* md5_6: bb6da4* 
+* md5_6: bb6da4

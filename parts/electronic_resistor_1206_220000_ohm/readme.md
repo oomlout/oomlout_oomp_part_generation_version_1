@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o224
 * oomp_word: key two mushroom
-* oomp_word_emoji: :key: :two: :mushroom:
+* oomp_word_emoji :key: :two: :mushroom:
 * md5_6_alpha: 56r1k
-* md5_6: 84f368* 
+* md5_6: 84f368

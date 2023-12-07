@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi16psm
 * oomp_word: bath train bath
-* oomp_word_emoji: :bath: :train: :bath:
+* oomp_word_emoji :bath: :train: :bath:
 * md5_6_alpha: 59jly
-* md5_6: 86f086* 
+* md5_6: 86f086

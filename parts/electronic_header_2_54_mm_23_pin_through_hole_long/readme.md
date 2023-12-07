@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi123pthl
 * oomp_word: snake radio scroll
-* oomp_word_emoji: :snake: :radio: :scroll:
+* oomp_word_emoji :snake: :radio: :scroll:
 * md5_6_alpha: 2pmz1
-* md5_6: 45828d* 
+* md5_6: 45828d

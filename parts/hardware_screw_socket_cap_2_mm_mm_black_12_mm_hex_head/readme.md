@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb12
 * oomp_word: taxi mushroom thumbsup
-* oomp_word_emoji: :taxi: :mushroom: :thumbsup:
+* oomp_word_emoji :taxi: :mushroom: :thumbsup:
 * md5_6_alpha: 982l2
-* md5_6: ec6816* 
+* md5_6: ec6816

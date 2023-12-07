@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ivq28mcuat328
 * oomp_word: ox angel tiger
-* oomp_word_emoji: :ox: :angel: :tiger:
+* oomp_word_emoji :ox: :angel: :tiger:
 * md5_6_alpha: 3le7t
-* md5_6: 5c1e39* 
+* md5_6: 5c1e39

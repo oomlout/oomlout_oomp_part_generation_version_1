@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o331
 * oomp_word: palm_tree poop strawberry
-* oomp_word_emoji: :palm_tree: :poop: :strawberry:
+* oomp_word_emoji :palm_tree: :poop: :strawberry:
 * md5_6_alpha: 450i5
-* md5_6: 6a15cd* 
+* md5_6: 6a15cd

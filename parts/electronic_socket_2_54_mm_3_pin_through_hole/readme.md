@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci13pth
 * oomp_word: guitar fish pushpin
-* oomp_word_emoji: :guitar: :fish: :pushpin:
+* oomp_word_emoji :guitar: :fish: :pushpin:
 * md5_6_alpha: 6j1ch
-* md5_6: a75391* 
+* md5_6: a75391

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro685
 * oomp_word: beer sailboat parking
-* oomp_word_emoji: :beer: :sailboat: :parking:
+* oomp_word_emoji :beer: :sailboat: :parking:
 * md5_6_alpha: 74w71
-* md5_6: b6e2fd* 
+* md5_6: b6e2fd

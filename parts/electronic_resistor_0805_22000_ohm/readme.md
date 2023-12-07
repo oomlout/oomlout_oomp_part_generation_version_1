@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o223
 * oomp_word: racehorse bus three
-* oomp_word_emoji: :racehorse: :bus: :three:
+* oomp_word_emoji :racehorse: :bus: :three:
 * md5_6_alpha: 2j7ck
-* md5_6: 40edf4* 
+* md5_6: 40edf4

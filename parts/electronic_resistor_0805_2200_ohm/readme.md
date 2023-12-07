@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o222
 * oomp_word: birthday alien cookie
-* oomp_word_emoji: :birthday: :alien: :cookie:
+* oomp_word_emoji :birthday: :alien: :cookie:
 * md5_6_alpha: 7kkp0
-* md5_6: c20cc4* 
+* md5_6: c20cc4

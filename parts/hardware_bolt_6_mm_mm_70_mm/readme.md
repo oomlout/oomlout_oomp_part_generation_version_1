@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b70
 * oomp_word: rat hearts apple
-* oomp_word_emoji: :rat: :hearts: :apple:
+* oomp_word_emoji :rat: :hearts: :apple:
 * md5_6_alpha: 3f2ko
-* md5_6: 579dc8* 
+* md5_6: 579dc8

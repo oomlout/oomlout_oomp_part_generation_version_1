@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi115pthra
 * oomp_word: sushi sunglasses strawberry
-* oomp_word_emoji: :sushi: :sunglasses: :strawberry:
+* oomp_word_emoji :sushi: :sunglasses: :strawberry:
 * md5_6_alpha: 7c53h
-* md5_6: bc0bcd* 
+* md5_6: bc0bcd

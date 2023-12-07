@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss50
 * oomp_word: airplane bulb boat
-* oomp_word_emoji: :airplane: :bulb: :boat:
+* oomp_word_emoji :airplane: :bulb: :boat:
 * md5_6_alpha: 8zt29
-* md5_6: e685e1* 
+* md5_6: e685e1

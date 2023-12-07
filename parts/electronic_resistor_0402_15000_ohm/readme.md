@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o153
 * oomp_word: eyeglasses toilet dizzy
-* oomp_word_emoji: :eyeglasses: :toilet: :dizzy:
+* oomp_word_emoji :eyeglasses: :toilet: :dizzy:
 * md5_6_alpha: 706c1
-* md5_6: b38711* 
+* md5_6: b38711

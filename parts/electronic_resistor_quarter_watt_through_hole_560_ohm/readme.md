@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro561
 * oomp_word: snowman stars dizzy
-* oomp_word_emoji: :snowman: :stars: :dizzy:
+* oomp_word_emoji :snowman: :stars: :dizzy:
 * md5_6_alpha: 1sf81
-* md5_6: 2ddd11* 
+* md5_6: 2ddd11

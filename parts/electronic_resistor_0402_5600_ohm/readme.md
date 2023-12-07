@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o562
 * oomp_word: door foggy computer
-* oomp_word_emoji: :door: :foggy: :computer:
+* oomp_word_emoji :door: :foggy: :computer:
 * md5_6_alpha: 5fiij
-* md5_6: 8b307b* 
+* md5_6: 8b307b

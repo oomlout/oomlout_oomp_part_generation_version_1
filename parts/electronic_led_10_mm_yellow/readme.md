@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l10y
 * oomp_word: candy phone racehorse
-* oomp_word_emoji: :candy: :phone: :racehorse:
+* oomp_word_emoji :candy: :phone: :racehorse:
 * md5_6_alpha: 7pem8
-* md5_6: c57d40* 
+* md5_6: c57d40

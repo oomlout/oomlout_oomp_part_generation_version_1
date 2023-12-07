@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b90
 * oomp_word: penguin eyes poop
-* oomp_word_emoji: :penguin: :eyes: :poop:
+* oomp_word_emoji :penguin: :eyes: :poop:
 * md5_6_alpha: 2xk45
-* md5_6: 4b2615* 
+* md5_6: 4b2615

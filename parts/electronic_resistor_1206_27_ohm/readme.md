@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o270
 * oomp_word: bike sunny palm_tree
-* oomp_word_emoji: :bike: :sunny: :palm_tree:
+* oomp_word_emoji :bike: :sunny: :palm_tree:
 * md5_6_alpha: 93ii2
-* md5_6: e9296a* 
+* md5_6: e9296a

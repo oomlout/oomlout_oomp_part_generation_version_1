@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b80
 * oomp_word: violin chestnut sheep
-* oomp_word_emoji: :violin: :chestnut: :sheep:
+* oomp_word_emoji :violin: :chestnut: :sheep:
 * md5_6_alpha: 6c56q
-* md5_6: a26b42* 
+* md5_6: a26b42

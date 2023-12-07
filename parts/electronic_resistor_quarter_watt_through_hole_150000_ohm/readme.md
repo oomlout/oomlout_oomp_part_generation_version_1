@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro154
 * oomp_word: five lollipop ghost
-* oomp_word_emoji: :five: :lollipop: :ghost:
+* oomp_word_emoji :five: :lollipop: :ghost:
 * md5_6_alpha: 9mmwl
-* md5_6: f6c675* 
+* md5_6: f6c675

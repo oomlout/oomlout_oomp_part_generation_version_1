@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l6r
 * oomp_word: ear ram dizzy
-* oomp_word_emoji: :ear: :ram: :dizzy:
+* oomp_word_emoji :ear: :ram: :dizzy:
 * md5_6_alpha: 1gg0h
-* md5_6: 255611* 
+* md5_6: 255611

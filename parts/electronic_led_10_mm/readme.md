@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l10
 * oomp_word: spaghetti coffee guitar
-* oomp_word_emoji: :spaghetti: :coffee: :guitar:
+* oomp_word_emoji :spaghetti: :coffee: :guitar:
 * md5_6_alpha: 7a9bb
-* md5_6: bab4a7* 
+* md5_6: bab4a7

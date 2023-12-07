@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi15psmra
 * oomp_word: computer trophy balloon
-* oomp_word_emoji: :computer: :trophy: :balloon:
+* oomp_word_emoji :computer: :trophy: :balloon:
 * md5_6_alpha: 4tnqx
-* md5_6: 7ba179* 
+* md5_6: 7ba179

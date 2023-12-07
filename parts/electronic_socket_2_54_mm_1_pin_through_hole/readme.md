@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci11pth
 * oomp_word: trident clipboard violin
-* oomp_word_emoji: :trident: :clipboard: :violin:
+* oomp_word_emoji :trident: :clipboard: :violin:
 * md5_6_alpha: 9yyzm
-* md5_6: ff8ea2* 
+* md5_6: ff8ea2

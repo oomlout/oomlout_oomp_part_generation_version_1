@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o155
 * oomp_word: pill ocean poodle
-* oomp_word_emoji: :pill: :ocean: :poodle:
+* oomp_word_emoji :pill: :ocean: :poodle:
 * md5_6_alpha: 5gx9c
-* md5_6: 8c3160* 
+* md5_6: 8c3160

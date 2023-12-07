@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci126pth
 * oomp_word: racehorse books whale
-* oomp_word_emoji: :racehorse: :books: :whale:
+* oomp_word_emoji :racehorse: :books: :whale:
 * md5_6_alpha: 2ipg4
-* md5_6: 409354* 
+* md5_6: 409354

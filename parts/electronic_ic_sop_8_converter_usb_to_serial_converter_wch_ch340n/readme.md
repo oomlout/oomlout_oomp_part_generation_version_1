@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: isp8
 * oomp_word: dress microscope foggy
-* oomp_word_emoji: :dress: :microscope: :foggy:
+* oomp_word_emoji :dress: :microscope: :foggy:
 * md5_6_alpha: 6rtio
-* md5_6: ad9430* 
+* md5_6: ad9430

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o822
 * oomp_word: key zap cupid
-* oomp_word_emoji: :key: :zap: :cupid:
+* oomp_word_emoji :key: :zap: :cupid:
 * md5_6_alpha: 55o26
-* md5_6: 842e0e* 
+* md5_6: 842e0e

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b95
 * oomp_word: turtle snail snowflake
-* oomp_word_emoji: :turtle: :snail: :snowflake:
+* oomp_word_emoji :turtle: :snail: :snowflake:
 * md5_6_alpha: 2z770
-* md5_6: 4c512c* 
+* md5_6: 4c512c

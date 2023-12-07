@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh3psmra
 * oomp_word: basketball sleeping sunglasses
-* oomp_word_emoji: :basketball: :sleeping: :sunglasses:
+* oomp_word_emoji :basketball: :sleeping: :sunglasses:
 * md5_6_alpha: 5uqdn
-* md5_6: 96060b* 
+* md5_6: 96060b

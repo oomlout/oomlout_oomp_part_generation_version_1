@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b70
 * oomp_word: pray alien ramen
-* oomp_word_emoji: :pray: :alien: :ramen:
+* oomp_word_emoji :pray: :alien: :ramen:
 * md5_6_alpha: z6pq
-* md5_6: 190cbe* 
+* md5_6: 190cbe

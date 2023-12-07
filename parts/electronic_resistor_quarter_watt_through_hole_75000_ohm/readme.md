@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro753
 * oomp_word: panda_face cherries hatching_chick
-* oomp_word_emoji: :panda_face: :cherries: :hatching_chick:
+* oomp_word_emoji :panda_face: :cherries: :hatching_chick:
 * md5_6_alpha: 2omkp
-* md5_6: 44ca49* 
+* md5_6: 44ca49

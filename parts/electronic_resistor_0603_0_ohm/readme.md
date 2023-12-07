@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o0
 * oomp_word: panda_face speaker ok
-* oomp_word_emoji: :panda_face: :speaker: :ok:
+* oomp_word_emoji :panda_face: :speaker: :ok:
 * md5_6_alpha: 2o7wb
-* md5_6: 447ffb* 
+* md5_6: 447ffb

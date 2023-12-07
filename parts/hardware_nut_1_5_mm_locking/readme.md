@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu
 * oomp_word: seven squirrel factory
-* oomp_word_emoji: :seven: :squirrel: :factory:
+* oomp_word_emoji :seven: :squirrel: :factory:
 * md5_6_alpha: 9oz4s
-* md5_6: f870dc* 
+* md5_6: f870dc

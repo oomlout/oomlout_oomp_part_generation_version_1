@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: chi1b2pd
 * oomp_word: penguin stars foggy
-* oomp_word_emoji: :penguin: :stars: :foggy:
+* oomp_word_emoji :penguin: :stars: :foggy:
 * md5_6_alpha: 2yka8
-* md5_6: 4bdd30* 
+* md5_6: 4bdd30

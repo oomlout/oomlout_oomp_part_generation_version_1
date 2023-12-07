@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu
 * oomp_word: recycle snowman sushi
-* oomp_word_emoji: :recycle: :snowman: :sushi:
+* oomp_word_emoji :recycle: :snowman: :sushi:
 * md5_6_alpha: 9x1a4
-* md5_6: fe2dbc* 
+* md5_6: fe2dbc

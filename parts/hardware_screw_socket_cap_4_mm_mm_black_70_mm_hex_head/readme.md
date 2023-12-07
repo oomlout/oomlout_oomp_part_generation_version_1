@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb70
 * oomp_word: hatched_chick dress peach
-* oomp_word_emoji: :hatched_chick: :dress: :peach:
+* oomp_word_emoji :hatched_chick: :dress: :peach:
 * md5_6_alpha: 2u37y
-* md5_6: 48adce* 
+* md5_6: 48adce

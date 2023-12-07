@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o681
 * oomp_word: clap guitar cupid
-* oomp_word_emoji: :clap: :guitar: :cupid:
+* oomp_word_emoji :clap: :guitar: :cupid:
 * md5_6_alpha: 11fri
-* md5_6: 1aa70e* 
+* md5_6: 1aa70e

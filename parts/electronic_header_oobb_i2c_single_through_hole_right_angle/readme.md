@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hob1thra
 * oomp_word: panda_face ram gift
-* oomp_word_emoji: :panda_face: :ram: :gift:
+* oomp_word_emoji :panda_face: :ram: :gift:
 * md5_6_alpha: 2nzp3
-* md5_6: 445677* 
+* md5_6: 445677

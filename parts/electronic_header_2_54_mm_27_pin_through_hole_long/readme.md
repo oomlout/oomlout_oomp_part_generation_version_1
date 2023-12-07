@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi127pthl
 * oomp_word: anchor blossom sunflower
-* oomp_word_emoji: :anchor: :blossom: :sunflower:
+* oomp_word_emoji :anchor: :blossom: :sunflower:
 * md5_6_alpha: 8wuw4
-* md5_6: e46c64* 
+* md5_6: e46c64

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi122psm
 * oomp_word: factory pill ski
-* oomp_word_emoji: :factory: :pill: :ski:
+* oomp_word_emoji :factory: :pill: :ski:
 * md5_6_alpha: 8lspn
-* md5_6: dc8c9b* 
+* md5_6: dc8c9b

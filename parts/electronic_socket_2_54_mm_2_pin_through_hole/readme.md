@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci12pth
 * oomp_word: pizza hatched_chick helicopter
-* oomp_word_emoji: :pizza: :hatched_chick: :helicopter:
+* oomp_word_emoji :pizza: :hatched_chick: :helicopter:
 * md5_6_alpha: 75gbr
-* md5_6: b748e7* 
+* md5_6: b748e7

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o152
 * oomp_word: alien cat ring
-* oomp_word_emoji: :alien: :cat: :ring:
+* oomp_word_emoji :alien: :cat: :ring:
 * md5_6_alpha: h4tc
-* md5_6: 0c32a0* 
+* md5_6: 0c32a0

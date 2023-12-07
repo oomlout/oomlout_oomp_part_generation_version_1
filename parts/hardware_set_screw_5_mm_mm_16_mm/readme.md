@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss16
 * oomp_word: pushpin curry sandal
-* oomp_word_emoji: :pushpin: :curry: :sandal:
+* oomp_word_emoji :pushpin: :curry: :sandal:
 * md5_6_alpha: 5opex
-* md5_6: 91bba9* 
+* md5_6: 91bba9

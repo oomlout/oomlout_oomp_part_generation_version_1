@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjsh2psmra
 * oomp_word: handbag truck crocodile
-* oomp_word_emoji: :handbag: :truck: :crocodile:
+* oomp_word_emoji :handbag: :truck: :crocodile:
 * md5_6_alpha: 6zcda
-* md5_6: b2ef5e* 
+* md5_6: b2ef5e

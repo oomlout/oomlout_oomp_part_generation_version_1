@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi122pth
 * oomp_word: cactus shoe sunglasses
-* oomp_word_emoji: :cactus: :shoe: :sunglasses:
+* oomp_word_emoji :cactus: :shoe: :sunglasses:
 * md5_6_alpha: 44etn
-* md5_6: 69a80b* 
+* md5_6: 69a80b

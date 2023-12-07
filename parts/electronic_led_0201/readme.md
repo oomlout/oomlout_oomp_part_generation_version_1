@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l
 * oomp_word: flags chicken pray
-* oomp_word_emoji: :flags: :chicken: :pray:
+* oomp_word_emoji :flags: :chicken: :pray:
 * md5_6_alpha: 4hxy1
-* md5_6: 734a19* 
+* md5_6: 734a19

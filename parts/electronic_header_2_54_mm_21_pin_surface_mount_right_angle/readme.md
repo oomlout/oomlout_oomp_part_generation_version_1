@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi121psmra
 * oomp_word: tractor lollipop watch
-* oomp_word_emoji: :tractor: :lollipop: :watch:
+* oomp_word_emoji :tractor: :lollipop: :watch:
 * md5_6_alpha: 95s3l
-* md5_6: eac681* 
+* md5_6: eac681

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x6pthra
 * oomp_word: apple tophat recycle
-* oomp_word_emoji: :apple: :tophat: :recycle:
+* oomp_word_emoji :apple: :tophat: :recycle:
 * md5_6_alpha: 7twce
-* md5_6: c8affe* 
+* md5_6: c8affe

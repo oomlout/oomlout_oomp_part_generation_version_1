@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o150
 * oomp_word: bell three pushpin
-* oomp_word_emoji: :bell: :three: :pushpin:
+* oomp_word_emoji :bell: :three: :pushpin:
 * md5_6_alpha: 4pwgh
-* md5_6: 78f491* 
+* md5_6: 78f491

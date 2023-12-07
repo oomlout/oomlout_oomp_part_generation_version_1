@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss60
 * oomp_word: mouse nine pig
-* oomp_word_emoji: :mouse: :nine: :pig:
+* oomp_word_emoji :mouse: :nine: :pig:
 * md5_6_alpha: 22eyk
-* md5_6: 34fa3c* 
+* md5_6: 34fa3c

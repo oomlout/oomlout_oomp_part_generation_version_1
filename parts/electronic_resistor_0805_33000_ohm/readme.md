@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o333
 * oomp_word: peach tennis ambulance
-* oomp_word_emoji: :peach: :tennis: :ambulance:
+* oomp_word_emoji :peach: :tennis: :ambulance:
 * md5_6_alpha: 82772
-* md5_6: ce98ee* 
+* md5_6: ce98ee

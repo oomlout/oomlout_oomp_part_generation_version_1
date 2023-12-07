@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro472
 * oomp_word: eyeglasses kiss snail
-* oomp_word_emoji: :eyeglasses: :kiss: :snail:
+* oomp_word_emoji :eyeglasses: :kiss: :snail:
 * md5_6_alpha: 6zmmp
-* md5_6: b32351* 
+* md5_6: b32351

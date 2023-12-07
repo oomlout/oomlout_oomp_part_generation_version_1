@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro123
 * oomp_word: ox shell flags
-* oomp_word_emoji: :ox: :shell: :flags:
+* oomp_word_emoji :ox: :shell: :flags:
 * md5_6_alpha: 3ltv7
-* md5_6: 5c6d73* 
+* md5_6: 5c6d73

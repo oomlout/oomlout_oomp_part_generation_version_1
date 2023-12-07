@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi13pths
 * oomp_word: candy scream basketball
-* oomp_word_emoji: :candy: :scream: :basketball:
+* oomp_word_emoji :candy: :scream: :basketball:
 * md5_6_alpha: 7orkm
-* md5_6: c50896* 
+* md5_6: c50896

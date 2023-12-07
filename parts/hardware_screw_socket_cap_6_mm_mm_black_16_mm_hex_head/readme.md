@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb16
 * oomp_word: kiss sunflower heart
-* oomp_word_emoji: :kiss: :sunflower: :heart:
+* oomp_word_emoji :kiss: :sunflower: :heart:
 * md5_6_alpha: 1dpn1
-* md5_6: 23640d* 
+* md5_6: 23640d

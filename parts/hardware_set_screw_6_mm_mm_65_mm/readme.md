@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss65
 * oomp_word: shoe herb fish
-* oomp_word_emoji: :shoe: :herb: :fish:
+* oomp_word_emoji :shoe: :herb: :fish:
 * md5_6_alpha: 6kjtf
-* md5_6: a86753* 
+* md5_6: a86753

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu1
 * oomp_word: tennis ant snowman
-* oomp_word_emoji: :tennis: :ant: :snowman:
+* oomp_word_emoji :tennis: :ant: :snowman:
 * md5_6_alpha: 5xxyl
-* md5_6: 984f2d* 
+* md5_6: 984f2d

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l8w
 * oomp_word: tulip bowling hourglass
-* oomp_word_emoji: :tulip: :bowling: :hourglass:
+* oomp_word_emoji :tulip: :bowling: :hourglass:
 * md5_6_alpha: 3uhz4
-* md5_6: 629980* 
+* md5_6: 629980

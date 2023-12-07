@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l50502812ws2812bbw
 * oomp_word: train bank ramen
-* oomp_word_emoji: :train: :bank: :ramen:
+* oomp_word_emoji :train: :bank: :ramen:
 * md5_6_alpha: 9ebb2
-* md5_6: f0d9be* 
+* md5_6: f0d9be

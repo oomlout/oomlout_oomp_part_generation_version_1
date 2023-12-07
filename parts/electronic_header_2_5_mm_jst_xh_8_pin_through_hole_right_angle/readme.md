@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh8pthra
 * oomp_word: zap feet baby_chick
-* oomp_word_emoji: :zap: :feet: :baby_chick:
+* oomp_word_emoji :zap: :feet: :baby_chick:
 * md5_6_alpha: 1ssp3
-* md5_6: 2e2147* 
+* md5_6: 2e2147

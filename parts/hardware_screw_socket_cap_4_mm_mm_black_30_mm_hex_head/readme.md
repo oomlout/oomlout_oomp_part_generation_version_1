@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb30
 * oomp_word: headphones train hotel
-* oomp_word_emoji: :headphones: :train: :hotel:
+* oomp_word_emoji :headphones: :train: :hotel:
 * md5_6_alpha: 6h3a2
-* md5_6: a5f0da* 
+* md5_6: a5f0da

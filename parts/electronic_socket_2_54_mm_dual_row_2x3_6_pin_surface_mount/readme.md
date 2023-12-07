@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci12x3psm
 * oomp_word: hourglass poop birthday
-* oomp_word_emoji: :hourglass: :poop: :birthday:
+* oomp_word_emoji :hourglass: :poop: :birthday:
 * md5_6_alpha: 4zwzm
-* md5_6: 8015c2* 
+* md5_6: 8015c2

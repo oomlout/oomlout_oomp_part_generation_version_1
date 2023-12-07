@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o471
 * oomp_word: melon corn paperclip
-* oomp_word_emoji: :melon: :corn: :paperclip:
+* oomp_word_emoji :melon: :corn: :paperclip:
 * md5_6_alpha: 83xjm
-* md5_6: cfd492* 
+* md5_6: cfd492

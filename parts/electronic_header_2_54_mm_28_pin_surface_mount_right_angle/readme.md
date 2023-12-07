@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi128psmra
 * oomp_word: parking fries nine
-* oomp_word_emoji: :parking: :fries: :nine:
+* oomp_word_emoji :parking: :fries: :nine:
 * md5_6_alpha: 9weey
-* md5_6: fdb9fa* 
+* md5_6: fdb9fa

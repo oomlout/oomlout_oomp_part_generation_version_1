@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb8
 * oomp_word: feet bamboo rooster
-* oomp_word_emoji: :feet: :bamboo: :rooster:
+* oomp_word_emoji :feet: :bamboo: :rooster:
 * md5_6_alpha: 1az4r
-* md5_6: 21715b* 
+* md5_6: 21715b

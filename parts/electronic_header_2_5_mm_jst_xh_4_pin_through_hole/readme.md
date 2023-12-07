@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh4pth
 * oomp_word: trumpet alien peach
-* oomp_word_emoji: :trumpet: :alien: :peach:
+* oomp_word_emoji :trumpet: :alien: :peach:
 * md5_6_alpha: 6h8su
-* md5_6: a60cce* 
+* md5_6: a60cce

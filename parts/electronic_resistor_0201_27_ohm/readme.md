@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro270
 * oomp_word: tractor anger pushpin
-* oomp_word_emoji: :tractor: :anger: :pushpin:
+* oomp_word_emoji :tractor: :anger: :pushpin:
 * md5_6_alpha: 94sk1
-* md5_6: ea1291* 
+* md5_6: ea1291

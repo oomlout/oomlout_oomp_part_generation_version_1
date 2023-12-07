@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu2d5
 * oomp_word: skull fountain helicopter
-* oomp_word_emoji: :skull: :fountain: :helicopter:
+* oomp_word_emoji :skull: :fountain: :helicopter:
 * md5_6_alpha: 1a6ef
-* md5_6: 20dfe7* 
+* md5_6: 20dfe7

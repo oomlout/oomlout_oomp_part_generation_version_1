@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o270
 * oomp_word: seven three tea
-* oomp_word_emoji: :seven: :three: :tea:
+* oomp_word_emoji :seven: :three: :tea:
 * md5_6_alpha: 9pp6d
-* md5_6: f8f4b5* 
+* md5_6: f8f4b5

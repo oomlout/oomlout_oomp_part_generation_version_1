@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro270
 * oomp_word: tennis hatching_chick herb
-* oomp_word_emoji: :tennis: :hatching_chick: :herb:
+* oomp_word_emoji :tennis: :hatching_chick: :herb:
 * md5_6_alpha: 5xwtj
-* md5_6: 984967* 
+* md5_6: 984967

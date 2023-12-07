@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x12pthra
 * oomp_word: palm_tree panda_face train
-* oomp_word_emoji: :palm_tree: :panda_face: :train:
+* oomp_word_emoji :palm_tree: :panda_face: :train:
 * md5_6_alpha: 459tc
-* md5_6: 6a44f0* 
+* md5_6: 6a44f0

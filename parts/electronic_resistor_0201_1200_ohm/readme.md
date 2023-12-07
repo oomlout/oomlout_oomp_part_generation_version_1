@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro122
 * oomp_word: dolls bread key
-* oomp_word_emoji: :dolls: :bread: :key:
+* oomp_word_emoji :dolls: :bread: :key:
 * md5_6_alpha: 4h6ro
-* md5_6: 72c084* 
+* md5_6: 72c084

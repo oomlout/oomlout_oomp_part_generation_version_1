@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: imsp10mpump21rs2227
 * oomp_word: koala star blush
-* oomp_word_emoji: :koala: :star: :blush:
+* oomp_word_emoji :koala: :star: :blush:
 * md5_6_alpha: 29k3m
-* md5_6: 3a1002* 
+* md5_6: 3a1002

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro225
 * oomp_word: penguin door pill
-* oomp_word_emoji: :penguin: :door: :pill:
+* oomp_word_emoji :penguin: :door: :pill:
 * md5_6_alpha: 2y45o
-* md5_6: 4b8b8c* 
+* md5_6: 4b8b8c

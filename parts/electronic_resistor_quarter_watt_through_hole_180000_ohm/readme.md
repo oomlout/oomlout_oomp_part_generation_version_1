@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro184
 * oomp_word: dolphin horse baseball
-* oomp_word_emoji: :dolphin: :horse: :baseball:
+* oomp_word_emoji :dolphin: :horse: :baseball:
 * md5_6_alpha: 3bqtz
-* md5_6: 553f97* 
+* md5_6: 553f97

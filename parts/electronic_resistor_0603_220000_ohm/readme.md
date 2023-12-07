@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o224
 * oomp_word: golf lips beetle
-* oomp_word_emoji: :golf: :lips: :beetle:
+* oomp_word_emoji :golf: :lips: :beetle:
 * md5_6_alpha: 60i8g
-* md5_6: 9a2250* 
+* md5_6: 9a2250

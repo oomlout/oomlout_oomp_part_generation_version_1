@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi123psm
 * oomp_word: grapes scream bouquet
-* oomp_word_emoji: :grapes: :scream: :bouquet:
+* oomp_word_emoji :grapes: :scream: :bouquet:
 * md5_6_alpha: 7x6xt
-* md5_6: cb0861* 
+* md5_6: cb0861

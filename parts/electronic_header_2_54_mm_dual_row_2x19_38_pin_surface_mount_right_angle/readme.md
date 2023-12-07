@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x19psmra
 * oomp_word: zap spaghetti office
-* oomp_word_emoji: :zap: :spaghetti: :office:
+* oomp_word_emoji :zap: :spaghetti: :office:
 * md5_6_alpha: 1tn13
-* md5_6: 2ebad7* 
+* md5_6: 2ebad7

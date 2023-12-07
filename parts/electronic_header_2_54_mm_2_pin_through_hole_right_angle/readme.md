@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12pthra
 * oomp_word: toilet lipstick turtle
-* oomp_word_emoji: :toilet: :lipstick: :turtle:
+* oomp_word_emoji :toilet: :lipstick: :turtle:
 * md5_6_alpha: 5akb0
-* md5_6: 87aa4c* 
+* md5_6: 87aa4c

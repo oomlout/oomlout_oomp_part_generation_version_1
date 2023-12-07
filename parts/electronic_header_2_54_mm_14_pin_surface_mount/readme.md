@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi114psm
 * oomp_word: paperclip bath hatched_chick
-* oomp_word_emoji: :paperclip: :bath: :hatched_chick:
+* oomp_word_emoji :paperclip: :bath: :hatched_chick:
 * md5_6_alpha: 5ptfs
-* md5_6: 928648* 
+* md5_6: 928648

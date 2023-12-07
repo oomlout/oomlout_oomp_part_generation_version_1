@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o183
 * oomp_word: lock mushroom bath
-* oomp_word_emoji: :lock: :mushroom: :bath:
+* oomp_word_emoji :lock: :mushroom: :bath:
 * md5_6_alpha: 54l1i
-* md5_6: 836886* 
+* md5_6: 836886

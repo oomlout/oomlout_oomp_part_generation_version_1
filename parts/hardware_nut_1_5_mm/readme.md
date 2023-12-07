@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu
 * oomp_word: dizzy rocket beetle
-* oomp_word_emoji: :dizzy: :rocket: :beetle:
+* oomp_word_emoji :dizzy: :rocket: :beetle:
 * md5_6_alpha: p4y8
-* md5_6: 11e550* 
+* md5_6: 11e550

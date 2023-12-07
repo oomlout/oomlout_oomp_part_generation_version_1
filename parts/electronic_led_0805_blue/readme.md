@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l8l
 * oomp_word: rooster poop pill
-* oomp_word_emoji: :rooster: :poop: :pill:
+* oomp_word_emoji :rooster: :poop: :pill:
 * md5_6_alpha: 3jxxo
-* md5_6: 5b158c* 
+* md5_6: 5b158c

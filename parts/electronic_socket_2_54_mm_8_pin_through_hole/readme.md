@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci18pth
 * oomp_word: thumbsdown car radio
-* oomp_word_emoji: :thumbsdown: :car: :radio:
+* oomp_word_emoji :thumbsdown: :car: :radio:
 * md5_6_alpha: xlky
-* md5_6: 17eb82* 
+* md5_6: 17eb82

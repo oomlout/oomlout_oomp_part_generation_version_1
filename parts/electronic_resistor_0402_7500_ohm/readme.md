@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o752
 * oomp_word: scissors bear wink
-* oomp_word_emoji: :scissors: :bear: :wink:
+* oomp_word_emoji :scissors: :bear: :wink:
 * md5_6_alpha: 5mlfo
-* md5_6: 903b04* 
+* md5_6: 903b04

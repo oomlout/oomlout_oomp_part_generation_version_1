@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o753
 * oomp_word: lock hand clubs
-* oomp_word_emoji: :lock: :hand: :clubs:
+* oomp_word_emoji :lock: :hand: :clubs:
 * md5_6_alpha: 5459a
-* md5_6: 83189e* 
+* md5_6: 83189e

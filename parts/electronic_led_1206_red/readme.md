@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l12r
 * oomp_word: tea crocodile factory
-* oomp_word_emoji: :tea: :crocodile: :factory:
+* oomp_word_emoji :tea: :crocodile: :factory:
 * md5_6_alpha: 72rj0
-* md5_6: b55edc* 
+* md5_6: b55edc

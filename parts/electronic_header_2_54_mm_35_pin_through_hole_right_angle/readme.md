@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi135pthra
 * oomp_word: ship candy droplet
-* oomp_word_emoji: :ship: :candy: :droplet:
+* oomp_word_emoji :ship: :candy: :droplet:
 * md5_6_alpha: 8rq5g
-* md5_6: e0c524* 
+* md5_6: e0c524

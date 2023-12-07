@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12pthl
 * oomp_word: grin dress turtle
-* oomp_word_emoji: :grin: :dress: :turtle:
+* oomp_word_emoji :grin: :dress: :turtle:
 * md5_6_alpha: 55xo
-* md5_6: 03ad4c* 
+* md5_6: 03ad4c

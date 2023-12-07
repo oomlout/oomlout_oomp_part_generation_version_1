@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb50
 * oomp_word: cookie grin octopus
-* oomp_word_emoji: :cookie: :grin: :octopus:
+* oomp_word_emoji :cookie: :grin: :octopus:
 * md5_6_alpha: 7nbyq
-* md5_6: c40352* 
+* md5_6: c40352

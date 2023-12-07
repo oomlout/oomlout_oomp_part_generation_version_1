@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o225
 * oomp_word: pencil bouquet palm_tree
-* oomp_word_emoji: :pencil: :bouquet: :palm_tree:
+* oomp_word_emoji :pencil: :bouquet: :palm_tree:
 * md5_6_alpha: 6dht6
-* md5_6: a3616a* 
+* md5_6: a3616a

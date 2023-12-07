@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu2d5
 * oomp_word: dog office ghost
-* oomp_word_emoji: :dog: :office: :ghost:
+* oomp_word_emoji :dog: :office: :ghost:
 * md5_6_alpha: 20tit
-* md5_6: 33d775* 
+* md5_6: 33d775

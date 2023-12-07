@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o125
 * oomp_word: hatched_chick lipstick paperclip
-* oomp_word_emoji: :hatched_chick: :lipstick: :paperclip:
+* oomp_word_emoji :hatched_chick: :lipstick: :paperclip:
 * md5_6_alpha: 2u2ky
-* md5_6: 48aa92* 
+* md5_6: 48aa92

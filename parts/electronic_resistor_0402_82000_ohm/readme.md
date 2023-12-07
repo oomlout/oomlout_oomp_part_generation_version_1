@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o823
 * oomp_word: blush tophat bowtie
-* oomp_word_emoji: :blush: :tophat: :bowtie:
+* oomp_word_emoji :blush: :tophat: :bowtie:
 * md5_6_alpha: 3rpc
-* md5_6: 02af00* 
+* md5_6: 02af00

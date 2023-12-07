@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi140pths
 * oomp_word: pencil airplane racehorse
-* oomp_word_emoji: :pencil: :airplane: :racehorse:
+* oomp_word_emoji :pencil: :airplane: :racehorse:
 * md5_6_alpha: 6e81s
-* md5_6: a3e640* 
+* md5_6: a3e640

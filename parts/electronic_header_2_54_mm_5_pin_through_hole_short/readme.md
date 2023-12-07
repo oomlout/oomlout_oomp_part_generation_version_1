@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi15pths
 * oomp_word: cupid leaves skull
-* oomp_word_emoji: :cupid: :leaves: :skull:
+* oomp_word_emoji :cupid: :leaves: :skull:
 * md5_6_alpha: k84g
-* md5_6: 0e6620* 
+* md5_6: 0e6620

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: mhm3
 * oomp_word: toilet cyclone smile
-* oomp_word_emoji: :toilet: :cyclone: :smile:
+* oomp_word_emoji :toilet: :cyclone: :smile:
 * md5_6_alpha: 59vy9
-* md5_6: 872f01* 
+* md5_6: 872f01

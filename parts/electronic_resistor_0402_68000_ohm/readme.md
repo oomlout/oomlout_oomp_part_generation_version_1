@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o683
 * oomp_word: train doughnut house
-* oomp_word_emoji: :train: :doughnut: :house:
+* oomp_word_emoji :train: :doughnut: :house:
 * md5_6_alpha: 9e6l1
-* md5_6: f0c1d5* 
+* md5_6: f0c1d5

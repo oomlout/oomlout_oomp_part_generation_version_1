@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi18pth
 * oomp_word: snake cyclone cake
-* oomp_word_emoji: :snake: :cyclone: :cake:
+* oomp_word_emoji :snake: :cyclone: :cake:
 * md5_6_alpha: 2p6mb
-* md5_6: 452fc3* 
+* md5_6: 452fc3

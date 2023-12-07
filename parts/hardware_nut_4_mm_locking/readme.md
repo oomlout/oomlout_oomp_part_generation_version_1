@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu4
 * oomp_word: truck ticket school
-* oomp_word_emoji: :truck: :ticket: :school:
+* oomp_word_emoji :truck: :ticket: :school:
 * md5_6_alpha: 9d1hy
-* md5_6: eff1d6* 
+* md5_6: eff1d6

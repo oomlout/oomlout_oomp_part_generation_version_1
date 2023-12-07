@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb6
 * oomp_word: scroll sheep ok
-* oomp_word_emoji: :scroll: :sheep: :ok:
+* oomp_word_emoji :scroll: :sheep: :ok:
 * md5_6_alpha: 5ifaz
-* md5_6: 8d42fb* 
+* md5_6: 8d42fb

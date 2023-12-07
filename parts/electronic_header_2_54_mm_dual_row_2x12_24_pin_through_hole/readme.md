@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x12pth
 * oomp_word: coffee droplet smile
-* oomp_word_emoji: :coffee: :droplet: :smile:
+* oomp_word_emoji :coffee: :droplet: :smile:
 * md5_6_alpha: 711c1
-* md5_6: b42401* 
+* md5_6: b42401

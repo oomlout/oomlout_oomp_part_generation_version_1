@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x6psm
 * oomp_word: frog pear anger
-* oomp_word_emoji: :frog: :pear: :anger:
+* oomp_word_emoji :frog: :pear: :anger:
 * md5_6_alpha: 27t3m
-* md5_6: 38d112* 
+* md5_6: 38d112

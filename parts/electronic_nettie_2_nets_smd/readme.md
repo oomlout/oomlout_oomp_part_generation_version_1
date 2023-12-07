@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nt2
 * oomp_word: honeybee two blowfish
-* oomp_word_emoji: :honeybee: :two: :blowfish:
+* oomp_word_emoji :honeybee: :two: :blowfish:
 * md5_6_alpha: 32wd9
-* md5_6: 4ef35d* 
+* md5_6: 4ef35d

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l4r
 * oomp_word: banana eight blowfish
-* oomp_word_emoji: :banana: :eight: :blowfish:
+* oomp_word_emoji :banana: :eight: :blowfish:
 * md5_6_alpha: 85jdp
-* md5_6: d0f95d* 
+* md5_6: d0f95d

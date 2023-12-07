@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh2pthra
 * oomp_word: nine airplane rooster
-* oomp_word_emoji: :nine: :airplane: :rooster:
+* oomp_word_emoji :nine: :airplane: :rooster:
 * md5_6_alpha: 9sfh7
-* md5_6: fae65b* 
+* md5_6: fae65b

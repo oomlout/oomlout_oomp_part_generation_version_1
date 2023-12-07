@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o332
 * oomp_word: droplet pizza ant
-* oomp_word_emoji: :droplet: :pizza: :ant:
+* oomp_word_emoji :droplet: :pizza: :ant:
 * md5_6_alpha: 1fknj
-* md5_6: 24b74f* 
+* md5_6: 24b74f

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nt3th
 * oomp_word: egg trumpet trident
-* oomp_word_emoji: :egg: :trumpet: :trident:
+* oomp_word_emoji :egg: :trumpet: :trident:
 * md5_6_alpha: 7h7gf
-* md5_6: bfa6ff* 
+* md5_6: bfa6ff

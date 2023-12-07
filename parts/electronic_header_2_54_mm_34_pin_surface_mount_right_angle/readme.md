@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi134psmra
 * oomp_word: bell radio hamburger
-* oomp_word_emoji: :bell: :radio: :hamburger:
+* oomp_word_emoji :bell: :radio: :hamburger:
 * md5_6_alpha: 4p9yw
-* md5_6: 7882b8* 
+* md5_6: 7882b8

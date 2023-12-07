@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu8
 * oomp_word: ambulance leaves whale
-* oomp_word_emoji: :ambulance: :leaves: :whale:
+* oomp_word_emoji :ambulance: :leaves: :whale:
 * md5_6_alpha: 9avdg
-* md5_6: ee6654* 
+* md5_6: ee6654

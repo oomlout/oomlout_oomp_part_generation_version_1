@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: conw2213po
 * oomp_word: bus headphones cow
-* oomp_word_emoji: :bus: :headphones: :cow:
+* oomp_word_emoji :bus: :headphones: :cow:
 * md5_6_alpha: 99t8d
-* md5_6: eda53d* 
+* md5_6: eda53d

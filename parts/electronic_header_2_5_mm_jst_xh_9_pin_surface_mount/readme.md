@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh9psm
 * oomp_word: two seven factory
-* oomp_word_emoji: :two: :seven: :factory:
+* oomp_word_emoji :two: :seven: :factory:
 * md5_6_alpha: 9ip5o
-* md5_6: f3f8dc* 
+* md5_6: f3f8dc

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss
 * oomp_word: peach angel bank
-* oomp_word_emoji: :peach: :angel: :bank:
+* oomp_word_emoji :peach: :angel: :bank:
 * md5_6_alpha: 81j2x
-* md5_6: ce1ed9* 
+* md5_6: ce1ed9

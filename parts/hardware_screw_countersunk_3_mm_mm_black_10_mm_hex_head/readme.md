@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb10
 * oomp_word: handbag bath melon
-* oomp_word_emoji: :handbag: :bath: :melon:
+* oomp_word_emoji :handbag: :bath: :melon:
 * md5_6_alpha: 6yrpr
-* md5_6: b286cf* 
+* md5_6: b286cf

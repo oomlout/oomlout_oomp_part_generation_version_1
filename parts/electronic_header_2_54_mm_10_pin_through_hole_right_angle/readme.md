@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi110pthra
 * oomp_word: snowflake pizza watermelon
-* oomp_word_emoji: :snowflake: :pizza: :watermelon:
+* oomp_word_emoji :snowflake: :pizza: :watermelon:
 * md5_6_alpha: 1qtak
-* md5_6: 2cb7cc* 
+* md5_6: 2cb7cc

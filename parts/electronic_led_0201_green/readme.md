@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: lg
 * oomp_word: envelope lollipop tomato
-* oomp_word_emoji: :envelope: :lollipop: :tomato:
+* oomp_word_emoji :envelope: :lollipop: :tomato:
 * md5_6_alpha: 5exn7
-* md5_6: 8ac6d3* 
+* md5_6: 8ac6d3

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ll
 * oomp_word: banana bouquet phone
-* oomp_word_emoji: :banana: :bouquet: :phone:
+* oomp_word_emoji :banana: :bouquet: :phone:
 * md5_6_alpha: 84pdp
-* md5_6: d0617d* 
+* md5_6: d0617d

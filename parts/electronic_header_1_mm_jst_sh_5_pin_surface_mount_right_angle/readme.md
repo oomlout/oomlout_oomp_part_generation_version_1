@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjsh5psmra
 * oomp_word: tophat dolphin bug
-* oomp_word_emoji: :tophat: :dolphin: :bug:
+* oomp_word_emoji :tophat: :dolphin: :bug:
 * md5_6_alpha: 6ua8d
-* md5_6: af554d* 
+* md5_6: af554d

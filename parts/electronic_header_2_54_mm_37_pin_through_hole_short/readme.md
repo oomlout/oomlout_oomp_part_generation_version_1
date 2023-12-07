@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi137pths
 * oomp_word: flags princess wolf
-* oomp_word_emoji: :flags: :princess: :wolf:
+* oomp_word_emoji :flags: :princess: :wolf:
 * md5_6_alpha: 4hph3
-* md5_6: 731f37* 
+* md5_6: 731f37

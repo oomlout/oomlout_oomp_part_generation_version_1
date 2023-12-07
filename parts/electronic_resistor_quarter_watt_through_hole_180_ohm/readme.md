@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro181
 * oomp_word: dragon tophat bird
-* oomp_word_emoji: :dragon: :tophat: :bird:
+* oomp_word_emoji :dragon: :tophat: :bird:
 * md5_6_alpha: 3hz5y
-* md5_6: 59af46* 
+* md5_6: 59af46

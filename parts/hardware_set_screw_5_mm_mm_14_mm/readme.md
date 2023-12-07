@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss14
 * oomp_word: grapes hotel five
-* oomp_word_emoji: :grapes: :hotel: :five:
+* oomp_word_emoji :grapes: :hotel: :five:
 * md5_6_alpha: 7ycja
-* md5_6: cbdaf6* 
+* md5_6: cbdaf6

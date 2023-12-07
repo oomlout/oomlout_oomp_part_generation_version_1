@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb12
 * oomp_word: truck book hearts
-* oomp_word_emoji: :truck: :book: :hearts:
+* oomp_word_emoji :truck: :book: :hearts:
 * md5_6_alpha: 9cm8t
-* md5_6: efa49d* 
+* md5_6: efa49d

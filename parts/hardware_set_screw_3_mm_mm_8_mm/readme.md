@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss8
 * oomp_word: bamboo whale calendar
-* oomp_word_emoji: :bamboo: :whale: :calendar:
+* oomp_word_emoji :bamboo: :whale: :calendar:
 * md5_6_alpha: 4f6vj
-* md5_6: 71548f* 
+* md5_6: 71548f

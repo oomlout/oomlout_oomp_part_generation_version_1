@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi133pthl
 * oomp_word: ticket wolf pill
-* oomp_word_emoji: :ticket: :wolf: :pill:
+* oomp_word_emoji :ticket: :wolf: :pill:
 * md5_6_alpha: 9etu4
-* md5_6: f1378c* 
+* md5_6: f1378c

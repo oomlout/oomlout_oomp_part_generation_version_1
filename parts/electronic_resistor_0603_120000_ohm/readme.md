@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o124
 * oomp_word: fireworks thumbsdown telescope
-* oomp_word_emoji: :fireworks: :thumbsdown: :telescope:
+* oomp_word_emoji :fireworks: :thumbsdown: :telescope:
 * md5_6_alpha: 4j2j9
-* md5_6: 741795* 
+* md5_6: 741795

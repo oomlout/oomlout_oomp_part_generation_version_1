@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu3
 * oomp_word: palm_tree crocodile horse
-* oomp_word_emoji: :palm_tree: :crocodile: :horse:
+* oomp_word_emoji :palm_tree: :crocodile: :horse:
 * md5_6_alpha: 45etb
-* md5_6: 6a5e3f* 
+* md5_6: 6a5e3f

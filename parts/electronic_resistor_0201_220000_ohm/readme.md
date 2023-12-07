@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro224
 * oomp_word: camel snowman truck
-* oomp_word_emoji: :camel: :snowman: :truck:
+* oomp_word_emoji :camel: :snowman: :truck:
 * md5_6_alpha: 2jjzj
-* md5_6: 412def* 
+* md5_6: 412def

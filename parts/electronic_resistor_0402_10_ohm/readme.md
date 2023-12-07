@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o100
 * oomp_word: rose school door
-* oomp_word_emoji: :rose: :school: :door:
+* oomp_word_emoji :rose: :school: :door:
 * md5_6_alpha: 3w8ln
-* md5_6: 63d68b* 
+* md5_6: 63d68b

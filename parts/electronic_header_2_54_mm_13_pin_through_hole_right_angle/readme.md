@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi113pthra
 * oomp_word: rowboat snowman rocket
-* oomp_word_emoji: :rowboat: :snowman: :rocket:
+* oomp_word_emoji :rowboat: :snowman: :rocket:
 * md5_6_alpha: 8v3z9
-* md5_6: e32de5* 
+* md5_6: e32de5

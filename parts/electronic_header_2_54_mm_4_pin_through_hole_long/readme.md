@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi14pthl
 * oomp_word: poodle ram bowling
-* oomp_word_emoji: :poodle: :ram: :bowling:
+* oomp_word_emoji :poodle: :ram: :bowling:
 * md5_6_alpha: 3rbmh
-* md5_6: 605699* 
+* md5_6: 605699

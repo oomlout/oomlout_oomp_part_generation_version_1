@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb8
 * oomp_word: fire question bell
-* oomp_word_emoji: :fire: :question: :bell:
+* oomp_word_emoji :fire: :question: :bell:
 * md5_6_alpha: s77c
-* md5_6: 141378* 
+* md5_6: 141378

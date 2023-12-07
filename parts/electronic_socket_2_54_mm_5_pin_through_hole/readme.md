@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci15pth
 * oomp_word: poop tomato bowtie
-* oomp_word_emoji: :poop: :tomato: :bowtie:
+* oomp_word_emoji :poop: :tomato: :bowtie:
 * md5_6_alpha: unls
-* md5_6: 15d300* 
+* md5_6: 15d300

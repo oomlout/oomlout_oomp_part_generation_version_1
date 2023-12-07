@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci113pthl
 * oomp_word: lips leaves ear
-* oomp_word_emoji: :lips: :leaves: :ear:
+* oomp_word_emoji :lips: :leaves: :ear:
 * md5_6_alpha: 1cbhh
-* md5_6: 226625* 
+* md5_6: 226625

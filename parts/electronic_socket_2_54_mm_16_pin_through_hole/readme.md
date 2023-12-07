@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci116pth
 * oomp_word: snake diamonds lock
-* oomp_word_emoji: :snake: :diamonds: :lock:
+* oomp_word_emoji :snake: :diamonds: :lock:
 * md5_6_alpha: 2psoz
-* md5_6: 459f83* 
+* md5_6: 459f83

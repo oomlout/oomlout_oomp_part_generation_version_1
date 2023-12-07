@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb40
 * oomp_word: baby_chick bank ski
-* oomp_word_emoji: :baby_chick: :bank: :ski:
+* oomp_word_emoji :baby_chick: :bank: :ski:
 * md5_6_alpha: 2sxaz
-* md5_6: 47d99b* 
+* md5_6: 47d99b

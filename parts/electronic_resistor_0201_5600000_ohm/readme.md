@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro565
 * oomp_word: factory dancer mouse
-* oomp_word_emoji: :factory: :dancer: :mouse:
+* oomp_word_emoji :factory: :dancer: :mouse:
 * md5_6_alpha: 8l6ic
-* md5_6: dc1c34* 
+* md5_6: dc1c34

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi19pth
 * oomp_word: office blowfish bowtie
-* oomp_word_emoji: :office: :blowfish: :bowtie:
+* oomp_word_emoji :office: :blowfish: :bowtie:
 * md5_6_alpha: 8eigw
-* md5_6: d75d00* 
+* md5_6: d75d00

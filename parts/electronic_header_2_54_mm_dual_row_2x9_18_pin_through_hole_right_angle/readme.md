@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x9pthra
 * oomp_word: baseball dolls microscope
-* oomp_word_emoji: :baseball: :dolls: :microscope:
+* oomp_word_emoji :baseball: :dolls: :microscope:
 * md5_6_alpha: 5wqdw
-* md5_6: 977294* 
+* md5_6: 977294

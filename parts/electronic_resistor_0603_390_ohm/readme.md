@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o391
 * oomp_word: book one bowling
-* oomp_word_emoji: :book: :one: :bowling:
+* oomp_word_emoji :book: :one: :bowling:
 * md5_6_alpha: 6fp21
-* md5_6: a4f299* 
+* md5_6: a4f299

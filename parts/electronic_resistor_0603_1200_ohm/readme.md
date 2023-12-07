@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o122
 * oomp_word: baby hamburger dress
-* oomp_word_emoji: :baby: :hamburger: :dress:
+* oomp_word_emoji :baby: :hamburger: :dress:
 * md5_6_alpha: 15qy5
-* md5_6: 1db8ad* 
+* md5_6: 1db8ad

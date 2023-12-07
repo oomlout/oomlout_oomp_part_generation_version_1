@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o331
 * oomp_word: truck skull lollipop
-* oomp_word_emoji: :truck: :skull: :lollipop:
+* oomp_word_emoji :truck: :skull: :lollipop:
 * md5_6_alpha: 9bw7a
-* md5_6: ef20c6* 
+* md5_6: ef20c6

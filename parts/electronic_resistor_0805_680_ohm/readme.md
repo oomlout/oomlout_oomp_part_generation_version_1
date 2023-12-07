@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o681
 * oomp_word: star watch tea
-* oomp_word_emoji: :star: :watch: :tea:
+* oomp_word_emoji :star: :watch: :tea:
 * md5_6_alpha: n6ph
-* md5_6: 1081b5* 
+* md5_6: 1081b5

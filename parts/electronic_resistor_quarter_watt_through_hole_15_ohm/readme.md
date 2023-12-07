@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro150
 * oomp_word: turtle eight skull
-* oomp_word_emoji: :turtle: :eight: :skull:
+* oomp_word_emoji :turtle: :eight: :skull:
 * md5_6_alpha: 304dc
-* md5_6: 4cf920* 
+* md5_6: 4cf920

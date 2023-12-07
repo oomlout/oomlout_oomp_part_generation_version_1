@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x40psm
 * oomp_word: bus grin eyeglasses
-* oomp_word_emoji: :bus: :grin: :eyeglasses:
+* oomp_word_emoji :bus: :grin: :eyeglasses:
 * md5_6_alpha: 98xbn
-* md5_6: ed03b3* 
+* md5_6: ed03b3

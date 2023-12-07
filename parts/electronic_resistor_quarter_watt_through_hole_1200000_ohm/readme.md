@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro125
 * oomp_word: wink ship spaghetti
-* oomp_word_emoji: :wink: :ship: :spaghetti:
+* oomp_word_emoji :wink: :ship: :spaghetti:
 * md5_6_alpha: 6unu
-* md5_6: 04e0ba* 
+* md5_6: 04e0ba

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi138psm
 * oomp_word: bike recycle anger
-* oomp_word_emoji: :bike: :recycle: :anger:
+* oomp_word_emoji :bike: :recycle: :anger:
 * md5_6_alpha: 94oia
-* md5_6: e9fe12* 
+* md5_6: e9fe12

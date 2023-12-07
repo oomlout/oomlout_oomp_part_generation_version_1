@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci120pth
 * oomp_word: blowfish leopard blossom
-* oomp_word_emoji: :blowfish: :leopard: :blossom:
+* oomp_word_emoji :blowfish: :leopard: :blossom:
 * md5_6_alpha: 3n5nw
-* md5_6: 5d5f6c* 
+* md5_6: 5d5f6c

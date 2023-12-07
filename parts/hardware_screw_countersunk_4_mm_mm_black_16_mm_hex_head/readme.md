@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb16
 * oomp_word: bear angry boot
-* oomp_word_emoji: :bear: :angry: :boot:
+* oomp_word_emoji :bear: :angry: :boot:
 * md5_6_alpha: 2axez
-* md5_6: 3b09ab* 
+* md5_6: 3b09ab

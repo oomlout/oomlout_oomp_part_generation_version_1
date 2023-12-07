@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: isp16ch340b
 * oomp_word: tractor tongue beer
-* oomp_word_emoji: :tractor: :tongue: :beer:
+* oomp_word_emoji :tractor: :tongue: :beer:
 * md5_6_alpha: 94wxi
-* md5_6: ea28b6* 
+* md5_6: ea28b6

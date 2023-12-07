@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o103
 * oomp_word: hourglass spades pig
-* oomp_word_emoji: :hourglass: :spades: :pig:
+* oomp_word_emoji :hourglass: :spades: :pig:
 * md5_6_alpha: 50njw
-* md5_6: 809c3c* 
+* md5_6: 809c3c

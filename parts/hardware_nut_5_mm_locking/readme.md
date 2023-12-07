@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu5
 * oomp_word: phone anger trumpet
-* oomp_word_emoji: :phone: :anger: :trumpet:
+* oomp_word_emoji :phone: :anger: :trumpet:
 * md5_6_alpha: 4voo6
-* md5_6: 7d12a6* 
+* md5_6: 7d12a6

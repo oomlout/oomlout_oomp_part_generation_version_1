@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi116psm
 * oomp_word: bouquet hospital dress
-* oomp_word_emoji: :bouquet: :hospital: :dress:
+* oomp_word_emoji :bouquet: :hospital: :dress:
 * md5_6_alpha: 3tfvx
-* md5_6: 61d8ad* 
+* md5_6: 61d8ad

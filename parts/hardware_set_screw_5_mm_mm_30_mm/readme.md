@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss30
 * oomp_word: maple_leaf tennis microscope
-* oomp_word_emoji: :maple_leaf: :tennis: :microscope:
+* oomp_word_emoji :maple_leaf: :tennis: :microscope:
 * md5_6_alpha: 3yphw
-* md5_6: 659894* 
+* md5_6: 659894

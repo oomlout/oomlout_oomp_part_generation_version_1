@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss15
 * oomp_word: doughnut bouquet tomato
-* oomp_word_emoji: :doughnut: :bouquet: :tomato:
+* oomp_word_emoji :doughnut: :bouquet: :tomato:
 * md5_6_alpha: 7jmxf
-* md5_6: c161d3* 
+* md5_6: c161d3

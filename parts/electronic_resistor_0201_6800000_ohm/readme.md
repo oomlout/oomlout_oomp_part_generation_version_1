@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro685
 * oomp_word: banana lipstick fries
-* oomp_word_emoji: :banana: :lipstick: :fries:
+* oomp_word_emoji :banana: :lipstick: :fries:
 * md5_6_alpha: 853uh
-* md5_6: d0aab9* 
+* md5_6: d0aab9

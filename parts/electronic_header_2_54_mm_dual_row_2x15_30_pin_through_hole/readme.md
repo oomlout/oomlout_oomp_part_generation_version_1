@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x15pth
 * oomp_word: trumpet bath frog
-* oomp_word_emoji: :trumpet: :bath: :frog:
+* oomp_word_emoji :trumpet: :bath: :frog:
 * md5_6_alpha: 6hws8
-* md5_6: a68638* 
+* md5_6: a68638

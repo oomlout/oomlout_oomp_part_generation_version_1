@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o471
 * oomp_word: princess maple_leaf tiger
-* oomp_word_emoji: :princess: :maple_leaf: :tiger:
+* oomp_word_emoji :princess: :maple_leaf: :tiger:
 * md5_6_alpha: 183ll
-* md5_6: 1f6539* 
+* md5_6: 1f6539

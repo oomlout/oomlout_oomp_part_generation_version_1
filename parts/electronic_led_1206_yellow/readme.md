@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l12y
 * oomp_word: hatched_chick tv lollipop
-* oomp_word_emoji: :hatched_chick: :tv: :lollipop:
+* oomp_word_emoji :hatched_chick: :tv: :lollipop:
 * md5_6_alpha: 2ttja
-* md5_6: 487cc6* 
+* md5_6: 487cc6

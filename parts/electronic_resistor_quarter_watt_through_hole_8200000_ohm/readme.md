@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro825
 * oomp_word: grapes dog helicopter
-* oomp_word_emoji: :grapes: :dog: :helicopter:
+* oomp_word_emoji :grapes: :dog: :helicopter:
 * md5_6_alpha: 7xfjb
-* md5_6: cb33e7* 
+* md5_6: cb33e7

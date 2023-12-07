@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: w5
 * oomp_word: leopard ski hamster
-* oomp_word_emoji: :leopard: :ski: :hamster:
+* oomp_word_emoji :leopard: :ski: :hamster:
 * md5_6_alpha: 3qalx
-* md5_6: 5f9b35* 
+* md5_6: 5f9b35

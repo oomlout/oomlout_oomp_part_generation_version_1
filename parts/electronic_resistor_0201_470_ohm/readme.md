@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro471
 * oomp_word: tram spaghetti curry
-* oomp_word_emoji: :tram: :spaghetti: :curry:
+* oomp_word_emoji :tram: :spaghetti: :curry:
 * md5_6_alpha: 92wmz
-* md5_6: e8babb* 
+* md5_6: e8babb

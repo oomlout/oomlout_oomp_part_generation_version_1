@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi136psm
 * oomp_word: pushpin bank rocket
-* oomp_word_emoji: :pushpin: :bank: :rocket:
+* oomp_word_emoji :pushpin: :bank: :rocket:
 * md5_6_alpha: 5ovdx
-* md5_6: 91d9e5* 
+* md5_6: 91d9e5

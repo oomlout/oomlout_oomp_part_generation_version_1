@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi129psmra
 * oomp_word: cyclone ok pig
-* oomp_word_emoji: :cyclone: :ok: :pig:
+* oomp_word_emoji :cyclone: :ok: :pig:
 * md5_6_alpha: 1vebg
-* md5_6: 2ffb3c* 
+* md5_6: 2ffb3c

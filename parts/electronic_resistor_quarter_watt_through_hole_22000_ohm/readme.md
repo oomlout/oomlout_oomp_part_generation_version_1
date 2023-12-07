@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro223
 * oomp_word: kissing basketball snowman
-* oomp_word_emoji: :kissing: :basketball: :snowman:
+* oomp_word_emoji :kissing: :basketball: :snowman:
 * md5_6_alpha: 7ui5
-* md5_6: 05962d* 
+* md5_6: 05962d

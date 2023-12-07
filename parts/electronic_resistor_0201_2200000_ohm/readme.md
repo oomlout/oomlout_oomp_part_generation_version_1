@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro225
 * oomp_word: bug shirt trumpet
-* oomp_word_emoji: :bug: :shirt: :trumpet:
+* oomp_word_emoji :bug: :shirt: :trumpet:
 * md5_6_alpha: 313ty
-* md5_6: 4daca6* 
+* md5_6: 4daca6

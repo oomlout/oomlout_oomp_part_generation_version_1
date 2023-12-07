@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hob3thra
 * oomp_word: fire shirt nine
-* oomp_word_emoji: :fire: :shirt: :nine:
+* oomp_word_emoji :fire: :shirt: :nine:
 * md5_6_alpha: t1iy
-* md5_6: 14acfa* 
+* md5_6: 14acfa

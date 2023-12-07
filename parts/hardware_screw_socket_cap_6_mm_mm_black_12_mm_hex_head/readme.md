@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb12
 * oomp_word: corn cyclone squirrel
-* oomp_word_emoji: :corn: :cyclone: :squirrel:
+* oomp_word_emoji :corn: :cyclone: :squirrel:
 * md5_6_alpha: 8a1rk
-* md5_6: d42f70* 
+* md5_6: d42f70

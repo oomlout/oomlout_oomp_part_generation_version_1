@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro185
 * oomp_word: shoe trophy mouse
-* oomp_word_emoji: :shoe: :trophy: :mouse:
+* oomp_word_emoji :shoe: :trophy: :mouse:
 * md5_6_alpha: 6kv90
-* md5_6: a8a134* 
+* md5_6: a8a134

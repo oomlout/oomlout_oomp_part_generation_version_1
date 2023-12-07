@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: 400p
 * oomp_word: dancer violin palm_tree
-* oomp_word_emoji: :dancer: :violin: :palm_tree:
+* oomp_word_emoji :dancer: :violin: :palm_tree:
 * md5_6_alpha: 147ze
-* md5_6: 1ca26a* 
+* md5_6: 1ca26a

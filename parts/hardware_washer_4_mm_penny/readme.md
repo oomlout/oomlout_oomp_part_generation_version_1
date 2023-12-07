@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: w4
 * oomp_word: sunflower golf hatching_chick
-* oomp_word_emoji: :sunflower: :golf: :hatching_chick:
+* oomp_word_emoji :sunflower: :golf: :hatching_chick:
 * md5_6_alpha: 3xb9l
-* md5_6: 649a49* 
+* md5_6: 649a49

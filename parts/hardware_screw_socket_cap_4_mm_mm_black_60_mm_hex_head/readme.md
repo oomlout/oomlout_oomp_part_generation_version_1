@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb60
 * oomp_word: eyes crocodile ski
-* oomp_word_emoji: :eyes: :crocodile: :ski:
+* oomp_word_emoji :eyes: :crocodile: :ski:
 * md5_6_alpha: 1hw9n
-* md5_6: 265e9b* 
+* md5_6: 265e9b

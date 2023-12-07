@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb30
 * oomp_word: blowfish hatching_chick lock
-* oomp_word_emoji: :blowfish: :hatching_chick: :lock:
+* oomp_word_emoji :blowfish: :hatching_chick: :lock:
 * md5_6_alpha: 3n1c3
-* md5_6: 5d4983* 
+* md5_6: 5d4983

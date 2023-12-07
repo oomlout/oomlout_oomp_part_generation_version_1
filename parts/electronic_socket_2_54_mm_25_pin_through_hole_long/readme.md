@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci125pthl
 * oomp_word: crocodile chicken tennis
-* oomp_word_emoji: :crocodile: :chicken: :tennis:
+* oomp_word_emoji :crocodile: :chicken: :tennis:
 * md5_6_alpha: 3og48
-* md5_6: 5e4a98* 
+* md5_6: 5e4a98

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b25
 * oomp_word: racehorse ram cupid
-* oomp_word_emoji: :racehorse: :ram: :cupid:
+* oomp_word_emoji :racehorse: :ram: :cupid:
 * md5_6_alpha: 2idce
-* md5_6: 40560e* 
+* md5_6: 40560e

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o334
 * oomp_word: mouse books nose
-* oomp_word_emoji: :mouse: :books: :nose:
+* oomp_word_emoji :mouse: :books: :nose:
 * md5_6_alpha: 21ulj
-* md5_6: 349327* 
+* md5_6: 349327

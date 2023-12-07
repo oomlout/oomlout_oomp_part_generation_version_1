@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi139psmra
 * oomp_word: sushi diamonds turtle
-* oomp_word_emoji: :sushi: :diamonds: :turtle:
+* oomp_word_emoji :sushi: :diamonds: :turtle:
 * md5_6_alpha: 7cy8c
-* md5_6: bc9f4c* 
+* md5_6: bc9f4c

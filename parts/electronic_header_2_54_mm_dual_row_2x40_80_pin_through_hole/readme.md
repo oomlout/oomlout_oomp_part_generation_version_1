@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x40pth
 * oomp_word: truck lemon poodle
-* oomp_word_emoji: :truck: :lemon: :poodle:
+* oomp_word_emoji :truck: :lemon: :poodle:
 * md5_6_alpha: 9cti8
-* md5_6: efc960* 
+* md5_6: efc960

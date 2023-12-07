@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci14pth
 * oomp_word: jeans sleeping pencil
-* oomp_word_emoji: :jeans: :sleeping: :pencil:
+* oomp_word_emoji :jeans: :sleeping: :pencil:
 * md5_6_alpha: 6sg4j
-* md5_6: ae06a3* 
+* md5_6: ae06a3

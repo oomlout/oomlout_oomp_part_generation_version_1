@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o681
 * oomp_word: grin hamburger eight
-* oomp_word_emoji: :grin: :hamburger: :eight:
+* oomp_word_emoji :grin: :hamburger: :eight:
 * md5_6_alpha: 588p
-* md5_6: 03b8f9* 
+* md5_6: 03b8f9

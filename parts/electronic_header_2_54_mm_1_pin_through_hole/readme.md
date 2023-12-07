@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi11pth
 * oomp_word: ocean shirt dolphin
-* oomp_word_emoji: :ocean: :shirt: :dolphin:
+* oomp_word_emoji :ocean: :shirt: :dolphin:
 * md5_6_alpha: 1xrv9
-* md5_6: 31ac55* 
+* md5_6: 31ac55

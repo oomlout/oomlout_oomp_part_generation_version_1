@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro470
 * oomp_word: leopard herb chicken
-* oomp_word_emoji: :leopard: :herb: :chicken:
+* oomp_word_emoji :leopard: :herb: :chicken:
 * md5_6_alpha: 3q0cq
-* md5_6: 5f674a* 
+* md5_6: 5f674a

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb10
 * oomp_word: book bamboo pizza
-* oomp_word_emoji: :book: :bamboo: :pizza:
+* oomp_word_emoji :book: :bamboo: :pizza:
 * md5_6_alpha: 6ezlj
-* md5_6: a471b7* 
+* md5_6: a471b7

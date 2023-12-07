@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi126pthra
 * oomp_word: lock sunny kiss
-* oomp_word_emoji: :lock: :sunny: :kiss:
+* oomp_word_emoji :lock: :sunny: :kiss:
 * md5_6_alpha: 548ir
-* md5_6: 832923* 
+* md5_6: 832923

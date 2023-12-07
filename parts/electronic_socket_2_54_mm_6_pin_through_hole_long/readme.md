@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci16pthl
 * oomp_word: pencil hamster zap
-* oomp_word_emoji: :pencil: :hamster: :zap:
+* oomp_word_emoji :pencil: :hamster: :zap:
 * md5_6_alpha: 6d92m
-* md5_6: a3352e* 
+* md5_6: a3352e

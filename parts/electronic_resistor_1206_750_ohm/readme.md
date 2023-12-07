@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o751
 * oomp_word: thumbsup new_moon rowboat
-* oomp_word_emoji: :thumbsup: :new_moon: :rowboat:
+* oomp_word_emoji :thumbsup: :new_moon: :rowboat:
 * md5_6_alpha: vieb
-* md5_6: 166ee3* 
+* md5_6: 166ee3

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: chi1b12pd
 * oomp_word: doughnut recycle toilet
-* oomp_word_emoji: :doughnut: :recycle: :toilet:
+* oomp_word_emoji :doughnut: :recycle: :toilet:
 * md5_6_alpha: 7khvr
-* md5_6: c1fe87* 
+* md5_6: c1fe87

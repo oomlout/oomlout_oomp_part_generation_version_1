@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro334
 * oomp_word: cupid foggy cry
-* oomp_word_emoji: :cupid: :foggy: :cry:
+* oomp_word_emoji :cupid: :foggy: :cry:
 * md5_6_alpha: jxfr
-* md5_6: 0e3007* 
+* md5_6: 0e3007

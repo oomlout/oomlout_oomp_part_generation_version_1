@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi129psm
 * oomp_word: sparkles bear fish
-* oomp_word_emoji: :sparkles: :bear: :fish:
+* oomp_word_emoji :sparkles: :bear: :fish:
 * md5_6_alpha: le8j
-* md5_6: 0f3b53* 
+* md5_6: 0f3b53

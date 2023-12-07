@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o753
 * oomp_word: school rat snowflake
-* oomp_word_emoji: :school: :rat: :snowflake:
+* oomp_word_emoji :school: :rat: :snowflake:
 * md5_6_alpha: 8d2r0
-* md5_6: d6572c* 
+* md5_6: d6572c

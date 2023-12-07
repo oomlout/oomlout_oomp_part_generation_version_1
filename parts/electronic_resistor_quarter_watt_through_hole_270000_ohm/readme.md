@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro274
 * oomp_word: bird bread tomato
-* oomp_word_emoji: :bird: :bread: :tomato:
+* oomp_word_emoji :bird: :bread: :tomato:
 * md5_6_alpha: 2rdub
-* md5_6: 46c0d3* 
+* md5_6: 46c0d3

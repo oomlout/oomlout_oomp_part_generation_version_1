@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o391
 * oomp_word: hearts kissing hearts
-* oomp_word_emoji: :hearts: :kissing: :hearts:
+* oomp_word_emoji :hearts: :kissing: :hearts:
 * md5_6_alpha: 64k9p
-* md5_6: 9d059d* 
+* md5_6: 9d059d

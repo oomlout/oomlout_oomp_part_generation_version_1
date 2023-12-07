@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro221
 * oomp_word: hourglass star taxi
-* oomp_word_emoji: :hourglass: :star: :taxi:
+* oomp_word_emoji :hourglass: :star: :taxi:
 * md5_6_alpha: 4zw18
-* md5_6: 8010ec* 
+* md5_6: 8010ec

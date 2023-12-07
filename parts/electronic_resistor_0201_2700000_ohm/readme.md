@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro275
 * oomp_word: fax bank scream
-* oomp_word_emoji: :fax: :bank: :scream:
+* oomp_word_emoji :fax: :bank: :scream:
 * md5_6_alpha: 4y6fc
-* md5_6: 7ed908* 
+* md5_6: 7ed908

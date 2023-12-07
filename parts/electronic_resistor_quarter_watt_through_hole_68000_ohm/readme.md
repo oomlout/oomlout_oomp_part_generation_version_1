@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro683
 * oomp_word: ship muscle watch
-* oomp_word_emoji: :ship: :muscle: :watch:
+* oomp_word_emoji :ship: :muscle: :watch:
 * md5_6_alpha: 8qsn5
-* md5_6: e01b81* 
+* md5_6: e01b81

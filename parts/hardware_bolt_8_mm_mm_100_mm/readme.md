@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b
 * oomp_word: two tv ox
-* oomp_word_emoji: :two: :tv: :ox:
+* oomp_word_emoji :two: :tv: :ox:
 * md5_6_alpha: 9i0kc
-* md5_6: f37c5c* 
+* md5_6: f37c5c

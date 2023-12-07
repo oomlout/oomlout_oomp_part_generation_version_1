@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss30
 * oomp_word: sheep bell fax
-* oomp_word_emoji: :sheep: :bell: :fax:
+* oomp_word_emoji :sheep: :bell: :fax:
 * md5_6_alpha: 2lda6
-* md5_6: 42787e* 
+* md5_6: 42787e

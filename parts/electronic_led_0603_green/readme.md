@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l6g
 * oomp_word: coffee tram kiss
-* oomp_word_emoji: :coffee: :tram: :kiss:
+* oomp_word_emoji :coffee: :tram: :kiss:
 * md5_6_alpha: 7242r
-* md5_6: b4e823* 
+* md5_6: b4e823

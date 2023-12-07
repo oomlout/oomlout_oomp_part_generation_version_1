@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o181
 * oomp_word: racehorse briefcase blossom
-* oomp_word_emoji: :racehorse: :briefcase: :blossom:
+* oomp_word_emoji :racehorse: :briefcase: :blossom:
 * md5_6_alpha: 2ive4
-* md5_6: 40b16c* 
+* md5_6: 40b16c

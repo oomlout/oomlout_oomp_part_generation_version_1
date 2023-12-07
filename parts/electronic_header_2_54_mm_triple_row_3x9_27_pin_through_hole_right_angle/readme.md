@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hthra
 * oomp_word: herb two ok
-* oomp_word_emoji: :herb: :two: :ok:
+* oomp_word_emoji :herb: :two: :ok:
 * md5_6_alpha: 420or
-* md5_6: 67f3fb* 
+* md5_6: 67f3fb

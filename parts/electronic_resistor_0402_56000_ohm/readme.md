@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o563
 * oomp_word: bear one one
-* oomp_word_emoji: :bear: :one: :one:
+* oomp_word_emoji :bear: :one: :one:
 * md5_6_alpha: 2c7hu
-* md5_6: 3bf2f2* 
+* md5_6: 3bf2f2

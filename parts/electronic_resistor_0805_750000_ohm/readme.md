@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o754
 * oomp_word: guitar dress watermelon
-* oomp_word_emoji: :guitar: :dress: :watermelon:
+* oomp_word_emoji :guitar: :dress: :watermelon:
 * md5_6_alpha: 6jj64
-* md5_6: a7adcc* 
+* md5_6: a7adcc

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o683
 * oomp_word: palm_tree paperclip sailboat
-* oomp_word_emoji: :palm_tree: :paperclip: :sailboat:
+* oomp_word_emoji :palm_tree: :paperclip: :sailboat:
 * md5_6_alpha: 45p7m
-* md5_6: 6a92e2* 
+* md5_6: 6a92e2

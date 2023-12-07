@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro154
 * oomp_word: sunflower candy recycle
-* oomp_word_emoji: :sunflower: :candy: :recycle:
+* oomp_word_emoji :sunflower: :candy: :recycle:
 * md5_6_alpha: 3xjwe
-* md5_6: 64c5fe* 
+* md5_6: 64c5fe

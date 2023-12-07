@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o564
 * oomp_word: bath palm_tree baby_chick
-* oomp_word_emoji: :bath: :palm_tree: :baby_chick:
+* oomp_word_emoji :bath: :palm_tree: :baby_chick:
 * md5_6_alpha: 58t3b
-* md5_6: 866a47* 
+* md5_6: 866a47

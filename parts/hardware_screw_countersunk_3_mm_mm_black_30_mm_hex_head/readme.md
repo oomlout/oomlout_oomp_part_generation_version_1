@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb30
 * oomp_word: baseball shoe chicken
-* oomp_word_emoji: :baseball: :shoe: :chicken:
+* oomp_word_emoji :baseball: :shoe: :chicken:
 * md5_6_alpha: 5x0zu
-* md5_6: 97a84a* 
+* md5_6: 97a84a

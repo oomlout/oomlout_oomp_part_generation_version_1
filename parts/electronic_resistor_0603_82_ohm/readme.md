@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o820
 * oomp_word: radio blowfish ghost
-* oomp_word_emoji: :radio: :blowfish: :ghost:
+* oomp_word_emoji :radio: :blowfish: :ghost:
 * md5_6_alpha: 534ad
-* md5_6: 825d75* 
+* md5_6: 825d75

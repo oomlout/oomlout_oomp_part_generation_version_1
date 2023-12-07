@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o100
 * oomp_word: spaghetti shirt tent
-* oomp_word_emoji: :spaghetti: :shirt: :tent:
+* oomp_word_emoji :spaghetti: :shirt: :tent:
 * md5_6_alpha: 7a7rv
-* md5_6: baacdb* 
+* md5_6: baacdb

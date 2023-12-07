@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b50
 * oomp_word: rice scissors panda_face
-* oomp_word_emoji: :rice: :scissors: :panda_face:
+* oomp_word_emoji :rice: :scissors: :panda_face:
 * md5_6_alpha: 7e9tw
-* md5_6: bd9044* 
+* md5_6: bd9044

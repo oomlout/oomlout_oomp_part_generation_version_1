@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro390
 * oomp_word: ox rocket leopard
-* oomp_word_emoji: :ox: :rocket: :leopard:
+* oomp_word_emoji :ox: :rocket: :leopard:
 * md5_6_alpha: 3mhjz
-* md5_6: 5ce55f* 
+* md5_6: 5ce55f

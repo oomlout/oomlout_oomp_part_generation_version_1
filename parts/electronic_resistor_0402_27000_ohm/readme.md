@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o273
 * oomp_word: ear lips tulip
-* oomp_word_emoji: :ear: :lips: :tulip:
+* oomp_word_emoji :ear: :lips: :tulip:
 * md5_6_alpha: 1g5sy
-* md5_6: 252262* 
+* md5_6: 252262

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o274
 * oomp_word: sleeping tennis umbrella
-* oomp_word_emoji: :sleeping: :tennis: :umbrella:
+* oomp_word_emoji :sleeping: :tennis: :umbrella:
 * md5_6_alpha: 99gq
-* md5_6: 06982a* 
+* md5_6: 06982a

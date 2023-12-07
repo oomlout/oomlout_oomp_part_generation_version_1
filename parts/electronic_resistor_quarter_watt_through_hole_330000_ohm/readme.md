@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro334
 * oomp_word: snowflake shell ambulance
-* oomp_word_emoji: :snowflake: :shell: :ambulance:
+* oomp_word_emoji :snowflake: :shell: :ambulance:
 * md5_6_alpha: 1qepa
-* md5_6: 2c6dee* 
+* md5_6: 2c6dee

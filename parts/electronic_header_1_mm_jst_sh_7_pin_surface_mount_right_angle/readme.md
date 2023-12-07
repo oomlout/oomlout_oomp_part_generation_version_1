@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjsh7psmra
 * oomp_word: spades guitar eyeglasses
-* oomp_word_emoji: :spades: :guitar: :eyeglasses:
+* oomp_word_emoji :spades: :guitar: :eyeglasses:
 * md5_6_alpha: 641pv
-* md5_6: 9ca7b3* 
+* md5_6: 9ca7b3

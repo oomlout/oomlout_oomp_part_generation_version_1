@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb70
 * oomp_word: curry school bulb
-* oomp_word_emoji: :curry: :school: :bulb:
+* oomp_word_emoji :curry: :school: :bulb:
 * md5_6_alpha: 7bukl
-* md5_6: bbd685* 
+* md5_6: bbd685

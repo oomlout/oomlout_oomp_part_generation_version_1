@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi136pths
 * oomp_word: cow wolf whale
-* oomp_word_emoji: :cow: :wolf: :whale:
+* oomp_word_emoji :cow: :wolf: :whale:
 * md5_6_alpha: 2dzkk
-* md5_6: 3d3754* 
+* md5_6: 3d3754

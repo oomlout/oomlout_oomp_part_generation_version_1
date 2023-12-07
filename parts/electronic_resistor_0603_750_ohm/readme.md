@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o751
 * oomp_word: rainbow blowfish clubs
-* oomp_word_emoji: :rainbow: :blowfish: :clubs:
+* oomp_word_emoji :rainbow: :blowfish: :clubs:
 * md5_6_alpha: 8ocke
-* md5_6: de5d9e* 
+* md5_6: de5d9e

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh7psmra
 * oomp_word: tractor egg clipboard
-* oomp_word_emoji: :tractor: :egg: :clipboard:
+* oomp_word_emoji :tractor: :egg: :clipboard:
 * md5_6_alpha: 95qq6
-* md5_6: eabf8e* 
+* md5_6: eabf8e

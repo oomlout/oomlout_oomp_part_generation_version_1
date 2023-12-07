@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh8psm
 * oomp_word: moon nine two
-* oomp_word_emoji: :moon: :nine: :two:
+* oomp_word_emoji :moon: :nine: :two:
 * md5_6_alpha: 4dalv
-* md5_6: 6ffaf3* 
+* md5_6: 6ffaf3

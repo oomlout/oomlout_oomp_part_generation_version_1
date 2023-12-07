@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o560
 * oomp_word: three sunny boat
-* oomp_word_emoji: :three: :sunny: :boat:
+* oomp_word_emoji :three: :sunny: :boat:
 * md5_6_alpha: 9iyu9
-* md5_6: f429e1* 
+* md5_6: f429e1

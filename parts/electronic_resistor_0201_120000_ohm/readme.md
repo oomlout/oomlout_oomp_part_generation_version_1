@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro124
 * oomp_word: bear goat ox
-* oomp_word_emoji: :bear: :goat: :ox:
+* oomp_word_emoji :bear: :goat: :ox:
 * md5_6_alpha: 2bdcs
-* md5_6: 3b5a5c* 
+* md5_6: 3b5a5c

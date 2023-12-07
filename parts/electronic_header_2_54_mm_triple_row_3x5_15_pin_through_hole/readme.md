@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hth
 * oomp_word: hotel ghost mushroom
-* oomp_word_emoji: :hotel: :ghost: :mushroom:
+* oomp_word_emoji :hotel: :ghost: :mushroom:
 * md5_6_alpha: 8iuzs
-* md5_6: da7568* 
+* md5_6: da7568

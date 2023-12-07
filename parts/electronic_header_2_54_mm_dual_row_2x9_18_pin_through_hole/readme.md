@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x9pth
 * oomp_word: lipstick angel trophy
-* oomp_word_emoji: :lipstick: :angel: :trophy:
+* oomp_word_emoji :lipstick: :angel: :trophy:
 * md5_6_alpha: 6myld
-* md5_6: aa1ea1* 
+* md5_6: aa1ea1

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scuath
 * oomp_word: shirt sunny trophy
-* oomp_word_emoji: :shirt: :sunny: :trophy:
+* oomp_word_emoji :shirt: :sunny: :trophy:
 * md5_6_alpha: 6ptwh
-* md5_6: ac29a1* 
+* md5_6: ac29a1

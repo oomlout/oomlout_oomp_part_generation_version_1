@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss45
 * oomp_word: taxi door leopard
-* oomp_word_emoji: :taxi: :door: :leopard:
+* oomp_word_emoji :taxi: :door: :leopard:
 * md5_6_alpha: 989jz
-* md5_6: ec8b5f* 
+* md5_6: ec8b5f

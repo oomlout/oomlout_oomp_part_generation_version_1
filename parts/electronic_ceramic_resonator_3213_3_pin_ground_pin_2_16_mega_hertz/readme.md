@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: xcr3213mhz16
 * oomp_word: car jeans curry
-* oomp_word_emoji: :car: :jeans: :curry:
+* oomp_word_emoji :car: :jeans: :curry:
 * md5_6_alpha: 971yz
-* md5_6: ebaebb* 
+* md5_6: ebaebb

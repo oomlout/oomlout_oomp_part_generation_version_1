@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x7pth
 * oomp_word: factory books beer
-* oomp_word_emoji: :factory: :books: :beer:
+* oomp_word_emoji :factory: :books: :beer:
 * md5_6_alpha: 8lu46
-* md5_6: dc93b6* 
+* md5_6: dc93b6

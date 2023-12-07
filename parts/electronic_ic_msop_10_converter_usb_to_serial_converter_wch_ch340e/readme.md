@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: imsp10ch340e
 * oomp_word: dolls cupid balloon
-* oomp_word_emoji: :dolls: :cupid: :balloon:
+* oomp_word_emoji :dolls: :cupid: :balloon:
 * md5_6_alpha: 4g7ll
-* md5_6: 720e79* 
+* md5_6: 720e79

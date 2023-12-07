@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o820
 * oomp_word: skull poop melon
-* oomp_word_emoji: :skull: :poop: :melon:
+* oomp_word_emoji :skull: :poop: :melon:
 * md5_6_alpha: 192hb
-* md5_6: 2015cf* 
+* md5_6: 2015cf

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x5psm
 * oomp_word: envelope rocket watch
-* oomp_word_emoji: :envelope: :rocket: :watch:
+* oomp_word_emoji :envelope: :rocket: :watch:
 * md5_6_alpha: 5f3pd
-* md5_6: 8ae581* 
+* md5_6: 8ae581

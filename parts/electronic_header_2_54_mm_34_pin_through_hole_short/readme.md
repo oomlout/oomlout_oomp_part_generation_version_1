@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi134pths
 * oomp_word: leopard tophat bowling
-* oomp_word_emoji: :leopard: :tophat: :bowling:
+* oomp_word_emoji :leopard: :tophat: :bowling:
 * md5_6_alpha: 3qemx
-* md5_6: 5faf99* 
+* md5_6: 5faf99

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb40
 * oomp_word: key goat cactus
-* oomp_word_emoji: :key: :goat: :cactus:
+* oomp_word_emoji :key: :goat: :cactus:
 * md5_6_alpha: 55wtl
-* md5_6: 845a69* 
+* md5_6: 845a69

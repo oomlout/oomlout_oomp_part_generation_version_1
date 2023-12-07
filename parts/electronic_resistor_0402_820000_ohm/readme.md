@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o824
 * oomp_word: shirt apple books
-* oomp_word_emoji: :shirt: :apple: :books:
+* oomp_word_emoji :shirt: :apple: :books:
 * md5_6_alpha: 6qpar
-* md5_6: acc893* 
+* md5_6: acc893

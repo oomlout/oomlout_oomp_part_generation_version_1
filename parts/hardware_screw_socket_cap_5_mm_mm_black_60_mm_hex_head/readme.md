@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb60
 * oomp_word: boot grin sunny
-* oomp_word_emoji: :boot: :grin: :sunny:
+* oomp_word_emoji :boot: :grin: :sunny:
 * md5_6_alpha: 6o7qh
-* md5_6: ab0329* 
+* md5_6: ab0329

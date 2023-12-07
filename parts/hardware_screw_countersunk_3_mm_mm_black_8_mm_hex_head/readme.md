@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb8
 * oomp_word: tv tennis watch
-* oomp_word_emoji: :tv: :tennis: :watch:
+* oomp_word_emoji :tv: :tennis: :watch:
 * md5_6_alpha: 4v0jl
-* md5_6: 7c9881* 
+* md5_6: 7c9881

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: chi1b1pd
 * oomp_word: racehorse tent melon
-* oomp_word_emoji: :racehorse: :tent: :melon:
+* oomp_word_emoji :racehorse: :tent: :melon:
 * md5_6_alpha: 2j3rj
-* md5_6: 40dbcf* 
+* md5_6: 40dbcf

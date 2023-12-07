@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o565
 * oomp_word: fountain coffee hand
-* oomp_word_emoji: :fountain: :coffee: :hand:
+* oomp_word_emoji :fountain: :coffee: :hand:
 * md5_6_alpha: 8q87s
-* md5_6: dfb418* 
+* md5_6: dfb418

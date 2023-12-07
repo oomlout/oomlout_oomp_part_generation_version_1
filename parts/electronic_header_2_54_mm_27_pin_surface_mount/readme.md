@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi127psm
 * oomp_word: computer sunny dizzy
-* oomp_word_emoji: :computer: :sunny: :dizzy:
+* oomp_word_emoji :computer: :sunny: :dizzy:
 * md5_6_alpha: 4szyp
-* md5_6: 7b2911* 
+* md5_6: 7b2911

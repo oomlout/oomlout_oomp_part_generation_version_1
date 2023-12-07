@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb12
 * oomp_word: sunny hotel peach
-* oomp_word_emoji: :sunny: :hotel: :peach:
+* oomp_word_emoji :sunny: :hotel: :peach:
 * md5_6_alpha: 1msi6
-* md5_6: 29dace* 
+* md5_6: 29dace

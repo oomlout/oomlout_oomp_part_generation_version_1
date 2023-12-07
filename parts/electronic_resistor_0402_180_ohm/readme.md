@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o181
 * oomp_word: tv train up
-* oomp_word_emoji: :tv: :train: :up:
+* oomp_word_emoji :tv: :train: :up:
 * md5_6_alpha: 4vi0s
-* md5_6: 7cf0fc* 
+* md5_6: 7cf0fc

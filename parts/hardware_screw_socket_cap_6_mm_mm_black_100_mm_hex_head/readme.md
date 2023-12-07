@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb
 * oomp_word: rabbit rocket chestnut
-* oomp_word_emoji: :rabbit: :rocket: :chestnut:
+* oomp_word_emoji :rabbit: :rocket: :chestnut:
 * md5_6_alpha: 253zf
-* md5_6: 36e56b* 
+* md5_6: 36e56b

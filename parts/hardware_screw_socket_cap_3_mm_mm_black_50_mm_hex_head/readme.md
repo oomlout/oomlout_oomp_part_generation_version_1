@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb50
 * oomp_word: kissing hamburger doughnut
-* oomp_word_emoji: :kissing: :hamburger: :doughnut:
+* oomp_word_emoji :kissing: :hamburger: :doughnut:
 * md5_6_alpha: 81c1
-* md5_6: 05b8c1* 
+* md5_6: 05b8c1

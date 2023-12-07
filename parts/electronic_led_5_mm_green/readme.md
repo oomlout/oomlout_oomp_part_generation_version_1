@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l5g
 * oomp_word: pizza muscle spades
-* oomp_word_emoji: :pizza: :muscle: :spades:
+* oomp_word_emoji :pizza: :muscle: :spades:
 * md5_6_alpha: 757do
-* md5_6: b71b9c* 
+* md5_6: b71b9c

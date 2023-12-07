@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss45
 * oomp_word: foggy thumbsdown maple_leaf
-* oomp_word_emoji: :foggy: :thumbsdown: :maple_leaf:
+* oomp_word_emoji :foggy: :thumbsdown: :maple_leaf:
 * md5_6_alpha: 1vjvp
-* md5_6: 301765* 
+* md5_6: 301765

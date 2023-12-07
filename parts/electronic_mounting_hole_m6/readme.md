@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: mhm6
 * oomp_word: ok tractor maple_leaf
-* oomp_word_emoji: :ok: :tractor: :maple_leaf:
+* oomp_word_emoji :ok: :tractor: :maple_leaf:
 * md5_6_alpha: 9tuud
-* md5_6: fbea65* 
+* md5_6: fbea65

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o825
 * oomp_word: bell cookie five
-* oomp_word_emoji: :bell: :cookie: :five:
+* oomp_word_emoji :bell: :cookie: :five:
 * md5_6_alpha: 4pn1y
-* md5_6: 78c4f6* 
+* md5_6: 78c4f6

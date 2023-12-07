@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb6
 * oomp_word: fries toilet cat
-* oomp_word_emoji: :fries: :toilet: :cat:
+* oomp_word_emoji :fries: :toilet: :cat:
 * md5_6_alpha: 78lrm
-* md5_6: b98732* 
+* md5_6: b98732

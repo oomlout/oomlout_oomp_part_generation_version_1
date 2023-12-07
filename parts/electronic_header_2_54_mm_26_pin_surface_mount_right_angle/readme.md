@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi126psmra
 * oomp_word: blush hotel dolphin
-* oomp_word_emoji: :blush: :hotel: :dolphin:
+* oomp_word_emoji :blush: :hotel: :dolphin:
 * md5_6_alpha: 409h
-* md5_6: 02da55* 
+* md5_6: 02da55

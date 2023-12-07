@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o825
 * oomp_word: ambulance camel tennis
-* oomp_word_emoji: :ambulance: :camel: :tennis:
+* oomp_word_emoji :ambulance: :camel: :tennis:
 * md5_6_alpha: 9ao48
-* md5_6: ee4198* 
+* md5_6: ee4198

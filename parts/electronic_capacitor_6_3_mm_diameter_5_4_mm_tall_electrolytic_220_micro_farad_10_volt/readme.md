@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: c63d54tuf220v10
 * oomp_word: cherries smile lips
-* oomp_word_emoji: :cherries: :smile: :lips:
+* oomp_word_emoji :cherries: :smile: :lips:
 * md5_6_alpha: 7vqxu
-* md5_6: ca0122* 
+* md5_6: ca0122

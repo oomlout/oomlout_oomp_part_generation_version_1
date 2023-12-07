@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh4pthra
 * oomp_word: cactus car truck
-* oomp_word_emoji: :cactus: :car: :truck:
+* oomp_word_emoji :cactus: :car: :truck:
 * md5_6_alpha: 44s8f
-* md5_6: 69ebef* 
+* md5_6: 69ebef

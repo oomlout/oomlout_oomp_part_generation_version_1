@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o560
 * oomp_word: hotel boat cry
-* oomp_word_emoji: :hotel: :boat: :cry:
+* oomp_word_emoji :hotel: :boat: :cry:
 * md5_6_alpha: 8jg93
-* md5_6: dae107* 
+* md5_6: dae107

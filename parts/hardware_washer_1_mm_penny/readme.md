@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: w1
 * oomp_word: tiger hotel shirt
-* oomp_word_emoji: :tiger: :hotel: :shirt:
+* oomp_word_emoji :tiger: :hotel: :shirt:
 * md5_6_alpha: 299kc
-* md5_6: 39daac* 
+* md5_6: 39daac

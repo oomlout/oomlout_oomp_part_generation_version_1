@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu3
 * oomp_word: ghost toilet tophat
-* oomp_word_emoji: :ghost: :toilet: :tophat:
+* oomp_word_emoji :ghost: :toilet: :tophat:
 * md5_6_alpha: 4l38v
-* md5_6: 7587af* 
+* md5_6: 7587af

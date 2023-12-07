@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o152
 * oomp_word: cyclone maple_leaf honey_pot
-* oomp_word_emoji: :cyclone: :maple_leaf: :honey_pot:
+* oomp_word_emoji :cyclone: :maple_leaf: :honey_pot:
 * md5_6_alpha: 1uksn
-* md5_6: 2f65c7* 
+* md5_6: 2f65c7

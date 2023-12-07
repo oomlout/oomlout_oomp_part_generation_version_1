@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b60
 * oomp_word: ski calendar tongue
-* oomp_word_emoji: :ski: :calendar: :tongue:
+* oomp_word_emoji :ski: :calendar: :tongue:
 * md5_6_alpha: 62iaw
-* md5_6: 9b8f28* 
+* md5_6: 9b8f28

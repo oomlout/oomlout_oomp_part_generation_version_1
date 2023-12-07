@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi13psm
 * oomp_word: radio kiss angry
-* oomp_word_emoji: :radio: :kiss: :angry:
+* oomp_word_emoji :radio: :kiss: :angry:
 * md5_6_alpha: 52sqx
-* md5_6: 822309* 
+* md5_6: 822309

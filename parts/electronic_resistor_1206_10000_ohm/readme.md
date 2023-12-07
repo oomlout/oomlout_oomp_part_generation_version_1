@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o103
 * oomp_word: panda_face rose tiger
-* oomp_word_emoji: :panda_face: :rose: :tiger:
+* oomp_word_emoji :panda_face: :rose: :tiger:
 * md5_6_alpha: 2o27t
-* md5_6: 446339* 
+* md5_6: 446339

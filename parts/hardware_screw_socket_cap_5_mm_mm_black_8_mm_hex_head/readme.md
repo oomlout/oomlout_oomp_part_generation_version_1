@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb8
 * oomp_word: monkey hospital camel
-* oomp_word_emoji: :monkey: :hospital: :camel:
+* oomp_word_emoji :monkey: :hospital: :camel:
 * md5_6_alpha: 2g9xd
-* md5_6: 3ed841* 
+* md5_6: 3ed841

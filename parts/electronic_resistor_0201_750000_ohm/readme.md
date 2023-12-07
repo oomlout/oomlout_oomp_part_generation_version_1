@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro754
 * oomp_word: rocket sushi heart
-* oomp_word_emoji: :rocket: :sushi: :heart:
+* oomp_word_emoji :rocket: :sushi: :heart:
 * md5_6_alpha: 8yp71
-* md5_6: e5bc0d* 
+* md5_6: e5bc0d

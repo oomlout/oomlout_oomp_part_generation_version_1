@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi122pthra
 * oomp_word: tulip kissing curry
-* oomp_word_emoji: :tulip: :kissing: :curry:
+* oomp_word_emoji :tulip: :kissing: :curry:
 * md5_6_alpha: 3tosb
-* md5_6: 6205bb* 
+* md5_6: 6205bb

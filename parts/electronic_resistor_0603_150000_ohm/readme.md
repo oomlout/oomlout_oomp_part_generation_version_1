@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o154
 * oomp_word: zap stars bath
-* oomp_word_emoji: :zap: :stars: :bath:
+* oomp_word_emoji :zap: :stars: :bath:
 * md5_6_alpha: 1ttvq
-* md5_6: 2edd86* 
+* md5_6: 2edd86

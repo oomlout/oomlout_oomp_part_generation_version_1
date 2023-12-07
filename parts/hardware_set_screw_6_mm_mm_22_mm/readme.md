@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss22
 * oomp_word: angry boat nose
-* oomp_word_emoji: :angry: :boat: :nose:
+* oomp_word_emoji :angry: :boat: :nose:
 * md5_6_alpha: dvl3
-* md5_6: 09e127* 
+* md5_6: 09e127

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro151
 * oomp_word: microscope baby pizza
-* oomp_word_emoji: :microscope: :baby: :pizza:
+* oomp_word_emoji :microscope: :baby: :pizza:
 * md5_6_alpha: 5s1x3
-* md5_6: 941db7* 
+* md5_6: 941db7

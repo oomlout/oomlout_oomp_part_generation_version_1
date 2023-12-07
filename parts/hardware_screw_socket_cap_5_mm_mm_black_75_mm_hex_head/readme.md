@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb75
 * oomp_word: muscle tiger angel
-* oomp_word_emoji: :muscle: :tiger: :angel:
+* oomp_word_emoji :muscle: :tiger: :angel:
 * md5_6_alpha: 128m6
-* md5_6: 1b391e* 
+* md5_6: 1b391e

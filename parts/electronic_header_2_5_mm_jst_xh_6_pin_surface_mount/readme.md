@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hjxh6psm
 * oomp_word: up pineapple baseball
-* oomp_word_emoji: :up: :pineapple: :baseball:
+* oomp_word_emoji :up: :pineapple: :baseball:
 * md5_6_alpha: 9v4pj
-* md5_6: fcd297* 
+* md5_6: fcd297

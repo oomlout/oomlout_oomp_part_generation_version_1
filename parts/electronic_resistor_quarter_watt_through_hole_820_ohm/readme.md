@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro821
 * oomp_word: zap kissing school
-* oomp_word_emoji: :zap: :kissing: :school:
+* oomp_word_emoji :zap: :kissing: :school:
 * md5_6_alpha: 1sn9y
-* md5_6: 2e05d6* 
+* md5_6: 2e05d6

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: chi1b19pd
 * oomp_word: zap pushpin ship
-* oomp_word_emoji: :zap: :pushpin: :ship:
+* oomp_word_emoji :zap: :pushpin: :ship:
 * md5_6_alpha: 1texs
-* md5_6: 2e91e0* 
+* md5_6: 2e91e0

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hth
 * oomp_word: dolls calendar strawberry
-* oomp_word_emoji: :dolls: :calendar: :strawberry:
+* oomp_word_emoji :dolls: :calendar: :strawberry:
 * md5_6_alpha: 4gx59
-* md5_6: 728fcd* 
+* md5_6: 728fcd

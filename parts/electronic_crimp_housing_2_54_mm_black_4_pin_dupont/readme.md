@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: chi1b4pd
 * oomp_word: clap hospital nose
-* oomp_word_emoji: :clap: :hospital: :nose:
+* oomp_word_emoji :clap: :hospital: :nose:
 * md5_6_alpha: 11pgn
-* md5_6: 1ad827* 
+* md5_6: 1ad827

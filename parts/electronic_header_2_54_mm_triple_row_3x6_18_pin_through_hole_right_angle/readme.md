@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hthra
 * oomp_word: house two turtle
-* oomp_word_emoji: :house: :two: :turtle:
+* oomp_word_emoji :house: :two: :turtle:
 * md5_6_alpha: 8cj0s
-* md5_6: d5f34c* 
+* md5_6: d5f34c

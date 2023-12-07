@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o680
 * oomp_word: phone bug four
-* oomp_word_emoji: :phone: :bug: :four:
+* oomp_word_emoji :phone: :bug: :four:
 * md5_6_alpha: 4w0dx
-* md5_6: 7d4df5* 
+* md5_6: 7d4df5

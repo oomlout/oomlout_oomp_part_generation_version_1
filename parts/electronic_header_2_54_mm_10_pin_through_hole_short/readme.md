@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi110pths
 * oomp_word: bear fountain umbrella
-* oomp_word_emoji: :bear: :fountain: :umbrella:
+* oomp_word_emoji :bear: :fountain: :umbrella:
 * md5_6_alpha: 2c3l6
-* md5_6: 3bdf2a* 
+* md5_6: 3bdf2a

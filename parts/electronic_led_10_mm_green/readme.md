@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l10g
 * oomp_word: leopard maple_leaf ear
-* oomp_word_emoji: :leopard: :maple_leaf: :ear:
+* oomp_word_emoji :leopard: :maple_leaf: :ear:
 * md5_6_alpha: 3pzxh
-* md5_6: 5f6525* 
+* md5_6: 5f6525

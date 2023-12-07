@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi116psmra
 * oomp_word: nine nine bamboo
-* oomp_word_emoji: :nine: :nine: :bamboo:
+* oomp_word_emoji :nine: :nine: :bamboo:
 * md5_6_alpha: 9sjg1
-* md5_6: fafa71* 
+* md5_6: fafa71

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x17pth
 * oomp_word: whale flags smile
-* oomp_word_emoji: :whale: :flags: :smile:
+* oomp_word_emoji :whale: :flags: :smile:
 * md5_6_alpha: 3amf5
-* md5_6: 547301* 
+* md5_6: 547301

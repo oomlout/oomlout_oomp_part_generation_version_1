@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro753
 * oomp_word: blush bulb hospital
-* oomp_word_emoji: :blush: :bulb: :hospital:
+* oomp_word_emoji :blush: :bulb: :hospital:
 * md5_6_alpha: 3jko
-* md5_6: 0285d8* 
+* md5_6: 0285d8

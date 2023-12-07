@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi15pthra
 * oomp_word: bank eyes tongue
-* oomp_word_emoji: :bank: :eyes: :tongue:
+* oomp_word_emoji :bank: :eyes: :tongue:
 * md5_6_alpha: 8h0rs
-* md5_6: d92628* 
+* md5_6: d92628

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss35
 * oomp_word: moon tongue bus
-* oomp_word_emoji: :moon: :tongue: :bus:
+* oomp_word_emoji :moon: :tongue: :bus:
 * md5_6_alpha: 4c54d
-* md5_6: 6f28ed* 
+* md5_6: 6f28ed

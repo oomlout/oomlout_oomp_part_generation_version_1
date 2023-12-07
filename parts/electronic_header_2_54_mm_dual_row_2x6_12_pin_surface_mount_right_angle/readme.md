@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x6psmra
 * oomp_word: foggy tea feet
-* oomp_word_emoji: :foggy: :tea: :feet:
+* oomp_word_emoji :foggy: :tea: :feet:
 * md5_6_alpha: 1wf1d
-* md5_6: 30b521* 
+* md5_6: 30b521

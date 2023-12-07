@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss80
 * oomp_word: cow ear hand
-* oomp_word_emoji: :cow: :ear: :hand:
+* oomp_word_emoji :cow: :ear: :hand:
 * md5_6_alpha: 2dvyw
-* md5_6: 3d2518* 
+* md5_6: 3d2518

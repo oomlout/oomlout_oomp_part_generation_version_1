@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o150
 * oomp_word: kissing snail dancer
-* oomp_word_emoji: :kissing: :snail: :dancer:
+* oomp_word_emoji :kissing: :snail: :dancer:
 * md5_6_alpha: 7gv0
-* md5_6: 05511c* 
+* md5_6: 05511c

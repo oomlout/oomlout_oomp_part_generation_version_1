@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb16
 * oomp_word: sunny heart leaves
-* oomp_word_emoji: :sunny: :heart: :leaves:
+* oomp_word_emoji :sunny: :heart: :leaves:
 * md5_6_alpha: 1lnxi
-* md5_6: 290d66* 
+* md5_6: 290d66

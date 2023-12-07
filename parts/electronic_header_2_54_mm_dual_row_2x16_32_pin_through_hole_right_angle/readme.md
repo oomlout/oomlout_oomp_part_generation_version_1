@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x16pthra
 * oomp_word: watch guitar stars
-* oomp_word_emoji: :watch: :guitar: :stars:
+* oomp_word_emoji :watch: :guitar: :stars:
 * md5_6_alpha: 524f1
-* md5_6: 81a7dd* 
+* md5_6: 81a7dd

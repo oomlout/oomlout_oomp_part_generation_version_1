@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci119pth
 * oomp_word: elephant rat star
-* oomp_word_emoji: :elephant: :rat: :star:
+* oomp_word_emoji :elephant: :rat: :star:
 * md5_6_alpha: 2ml8w
-* md5_6: 435710* 
+* md5_6: 435710

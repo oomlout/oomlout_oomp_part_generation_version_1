@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o563
 * oomp_word: crocodile bowling droplet
-* oomp_word_emoji: :crocodile: :bowling: :droplet:
+* oomp_word_emoji :crocodile: :bowling: :droplet:
 * md5_6_alpha: 3ovms
-* md5_6: 5e9924* 
+* md5_6: 5e9924

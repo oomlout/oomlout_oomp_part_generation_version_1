@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb8
 * oomp_word: computer bath up
-* oomp_word_emoji: :computer: :bath: :up:
+* oomp_word_emoji :computer: :bath: :up:
 * md5_6_alpha: 4tiik
-* md5_6: 7b86fc* 
+* md5_6: 7b86fc

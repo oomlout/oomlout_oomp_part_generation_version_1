@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu6
 * oomp_word: bus rice cow
-* oomp_word_emoji: :bus: :rice: :cow:
+* oomp_word_emoji :bus: :rice: :cow:
 * md5_6_alpha: 99xz1
-* md5_6: edbd3d* 
+* md5_6: edbd3d

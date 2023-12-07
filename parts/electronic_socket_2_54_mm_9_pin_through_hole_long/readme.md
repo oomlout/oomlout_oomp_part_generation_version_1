@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sci19pthl
 * oomp_word: strawberry hospital airplane
-* oomp_word_emoji: :strawberry: :hospital: :airplane:
+* oomp_word_emoji :strawberry: :hospital: :airplane:
 * md5_6_alpha: 8159i
-* md5_6: cdd8e6* 
+* md5_6: cdd8e6

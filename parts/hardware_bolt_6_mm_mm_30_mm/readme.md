@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b30
 * oomp_word: squirrel leaves foggy
-* oomp_word_emoji: :squirrel: :leaves: :foggy:
+* oomp_word_emoji :squirrel: :leaves: :foggy:
 * md5_6_alpha: 4dvsg
-* md5_6: 706630* 
+* md5_6: 706630

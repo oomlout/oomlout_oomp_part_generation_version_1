@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o754
 * oomp_word: turtle rice panda_face
-* oomp_word_emoji: :turtle: :rice: :panda_face:
+* oomp_word_emoji :turtle: :rice: :panda_face:
 * md5_6_alpha: 2zsjo
-* md5_6: 4cbd44* 
+* md5_6: 4cbd44

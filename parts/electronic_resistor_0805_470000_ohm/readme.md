@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o474
 * oomp_word: pushpin telescope ship
-* oomp_word_emoji: :pushpin: :telescope: :ship:
+* oomp_word_emoji :pushpin: :telescope: :ship:
 * md5_6_alpha: 5ohy8
-* md5_6: 9195e0* 
+* md5_6: 9195e0

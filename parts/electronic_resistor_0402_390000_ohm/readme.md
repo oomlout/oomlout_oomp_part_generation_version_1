@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o394
 * oomp_word: umbrella racehorse chestnut
-* oomp_word_emoji: :umbrella: :racehorse: :chestnut:
+* oomp_word_emoji :umbrella: :racehorse: :chestnut:
 * md5_6_alpha: 1nckr
-* md5_6: 2a406b* 
+* md5_6: 2a406b

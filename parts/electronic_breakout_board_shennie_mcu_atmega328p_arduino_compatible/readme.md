@@ -22,6 +22,6 @@ A popular arduino compatible atmega328 board from aliexpress
 ### other_codes
 * short_code: bbshmcu328ac
 * oomp_word: headphones tophat princess
-* oomp_word_emoji: :headphones: :tophat: :princess:
+* oomp_word_emoji :headphones: :tophat: :princess:
 * md5_6_alpha: 6gqan
-* md5_6: a5af1f* 
+* md5_6: a5af1f

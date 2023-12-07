@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: nu8
 * oomp_word: up star fireworks
-* oomp_word_emoji: :up: :star: :fireworks:
+* oomp_word_emoji :up: :star: :fireworks:
 * md5_6_alpha: 9u2d0
-* md5_6: fc1074* 
+* md5_6: fc1074

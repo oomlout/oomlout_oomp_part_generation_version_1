@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi130pthl
 * oomp_word: jeans maple_leaf balloon
-* oomp_word_emoji: :jeans: :maple_leaf: :balloon:
+* oomp_word_emoji :jeans: :maple_leaf: :balloon:
 * md5_6_alpha: 6syux
-* md5_6: ae6579* 
+* md5_6: ae6579

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro475
 * oomp_word: office ambulance pushpin
-* oomp_word_emoji: :office: :ambulance: :pushpin:
+* oomp_word_emoji :office: :ambulance: :pushpin:
 * md5_6_alpha: 8fb81
-* md5_6: d7ee91* 
+* md5_6: d7ee91

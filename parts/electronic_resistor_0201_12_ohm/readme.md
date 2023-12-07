@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro120
 * oomp_word: cyclone tea bowtie
-* oomp_word_emoji: :cyclone: :tea: :bowtie:
+* oomp_word_emoji :cyclone: :tea: :bowtie:
 * md5_6_alpha: 1v0g0
-* md5_6: 2fb500* 
+* md5_6: 2fb500

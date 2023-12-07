@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o825
 * oomp_word: rice leaves parking
-* oomp_word_emoji: :rice: :leaves: :parking:
+* oomp_word_emoji :rice: :leaves: :parking:
 * md5_6_alpha: 7e1od
-* md5_6: bd66fd* 
+* md5_6: bd66fd

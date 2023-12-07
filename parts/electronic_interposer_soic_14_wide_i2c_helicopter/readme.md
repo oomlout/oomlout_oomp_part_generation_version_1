@@ -22,6 +22,6 @@ An interposer between an i2c chip and a soic_14_wide package, The pins are numbe
 ### other_codes
 * short_code: insoic14wi2cheli
 * oomp_word: herb snake cactus
-* oomp_word_emoji: :herb: :snake: :cactus:
+* oomp_word_emoji :herb: :snake: :cactus:
 * md5_6_alpha: 4127d
-* md5_6: 674569* 
+* md5_6: 674569

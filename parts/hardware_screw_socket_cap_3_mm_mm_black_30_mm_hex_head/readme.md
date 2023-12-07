@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb30
 * oomp_word: five angry cat
-* oomp_word_emoji: :five: :angry: :cat:
+* oomp_word_emoji :five: :angry: :cat:
 * md5_6_alpha: 9lliq
-* md5_6: f60932* 
+* md5_6: f60932

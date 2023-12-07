@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: scsb35
 * oomp_word: book poodle cat
-* oomp_word_emoji: :book: :poodle: :cat:
+* oomp_word_emoji :book: :poodle: :cat:
 * md5_6_alpha: 6ew4y
-* md5_6: a46032* 
+* md5_6: a46032

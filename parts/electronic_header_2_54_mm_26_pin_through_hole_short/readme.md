@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi126pths
 * oomp_word: stars santa tongue
-* oomp_word_emoji: :stars: :santa: :tongue:
+* oomp_word_emoji :stars: :santa: :tongue:
 * md5_6_alpha: 8n2ug
-* md5_6: dd7628* 
+* md5_6: dd7628

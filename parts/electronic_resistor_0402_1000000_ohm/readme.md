@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o105
 * oomp_word: nine golf sleeping
-* oomp_word_emoji: :nine: :golf: :sleeping:
+* oomp_word_emoji :nine: :golf: :sleeping:
 * md5_6_alpha: 9s0ee
-* md5_6: fa9a06* 
+* md5_6: fa9a06

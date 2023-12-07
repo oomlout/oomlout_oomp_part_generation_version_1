@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi112pthl
 * oomp_word: seven horse camel
-* oomp_word_emoji: :seven: :horse: :camel:
+* oomp_word_emoji :seven: :horse: :camel:
 * md5_6_alpha: 9opc1
-* md5_6: f83f41* 
+* md5_6: f83f41

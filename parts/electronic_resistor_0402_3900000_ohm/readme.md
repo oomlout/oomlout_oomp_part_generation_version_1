@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o395
 * oomp_word: question snail eight
-* oomp_word_emoji: :question: :snail: :eight:
+* oomp_word_emoji :question: :snail: :eight:
 * md5_6_alpha: r4zd
-* md5_6: 1351f9* 
+* md5_6: 1351f9

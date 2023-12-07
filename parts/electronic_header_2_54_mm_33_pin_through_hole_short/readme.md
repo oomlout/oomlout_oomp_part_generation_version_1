@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi133pths
 * oomp_word: hatched_chick helicopter cry
-* oomp_word_emoji: :hatched_chick: :helicopter: :cry:
+* oomp_word_emoji :hatched_chick: :helicopter: :cry:
 * md5_6_alpha: 2ueiv
-* md5_6: 48e707* 
+* md5_6: 48e707

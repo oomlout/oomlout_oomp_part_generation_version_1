@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o271
 * oomp_word: four birthday hamburger
-* oomp_word_emoji: :four: :birthday: :hamburger:
+* oomp_word_emoji :four: :birthday: :hamburger:
 * md5_6_alpha: 9l7lk
-* md5_6: f5c2b8* 
+* md5_6: f5c2b8

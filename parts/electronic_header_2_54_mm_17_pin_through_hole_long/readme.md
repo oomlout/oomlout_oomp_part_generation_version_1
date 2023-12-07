@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi117pthl
 * oomp_word: seven corn tophat
-* oomp_word_emoji: :seven: :corn: :tophat:
+* oomp_word_emoji :seven: :corn: :tophat:
 * md5_6_alpha: 9piun
-* md5_6: f8d4af* 
+* md5_6: f8d4af

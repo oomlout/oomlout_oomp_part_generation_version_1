@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi118pthra
 * oomp_word: dizzy handbag bowling
-* oomp_word_emoji: :dizzy: :handbag: :bowling:
+* oomp_word_emoji :dizzy: :handbag: :bowling:
 * md5_6_alpha: ouxl
-* md5_6: 11b299* 
+* md5_6: 11b299

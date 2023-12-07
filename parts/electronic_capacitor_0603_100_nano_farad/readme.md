@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: c6nf100
 * oomp_word: pill parking pushpin
-* oomp_word_emoji: :pill: :parking: :pushpin:
+* oomp_word_emoji :pill: :parking: :pushpin:
 * md5_6_alpha: 5i1ld
-* md5_6: 8cfd91* 
+* md5_6: 8cfd91

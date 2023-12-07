@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r6o125
 * oomp_word: watermelon grapes boat
-* oomp_word_emoji: :watermelon: :grapes: :boat:
+* oomp_word_emoji :watermelon: :grapes: :boat:
 * md5_6_alpha: 7zo4h
-* md5_6: cccbe1* 
+* md5_6: cccbe1

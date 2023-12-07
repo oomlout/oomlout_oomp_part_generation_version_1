@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: sscb45
 * oomp_word: fries sleeping watermelon
-* oomp_word_emoji: :fries: :sleeping: :watermelon:
+* oomp_word_emoji :fries: :sleeping: :watermelon:
 * md5_6_alpha: 77wek
-* md5_6: b906cc* 
+* md5_6: b906cc

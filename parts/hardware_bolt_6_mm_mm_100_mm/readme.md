@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: b
 * oomp_word: bouquet water_buffalo cloud
-* oomp_word_emoji: :bouquet: :water_buffalo: :cloud:
+* oomp_word_emoji :bouquet: :water_buffalo: :cloud:
 * md5_6_alpha: 3sqi3
-* md5_6: 61582b* 
+* md5_6: 61582b

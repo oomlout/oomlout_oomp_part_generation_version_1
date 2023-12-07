@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l4w
 * oomp_word: mouse telescope hearts
-* oomp_word_emoji: :mouse: :telescope: :hearts:
+* oomp_word_emoji :mouse: :telescope: :hearts:
 * md5_6_alpha: 21v31
-* md5_6: 34959d* 
+* md5_6: 34959d

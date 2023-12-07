@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o273
 * oomp_word: ticket sailboat stars
-* oomp_word_emoji: :ticket: :sailboat: :stars:
+* oomp_word_emoji :ticket: :sailboat: :stars:
 * md5_6_alpha: 9frod
-* md5_6: f1e2dd* 
+* md5_6: f1e2dd

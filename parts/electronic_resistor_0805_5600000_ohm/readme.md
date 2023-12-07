@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o565
 * oomp_word: kiss clap thumbsdown
-* oomp_word_emoji: :kiss: :clap: :thumbsdown:
+* oomp_word_emoji :kiss: :clap: :thumbsdown:
 * md5_6_alpha: 1db13
-* md5_6: 231a17* 
+* md5_6: 231a17

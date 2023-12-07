@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: itq32mcuat328
 * oomp_word: thumbsup thumbsup moon
-* oomp_word_emoji: :thumbsup: :thumbsup: :moon:
+* oomp_word_emoji :thumbsup: :thumbsup: :moon:
 * md5_6_alpha: v0xb
-* md5_6: 16166f* 
+* md5_6: 16166f

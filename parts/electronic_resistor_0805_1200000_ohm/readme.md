@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o125
 * oomp_word: tulip pineapple ship
-* oomp_word_emoji: :tulip: :pineapple: :ship:
+* oomp_word_emoji :tulip: :pineapple: :ship:
 * md5_6_alpha: 3utb4
-* md5_6: 62d2e0* 
+* md5_6: 62d2e0

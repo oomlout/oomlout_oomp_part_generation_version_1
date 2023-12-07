@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l8y
 * oomp_word: ox toilet dress
-* oomp_word_emoji: :ox: :toilet: :dress:
+* oomp_word_emoji :ox: :toilet: :dress:
 * md5_6_alpha: 3lz1p
-* md5_6: 5c87ad* 
+* md5_6: 5c87ad

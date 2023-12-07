@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi117psm
 * oomp_word: cyclone bulb kissing
-* oomp_word_emoji: :cyclone: :bulb: :kissing:
+* oomp_word_emoji :cyclone: :bulb: :kissing:
 * md5_6_alpha: 1uqyt
-* md5_6: 2f8505* 
+* md5_6: 2f8505

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ro275
 * oomp_word: clap bug mouse
-* oomp_word_emoji: :clap: :bug: :mouse:
+* oomp_word_emoji :clap: :bug: :mouse:
 * md5_6_alpha: 10y0k
-* md5_6: 1a4d34* 
+* md5_6: 1a4d34

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi113pths
 * oomp_word: pear sunny airplane
-* oomp_word_emoji: :pear: :sunny: :airplane:
+* oomp_word_emoji :pear: :sunny: :airplane:
 * md5_6_alpha: 85syu
-* md5_6: d129e6* 
+* md5_6: d129e6

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi123psmra
 * oomp_word: scroll train lips
-* oomp_word_emoji: :scroll: :train: :lips:
+* oomp_word_emoji :scroll: :train: :lips:
 * md5_6_alpha: 5jdia
-* md5_6: 8df022* 
+* md5_6: 8df022

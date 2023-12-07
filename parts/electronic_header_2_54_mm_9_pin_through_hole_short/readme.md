@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi19pths
 * oomp_word: baby tiger new_moon
-* oomp_word_emoji: :baby: :tiger: :new_moon:
+* oomp_word_emoji :baby: :tiger: :new_moon:
 * md5_6_alpha: 151ta
-* md5_6: 1d396e* 
+* md5_6: 1d396e

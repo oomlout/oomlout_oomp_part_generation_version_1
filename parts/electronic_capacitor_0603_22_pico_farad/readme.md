@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: c6pf22
 * oomp_word: bus elephant up
-* oomp_word_emoji: :bus: :elephant: :up:
+* oomp_word_emoji :bus: :elephant: :up:
 * md5_6_alpha: 99a0s
-* md5_6: ed43fc* 
+* md5_6: ed43fc

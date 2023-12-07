@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: ss90
 * oomp_word: spaghetti toilet doughnut
-* oomp_word_emoji: :spaghetti: :toilet: :doughnut:
+* oomp_word_emoji :spaghetti: :toilet: :doughnut:
 * md5_6_alpha: 7a0g1
-* md5_6: ba87c1* 
+* md5_6: ba87c1

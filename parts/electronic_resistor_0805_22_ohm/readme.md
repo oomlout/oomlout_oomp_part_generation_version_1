@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r8o220
 * oomp_word: cake koala bouquet
-* oomp_word_emoji: :cake: :koala: :bouquet:
+* oomp_word_emoji :cake: :koala: :bouquet:
 * md5_6_alpha: 7m89t
-* md5_6: c33a61* 
+* md5_6: c33a61

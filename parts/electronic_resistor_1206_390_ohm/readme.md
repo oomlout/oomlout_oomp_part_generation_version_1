@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o391
 * oomp_word: frog paperclip thumbsup
-* oomp_word_emoji: :frog: :paperclip: :thumbsup:
+* oomp_word_emoji :frog: :paperclip: :thumbsup:
 * md5_6_alpha: 27gnq
-* md5_6: 389216* 
+* md5_6: 389216

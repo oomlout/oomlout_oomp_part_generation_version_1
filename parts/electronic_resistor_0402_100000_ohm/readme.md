@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r4o104
 * oomp_word: rice dolphin bread
-* oomp_word_emoji: :rice: :dolphin: :bread:
+* oomp_word_emoji :rice: :dolphin: :bread:
 * md5_6_alpha: 7dy9s
-* md5_6: bd55c0* 
+* md5_6: bd55c0

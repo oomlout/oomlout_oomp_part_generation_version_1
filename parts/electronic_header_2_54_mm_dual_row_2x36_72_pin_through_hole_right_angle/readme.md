@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x36pthra
 * oomp_word: chestnut peach cookie
-* oomp_word_emoji: :chestnut: :peach: :cookie:
+* oomp_word_emoji :chestnut: :peach: :cookie:
 * md5_6_alpha: 47flw
-* md5_6: 6bcec4* 
+* md5_6: 6bcec4

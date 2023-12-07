@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi126pthl
 * oomp_word: snail lips ear
-* oomp_word_emoji: :snail: :lips: :ear:
+* oomp_word_emoji :snail: :lips: :ear:
 * md5_6_alpha: 35yqt
-* md5_6: 512225* 
+* md5_6: 512225

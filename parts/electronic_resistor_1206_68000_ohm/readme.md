@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: r12o683
 * oomp_word: hourglass books question
-* oomp_word_emoji: :hourglass: :books: :question:
+* oomp_word_emoji :hourglass: :books: :question:
 * md5_6_alpha: 50lqr
-* md5_6: 809313* 
+* md5_6: 809313

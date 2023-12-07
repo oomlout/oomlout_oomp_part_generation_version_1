@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: hi12x7pthra
 * oomp_word: office hammer baby_chick
-* oomp_word_emoji: :office: :hammer: :baby_chick:
+* oomp_word_emoji :office: :hammer: :baby_chick:
 * md5_6_alpha: 8er7r
-* md5_6: d78947* 
+* md5_6: d78947

@@ -22,6 +22,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### other_codes
 * short_code: l6w
 * oomp_word: frog hamster penguin
-* oomp_word_emoji: :frog: :hamster: :penguin:
+* oomp_word_emoji :frog: :hamster: :penguin:
 * md5_6_alpha: 26ybv
-* md5_6: 38354b* 
+* md5_6: 38354b
