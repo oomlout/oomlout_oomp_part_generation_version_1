@@ -4,7 +4,7 @@ import oomp
 
 part_types = []
 
-
+part_types.append("hardware_bearing")
 part_types.append("hardware_bolt") # also set screw
 part_types.append("hardware_nut")
 part_types.append("hardware_screw")

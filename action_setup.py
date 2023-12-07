@@ -35,7 +35,7 @@ if __name__ == "__main__":
     kwargs = {}
 
     filter = ""
-    filter = "packaging"
+    filter = "bearing"
 
     kwargs["filter"] = filter
     main(**kwargs)
