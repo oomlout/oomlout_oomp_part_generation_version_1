@@ -6,6 +6,9 @@ part_types = []
 
 
 part_types.append("hardware_bolt") # also set screw
+part_types.append("hardware_nut")
+part_types.append("hardware_screw")
+part_types.append("hardware_washer")
 
 part_types.append("electronic_battery_box")
 part_types.append("electronic_breakout_board")

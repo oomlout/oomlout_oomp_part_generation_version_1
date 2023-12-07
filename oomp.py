@@ -257,17 +257,27 @@ def add_part(**kwargs):
         kwargs["md5_5_upper"] = kwargs["md5"][0:5].upper()
         #add to md5_5 dict
         parts_md5_5[kwargs["md5_5"]] = id
-        kwargs["md5_6"] = kwargs["md5"][0:6]    
+        md5_6 = kwargs["md5"][0:6]
+        kwargs["md5_6"] = md5_6
         kwargs["md5_6_upper"] = kwargs["md5_6"].upper()
 
-        kwargs["md5_6_alpha"] = hex_to_base36(kwargs["md5_6"])
+        md5_6_alpha = hex_to_base36(kwargs["md5_6"])
+        kwargs["md5_6_alpha"] = md5_6_alpha
         kwargs["md5_6_alpha_upper"] = kwargs["md5_6_alpha"].upper()
+        
         
         parts_md5_6[kwargs["md5_6"]] = id
         kwargs["md5_10"] = kwargs["md5"][0:10]
         kwargs["md5_10_upper"] = kwargs["md5_10"].upper()
         parts_md5_10[kwargs["md5_10"]] = id
         
+        # oomp_word
+        import oomp_word
+        oomp_word_value = oomp_word.get_oomp_word(md5_6, style="string")
+        kwargs["oomp_word"] = oomp_word_value
+        kwargs["oomp_word_list"] = oomp_word.get_oomp_word(md5_6, style="list")
+        kwargs["oomp_word_emoji"] = oomp_word.get_oomp_word(md5_6, style="emoji")
+        kwargs["oomp_word_emoji_list"] = oomp_word.get_oomp_word(md5_6, style="emoji_list")
 
         ### add useful name variants
         #      classification
