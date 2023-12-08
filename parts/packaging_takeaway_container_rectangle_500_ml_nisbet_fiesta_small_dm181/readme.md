@@ -4,6 +4,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 ##  part details
 
+[![](dimension_600.png)](dimension.png)
+[![](drawing_600.png)](drawing.png)
 
 
 
