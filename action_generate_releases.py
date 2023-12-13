@@ -56,6 +56,9 @@ def main(**kwargs):
             except Exception as e:
                 print(e)
                 print(f"could not push {directory}")
+            except OSError as e:
+                print(e)
+                print(f"could not push {directory}")
 
 
 def make_yaml_base(file_full_source):
