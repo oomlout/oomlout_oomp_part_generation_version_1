@@ -53,7 +53,7 @@ def main(**kwargs):
         if git:
             try:
                 oom_git.push_to_git(directory=directory, comment=f"adding {release} {typ_id}")
-            except e as Exception:
+            except Exception as e:
                 print(e)
                 print(f"could not push {directory}")
 
