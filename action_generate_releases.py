@@ -6,19 +6,21 @@ types = {}
 types[""] = {}
 types[""]["files"] = ["working.yaml", "working.json"]
 types["_image"] = {}
-types["_image"]["files"] = ["image.jpg","image_300.jpg","image_600.jpg","image_reference.jpg","image_reference_300.jpg","image_reference_600.jpg","drawing.png","drawing_300.png","drawing_600.png","dimension.cdr","dimension.png","dimension_300.png","dimension_600.png"]
+types["_image"]["files"] = ["image.jpg","image_300.jpg","image_600.jpg","image_reference.jpg","image_reference_300.jpg","image_reference_600.jpg","drawing_300.png","drawing_600.png","dimension_300.png","dimension_600.png"]
 types["_drawing"] = {}
-types["_drawing"]["files"] = ["drawing.cdr"]
+types["_drawing"]["files"] = ["drawing.cdr","drawing.png","drawing.svg", "drawing.pdf", "dimension.cdr","dimension.png", "dimension.svg", "dimension.pdf"]
 types["_three_d_model"] = {}
 types["_three_d_model"]["files"] = ["working.stl","working.scad"]
 types["_datasheet"] = {}
 types["_datasheet"]["files"] = ["datasheet.pdf"]
 
+
+
 def main(**kwargs):
 
     git = True
 
-    releases = {"electronic", "hardware", "packaging"}
+    releases = {"electronic", "hardware", "packaging", "oobb"}
     directory_source = "parts"
     for typ_id in types:
         typ = types[typ_id]
@@ -40,6 +42,8 @@ def main(**kwargs):
                         file_full_source = os.path.join(directory_full_source, file)
                         file_full_output = os.path.join(directory_full_output, file)
                         if os.path.exists(file_full_source):
+                            if file_full_source.endswith("working.yaml"):
+                                make_yaml_base(file_full_source)
                             shutil.copy(file_full_source, file_full_output)
                             print(f"copying {file_full_source} to {file_full_output}")
         typ_extra = ""
@@ -54,7 +58,33 @@ def main(**kwargs):
                 print(f"could not push {directory}")
 
 
-                
+def make_yaml_base(file_full_source):
+    file_full_destination = file_full_source.replace("working.yaml", "base.yaml")
+    filter_values = []
+    filter_values.append("classification")
+    filter_values.append("type")
+    filter_values.append("size")
+    filter_values.append("color")
+    filter_values.append("description_main")
+    filter_values.append("description_extra")
+    filter_values.append("manufacturer")
+    filter_values.append("part_number")
+    filter_values.append("id")
+
+
+    import yaml
+    file_yaml = file_full_source
+    with open(file_yaml, "r") as infile:
+        part = yaml.load(infile, Loader=yaml.FullLoader)
+    
+    part_new = {}
+    for filter_value in filter_values:
+        part_new[filter_value] = part[filter_value]
+    file_yaml = file_full_destination
+    with open(file_yaml, "w") as outfile:
+        print(f"writing base {file_yaml}")
+        yaml.dump(part_new, outfile, indent=4)
+    return part                
         
 
 

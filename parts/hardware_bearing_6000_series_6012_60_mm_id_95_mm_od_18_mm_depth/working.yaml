@@ -24,7 +24,7 @@ description_or_color: 610k
 description_or_color_upper: 610K
 directory: parts/hardware_bearing_6000_series_6012_60_mm_id_95_mm_od_18_mm_depth
 distributors: []
-filter: bearing
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6012_60_mm_id_95_mm_od_18_mm_depth/working
 id: hardware_bearing_6000_series_6012_60_mm_id_95_mm_od_18_mm_depth
