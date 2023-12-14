@@ -1,0 +1,14 @@
+* packaging
+  * takeaway_container_circle
+    * [heavy_duty](packaging/takeaway_container_circle/heavy_duty)
+      * [satco](packaging/takeaway_container_circle/heavy_duty/satco)
+    * [hinged_lid](packaging/takeaway_container_circle/heavy_duty/satco/hinged_lid)
+      * [majestic](packaging/takeaway_container_circle/heavy_duty/satco/hinged_lid/majestic)
+        * [05385_pv11](05385_pv11)
+    * [nisbet_fiesta](packaging/takeaway_container_circle/heavy_duty/satco/hinged_lid/majestic/05385_pv11/nisbet_fiesta)
+      * [ct083](packaging/takeaway_container_circle/heavy_duty/satco/hinged_lid/majestic/05385_pv11/nisbet_fiesta/ct083)
+  * takeaway_container_rectangle
+    * [nisbet_fiesta](packaging/takeaway_container_circle/heavy_duty/satco/hinged_lid/majestic/05385_pv11/nisbet_fiesta/ct083/takeaway_container_rectangle/nisbet_fiesta)
+      * [large_dm183](packaging/takeaway_container_circle/heavy_duty/satco/hinged_lid/majestic/05385_pv11/nisbet_fiesta/ct083/takeaway_container_rectangle/nisbet_fiesta/large_dm183)
+      * [medium_dm182](packaging/takeaway_container_circle/heavy_duty/satco/hinged_lid/majestic/05385_pv11/nisbet_fiesta/ct083/takeaway_container_rectangle/nisbet_fiesta/large_dm183/medium_dm182)
+      * [small_dm181](packaging/takeaway_container_circle/heavy_duty/satco/hinged_lid/majestic/05385_pv11/nisbet_fiesta/ct083/takeaway_container_rectangle/nisbet_fiesta/large_dm183/medium_dm182/small_dm181)

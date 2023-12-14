@@ -1,0 +1,2 @@
+* electronic
+  * mounting_hole

@@ -1,0 +1,15 @@
+* electronic
+  * capacitor
+    * [100_nano_farad](electronic/capacitor/100_nano_farad)
+    * [10_micro_farad](electronic/capacitor/100_nano_farad/10_micro_farad)
+    * [10_nano_farad](electronic/capacitor/100_nano_farad/10_micro_farad/10_nano_farad)
+    * [1_micro_farad](electronic/capacitor/100_nano_farad/10_micro_farad/10_nano_farad/1_micro_farad)
+    * [22_nano_farad](electronic/capacitor/100_nano_farad/10_micro_farad/10_nano_farad/1_micro_farad/22_nano_farad)
+    * [22_pico_farad](electronic/capacitor/100_nano_farad/10_micro_farad/10_nano_farad/1_micro_farad/22_nano_farad/22_pico_farad)
+    * [4_7_micro_farad](electronic/capacitor/100_nano_farad/10_micro_farad/10_nano_farad/1_micro_farad/22_nano_farad/22_pico_farad/4_7_micro_farad)
+    * [electrolytic](electronic/capacitor/100_nano_farad/10_micro_farad/10_nano_farad/1_micro_farad/22_nano_farad/22_pico_farad/4_7_micro_farad/electrolytic)
+      * [220_micro_farad](electronic/capacitor/100_nano_farad/10_micro_farad/10_nano_farad/1_micro_farad/22_nano_farad/22_pico_farad/4_7_micro_farad/electrolytic/220_micro_farad)
+        * [10_volt](10_volt)
+    * [tantalum](electronic/capacitor/100_nano_farad/10_micro_farad/10_nano_farad/1_micro_farad/22_nano_farad/22_pico_farad/4_7_micro_farad/electrolytic/220_micro_farad/10_volt/tantalum)
+      * [4_7_micro_farad](electronic/capacitor/100_nano_farad/10_micro_farad/10_nano_farad/1_micro_farad/22_nano_farad/22_pico_farad/4_7_micro_farad/electrolytic/220_micro_farad/10_volt/tantalum/4_7_micro_farad)
+        * [16_volt](16_volt)

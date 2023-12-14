@@ -1,0 +1,12 @@
+* electronic
+  * ic
+    * [sensor](electronic/ic/sensor)
+      * [accelerometer](electronic/ic/sensor/accelerometer)
+        * [sensortek](sensortek)
+          * [stk8321](stk8321)
+      * [light](electronic/ic/sensor/accelerometer/sensortek/light)
+        * [everlight_elec](everlight_elec)
+          * [als_pt19](als_pt19)
+      * [pressure_temperature](electronic/ic/sensor/accelerometer/sensortek/light/everlight_elec/pressure_temperature)
+        * [bosch](bosch)
+          * [bme280](bme280)

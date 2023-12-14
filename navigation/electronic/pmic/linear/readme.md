@@ -1,0 +1,10 @@
+* electronic
+  * pmic
+    * [linear](electronic/pmic/linear)
+      * [1117](electronic/pmic/linear/1117)
+        * [1_5_volt](1_5_volt)
+        * [1_8_volt](1_8_volt)
+        * [2_5_volt](2_5_volt)
+        * [3_3_volt](3_3_volt)
+        * [5_volt](5_volt)
+        * [adj](adj)

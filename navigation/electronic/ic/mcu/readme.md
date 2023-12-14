@@ -1,0 +1,13 @@
+* electronic
+  * ic
+    * [mcu](electronic/ic/mcu)
+      * [atmega328](electronic/ic/mcu/atmega328)
+        * [microchip](microchip)
+          * [atmega328p_au](atmega328p_au)
+          * [atmega328p_mmh](atmega328p_mmh)
+          * [atmega328p_mn](atmega328p_mn)
+          * [atmega328p_mu](atmega328p_mu)
+          * [atmega328p_pu](atmega328p_pu)
+      * [pic32](electronic/ic/mcu/atmega328/microchip/pic32)
+        * [microchip](microchip)
+          * [pic32mk1024gpk100](pic32mk1024gpk100)
