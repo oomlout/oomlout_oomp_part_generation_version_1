@@ -1,6 +1,6 @@
-* microchip
-  * atmega328p_au
-  * atmega328p_mmh
-  * atmega328p_mn
-  * atmega328p_mu
-  * atmega328p_pu
+* [microchip](microchip)
+  * [atmega328p_au](microchip/atmega328p_au)
+  * [atmega328p_mmh](microchip/atmega328p_au/atmega328p_mmh)
+  * [atmega328p_mn](microchip/atmega328p_au/atmega328p_mmh/atmega328p_mn)
+  * [atmega328p_mu](microchip/atmega328p_au/atmega328p_mmh/atmega328p_mn/atmega328p_mu)
+  * [atmega328p_pu](microchip/atmega328p_au/atmega328p_mmh/atmega328p_mn/atmega328p_mu/atmega328p_pu)

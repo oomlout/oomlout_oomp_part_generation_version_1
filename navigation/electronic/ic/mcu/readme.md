@@ -1,10 +1,10 @@
-* atmega328
-  * microchip
+* [atmega328](atmega328)
+  * [microchip](atmega328/microchip)
     * [atmega328p_au](atmega328/microchip/atmega328p_au)
     * [atmega328p_mmh](atmega328/microchip/atmega328p_au/atmega328p_mmh)
     * [atmega328p_mn](atmega328/microchip/atmega328p_au/atmega328p_mmh/atmega328p_mn)
     * [atmega328p_mu](atmega328/microchip/atmega328p_au/atmega328p_mmh/atmega328p_mn/atmega328p_mu)
     * [atmega328p_pu](atmega328/microchip/atmega328p_au/atmega328p_mmh/atmega328p_mn/atmega328p_mu/atmega328p_pu)
-* pic32
-  * microchip
+* [pic32](pic32)
+  * [microchip](pic32/microchip)
     * [pic32mk1024gpk100](pic32/microchip/pic32mk1024gpk100)

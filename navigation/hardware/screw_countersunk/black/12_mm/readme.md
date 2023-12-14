@@ -1,2 +1,2 @@
-* hex
-* hex_head
+* [hex](hex)
+* [hex_head](hex_head)

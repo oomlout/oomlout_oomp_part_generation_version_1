@@ -1,9 +1,9 @@
-* accelerometer
-  * sensortek
+* [accelerometer](accelerometer)
+  * [sensortek](accelerometer/sensortek)
     * [stk8321](accelerometer/sensortek/stk8321)
-* light
-  * everlight_elec
+* [light](light)
+  * [everlight_elec](light/everlight_elec)
     * [als_pt19](light/everlight_elec/als_pt19)
-* pressure_temperature
-  * bosch
+* [pressure_temperature](pressure_temperature)
+  * [bosch](pressure_temperature/bosch)
     * [bme280](pressure_temperature/bosch/bme280)

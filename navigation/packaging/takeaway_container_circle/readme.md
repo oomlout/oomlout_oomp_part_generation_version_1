@@ -1,7 +1,7 @@
-* heavy_duty
-  * satco
-* hinged_lid
-  * majestic
+* [heavy_duty](heavy_duty)
+  * [satco](heavy_duty/satco)
+* [hinged_lid](hinged_lid)
+  * [majestic](hinged_lid/majestic)
     * [05385_pv11](hinged_lid/majestic/05385_pv11)
-* nisbet_fiesta
-  * ct083
+* [nisbet_fiesta](nisbet_fiesta)
+  * [ct083](nisbet_fiesta/ct083)

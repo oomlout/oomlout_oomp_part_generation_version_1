@@ -1,13 +1,13 @@
-* 100_nano_farad
-* 10_micro_farad
-* 10_nano_farad
-* 1_micro_farad
-* 22_nano_farad
-* 22_pico_farad
-* 4_7_micro_farad
-* electrolytic
-  * 220_micro_farad
+* [100_nano_farad](100_nano_farad)
+* [10_micro_farad](10_micro_farad)
+* [10_nano_farad](10_nano_farad)
+* [1_micro_farad](1_micro_farad)
+* [22_nano_farad](22_nano_farad)
+* [22_pico_farad](22_pico_farad)
+* [4_7_micro_farad](4_7_micro_farad)
+* [electrolytic](electrolytic)
+  * [220_micro_farad](electrolytic/220_micro_farad)
     * [10_volt](electrolytic/220_micro_farad/10_volt)
-* tantalum
-  * 4_7_micro_farad
+* [tantalum](tantalum)
+  * [4_7_micro_farad](tantalum/4_7_micro_farad)
     * [16_volt](tantalum/4_7_micro_farad/16_volt)

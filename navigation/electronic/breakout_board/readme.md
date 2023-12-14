@@ -1,7 +1,7 @@
-* mcu
-  * atmega328p
+* [mcu](mcu)
+  * [atmega328p](mcu/atmega328p)
     * [arduino_compatible](mcu/atmega328p/arduino_compatible)
-  * espressif_esp32
-  * raspberry_pi_2040
-* motor_driver
-  * stepper_motor
+  * [espressif_esp32](mcu/atmega328p/arduino_compatible/espressif_esp32)
+  * [raspberry_pi_2040](mcu/atmega328p/arduino_compatible/espressif_esp32/raspberry_pi_2040)
+* [motor_driver](motor_driver)
+  * [stepper_motor](motor_driver/stepper_motor)

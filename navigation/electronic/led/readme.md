@@ -1,11 +1,11 @@
-* blue
-* green
-* red
-* rgb
-  * ws2812b
+* [blue](blue)
+* [green](green)
+* [red](red)
+* [rgb](rgb)
+  * [ws2812b](rgb/ws2812b)
     * [worldsemi](rgb/ws2812b/worldsemi)
       * [ws2812b_b_w](rgb/ws2812b/worldsemi/ws2812b_b_w)
     * [xinglight](rgb/ws2812b/worldsemi/ws2812b_b_w/xinglight)
       * [1010rgbc](rgb/ws2812b/worldsemi/ws2812b_b_w/xinglight/1010rgbc)
-* white
-* yellow
+* [white](white)
+* [yellow](yellow)

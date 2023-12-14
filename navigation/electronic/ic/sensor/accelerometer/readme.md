@@ -1,2 +1,2 @@
-* sensortek
-  * stk8321
+* [sensortek](sensortek)
+  * [stk8321](sensortek/stk8321)

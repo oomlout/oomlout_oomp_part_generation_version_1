@@ -1,5 +1,5 @@
-* black
-  * 10_mm
+* [black](black)
+  * [10_mm](black/10_mm)
     * [nut_and_nut](black/10_mm/nut_and_nut)
-  * 12_mm
+  * [12_mm](black/10_mm/nut_and_nut/12_mm)
     * [screw_and_nut](black/10_mm/nut_and_nut/12_mm/screw_and_nut)

@@ -1,5 +1,5 @@
-* converter
-  * usb_to_serial_converter
+* [converter](converter)
+  * [usb_to_serial_converter](converter/usb_to_serial_converter)
     * [wch](converter/usb_to_serial_converter/wch)
       * [ch340b](converter/usb_to_serial_converter/wch/ch340b)
       * [ch340c](converter/usb_to_serial_converter/wch/ch340b/ch340c)
@@ -9,36 +9,36 @@
       * [ch340n](converter/usb_to_serial_converter/wch/ch340b/ch340c/ch340e/ch340g/ch340k/ch340n)
       * [ch340t](converter/usb_to_serial_converter/wch/ch340b/ch340c/ch340e/ch340g/ch340k/ch340n/ch340t)
       * [ch340x](converter/usb_to_serial_converter/wch/ch340b/ch340c/ch340e/ch340g/ch340k/ch340n/ch340t/ch340x)
-* led_driver
-  * led_matrix_driver_16_x_8
+* [led_driver](led_driver)
+  * [led_matrix_driver_16_x_8](led_driver/led_matrix_driver_16_x_8)
     * [wuxi_i_core_electronics_co_ltd](led_driver/led_matrix_driver_16_x_8/wuxi_i_core_electronics_co_ltd)
       * [aip1640](led_driver/led_matrix_driver_16_x_8/wuxi_i_core_electronics_co_ltd/aip1640)
-* mcu
-  * atmega328
+* [mcu](mcu)
+  * [atmega328](mcu/atmega328)
     * [microchip](mcu/atmega328/microchip)
       * [atmega328p_au](mcu/atmega328/microchip/atmega328p_au)
       * [atmega328p_mmh](mcu/atmega328/microchip/atmega328p_au/atmega328p_mmh)
       * [atmega328p_mn](mcu/atmega328/microchip/atmega328p_au/atmega328p_mmh/atmega328p_mn)
       * [atmega328p_mu](mcu/atmega328/microchip/atmega328p_au/atmega328p_mmh/atmega328p_mn/atmega328p_mu)
       * [atmega328p_pu](mcu/atmega328/microchip/atmega328p_au/atmega328p_mmh/atmega328p_mn/atmega328p_mu/atmega328p_pu)
-  * pic32
+  * [pic32](mcu/atmega328/microchip/atmega328p_au/atmega328p_mmh/atmega328p_mn/atmega328p_mu/atmega328p_pu/pic32)
     * [microchip](mcu/atmega328/microchip/atmega328p_au/atmega328p_mmh/atmega328p_mn/atmega328p_mu/atmega328p_pu/pic32/microchip)
       * [pic32mk1024gpk100](mcu/atmega328/microchip/atmega328p_au/atmega328p_mmh/atmega328p_mn/atmega328p_mu/atmega328p_pu/pic32/microchip/pic32mk1024gpk100)
-* multiplexer
-  * power_multiplexer
+* [multiplexer](multiplexer)
+  * [power_multiplexer](multiplexer/power_multiplexer)
     * [texas_instruments](multiplexer/power_multiplexer/texas_instruments)
       * [tps2113apw](multiplexer/power_multiplexer/texas_instruments/tps2113apw)
-  * usb_multiplexer
+  * [usb_multiplexer](multiplexer/power_multiplexer/texas_instruments/tps2113apw/usb_multiplexer)
     * [two_to_one](multiplexer/power_multiplexer/texas_instruments/tps2113apw/usb_multiplexer/two_to_one)
       * [jiangsu_runic_tech](multiplexer/power_multiplexer/texas_instruments/tps2113apw/usb_multiplexer/two_to_one/jiangsu_runic_tech)
         * [rs2227xn](rs2227xn)
-* sensor
-  * accelerometer
+* [sensor](sensor)
+  * [accelerometer](sensor/accelerometer)
     * [sensortek](sensor/accelerometer/sensortek)
       * [stk8321](sensor/accelerometer/sensortek/stk8321)
-  * light
+  * [light](sensor/accelerometer/sensortek/stk8321/light)
     * [everlight_elec](sensor/accelerometer/sensortek/stk8321/light/everlight_elec)
       * [als_pt19](sensor/accelerometer/sensortek/stk8321/light/everlight_elec/als_pt19)
-  * pressure_temperature
+  * [pressure_temperature](sensor/accelerometer/sensortek/stk8321/light/everlight_elec/als_pt19/pressure_temperature)
     * [bosch](sensor/accelerometer/sensortek/stk8321/light/everlight_elec/als_pt19/pressure_temperature/bosch)
       * [bme280](sensor/accelerometer/sensortek/stk8321/light/everlight_elec/als_pt19/pressure_temperature/bosch/bme280)

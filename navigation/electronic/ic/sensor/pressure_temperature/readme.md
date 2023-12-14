@@ -1,2 +1,2 @@
-* bosch
-  * bme280
+* [bosch](bosch)
+  * [bme280](bosch/bme280)

@@ -1,2 +1,2 @@
-* flanged
-* locking
+* [flanged](flanged)
+* [locking](locking)
