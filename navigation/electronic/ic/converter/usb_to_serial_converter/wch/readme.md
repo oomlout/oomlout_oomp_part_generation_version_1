@@ -1,8 +1,0 @@
-* [ch340b](ch340b)
-* [ch340c](ch340c)
-* [ch340e](ch340e)
-* [ch340g](ch340g)
-* [ch340k](ch340k)
-* [ch340n](ch340n)
-* [ch340t](ch340t)
-* [ch340x](ch340x)
