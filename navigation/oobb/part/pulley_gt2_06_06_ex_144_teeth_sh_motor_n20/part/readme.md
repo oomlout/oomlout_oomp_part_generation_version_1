@@ -1,3 +1,0 @@
-* oobb
-  * part
-    * [pulley_gt2_06_06_ex_144_teeth_sh_motor_n20](oobb/part/pulley_gt2_06_06_ex_144_teeth_sh_motor_n20)

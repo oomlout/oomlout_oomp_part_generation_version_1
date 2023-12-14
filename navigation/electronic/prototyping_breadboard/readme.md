@@ -1,2 +1,0 @@
-* electronic
-  * prototyping_breadboard

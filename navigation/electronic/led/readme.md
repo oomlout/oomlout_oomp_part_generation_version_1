@@ -1,13 +1,11 @@
-* electronic
-  * led
-    * [blue](electronic/led/blue)
-    * [green](electronic/led/blue/green)
-    * [red](electronic/led/blue/green/red)
-    * [rgb](electronic/led/blue/green/red/rgb)
-      * [ws2812b](electronic/led/blue/green/red/rgb/ws2812b)
-        * [worldsemi](worldsemi)
-          * [ws2812b_b_w](ws2812b_b_w)
-        * [xinglight](xinglight)
-          * [1010rgbc](1010rgbc)
-    * [white](electronic/led/blue/green/red/rgb/ws2812b/worldsemi/xinglight/white)
-    * [yellow](electronic/led/blue/green/red/rgb/ws2812b/worldsemi/xinglight/white/yellow)
+* blue
+* green
+* red
+* rgb
+  * ws2812b
+    * [worldsemi](rgb/ws2812b/worldsemi)
+      * [ws2812b_b_w](rgb/ws2812b/worldsemi/ws2812b_b_w)
+    * [xinglight](rgb/ws2812b/worldsemi/ws2812b_b_w/xinglight)
+      * [1010rgbc](rgb/ws2812b/worldsemi/ws2812b_b_w/xinglight/1010rgbc)
+* white
+* yellow

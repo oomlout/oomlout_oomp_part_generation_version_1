@@ -1,3 +1,0 @@
-* oobb
-  * part
-    * [tray_thin_09_07_30](oobb/part/tray_thin_09_07_30)

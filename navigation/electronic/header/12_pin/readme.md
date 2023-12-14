@@ -1,9 +1,6 @@
-* electronic
-  * header
-    * [12_pin](electronic/header/12_pin)
-      * [surface_mount](electronic/header/12_pin/surface_mount)
-      * [surface_mount_right_angle](electronic/header/12_pin/surface_mount/surface_mount_right_angle)
-      * [through_hole](electronic/header/12_pin/surface_mount/surface_mount_right_angle/through_hole)
-      * [through_hole_long](electronic/header/12_pin/surface_mount/surface_mount_right_angle/through_hole/through_hole_long)
-      * [through_hole_right_angle](electronic/header/12_pin/surface_mount/surface_mount_right_angle/through_hole/through_hole_long/through_hole_right_angle)
-      * [through_hole_short](electronic/header/12_pin/surface_mount/surface_mount_right_angle/through_hole/through_hole_long/through_hole_right_angle/through_hole_short)
+* surface_mount
+* surface_mount_right_angle
+* through_hole
+* through_hole_long
+* through_hole_right_angle
+* through_hole_short

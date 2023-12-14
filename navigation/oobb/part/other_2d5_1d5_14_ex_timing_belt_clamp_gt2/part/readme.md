@@ -1,3 +1,0 @@
-* oobb
-  * part
-    * [other_2d5_1d5_14_ex_timing_belt_clamp_gt2](oobb/part/other_2d5_1d5_14_ex_timing_belt_clamp_gt2)

@@ -1,24 +1,22 @@
-* hardware
-  * screw_machine
-    * [10_mm](hardware/screw_machine/10_mm)
-      * [hex](hardware/screw_machine/10_mm/hex)
-    * [12_mm](hardware/screw_machine/10_mm/hex/12_mm)
-      * [hex](hardware/screw_machine/10_mm/hex/12_mm/hex)
-    * [15_mm](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm)
-      * [hex](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm/hex)
-    * [18_mm](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm/hex/18_mm)
-      * [hex](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm/hex/18_mm/hex)
-    * [20_mm](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm/hex/18_mm/hex/20_mm)
-      * [hex](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm/hex/18_mm/hex/20_mm/hex)
-    * [25_mm](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm/hex/18_mm/hex/20_mm/hex/25_mm)
-      * [hex](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm/hex/18_mm/hex/20_mm/hex/25_mm/hex)
-    * [30_mm](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm/hex/18_mm/hex/20_mm/hex/25_mm/hex/30_mm)
-      * [hex](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm/hex/18_mm/hex/20_mm/hex/25_mm/hex/30_mm/hex)
-    * [35_mm](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm/hex/18_mm/hex/20_mm/hex/25_mm/hex/30_mm/hex/35_mm)
-      * [hex](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm/hex/18_mm/hex/20_mm/hex/25_mm/hex/30_mm/hex/35_mm/hex)
-    * [40_mm](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm/hex/18_mm/hex/20_mm/hex/25_mm/hex/30_mm/hex/35_mm/hex/40_mm)
-      * [hex](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm/hex/18_mm/hex/20_mm/hex/25_mm/hex/30_mm/hex/35_mm/hex/40_mm/hex)
-    * [6_mm](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm/hex/18_mm/hex/20_mm/hex/25_mm/hex/30_mm/hex/35_mm/hex/40_mm/hex/6_mm)
-      * [hex](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm/hex/18_mm/hex/20_mm/hex/25_mm/hex/30_mm/hex/35_mm/hex/40_mm/hex/6_mm/hex)
-    * [8_mm](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm/hex/18_mm/hex/20_mm/hex/25_mm/hex/30_mm/hex/35_mm/hex/40_mm/hex/6_mm/hex/8_mm)
-      * [hex](hardware/screw_machine/10_mm/hex/12_mm/hex/15_mm/hex/18_mm/hex/20_mm/hex/25_mm/hex/30_mm/hex/35_mm/hex/40_mm/hex/6_mm/hex/8_mm/hex)
+* 10_mm
+  * hex
+* 12_mm
+  * hex
+* 15_mm
+  * hex
+* 18_mm
+  * hex
+* 20_mm
+  * hex
+* 25_mm
+  * hex
+* 30_mm
+  * hex
+* 35_mm
+  * hex
+* 40_mm
+  * hex
+* 6_mm
+  * hex
+* 8_mm
+  * hex

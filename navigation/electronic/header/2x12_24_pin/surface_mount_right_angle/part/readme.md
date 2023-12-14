@@ -1,4 +1,0 @@
-* electronic
-  * header
-    * [2x12_24_pin](electronic/header/2x12_24_pin)
-      * [surface_mount_right_angle](electronic/header/2x12_24_pin/surface_mount_right_angle)

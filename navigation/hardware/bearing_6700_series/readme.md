@@ -1,9 +1,7 @@
-* hardware
-  * bearing_6700_series
-    * [12_mm_id_18_mm_od_4_mm_depth](hardware/bearing_6700_series/12_mm_id_18_mm_od_4_mm_depth)
-    * [15_mm_id_21_mm_od_4_mm_depth](hardware/bearing_6700_series/12_mm_id_18_mm_od_4_mm_depth/15_mm_id_21_mm_od_4_mm_depth)
-    * [17_mm_id_23_mm_od_4_mm_depth](hardware/bearing_6700_series/12_mm_id_18_mm_od_4_mm_depth/15_mm_id_21_mm_od_4_mm_depth/17_mm_id_23_mm_od_4_mm_depth)
-    * [20_mm_id_27_mm_od_4_mm_depth](hardware/bearing_6700_series/12_mm_id_18_mm_od_4_mm_depth/15_mm_id_21_mm_od_4_mm_depth/17_mm_id_23_mm_od_4_mm_depth/20_mm_id_27_mm_od_4_mm_depth)
-    * [25_mm_id_32_mm_od_4_mm_depth](hardware/bearing_6700_series/12_mm_id_18_mm_od_4_mm_depth/15_mm_id_21_mm_od_4_mm_depth/17_mm_id_23_mm_od_4_mm_depth/20_mm_id_27_mm_od_4_mm_depth/25_mm_id_32_mm_od_4_mm_depth)
-    * [30_mm_id_37_mm_od_4_mm_depth](hardware/bearing_6700_series/12_mm_id_18_mm_od_4_mm_depth/15_mm_id_21_mm_od_4_mm_depth/17_mm_id_23_mm_od_4_mm_depth/20_mm_id_27_mm_od_4_mm_depth/25_mm_id_32_mm_od_4_mm_depth/30_mm_id_37_mm_od_4_mm_depth)
-    * [35_mm_id_44_mm_od_5_mm_depth](hardware/bearing_6700_series/12_mm_id_18_mm_od_4_mm_depth/15_mm_id_21_mm_od_4_mm_depth/17_mm_id_23_mm_od_4_mm_depth/20_mm_id_27_mm_od_4_mm_depth/25_mm_id_32_mm_od_4_mm_depth/30_mm_id_37_mm_od_4_mm_depth/35_mm_id_44_mm_od_5_mm_depth)
+* 12_mm_id_18_mm_od_4_mm_depth
+* 15_mm_id_21_mm_od_4_mm_depth
+* 17_mm_id_23_mm_od_4_mm_depth
+* 20_mm_id_27_mm_od_4_mm_depth
+* 25_mm_id_32_mm_od_4_mm_depth
+* 30_mm_id_37_mm_od_4_mm_depth
+* 35_mm_id_44_mm_od_5_mm_depth

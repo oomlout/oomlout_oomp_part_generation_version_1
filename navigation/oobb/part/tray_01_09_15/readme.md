@@ -1,3 +1,0 @@
-* oobb
-  * part
-    * [tray_01_09_15](oobb/part/tray_01_09_15)

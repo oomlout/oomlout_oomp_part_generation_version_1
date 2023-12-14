@@ -1,10 +1,7 @@
-* electronic
-  * ic
-    * [multiplexer](electronic/ic/multiplexer)
-      * [power_multiplexer](electronic/ic/multiplexer/power_multiplexer)
-        * [texas_instruments](texas_instruments)
-          * [tps2113apw](tps2113apw)
-      * [usb_multiplexer](electronic/ic/multiplexer/power_multiplexer/texas_instruments/usb_multiplexer)
-        * [two_to_one](two_to_one)
-          * [jiangsu_runic_tech](jiangsu_runic_tech)
-            * [rs2227xn](rs2227xn)
+* power_multiplexer
+  * texas_instruments
+    * [tps2113apw](power_multiplexer/texas_instruments/tps2113apw)
+* usb_multiplexer
+  * two_to_one
+    * [jiangsu_runic_tech](usb_multiplexer/two_to_one/jiangsu_runic_tech)
+      * [rs2227xn](usb_multiplexer/two_to_one/jiangsu_runic_tech/rs2227xn)

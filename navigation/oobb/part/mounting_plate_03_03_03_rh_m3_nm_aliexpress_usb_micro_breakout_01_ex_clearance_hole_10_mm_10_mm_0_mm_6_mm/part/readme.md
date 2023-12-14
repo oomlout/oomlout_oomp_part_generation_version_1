@@ -1,3 +1,0 @@
-* oobb
-  * part
-    * [mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01_ex_clearance_hole_10_mm_10_mm_0_mm_6_mm](oobb/part/mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01_ex_clearance_hole_10_mm_10_mm_0_mm_6_mm)

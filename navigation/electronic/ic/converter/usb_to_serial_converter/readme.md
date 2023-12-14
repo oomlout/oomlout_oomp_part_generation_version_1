@@ -1,13 +1,9 @@
-* electronic
-  * ic
-    * [converter](electronic/ic/converter)
-      * [usb_to_serial_converter](electronic/ic/converter/usb_to_serial_converter)
-        * [wch](wch)
-          * [ch340b](ch340b)
-          * [ch340c](ch340c)
-          * [ch340e](ch340e)
-          * [ch340g](ch340g)
-          * [ch340k](ch340k)
-          * [ch340n](ch340n)
-          * [ch340t](ch340t)
-          * [ch340x](ch340x)
+* wch
+  * ch340b
+  * ch340c
+  * ch340e
+  * ch340g
+  * ch340k
+  * ch340n
+  * ch340t
+  * ch340x

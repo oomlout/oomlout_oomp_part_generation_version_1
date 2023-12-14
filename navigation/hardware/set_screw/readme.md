@@ -1,30 +1,28 @@
-* hardware
-  * set_screw
-    * [100_mm](hardware/set_screw/100_mm)
-    * [105_mm](hardware/set_screw/100_mm/105_mm)
-    * [10_mm](hardware/set_screw/100_mm/105_mm/10_mm)
-    * [110_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm)
-    * [115_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm)
-    * [120_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm)
-    * [12_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm)
-    * [14_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm)
-    * [15_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm)
-    * [16_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm)
-    * [18_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm)
-    * [20_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm/20_mm)
-    * [22_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm/20_mm/22_mm)
-    * [25_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm/20_mm/22_mm/25_mm)
-    * [30_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm/20_mm/22_mm/25_mm/30_mm)
-    * [35_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm/20_mm/22_mm/25_mm/30_mm/35_mm)
-    * [40_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm/20_mm/22_mm/25_mm/30_mm/35_mm/40_mm)
-    * [45_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm/20_mm/22_mm/25_mm/30_mm/35_mm/40_mm/45_mm)
-    * [50_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm/20_mm/22_mm/25_mm/30_mm/35_mm/40_mm/45_mm/50_mm)
-    * [60_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm/20_mm/22_mm/25_mm/30_mm/35_mm/40_mm/45_mm/50_mm/60_mm)
-    * [65_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm/20_mm/22_mm/25_mm/30_mm/35_mm/40_mm/45_mm/50_mm/60_mm/65_mm)
-    * [70_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm/20_mm/22_mm/25_mm/30_mm/35_mm/40_mm/45_mm/50_mm/60_mm/65_mm/70_mm)
-    * [75_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm/20_mm/22_mm/25_mm/30_mm/35_mm/40_mm/45_mm/50_mm/60_mm/65_mm/70_mm/75_mm)
-    * [80_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm/20_mm/22_mm/25_mm/30_mm/35_mm/40_mm/45_mm/50_mm/60_mm/65_mm/70_mm/75_mm/80_mm)
-    * [85_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm/20_mm/22_mm/25_mm/30_mm/35_mm/40_mm/45_mm/50_mm/60_mm/65_mm/70_mm/75_mm/80_mm/85_mm)
-    * [8_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm/20_mm/22_mm/25_mm/30_mm/35_mm/40_mm/45_mm/50_mm/60_mm/65_mm/70_mm/75_mm/80_mm/85_mm/8_mm)
-    * [90_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm/20_mm/22_mm/25_mm/30_mm/35_mm/40_mm/45_mm/50_mm/60_mm/65_mm/70_mm/75_mm/80_mm/85_mm/8_mm/90_mm)
-    * [95_mm](hardware/set_screw/100_mm/105_mm/10_mm/110_mm/115_mm/120_mm/12_mm/14_mm/15_mm/16_mm/18_mm/20_mm/22_mm/25_mm/30_mm/35_mm/40_mm/45_mm/50_mm/60_mm/65_mm/70_mm/75_mm/80_mm/85_mm/8_mm/90_mm/95_mm)
+* 100_mm
+* 105_mm
+* 10_mm
+* 110_mm
+* 115_mm
+* 120_mm
+* 12_mm
+* 14_mm
+* 15_mm
+* 16_mm
+* 18_mm
+* 20_mm
+* 22_mm
+* 25_mm
+* 30_mm
+* 35_mm
+* 40_mm
+* 45_mm
+* 50_mm
+* 60_mm
+* 65_mm
+* 70_mm
+* 75_mm
+* 80_mm
+* 85_mm
+* 8_mm
+* 90_mm
+* 95_mm

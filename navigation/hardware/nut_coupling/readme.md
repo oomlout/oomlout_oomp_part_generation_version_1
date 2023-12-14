@@ -1,2 +1,0 @@
-* hardware
-  * nut_coupling
