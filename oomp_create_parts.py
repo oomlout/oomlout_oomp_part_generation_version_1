@@ -34,7 +34,9 @@ part_types.append("oobb")
 
 part_types.append("electrical")
 
-part_types.append("packaging_takeaway_containers")
+part_types.append("packaging_takeaway_container")
+part_types.append("packaging_cardboard_box_postal")
+part_types.append("packaging_label")
 
 
 

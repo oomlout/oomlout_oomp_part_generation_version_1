@@ -4,7 +4,7 @@ import oom_git
 
 types = {}
 types[""] = {}
-types[""]["files"] = ["working.yaml", "working.json"]
+types[""]["files"] = ["working.yaml", "working.json", "base.yaml"]
 types["_image"] = {}
 types["_image"]["files"] = ["image.jpg","image_300.jpg","image_600.jpg","image_reference.jpg","image_reference_300.jpg","image_reference_600.jpg","drawing_300.png","drawing_600.png","dimension_300.png","dimension_600.png"]
 types["_drawing"] = {}
@@ -43,7 +43,7 @@ def main(**kwargs):
                         file_full_output = os.path.join(directory_full_output, file)
                         if os.path.exists(file_full_source):
                             if file_full_source.endswith("working.yaml"):
-                                make_yaml_base(file_full_source)
+                                make_yaml_base(file_full_source, file_full_output)
                             shutil.copy(file_full_source, file_full_output)
                             print(f"copying {file_full_source} to {file_full_output}")
         typ_extra = ""
@@ -61,8 +61,8 @@ def main(**kwargs):
                 print(f"could not push {directory}")
 
 
-def make_yaml_base(file_full_source):
-    file_full_destination = file_full_source.replace("working.yaml", "base.yaml")
+def make_yaml_base(file_full_source, file_full_output):
+    file_full_destination = file_full_output.replace("working.yaml", "base.yaml")
     filter_values = []
     filter_values.append("classification")
     filter_values.append("type")
