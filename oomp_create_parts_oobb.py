@@ -39,15 +39,18 @@ def load_parts(**kwargs):
 
     for part_id in things:
         part = things[part_id]
+        size = part["type"]
+        description_main = part_id.replace(f"oobb_{size}_","")
+
         part_details = {}
         part_details["classification"] = "oobb"
         part_details["type"] = "part"
-        part_details["size"] = "oobb"
+        part_details["size"] = size
         part_details["color"] = ""
         id = part["id"]
         id = id.replace("oobb_","")
 
-        part_details["description_main"] = f"{id}"
+        part_details["description_main"] = description_main
         part_details["description_extra"] = ""
         part_details["manufacturer"] = ""
         part_details["part_number"] = ""
