@@ -56,6 +56,16 @@ name_no_size: 30 Mm
 name_no_size_short: 30 Mm
 name_no_type: 6 Mm 30 Mm
 oomp_key: oomp_hardware_bolt_6_mm_30_mm
+oomp_word: rowboat tomato rice
+oomp_word_emoji: ':rowboat: :tomato: :rice:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':tomato:'
+- ':rice:'
+oomp_word_list:
+- rowboat
+- tomato
+- rice
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

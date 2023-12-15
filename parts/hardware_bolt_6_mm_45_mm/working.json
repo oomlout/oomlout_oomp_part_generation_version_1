@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "RFBW",
     "md5_10": "13865c313a",
     "md5_10_upper": "13865C313A",
+    "oomp_word": "question bath ox",
+    "oomp_word_list": [
+        "question",
+        "bath",
+        "ox"
+    ],
+    "oomp_word_emoji": ":question: :bath: :ox:",
+    "oomp_word_emoji_list": [
+        ":question:",
+        ":bath:",
+        ":ox:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "45",

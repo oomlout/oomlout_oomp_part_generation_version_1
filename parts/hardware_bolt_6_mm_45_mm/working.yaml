@@ -56,6 +56,16 @@ name_no_size: 45 Mm
 name_no_size_short: 45 Mm
 name_no_type: 6 Mm 45 Mm
 oomp_key: oomp_hardware_bolt_6_mm_45_mm
+oomp_word: question bath ox
+oomp_word_emoji: ':question: :bath: :ox:'
+oomp_word_emoji_list:
+- ':question:'
+- ':bath:'
+- ':ox:'
+oomp_word_list:
+- question
+- bath
+- ox
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

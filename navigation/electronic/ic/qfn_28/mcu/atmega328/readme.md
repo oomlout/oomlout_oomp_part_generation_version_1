@@ -1,2 +1,2 @@
-* [microchip](microchip)
-  * [atmega328p_mn](microchip/atmega328p_mn)
+* [microchip](/microchip)
+  * [atmega328p_mn](/microchip/atmega328p_mn)

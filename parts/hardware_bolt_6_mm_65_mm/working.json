@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1XH30",
     "md5_10": "3175bc613c",
     "md5_10_upper": "3175BC613C",
+    "oomp_word": "ocean ghost sushi",
+    "oomp_word_list": [
+        "ocean",
+        "ghost",
+        "sushi"
+    ],
+    "oomp_word_emoji": ":ocean: :ghost: :sushi:",
+    "oomp_word_emoji_list": [
+        ":ocean:",
+        ":ghost:",
+        ":sushi:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "65",

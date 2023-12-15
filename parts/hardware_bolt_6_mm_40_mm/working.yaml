@@ -56,6 +56,16 @@ name_no_size: 40 Mm
 name_no_size_short: 40 Mm
 name_no_type: 6 Mm 40 Mm
 oomp_key: oomp_hardware_bolt_6_mm_40_mm
+oomp_word: bowtie baby_chick ok
+oomp_word_emoji: ':bowtie: :baby_chick: :ok:'
+oomp_word_emoji_list:
+- ':bowtie:'
+- ':baby_chick:'
+- ':ok:'
+oomp_word_list:
+- bowtie
+- baby_chick
+- ok
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

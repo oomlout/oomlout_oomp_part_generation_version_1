@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5XE06",
     "md5_10": "97ea26584f",
     "md5_10_upper": "97EA26584F",
+    "oomp_word": "baseball tractor eyes",
+    "oomp_word_list": [
+        "baseball",
+        "tractor",
+        "eyes"
+    ],
+    "oomp_word_emoji": ":baseball: :tractor: :eyes:",
+    "oomp_word_emoji_list": [
+        ":baseball:",
+        ":tractor:",
+        ":eyes:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "110",

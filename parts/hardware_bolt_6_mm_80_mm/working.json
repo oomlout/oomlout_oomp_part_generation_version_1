@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "18B9L",
     "md5_10": "1f8c0932f0",
     "md5_10_upper": "1F8C0932F0",
+    "oomp_word": "princess pill angry",
+    "oomp_word_list": [
+        "princess",
+        "pill",
+        "angry"
+    ],
+    "oomp_word_emoji": ":princess: :pill: :angry:",
+    "oomp_word_emoji_list": [
+        ":princess:",
+        ":pill:",
+        ":angry:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "80",

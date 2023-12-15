@@ -56,6 +56,16 @@ name_no_size: 60 Mm
 name_no_size_short: 60 Mm
 name_no_type: 6 Mm 60 Mm
 oomp_key: oomp_hardware_bolt_6_mm_60_mm
+oomp_word: key baseball maple_leaf
+oomp_word_emoji: ':key: :baseball: :maple_leaf:'
+oomp_word_emoji_list:
+- ':key:'
+- ':baseball:'
+- ':maple_leaf:'
+oomp_word_list:
+- key
+- baseball
+- maple_leaf
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

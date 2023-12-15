@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2W424",
     "md5_10": "4a1e8c9f13",
     "md5_10_upper": "4A1E8C9F13",
+    "oomp_word": "chicken angel pill",
+    "oomp_word_list": [
+        "chicken",
+        "angel",
+        "pill"
+    ],
+    "oomp_word_emoji": ":chicken: :angel: :pill:",
+    "oomp_word_emoji_list": [
+        ":chicken:",
+        ":angel:",
+        ":pill:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "120",

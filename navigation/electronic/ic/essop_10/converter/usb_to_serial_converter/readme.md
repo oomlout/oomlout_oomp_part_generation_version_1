@@ -1,2 +1,2 @@
-* [wch](wch)
-  * [ch340k](wch/ch340k)
+* [wch](/wch)
+  * [ch340k](/wch/ch340k)

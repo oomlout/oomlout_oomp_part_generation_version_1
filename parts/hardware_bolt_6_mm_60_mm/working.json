@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "568V9",
     "md5_10": "849765c857",
     "md5_10_upper": "849765C857",
+    "oomp_word": "key baseball maple_leaf",
+    "oomp_word_list": [
+        "key",
+        "baseball",
+        "maple_leaf"
+    ],
+    "oomp_word_emoji": ":key: :baseball: :maple_leaf:",
+    "oomp_word_emoji_list": [
+        ":key:",
+        ":baseball:",
+        ":maple_leaf:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "60",

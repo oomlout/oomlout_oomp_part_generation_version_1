@@ -56,6 +56,16 @@ name_no_size: 25 Mm
 name_no_size_short: 25 Mm
 name_no_type: 6 Mm 25 Mm
 oomp_key: oomp_hardware_bolt_6_mm_25_mm
+oomp_word: sunglasses bowling tophat
+oomp_word_emoji: ':sunglasses: :bowling: :tophat:'
+oomp_word_emoji_list:
+- ':sunglasses:'
+- ':bowling:'
+- ':tophat:'
+oomp_word_list:
+- sunglasses
+- bowling
+- tophat
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

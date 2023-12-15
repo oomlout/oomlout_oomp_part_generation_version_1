@@ -20,7 +20,7 @@ def load_parts(**kwargs):
         sizes = [size]
         part_details["size"] = []
         for size in sizes:
-            part_details["size"].append(f"{size}_mm")
+            part_details["size"].append(f"{size}")
         part_details["color"] = ["black"]
         lengths = extras_sizes[size]
         part_details["description_main"] = []
@@ -43,7 +43,7 @@ def load_parts(**kwargs):
         sizes = [size]
         part_details["size"] = []
         for size in sizes:
-            part_details["size"].append(f"{size}_mm")
+            part_details["size"].append(f"{size}")
         part_details["color"] = ["black"]
         lengths = extras_sizes[size]
         part_details["description_main"] = []

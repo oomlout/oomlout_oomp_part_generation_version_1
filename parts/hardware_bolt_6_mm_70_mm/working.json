@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "3A6LQ",
     "md5_10": "5422ee2176",
     "md5_10_upper": "5422EE2176",
+    "oomp_word": "whale lips ambulance",
+    "oomp_word_list": [
+        "whale",
+        "lips",
+        "ambulance"
+    ],
+    "oomp_word_emoji": ":whale: :lips: :ambulance:",
+    "oomp_word_emoji_list": [
+        ":whale:",
+        ":lips:",
+        ":ambulance:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "70",

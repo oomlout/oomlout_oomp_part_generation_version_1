@@ -15,9 +15,9 @@ def load_parts(**kwargs):
     for bearing in bearings:
         part_details = {}
         part_details["classification"] = "hardware"
-        part_details["type"] = [f"bearing_{bearing['series']}_series"]
-        part_details["size"] = [f"{bearing['size']}"]
-        part_details["color"] = [""]
+        part_details["type"] = f"bearing"
+        part_details["size"] = f"{bearing['series']}_series"
+        part_details["color"] = f"{bearing['size']}_size"
         id = bearing['id']
         od = bearing['od']
         depth = bearing['width']    

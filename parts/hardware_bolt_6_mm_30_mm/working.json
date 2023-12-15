@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8W0QL",
     "md5_10": "e3d3bd23f2",
     "md5_10_upper": "E3D3BD23F2",
+    "oomp_word": "rowboat tomato rice",
+    "oomp_word_list": [
+        "rowboat",
+        "tomato",
+        "rice"
+    ],
+    "oomp_word_emoji": ":rowboat: :tomato: :rice:",
+    "oomp_word_emoji_list": [
+        ":rowboat:",
+        ":tomato:",
+        ":rice:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "30",

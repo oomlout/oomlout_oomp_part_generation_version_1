@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "51IL0",
     "md5_10": "81395445cd",
     "md5_10_upper": "81395445CD",
+    "oomp_word": "watch tiger whale",
+    "oomp_word_list": [
+        "watch",
+        "tiger",
+        "whale"
+    ],
+    "oomp_word_emoji": ":watch: :tiger: :whale:",
+    "oomp_word_emoji_list": [
+        ":watch:",
+        ":tiger:",
+        ":whale:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "75",

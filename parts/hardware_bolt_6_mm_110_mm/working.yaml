@@ -56,6 +56,16 @@ name_no_size: 110 Mm
 name_no_size_short: 110 Mm
 name_no_type: 6 Mm 110 Mm
 oomp_key: oomp_hardware_bolt_6_mm_110_mm
+oomp_word: baseball tractor eyes
+oomp_word_emoji: ':baseball: :tractor: :eyes:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':tractor:'
+- ':eyes:'
+oomp_word_list:
+- baseball
+- tractor
+- eyes
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

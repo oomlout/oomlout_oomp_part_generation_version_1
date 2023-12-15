@@ -9,7 +9,14 @@
     "part_number": "",
     "make_files": true,
     "short_name": "",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "test_value",
+            "link": "https://lcsc.com/product-detail/test_value.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "classification_upper": "ELECTRONIC",
     "classification_capital": "Electronic",
     "classification_first_letter": "e",
@@ -84,6 +91,6 @@
     "name_no_size_short": "4 Cell",
     "description_or_color": "4",
     "description_or_color_upper": "4",
-    "markdown_full": "[electronic_battery_box_aa_battery_4_cell](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_aa_battery_4_cell/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_aa_battery_4_cell/working)<br>[Electronic Battery Box Aa Battery 4 Cell](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_aa_battery_4_cell/working)<br><br>",
-    "markdown_short": "[electronic_battery_box_aa_battery_4_cell](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_aa_battery_4_cell/working)<br><br>"
+    "markdown_full": "[electronic_battery_box_aa_battery_4_cell](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_aa_battery_4_cell/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_aa_battery_4_cell/working)<br>[Electronic Battery Box Aa Battery 4 Cell](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_aa_battery_4_cell/working)<br>[LCSC - test_value<br>](https://lcsc.com/product-detail/test_value.html)<br>",
+    "markdown_short": "[electronic_battery_box_aa_battery_4_cell](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_aa_battery_4_cell/working)<br>[LCSC - test_value<br>](https://lcsc.com/product-detail/test_value.html)<br>"
 }

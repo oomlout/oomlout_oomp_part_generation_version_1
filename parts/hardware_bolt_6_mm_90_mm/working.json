@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "17YF9",
     "md5_10": "1f4b05e03a",
     "md5_10_upper": "1F4B05E03A",
+    "oomp_word": "princess penguin kissing",
+    "oomp_word_list": [
+        "princess",
+        "penguin",
+        "kissing"
+    ],
+    "oomp_word_emoji": ":princess: :penguin: :kissing:",
+    "oomp_word_emoji_list": [
+        ":princess:",
+        ":penguin:",
+        ":kissing:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "90",

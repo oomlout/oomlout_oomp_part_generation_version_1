@@ -56,6 +56,16 @@ name_no_size: 70 Mm
 name_no_size_short: 70 Mm
 name_no_type: 6 Mm 70 Mm
 oomp_key: oomp_hardware_bolt_6_mm_70_mm
+oomp_word: whale lips ambulance
+oomp_word_emoji: ':whale: :lips: :ambulance:'
+oomp_word_emoji_list:
+- ':whale:'
+- ':lips:'
+- ':ambulance:'
+oomp_word_list:
+- whale
+- lips
+- ambulance
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

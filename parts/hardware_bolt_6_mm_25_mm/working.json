@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "GALR",
     "md5_10": "0b99afcd63",
     "md5_10_upper": "0B99AFCD63",
+    "oomp_word": "sunglasses bowling tophat",
+    "oomp_word_list": [
+        "sunglasses",
+        "bowling",
+        "tophat"
+    ],
+    "oomp_word_emoji": ":sunglasses: :bowling: :tophat:",
+    "oomp_word_emoji_list": [
+        ":sunglasses:",
+        ":bowling:",
+        ":tophat:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "25",

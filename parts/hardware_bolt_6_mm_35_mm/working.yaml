@@ -56,6 +56,16 @@ name_no_size: 35 Mm
 name_no_size_short: 35 Mm
 name_no_type: 6 Mm 35 Mm
 oomp_key: oomp_hardware_bolt_6_mm_35_mm
+oomp_word: tea ski airplane
+oomp_word_emoji: ':tea: :ski: :airplane:'
+oomp_word_emoji_list:
+- ':tea:'
+- ':ski:'
+- ':airplane:'
+oomp_word_list:
+- tea
+- ski
+- airplane
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

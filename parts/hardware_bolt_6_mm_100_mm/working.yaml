@@ -56,6 +56,16 @@ name_no_size: 100 Mm
 name_no_size_short: 100 Mm
 name_no_type: 6 Mm 100 Mm
 oomp_key: oomp_hardware_bolt_6_mm_100_mm
+oomp_word: envelope car wrench
+oomp_word_emoji: ':envelope: :car: :wrench:'
+oomp_word_emoji_list:
+- ':envelope:'
+- ':car:'
+- ':wrench:'
+oomp_word_list:
+- envelope
+- car
+- wrench
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

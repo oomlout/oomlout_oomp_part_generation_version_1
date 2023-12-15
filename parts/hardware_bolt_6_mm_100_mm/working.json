@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5F4W8",
     "md5_10": "8aeb88b505",
     "md5_10_upper": "8AEB88B505",
+    "oomp_word": "envelope car wrench",
+    "oomp_word_list": [
+        "envelope",
+        "car",
+        "wrench"
+    ],
+    "oomp_word_emoji": ":envelope: :car: :wrench:",
+    "oomp_word_emoji_list": [
+        ":envelope:",
+        ":car:",
+        ":wrench:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "100",

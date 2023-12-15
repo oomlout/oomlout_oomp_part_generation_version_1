@@ -56,6 +56,16 @@ name_no_size: 65 Mm
 name_no_size_short: 65 Mm
 name_no_type: 6 Mm 65 Mm
 oomp_key: oomp_hardware_bolt_6_mm_65_mm
+oomp_word: ocean ghost sushi
+oomp_word_emoji: ':ocean: :ghost: :sushi:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':ghost:'
+- ':sushi:'
+oomp_word_list:
+- ocean
+- ghost
+- sushi
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

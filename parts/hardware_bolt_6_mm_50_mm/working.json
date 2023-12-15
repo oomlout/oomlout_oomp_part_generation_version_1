@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "19HU6",
     "md5_10": "20638ed145",
     "md5_10_upper": "20638ED145",
+    "oomp_word": "skull rose clipboard",
+    "oomp_word_list": [
+        "skull",
+        "rose",
+        "clipboard"
+    ],
+    "oomp_word_emoji": ":skull: :rose: :clipboard:",
+    "oomp_word_emoji_list": [
+        ":skull:",
+        ":rose:",
+        ":clipboard:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "50",

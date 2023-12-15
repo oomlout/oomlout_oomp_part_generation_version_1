@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "E7V",
     "md5_10": "0047fbfdf5",
     "md5_10_upper": "0047FBFDF5",
+    "oomp_word": "bowtie baby_chick ok",
+    "oomp_word_list": [
+        "bowtie",
+        "baby_chick",
+        "ok"
+    ],
+    "oomp_word_emoji": ":bowtie: :baby_chick: :ok:",
+    "oomp_word_emoji_list": [
+        ":bowtie:",
+        ":baby_chick:",
+        ":ok:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "40",

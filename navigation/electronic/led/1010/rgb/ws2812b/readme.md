@@ -1,2 +1,2 @@
-* [xinglight](xinglight)
-  * [1010rgbc](xinglight/1010rgbc)
+* [xinglight](/xinglight)
+  * [1010rgbc](/xinglight/1010rgbc)
