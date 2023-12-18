@@ -13,6 +13,27 @@ def load_parts(**kwargs):
 
     ## color used for chip type
 
+    # c4 deep
+    part_details = {}
+    part_details["classification"] = "packaging"
+    part_details["type"] = "cardboard_box_postal_tabs"
+    part_details["size"] = ["c4_324_mm_x_229_mm_x_50_mm"]
+    part_details["color"] = ["brown"]
+    part_details["description_main"] = ""
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["short_name"] = ""  
+    part_details["cost_per"] = "£1"
+    part_details["cost_per_ebay"] = "£1.44"
+    part_details["cost_per_10"] = "£1.44"
+    part_details["cost_per_50"] = "£1.00"
+    part_details["cost_per_100"] = "£0.53"
+    part_details["link_purchase"] = ["https://www.ebay.co.uk/itm/174043294174?var=474501502317","https://ecopostalpack.co.uk/product/c4-extra-deep-pip-style-ecofriendly-cardboard-postal-mail-small-parcelgift-box/"]
+    part_details["width_internal"] = ["325 mm"]
+    part_details["height_internal"] = ["230 mm"]
+    part_details["depth_internal"] = ["50 mm"]
+    parts.append(part_details)    
     
     # c5 deep
     part_details = {}
@@ -31,9 +52,10 @@ def load_parts(**kwargs):
     part_details["cost_per_50"] = "£0.612"
     part_details["cost_per_100"] = "£0.456"
     part_details["link_purchase"] = ["ebay.co.uk/itm/174060319073","https://www.rajapack.co.uk/cardboard-boxes/document-printer-boxes/a5-brown-flat-postal-boxes_OFF_UK_0205.html?"]
-    part_details["width_internal"] = ["215 mm"]
-    part_details["height_internal"] = ["155 mm"]
+    part_details["width_internal"] = ["220 mm"]
+    part_details["height_internal"] = ["160 mm"]
     part_details["depth_internal"] = ["50 mm"]
+    parts.append(part_details)    
     
     # c6 deep
     part_details = {}
@@ -53,6 +75,7 @@ def load_parts(**kwargs):
     part_details["width_internal"] = ["160 mm"]
     part_details["height_internal"] = ["110 mm"]
     part_details["depth_internal"] = ["50 mm"]
+    parts.append(part_details)    
     
     #imperial
     # 7 x 5 x 2
@@ -73,9 +96,6 @@ def load_parts(**kwargs):
     part_details["width_internal"] = ["175 mm"]
     part_details["height_internal"] = ["142 mm"]
     part_details["depth_internal"] = ["55 mm"]
-    
-
-
     parts.append(part_details)    
 
 
