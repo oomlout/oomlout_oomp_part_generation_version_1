@@ -20,7 +20,7 @@ def main(**kwargs):
 
     git = True
 
-    releases = {"electronic", "hardware", "packaging", "oobb"}
+    releases = {"hardware", "electronic", "packaging", "oobb"}
     directory_source = "parts"
     for typ_id in types:
         typ = types[typ_id]

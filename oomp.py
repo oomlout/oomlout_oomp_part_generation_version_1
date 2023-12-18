@@ -205,6 +205,7 @@ def add_part(**kwargs):
         #add id as a keyed item to kwargs
         kwargs["id"] = id
         clas = kwargs.get("classification","none")
+        ###add_id_start
         id_no_class = id.replace(f"{clas}_","")        
         kwargs["id_no_class"] = id_no_class
         typ = kwargs.get("type","none")
@@ -220,6 +221,10 @@ def add_part(**kwargs):
         #add the directory
         kwargs["directory"] = f'parts/{id}'
 
+        ## add_id_end
+
+        ## add_name_start
+
         #add name, the name is the id with proper capitalization and _ replaced with ' '
         kwargs["name"] = id.replace("_", " ").title()
         name_no_class = id_no_class.replace("_", " ").title()
@@ -228,6 +233,8 @@ def add_part(**kwargs):
         kwargs["name_no_type"] = name_no_type
         name_no_size = id_no_size.replace("_", " ").title()
         kwargs["name_no_size"] = name_no_size
+
+        ## add_name_end
 
         #add short code from a get_short_code function
         kwargs["short_code"] = oomp_short_code.get_short_code(**kwargs)
@@ -248,6 +255,8 @@ def add_part(**kwargs):
         kwargs = oomp_packaging.get_packaging(**kwargs)
 
         kwargs = oomp_extra_details.get_extra_details(**kwargs)
+
+        # add_md5_start
 
         #add a md5 hash of the id as a keyed item to kwargs
         import hashlib
@@ -271,6 +280,8 @@ def add_part(**kwargs):
         kwargs["md5_10_upper"] = kwargs["md5_10"].upper()
         parts_md5_10[kwargs["md5_10"]] = id
         
+        ###### add_oomp_moji start
+
         # oomp_word
         import oomp_word
         oomp_word_value = oomp_word.get_oomp_word(md5_6, style="string")
@@ -278,6 +289,8 @@ def add_part(**kwargs):
         kwargs["oomp_word_list"] = oomp_word.get_oomp_word(md5_6, style="list")
         kwargs["oomp_word_emoji"] = oomp_word.get_oomp_word(md5_6, style="emoji")
         kwargs["oomp_word_emoji_list"] = oomp_word.get_oomp_word(md5_6, style="emoji_list")
+
+        ##### add_oomp_moji enf
 
         ### add useful name variants
         #      classification

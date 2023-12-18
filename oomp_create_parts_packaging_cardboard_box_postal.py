@@ -70,8 +70,8 @@ def load_parts(**kwargs):
     part_details["cost_per"] = "£0.54"
     part_details["cost_per_ebay"] = "£1.44"
     part_details["link_purchase"] = ["ebay.co.uk/itm/233048701153?var=532550738565","https://www.tinyboxcompany.co.uk/1-piece-a6-mailing-gift-box-kraft-natural-fmkra6"]
-    part_details["width_internal"] = ["178 mm"]
-    part_details["height_internal"] = ["131 mm"]
+    part_details["width_internal"] = ["175 mm"]
+    part_details["height_internal"] = ["142 mm"]
     part_details["depth_internal"] = ["55 mm"]
     
 

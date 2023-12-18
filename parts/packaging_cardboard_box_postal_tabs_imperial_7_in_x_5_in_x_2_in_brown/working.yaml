@@ -30,7 +30,7 @@ directory: parts/packaging_cardboard_box_postal_tabs_imperial_7_in_x_5_in_x_2_in
 distributors: []
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_cardboard_box_postal_tabs_imperial_7_in_x_5_in_x_2_in_brown/working
 height_internal:
-- 131 mm
+- 142 mm
 id: packaging_cardboard_box_postal_tabs_imperial_7_in_x_5_in_x_2_in_brown
 id_no_class: cardboard_box_postal_tabs_imperial_7_in_x_5_in_x_2_in_brown
 id_no_size: brown
@@ -93,4 +93,4 @@ type_first_letter: c
 type_first_letter_upper: C
 type_upper: CARDBOARD_BOX_POSTAL_TABS
 width_internal:
-- 178 mm
+- 175 mm
