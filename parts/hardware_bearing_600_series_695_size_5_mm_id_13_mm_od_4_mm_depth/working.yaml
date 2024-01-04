@@ -24,7 +24,7 @@ description_or_color: 65k1
 description_or_color_upper: 65K1
 directory: parts/hardware_bearing_600_series_695_size_5_mm_id_13_mm_od_4_mm_depth
 distributors: []
-filter: ''
+filter: hardware
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_695_size_5_mm_id_13_mm_od_4_mm_depth/working
 id: hardware_bearing_600_series_695_size_5_mm_id_13_mm_od_4_mm_depth

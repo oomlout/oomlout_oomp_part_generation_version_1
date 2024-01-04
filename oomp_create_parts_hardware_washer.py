@@ -8,7 +8,7 @@ def load_parts(**kwargs):
     part_details = {}
     part_details["classification"] = "hardware"
     part_details["type"] = ["washer"]    
-    part_details["size"] = ["1_mm", "1_5_mm", "2_mm","2_5_mm","2_7_mm","3_mm","4_mm","5_mm","6_mm","8_mm"]
+    part_details["size"] = ["m1", "m1_5", "m2","m2_5","m2_7","m3","m4","m5","m6","m8"]
     part_details["color"] = [""]
     part_details["description_main"] = ["", "penny"]    
     part_details["description_extra"] = ""

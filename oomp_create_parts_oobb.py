@@ -41,6 +41,13 @@ def load_parts(**kwargs):
         part = things[part_id]
         size = part["type"]
         description_main = part_id.replace(f"oobb_{size}_","")
+        #remove anything after "ex_" in the description
+        description_extra = ""
+        if "ex_" in description_main:
+            description_split = description_main.split("ex_")
+            description_main = description_split[0]
+            description_extra = description_split[1]
+
 
         part_details = {}
         part_details["classification"] = "oobb"
@@ -51,7 +58,7 @@ def load_parts(**kwargs):
         id = id.replace("oobb_","")
 
         part_details["description_main"] = description_main
-        part_details["description_extra"] = ""
+        part_details["description_extra"] = description_extra
         part_details["manufacturer"] = ""
         part_details["part_number"] = ""
         part_details["short_name"] = ""

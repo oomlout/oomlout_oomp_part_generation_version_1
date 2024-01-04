@@ -105,6 +105,7 @@ def load_parts(**kwargs):
     part_details["oomlout_mechanical_hole_cutout_size"] ="46 mm"
     part_details["oomlout_mechanical_hole_cutout_top_size"] ="49 mm"    
     part_details["oomlout_mechanical_hole_cutout_lip_size"] ="46 mm"
+    part_details["oomlout_mechanical_hole_cutout_12_mm_lift"] ="44 mm"
     parts.append(part_details)  
 
     #majestic 2 oz
@@ -128,6 +129,7 @@ def load_parts(**kwargs):
     part_details["oomlout_mechanical_hole_cutout_size"] ="59 mm"
     part_details["oomlout_mechanical_hole_cutout_top_size"] ="61 mm"    
     part_details["oomlout_mechanical_hole_cutout_lip_size"] ="59 mm"
+    part_details["oomlout_mechanical_hole_cutout_12_mm_lift"] ="55 mm"
     parts.append(part_details)  
 
     #4 oz
@@ -151,6 +153,7 @@ def load_parts(**kwargs):
     part_details["oomlout_mechanical_hole_cutout_size"] ="66 mm"
     part_details["oomlout_mechanical_hole_cutout_top_size"] ="69 mm"    
     part_details["oomlout_mechanical_hole_cutout_lip_size"] ="66 mm"
+    part_details["oomlout_mechanical_hole_cutout_12_mm_lift"] ="57 mm"
     parts.append(part_details)  
 
 

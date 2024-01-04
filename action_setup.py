@@ -35,8 +35,10 @@ if __name__ == "__main__":
     kwargs = {}
 
     filter = ""
+    #filter = "bearing"
     #filter = "oobb"
-    filter = "packaging"
+    filter = "hardware"
+    #filter = "self_tapping"
 
     kwargs["filter"] = filter
     main(**kwargs)

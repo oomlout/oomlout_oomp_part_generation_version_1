@@ -5,55 +5,242 @@ def load_parts(**kwargs):
     
     parts = []
 
-    extras_sizes = {}
-    extras_sizes["2_mm"] = [6,8,10,12]
-    extras_sizes["2_5_mm"] = [4,5,6,8,10,20]
-    extras_sizes["3_mm"] = [5,6,8,10,12,16,20,25,30,35,40,50]
-    extras_sizes["4_mm"] = [4,6,8,10,12,14,16,20,25,30,35,40,45,50,60,65,70,75]
-    extras_sizes["5_mm"] = [6,8,10,12,14,16,20,25,30,35,40,45,50,60,65,70,75,80,90,100,110,120]
-    extras_sizes["6_mm"] = [8,12,16,20,25,30,35,40,45,50,60,65,70,80,90,100]
-    # bolt
-    for size in extras_sizes:
-        part_details = {}
-        part_details["classification"] = "hardware"
-        part_details["type"] = ["screw_socket_cap"]
-        sizes = [size]
-        part_details["size"] = []
-        for size in sizes:
-            part_details["size"].append(f"{size}")
-        part_details["color"] = ["black"]
-        lengths = extras_sizes[size]
-        part_details["description_main"] = []
-        for length in lengths:
-            part_details["description_main"].append(f"{length}_mm")
-        part_details["description_extra"] = "hex_head"
-        part_details["manufacturer"] = ""
-        part_details["part_number"] = ""
-        part_details["kicad_reference"] = ""
-        parts.append(part_details)    
     
-    extras_sizes = {}
-    extras_sizes["3_mm"] = [6,8,10,12,16,20,25,30,35]
-    extras_sizes["4_mm"] = [6,8,10,12,16,20,25,30,35,40]    
-    # bolt
-    for size in extras_sizes:
-        part_details = {}
-        part_details["classification"] = "hardware"
-        part_details["type"] = ["screw_countersunk"]
-        sizes = [size]
-        part_details["size"] = []
-        for size in sizes:
-            part_details["size"].append(f"{size}")
-        part_details["color"] = ["black"]
-        lengths = extras_sizes[size]
-        part_details["description_main"] = []
-        for length in lengths:
-            part_details["description_main"].append(f"{length}_mm")
-        part_details["description_extra"] = "hex_head"
-        part_details["manufacturer"] = ""
-        part_details["part_number"] = ""
-        part_details["kicad_reference"] = ""
-        parts.append(part_details)    
+    #screw_countersunk pozi drive
+    if True:
+        extras_sizes = {}
+        extras_sizes["m3"] = [6,8,10,12,16,20,25]
+        extras_sizes["m3_5"] = [8,10,12,16]
+        extras_sizes["m4"] = [6,8,10,12,16,20,25,30,40,50,60]
+        extras_sizes["m5"] = [8,10,12,14,16,20,25,30,35,40,50,60,70,80,100]
+        extras_sizes["m6"] = [10,12,16,20,25,30,40,100,120]    
+        for size in extras_sizes:
+            part_details = {}
+            part_details["classification"] = "hardware"
+            part_details["type"] = ["screw_countersunk"]
+            sizes = [size]
+            part_details["size"] = []
+            for size in sizes:
+                part_details["size"].append(f"{size}")
+            part_details["color"] = [""]
+            lengths = extras_sizes[size]
+            part_details["description_main"] = []
+            for length in lengths:
+                part_details["description_main"].append(f"{length}_mm_length")
+            part_details["description_extra"] = "pozidrive_head"
+            part_details["manufacturer"] = ""
+            part_details["part_number"] = ""
+            part_details["kicad_reference"] = ""
+            parts.append(part_details)    
+    
+    # screw_countersunk black hex head
+    if True:
+        extras_sizes = {}
+        extras_sizes["m2"] = [3,5,6,8,10,12,14,16,20,22,25]
+        extras_sizes["m3"] = [6,8,10,12,16,20,25,30,35]
+        extras_sizes["m4"] = [6,8,10,12,16,20,25,30,35,40]    
+        
+        for size in extras_sizes:
+            part_details = {}
+            part_details["classification"] = "hardware"
+            part_details["type"] = ["screw_countersunk"]
+            sizes = [size]
+            part_details["size"] = []
+            for size in sizes:
+                part_details["size"].append(f"{size}")
+            part_details["color"] = ["black"]
+            lengths = extras_sizes[size]
+            part_details["description_main"] = []
+            for length in lengths:
+                part_details["description_main"].append(f"{length}_mm_length")
+            part_details["description_extra"] = "hex_head"
+            part_details["manufacturer"] = ""
+            part_details["part_number"] = ""
+            part_details["kicad_reference"] = ""
+            parts.append(part_details)    
+    
+    # screw_countersunk black phillips head
+    if True:
+        extras_sizes = {}
+        extras_sizes["m2"] = [3,4,5,6,7,8,10,12,14,16,18,20,22,25,30]
+        
+        for size in extras_sizes:
+            part_details = {}
+            part_details["classification"] = "hardware"
+            part_details["type"] = ["screw_countersunk"]
+            sizes = [size]
+            part_details["size"] = []
+            for size in sizes:
+                part_details["size"].append(f"{size}")
+            part_details["color"] = ["black"]
+            lengths = extras_sizes[size]
+            part_details["description_main"] = []
+            for length in lengths:
+                part_details["description_main"].append(f"{length}_mm_length")
+            part_details["description_extra"] = "phillips_head"
+            part_details["manufacturer"] = ""
+            part_details["part_number"] = ""
+            part_details["kicad_reference"] = ""
+            parts.append(part_details)    
+    
+    # screw_flat_head black phillips
+    if True:
+        extras_sizes = {}
+        extras_sizes["m2"] = [3,4,5,6,8,10,12,14,16,20,22,25]
+        extras_sizes["m2_5"] = [3,4,5,6,8,10,12,14,16,20,22,25]
+        
+        for size in extras_sizes:
+            part_details = {}
+            part_details["classification"] = "hardware"
+            part_details["type"] = ["screw_flat_head"]
+            sizes = [size]
+            part_details["size"] = []
+            for size in sizes:
+                part_details["size"].append(f"{size}")
+            part_details["color"] = ["black"]
+            lengths = extras_sizes[size]
+            part_details["description_main"] = []
+            for length in lengths:
+                part_details["description_main"].append(f"{length}_mm_length")
+            part_details["description_extra"] = "phillips_head"
+            part_details["manufacturer"] = ""
+            part_details["part_number"] = ""
+            part_details["kicad_reference"] = ""
+            parts.append(part_details)    
+    
+    #screw_machine_screw pozi drive
+    if True:
+        extras_sizes = {}
+        extras_sizes["m2"] = [4,6,8,10,12]
+        extras_sizes["m3"] = [4,5,6,8,10,12,16,20,25,30,35,40]
+        extras_sizes["m3_5"] = [5,8,10,12,16,20,25]
+        extras_sizes["m4"] = [5,6,8,10,12,16,20,25,30,35,40,45,50,60,70,80,90,100]
+        extras_sizes["m5"] = [6,8,10,12,14,16,20,25,30,35,40,50,60,80,100]
+        extras_sizes["m6"] = [8,10,12,16,20,25,30,35,40,100,120]    
+        for size in extras_sizes:
+            part_details = {}
+            part_details["classification"] = "hardware"
+            part_details["type"] = ["screw_machine_screw"]
+            sizes = [size]
+            part_details["size"] = []
+            for size in sizes:
+                part_details["size"].append(f"{size}")
+            part_details["color"] = [""]
+            lengths = extras_sizes[size]
+            part_details["description_main"] = []
+            for length in lengths:
+                part_details["description_main"].append(f"{length}_mm_length")
+            part_details["description_extra"] = "pozidrive_head"
+            part_details["manufacturer"] = ""
+            part_details["part_number"] = ""
+            part_details["kicad_reference"] = ""
+            parts.append(part_details)    
+    
+    #screw_machine_screw phillips nylon_white
+    if True:
+        extras_sizes = {}
+        extras_sizes["m3"] = [12,16,20,25]
+        for size in extras_sizes:
+            part_details = {}
+            part_details["classification"] = "hardware"
+            part_details["type"] = ["screw_machine_screw"]
+            sizes = [size]
+            part_details["size"] = []
+            for size in sizes:
+                part_details["size"].append(f"{size}")
+            part_details["color"] = ["nylon_white"]
+            lengths = extras_sizes[size]
+            part_details["description_main"] = []
+            for length in lengths:
+                part_details["description_main"].append(f"{length}_mm_length")
+            part_details["description_extra"] = "phillips_head"
+            part_details["manufacturer"] = ""
+            part_details["part_number"] = ""
+            part_details["kicad_reference"] = ""
+            parts.append(part_details)    
+
+    #screw_self_tapping_phillips
+    if True:
+        extras_sizes = {}
+        extras_sizes["m1"] = [3,5]
+        extras_sizes["m1_2"] = [3,5,8]
+        extras_sizes["m1_4"] = [3,5,8,10]
+        extras_sizes["m1_7"] = [5,8,10,12,16]
+        extras_sizes["m2"] = [5,8,12,16,20]
+        extras_sizes["m2_3"] = [5,6,8,10,12,16,20]
+        
+        for size in extras_sizes:
+            part_details = {}
+            part_details["classification"] = "hardware"
+            part_details["type"] = ["screw_self_tapping"]
+            sizes = [size]
+            part_details["size"] = []
+            for size in sizes:
+                part_details["size"].append(f"{size}")
+            part_details["color"] = ["black"]
+            lengths = extras_sizes[size]
+            part_details["description_main"] = []
+            for length in lengths:
+                part_details["description_main"].append(f"{length}_mm_length")
+            part_details["description_extra"] = "phillips_head"
+            part_details["manufacturer"] = ""
+            part_details["part_number"] = ""
+            part_details["kicad_reference"] = ""
+            parts.append(part_details)    
+    
+
+    #screw_socket_cap
+    if True:
+        extras_sizes = {}
+        extras_sizes["m2"] = [3,4,5,6,8,10,12,14,16,18,20,25]
+        extras_sizes["m2_5"] = [4,5,6,8,10,20]
+        extras_sizes["m3"] = [5,6,8,10,12,16,20,25,30,35,40,50]
+        extras_sizes["m4"] = [4,6,8,10,12,14,16,20,25,30,35,40,45,50,60,65,70,75]
+        extras_sizes["m5"] = [6,8,10,12,14,16,20,25,30,35,40,45,50,60,65,70,75,80,90,100,110,120]
+        extras_sizes["m6"] = [8,12,16,20,25,30,35,40,45,50,60,65,70,80,90,100]    
+        for size in extras_sizes:
+            part_details = {}
+            part_details["classification"] = "hardware"
+            part_details["type"] = ["screw_socket_cap"]
+            sizes = [size]
+            part_details["size"] = []
+            for size in sizes:
+                part_details["size"].append(f"{size}")
+            part_details["color"] = ["black"]
+            lengths = extras_sizes[size]
+            part_details["description_main"] = []
+            for length in lengths:
+                part_details["description_main"].append(f"{length}_mm_length")
+            part_details["description_extra"] = "hex_head"
+            part_details["manufacturer"] = ""
+            part_details["part_number"] = ""
+            part_details["kicad_reference"] = ""
+            parts.append(part_details)    
+    
+    #screw_thread_forming_phillips
+    if True:
+        extras_sizes = {}
+        extras_sizes["m2_3"] = [6]
+        extras_sizes["m2_5"] = [6]
+        extras_sizes["m2_6"] = [6]
+        for size in extras_sizes:
+            part_details = {}
+            part_details["classification"] = "hardware"
+            part_details["type"] = ["screw_thread_forming"]
+            sizes = [size]
+            part_details["size"] = []
+            for size in sizes:
+                part_details["size"].append(f"{size}")
+            part_details["color"] = ["black"]
+            lengths = extras_sizes[size]
+            part_details["description_main"] = []
+            for length in lengths:
+                part_details["description_main"].append(f"{length}_mm_length")
+            part_details["description_extra"] = "phillips_head"
+            part_details["manufacturer"] = ""
+            part_details["part_number"] = ""
+            part_details["kicad_reference"] = ""
+            parts.append(part_details)    
     
     
     oomp.add_parts(parts, **kwargs)

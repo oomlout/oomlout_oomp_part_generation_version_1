@@ -5,17 +5,48 @@ def load_parts(**kwargs):
     
     parts = []
 
-    part_details = {}
-    part_details["classification"] = "hardware"
-    part_details["type"] = ["nut"]    
-    part_details["size"] = ["1_mm", "1_5_mm", "2_mm","2_5_mm","2_7_mm","3_mm","4_mm","5_mm","6_mm","8_mm"]
-    part_details["color"] = [""]    
-    part_details["description_main"] = ["", "flanged", "locking"]    
-    part_details["description_extra"] = ""
-    part_details["manufacturer"] = ""
-    part_details["part_number"] = ""
-    part_details["kicad_reference"] = ""
-    parts.append(part_details)    
+    # standard
+    if True:
+        part_details = {}
+        part_details["classification"] = "hardware"
+        part_details["type"] = ["nut"]    
+        part_details["size"] = ["m1", "m1_5", "m2","m2_5","m2_7","m3","m4","m5","m6","m8"]
+        part_details["color"] = [""]    
+        part_details["description_main"] = ["", "flanged", "locking"]    
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["kicad_reference"] = ""
+        parts.append(part_details)    
+
+    # standard
+    if True:
+        part_details = {}
+        part_details["classification"] = "hardware"
+        part_details["type"] = ["nut"]    
+        part_details["size"] = ["m3"]
+        part_details["color"] = ["black"]    
+        part_details["description_main"] = [""]    
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["kicad_reference"] = ""
+        parts.append(part_details)    
+
+
+    # nylon_white
+    if True:
+        part_details = {}
+        part_details["classification"] = "hardware"
+        part_details["type"] = ["nut"]    
+        part_details["size"] = ["m3","m4","m5","m6","m8"]
+        part_details["color"] = ["nylon_white"]    
+        part_details["description_main"] = [""]    
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["kicad_reference"] = ""
+        parts.append(part_details)    
 
 
     

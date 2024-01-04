@@ -8,7 +8,7 @@ def load_parts(**kwargs):
     bearings = []
     with open(file_csv, newline='') as csvfile:
         reader = csv.DictReader(csvfile)
-        for row in reader:
+        for row in reader: 
             bearings.append(row)
     parts = []
 
@@ -18,9 +18,9 @@ def load_parts(**kwargs):
         part_details["type"] = f"bearing"
         part_details["size"] = f"{bearing['series']}_series"
         part_details["color"] = f"{bearing['size']}_size"
-        id = bearing['id']
-        od = bearing['od']
-        depth = bearing['width']    
+        id = bearing['id'].replace(".","_")
+        od = bearing['od'].replace(".","_")
+        depth = bearing['width'].replace(".","_")    
         part_details["description_main"] = f"{id}_mm_id_{od}_mm_od_{depth}_mm_depth"
         part_details["description_extra"] = ""
         part_details["manufacturer"] = ""

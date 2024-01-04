@@ -24,7 +24,7 @@ description_or_color: 6255k
 description_or_color_upper: 6255K
 directory: parts/hardware_bearing_6000_series_6005_size_25_mm_id_47_mm_od_12_mm_depth
 distributors: []
-filter: ''
+filter: hardware
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6005_size_25_mm_id_47_mm_od_12_mm_depth/working
 id: hardware_bearing_6000_series_6005_size_25_mm_id_47_mm_od_12_mm_depth
