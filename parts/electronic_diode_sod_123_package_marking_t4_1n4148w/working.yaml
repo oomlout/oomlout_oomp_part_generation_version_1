@@ -32,7 +32,7 @@ distributors:
     link: https://lcsc.com/product-detail/C444720.html
     name: LCSC
     part_number: C444720
-filter: ''
+filter: electronic
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_diode_smd_d_sod_123//working/working.kicad_mod
     index: 0

@@ -24,7 +24,7 @@ description_or_color: 'G '
 description_or_color_upper: 'G '
 directory: parts/electronic_led_0402_green
 distributors: []
-filter: ''
+filter: electronic
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0402_1005metric//working/working.kicad_mod
     index: 0

@@ -6,6 +6,7 @@ part_types = []
 
 part_types.append("computer")
 
+part_types.append("hardware_aluminium_extrusion")    
 part_types.append("hardware_bearing")
 part_types.append("hardware_bolt") # also set screw
 part_types.append("hardware_nut")
@@ -14,11 +15,14 @@ part_types.append("hardware_spacer")
 part_types.append("hardware_standoff")
 part_types.append("hardware_washer")
 
+part_types.append("electrical")
+
 part_types.append("electronic_battery_box")
 part_types.append("electronic_breakout_board")
 part_types.append("electronic_button")
 part_types.append("electronic_capacitor")
 part_types.append("electronic_connector")
+part_types.append("electronic_crimp")
 part_types.append("electronic_crimp_housing")
 part_types.append("electronic_crystal")
 part_types.append("electronic_diode")
@@ -34,13 +38,19 @@ part_types.append("electronic_prototyping")
 part_types.append("electronic_resistor")
 part_types.append("electronic_socket")
 
+part_types.append("mechanical_motor")
+
 part_types.append("oobb")
 
-part_types.append("electrical")
+
 
 part_types.append("packaging_takeaway_container")
 part_types.append("packaging_cardboard_box_postal")
 part_types.append("packaging_label")
+
+part_types.append("storage")
+
+part_types.append("tool")
 
 
 

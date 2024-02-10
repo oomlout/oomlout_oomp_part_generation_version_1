@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/electronic_nettie_3_nets_smd
 distributors: []
-filter: ''
+filter: electronic
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_3_smd_pad0_5mm//working/working.kicad_mod
     index: 0

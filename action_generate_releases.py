@@ -20,7 +20,8 @@ def main(**kwargs):
 
     git = True
 
-    releases = {"hardware", "electronic", "packaging", "oobb"}
+    releases = {"computer","electrical","electronic", "hardware", "mechanical", "oobb", "packaging", "storage", "tool"}
+    releases = {"electronic"}
     directory_source = "parts"
     for typ_id in types:
         typ = types[typ_id]
@@ -46,19 +47,19 @@ def main(**kwargs):
                                 make_yaml_base(file_full_source, file_full_output)
                             shutil.copy(file_full_source, file_full_output)
                             print(f"copying {file_full_source} to {file_full_output}")
-        typ_extra = ""
-        if typ_id != "":
-            typ_extra = f"{typ_id}"
-        directory = f"outputs/oomp_base_{release}{typ_extra}"
-        if git:
-            try:
-                oom_git.push_to_git(directory=directory, comment=f"adding {release} {typ_id}")
-            except Exception as e:
-                print(e)
-                print(f"could not push {directory}")
-            except OSError as e:
-                print(e)
-                print(f"could not push {directory}")
+            typ_extra = ""
+            if typ_id != "":
+                typ_extra = f"{typ_id}"
+            directory = f"outputs/oomp_base_{release}{typ_extra}"
+            if git:
+                try:
+                    oom_git.push_to_git(directory=directory, comment=f"adding {release} {typ_id}")
+                except Exception as e:
+                    print(e)
+                    print(f"could not push {directory}")
+                except OSError as e:
+                    print(e)
+                    print(f"could not push {directory}")
 
 
 def make_yaml_base(file_full_source, file_full_output):

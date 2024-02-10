@@ -9,7 +9,7 @@
     "part_number": "1n4148w",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "electronic",
     "kicad_reference": "D",
     "classification_upper": "ELECTRONIC",
     "classification_capital": "Electronic",

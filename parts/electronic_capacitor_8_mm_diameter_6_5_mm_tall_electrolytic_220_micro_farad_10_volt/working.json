@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "electronic",
     "kicad_reference": "C",
     "classification_upper": "ELECTRONIC",
     "classification_capital": "Electronic",

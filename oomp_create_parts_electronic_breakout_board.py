@@ -18,9 +18,9 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["description"] = "A popular arduino compatible atmega328 board from aliexpress" 
         part_details["classification"] = "electronic"
-        part_details["type"] = "breakout_board"
+        part_details["type"] = "breakout_board_mcu"
         part_details["size"] = ["shennie"]
-        part_details["color"] = ["mcu"]
+        part_details["color"] = [""]
         part_details["description_main"] = "atmega328p"
         part_details["description_extra"] = "arduino_compatible"
         part_details["manufacturer"] = ""
@@ -67,9 +67,9 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["description"] = "A mini usb port free arduino compatible breakout" 
         part_details["classification"] = "electronic"
-        part_details["type"] = "breakout_board"
+        part_details["type"] = "breakout_board_mcu"
         part_details["size"] = ["pro_mini"]
-        part_details["color"] = ["mcu"]
+        part_details["color"] = [""]
         part_details["description_main"] = "atmega328p"
         part_details["description_extra"] = "arduino_compatible"
         part_details["manufacturer"] = ""
@@ -123,9 +123,9 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["description"] = "Devkitc pinout version of espresif esp32 breakout." 
         part_details["classification"] = "electronic"
-        part_details["type"] = "breakout_board"
+        part_details["type"] = "breakout_board_mcu"
         part_details["size"] = ["devkitc"]
-        part_details["color"] = ["mcu"]
+        part_details["color"] = [""]
         part_details["description_main"] = "espressif_esp32"
         part_details["description_extra"] = ""
         part_details["manufacturer"] = ""
@@ -181,9 +181,9 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["description"] = "The official Raspberry Pi breakout for the 2040" 
         part_details["classification"] = "electronic"
-        part_details["type"] = "breakout_board"
+        part_details["type"] = "breakout_board_mcu"
         part_details["size"] = ["pico"]
-        part_details["color"] = ["mcu"]
+        part_details["color"] = [""]
         part_details["description_main"] = "raspberry_pi_2040"
         part_details["description_extra"] = ""
         part_details["manufacturer"] = ""
@@ -242,9 +242,9 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["description"] = "A common breakout format for a stepper motor driver" 
         part_details["classification"] = "electronic"
-        part_details["type"] = "breakout_board"
+        part_details["type"] = "breakout_board_motor_driver"
         part_details["size"] = ["step_stick"]
-        part_details["color"] = ["motor_driver"]
+        part_details["color"] = [""]
         part_details["description_main"] = "stepper_motor"
         part_details["description_extra"] = ""
         part_details["manufacturer"] = ""
@@ -272,6 +272,22 @@ def load_parts(**kwargs):
         part_details["notes"] = []
         parts.append(part_details)
 
-    
+    # makerbase mks_servo42c
+    if True:
+        part_details = {}
+        part_details["description"] = "A closed loop stepper motor controller" 
+        part_details["classification"] = "electronic"
+        part_details["type"] = "breakout_board_motor_driver"
+        part_details["size"] = ["nema_17_39_mm_width_39_mm_height"]
+        part_details["color"] = [""]
+        part_details["description_main"] = "stepper_motor"
+        part_details["description_extra"] = "closed_loop"
+        part_details["manufacturer"] = "makerbase"
+        part_details["part_number"] = "mks_servo42c"
+        part_details["short_name"] = ""
+        part_details["notes"] = []
+        parts.append(part_details)
+
+
     oomp.add_parts(parts, make_files=make_files)
     

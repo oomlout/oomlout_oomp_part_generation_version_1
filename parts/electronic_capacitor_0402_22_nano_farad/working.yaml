@@ -24,7 +24,7 @@ description_or_color: 22nf
 description_or_color_upper: 22NF
 directory: parts/electronic_capacitor_0402_22_nano_farad
 distributors: []
-filter: ''
+filter: electronic
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0402_1005metric//working/working.kicad_mod
     index: 0

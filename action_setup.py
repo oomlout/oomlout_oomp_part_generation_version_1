@@ -34,10 +34,18 @@ def main(**kwargs):
 if __name__ == "__main__":
     kwargs = {}
 
-    filter = ""
+    #filter = ""
     #filter = "bearing"
-    #filter = "oobb"
+    #filter = "computer"
     filter = "hardware"
+    #filter = "mechanical"    
+    #filter = "oobb"
+    #filter = "storage"
+    #filter =  "breakout_board"
+    #filter = "electronic"
+    #filter = "tool"
+
+    #filter = "aluminium_extrusion"
     #filter = "self_tapping"
 
     kwargs["filter"] = filter

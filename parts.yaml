@@ -1,3 +1,181 @@
+hardware_aluminium_extrusion_2020_grey:
+    classification: hardware
+    classification_capital: Hardware
+    classification_first_letter: h
+    classification_first_letter_upper: H
+    classification_upper: HARDWARE
+    color: grey
+    color_capital: Grey
+    color_first_letter: g
+    color_first_letter_upper: G
+    color_upper: GREY
+    description_extra: ''
+    description_extra_capital: ''
+    description_extra_first_letter: ''
+    description_extra_first_letter_upper: ''
+    description_extra_upper: ''
+    description_main: ''
+    description_main_capital: ''
+    description_main_first_letter: ''
+    description_main_first_letter_upper: ''
+    description_main_upper: ''
+    description_only_numbers: ''
+    description_only_numbers_short: ' '
+    description_or_color: 'G '
+    description_or_color_upper: 'G '
+    directory: parts/hardware_aluminium_extrusion_2020_grey
+    distributors: []
+    filter: hardware
+    from_yaml: false
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_aluminium_extrusion_2020_grey/working
+    id: hardware_aluminium_extrusion_2020_grey
+    id_no_class: aluminium_extrusion_2020_grey
+    id_no_size: grey
+    id_no_type: 2020_grey
+    kicad_reference: ''
+    make_files: true
+    manufacturer: ''
+    manufacturer_capital: ''
+    manufacturer_first_letter: ''
+    manufacturer_first_letter_upper: ''
+    manufacturer_upper: ''
+    manufacturers: []
+    markdown_full: '[hardware_aluminium_extrusion_2020_grey](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_aluminium_extrusion_2020_grey/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_aluminium_extrusion_2020_grey/working)<br>[Hardware
+        Aluminium Extrusion 2020 Grey](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_aluminium_extrusion_2020_grey/working)<br><br>'
+    markdown_short: '[hardware_aluminium_extrusion_2020_grey](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_aluminium_extrusion_2020_grey/working)<br><br>'
+    md5: 37ea12f1a598bed66a2dab7cb4dd9eaa
+    md5_10: 37ea12f1a5
+    md5_10_upper: 37EA12F1A5
+    md5_5: 37ea1
+    md5_5_upper: 37EA1
+    md5_6: 37ea12
+    md5_6_alpha: 26jgy
+    md5_6_alpha_upper: 26JGY
+    md5_6_upper: 37EA12
+    name: Hardware Aluminium Extrusion 2020 Grey
+    name_no_class: Aluminium Extrusion 2020 Grey
+    name_no_size: Grey
+    name_no_size_short: Grey
+    name_no_type: 2020 Grey
+    oomp_key: oomp_hardware_aluminium_extrusion_2020_grey
+    oomp_word: wolf tractor anger
+    oomp_word_emoji: ':wolf: :tractor: :anger:'
+    oomp_word_emoji_list:
+    - ':wolf:'
+    - ':tractor:'
+    - ':anger:'
+    oomp_word_list:
+    - wolf
+    - tractor
+    - anger
+    part_number: ''
+    part_number_capital: ''
+    part_number_first_letter: ''
+    part_number_first_letter_upper: ''
+    part_number_upper: ''
+    short_code: ''
+    short_code_upper: ''
+    size: '2020'
+    size_capital: '2020'
+    size_first_letter: '2'
+    size_first_letter_upper: '2'
+    size_only_numbers: '2020'
+    size_only_numbers_no_zeros: '22'
+    size_upper: '2020'
+    type: aluminium_extrusion
+    type_capital: Aluminium Extrusion
+    type_first_letter: a
+    type_first_letter_upper: A
+    type_upper: ALUMINIUM_EXTRUSION
+hardware_aluminium_extrusion_2020_grey_890_mm_length:
+    classification: hardware
+    classification_capital: Hardware
+    classification_first_letter: h
+    classification_first_letter_upper: H
+    classification_upper: HARDWARE
+    color: grey
+    color_capital: Grey
+    color_first_letter: g
+    color_first_letter_upper: G
+    color_upper: GREY
+    description_extra: ''
+    description_extra_capital: ''
+    description_extra_first_letter: ''
+    description_extra_first_letter_upper: ''
+    description_extra_upper: ''
+    description_main: 890_mm_length
+    description_main_capital: 890 mm Length
+    description_main_first_letter: '8'
+    description_main_first_letter_upper: '8'
+    description_main_upper: 890_MM_LENGTH
+    description_only_numbers: '890'
+    description_only_numbers_short: '890'
+    description_or_color: G890
+    description_or_color_upper: G890
+    directory: parts/hardware_aluminium_extrusion_2020_grey_890_mm_length
+    distributors: []
+    filter: hardware
+    from_yaml: false
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_aluminium_extrusion_2020_grey_890_mm_length/working
+    id: hardware_aluminium_extrusion_2020_grey_890_mm_length
+    id_no_class: aluminium_extrusion_2020_grey_890_mm_length
+    id_no_size: grey_890_mm_length
+    id_no_type: 2020_grey_890_mm_length
+    kicad_reference: ''
+    make_files: true
+    manufacturer: ''
+    manufacturer_capital: ''
+    manufacturer_first_letter: ''
+    manufacturer_first_letter_upper: ''
+    manufacturer_upper: ''
+    manufacturers: []
+    markdown_full: '[hardware_aluminium_extrusion_2020_grey_890_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_aluminium_extrusion_2020_grey_890_mm_length/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_aluminium_extrusion_2020_grey_890_mm_length/working)<br>[Hardware
+        Aluminium Extrusion 2020 Grey 890 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_aluminium_extrusion_2020_grey_890_mm_length/working)<br><br>'
+    markdown_short: '[hardware_aluminium_extrusion_2020_grey_890_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_aluminium_extrusion_2020_grey_890_mm_length/working)<br><br>'
+    md5: ee0f884ea1680e39bfce03ba42f73550
+    md5_10: ee0f884ea1
+    md5_10_upper: EE0F884EA1
+    md5_5: ee0f8
+    md5_5_upper: EE0F8
+    md5_6: ee0f88
+    md5_6_alpha: 9ae88
+    md5_6_alpha_upper: 9AE88
+    md5_6_upper: EE0F88
+    name: Hardware Aluminium Extrusion 2020 Grey 890 Mm Length
+    name_no_class: Aluminium Extrusion 2020 Grey 890 Mm Length
+    name_no_size: Grey 890 Mm Length
+    name_no_size_short: Grey 890 Mm Length
+    name_no_type: 2020 Grey 890 Mm Length
+    oomp_key: oomp_hardware_aluminium_extrusion_2020_grey_890_mm_length
+    oomp_word: ambulance sparkles wrench
+    oomp_word_emoji: ':ambulance: :sparkles: :wrench:'
+    oomp_word_emoji_list:
+    - ':ambulance:'
+    - ':sparkles:'
+    - ':wrench:'
+    oomp_word_list:
+    - ambulance
+    - sparkles
+    - wrench
+    part_number: ''
+    part_number_capital: ''
+    part_number_first_letter: ''
+    part_number_first_letter_upper: ''
+    part_number_upper: ''
+    short_code: ''
+    short_code_upper: ''
+    size: '2020'
+    size_capital: '2020'
+    size_first_letter: '2'
+    size_first_letter_upper: '2'
+    size_only_numbers: '2020'
+    size_only_numbers_no_zeros: '22'
+    size_upper: '2020'
+    type: aluminium_extrusion
+    type_capital: Aluminium Extrusion
+    type_first_letter: a
+    type_first_letter_upper: A
+    type_upper: ALUMINIUM_EXTRUSION
 hardware_bearing_16000_series_16001_size_12_mm_id_28_mm_od_7_mm_depth:
     classification: hardware
     classification_capital: Hardware
@@ -38121,6 +38299,95 @@ hardware_screw_countersunk_m3_25_mm_length_pozidrive_head:
     type_first_letter: s
     type_first_letter_upper: S
     type_upper: SCREW_COUNTERSUNK
+hardware_screw_countersunk_m3_4_mm_length_pozidrive_head:
+    classification: hardware
+    classification_capital: Hardware
+    classification_first_letter: h
+    classification_first_letter_upper: H
+    classification_upper: HARDWARE
+    color: ''
+    color_capital: ''
+    color_first_letter: ''
+    color_first_letter_upper: ''
+    color_upper: ''
+    description_extra: pozidrive_head
+    description_extra_capital: Pozidrive Head
+    description_extra_first_letter: p
+    description_extra_first_letter_upper: P
+    description_extra_upper: POZIDRIVE_HEAD
+    description_main: 4_mm_length
+    description_main_capital: 4 mm Length
+    description_main_first_letter: '4'
+    description_main_first_letter_upper: '4'
+    description_main_upper: 4_MM_LENGTH
+    description_only_numbers: '4'
+    description_only_numbers_short: '4'
+    description_or_color: '4'
+    description_or_color_upper: '4'
+    directory: parts/hardware_screw_countersunk_m3_4_mm_length_pozidrive_head
+    distributors: []
+    filter: hardware
+    from_yaml: false
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_4_mm_length_pozidrive_head/working
+    id: hardware_screw_countersunk_m3_4_mm_length_pozidrive_head
+    id_no_class: screw_countersunk_m3_4_mm_length_pozidrive_head
+    id_no_size: 4_mm_length_pozidrive_head
+    id_no_type: m3_4_mm_length_pozidrive_head
+    kicad_reference: ''
+    make_files: true
+    manufacturer: ''
+    manufacturer_capital: ''
+    manufacturer_first_letter: ''
+    manufacturer_first_letter_upper: ''
+    manufacturer_upper: ''
+    manufacturers: []
+    markdown_full: '[hardware_screw_countersunk_m3_4_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_4_mm_length_pozidrive_head/working)<br>[scsm3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_4_mm_length_pozidrive_head/working)<br>[Hardware
+        Screw Countersunk M3 4 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_4_mm_length_pozidrive_head/working)<br><br>'
+    markdown_short: '[hardware_screw_countersunk_m3_4_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_4_mm_length_pozidrive_head/working)<br><br>'
+    md5: e6b15f6597a4c260bce8fdfa44e97fb2
+    md5_10: e6b15f6597
+    md5_10_upper: E6B15F6597
+    md5_5: e6b15
+    md5_5_upper: E6B15
+    md5_6: e6b15f
+    md5_6_alpha: 901nj
+    md5_6_alpha_upper: 901NJ
+    md5_6_upper: E6B15F
+    name: Hardware Screw Countersunk M3 4 Mm Length Pozidrive Head
+    name_no_class: Screw Countersunk M3 4 Mm Length Pozidrive Head
+    name_no_size: 4 Mm Length Pozidrive Head
+    name_no_size_short: 4 Mm Length Pozidrive Head
+    name_no_type: M3 4 Mm Length Pozidrive Head
+    oomp_key: oomp_hardware_screw_countersunk_m3_4_mm_length_pozidrive_head
+    oomp_word: airplane briefcase leopard
+    oomp_word_emoji: ':airplane: :briefcase: :leopard:'
+    oomp_word_emoji_list:
+    - ':airplane:'
+    - ':briefcase:'
+    - ':leopard:'
+    oomp_word_list:
+    - airplane
+    - briefcase
+    - leopard
+    part_number: ''
+    part_number_capital: ''
+    part_number_first_letter: ''
+    part_number_first_letter_upper: ''
+    part_number_upper: ''
+    short_code: scsm3
+    short_code_upper: SCSM3
+    size: m3
+    size_capital: M3
+    size_first_letter: m
+    size_first_letter_upper: M
+    size_only_numbers: '3'
+    size_only_numbers_no_zeros: '3'
+    size_upper: M3
+    type: screw_countersunk
+    type_capital: Screw Countersunk
+    type_first_letter: s
+    type_first_letter_upper: S
+    type_upper: SCREW_COUNTERSUNK
 hardware_screw_countersunk_m3_5_10_mm_length_pozidrive_head:
     classification: hardware
     classification_capital: Hardware
@@ -38472,6 +38739,95 @@ hardware_screw_countersunk_m3_5_8_mm_length_pozidrive_head:
     size_only_numbers: '35'
     size_only_numbers_no_zeros: '35'
     size_upper: M3_5
+    type: screw_countersunk
+    type_capital: Screw Countersunk
+    type_first_letter: s
+    type_first_letter_upper: S
+    type_upper: SCREW_COUNTERSUNK
+hardware_screw_countersunk_m3_5_mm_length_pozidrive_head:
+    classification: hardware
+    classification_capital: Hardware
+    classification_first_letter: h
+    classification_first_letter_upper: H
+    classification_upper: HARDWARE
+    color: ''
+    color_capital: ''
+    color_first_letter: ''
+    color_first_letter_upper: ''
+    color_upper: ''
+    description_extra: pozidrive_head
+    description_extra_capital: Pozidrive Head
+    description_extra_first_letter: p
+    description_extra_first_letter_upper: P
+    description_extra_upper: POZIDRIVE_HEAD
+    description_main: 5_mm_length
+    description_main_capital: 5 mm Length
+    description_main_first_letter: '5'
+    description_main_first_letter_upper: '5'
+    description_main_upper: 5_MM_LENGTH
+    description_only_numbers: '5'
+    description_only_numbers_short: '5'
+    description_or_color: '5'
+    description_or_color_upper: '5'
+    directory: parts/hardware_screw_countersunk_m3_5_mm_length_pozidrive_head
+    distributors: []
+    filter: hardware
+    from_yaml: false
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_5_mm_length_pozidrive_head/working
+    id: hardware_screw_countersunk_m3_5_mm_length_pozidrive_head
+    id_no_class: screw_countersunk_m3_5_mm_length_pozidrive_head
+    id_no_size: 5_mm_length_pozidrive_head
+    id_no_type: m3_5_mm_length_pozidrive_head
+    kicad_reference: ''
+    make_files: true
+    manufacturer: ''
+    manufacturer_capital: ''
+    manufacturer_first_letter: ''
+    manufacturer_first_letter_upper: ''
+    manufacturer_upper: ''
+    manufacturers: []
+    markdown_full: '[hardware_screw_countersunk_m3_5_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_5_mm_length_pozidrive_head/working)<br>[scsm3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_5_mm_length_pozidrive_head/working)<br>[Hardware
+        Screw Countersunk M3 5 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_5_mm_length_pozidrive_head/working)<br><br>'
+    markdown_short: '[hardware_screw_countersunk_m3_5_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_5_mm_length_pozidrive_head/working)<br><br>'
+    md5: 590a90ee5bafac906a744d27b15d2a31
+    md5_10: 590a90ee5b
+    md5_10_upper: 590A90EE5B
+    md5_5: 590a9
+    md5_5_upper: 590A9
+    md5_6: 590a90
+    md5_6_alpha: 3h2mo
+    md5_6_alpha_upper: 3H2MO
+    md5_6_upper: 590A90
+    name: Hardware Screw Countersunk M3 5 Mm Length Pozidrive Head
+    name_no_class: Screw Countersunk M3 5 Mm Length Pozidrive Head
+    name_no_size: 5 Mm Length Pozidrive Head
+    name_no_size_short: 5 Mm Length Pozidrive Head
+    name_no_type: M3 5 Mm Length Pozidrive Head
+    oomp_key: oomp_hardware_screw_countersunk_m3_5_mm_length_pozidrive_head
+    oomp_word: dragon sleepy scissors
+    oomp_word_emoji: ':dragon: :sleepy: :scissors:'
+    oomp_word_emoji_list:
+    - ':dragon:'
+    - ':sleepy:'
+    - ':scissors:'
+    oomp_word_list:
+    - dragon
+    - sleepy
+    - scissors
+    part_number: ''
+    part_number_capital: ''
+    part_number_first_letter: ''
+    part_number_first_letter_upper: ''
+    part_number_upper: ''
+    short_code: scsm3
+    short_code_upper: SCSM3
+    size: m3
+    size_capital: M3
+    size_first_letter: m
+    size_first_letter_upper: M
+    size_only_numbers: '3'
+    size_only_numbers_no_zeros: '3'
+    size_upper: M3
     type: screw_countersunk
     type_capital: Screw Countersunk
     type_first_letter: s
@@ -56188,6 +56544,95 @@ hardware_screw_socket_cap_m3_black_16_mm_length_hex_head:
     type_first_letter: s
     type_first_letter_upper: S
     type_upper: SCREW_SOCKET_CAP
+hardware_screw_socket_cap_m3_black_18_mm_length_hex_head:
+    classification: hardware
+    classification_capital: Hardware
+    classification_first_letter: h
+    classification_first_letter_upper: H
+    classification_upper: HARDWARE
+    color: black
+    color_capital: Black
+    color_first_letter: b
+    color_first_letter_upper: B
+    color_upper: BLACK
+    description_extra: hex_head
+    description_extra_capital: Hex Head
+    description_extra_first_letter: h
+    description_extra_first_letter_upper: H
+    description_extra_upper: HEX_HEAD
+    description_main: 18_mm_length
+    description_main_capital: 18 mm Length
+    description_main_first_letter: '1'
+    description_main_first_letter_upper: '1'
+    description_main_upper: 18_MM_LENGTH
+    description_only_numbers: '18'
+    description_only_numbers_short: '18'
+    description_or_color: B18
+    description_or_color_upper: B18
+    directory: parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head
+    distributors: []
+    filter: hardware
+    from_yaml: false
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working
+    id: hardware_screw_socket_cap_m3_black_18_mm_length_hex_head
+    id_no_class: screw_socket_cap_m3_black_18_mm_length_hex_head
+    id_no_size: black_18_mm_length_hex_head
+    id_no_type: m3_black_18_mm_length_hex_head
+    kicad_reference: ''
+    make_files: true
+    manufacturer: ''
+    manufacturer_capital: ''
+    manufacturer_first_letter: ''
+    manufacturer_first_letter_upper: ''
+    manufacturer_upper: ''
+    manufacturers: []
+    markdown_full: '[hardware_screw_socket_cap_m3_black_18_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br>[sscm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br>[Hardware
+        Screw Socket Cap M3 Black 18 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br><br>'
+    markdown_short: '[hardware_screw_socket_cap_m3_black_18_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br><br>'
+    md5: 25bfb3618f32ec63b75f8dae8bfb63b9
+    md5_10: 25bfb3618f
+    md5_10_upper: 25BFB3618F
+    md5_5: 25bfb
+    md5_5_upper: 25BFB
+    md5_6: 25bfb3
+    md5_6_alpha: 1h0vn
+    md5_6_alpha_upper: 1H0VN
+    md5_6_upper: 25BFB3
+    name: Hardware Screw Socket Cap M3 Black 18 Mm Length Hex Head
+    name_no_class: Screw Socket Cap M3 Black 18 Mm Length Hex Head
+    name_no_size: Black 18 Mm Length Hex Head
+    name_no_size_short: Black 18 Mm Length Hex Head
+    name_no_type: M3 Black 18 Mm Length Hex Head
+    oomp_key: oomp_hardware_screw_socket_cap_m3_black_18_mm_length_hex_head
+    oomp_word: ear egg eyeglasses
+    oomp_word_emoji: ':ear: :egg: :eyeglasses:'
+    oomp_word_emoji_list:
+    - ':ear:'
+    - ':egg:'
+    - ':eyeglasses:'
+    oomp_word_list:
+    - ear
+    - egg
+    - eyeglasses
+    part_number: ''
+    part_number_capital: ''
+    part_number_first_letter: ''
+    part_number_first_letter_upper: ''
+    part_number_upper: ''
+    short_code: sscm3b
+    short_code_upper: SSCM3B
+    size: m3
+    size_capital: M3
+    size_first_letter: m
+    size_first_letter_upper: M
+    size_only_numbers: '3'
+    size_only_numbers_no_zeros: '3'
+    size_upper: M3
+    type: screw_socket_cap
+    type_capital: Screw Socket Cap
+    type_first_letter: s
+    type_first_letter_upper: S
+    type_upper: SCREW_SOCKET_CAP
 hardware_screw_socket_cap_m3_black_20_mm_length_hex_head:
     classification: hardware
     classification_capital: Hardware
@@ -56633,6 +57078,95 @@ hardware_screw_socket_cap_m3_black_40_mm_length_hex_head:
     type_first_letter: s
     type_first_letter_upper: S
     type_upper: SCREW_SOCKET_CAP
+hardware_screw_socket_cap_m3_black_45_mm_length_hex_head:
+    classification: hardware
+    classification_capital: Hardware
+    classification_first_letter: h
+    classification_first_letter_upper: H
+    classification_upper: HARDWARE
+    color: black
+    color_capital: Black
+    color_first_letter: b
+    color_first_letter_upper: B
+    color_upper: BLACK
+    description_extra: hex_head
+    description_extra_capital: Hex Head
+    description_extra_first_letter: h
+    description_extra_first_letter_upper: H
+    description_extra_upper: HEX_HEAD
+    description_main: 45_mm_length
+    description_main_capital: 45 mm Length
+    description_main_first_letter: '4'
+    description_main_first_letter_upper: '4'
+    description_main_upper: 45_MM_LENGTH
+    description_only_numbers: '45'
+    description_only_numbers_short: '45'
+    description_or_color: B45
+    description_or_color_upper: B45
+    directory: parts/hardware_screw_socket_cap_m3_black_45_mm_length_hex_head
+    distributors: []
+    filter: hardware
+    from_yaml: false
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_45_mm_length_hex_head/working
+    id: hardware_screw_socket_cap_m3_black_45_mm_length_hex_head
+    id_no_class: screw_socket_cap_m3_black_45_mm_length_hex_head
+    id_no_size: black_45_mm_length_hex_head
+    id_no_type: m3_black_45_mm_length_hex_head
+    kicad_reference: ''
+    make_files: true
+    manufacturer: ''
+    manufacturer_capital: ''
+    manufacturer_first_letter: ''
+    manufacturer_first_letter_upper: ''
+    manufacturer_upper: ''
+    manufacturers: []
+    markdown_full: '[hardware_screw_socket_cap_m3_black_45_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_45_mm_length_hex_head/working)<br>[sscm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_45_mm_length_hex_head/working)<br>[Hardware
+        Screw Socket Cap M3 Black 45 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_45_mm_length_hex_head/working)<br><br>'
+    markdown_short: '[hardware_screw_socket_cap_m3_black_45_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_45_mm_length_hex_head/working)<br><br>'
+    md5: 7a050d03578b1286b6c99156f353b8c3
+    md5_10: 7a050d0357
+    md5_10_upper: 7A050D0357
+    md5_5: 7a050
+    md5_5_upper: 7A050
+    md5_6: 7a050d
+    md5_6_alpha: 4rea5
+    md5_6_alpha_upper: 4REA5
+    md5_6_upper: 7A050D
+    name: Hardware Screw Socket Cap M3 Black 45 Mm Length Hex Head
+    name_no_class: Screw Socket Cap M3 Black 45 Mm Length Hex Head
+    name_no_size: Black 45 Mm Length Hex Head
+    name_no_size_short: Black 45 Mm Length Hex Head
+    name_no_type: M3 Black 45 Mm Length Hex Head
+    oomp_key: oomp_hardware_screw_socket_cap_m3_black_45_mm_length_hex_head
+    oomp_word: camera kissing heart
+    oomp_word_emoji: ':camera: :kissing: :heart:'
+    oomp_word_emoji_list:
+    - ':camera:'
+    - ':kissing:'
+    - ':heart:'
+    oomp_word_list:
+    - camera
+    - kissing
+    - heart
+    part_number: ''
+    part_number_capital: ''
+    part_number_first_letter: ''
+    part_number_first_letter_upper: ''
+    part_number_upper: ''
+    short_code: sscm3b
+    short_code_upper: SSCM3B
+    size: m3
+    size_capital: M3
+    size_first_letter: m
+    size_first_letter_upper: M
+    size_only_numbers: '3'
+    size_only_numbers_no_zeros: '3'
+    size_upper: M3
+    type: screw_socket_cap
+    type_capital: Screw Socket Cap
+    type_first_letter: s
+    type_first_letter_upper: S
+    type_upper: SCREW_SOCKET_CAP
 hardware_screw_socket_cap_m3_black_50_mm_length_hex_head:
     classification: hardware
     classification_capital: Hardware
@@ -56792,6 +57326,95 @@ hardware_screw_socket_cap_m3_black_5_mm_length_hex_head:
     - pineapple
     - sandal
     - monkey
+    part_number: ''
+    part_number_capital: ''
+    part_number_first_letter: ''
+    part_number_first_letter_upper: ''
+    part_number_upper: ''
+    short_code: sscm3b
+    short_code_upper: SSCM3B
+    size: m3
+    size_capital: M3
+    size_first_letter: m
+    size_first_letter_upper: M
+    size_only_numbers: '3'
+    size_only_numbers_no_zeros: '3'
+    size_upper: M3
+    type: screw_socket_cap
+    type_capital: Screw Socket Cap
+    type_first_letter: s
+    type_first_letter_upper: S
+    type_upper: SCREW_SOCKET_CAP
+hardware_screw_socket_cap_m3_black_60_mm_length_hex_head:
+    classification: hardware
+    classification_capital: Hardware
+    classification_first_letter: h
+    classification_first_letter_upper: H
+    classification_upper: HARDWARE
+    color: black
+    color_capital: Black
+    color_first_letter: b
+    color_first_letter_upper: B
+    color_upper: BLACK
+    description_extra: hex_head
+    description_extra_capital: Hex Head
+    description_extra_first_letter: h
+    description_extra_first_letter_upper: H
+    description_extra_upper: HEX_HEAD
+    description_main: 60_mm_length
+    description_main_capital: 60 mm Length
+    description_main_first_letter: '6'
+    description_main_first_letter_upper: '6'
+    description_main_upper: 60_MM_LENGTH
+    description_only_numbers: '60'
+    description_only_numbers_short: '60'
+    description_or_color: B60
+    description_or_color_upper: B60
+    directory: parts/hardware_screw_socket_cap_m3_black_60_mm_length_hex_head
+    distributors: []
+    filter: hardware
+    from_yaml: false
+    github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_60_mm_length_hex_head/working
+    id: hardware_screw_socket_cap_m3_black_60_mm_length_hex_head
+    id_no_class: screw_socket_cap_m3_black_60_mm_length_hex_head
+    id_no_size: black_60_mm_length_hex_head
+    id_no_type: m3_black_60_mm_length_hex_head
+    kicad_reference: ''
+    make_files: true
+    manufacturer: ''
+    manufacturer_capital: ''
+    manufacturer_first_letter: ''
+    manufacturer_first_letter_upper: ''
+    manufacturer_upper: ''
+    manufacturers: []
+    markdown_full: '[hardware_screw_socket_cap_m3_black_60_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_60_mm_length_hex_head/working)<br>[sscm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_60_mm_length_hex_head/working)<br>[Hardware
+        Screw Socket Cap M3 Black 60 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_60_mm_length_hex_head/working)<br><br>'
+    markdown_short: '[hardware_screw_socket_cap_m3_black_60_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_60_mm_length_hex_head/working)<br><br>'
+    md5: 0958bb27c4978426d54e09546e21c8a6
+    md5_10: 0958bb27c4
+    md5_10_upper: 0958BB27C4
+    md5_5: 0958b
+    md5_5_upper: 0958B
+    md5_6: 0958bb
+    md5_6_alpha: d4mz
+    md5_6_alpha_upper: D4MZ
+    md5_6_upper: 0958BB
+    name: Hardware Screw Socket Cap M3 Black 60 Mm Length Hex Head
+    name_no_class: Screw Socket Cap M3 Black 60 Mm Length Hex Head
+    name_no_size: Black 60 Mm Length Hex Head
+    name_no_size_short: Black 60 Mm Length Hex Head
+    name_no_type: M3 Black 60 Mm Length Hex Head
+    oomp_key: oomp_hardware_screw_socket_cap_m3_black_60_mm_length_hex_head
+    oomp_word: angry water_buffalo curry
+    oomp_word_emoji: ':angry: :water_buffalo: :curry:'
+    oomp_word_emoji_list:
+    - ':angry:'
+    - ':water_buffalo:'
+    - ':curry:'
+    oomp_word_list:
+    - angry
+    - water_buffalo
+    - curry
     part_number: ''
     part_number_capital: ''
     part_number_first_letter: ''

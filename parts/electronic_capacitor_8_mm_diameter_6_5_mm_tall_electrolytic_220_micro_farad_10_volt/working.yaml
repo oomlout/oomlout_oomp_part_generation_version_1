@@ -28,7 +28,7 @@ distributors:
     link: https://lcsc.com/product-detail/C249496.html
     name: LCSC
     part_number: C249496
-filter: ''
+filter: electronic
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_cp_elec_8x5_4//working/working.kicad_mod
     index: 0
