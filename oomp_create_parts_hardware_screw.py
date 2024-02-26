@@ -9,7 +9,7 @@ def load_parts(**kwargs):
     #screw_countersunk pozi drive
     if True:
         extras_sizes = {}
-        extras_sizes["m3"] = [4,5,6,8,10,12,16,20,25]
+        extras_sizes["m3"] = [6,8,10,12,16,20,25]
         extras_sizes["m3_5"] = [8,10,12,16]
         extras_sizes["m4"] = [6,8,10,12,16,20,25,30,40,50,60]
         extras_sizes["m5"] = [8,10,12,14,16,20,25,30,35,40,50,60,70,80,100]
@@ -37,7 +37,7 @@ def load_parts(**kwargs):
     if True:
         extras_sizes = {}
         extras_sizes["m2"] = [3,5,6,8,10,12,14,16,20,22,25]
-        extras_sizes["m3"] = [6,8,10,12,16,20,25,30,35]
+        extras_sizes["m3"] = [4,5,6,8,10,12,16,20,25,30,35]
         extras_sizes["m4"] = [6,8,10,12,16,20,25,30,35,40]    
         
         for size in extras_sizes:

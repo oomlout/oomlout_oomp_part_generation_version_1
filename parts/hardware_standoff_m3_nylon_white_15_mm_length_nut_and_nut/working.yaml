@@ -24,7 +24,7 @@ description_or_color: N15
 description_or_color_upper: N15
 directory: parts/hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut/working
 id: hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut

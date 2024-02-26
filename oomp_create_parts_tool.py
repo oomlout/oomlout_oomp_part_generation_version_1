@@ -7,7 +7,17 @@ def load_parts(**kwargs):
     
     parts = []
 
-    
+    # electrical
+    part_details = {}
+    part_details["classification"] = "tool"
+    part_details["type"] = "electrical_meter_clamp"
+    part_details["size"] = [""]
+    part_details["color"] = [""]
+    part_details["description_main"] = [""]
+    part_details["description_extra"] = [""]
+    part_details["manufacturer"] = "aneng"
+    part_details["part_number"] = "st180"
+    parts.append(part_details)
 
     # screwdriver bits
     #define a part 
@@ -20,6 +30,31 @@ def load_parts(**kwargs):
     part_details["description_extra"] = ["2_mm","2_5_mm"]
     part_details["manufacturer"] = ""
     part_details["part_number"] = ""
+    parts.append(part_details)
+
+    # scale
+    part_details = {}
+    part_details["classification"] = "tool"
+    part_details["type"] = "scale"
+    part_details["size"] = ["76_mm_width_114_mm_height_20_mm_depth"]
+    part_details["color"] = [""]
+    part_details["description_main"] = ["200_gram_capacity", "1000_gram_capacity"]
+    part_details["description_extra"] = [""]
+    part_details["manufacturer"] = "aliexpress"
+    part_details["part_number"] = "jewelry_scale"
+    parts.append(part_details)
+
+
+    # vibratory_bowl
+    part_details = {}
+    part_details["classification"] = "tool"
+    part_details["type"] = "vibratory_bowl"
+    part_details["size"] = ["tabletop"]
+    part_details["color"] = [""]
+    part_details["description_main"] = [""]
+    part_details["description_extra"] = [""]
+    part_details["manufacturer"] = "mettler_toledo"
+    part_details["part_number"] = "lv11"
     parts.append(part_details)
 
     

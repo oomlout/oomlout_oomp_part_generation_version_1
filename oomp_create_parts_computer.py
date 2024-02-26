@@ -16,11 +16,85 @@ def load_parts(**kwargs):
     part_details["type"] = "tablet"
     part_details["size"] = ["microsoft_surface"]
     part_details["color"] = [""]
-    part_details["description_main"] = ["pro_3","pro_7","pro_5"]
+    part_details["description_main"] = "pro_3"
     part_details["description_extra"] = ""
-    part_details["manufacturer"] = ""
-    part_details["part_number"] = ""
+    part_details["manufacturer"] = "microsoft"
+    part_details["part_number"] = "1631"
     parts.append(part_details)
+
+    #define a part 
+    part_details = {}
+    part_details["classification"] = "computer"
+    part_details["type"] = "tablet"
+    part_details["size"] = ["microsoft_surface"]
+    part_details["color"] = [""]
+    part_details["description_main"] = "pro_3"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "microsoft"
+    part_details["part_number"] = "model_1631"
+    parts.append(part_details)
+
+    
+    part_details = {}
+    part_details["classification"] = "computer"
+    part_details["type"] = "tablet"
+    part_details["size"] = ["microsoft_surface"]
+    part_details["color"] = [""]
+    part_details["description_main"] = "pro_4"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "microsoft"
+    part_details["part_number"] = "model_1724"
+    parts.append(part_details)
+
+    
+    part_details = {}
+    part_details["classification"] = "computer"
+    part_details["type"] = "tablet"
+    part_details["size"] = ["microsoft_surface"]
+    part_details["color"] = [""]
+    part_details["description_main"] = "pro_5"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "microsoft"
+    part_details["part_number"] = "model_1796"
+    parts.append(part_details)
+
+    
+    part_details = {}
+    part_details["classification"] = "computer"
+    part_details["type"] = "tablet"
+    part_details["size"] = ["microsoft_surface"]
+    part_details["color"] = [""]
+    part_details["description_main"] = "pro_7"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "microsoft"
+    part_details["part_number"] = "model_1866"
+    parts.append(part_details)
+
+    #define a part 
+    part_details = {}
+    part_details["classification"] = "computer"
+    part_details["type"] = "docking_station"
+    part_details["size"] = ["microsoft_surface"]
+    part_details["color"] = [""]
+    part_details["description_main"] = [""]
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "microsoft"
+    part_details["part_number"] = "1661"
+    parts.append(part_details)
+    
+    #define a part 
+    part_details = {}
+    part_details["classification"] = "computer"
+    part_details["type"] = "power_supply"
+    part_details["size"] = ["microsoft_surface"]
+    part_details["color"] = [""]
+    part_details["description_main"] = ["docking_station"]
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "microsoft"
+    part_details["part_number"] = "model_1749"
+    parts.append(part_details)
+
+    
 
     #webcams
     part_details = {}
@@ -31,7 +105,7 @@ def load_parts(**kwargs):
     part_details["description_main"] = [""]
     part_details["description_extra"] = ""
     part_details["manufacturer"] = "microsoft"
-    part_details["part_number"] = "hd_3000"
+    part_details["part_number"] = "hd_3000_model_1492"
     parts.append(part_details)
 
 

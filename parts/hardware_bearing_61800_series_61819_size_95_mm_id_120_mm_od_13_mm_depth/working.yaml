@@ -24,7 +24,7 @@ description_or_color: 69M5
 description_or_color_upper: 69M5
 directory: parts/hardware_bearing_61800_series_61819_size_95_mm_id_120_mm_od_13_mm_depth
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61819_size_95_mm_id_120_mm_od_13_mm_depth/working
 id: hardware_bearing_61800_series_61819_size_95_mm_id_120_mm_od_13_mm_depth

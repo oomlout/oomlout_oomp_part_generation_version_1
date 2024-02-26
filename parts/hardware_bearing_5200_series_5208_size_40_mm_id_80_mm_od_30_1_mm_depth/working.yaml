@@ -24,7 +24,7 @@ description_or_color: 54M
 description_or_color_upper: 54M
 directory: parts/hardware_bearing_5200_series_5208_size_40_mm_id_80_mm_od_30_1_mm_depth
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5208_size_40_mm_id_80_mm_od_30_1_mm_depth/working
 id: hardware_bearing_5200_series_5208_size_40_mm_id_80_mm_od_30_1_mm_depth

@@ -21,7 +21,7 @@ def main(**kwargs):
     git = True
 
     releases = {"computer","electrical","electronic", "hardware", "mechanical", "oobb", "packaging", "storage", "tool"}
-    releases = {"electronic"}
+    #releases = {"electronic"}
     directory_source = "parts"
     for typ_id in types:
         typ = types[typ_id]

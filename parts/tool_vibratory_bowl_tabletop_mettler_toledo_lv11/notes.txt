@@ -1,0 +1,22 @@
+;######  Pill COunter Notes  ######
+;##################################
+
+
+;######  Serial 
+	* 9600 8N1
+	
+;######  Commands
+
+	* Manual page 7
+	
+	* Dispense
+		LV03
+		
+	* Intensity
+		LV02_X (x 1-4)
+		
+	* Empty
+		LV04
+		
+	* STOP
+		LV06

@@ -24,7 +24,7 @@ description_or_color: B12
 description_or_color_upper: B12
 directory: parts/hardware_screw_flat_head_m2_black_12_mm_length_phillips_head
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_black_12_mm_length_phillips_head/working
 id: hardware_screw_flat_head_m2_black_12_mm_length_phillips_head

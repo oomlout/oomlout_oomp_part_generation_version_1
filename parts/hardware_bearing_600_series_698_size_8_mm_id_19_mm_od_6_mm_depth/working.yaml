@@ -24,7 +24,7 @@ description_or_color: 68k1
 description_or_color_upper: 68K1
 directory: parts/hardware_bearing_600_series_698_size_8_mm_id_19_mm_od_6_mm_depth
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_698_size_8_mm_id_19_mm_od_6_mm_depth/working
 id: hardware_bearing_600_series_698_size_8_mm_id_19_mm_od_6_mm_depth

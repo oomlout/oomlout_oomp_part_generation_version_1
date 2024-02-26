@@ -28,7 +28,7 @@ distributors:
     link: https://lcsc.com/product-detail/C2833309.html
     name: LCSC
     part_number: C2833309
-filter: electronic
+filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_cp_elec_6_3x3_9//working/working.kicad_mod
     index: 0

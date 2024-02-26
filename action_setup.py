@@ -32,17 +32,23 @@ def main(**kwargs):
     #oom_git.push_to_git(comment=comment)
 
 if __name__ == "__main__":
+    #boolean_generate_releases = True
+    boolean_generate_releases = False
+
+
+
     kwargs = {}
 
-    #filter = ""
+    filter = ""
     #filter = "bearing"
-    #filter = "computer"
-    filter = "hardware"
+    filter = "computer"
+    #filter = "hardware"
     #filter = "mechanical"    
     #filter = "oobb"
     #filter = "storage"
     #filter =  "breakout_board"
     #filter = "electronic"
+    #filter = "three_d_printer"
     #filter = "tool"
 
     #filter = "aluminium_extrusion"
@@ -50,3 +56,8 @@ if __name__ == "__main__":
 
     kwargs["filter"] = filter
     main(**kwargs)
+
+
+    if boolean_generate_releases:
+        import action_generate_releases
+        action_generate_releases.main()

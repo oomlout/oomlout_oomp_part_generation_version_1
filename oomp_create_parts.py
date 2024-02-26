@@ -50,6 +50,8 @@ part_types.append("packaging_label")
 
 part_types.append("storage")
 
+part_types.append("three_d_printer_filament")
+
 part_types.append("tool")
 
 

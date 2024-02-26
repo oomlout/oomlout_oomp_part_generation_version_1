@@ -24,7 +24,7 @@ description_or_color: 61M3
 description_or_color_upper: 61M3
 directory: parts/hardware_bearing_61800_series_61826_size_130_mm_id_165_mm_od_18_mm_depth
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61826_size_130_mm_id_165_mm_od_18_mm_depth/working
 id: hardware_bearing_61800_series_61826_size_130_mm_id_165_mm_od_18_mm_depth

@@ -14,13 +14,13 @@ def load_parts(**kwargs):
     ## color used for chip type
 
     
-    # nisbet containers
+    
     part_details = {}
     part_details["classification"] = "packaging"
     part_details["type"] = "label"
     part_details["size"] = ["25_mm_x_25_mm"]
     part_details["color"] = [""]
-    part_details["description_main"] = ""
+    part_details["description_main"] = ["",""]
     part_details["description_extra"] = ""
     part_details["manufacturer"] = ""
     part_details["part_number"] = ""

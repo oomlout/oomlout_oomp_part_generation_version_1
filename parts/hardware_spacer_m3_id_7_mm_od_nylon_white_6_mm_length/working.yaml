@@ -24,7 +24,7 @@ description_or_color: N6
 description_or_color_upper: N6
 directory: parts/hardware_spacer_m3_id_7_mm_od_nylon_white_6_mm_length
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_6_mm_length/working
 id: hardware_spacer_m3_id_7_mm_od_nylon_white_6_mm_length

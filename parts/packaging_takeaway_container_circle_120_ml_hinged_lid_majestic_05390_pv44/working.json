@@ -22,6 +22,7 @@
     "oomlout_mechanical_hole_cutout_size": "66 mm",
     "oomlout_mechanical_hole_cutout_top_size": "69 mm",
     "oomlout_mechanical_hole_cutout_lip_size": "66 mm",
+    "oomlout_mechanical_hole_cutout_12_mm_lift": "57 mm",
     "classification_upper": "PACKAGING",
     "classification_capital": "Packaging",
     "classification_first_letter": "p",

@@ -28,7 +28,7 @@ distributors:
     link: https://lcsc.com/product-detail/C7187.html
     name: LCSC
     part_number: C7187
-filter: electronic
+filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_tantalum_smd_cp_eia_3216_18_kemet_a//working/working.kicad_mod
     index: 0
