@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/computer_docking_station_microsoft_surface_microsoft_1661
 distributors: []
-filter: computer
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661/working
 id: computer_docking_station_microsoft_surface_microsoft_1661

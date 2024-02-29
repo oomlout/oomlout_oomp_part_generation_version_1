@@ -93,6 +93,17 @@ def load_parts(**kwargs):
     part_details["manufacturer"] = "microsoft"
     part_details["part_number"] = "model_1749"
     parts.append(part_details)
+    
+    part_details = {}
+    part_details["classification"] = "computer"
+    part_details["type"] = "power_supply"
+    part_details["size"] = ["microsoft_surface"]
+    part_details["color"] = [""]
+    part_details["description_main"] = ["standalone"]
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "microsoft"
+    part_details["part_number"] = "model_1625"
+    parts.append(part_details)
 
     
 

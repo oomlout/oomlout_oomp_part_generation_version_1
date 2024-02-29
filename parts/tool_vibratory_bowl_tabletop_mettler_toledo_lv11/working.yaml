@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11
 distributors: []
-filter: tool
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11/working
 id: tool_vibratory_bowl_tabletop_mettler_toledo_lv11

@@ -9,7 +9,7 @@
     "part_number": "model_1724",
     "from_yaml": false,
     "make_files": true,
-    "filter": "computer",
+    "filter": "",
     "classification_upper": "COMPUTER",
     "classification_capital": "Computer",
     "classification_first_letter": "c",

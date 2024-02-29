@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
 distributors: []
-filter: computer
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749/working
 id: computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749

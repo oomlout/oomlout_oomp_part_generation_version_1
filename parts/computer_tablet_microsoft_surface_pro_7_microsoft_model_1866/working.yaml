@@ -24,7 +24,7 @@ description_or_color: '7'
 description_or_color_upper: '7'
 directory: parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866
 distributors: []
-filter: computer
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866/working
 id: computer_tablet_microsoft_surface_pro_7_microsoft_model_1866

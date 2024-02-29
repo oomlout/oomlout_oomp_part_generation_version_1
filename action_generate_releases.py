@@ -20,6 +20,10 @@ def main(**kwargs):
 
     git = True
 
+    #whether to delete aprts directory before going
+    start_fresh = True
+    #start_fresh = False
+
     releases = {"computer","electrical","electronic", "hardware", "mechanical", "oobb", "packaging", "storage", "tool"}
     #releases = {"electronic"}
     directory_source = "parts"
@@ -27,6 +31,10 @@ def main(**kwargs):
         typ = types[typ_id]
         for release in releases:
             directory_output = f"outputs/oomp_base_{release}{typ_id}/parts"
+            if start_fresh:
+                if os.path.exists(directory_output):
+                    print(f"deleting {directory_output}")
+                    shutil.rmtree(directory_output)
             print(f"copying {release} to {directory_output}")
             #go through all directories in directory_source
             for directory in os.listdir(directory_source):

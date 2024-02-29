@@ -24,7 +24,7 @@ description_or_color: '4'
 description_or_color_upper: '4'
 directory: parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724
 distributors: []
-filter: computer
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724/working
 id: computer_tablet_microsoft_surface_pro_4_microsoft_model_1724
