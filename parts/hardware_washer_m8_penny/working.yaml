@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/hardware_washer_m8_penny
 distributors: []
-filter: ''
+filter: hardware
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m8_penny/working
 id: hardware_washer_m8_penny

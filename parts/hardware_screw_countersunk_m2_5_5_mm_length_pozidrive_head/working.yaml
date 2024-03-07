@@ -24,7 +24,7 @@ description_or_color: '5'
 description_or_color_upper: '5'
 directory: parts/hardware_screw_countersunk_m2_5_5_mm_length_pozidrive_head
 distributors: []
-filter: ''
+filter: hardware
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m2_5_5_mm_length_pozidrive_head/working
 id: hardware_screw_countersunk_m2_5_5_mm_length_pozidrive_head

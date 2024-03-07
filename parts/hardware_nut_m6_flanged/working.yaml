@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/hardware_nut_m6_flanged
 distributors: []
-filter: ''
+filter: hardware
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_flanged/working
 id: hardware_nut_m6_flanged

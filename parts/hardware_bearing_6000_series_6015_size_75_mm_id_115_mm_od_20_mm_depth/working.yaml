@@ -24,7 +24,7 @@ description_or_color: 67M5
 description_or_color_upper: 67M5
 directory: parts/hardware_bearing_6000_series_6015_size_75_mm_id_115_mm_od_20_mm_depth
 distributors: []
-filter: ''
+filter: hardware
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6015_size_75_mm_id_115_mm_od_20_mm_depth/working
 id: hardware_bearing_6000_series_6015_size_75_mm_id_115_mm_od_20_mm_depth

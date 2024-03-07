@@ -24,7 +24,7 @@ description_or_color: '80'
 description_or_color_upper: '80'
 directory: parts/hardware_set_screw_m6_80_mm_length
 distributors: []
-filter: ''
+filter: hardware
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_80_mm_length/working
 id: hardware_set_screw_m6_80_mm_length

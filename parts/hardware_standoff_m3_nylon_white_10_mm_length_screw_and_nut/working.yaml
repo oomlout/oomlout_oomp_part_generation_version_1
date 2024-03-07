@@ -24,7 +24,7 @@ description_or_color: N10
 description_or_color_upper: N10
 directory: parts/hardware_standoff_m3_nylon_white_10_mm_length_screw_and_nut
 distributors: []
-filter: ''
+filter: hardware
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_10_mm_length_screw_and_nut/working
 id: hardware_standoff_m3_nylon_white_10_mm_length_screw_and_nut

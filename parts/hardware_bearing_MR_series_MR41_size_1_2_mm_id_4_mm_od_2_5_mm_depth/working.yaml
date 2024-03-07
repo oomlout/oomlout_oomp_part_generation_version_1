@@ -24,7 +24,7 @@ description_or_color: M12k
 description_or_color_upper: M12K
 directory: parts/hardware_bearing_MR_series_MR41_size_1_2_mm_id_4_mm_od_2_5_mm_depth
 distributors: []
-filter: ''
+filter: hardware
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR41_size_1_2_mm_id_4_mm_od_2_5_mm_depth/working
 id: hardware_bearing_MR_series_MR41_size_1_2_mm_id_4_mm_od_2_5_mm_depth

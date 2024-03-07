@@ -24,7 +24,7 @@ description_or_color: 'R '
 description_or_color_upper: 'R '
 directory: parts/electronic_led_0805_red
 distributors: []
-filter: ''
+filter: electronic
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0805_2012metric//working/working.kicad_mod
     index: 0

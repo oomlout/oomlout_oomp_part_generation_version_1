@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "hardware",
     "classification_upper": "HARDWARE",
     "classification_capital": "Hardware",
     "classification_first_letter": "h",

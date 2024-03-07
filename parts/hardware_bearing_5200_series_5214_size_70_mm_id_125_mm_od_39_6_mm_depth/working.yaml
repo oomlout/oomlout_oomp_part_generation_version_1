@@ -24,7 +24,7 @@ description_or_color: 57M
 description_or_color_upper: 57M
 directory: parts/hardware_bearing_5200_series_5214_size_70_mm_id_125_mm_od_39_6_mm_depth
 distributors: []
-filter: ''
+filter: hardware
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5214_size_70_mm_id_125_mm_od_39_6_mm_depth/working
 id: hardware_bearing_5200_series_5214_size_70_mm_id_125_mm_od_39_6_mm_depth

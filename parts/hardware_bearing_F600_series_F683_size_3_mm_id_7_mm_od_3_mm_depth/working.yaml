@@ -24,7 +24,7 @@ description_or_color: F373
 description_or_color_upper: F373
 directory: parts/hardware_bearing_F600_series_F683_size_3_mm_id_7_mm_od_3_mm_depth
 distributors: []
-filter: ''
+filter: hardware
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F683_size_3_mm_id_7_mm_od_3_mm_depth/working
 id: hardware_bearing_F600_series_F683_size_3_mm_id_7_mm_od_3_mm_depth

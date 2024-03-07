@@ -17,7 +17,7 @@ def load_parts(**kwargs):
     part_details = {}
     part_details["classification"] = "packaging"
     part_details["type"] = "cardboard_box_postal_tabs"
-    part_details["size"] = ["c4_324_mm_x_229_mm_x_50_mm"]
+    part_details["size"] = ["c4_324_mm_width_229_mm_height_50_mm_depth"]
     part_details["color"] = ["brown"]
     part_details["description_main"] = ""
     part_details["description_extra"] = ""
@@ -39,7 +39,7 @@ def load_parts(**kwargs):
     part_details = {}
     part_details["classification"] = "packaging"
     part_details["type"] = "cardboard_box_postal_tabs"
-    part_details["size"] = ["c5_229_mm_x_162_mm_x_50_mm"]
+    part_details["size"] = ["c5_229_mm_width_162_height_x_50_mm_depth"]
     part_details["color"] = ["brown"]
     part_details["description_main"] = ""
     part_details["description_extra"] = ""
@@ -61,7 +61,7 @@ def load_parts(**kwargs):
     part_details = {}
     part_details["classification"] = "packaging"
     part_details["type"] = "cardboard_box_postal_tabs"
-    part_details["size"] = ["c6_162_mm_x_114_mm_x_50_mm"]
+    part_details["size"] = ["c6_162_mm_width_114_mm_height_50_mm_depth"]
     part_details["color"] = ["brown"]
     part_details["description_main"] = ""
     part_details["description_extra"] = ""
@@ -83,7 +83,7 @@ def load_parts(**kwargs):
     part_details = {}
     part_details["classification"] = "packaging"
     part_details["type"] = "cardboard_box_postal_tabs"
-    part_details["size"] = ["imperial_7_in_x_5_in_x_2_in"]
+    part_details["size"] = ["imperial_7_in_width_5_in_height_2_in_depth"]
     part_details["color"] = ["brown"]
     part_details["description_main"] = ""
     part_details["description_extra"] = ""

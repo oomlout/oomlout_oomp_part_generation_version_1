@@ -43,10 +43,13 @@ part_types.append("mechanical_motor")
 part_types.append("oobb")
 
 
-
-part_types.append("packaging_takeaway_container")
+part_types.append("packaging_bag")
 part_types.append("packaging_cardboard_box_postal")
 part_types.append("packaging_label")
+part_types.append("packaging_takeaway_container")
+part_types.append("packaging_tin")
+
+
 
 part_types.append("storage")
 

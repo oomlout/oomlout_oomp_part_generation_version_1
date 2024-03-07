@@ -24,7 +24,7 @@ description_or_color: 620k
 description_or_color_upper: 620K
 directory: parts/hardware_bearing_61800_series_61804_size_20_mm_id_32_mm_od_7_mm_depth
 distributors: []
-filter: ''
+filter: hardware
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61804_size_20_mm_id_32_mm_od_7_mm_depth/working
 id: hardware_bearing_61800_series_61804_size_20_mm_id_32_mm_od_7_mm_depth

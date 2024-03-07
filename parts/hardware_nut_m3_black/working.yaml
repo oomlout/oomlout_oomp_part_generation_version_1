@@ -24,7 +24,7 @@ description_or_color: 'B '
 description_or_color_upper: 'B '
 directory: parts/hardware_nut_m3_black
 distributors: []
-filter: ''
+filter: hardware
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3_black/working
 id: hardware_nut_m3_black

@@ -24,7 +24,7 @@ description_or_color: 6409k
 description_or_color_upper: 6409K
 directory: parts/hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth
 distributors: []
-filter: ''
+filter: hardware
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth/working
 id: hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth
