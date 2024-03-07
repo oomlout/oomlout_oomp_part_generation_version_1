@@ -48,7 +48,7 @@ if __name__ == "__main__":
     #filter = "storage"
     #filter =  "breakout_board"
     #filter = "electronic"
-    filter = "packaging"
+    #filter = "packaging"
     #filter = "three_d_printer"
     #filter = "tool"
 
