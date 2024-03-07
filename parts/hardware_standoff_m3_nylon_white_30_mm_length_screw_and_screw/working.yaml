@@ -24,7 +24,7 @@ description_or_color: N30
 description_or_color_upper: N30
 directory: parts/hardware_standoff_m3_nylon_white_30_mm_length_screw_and_screw
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_30_mm_length_screw_and_screw/working
 id: hardware_standoff_m3_nylon_white_30_mm_length_screw_and_screw

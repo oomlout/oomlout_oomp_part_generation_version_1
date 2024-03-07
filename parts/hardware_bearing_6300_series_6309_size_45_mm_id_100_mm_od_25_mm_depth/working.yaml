@@ -24,7 +24,7 @@ description_or_color: 64M5
 description_or_color_upper: 64M5
 directory: parts/hardware_bearing_6300_series_6309_size_45_mm_id_100_mm_od_25_mm_depth
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6309_size_45_mm_id_100_mm_od_25_mm_depth/working
 id: hardware_bearing_6300_series_6309_size_45_mm_id_100_mm_od_25_mm_depth

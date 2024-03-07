@@ -24,7 +24,7 @@ description_or_color: 11M
 description_or_color_upper: 11M
 directory: parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth/working
 id: hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth

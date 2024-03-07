@@ -24,7 +24,7 @@ description_or_color: 6358k
 description_or_color_upper: 6358K
 directory: parts/hardware_bearing_6300_series_6307_size_35_mm_id_80_mm_od_21_mm_depth
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6307_size_35_mm_id_80_mm_od_21_mm_depth/working
 id: hardware_bearing_6300_series_6307_size_35_mm_id_80_mm_od_21_mm_depth

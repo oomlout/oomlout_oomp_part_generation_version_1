@@ -24,7 +24,7 @@ description_or_color: 630k
 description_or_color_upper: 630K
 directory: parts/hardware_bearing_6900_series_6906_size_30_mm_id_47_mm_od_9_mm_depth
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6900_series_6906_size_30_mm_id_47_mm_od_9_mm_depth/working
 id: hardware_bearing_6900_series_6906_size_30_mm_id_47_mm_od_9_mm_depth

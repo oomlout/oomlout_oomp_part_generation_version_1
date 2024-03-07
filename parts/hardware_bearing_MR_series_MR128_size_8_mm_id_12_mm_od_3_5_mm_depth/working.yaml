@@ -24,7 +24,7 @@ description_or_color: M81k
 description_or_color_upper: M81K
 directory: parts/hardware_bearing_MR_series_MR128_size_8_mm_id_12_mm_od_3_5_mm_depth
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR128_size_8_mm_id_12_mm_od_3_5_mm_depth/working
 id: hardware_bearing_MR_series_MR128_size_8_mm_id_12_mm_od_3_5_mm_depth

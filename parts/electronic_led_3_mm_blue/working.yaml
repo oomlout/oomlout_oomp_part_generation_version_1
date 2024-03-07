@@ -24,7 +24,7 @@ description_or_color: 'B '
 description_or_color_upper: 'B '
 directory: parts/electronic_led_3_mm_blue
 distributors: []
-filter: electronic
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_blue/working
 id: electronic_led_3_mm_blue

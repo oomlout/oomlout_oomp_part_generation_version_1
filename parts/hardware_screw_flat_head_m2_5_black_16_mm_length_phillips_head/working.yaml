@@ -24,7 +24,7 @@ description_or_color: B16
 description_or_color_upper: B16
 directory: parts/hardware_screw_flat_head_m2_5_black_16_mm_length_phillips_head
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_16_mm_length_phillips_head/working
 id: hardware_screw_flat_head_m2_5_black_16_mm_length_phillips_head

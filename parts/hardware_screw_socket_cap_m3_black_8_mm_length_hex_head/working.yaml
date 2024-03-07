@@ -24,7 +24,7 @@ description_or_color: B8
 description_or_color_upper: B8
 directory: parts/hardware_screw_socket_cap_m3_black_8_mm_length_hex_head
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_8_mm_length_hex_head/working
 id: hardware_screw_socket_cap_m3_black_8_mm_length_hex_head

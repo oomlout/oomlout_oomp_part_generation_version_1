@@ -24,7 +24,7 @@ description_or_color: 61M
 description_or_color_upper: 61M
 directory: parts/hardware_bearing_6200_series_6221_size_105_mm_id_190_mm_od_36_mm_depth
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6221_size_105_mm_id_190_mm_od_36_mm_depth/working
 id: hardware_bearing_6200_series_6221_size_105_mm_id_190_mm_od_36_mm_depth

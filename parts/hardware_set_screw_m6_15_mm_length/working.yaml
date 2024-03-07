@@ -24,7 +24,7 @@ description_or_color: '15'
 description_or_color_upper: '15'
 directory: parts/hardware_set_screw_m6_15_mm_length
 distributors: []
-filter: hardware
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_15_mm_length/working
 id: hardware_set_screw_m6_15_mm_length
