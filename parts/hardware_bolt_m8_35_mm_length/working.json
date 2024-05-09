@@ -54,8 +54,8 @@
     "name_no_class": "Bolt M8 35 Mm Length",
     "name_no_type": "M8 35 Mm Length",
     "name_no_size": "35 Mm Length",
-    "short_code": "bm8",
-    "short_code_upper": "BM8",
+    "short_code": "b835",
+    "short_code_upper": "B835",
     "distributors": [],
     "manufacturers": [],
     "md5": "1b83d4aa00dd17650e993b9e4f964d84",
@@ -86,6 +86,6 @@
     "name_no_size_short": "35 Mm Length",
     "description_or_color": "35",
     "description_or_color_upper": "35",
-    "markdown_full": "[hardware_bolt_m8_35_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_35_mm_length/working)<br>[bm8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_35_mm_length/working)<br>[Hardware Bolt M8 35 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_35_mm_length/working)<br><br>",
+    "markdown_full": "[hardware_bolt_m8_35_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_35_mm_length/working)<br>[b835](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_35_mm_length/working)<br>[Hardware Bolt M8 35 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_35_mm_length/working)<br><br>",
     "markdown_short": "[hardware_bolt_m8_35_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_35_mm_length/working)<br><br>"
 }

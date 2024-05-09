@@ -54,8 +54,8 @@
     "name_no_class": "Set Screw M5 45 Mm Length",
     "name_no_type": "M5 45 Mm Length",
     "name_no_size": "45 Mm Length",
-    "short_code": "ssm5",
-    "short_code_upper": "SSM5",
+    "short_code": "ss545",
+    "short_code_upper": "SS545",
     "distributors": [],
     "manufacturers": [],
     "md5": "5b3c3cbf5e14a9b1e66dde6ec9bc49f7",
@@ -86,6 +86,6 @@
     "name_no_size_short": "45 Mm Length",
     "description_or_color": "45",
     "description_or_color_upper": "45",
-    "markdown_full": "[hardware_set_screw_m5_45_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_45_mm_length/working)<br>[ssm5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_45_mm_length/working)<br>[Hardware Set Screw M5 45 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_45_mm_length/working)<br><br>",
+    "markdown_full": "[hardware_set_screw_m5_45_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_45_mm_length/working)<br>[ss545](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_45_mm_length/working)<br>[Hardware Set Screw M5 45 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_45_mm_length/working)<br><br>",
     "markdown_short": "[hardware_set_screw_m5_45_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_45_mm_length/working)<br><br>"
 }

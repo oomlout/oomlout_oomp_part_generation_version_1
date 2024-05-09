@@ -54,8 +54,8 @@
     "name_no_class": "Nut M2 Flanged",
     "name_no_type": "M2 Flanged",
     "name_no_size": "Flanged",
-    "short_code": "num2",
-    "short_code_upper": "NUM2",
+    "short_code": "nu2",
+    "short_code_upper": "NU2",
     "distributors": [],
     "manufacturers": [],
     "md5": "6499f35e97937bebd6ac5fb1edd97dde",
@@ -86,6 +86,6 @@
     "name_no_size_short": "Flanged",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_nut_m2_flanged](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_flanged/working)<br>[num2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_flanged/working)<br>[Hardware Nut M2 Flanged](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_flanged/working)<br><br>",
+    "markdown_full": "[hardware_nut_m2_flanged](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_flanged/working)<br>[nu2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_flanged/working)<br>[Hardware Nut M2 Flanged](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_flanged/working)<br><br>",
     "markdown_short": "[hardware_nut_m2_flanged](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_flanged/working)<br><br>"
 }

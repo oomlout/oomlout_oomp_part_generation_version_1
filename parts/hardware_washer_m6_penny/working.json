@@ -54,8 +54,8 @@
     "name_no_class": "Washer M6 Penny",
     "name_no_type": "M6 Penny",
     "name_no_size": "Penny",
-    "short_code": "wm6",
-    "short_code_upper": "WM6",
+    "short_code": "w6",
+    "short_code_upper": "W6",
     "distributors": [],
     "manufacturers": [],
     "md5": "c7d2da6941e1027542c3ff54212f2a53",
@@ -86,6 +86,6 @@
     "name_no_size_short": "Penny",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_washer_m6_penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_penny/working)<br>[wm6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_penny/working)<br>[Hardware Washer M6 Penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_penny/working)<br><br>",
+    "markdown_full": "[hardware_washer_m6_penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_penny/working)<br>[w6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_penny/working)<br>[Hardware Washer M6 Penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_penny/working)<br><br>",
     "markdown_short": "[hardware_washer_m6_penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_penny/working)<br><br>"
 }

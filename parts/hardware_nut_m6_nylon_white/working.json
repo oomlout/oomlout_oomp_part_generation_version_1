@@ -54,8 +54,8 @@
     "name_no_class": "Nut M6 Nylon White",
     "name_no_type": "M6 Nylon White",
     "name_no_size": "Nylon White",
-    "short_code": "num6",
-    "short_code_upper": "NUM6",
+    "short_code": "nu6",
+    "short_code_upper": "NU6",
     "distributors": [],
     "manufacturers": [],
     "md5": "1bc2b6eff9b9225af1a04d7e31c1428f",
@@ -86,6 +86,6 @@
     "name_no_size_short": "Nylon White",
     "description_or_color": "N ",
     "description_or_color_upper": "N ",
-    "markdown_full": "[hardware_nut_m6_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white/working)<br>[num6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white/working)<br>[Hardware Nut M6 Nylon White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white/working)<br><br>",
+    "markdown_full": "[hardware_nut_m6_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white/working)<br>[nu6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white/working)<br>[Hardware Nut M6 Nylon White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white/working)<br><br>",
     "markdown_short": "[hardware_nut_m6_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white/working)<br><br>"
 }

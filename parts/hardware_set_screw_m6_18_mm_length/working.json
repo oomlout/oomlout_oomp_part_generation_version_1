@@ -54,8 +54,8 @@
     "name_no_class": "Set Screw M6 18 Mm Length",
     "name_no_type": "M6 18 Mm Length",
     "name_no_size": "18 Mm Length",
-    "short_code": "ssm6",
-    "short_code_upper": "SSM6",
+    "short_code": "ss618",
+    "short_code_upper": "SS618",
     "distributors": [],
     "manufacturers": [],
     "md5": "3a216a7e4ce54a0cefe394b17368011e",
@@ -86,6 +86,6 @@
     "name_no_size_short": "18 Mm Length",
     "description_or_color": "18",
     "description_or_color_upper": "18",
-    "markdown_full": "[hardware_set_screw_m6_18_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_18_mm_length/working)<br>[ssm6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_18_mm_length/working)<br>[Hardware Set Screw M6 18 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_18_mm_length/working)<br><br>",
+    "markdown_full": "[hardware_set_screw_m6_18_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_18_mm_length/working)<br>[ss618](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_18_mm_length/working)<br>[Hardware Set Screw M6 18 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_18_mm_length/working)<br><br>",
     "markdown_short": "[hardware_set_screw_m6_18_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_18_mm_length/working)<br><br>"
 }

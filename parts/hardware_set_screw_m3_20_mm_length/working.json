@@ -54,8 +54,8 @@
     "name_no_class": "Set Screw M3 20 Mm Length",
     "name_no_type": "M3 20 Mm Length",
     "name_no_size": "20 Mm Length",
-    "short_code": "ssm3",
-    "short_code_upper": "SSM3",
+    "short_code": "ss320",
+    "short_code_upper": "SS320",
     "distributors": [],
     "manufacturers": [],
     "md5": "ce37d9c9bce6cde74a0a8e23c57d8391",
@@ -86,6 +86,6 @@
     "name_no_size_short": "20 Mm Length",
     "description_or_color": "20",
     "description_or_color_upper": "20",
-    "markdown_full": "[hardware_set_screw_m3_20_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m3_20_mm_length/working)<br>[ssm3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m3_20_mm_length/working)<br>[Hardware Set Screw M3 20 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m3_20_mm_length/working)<br><br>",
+    "markdown_full": "[hardware_set_screw_m3_20_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m3_20_mm_length/working)<br>[ss320](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m3_20_mm_length/working)<br>[Hardware Set Screw M3 20 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m3_20_mm_length/working)<br><br>",
     "markdown_short": "[hardware_set_screw_m3_20_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m3_20_mm_length/working)<br><br>"
 }

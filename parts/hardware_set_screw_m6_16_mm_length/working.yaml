@@ -38,7 +38,7 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_set_screw_m6_16_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_16_mm_length/working)<br>[ssm6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_16_mm_length/working)<br>[Hardware
+markdown_full: '[hardware_set_screw_m6_16_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_16_mm_length/working)<br>[ss616](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_16_mm_length/working)<br>[Hardware
     Set Screw M6 16 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_16_mm_length/working)<br><br>'
 markdown_short: '[hardware_set_screw_m6_16_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_16_mm_length/working)<br><br>'
 md5: f783c71b29d56e12722fc005731eb32c
@@ -71,8 +71,8 @@ part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''
-short_code: ssm6
-short_code_upper: SSM6
+short_code: ss616
+short_code_upper: SS616
 size: m6
 size_capital: M6
 size_first_letter: m

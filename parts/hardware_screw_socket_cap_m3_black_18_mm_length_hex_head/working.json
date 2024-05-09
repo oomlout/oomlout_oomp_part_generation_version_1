@@ -54,8 +54,8 @@
     "name_no_class": "Screw Socket Cap M3 Black 18 Mm Length Hex Head",
     "name_no_type": "M3 Black 18 Mm Length Hex Head",
     "name_no_size": "Black 18 Mm Length Hex Head",
-    "short_code": "sscm3b",
-    "short_code_upper": "SSCM3B",
+    "short_code": "sc3b18h",
+    "short_code_upper": "SC3B18H",
     "distributors": [],
     "manufacturers": [],
     "md5": "25bfb3618f32ec63b75f8dae8bfb63b9",
@@ -86,6 +86,6 @@
     "name_no_size_short": "Black 18 Mm Length Hex Head",
     "description_or_color": "B18",
     "description_or_color_upper": "B18",
-    "markdown_full": "[hardware_screw_socket_cap_m3_black_18_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br>[sscm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br>[Hardware Screw Socket Cap M3 Black 18 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br><br>",
+    "markdown_full": "[hardware_screw_socket_cap_m3_black_18_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br>[sc3b18h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br>[Hardware Screw Socket Cap M3 Black 18 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br><br>",
     "markdown_short": "[hardware_screw_socket_cap_m3_black_18_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head/working)<br><br>"
 }

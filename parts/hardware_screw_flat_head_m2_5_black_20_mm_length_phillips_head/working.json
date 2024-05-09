@@ -54,8 +54,8 @@
     "name_no_class": "Screw Flat Head M2 5 Black 20 Mm Length Phillips Head",
     "name_no_type": "M2 5 Black 20 Mm Length Phillips Head",
     "name_no_size": "Black 20 Mm Length Phillips Head",
-    "short_code": "sfb",
-    "short_code_upper": "SFB",
+    "short_code": "fhb20ph",
+    "short_code_upper": "FHB20PH",
     "distributors": [],
     "manufacturers": [],
     "md5": "5687929ff6de1319a4b19aa1fbbb40ab",
@@ -86,6 +86,6 @@
     "name_no_size_short": "Black 20 Mm Length Phillips Head",
     "description_or_color": "B20",
     "description_or_color_upper": "B20",
-    "markdown_full": "[hardware_screw_flat_head_m2_5_black_20_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_20_mm_length_phillips_head/working)<br>[sfb](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_20_mm_length_phillips_head/working)<br>[Hardware Screw Flat Head M2 5 Black 20 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_20_mm_length_phillips_head/working)<br><br>",
+    "markdown_full": "[hardware_screw_flat_head_m2_5_black_20_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_20_mm_length_phillips_head/working)<br>[fhb20ph](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_20_mm_length_phillips_head/working)<br>[Hardware Screw Flat Head M2 5 Black 20 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_20_mm_length_phillips_head/working)<br><br>",
     "markdown_short": "[hardware_screw_flat_head_m2_5_black_20_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_20_mm_length_phillips_head/working)<br><br>"
 }

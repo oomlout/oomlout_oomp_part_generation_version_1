@@ -54,8 +54,8 @@
     "name_no_class": "Nut M8 Nylon White",
     "name_no_type": "M8 Nylon White",
     "name_no_size": "Nylon White",
-    "short_code": "num8",
-    "short_code_upper": "NUM8",
+    "short_code": "nu8",
+    "short_code_upper": "NU8",
     "distributors": [],
     "manufacturers": [],
     "md5": "2d39f94e9f4990e7d6dc321f9b564229",
@@ -86,6 +86,6 @@
     "name_no_size_short": "Nylon White",
     "description_or_color": "N ",
     "description_or_color_upper": "N ",
-    "markdown_full": "[hardware_nut_m8_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m8_nylon_white/working)<br>[num8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m8_nylon_white/working)<br>[Hardware Nut M8 Nylon White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m8_nylon_white/working)<br><br>",
+    "markdown_full": "[hardware_nut_m8_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m8_nylon_white/working)<br>[nu8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m8_nylon_white/working)<br>[Hardware Nut M8 Nylon White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m8_nylon_white/working)<br><br>",
     "markdown_short": "[hardware_nut_m8_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m8_nylon_white/working)<br><br>"
 }

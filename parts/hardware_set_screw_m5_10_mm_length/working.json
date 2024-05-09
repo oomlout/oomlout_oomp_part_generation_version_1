@@ -54,8 +54,8 @@
     "name_no_class": "Set Screw M5 10 Mm Length",
     "name_no_type": "M5 10 Mm Length",
     "name_no_size": "10 Mm Length",
-    "short_code": "ssm5",
-    "short_code_upper": "SSM5",
+    "short_code": "ss510",
+    "short_code_upper": "SS510",
     "distributors": [],
     "manufacturers": [],
     "md5": "4c4a9b0ceea3e6316c25f77ac2c83932",
@@ -86,6 +86,6 @@
     "name_no_size_short": "10 Mm Length",
     "description_or_color": "10",
     "description_or_color_upper": "10",
-    "markdown_full": "[hardware_set_screw_m5_10_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_10_mm_length/working)<br>[ssm5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_10_mm_length/working)<br>[Hardware Set Screw M5 10 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_10_mm_length/working)<br><br>",
+    "markdown_full": "[hardware_set_screw_m5_10_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_10_mm_length/working)<br>[ss510](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_10_mm_length/working)<br>[Hardware Set Screw M5 10 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_10_mm_length/working)<br><br>",
     "markdown_short": "[hardware_set_screw_m5_10_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_10_mm_length/working)<br><br>"
 }

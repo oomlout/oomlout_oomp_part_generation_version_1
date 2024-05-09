@@ -8,8 +8,6 @@ color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
 color_upper: ''
-cost_per: "\xA31.25"
-cost_per_10: "\xA31.25"
 depth_internal:
 - 21 mm
 description_extra: ''
@@ -79,6 +77,9 @@ part_number_capital: T4005
 part_number_first_letter: t
 part_number_first_letter_upper: T
 part_number_upper: T4005
+price_1: "\xA31.25"
+price_10: "\xA31.25"
+price_current: "\xA31.25"
 short_code: ''
 short_code_upper: ''
 size: a5_220_mm_width_160_mm_height_25_mm_depth_450_ml

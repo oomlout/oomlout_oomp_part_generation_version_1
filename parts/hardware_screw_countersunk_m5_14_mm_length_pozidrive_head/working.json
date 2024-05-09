@@ -54,8 +54,8 @@
     "name_no_class": "Screw Countersunk M5 14 Mm Length Pozidrive Head",
     "name_no_type": "M5 14 Mm Length Pozidrive Head",
     "name_no_size": "14 Mm Length Pozidrive Head",
-    "short_code": "scsm5",
-    "short_code_upper": "SCSM5",
+    "short_code": "cs514pz",
+    "short_code_upper": "CS514PZ",
     "distributors": [],
     "manufacturers": [],
     "md5": "7ad31b6f2da990a28d110d7fd89f4ed1",
@@ -86,6 +86,6 @@
     "name_no_size_short": "14 Mm Length Pozidrive Head",
     "description_or_color": "14",
     "description_or_color_upper": "14",
-    "markdown_full": "[hardware_screw_countersunk_m5_14_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m5_14_mm_length_pozidrive_head/working)<br>[scsm5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m5_14_mm_length_pozidrive_head/working)<br>[Hardware Screw Countersunk M5 14 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m5_14_mm_length_pozidrive_head/working)<br><br>",
+    "markdown_full": "[hardware_screw_countersunk_m5_14_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m5_14_mm_length_pozidrive_head/working)<br>[cs514pz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m5_14_mm_length_pozidrive_head/working)<br>[Hardware Screw Countersunk M5 14 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m5_14_mm_length_pozidrive_head/working)<br><br>",
     "markdown_short": "[hardware_screw_countersunk_m5_14_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m5_14_mm_length_pozidrive_head/working)<br><br>"
 }

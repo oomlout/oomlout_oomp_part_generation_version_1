@@ -41,11 +41,11 @@ def get_short_code(**kwargs):
     replace_dict["type"]["nut_lock"] = "nl"
     replace_dict["type"]["nut_coupling"] = "nc"
     replace_dict["type"]["nut_flanged"] = "nf"
-    replace_dict["type"]["screw_countersunk"] = "scs"
-    replace_dict["type"]["screw_flat_head"] = "sf"
-    replace_dict["type"]["screw_machine"] = "sm"
-    replace_dict["type"]["screw_self_tapping"] = "sst"
-    replace_dict["type"]["screw_socket_cap"] = "ssc"
+    replace_dict["type"]["screw_countersunk"] = "cs"
+    replace_dict["type"]["screw_flat_head"] = "fh"
+    replace_dict["type"]["screw_machine"] = "m"
+    replace_dict["type"]["screw_self_tapping"] = "st"
+    replace_dict["type"]["screw_socket_cap"] = "sc"
     replace_dict["type"]["set_screw"] = "ss"
     replace_dict["type"]["washer"] = "w"
     replace_dict["type"]["washer_penny"] = "wp"
@@ -110,7 +110,7 @@ def get_short_code(**kwargs):
     replace_dict["size"][f"1_27_mm"] = f"1_27"
     #loop for m1 to m10
     for m in range(1, 10):
-        replace_dict["size"][f"m{m}"] = f"m{m}"
+        replace_dict["size"][f"m{m}"] = f"{m}"
     
     replace_dict["size"]["0402"] = "4"
 
@@ -285,6 +285,7 @@ def get_short_code(**kwargs):
     #            mm
     for mm in range(1, 100):
         replace_dict["description_main"][f"{mm}_mm"] = f"{mm}"
+        replace_dict["description_main"][f"{mm}_mm_length"] = f"{mm}"
     replace_dict["description_main"][f"2_5_mm"] = f"2d5"
     replace_dict["description_main"][f"2_54_mm"] = f"i1"    
     replace_dict["description_main"][f"2_54_mm_dual_row"] = f"i1"
@@ -344,6 +345,10 @@ def get_short_code(**kwargs):
     replace_dict["description_extra"]["screw_and_nut"] = "sn"
     replace_dict["description_extra"]["nut_and_nut"] = "nn"
     
+    replace_dict["description_extra"]["hex_head"] = "h"
+    replace_dict["description_extra"]["pozidrive_head"] = "pz"
+    replace_dict["description_extra"]["phillips_head"] = "ph"
+
 
     #      header mounting    
     replace_dict["description_extra"]["surface_mount_right_angle"] = "smra"

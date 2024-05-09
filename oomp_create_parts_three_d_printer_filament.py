@@ -7,23 +7,82 @@ def load_parts(**kwargs):
     
     parts = []
 
+    #print_time]
+    part_details = {}
+    part_details["classification"] = "three_d_printer"
+    part_details["type"] = "printing"
+    part_details["size"] = ["low_quality"]
+    part_details["color"] = [""]
+    part_details["description_main"] = "minute"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["short_name"] = ""  
+    part_details["price_per"] = 0
+    part_details["price_per_gram"] = 0
+    part_details["price_current"] = 0
+    part_details["price_per_kilogram"] = 0
+    parts.append(part_details)    
     
+    # printers
+    part_details = {}
+    part_details["classification"] = "three_d_printer"
+    part_details["type"] = "printer"
+    part_details["size"] = [""]
+    part_details["color"] = [""]
+    part_details["description_main"] = ""
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "wanhao"
+    part_details["part_number"] = "dupicator_i3_plus"
+    part_details["short_name"] = ""  
+    parts.append(part_details)    
+    part_details = {}
+    part_details["classification"] = "three_d_printer"
+    part_details["type"] = "printer"
+    part_details["size"] = [""]
+    part_details["color"] = [""]
+    part_details["description_main"] = ""
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "anycubic"
+    part_details["part_number"] = "vyper"
+    part_details["short_name"] = ""  
+    parts.append(part_details)    
 
-    #define a part 
-    # motor_geared
-    #      tt
+    # 3dqf filament
     part_details = {}
     part_details["classification"] = "three_d_printer"
     part_details["type"] = "filament"
     part_details["size"] = ["1_75_mm"]
-    part_details["color"] = ["pla_aqua", "pla_plus_black"]
+    part_details["color"] = ["pla_aqua"]
     part_details["description_main"] = "reel"
     part_details["description_extra"] = ""
     part_details["manufacturer"] = "3dqf"
     part_details["part_number"] = ""
     part_details["short_name"] = ""  
+    part_details["price_per"] = 18.99 / 1000 / 1.2
+    part_details["price_per_gram"] = 18.99 / 1000 / 1.2
+    part_details["price_current"] = 18.99 / 1000 / 1.2
+    part_details["price_per_kilogram"] = 18.99 / 1.2
+    part_details["weight"] = 1
     parts.append(part_details)    
     
+    
+    part_details = {}
+    part_details["classification"] = "three_d_printer"
+    part_details["type"] = "filament"
+    part_details["size"] = ["1_75_mm"]
+    part_details["color"] = ["pla_plus_black"]
+    part_details["description_main"] = "reel"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "3dqf"
+    part_details["part_number"] = ""
+    part_details["short_name"] = ""  
+    part_details["price_per"] = 20.99 / 1000 / 1.2
+    part_details["price_per_gram"] = 20.99 / 1000 / 1.2
+    part_details["price_current"] = 20.99 / 1000 / 1.2
+    part_details["price_per_kilogram"] = 20.99 / 1.2
+    part_details["weight"] = 1
+    parts.append(part_details)    
     
 
 

@@ -38,7 +38,7 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_set_screw_m8_90_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_90_mm_length/working)<br>[ssm8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_90_mm_length/working)<br>[Hardware
+markdown_full: '[hardware_set_screw_m8_90_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_90_mm_length/working)<br>[ss890](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_90_mm_length/working)<br>[Hardware
     Set Screw M8 90 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_90_mm_length/working)<br><br>'
 markdown_short: '[hardware_set_screw_m8_90_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_90_mm_length/working)<br><br>'
 md5: 1eb0953b12ff6a4fbce364100504e7e1
@@ -71,8 +71,8 @@ part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''
-short_code: ssm8
-short_code_upper: SSM8
+short_code: ss890
+short_code_upper: SS890
 size: m8
 size_capital: M8
 size_first_letter: m

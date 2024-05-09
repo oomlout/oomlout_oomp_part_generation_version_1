@@ -54,8 +54,8 @@
     "name_no_class": "Washer M2",
     "name_no_type": "M2",
     "name_no_size": "M2",
-    "short_code": "wm2",
-    "short_code_upper": "WM2",
+    "short_code": "w2",
+    "short_code_upper": "W2",
     "distributors": [],
     "manufacturers": [],
     "md5": "a89ac90589f72dbb4aa0d1b6507ce828",
@@ -86,6 +86,6 @@
     "name_no_size_short": "M2",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_washer_m2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br>[wm2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br>[Hardware Washer M2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br><br>",
+    "markdown_full": "[hardware_washer_m2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br>[w2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br>[Hardware Washer M2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br><br>",
     "markdown_short": "[hardware_washer_m2](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2/working)<br><br>"
 }

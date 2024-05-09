@@ -38,7 +38,7 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head/working)<br>[m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head/working)<br>[Hardware
+markdown_full: '[hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head/working)<br>[68pz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head/working)<br>[Hardware
     Screw Machine Screw M6 8 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head/working)<br><br>'
 markdown_short: '[hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head/working)<br><br>'
 md5: efbb96addd2a4f9129316306086dfb28
@@ -71,8 +71,8 @@ part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''
-short_code: m6
-short_code_upper: M6
+short_code: 68pz
+short_code_upper: 68PZ
 size: m6
 size_capital: M6
 size_first_letter: m

@@ -54,8 +54,8 @@
     "name_no_class": "Washer M6",
     "name_no_type": "M6",
     "name_no_size": "M6",
-    "short_code": "wm6",
-    "short_code_upper": "WM6",
+    "short_code": "w6",
+    "short_code_upper": "W6",
     "distributors": [],
     "manufacturers": [],
     "md5": "1aeab10009c7952257a9557d5f0a31fc",
@@ -86,6 +86,6 @@
     "name_no_size_short": "M6",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_washer_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6/working)<br>[wm6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6/working)<br>[Hardware Washer M6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6/working)<br><br>",
+    "markdown_full": "[hardware_washer_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6/working)<br>[w6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6/working)<br>[Hardware Washer M6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6/working)<br><br>",
     "markdown_short": "[hardware_washer_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6/working)<br><br>"
 }

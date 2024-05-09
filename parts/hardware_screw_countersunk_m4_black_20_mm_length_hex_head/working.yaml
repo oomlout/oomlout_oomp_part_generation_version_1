@@ -38,7 +38,7 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_screw_countersunk_m4_black_20_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_20_mm_length_hex_head/working)<br>[scsm4b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_20_mm_length_hex_head/working)<br>[Hardware
+markdown_full: '[hardware_screw_countersunk_m4_black_20_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_20_mm_length_hex_head/working)<br>[cs4b20h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_20_mm_length_hex_head/working)<br>[Hardware
     Screw Countersunk M4 Black 20 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_20_mm_length_hex_head/working)<br><br>'
 markdown_short: '[hardware_screw_countersunk_m4_black_20_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_20_mm_length_hex_head/working)<br><br>'
 md5: 04d3cf4ef64dc8dfb64a02d558fd96fb
@@ -71,8 +71,8 @@ part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''
-short_code: scsm4b
-short_code_upper: SCSM4B
+short_code: cs4b20h
+short_code_upper: CS4B20H
 size: m4
 size_capital: M4
 size_first_letter: m

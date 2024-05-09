@@ -8,8 +8,9 @@
     "manufacturer": "tinware_direct",
     "part_number": "t4005",
     "make_files": true,
-    "cost_per": "\u00a31.25",
-    "cost_per_10": "\u00a31.25",
+    "price_1": "\u00a31.25",
+    "price_10": "\u00a31.25",
+    "price_current": "\u00a31.25",
     "link_purchase": [
         "https://tinwaredirect.com/products/silver-rectangular-stationery-tins-with-hinged-lid?variant=1726838210587"
     ],

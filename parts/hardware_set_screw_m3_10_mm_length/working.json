@@ -54,8 +54,8 @@
     "name_no_class": "Set Screw M3 10 Mm Length",
     "name_no_type": "M3 10 Mm Length",
     "name_no_size": "10 Mm Length",
-    "short_code": "ssm3",
-    "short_code_upper": "SSM3",
+    "short_code": "ss310",
+    "short_code_upper": "SS310",
     "distributors": [],
     "manufacturers": [],
     "md5": "7d8f4108cb3592b8dbc071b20e000e00",
@@ -86,6 +86,6 @@
     "name_no_size_short": "10 Mm Length",
     "description_or_color": "10",
     "description_or_color_upper": "10",
-    "markdown_full": "[hardware_set_screw_m3_10_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m3_10_mm_length/working)<br>[ssm3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m3_10_mm_length/working)<br>[Hardware Set Screw M3 10 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m3_10_mm_length/working)<br><br>",
+    "markdown_full": "[hardware_set_screw_m3_10_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m3_10_mm_length/working)<br>[ss310](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m3_10_mm_length/working)<br>[Hardware Set Screw M3 10 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m3_10_mm_length/working)<br><br>",
     "markdown_short": "[hardware_set_screw_m3_10_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m3_10_mm_length/working)<br><br>"
 }

@@ -54,8 +54,8 @@
     "name_no_class": "Screw Thread Forming M2 6 Black 6 Mm Length Phillips Head",
     "name_no_type": "M2 6 Black 6 Mm Length Phillips Head",
     "name_no_size": "Black 6 Mm Length Phillips Head",
-    "short_code": "b",
-    "short_code_upper": "B",
+    "short_code": "b6ph",
+    "short_code_upper": "B6PH",
     "distributors": [],
     "manufacturers": [],
     "md5": "3b7cac410aa545f280e41b414e4a20d9",
@@ -86,6 +86,6 @@
     "name_no_size_short": "Black 6 Mm Length Phillips Head",
     "description_or_color": "B6",
     "description_or_color_upper": "B6",
-    "markdown_full": "[hardware_screw_thread_forming_m2_6_black_6_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_thread_forming_m2_6_black_6_mm_length_phillips_head/working)<br>[b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_thread_forming_m2_6_black_6_mm_length_phillips_head/working)<br>[Hardware Screw Thread Forming M2 6 Black 6 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_thread_forming_m2_6_black_6_mm_length_phillips_head/working)<br><br>",
+    "markdown_full": "[hardware_screw_thread_forming_m2_6_black_6_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_thread_forming_m2_6_black_6_mm_length_phillips_head/working)<br>[b6ph](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_thread_forming_m2_6_black_6_mm_length_phillips_head/working)<br>[Hardware Screw Thread Forming M2 6 Black 6 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_thread_forming_m2_6_black_6_mm_length_phillips_head/working)<br><br>",
     "markdown_short": "[hardware_screw_thread_forming_m2_6_black_6_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_thread_forming_m2_6_black_6_mm_length_phillips_head/working)<br><br>"
 }

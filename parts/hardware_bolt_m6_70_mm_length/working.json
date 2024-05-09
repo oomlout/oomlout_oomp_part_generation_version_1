@@ -54,8 +54,8 @@
     "name_no_class": "Bolt M6 70 Mm Length",
     "name_no_type": "M6 70 Mm Length",
     "name_no_size": "70 Mm Length",
-    "short_code": "bm6",
-    "short_code_upper": "BM6",
+    "short_code": "b670",
+    "short_code_upper": "B670",
     "distributors": [],
     "manufacturers": [],
     "md5": "5ac0b1298e3f7638f3abae06bbb1e8ab",
@@ -86,6 +86,6 @@
     "name_no_size_short": "70 Mm Length",
     "description_or_color": "70",
     "description_or_color_upper": "70",
-    "markdown_full": "[hardware_bolt_m6_70_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m6_70_mm_length/working)<br>[bm6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m6_70_mm_length/working)<br>[Hardware Bolt M6 70 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m6_70_mm_length/working)<br><br>",
+    "markdown_full": "[hardware_bolt_m6_70_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m6_70_mm_length/working)<br>[b670](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m6_70_mm_length/working)<br>[Hardware Bolt M6 70 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m6_70_mm_length/working)<br><br>",
     "markdown_short": "[hardware_bolt_m6_70_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m6_70_mm_length/working)<br><br>"
 }

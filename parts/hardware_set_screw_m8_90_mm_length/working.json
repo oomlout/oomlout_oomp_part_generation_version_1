@@ -54,8 +54,8 @@
     "name_no_class": "Set Screw M8 90 Mm Length",
     "name_no_type": "M8 90 Mm Length",
     "name_no_size": "90 Mm Length",
-    "short_code": "ssm8",
-    "short_code_upper": "SSM8",
+    "short_code": "ss890",
+    "short_code_upper": "SS890",
     "distributors": [],
     "manufacturers": [],
     "md5": "1eb0953b12ff6a4fbce364100504e7e1",
@@ -86,6 +86,6 @@
     "name_no_size_short": "90 Mm Length",
     "description_or_color": "90",
     "description_or_color_upper": "90",
-    "markdown_full": "[hardware_set_screw_m8_90_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_90_mm_length/working)<br>[ssm8](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_90_mm_length/working)<br>[Hardware Set Screw M8 90 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_90_mm_length/working)<br><br>",
+    "markdown_full": "[hardware_set_screw_m8_90_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_90_mm_length/working)<br>[ss890](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_90_mm_length/working)<br>[Hardware Set Screw M8 90 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_90_mm_length/working)<br><br>",
     "markdown_short": "[hardware_set_screw_m8_90_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_90_mm_length/working)<br><br>"
 }

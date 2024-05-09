@@ -54,8 +54,8 @@
     "name_no_class": "Nut M1 Locking",
     "name_no_type": "M1 Locking",
     "name_no_size": "Locking",
-    "short_code": "num1",
-    "short_code_upper": "NUM1",
+    "short_code": "nu1",
+    "short_code_upper": "NU1",
     "distributors": [],
     "manufacturers": [],
     "md5": "189a861561a449a80ef3fa98798e9394",
@@ -86,6 +86,6 @@
     "name_no_size_short": "Locking",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_nut_m1_locking](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_locking/working)<br>[num1](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_locking/working)<br>[Hardware Nut M1 Locking](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_locking/working)<br><br>",
+    "markdown_full": "[hardware_nut_m1_locking](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_locking/working)<br>[nu1](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_locking/working)<br>[Hardware Nut M1 Locking](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_locking/working)<br><br>",
     "markdown_short": "[hardware_nut_m1_locking](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_locking/working)<br><br>"
 }

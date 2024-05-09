@@ -38,7 +38,7 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m6_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white/working)<br>[num6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white/working)<br>[Hardware
+markdown_full: '[hardware_nut_m6_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white/working)<br>[nu6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white/working)<br>[Hardware
     Nut M6 Nylon White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white/working)<br><br>'
 markdown_short: '[hardware_nut_m6_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_nylon_white/working)<br><br>'
 md5: 1bc2b6eff9b9225af1a04d7e31c1428f
@@ -71,8 +71,8 @@ part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''
-short_code: num6
-short_code_upper: NUM6
+short_code: nu6
+short_code_upper: NU6
 size: m6
 size_capital: M6
 size_first_letter: m

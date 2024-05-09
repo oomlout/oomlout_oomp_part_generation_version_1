@@ -54,8 +54,8 @@
     "name_no_class": "Nut M6",
     "name_no_type": "M6",
     "name_no_size": "M6",
-    "short_code": "num6",
-    "short_code_upper": "NUM6",
+    "short_code": "nu6",
+    "short_code_upper": "NU6",
     "distributors": [],
     "manufacturers": [],
     "md5": "0c5aa07f0758332d210758db9c5a2270",
@@ -86,6 +86,6 @@
     "name_no_size_short": "M6",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_nut_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6/working)<br>[num6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6/working)<br>[Hardware Nut M6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6/working)<br><br>",
+    "markdown_full": "[hardware_nut_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6/working)<br>[nu6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6/working)<br>[Hardware Nut M6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6/working)<br><br>",
     "markdown_short": "[hardware_nut_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6/working)<br><br>"
 }

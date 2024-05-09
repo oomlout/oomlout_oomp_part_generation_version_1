@@ -21,8 +21,9 @@ def load_parts(**kwargs):
     part_details["description_extra"] = ""
     part_details["manufacturer"] = "tinware_direct"
     part_details["part_number"] = "t4066"        
-    part_details["cost_per"] = "£0.79"
-    part_details["cost_per_10"] = "£0.79"    
+    part_details["price_1"] = "£0.79"    
+    part_details["price_10"] = "£0.79"    
+    part_details["price_current"] = "£0.79"
     part_details["link_purchase"] = ["https://tinwaredirect.com/products/silver-rectangular-stationery-tins-with-hinged-lid?variant=1726837358619"]
     part_details["width_internal"] = ["165 mm"]
     part_details["height_internal"] = ["124 mm"]
@@ -39,8 +40,9 @@ def load_parts(**kwargs):
     part_details["description_extra"] = ""
     part_details["manufacturer"] = "tinware_direct"
     part_details["part_number"] = "t4005"        
-    part_details["cost_per"] = "£1.25"
-    part_details["cost_per_10"] = "£1.25"    
+    part_details["price_1"] = "£1.25"
+    part_details["price_10"] = "£1.25"    
+    part_details["price_current"] = "£1.25"
     part_details["link_purchase"] = ["https://tinwaredirect.com/products/silver-rectangular-stationery-tins-with-hinged-lid?variant=1726838210587"]
     part_details["width_internal"] = ["215 mm"]
     part_details["height_internal"] = ["156 mm"]

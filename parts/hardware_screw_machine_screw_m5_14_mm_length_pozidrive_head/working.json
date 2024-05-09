@@ -54,8 +54,8 @@
     "name_no_class": "Screw Machine Screw M5 14 Mm Length Pozidrive Head",
     "name_no_type": "M5 14 Mm Length Pozidrive Head",
     "name_no_size": "14 Mm Length Pozidrive Head",
-    "short_code": "m5",
-    "short_code_upper": "M5",
+    "short_code": "514pz",
+    "short_code_upper": "514PZ",
     "distributors": [],
     "manufacturers": [],
     "md5": "3fdb50588ff6d06743078a0d8c4d6c0c",
@@ -86,6 +86,6 @@
     "name_no_size_short": "14 Mm Length Pozidrive Head",
     "description_or_color": "14",
     "description_or_color_upper": "14",
-    "markdown_full": "[hardware_screw_machine_screw_m5_14_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m5_14_mm_length_pozidrive_head/working)<br>[m5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m5_14_mm_length_pozidrive_head/working)<br>[Hardware Screw Machine Screw M5 14 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m5_14_mm_length_pozidrive_head/working)<br><br>",
+    "markdown_full": "[hardware_screw_machine_screw_m5_14_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m5_14_mm_length_pozidrive_head/working)<br>[514pz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m5_14_mm_length_pozidrive_head/working)<br>[Hardware Screw Machine Screw M5 14 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m5_14_mm_length_pozidrive_head/working)<br><br>",
     "markdown_short": "[hardware_screw_machine_screw_m5_14_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m5_14_mm_length_pozidrive_head/working)<br><br>"
 }

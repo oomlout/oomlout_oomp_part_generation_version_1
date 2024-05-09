@@ -54,8 +54,8 @@
     "name_no_class": "Screw Socket Cap M5 Black 45 Mm Length Hex Head",
     "name_no_type": "M5 Black 45 Mm Length Hex Head",
     "name_no_size": "Black 45 Mm Length Hex Head",
-    "short_code": "sscm5b",
-    "short_code_upper": "SSCM5B",
+    "short_code": "sc5b45h",
+    "short_code_upper": "SC5B45H",
     "distributors": [],
     "manufacturers": [],
     "md5": "f56fc4f7d71e58c3bf70590840934bf7",
@@ -86,6 +86,6 @@
     "name_no_size_short": "Black 45 Mm Length Hex Head",
     "description_or_color": "B45",
     "description_or_color_upper": "B45",
-    "markdown_full": "[hardware_screw_socket_cap_m5_black_45_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_45_mm_length_hex_head/working)<br>[sscm5b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_45_mm_length_hex_head/working)<br>[Hardware Screw Socket Cap M5 Black 45 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_45_mm_length_hex_head/working)<br><br>",
+    "markdown_full": "[hardware_screw_socket_cap_m5_black_45_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_45_mm_length_hex_head/working)<br>[sc5b45h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_45_mm_length_hex_head/working)<br>[Hardware Screw Socket Cap M5 Black 45 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_45_mm_length_hex_head/working)<br><br>",
     "markdown_short": "[hardware_screw_socket_cap_m5_black_45_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_45_mm_length_hex_head/working)<br><br>"
 }

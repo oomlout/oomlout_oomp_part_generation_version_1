@@ -54,8 +54,8 @@
     "name_no_class": "Screw Countersunk M2 Black 30 Mm Length Phillips Head",
     "name_no_type": "M2 Black 30 Mm Length Phillips Head",
     "name_no_size": "Black 30 Mm Length Phillips Head",
-    "short_code": "scsm2b",
-    "short_code_upper": "SCSM2B",
+    "short_code": "cs2b30ph",
+    "short_code_upper": "CS2B30PH",
     "distributors": [],
     "manufacturers": [],
     "md5": "20bcb69a9411f28998541e747ce5701c",
@@ -86,6 +86,6 @@
     "name_no_size_short": "Black 30 Mm Length Phillips Head",
     "description_or_color": "B30",
     "description_or_color_upper": "B30",
-    "markdown_full": "[hardware_screw_countersunk_m2_black_30_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m2_black_30_mm_length_phillips_head/working)<br>[scsm2b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m2_black_30_mm_length_phillips_head/working)<br>[Hardware Screw Countersunk M2 Black 30 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m2_black_30_mm_length_phillips_head/working)<br><br>",
+    "markdown_full": "[hardware_screw_countersunk_m2_black_30_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m2_black_30_mm_length_phillips_head/working)<br>[cs2b30ph](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m2_black_30_mm_length_phillips_head/working)<br>[Hardware Screw Countersunk M2 Black 30 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m2_black_30_mm_length_phillips_head/working)<br><br>",
     "markdown_short": "[hardware_screw_countersunk_m2_black_30_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m2_black_30_mm_length_phillips_head/working)<br><br>"
 }

@@ -38,7 +38,7 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_screw_socket_cap_m6_black_70_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head/working)<br>[sscm6b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head/working)<br>[Hardware
+markdown_full: '[hardware_screw_socket_cap_m6_black_70_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head/working)<br>[sc6b70h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head/working)<br>[Hardware
     Screw Socket Cap M6 Black 70 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head/working)<br><br>'
 markdown_short: '[hardware_screw_socket_cap_m6_black_70_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head/working)<br><br>'
 md5: 89071b342e93b054ea08545499d9a642
@@ -71,8 +71,8 @@ part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''
-short_code: sscm6b
-short_code_upper: SSCM6B
+short_code: sc6b70h
+short_code_upper: SC6B70H
 size: m6
 size_capital: M6
 size_first_letter: m

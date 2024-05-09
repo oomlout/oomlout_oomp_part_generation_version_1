@@ -38,7 +38,7 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_screw_self_tapping_m1_7_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_7_black_12_mm_length_phillips_head/working)<br>[sstb](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_7_black_12_mm_length_phillips_head/working)<br>[Hardware
+markdown_full: '[hardware_screw_self_tapping_m1_7_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_7_black_12_mm_length_phillips_head/working)<br>[stb12ph](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_7_black_12_mm_length_phillips_head/working)<br>[Hardware
     Screw Self Tapping M1 7 Black 12 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_7_black_12_mm_length_phillips_head/working)<br><br>'
 markdown_short: '[hardware_screw_self_tapping_m1_7_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_7_black_12_mm_length_phillips_head/working)<br><br>'
 md5: c2065295e315fa1c6b3770ae85652991
@@ -71,8 +71,8 @@ part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''
-short_code: sstb
-short_code_upper: SSTB
+short_code: stb12ph
+short_code_upper: STB12PH
 size: m1_7
 size_capital: M1.7
 size_first_letter: m

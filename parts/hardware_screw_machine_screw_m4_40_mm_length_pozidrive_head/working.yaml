@@ -38,7 +38,7 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_screw_machine_screw_m4_40_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m4_40_mm_length_pozidrive_head/working)<br>[m4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m4_40_mm_length_pozidrive_head/working)<br>[Hardware
+markdown_full: '[hardware_screw_machine_screw_m4_40_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m4_40_mm_length_pozidrive_head/working)<br>[440pz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m4_40_mm_length_pozidrive_head/working)<br>[Hardware
     Screw Machine Screw M4 40 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m4_40_mm_length_pozidrive_head/working)<br><br>'
 markdown_short: '[hardware_screw_machine_screw_m4_40_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m4_40_mm_length_pozidrive_head/working)<br><br>'
 md5: 017ad6344e034a451a8bd82d6873265a
@@ -71,8 +71,8 @@ part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''
-short_code: m4
-short_code_upper: M4
+short_code: 440pz
+short_code_upper: 440PZ
 size: m4
 size_capital: M4
 size_first_letter: m

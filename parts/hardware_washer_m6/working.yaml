@@ -38,7 +38,7 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_washer_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6/working)<br>[wm6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6/working)<br>[Hardware
+markdown_full: '[hardware_washer_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6/working)<br>[w6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6/working)<br>[Hardware
     Washer M6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6/working)<br><br>'
 markdown_short: '[hardware_washer_m6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6/working)<br><br>'
 md5: 1aeab10009c7952257a9557d5f0a31fc
@@ -71,8 +71,8 @@ part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''
-short_code: wm6
-short_code_upper: WM6
+short_code: w6
+short_code_upper: W6
 size: m6
 size_capital: M6
 size_first_letter: m

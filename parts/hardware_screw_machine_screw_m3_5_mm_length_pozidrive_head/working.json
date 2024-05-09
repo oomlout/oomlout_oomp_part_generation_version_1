@@ -54,8 +54,8 @@
     "name_no_class": "Screw Machine Screw M3 5 Mm Length Pozidrive Head",
     "name_no_type": "M3 5 Mm Length Pozidrive Head",
     "name_no_size": "5 Mm Length Pozidrive Head",
-    "short_code": "m3",
-    "short_code_upper": "M3",
+    "short_code": "35pz",
+    "short_code_upper": "35PZ",
     "distributors": [],
     "manufacturers": [],
     "md5": "d463f0fdb9e90ee0855d191b85e8bf5b",
@@ -86,6 +86,6 @@
     "name_no_size_short": "5 Mm Length Pozidrive Head",
     "description_or_color": "5",
     "description_or_color_upper": "5",
-    "markdown_full": "[hardware_screw_machine_screw_m3_5_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m3_5_mm_length_pozidrive_head/working)<br>[m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m3_5_mm_length_pozidrive_head/working)<br>[Hardware Screw Machine Screw M3 5 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m3_5_mm_length_pozidrive_head/working)<br><br>",
+    "markdown_full": "[hardware_screw_machine_screw_m3_5_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m3_5_mm_length_pozidrive_head/working)<br>[35pz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m3_5_mm_length_pozidrive_head/working)<br>[Hardware Screw Machine Screw M3 5 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m3_5_mm_length_pozidrive_head/working)<br><br>",
     "markdown_short": "[hardware_screw_machine_screw_m3_5_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m3_5_mm_length_pozidrive_head/working)<br><br>"
 }

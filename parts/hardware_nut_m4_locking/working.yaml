@@ -38,7 +38,7 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m4_locking](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4_locking/working)<br>[num4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4_locking/working)<br>[Hardware
+markdown_full: '[hardware_nut_m4_locking](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4_locking/working)<br>[nu4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4_locking/working)<br>[Hardware
     Nut M4 Locking](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4_locking/working)<br><br>'
 markdown_short: '[hardware_nut_m4_locking](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4_locking/working)<br><br>'
 md5: 3f1ea95376bfa8e75dc225bcf0637a47
@@ -71,8 +71,8 @@ part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''
-short_code: num4
-short_code_upper: NUM4
+short_code: nu4
+short_code_upper: NU4
 size: m4
 size_capital: M4
 size_first_letter: m

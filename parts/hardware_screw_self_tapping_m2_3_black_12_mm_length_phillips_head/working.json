@@ -54,8 +54,8 @@
     "name_no_class": "Screw Self Tapping M2 3 Black 12 Mm Length Phillips Head",
     "name_no_type": "M2 3 Black 12 Mm Length Phillips Head",
     "name_no_size": "Black 12 Mm Length Phillips Head",
-    "short_code": "sstb",
-    "short_code_upper": "SSTB",
+    "short_code": "stb12ph",
+    "short_code_upper": "STB12PH",
     "distributors": [],
     "manufacturers": [],
     "md5": "a4cc1c6799e1d8bd4f299ea8dba02460",
@@ -86,6 +86,6 @@
     "name_no_size_short": "Black 12 Mm Length Phillips Head",
     "description_or_color": "B12",
     "description_or_color_upper": "B12",
-    "markdown_full": "[hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head/working)<br>[sstb](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head/working)<br>[Hardware Screw Self Tapping M2 3 Black 12 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head/working)<br><br>",
+    "markdown_full": "[hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head/working)<br>[stb12ph](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head/working)<br>[Hardware Screw Self Tapping M2 3 Black 12 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head/working)<br><br>",
     "markdown_short": "[hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head/working)<br><br>"
 }

@@ -42,6 +42,8 @@ part_types.append("mechanical_motor")
 
 part_types.append("oobb")
 
+part_types.append("company_oomlout")
+
 
 part_types.append("packaging_bag")
 part_types.append("packaging_cardboard_box_postal")

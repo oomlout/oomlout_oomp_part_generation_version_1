@@ -24,7 +24,7 @@ def load_parts(**kwargs):
             part_details["size"] = []
             for size in sizes:
                 part_details["size"].append(f"{size}")
-            part_details["color"] = [""]
+            part_details["color"] = ["bright_zinc_plated"]
             lengths = extras_sizes[size]
             part_details["description_main"] = []
             for length in lengths:
