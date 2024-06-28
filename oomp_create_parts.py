@@ -51,6 +51,8 @@ part_types.append("packaging_label")
 part_types.append("packaging_takeaway_container")
 part_types.append("packaging_tin")
 
+part_types.append("paper")
+
 
 
 part_types.append("storage")

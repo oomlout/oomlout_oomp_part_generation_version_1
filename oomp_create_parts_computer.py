@@ -7,7 +7,21 @@ def load_parts(**kwargs):
     
     parts = []
 
-    
+    # amazon fire tablets
+    part_details = {}
+    part_details["classification"] = "computer"
+    part_details["type"] = "tablet"
+    part_details["size"] = ["amazon_fire"]
+    part_details["color"] = [""]
+    part_details["description_main"] = "max_11"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "amazon"
+    part_details["part_number"] = "kfsnwi"
+    part_details["width"] = "259.1 mm"
+    part_details["height"] = "163.7 mm"
+    part_details["depth"] = "7.5 mm"
+    parts.append(part_details)
+
 
     # surface pros
     #define a part 
