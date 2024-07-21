@@ -39,6 +39,8 @@ part_types.append("electronic_prototyping")
 part_types.append("electronic_resistor")
 part_types.append("electronic_socket")
 
+part_types.append("furniture_ikea")
+
 part_types.append("mechanical_motor")
 
 part_types.append("oobb")
