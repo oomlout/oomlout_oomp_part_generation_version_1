@@ -5,6 +5,7 @@ import oomp
 part_types = []
 
 part_types.append("computer")
+part_types.append("computer_monitor")
 
 part_types.append("hardware_aluminium_extrusion")    
 part_types.append("hardware_bearing")
