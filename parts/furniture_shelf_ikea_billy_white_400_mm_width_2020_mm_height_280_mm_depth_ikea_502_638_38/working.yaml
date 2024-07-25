@@ -9,20 +9,20 @@ color_first_letter: w
 color_first_letter_upper: W
 color_upper: WHITE
 depth: 280 mm
-description_extra: ''
-description_extra_capital: ''
-description_extra_first_letter: ''
-description_extra_first_letter_upper: ''
-description_extra_upper: ''
-description_main: 400_mm_width_2020_mm_height_280_mm_depth
-description_main_capital: 400 mm Width 2020 mm Height 280 mm Depth
-description_main_first_letter: '4'
-description_main_first_letter_upper: '4'
-description_main_upper: 400_MM_WIDTH_2020_MM_HEIGHT_280_MM_DEPTH
-description_only_numbers: '4002020280'
-description_only_numbers_short: 4M
-description_or_color: W4M
-description_or_color_upper: W4M
+description_extra: 400_mm_width_2020_mm_height_280_mm_depth
+description_extra_capital: 400 mm Width 2020 mm Height 280 mm Depth
+description_extra_first_letter: '4'
+description_extra_first_letter_upper: '4'
+description_extra_upper: 400_MM_WIDTH_2020_MM_HEIGHT_280_MM_DEPTH
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
 directory: parts/furniture_shelf_ikea_billy_white_400_mm_width_2020_mm_height_280_mm_depth_ikea_502_638_38
 distributors: []
 filter: ''
