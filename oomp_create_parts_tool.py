@@ -59,6 +59,33 @@ def load_parts(**kwargs):
 
     
 
+    # diy tool
+    #   drill
+    #       dewalt
+    part_details = {}
+    part_details["classification"] = "tool"
+    part_details["type"] = "drill_hammer"
+    part_details["size"] = ["18_volt_dewalt_tower"]
+    part_details["color"] = [""]
+    part_details["description_main"] = [""]
+    part_details["description_extra"] = [""]
+    part_details["manufacturer"] = "dewalt"
+    part_details["part_number"] = "dc988"
+    parts.append(part_details)
+    #       ryobi
+    part_details = {}
+    part_details["classification"] = "tool"
+    part_details["type"] = "drill_hammer"
+    part_details["size"] = ["18_volt_ryobi_one"]
+    part_details["color"] = [""]
+    part_details["description_main"] = [""]
+    part_details["description_extra"] = [""]
+    part_details["manufacturer"] = "ryobi"
+    part_details["part_number"] = "r18pd3"
+    parts.append(part_details)
+
+    
+
     
 
     
