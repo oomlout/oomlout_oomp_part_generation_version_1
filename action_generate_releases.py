@@ -30,7 +30,18 @@ def main(**kwargs):
     for typ_id in types:
         typ = types[typ_id]
         for release in releases:
-            directory_output = f"outputs/oomp_base_{release}{typ_id}/parts"
+            git_base = f"oomp_base_{release}{typ_id}"
+            directory_output_base = f"output/{git_base}"
+            directory_output = f"{directory_output_base}/parts"
+            
+            #if directory doesn't exist, then clone repo
+            if not os.path.exists(directory_output):
+                url_repo = f"http://www.github.com/oomlout/{git_base}.git"
+                directory_clone = f"output/{git_base}"
+                command = f"git clone {url_repo} {directory_clone}"
+                print(f"cloning {url_repo} to {directory_clone}")
+                os.system(command)
+                pass
             if start_fresh:
                 if os.path.exists(directory_output):
                     print(f"deleting {directory_output}")
@@ -58,7 +69,7 @@ def main(**kwargs):
             typ_extra = ""
             if typ_id != "":
                 typ_extra = f"{typ_id}"
-            directory = f"outputs/oomp_base_{release}{typ_extra}"
+            directory = f"output/oomp_base_{release}{typ_extra}"
             if git:
                 try:
                     oom_git.push_to_git(directory=directory, comment=f"adding {release} {typ_id}")
