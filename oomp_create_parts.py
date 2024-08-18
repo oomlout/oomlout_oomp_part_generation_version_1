@@ -4,6 +4,8 @@ import oomp
 
 part_types = []
 
+part_types.append("camera")
+
 part_types.append("computer")
 part_types.append("computer_monitor")
 

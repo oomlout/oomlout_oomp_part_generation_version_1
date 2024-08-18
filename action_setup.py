@@ -32,8 +32,8 @@ def main(**kwargs):
     #oom_git.push_to_git(comment=comment)
 
 if __name__ == "__main__":
-    boolean_generate_releases = True
-    #boolean_generate_releases = False
+    #boolean_generate_releases = True
+    boolean_generate_releases = False
 
 
 

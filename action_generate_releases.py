@@ -24,7 +24,7 @@ def main(**kwargs):
     start_fresh = True
     #start_fresh = False
 
-    releases = {"computer","electrical","electronic", "hardware", "mechanical", "oobb", "packaging", "storage", "tool", "three_d_printer", "company_oomlout"}
+    releases = {"camera","computer","electrical","electronic", "hardware", "mechanical", "oobb", "packaging", "storage", "tool", "three_d_printer", "company_oomlout"}
     #releases = {"electronic"}
     directory_source = "parts"
     for typ_id in types:
