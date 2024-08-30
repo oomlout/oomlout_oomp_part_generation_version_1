@@ -41,7 +41,11 @@ part_types.append("electronic_prototyping")
 part_types.append("electronic_resistor")
 part_types.append("electronic_socket")
 
+part_types.append("food")
+
 part_types.append("furniture_ikea")
+
+part_types.append("household")
 
 part_types.append("mechanical_motor")
 
