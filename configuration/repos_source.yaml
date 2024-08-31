@@ -17,7 +17,7 @@
 #- http://www.github.com/oomlout/oomp_base_electronic_image
 #- http://www.github.com/oomlout/oomp_base_electronic_three_d_model
 ## hardware
-- http://www.github.com/oomlout/oomp_base_hardware
+# - http://www.github.com/oomlout/oomp_base_hardware
 #- http://www.github.com/oomlout/oomp_base_hardware_datasheet
 #- http://www.github.com/oomlout/oomp_base_hardware_drawing
 #- http://www.github.com/oomlout/oomp_base_hardware_image
@@ -54,7 +54,7 @@
 #- http://www.github.com/oomlout/oomp_base_tool_three_d_model
 ###### data
 # - https://github.com/oomlout/oomlout_oomp_data_injector_distributor_part_numbers
-- https://github.com/oomlout/oomlout_oomp_data_injector_bolt_part_numbers
+# - https://github.com/oomlout/oomlout_oomp_data_injector_bolt_part_numbers
 
 
 
