@@ -72,6 +72,19 @@ def load_parts(**kwargs):
         part_details["part_number"] = ""
         parts.append(part_details)
 
+    # educational
+    if True:
+        part_details = {}
+        part_details["classification"] = "household_toy"
+        part_details["type"] = "educational"
+        part_details["size"] = [""]
+        part_details["color"] = [""]
+        part_details["description_main"] = "to_sort"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        parts.append(part_details)
+
     # fidget
     if True:
         part_details = {}

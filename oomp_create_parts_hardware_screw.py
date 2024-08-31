@@ -244,6 +244,40 @@ def load_parts(**kwargs):
             part_details["kicad_reference"] = ""
             parts.append(part_details)    
     
+    #add screwtite screws
+    if True:
+        part_details = {}
+        part_details["classification"] = "hardware"
+        part_details["type"] = "screw_wood"
+        part_details["size"] = [""]
+        part_details["color"] = [""]
+        part_details["description_main"] = "3_5_mm_diameter_50_mm_length"
+        part_details["description_extra"] = "pozidrive_head"
+        part_details["manufacturer"] = "screw_tite_two"
+        part_details["part_number"] = "726FY"
+        part_details["short_name"] = ""
+        parts.append(part_details)
+
+        import copy
+        screwtire_base = copy.deepcopy(part_details)
+
+        part_details = copy.deepcopy(screwtire_base)
+        part_details["description_main"] = "3_5_mm_diameter_30_mm_length"
+        part_details["part_number"] = "488FY"
+        parts.append(part_details)
+
+        #5mm x 100 mm
+        part_details = copy.deepcopy(screwtire_base)
+        part_details["description_main"] = "5_mm_diameter_100_mm_length"
+        part_details["part_number"] = "486FY"
+        parts.append(part_details)
+
+        # 5 mm 90 mm
+        part_details = copy.deepcopy(screwtire_base)
+        part_details["description_main"] = "5_mm_diameter_90_mm_length"
+        part_details["part_number"] = "800FY"
+        parts.append(part_details)
+
     
     oomp.add_parts(parts, **kwargs)
     
