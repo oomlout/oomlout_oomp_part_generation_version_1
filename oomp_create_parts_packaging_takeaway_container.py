@@ -156,6 +156,106 @@ def load_parts(**kwargs):
     part_details["oomlout_mechanical_hole_cutout_12_mm_lift"] ="57 mm"
     parts.append(part_details)  
 
+    # systempak
+    
+    #2030slc
+    part_details = {}
+    part_details["classification"] = "packaging"
+    part_details["type"] = "takeaway_container_circle"
+    part_details["size"] = ["1000_ml"]
+    part_details["color"] = [""]
+    part_details["description_main"] = "124_mm_diameter_124_mm_height_tamper_evident"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "systempak"
+    part_details["part_number"] = "2030slc"
+    part_details["short_name"] = ""
+    part_details["upc_number"] = ""
+    part_details["weight"] = "36 g"
+    part_details["cost_per"] = "£0.246" # # 64.95 / 264 = 0.246
+    part_details["link_purchase"] = ["https://systempak.net/product/1000ml-round-122mm-diameter-slimline-tamper-evident-container-and-lids/"]    
+    part_details["box_quantity"] = "264"
+    part_details["note"] = "only available by the pallet"
+    parts.append(part_details)
+
+
+    #2021
+    part_details = {}
+    part_details["classification"] = "packaging"
+    part_details["type"] = "takeaway_container_circle"
+    part_details["size"] = ["870_ml"]
+    part_details["color"] = [""]
+    part_details["description_main"] = "118_mm_diameter_125_mm_height_tamper_evident"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "systempak"
+    part_details["part_number"] = "2021"
+    part_details["short_name"] = ""
+    part_details["upc_number"] = ""
+    part_details["weight"] = "32 g"
+    part_details["cost_per"] = "£0.326" # # 74.95 / 230 = 0.326
+    part_details["link_purchase"] = ["https://systempak.net/product/870ml-x-118od-round-plastic-tamper-proof-food-containers-and-lids/"]
+    part_details["box_quantity"] = "230"
+    part_details["note"] = "only available by the pallet"
+    parts.append(part_details)
+
+    #254
+    part_details = {}
+    part_details["classification"] = "packaging"
+    part_details["type"] = "takeaway_container_circle"
+    part_details["size"] = ["670_ml"]
+    part_details["color"] = [""]
+    part_details["description_main"] = "105_mm_diameter_100_mm_height_tamper_evident"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "systempak"
+    part_details["part_number"] = "254"
+    part_details["short_name"] = ""
+    part_details["upc_number"] = ""
+    part_details["weight"] = "35 g"
+    part_details["cost_per"] = "£0.199" # # 62.95 / 316 = 0.199
+    part_details["link_purchase"] = ["https://systempak.net/product/670ml-round-105mm-diameter-tamper-evident-containers-and-lids/"]
+    part_details["box_quantity"] = "316"
+    parts.append(part_details)
+
+    # 253
+    part_details = {}
+    part_details["classification"] = "packaging"
+    part_details["type"] = "takeaway_container_circle"
+    part_details["size"] = ["660_ml"]
+    part_details["color"] = [""]
+    ###### don't know the height!
+    #part_details["description_main"] = "95_mm_diameter_100_mm_height_tamper_evident"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "systempak"
+    part_details["part_number"] = "253"
+    part_details["short_name"] = ""
+    part_details["upc_number"] = ""
+    part_details["weight"] = "35 g"
+    part_details["cost_per"] = "£0.178" # # 77.95 / 410 = 0.178
+    part_details["link_purchase"] = ["https://systempak.net/product/660ml-round-95mm-diameter-tamper-evident-containers-and-lids/"]
+    part_details["box_quantity"] = "410"
+    #parts.append(part_details)
+
+    #2026
+    part_details = {}
+    part_details["classification"] = "packaging"
+    part_details["type"] = "takeaway_container_circle"
+    part_details["size"] = ["1000_ml"]
+    part_details["color"] = [""]    
+    part_details["description_main"] = "131_mm_diameter_120_mm_height_tamper_evident"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "systempak"
+    part_details["part_number"] = "2026"
+    part_details["short_name"] = ""
+    part_details["upc_number"] = ""
+    part_details["weight"] = "41 g"
+    part_details["cost_per"] = "£0.299" # # 58.96 / 197 = 0.299
+    part_details["link_purchase"] = ["https://systempak.net/product/1000ml-round-131mm-diameter-tamper-evident-containers-with-handles-and-lids/"]
+    part_details["box_quantity"] = "197"
+    parts.append(part_details)
+
+
+
+
+
 
     oomp.add_parts(parts, make_files=make_files)
     
