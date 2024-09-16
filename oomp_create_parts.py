@@ -56,6 +56,7 @@ part_types.append("company_oomlout")
 
 part_types.append("packaging_bag")
 part_types.append("packaging_cardboard_box_postal")
+part_types.append("packaging_elastic_band")
 part_types.append("packaging_label")
 part_types.append("packaging_takeaway_container")
 part_types.append("packaging_tin")
