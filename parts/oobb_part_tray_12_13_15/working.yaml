@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '12_13_15'
+description_main_capital: 12.13.15
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '12_13_15'
+description_only_numbers: '121315'
+description_only_numbers_short: 121k
+description_or_color: 121k
+description_or_color_upper: 121K
+directory: parts/oobb_part_tray_12_13_15
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_12_13_15/working
+id: oobb_part_tray_12_13_15
+id_no_class: part_tray_12_13_15
+id_no_size: '12_13_15'
+id_no_type: tray_12_13_15
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_12_13_15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_12_13_15/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_12_13_15/working)<br>[Oobb
+    Part Tray 12 13 15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_12_13_15/working)<br><br>'
+markdown_short: '[oobb_part_tray_12_13_15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_12_13_15/working)<br><br>'
+md5: d97b71390f34c81e99b2bf2c35b7c90f
+md5_10: d97b71390f
+md5_10_upper: D97B71390F
+md5_5: d97b7
+md5_5_upper: D97B7
+md5_6: d97b71
+md5_6_alpha: 8hhm9
+md5_6_alpha_upper: 8HHM9
+md5_6_upper: D97B71
+name: Oobb Part Tray 12 13 15
+name_no_class: Part Tray 12 13 15
+name_no_size: 12 13 15
+name_no_size_short: 12 13 15
+name_no_type: Tray 12 13 15
+oomp_key: oomp_oobb_part_tray_12_13_15
+oomp_word: bank computer bamboo
+oomp_word_emoji: ':bank: :computer: :bamboo:'
+oomp_word_emoji_list:
+- ':bank:'
+- ':computer:'
+- ':bamboo:'
+oomp_word_list:
+- bank
+- computer
+- bamboo
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

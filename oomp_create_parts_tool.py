@@ -85,6 +85,30 @@ def load_parts(**kwargs):
     parts.append(part_details)
 
     
+    #laser cutter
+    part_details = {}
+    part_details["classification"] = "tool"
+    part_details["type"] = "laser_cutter"
+    part_details["size"] = ["1200_mm_width_900_mm_height"]
+    part_details["color"] = [""]
+    part_details["description_main"] = [""]
+    part_details["description_extra"] = [""]
+    part_details["manufacturer"] = "hpc_laser"
+    part_details["part_number"] = "1290"
+    parts.append(part_details)
+
+    # chiller
+    part_details = {}
+    part_details["classification"] = "tool"
+    part_details["type"] = "water_chiller"
+    part_details["size"] = ["420_mm_width_350_mm_height_500_mm_depth"]
+    part_details["color"] = [""]
+    part_details["description_main"] = [""]
+    part_details["description_extra"] = [""]
+    part_details["manufacturer"] = "hpc_laser"
+    part_details["part_number"] = "cw4000"
+    parts.append(part_details)
+
 
     
 

@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '15_10_21'
+description_main_capital: 15.10 21
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '15_10_21'
+description_only_numbers: '151021'
+description_only_numbers_short: 151k
+description_or_color: 151k
+description_or_color_upper: 151K
+directory: parts/oobb_part_tray_vertical_15_10_21
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_15_10_21/working
+id: oobb_part_tray_vertical_15_10_21
+id_no_class: part_tray_vertical_15_10_21
+id_no_size: '15_10_21'
+id_no_type: tray_vertical_15_10_21
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_15_10_21](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_15_10_21/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_15_10_21/working)<br>[Oobb
+    Part Tray Vertical 15 10 21](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_15_10_21/working)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_15_10_21](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_15_10_21/working)<br><br>'
+md5: a481af473b019a7806db9db72dd0522e
+md5_10: a481af473b
+md5_10_upper: A481AF473B
+md5_5: a481a
+md5_5_upper: A481A
+md5_6: a481af
+md5_6_alpha: 6f2r3
+md5_6_alpha_upper: 6F2R3
+md5_6_upper: A481AF
+name: Oobb Part Tray Vertical 15 10 21
+name_no_class: Part Tray Vertical 15 10 21
+name_no_size: 15 10 21
+name_no_size_short: 15 10 21
+name_no_type: Tray Vertical 15 10 21
+oomp_key: oomp_oobb_part_tray_vertical_15_10_21
+oomp_word: book watch tophat
+oomp_word_emoji: ':book: :watch: :tophat:'
+oomp_word_emoji_list:
+- ':book:'
+- ':watch:'
+- ':tophat:'
+oomp_word_list:
+- book
+- watch
+- tophat
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '07_07_60'
+description_main_capital: 07 07.60
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '07_07_60'
+description_only_numbers: '070760'
+description_only_numbers_short: 71k
+description_or_color: 71k
+description_or_color_upper: 71K
+directory: parts/oobb_part_tray_vertical_07_07_60
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_07_60/working
+id: oobb_part_tray_vertical_07_07_60
+id_no_class: part_tray_vertical_07_07_60
+id_no_size: '07_07_60'
+id_no_type: tray_vertical_07_07_60
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_07_07_60](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_07_60/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_07_60/working)<br>[Oobb
+    Part Tray Vertical 07 07 60](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_07_60/working)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_07_07_60](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_07_07_60/working)<br><br>'
+md5: 4200cbca3b557664a1aa8651cef6acdf
+md5_10: 4200cbca3b
+md5_10_upper: 4200CBCA3B
+md5_5: 4200c
+md5_5_upper: 4200C
+md5_6: 4200cb
+md5_6_alpha: 2kpmz
+md5_6_alpha_upper: 2KPMZ
+md5_6_upper: 4200CB
+name: Oobb Part Tray Vertical 07 07 60
+name_no_class: Part Tray Vertical 07 07 60
+name_no_size: 07 07 60
+name_no_size_short: 07 07 60
+name_no_type: Tray Vertical 07 07 60
+oomp_key: oomp_oobb_part_tray_vertical_07_07_60
+oomp_word: sheep bowtie grapes
+oomp_word_emoji: ':sheep: :bowtie: :grapes:'
+oomp_word_emoji_list:
+- ':sheep:'
+- ':bowtie:'
+- ':grapes:'
+oomp_word_list:
+- sheep
+- bowtie
+- grapes
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

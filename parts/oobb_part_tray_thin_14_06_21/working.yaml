@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '14_06_21'
+description_main_capital: 14 06.21
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '14_06_21'
+description_only_numbers: '140621'
+description_only_numbers_short: 141k
+description_or_color: 141k
+description_or_color_upper: 141K
+directory: parts/oobb_part_tray_thin_14_06_21
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_06_21/working
+id: oobb_part_tray_thin_14_06_21
+id_no_class: part_tray_thin_14_06_21
+id_no_size: '14_06_21'
+id_no_type: tray_thin_14_06_21
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_thin_14_06_21](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_06_21/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_06_21/working)<br>[Oobb
+    Part Tray Thin 14 06 21](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_06_21/working)<br><br>'
+markdown_short: '[oobb_part_tray_thin_14_06_21](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_06_21/working)<br><br>'
+md5: c47a3c9df820a7607c4cf40e81af0101
+md5_10: c47a3c9df8
+md5_10_upper: C47A3C9DF8
+md5_5: c47a3
+md5_5_upper: C47A3
+md5_6: c47a3c
+md5_6_alpha: 7nzgc
+md5_6_alpha_upper: 7NZGC
+md5_6_upper: C47A3C
+name: Oobb Part Tray Thin 14 06 21
+name_no_class: Part Tray Thin 14 06 21
+name_no_size: 14 06 21
+name_no_size_short: 14 06 21
+name_no_type: Tray Thin 14 06 21
+oomp_key: oomp_oobb_part_tray_thin_14_06_21
+oomp_word: cookie camera pig
+oomp_word_emoji: ':cookie: :camera: :pig:'
+oomp_word_emoji_list:
+- ':cookie:'
+- ':camera:'
+- ':pig:'
+oomp_word_list:
+- cookie
+- camera
+- pig
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_thin
+size_capital: Tray Thin
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_THIN
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

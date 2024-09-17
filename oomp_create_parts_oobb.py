@@ -38,6 +38,7 @@ def load_parts(**kwargs):
         things = pickle.load(infile)
 
     for part_id in things:
+        #print(part_id)
         part = things[part_id]
         size = part["type"]
         description_main = part_id.replace(f"oobb_{size}_","")

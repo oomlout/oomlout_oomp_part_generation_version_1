@@ -1,0 +1,85 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '13_13_15'
+description_main_capital: 13.13.15
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '13_13_15'
+description_only_numbers: '131315'
+description_only_numbers_short: 131k
+description_or_color: 131k
+description_or_color_upper: 131K
+directory: parts/oobb_part_tray_vertical_13_13_15
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_13_13_15/working
+id: oobb_part_tray_vertical_13_13_15
+id_no_class: part_tray_vertical_13_13_15
+id_no_size: '13_13_15'
+id_no_type: tray_vertical_13_13_15
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_13_13_15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_13_13_15/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_13_13_15/working)<br>[Oobb
+    Part Tray Vertical 13 13 15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_13_13_15/working)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_13_13_15](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_13_13_15/working)<br><br>'
+md5: 6a331fdce1b007fbc2fa733d4bd19482
+md5_10: 6a331fdce1
+md5_10_upper: 6A331FDCE1
+md5_5: 6a331
+md5_5_upper: 6A331
+md5_6: 6a331f
+md5_6_alpha: 456an
+md5_6_alpha_upper: 456AN
+md5_6_upper: 6A331F
+name: Oobb Part Tray Vertical 13 13 15
+name_no_class: Part Tray Vertical 13 13 15
+name_no_size: 13 13 15
+name_no_size_short: 13 13 15
+name_no_type: Tray Vertical 13 13 15
+oomp_key: oomp_oobb_part_tray_vertical_13_13_15
+oomp_word: palm_tree dog princess
+oomp_word_emoji: ':palm_tree: :dog: :princess:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':dog:'
+- ':princess:'
+oomp_word_list:
+- palm_tree
+- dog
+- princess
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART
