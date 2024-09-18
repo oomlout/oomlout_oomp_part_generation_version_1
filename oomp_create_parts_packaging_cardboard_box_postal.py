@@ -99,5 +99,22 @@ def load_parts(**kwargs):
     parts.append(part_details)    
 
 
+    # cardboard roll
+    #    300 mm width
+    
+    part_details = {}
+    part_details["classification"] = "packaging"
+    part_details["type"] = "cardboard_roll"
+    part_details["size"] = ["300_mm_width_75000_mm_length_3_5_mm_depth"]
+    part_details["color"] = ["kraft"]
+    part_details["description_main"] = ""
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "rajapack"
+    part_details["part_number"] = "cp300"
+    part_details["short_name"] = ""  
+    part_details["cost_per"] = "£23.10"    
+    part_details["link_purchase"] = ["https://www.rajapack.co.uk/protective-packaging/paper-packaging/corrugated-cardboard-rolls_PDT05562.html"]
+    parts.append(part_details)
+
     oomp.add_parts(parts, make_files=make_files)
     
