@@ -71,6 +71,8 @@ part_types.append("three_d_printer_filament")
 
 part_types.append("tool")
 
+part_types.append("wood_timber_cls")
+
 
 
 for type in part_types:

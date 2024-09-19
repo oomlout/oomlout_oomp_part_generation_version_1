@@ -53,6 +53,7 @@ if __name__ == "__main__":
     #filter = "paper"
     #filter = "three_d_printer"
     #filter = "tool"
+    #filter = "wood"
 
     #filter = "aluminium_extrusion"
     #filter = "self_tapping"
