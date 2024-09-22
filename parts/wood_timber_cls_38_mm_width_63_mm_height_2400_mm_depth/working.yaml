@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/wood_timber_cls_38_mm_width_63_mm_height_2400_mm_depth
 distributors: []
-filter: wood
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/wood_timber_cls_38_mm_width_63_mm_height_2400_mm_depth/working
 id: wood_timber_cls_38_mm_width_63_mm_height_2400_mm_depth
