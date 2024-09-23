@@ -37,22 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ro0_electronic_resistor_quarter_watt_through_hole_0_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm
 id: electronic_resistor_quarter_watt_through_hole_0_ohm
 id_no_class: resistor_quarter_watt_through_hole_0_ohm
 id_no_size: 0_ohm
 id_no_type: quarter_watt_through_hole_0_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_quarter_watt_through_hole_0_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm/working)<br>[ro0](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm/working)<br>[Electronic
-    Resistor Quarter Watt Through Hole 0 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_quarter_watt_through_hole_0_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm/working)<br><br>'
+markdown_full: '[electronic_resistor_quarter_watt_through_hole_0_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm)<br>[ro0](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm)<br>[Electronic
+    Resistor Quarter Watt Through Hole 0 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm)<br><br>'
+markdown_short: '[electronic_resistor_quarter_watt_through_hole_0_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm)<br><br>'
 md5: 796b38bb5ffedabe563f06214f387dd0
 md5_10: 796b38bb5f
 md5_10_upper: 796B38BB5F

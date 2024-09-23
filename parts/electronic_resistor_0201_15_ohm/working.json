@@ -48,8 +48,8 @@
     "id_no_type": "0201_15_ohm",
     "id_no_size": "15_ohm",
     "oomp_key": "oomp_electronic_resistor_0201_15_ohm",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15_ohm/working",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15_ohm/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15_ohm",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15_ohm",
     "directory": "parts/electronic_resistor_0201_15_ohm",
     "name": "Electronic Resistor 0201 15 Ohm",
     "name_no_class": "Resistor 0201 15 Ohm",
@@ -98,6 +98,6 @@
     "name_no_size_short": "15 Ohm",
     "description_or_color": "15",
     "description_or_color_upper": "15",
-    "markdown_full": "[electronic_resistor_0201_15_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15_ohm/working)<br>[ro150](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15_ohm/working)<br>[Electronic Resistor 0201 15 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15_ohm/working)<br><br>[Uniroyal - NQ01WMJ0150TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0150TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0150TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0150TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0150TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0150TEE)<br>",
-    "markdown_short": "[electronic_resistor_0201_15_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15_ohm/working)<br><br>[Uniroyal - NQ01WMJ0150TEE- not in jlc basic parts]()"
+    "markdown_full": "[electronic_resistor_0201_15_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15_ohm)<br>[ro150](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15_ohm)<br>[Electronic Resistor 0201 15 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15_ohm)<br><br>[Uniroyal - NQ01WMJ0150TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0150TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0150TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0150TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0150TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0150TEE)<br>",
+    "markdown_short": "[electronic_resistor_0201_15_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15_ohm)<br><br>[Uniroyal - NQ01WMJ0150TEE- not in jlc basic parts]()"
 }

@@ -37,13 +37,13 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r12o821_electronic_resistor_1206_820_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_820_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_820_ohm
 id: electronic_resistor_1206_820_ohm
 id_no_class: resistor_1206_820_ohm
 id_no_size: 820_ohm
 id_no_type: 1206_820_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_820_ohm/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_820_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -72,13 +72,13 @@ manufacturers:
         reason: yageo is a commonly cross referenced part number
         reason_short: available everywhere
     part_number: RC1206JR-07820RL
-markdown_full: '[electronic_resistor_1206_820_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_820_ohm/working)<br>[r12o821](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_820_ohm/working)<br>[Electronic
-    Resistor 1206 820 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_820_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_1206_820_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_820_ohm)<br>[r12o821](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_820_ohm)<br>[Electronic
+    Resistor 1206 820 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_820_ohm)<br><br>[Uniroyal
     - 1206W4J0821T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0821T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0821T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0821T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0821T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0821T5E)<br>[Uniroyal
     - 1206W4F8200T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=1206W4F8200T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4F8200T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4F8200T5E)[(N)  ](https://www.newark.com/search?st=1206W4F8200T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4F8200T5E)<br>[Yageo
     - RC1206JR-07820RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07820RL)
     [(L)  ](https://www.lcsc.com/search?q=RC1206JR-07820RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC1206JR-07820RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-07820RL)[(N)  ](https://www.newark.com/search?st=RC1206JR-07820RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-07820RL)<br>'
-markdown_short: '[electronic_resistor_1206_820_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_820_ohm/working)<br><br>[Uniroyal
+markdown_short: '[electronic_resistor_1206_820_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_820_ohm)<br><br>[Uniroyal
     - 1206W4J0821T5E- not in jlc basic parts]()[Uniroyal - 1206W4F8200T5E- jlc basic
     part]()[Yageo - RC1206JR-07820RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-07820RL)'
 md5: 77f11f33c0f7c8ea605a799733290bf7

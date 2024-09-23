@@ -37,22 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r6o0_electronic_resistor_0603_0_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_0_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_0_ohm
 id: electronic_resistor_0603_0_ohm
 id_no_class: resistor_0603_0_ohm
 id_no_size: 0_ohm
 id_no_type: 0603_0_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_0_ohm/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_0_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_0603_0_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_0_ohm/working)<br>[r6o0](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_0_ohm/working)<br>[Electronic
-    Resistor 0603 0 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_0_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_0603_0_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_0_ohm/working)<br><br>'
+markdown_full: '[electronic_resistor_0603_0_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_0_ohm)<br>[r6o0](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_0_ohm)<br>[Electronic
+    Resistor 0603 0 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_0_ohm)<br><br>'
+markdown_short: '[electronic_resistor_0603_0_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_0_ohm)<br><br>'
 md5: 447ffbbfbc7ca3afa4b7961c1bd86cc5
 md5_10: 447ffbbfbc
 md5_10_upper: 447FFBBFBC

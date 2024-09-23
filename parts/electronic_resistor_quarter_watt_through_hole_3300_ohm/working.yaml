@@ -37,22 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ro332_electronic_resistor_quarter_watt_through_hole_3300_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3300_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3300_ohm
 id: electronic_resistor_quarter_watt_through_hole_3300_ohm
 id_no_class: resistor_quarter_watt_through_hole_3300_ohm
 id_no_size: 3300_ohm
 id_no_type: quarter_watt_through_hole_3300_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3300_ohm/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3300_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_quarter_watt_through_hole_3300_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3300_ohm/working)<br>[ro332](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3300_ohm/working)<br>[Electronic
-    Resistor Quarter Watt Through Hole 3300 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3300_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_quarter_watt_through_hole_3300_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3300_ohm/working)<br><br>'
+markdown_full: '[electronic_resistor_quarter_watt_through_hole_3300_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3300_ohm)<br>[ro332](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3300_ohm)<br>[Electronic
+    Resistor Quarter Watt Through Hole 3300 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3300_ohm)<br><br>'
+markdown_short: '[electronic_resistor_quarter_watt_through_hole_3300_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3300_ohm)<br><br>'
 md5: bb6da470b1ccd507d830d71be560b84d
 md5_10: bb6da470b1
 md5_10_upper: BB6DA470B1

@@ -48,8 +48,8 @@
     "id_no_type": "0201_820_ohm",
     "id_no_size": "820_ohm",
     "oomp_key": "oomp_electronic_resistor_0201_820_ohm",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_820_ohm/working",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_820_ohm/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_820_ohm",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_820_ohm",
     "directory": "parts/electronic_resistor_0201_820_ohm",
     "name": "Electronic Resistor 0201 820 Ohm",
     "name_no_class": "Resistor 0201 820 Ohm",
@@ -98,6 +98,6 @@
     "name_no_size_short": "820 Ohm",
     "description_or_color": "820",
     "description_or_color_upper": "820",
-    "markdown_full": "[electronic_resistor_0201_820_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_820_ohm/working)<br>[ro821](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_820_ohm/working)<br>[Electronic Resistor 0201 820 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_820_ohm/working)<br><br>[Uniroyal - NQ01WMJ0821TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0821TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0821TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0821TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0821TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0821TEE)<br>",
-    "markdown_short": "[electronic_resistor_0201_820_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_820_ohm/working)<br><br>[Uniroyal - NQ01WMJ0821TEE- not in jlc basic parts]()"
+    "markdown_full": "[electronic_resistor_0201_820_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_820_ohm)<br>[ro821](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_820_ohm)<br>[Electronic Resistor 0201 820 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_820_ohm)<br><br>[Uniroyal - NQ01WMJ0821TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0821TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0821TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0821TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0821TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0821TEE)<br>",
+    "markdown_short": "[electronic_resistor_0201_820_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_820_ohm)<br><br>[Uniroyal - NQ01WMJ0821TEE- not in jlc basic parts]()"
 }

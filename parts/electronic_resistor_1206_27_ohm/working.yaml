@@ -37,13 +37,13 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r12o270_electronic_resistor_1206_27_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_27_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_27_ohm
 id: electronic_resistor_1206_27_ohm
 id_no_class: resistor_1206_27_ohm
 id_no_size: 27_ohm
 id_no_type: 1206_27_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_27_ohm/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_27_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -72,13 +72,13 @@ manufacturers:
         reason: yageo is a commonly cross referenced part number
         reason_short: available everywhere
     part_number: RC1206JR-0727RL
-markdown_full: '[electronic_resistor_1206_27_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_27_ohm/working)<br>[r12o270](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_27_ohm/working)<br>[Electronic
-    Resistor 1206 27 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_27_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_1206_27_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_27_ohm)<br>[r12o270](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_27_ohm)<br>[Electronic
+    Resistor 1206 27 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_27_ohm)<br><br>[Uniroyal
     - 1206W4J0270T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0270T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0270T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0270T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0270T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0270T5E)<br>[Uniroyal
     - 1206W4F027-1T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=1206W4F027-1T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4F027-1T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4F027-1T5E)[(N)  ](https://www.newark.com/search?st=1206W4F027-1T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4F027-1T5E)<br>[Yageo
     - RC1206JR-0727RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0727RL)
     [(L)  ](https://www.lcsc.com/search?q=RC1206JR-0727RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC1206JR-0727RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0727RL)[(N)  ](https://www.newark.com/search?st=RC1206JR-0727RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-0727RL)<br>'
-markdown_short: '[electronic_resistor_1206_27_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_27_ohm/working)<br><br>[Uniroyal
+markdown_short: '[electronic_resistor_1206_27_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_27_ohm)<br><br>[Uniroyal
     - 1206W4J0270T5E- not in jlc basic parts]()[Uniroyal - 1206W4F027-1T5E- jlc basic
     part]()[Yageo - RC1206JR-0727RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0727RL)'
 md5: e9296aab31fa1924c539ba3939b87a07

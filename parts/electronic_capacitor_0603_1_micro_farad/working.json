@@ -48,8 +48,8 @@
     "id_no_type": "0603_1_micro_farad",
     "id_no_size": "1_micro_farad",
     "oomp_key": "oomp_electronic_capacitor_0603_1_micro_farad",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_1_micro_farad/working",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_1_micro_farad/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_1_micro_farad",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_1_micro_farad",
     "directory": "parts/electronic_capacitor_0603_1_micro_farad",
     "name": "Electronic Capacitor 0603 1 Micro Farad",
     "name_no_class": "Capacitor 0603 1 Micro Farad",
@@ -91,6 +91,6 @@
     "name_no_size_short": "1uf Micro Farad",
     "description_or_color": "1uf",
     "description_or_color_upper": "1UF",
-    "markdown_full": "[electronic_capacitor_0603_1_micro_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_1_micro_farad/working)<br>[c6uf1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_1_micro_farad/working)<br>[Electronic Capacitor 0603 1 Micro Farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_1_micro_farad/working)<br><br>",
-    "markdown_short": "[electronic_capacitor_0603_1_micro_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_1_micro_farad/working)<br><br>"
+    "markdown_full": "[electronic_capacitor_0603_1_micro_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_1_micro_farad)<br>[c6uf1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_1_micro_farad)<br>[Electronic Capacitor 0603 1 Micro Farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_1_micro_farad)<br><br>",
+    "markdown_short": "[electronic_capacitor_0603_1_micro_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_1_micro_farad)<br><br>"
 }

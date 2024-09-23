@@ -46,8 +46,8 @@
     "id_no_type": "sot_223_linear_1117_2_5_volt",
     "id_no_size": "linear_1117_2_5_volt",
     "oomp_key": "oomp_electronic_pmic_sot_223_linear_1117_2_5_volt",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_2_5_volt/working",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_2_5_volt/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_2_5_volt",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_2_5_volt",
     "directory": "parts/electronic_pmic_sot_223_linear_1117_2_5_volt",
     "name": "Electronic Pmic Sot 223 Linear 1117 2 5 Volt",
     "name_no_class": "Pmic Sot 223 Linear 1117 2 5 Volt",
@@ -89,6 +89,6 @@
     "name_no_size_short": "Linear 1k1 2 5 Volt",
     "description_or_color": "L1k1",
     "description_or_color_upper": "L1K1",
-    "markdown_full": "[electronic_pmic_sot_223_linear_1117_2_5_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_2_5_volt/working)<br>[pms22311172d5v](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_2_5_volt/working)<br>[Electronic Pmic Sot 223 Linear 1117 2 5 Volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_2_5_volt/working)<br><br>",
-    "markdown_short": "[electronic_pmic_sot_223_linear_1117_2_5_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_2_5_volt/working)<br><br>"
+    "markdown_full": "[electronic_pmic_sot_223_linear_1117_2_5_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_2_5_volt)<br>[pms22311172d5v](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_2_5_volt)<br>[Electronic Pmic Sot 223 Linear 1117 2 5 Volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_2_5_volt)<br><br>",
+    "markdown_short": "[electronic_pmic_sot_223_linear_1117_2_5_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_2_5_volt)<br><br>"
 }

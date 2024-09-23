@@ -48,8 +48,8 @@
     "id_no_type": "m4_locking",
     "id_no_size": "locking",
     "oomp_key": "oomp_hardware_nut_m4_locking",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_locking/working",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_locking/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_locking",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_locking",
     "directory": "parts/hardware_nut_m4_locking",
     "name": "Hardware Nut M4 Locking",
     "name_no_class": "Nut M4 Locking",
@@ -87,6 +87,6 @@
     "name_no_size_short": "Locking",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_nut_m4_locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_locking/working)<br>[nu4](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_locking/working)<br>[Hardware Nut M4 Locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_locking/working)<br><br>",
-    "markdown_short": "[hardware_nut_m4_locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_locking/working)<br><br>"
+    "markdown_full": "[hardware_nut_m4_locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_locking)<br>[nu4](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_locking)<br>[Hardware Nut M4 Locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_locking)<br><br>",
+    "markdown_short": "[hardware_nut_m4_locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_locking)<br><br>"
 }

@@ -48,8 +48,8 @@
     "id_no_type": "m1",
     "id_no_size": "m1",
     "oomp_key": "oomp_hardware_washer_m1",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m1/working",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m1/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m1",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m1",
     "directory": "parts/hardware_washer_m1",
     "name": "Hardware Washer M1",
     "name_no_class": "Washer M1",
@@ -87,6 +87,6 @@
     "name_no_size_short": "M1",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_washer_m1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m1/working)<br>[w1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m1/working)<br>[Hardware Washer M1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m1/working)<br><br>",
-    "markdown_short": "[hardware_washer_m1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m1/working)<br><br>"
+    "markdown_full": "[hardware_washer_m1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m1)<br>[w1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m1)<br>[Hardware Washer M1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m1)<br><br>",
+    "markdown_short": "[hardware_washer_m1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m1)<br><br>"
 }

@@ -24,22 +24,22 @@ description_or_color: '6'
 description_or_color_upper: '6'
 directory: parts/electronic_header_2_5_mm_jst_xh_6_pin_surface_mount
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_surface_mount/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_surface_mount
 id: electronic_header_2_5_mm_jst_xh_6_pin_surface_mount
 id_no_class: header_2_5_mm_jst_xh_6_pin_surface_mount
 id_no_size: 6_pin_surface_mount
 id_no_type: 2_5_mm_jst_xh_6_pin_surface_mount
 kicad_reference: CONN
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_surface_mount/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_surface_mount
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_header_2_5_mm_jst_xh_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_surface_mount/working)<br>[hjxh6psm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_surface_mount/working)<br>[Electronic
-    Header 2 5 Mm Jst Xh 6 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_surface_mount/working)<br><br>'
-markdown_short: '[electronic_header_2_5_mm_jst_xh_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_surface_mount/working)<br><br>'
+markdown_full: '[electronic_header_2_5_mm_jst_xh_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_surface_mount)<br>[hjxh6psm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_surface_mount)<br>[Electronic
+    Header 2 5 Mm Jst Xh 6 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_surface_mount)<br><br>'
+markdown_short: '[electronic_header_2_5_mm_jst_xh_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_6_pin_surface_mount)<br><br>'
 md5: fcd2977b28118af11afb2aad3bcac589
 md5_10: fcd2977b28
 md5_10_upper: FCD2977B28

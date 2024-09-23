@@ -26,22 +26,22 @@ directory: parts/electronic_resistor_0402_680000_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_680000_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_680000_ohm
 id: electronic_resistor_0402_680000_ohm
 id_no_class: resistor_0402_680000_ohm
 id_no_size: 680000_ohm
 id_no_type: 0402_680000_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_680000_ohm/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_680000_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_0402_680000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_680000_ohm/working)<br>[r4o684](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_680000_ohm/working)<br>[Electronic
-    Resistor 0402 680000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_680000_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_0402_680000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_680000_ohm/working)<br><br>'
+markdown_full: '[electronic_resistor_0402_680000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_680000_ohm)<br>[r4o684](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_680000_ohm)<br>[Electronic
+    Resistor 0402 680000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_680000_ohm)<br><br>'
+markdown_short: '[electronic_resistor_0402_680000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_680000_ohm)<br><br>'
 md5: 62e0c062e1acb33b8b3b5a672b46700d
 md5_10: 62e0c062e1
 md5_10_upper: 62E0C062E1

@@ -26,22 +26,22 @@ directory: parts/electronic_resistor_0201_1000000_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_1000000_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_1000000_ohm
 id: electronic_resistor_0201_1000000_ohm
 id_no_class: resistor_0201_1000000_ohm
 id_no_size: 1000000_ohm
 id_no_type: 0201_1000000_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_1000000_ohm/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_1000000_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_0201_1000000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_1000000_ohm/working)<br>[ro105](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_1000000_ohm/working)<br>[Electronic
-    Resistor 0201 1000000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_1000000_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_0201_1000000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_1000000_ohm/working)<br><br>'
+markdown_full: '[electronic_resistor_0201_1000000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_1000000_ohm)<br>[ro105](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_1000000_ohm)<br>[Electronic
+    Resistor 0201 1000000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_1000000_ohm)<br><br>'
+markdown_short: '[electronic_resistor_0201_1000000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_1000000_ohm)<br><br>'
 md5: bd0164c25fa7070a4c56c0c88b152d73
 md5_10: bd0164c25f
 md5_10_upper: BD0164C25F

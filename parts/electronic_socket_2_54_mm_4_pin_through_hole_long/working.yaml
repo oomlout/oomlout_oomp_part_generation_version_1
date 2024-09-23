@@ -24,22 +24,22 @@ description_or_color: '4'
 description_or_color_upper: '4'
 directory: parts/electronic_socket_2_54_mm_4_pin_through_hole_long
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long
 id: electronic_socket_2_54_mm_4_pin_through_hole_long
 id_no_class: socket_2_54_mm_4_pin_through_hole_long
 id_no_size: 4_pin_through_hole_long
 id_no_type: 2_54_mm_4_pin_through_hole_long
 kicad_reference: CONN
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_socket_2_54_mm_4_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long/working)<br>[sci14pthl](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long/working)<br>[Electronic
-    Socket 2 54 Mm 4 Pin Through Hole Long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long/working)<br><br>'
-markdown_short: '[electronic_socket_2_54_mm_4_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long/working)<br><br>'
+markdown_full: '[electronic_socket_2_54_mm_4_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long)<br>[sci14pthl](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long)<br>[Electronic
+    Socket 2 54 Mm 4 Pin Through Hole Long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long)<br><br>'
+markdown_short: '[electronic_socket_2_54_mm_4_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole_long)<br><br>'
 md5: c1835e2fbb1816dccea731b19e50eaf6
 md5_10: c1835e2fbb
 md5_10_upper: C1835E2FBB

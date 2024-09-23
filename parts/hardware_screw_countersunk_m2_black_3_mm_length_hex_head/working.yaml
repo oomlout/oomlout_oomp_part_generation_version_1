@@ -26,22 +26,22 @@ directory: parts/hardware_screw_countersunk_m2_black_3_mm_length_hex_head
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m2_black_3_mm_length_hex_head/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m2_black_3_mm_length_hex_head
 id: hardware_screw_countersunk_m2_black_3_mm_length_hex_head
 id_no_class: screw_countersunk_m2_black_3_mm_length_hex_head
 id_no_size: black_3_mm_length_hex_head
 id_no_type: m2_black_3_mm_length_hex_head
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m2_black_3_mm_length_hex_head/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m2_black_3_mm_length_hex_head
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_screw_countersunk_m2_black_3_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m2_black_3_mm_length_hex_head/working)<br>[cs2b3h](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m2_black_3_mm_length_hex_head/working)<br>[Hardware
-    Screw Countersunk M2 Black 3 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m2_black_3_mm_length_hex_head/working)<br><br>'
-markdown_short: '[hardware_screw_countersunk_m2_black_3_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m2_black_3_mm_length_hex_head/working)<br><br>'
+markdown_full: '[hardware_screw_countersunk_m2_black_3_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m2_black_3_mm_length_hex_head)<br>[cs2b3h](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m2_black_3_mm_length_hex_head)<br>[Hardware
+    Screw Countersunk M2 Black 3 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m2_black_3_mm_length_hex_head)<br><br>'
+markdown_short: '[hardware_screw_countersunk_m2_black_3_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m2_black_3_mm_length_hex_head)<br><br>'
 md5: a4f4e8a9cbb74d9c9b9d4b2b42879c21
 md5_10: a4f4e8a9cb
 md5_10_upper: A4F4E8A9CB

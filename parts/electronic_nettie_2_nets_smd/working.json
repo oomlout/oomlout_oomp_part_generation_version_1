@@ -48,8 +48,8 @@
     "id_no_type": "2_nets_smd",
     "id_no_size": "smd",
     "oomp_key": "oomp_electronic_nettie_2_nets_smd",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd/working",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd",
     "directory": "parts/electronic_nettie_2_nets_smd",
     "name": "Electronic Nettie 2 Nets Smd",
     "name_no_class": "Nettie 2 Nets Smd",
@@ -87,6 +87,6 @@
     "name_no_size_short": "Smd",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[electronic_nettie_2_nets_smd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd/working)<br>[nt2](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd/working)<br>[Electronic Nettie 2 Nets Smd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd/working)<br><br>",
-    "markdown_short": "[electronic_nettie_2_nets_smd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd/working)<br><br>"
+    "markdown_full": "[electronic_nettie_2_nets_smd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd)<br>[nt2](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd)<br>[Electronic Nettie 2 Nets Smd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd)<br><br>",
+    "markdown_short": "[electronic_nettie_2_nets_smd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_smd)<br><br>"
 }

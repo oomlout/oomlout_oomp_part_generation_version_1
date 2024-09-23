@@ -48,8 +48,8 @@
     "id_no_type": "0603_100000_ohm",
     "id_no_size": "100000_ohm",
     "oomp_key": "oomp_electronic_resistor_0603_100000_ohm",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_100000_ohm/working",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_100000_ohm/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_100000_ohm",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_100000_ohm",
     "directory": "parts/electronic_resistor_0603_100000_ohm",
     "name": "Electronic Resistor 0603 100000 Ohm",
     "name_no_class": "Resistor 0603 100000 Ohm",
@@ -91,6 +91,6 @@
     "name_no_size_short": "100k Ohm",
     "description_or_color": "100k",
     "description_or_color_upper": "100K",
-    "markdown_full": "[electronic_resistor_0603_100000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_100000_ohm/working)<br>[r6o104](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_100000_ohm/working)<br>[Electronic Resistor 0603 100000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_100000_ohm/working)<br><br>",
-    "markdown_short": "[electronic_resistor_0603_100000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_100000_ohm/working)<br><br>"
+    "markdown_full": "[electronic_resistor_0603_100000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_100000_ohm)<br>[r6o104](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_100000_ohm)<br>[Electronic Resistor 0603 100000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_100000_ohm)<br><br>",
+    "markdown_short": "[electronic_resistor_0603_100000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_100000_ohm)<br><br>"
 }

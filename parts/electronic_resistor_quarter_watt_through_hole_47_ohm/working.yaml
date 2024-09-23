@@ -37,22 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ro470_electronic_resistor_quarter_watt_through_hole_47_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47_ohm
 id: electronic_resistor_quarter_watt_through_hole_47_ohm
 id_no_class: resistor_quarter_watt_through_hole_47_ohm
 id_no_size: 47_ohm
 id_no_type: quarter_watt_through_hole_47_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47_ohm/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_quarter_watt_through_hole_47_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47_ohm/working)<br>[ro470](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47_ohm/working)<br>[Electronic
-    Resistor Quarter Watt Through Hole 47 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_quarter_watt_through_hole_47_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47_ohm/working)<br><br>'
+markdown_full: '[electronic_resistor_quarter_watt_through_hole_47_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47_ohm)<br>[ro470](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47_ohm)<br>[Electronic
+    Resistor Quarter Watt Through Hole 47 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47_ohm)<br><br>'
+markdown_short: '[electronic_resistor_quarter_watt_through_hole_47_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47_ohm)<br><br>'
 md5: 96a2e95af6ff8b88ef51c63c8738ba58
 md5_10: 96a2e95af6
 md5_10_upper: 96A2E95AF6

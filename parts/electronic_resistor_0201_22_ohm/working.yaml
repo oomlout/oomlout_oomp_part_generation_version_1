@@ -26,13 +26,13 @@ directory: parts/electronic_resistor_0201_22_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_22_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_22_ohm
 id: electronic_resistor_0201_22_ohm
 id_no_class: resistor_0201_22_ohm
 id_no_size: 22_ohm
 id_no_type: 0201_22_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_22_ohm/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_22_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -47,10 +47,10 @@ manufacturers:
             and they are the same price
         reason_short: not in jlc basic parts
     part_number: NQ01WMJ0220TEE
-markdown_full: '[electronic_resistor_0201_22_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_22_ohm/working)<br>[ro220](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_22_ohm/working)<br>[Electronic
-    Resistor 0201 22 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_22_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_0201_22_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_22_ohm)<br>[ro220](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_22_ohm)<br>[Electronic
+    Resistor 0201 22 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_22_ohm)<br><br>[Uniroyal
     - NQ01WMJ0220TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0220TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0220TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0220TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0220TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0220TEE)<br>'
-markdown_short: '[electronic_resistor_0201_22_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_22_ohm/working)<br><br>[Uniroyal
+markdown_short: '[electronic_resistor_0201_22_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_22_ohm)<br><br>[Uniroyal
     - NQ01WMJ0220TEE- not in jlc basic parts]()'
 md5: 7a12ec4ecfcb8ec3544253851f5681f0
 md5_10: 7a12ec4ecf

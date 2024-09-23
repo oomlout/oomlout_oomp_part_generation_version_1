@@ -48,8 +48,8 @@
     "id_no_type": "m6_coupling",
     "id_no_size": "coupling",
     "oomp_key": "oomp_hardware_nut_m6_coupling",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling/working",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling",
     "directory": "parts/hardware_nut_m6_coupling",
     "name": "Hardware Nut M6 Coupling",
     "name_no_class": "Nut M6 Coupling",
@@ -87,6 +87,6 @@
     "name_no_size_short": "Coupling",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_nut_m6_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling/working)<br>[nu6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling/working)<br>[Hardware Nut M6 Coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling/working)<br><br>",
-    "markdown_short": "[hardware_nut_m6_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling/working)<br><br>"
+    "markdown_full": "[hardware_nut_m6_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling)<br>[nu6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling)<br>[Hardware Nut M6 Coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling)<br><br>",
+    "markdown_short": "[hardware_nut_m6_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling)<br><br>"
 }

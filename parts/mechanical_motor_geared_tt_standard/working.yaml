@@ -24,21 +24,21 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/mechanical_motor_geared_tt_standard
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_tt_standard/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_tt_standard
 id: mechanical_motor_geared_tt_standard
 id_no_class: motor_geared_tt_standard
 id_no_size: standard
 id_no_type: tt_standard
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_tt_standard/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_tt_standard
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[mechanical_motor_geared_tt_standard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_tt_standard/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_tt_standard/working)<br>[Mechanical
-    Motor Geared Tt Standard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_tt_standard/working)<br><br>'
-markdown_short: '[mechanical_motor_geared_tt_standard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_tt_standard/working)<br><br>'
+markdown_full: '[mechanical_motor_geared_tt_standard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_tt_standard)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_tt_standard)<br>[Mechanical
+    Motor Geared Tt Standard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_tt_standard)<br><br>'
+markdown_short: '[mechanical_motor_geared_tt_standard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_tt_standard)<br><br>'
 md5: 7fb72037bc93854fd08a840457f618ce
 md5_10: 7fb72037bc
 md5_10_upper: 7FB72037BC

@@ -35,22 +35,22 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_mh3_electronic_mounting_hole_m3
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_mh3_electronic_mounting_hole_m3
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3
 id: electronic_mounting_hole_m3
 id_no_class: mounting_hole_m3
 id_no_size: m3
 id_no_type: m3
 kicad_reference: H
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3/working)<br>[mh3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3/working)<br>[Electronic
-    Mounting Hole M3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3/working)<br><br>'
-markdown_short: '[electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3/working)<br><br>'
+markdown_full: '[electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3)<br>[mh3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3)<br>[Electronic
+    Mounting Hole M3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3)<br><br>'
+markdown_short: '[electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3)<br><br>'
 md5: 872f01e756948c570b070f1966ea2f26
 md5_10: 872f01e756
 md5_10_upper: 872F01E756

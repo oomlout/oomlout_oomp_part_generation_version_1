@@ -26,21 +26,21 @@ directory: parts/computer_power_supply_microsoft_surface_standalone_microsoft_mo
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625
 id: computer_power_supply_microsoft_surface_standalone_microsoft_model_1625
 id_no_class: power_supply_microsoft_surface_standalone_microsoft_model_1625
 id_no_size: standalone_microsoft_model_1625
 id_no_type: microsoft_surface_standalone_microsoft_model_1625
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625
 manufacturer: microsoft
 manufacturer_capital: Microsoft
 manufacturer_first_letter: m
 manufacturer_first_letter_upper: M
 manufacturer_upper: MICROSOFT
 manufacturers: []
-markdown_full: '[computer_power_supply_microsoft_surface_standalone_microsoft_model_1625](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625/working)<br>[Computer
-    Power Supply Microsoft Surface Standalone Microsoft Model 1625](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625/working)<br><br>'
-markdown_short: '[computer_power_supply_microsoft_surface_standalone_microsoft_model_1625](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625/working)<br><br>'
+markdown_full: '[computer_power_supply_microsoft_surface_standalone_microsoft_model_1625](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625)<br>[Computer
+    Power Supply Microsoft Surface Standalone Microsoft Model 1625](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625)<br><br>'
+markdown_short: '[computer_power_supply_microsoft_surface_standalone_microsoft_model_1625](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625)<br><br>'
 md5: f4a0c426ccc024e5947a84ad69c5dcd1
 md5_10: f4a0c426cc
 md5_10_upper: F4A0C426CC

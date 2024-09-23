@@ -216,7 +216,7 @@ def add_part(**kwargs):
         kwargs["id_no_size"] = id_no_size
 
         kwargs["oomp_key"] = f'oomp_{id}'
-        github_link = f"https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/{id}/working" 
+        github_link = f"https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/{id}" 
         kwargs["github_link"] = github_link
         kwargs["link_main"] = github_link
 

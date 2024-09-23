@@ -26,13 +26,13 @@ directory: parts/electronic_resistor_0201_680_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_680_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_680_ohm
 id: electronic_resistor_0201_680_ohm
 id_no_class: resistor_0201_680_ohm
 id_no_size: 680_ohm
 id_no_type: 0201_680_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_680_ohm/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_680_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -47,10 +47,10 @@ manufacturers:
             and they are the same price
         reason_short: not in jlc basic parts
     part_number: NQ01WMJ0681TEE
-markdown_full: '[electronic_resistor_0201_680_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_680_ohm/working)<br>[ro681](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_680_ohm/working)<br>[Electronic
-    Resistor 0201 680 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_680_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_0201_680_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_680_ohm)<br>[ro681](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_680_ohm)<br>[Electronic
+    Resistor 0201 680 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_680_ohm)<br><br>[Uniroyal
     - NQ01WMJ0681TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0681TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0681TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0681TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0681TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0681TEE)<br>'
-markdown_short: '[electronic_resistor_0201_680_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_680_ohm/working)<br><br>[Uniroyal
+markdown_short: '[electronic_resistor_0201_680_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_680_ohm)<br><br>[Uniroyal
     - NQ01WMJ0681TEE- not in jlc basic parts]()'
 md5: 373d945785c04c3622aa474d1db3d635
 md5_10: 373d945785

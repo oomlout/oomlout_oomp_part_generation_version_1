@@ -26,22 +26,22 @@ directory: parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head
 id: hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head
 id_no_class: screw_machine_screw_m6_8_mm_length_pozidrive_head
 id_no_size: 8_mm_length_pozidrive_head
 id_no_type: m6_8_mm_length_pozidrive_head
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head/working)<br>[68pz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head/working)<br>[Hardware
-    Screw Machine Screw M6 8 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head/working)<br><br>'
-markdown_short: '[hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head/working)<br><br>'
+markdown_full: '[hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head)<br>[68pz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head)<br>[Hardware
+    Screw Machine Screw M6 8 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head)<br><br>'
+markdown_short: '[hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m6_8_mm_length_pozidrive_head)<br><br>'
 md5: efbb96addd2a4f9129316306086dfb28
 md5_10: efbb96addd
 md5_10_upper: EFBB96ADDD

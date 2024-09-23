@@ -24,22 +24,22 @@ description_or_color: '1'
 description_or_color_upper: '1'
 directory: parts/electronic_header_2_54_mm_1_pin_surface_mount
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount
 id: electronic_header_2_54_mm_1_pin_surface_mount
 id_no_class: header_2_54_mm_1_pin_surface_mount
 id_no_size: 1_pin_surface_mount
 id_no_type: 2_54_mm_1_pin_surface_mount
 kicad_reference: CONN
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_header_2_54_mm_1_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount/working)<br>[hi11psm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount/working)<br>[Electronic
-    Header 2 54 Mm 1 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount/working)<br><br>'
-markdown_short: '[electronic_header_2_54_mm_1_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount/working)<br><br>'
+markdown_full: '[electronic_header_2_54_mm_1_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount)<br>[hi11psm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount)<br>[Electronic
+    Header 2 54 Mm 1 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount)<br><br>'
+markdown_short: '[electronic_header_2_54_mm_1_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount)<br><br>'
 md5: eff24b1b80fbe825d85350583460b1cc
 md5_10: eff24b1b80
 md5_10_upper: EFF24B1B80

@@ -24,22 +24,22 @@ description_or_color: '3'
 description_or_color_upper: '3'
 directory: parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole
 id: electronic_header_2_5_mm_jst_xh_3_pin_through_hole
 id_no_class: header_2_5_mm_jst_xh_3_pin_through_hole
 id_no_size: 3_pin_through_hole
 id_no_type: 2_5_mm_jst_xh_3_pin_through_hole
 kicad_reference: CONN
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_header_2_5_mm_jst_xh_3_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole/working)<br>[hjxh3pth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole/working)<br>[Electronic
-    Header 2 5 Mm Jst Xh 3 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole/working)<br><br>'
-markdown_short: '[electronic_header_2_5_mm_jst_xh_3_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole/working)<br><br>'
+markdown_full: '[electronic_header_2_5_mm_jst_xh_3_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole)<br>[hjxh3pth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole)<br>[Electronic
+    Header 2 5 Mm Jst Xh 3 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole)<br><br>'
+markdown_short: '[electronic_header_2_5_mm_jst_xh_3_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_through_hole)<br><br>'
 md5: ab6c71ff1bb308d3f3d7c616a87cc1c0
 md5_10: ab6c71ff1b
 md5_10_upper: AB6C71FF1B

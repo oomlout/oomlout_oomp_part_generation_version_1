@@ -35,21 +35,21 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_pms22311173d3v_electronic_pmic_sot_223_linear_1117_3_3_volt
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_pms22311173d3v_electronic_pmic_sot_223_linear_1117_3_3_volt
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt
 id: electronic_pmic_sot_223_linear_1117_3_3_volt
 id_no_class: pmic_sot_223_linear_1117_3_3_volt
 id_no_size: linear_1117_3_3_volt
 id_no_type: sot_223_linear_1117_3_3_volt
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_pmic_sot_223_linear_1117_3_3_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt/working)<br>[pms22311173d3v](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt/working)<br>[Electronic
-    Pmic Sot 223 Linear 1117 3 3 Volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt/working)<br><br>'
-markdown_short: '[electronic_pmic_sot_223_linear_1117_3_3_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt/working)<br><br>'
+markdown_full: '[electronic_pmic_sot_223_linear_1117_3_3_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt)<br>[pms22311173d3v](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt)<br>[Electronic
+    Pmic Sot 223 Linear 1117 3 3 Volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt)<br><br>'
+markdown_short: '[electronic_pmic_sot_223_linear_1117_3_3_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt)<br><br>'
 md5: 24ed557c93e5cb4d939bb45cf16d2762
 md5_10: 24ed557c93
 md5_10_upper: 24ED557C93

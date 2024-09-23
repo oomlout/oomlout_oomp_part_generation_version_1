@@ -46,8 +46,8 @@
     "id_no_type": "sot_223_linear_1117_adj",
     "id_no_size": "linear_1117_adj",
     "oomp_key": "oomp_electronic_pmic_sot_223_linear_1117_adj",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj",
     "directory": "parts/electronic_pmic_sot_223_linear_1117_adj",
     "name": "Electronic Pmic Sot 223 Linear 1117 Adj",
     "name_no_class": "Pmic Sot 223 Linear 1117 Adj",
@@ -89,6 +89,6 @@
     "name_no_size_short": "Linear 1k1 Adj",
     "description_or_color": "L1k1",
     "description_or_color_upper": "L1K1",
-    "markdown_full": "[electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br>[pms2231117](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br>[Electronic Pmic Sot 223 Linear 1117 Adj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br><br>",
-    "markdown_short": "[electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj/working)<br><br>"
+    "markdown_full": "[electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj)<br>[pms2231117](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj)<br>[Electronic Pmic Sot 223 Linear 1117 Adj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj)<br><br>",
+    "markdown_short": "[electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj)<br><br>"
 }

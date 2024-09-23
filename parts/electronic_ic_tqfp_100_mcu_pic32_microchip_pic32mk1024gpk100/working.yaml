@@ -35,21 +35,21 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_imcup32mk1024_electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_imcup32mk1024_electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100
 id: electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100
 id_no_class: ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100
 id_no_size: mcu_pic32_microchip_pic32mk1024gpk100
 id_no_type: tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100/working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100
 manufacturer: microchip
 manufacturer_capital: Microchip
 manufacturer_first_letter: m
 manufacturer_first_letter_upper: M
 manufacturer_upper: MICROCHIP
 manufacturers: []
-markdown_full: '[electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100/working)<br>[imcup32mk1024](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100/working)<br>[Electronic
-    Ic Tqfp 100 Mcu Pic32 Microchip Pic32Mk1024Gpk100](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100/working)<br><br>'
-markdown_short: '[electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100/working)<br><br>'
+markdown_full: '[electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100)<br>[imcup32mk1024](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100)<br>[Electronic
+    Ic Tqfp 100 Mcu Pic32 Microchip Pic32Mk1024Gpk100](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100)<br><br>'
+markdown_short: '[electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100)<br><br>'
 md5: 108c8d6957bff38fd25e145f05f433fc
 md5_10: 108c8d6957
 md5_10_upper: 108C8D6957

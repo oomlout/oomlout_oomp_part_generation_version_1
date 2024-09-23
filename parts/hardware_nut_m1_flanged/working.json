@@ -48,8 +48,8 @@
     "id_no_type": "m1_flanged",
     "id_no_size": "flanged",
     "oomp_key": "oomp_hardware_nut_m1_flanged",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_flanged/working",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_flanged/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_flanged",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_flanged",
     "directory": "parts/hardware_nut_m1_flanged",
     "name": "Hardware Nut M1 Flanged",
     "name_no_class": "Nut M1 Flanged",
@@ -87,6 +87,6 @@
     "name_no_size_short": "Flanged",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_nut_m1_flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_flanged/working)<br>[nu1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_flanged/working)<br>[Hardware Nut M1 Flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_flanged/working)<br><br>",
-    "markdown_short": "[hardware_nut_m1_flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_flanged/working)<br><br>"
+    "markdown_full": "[hardware_nut_m1_flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_flanged)<br>[nu1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_flanged)<br>[Hardware Nut M1 Flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_flanged)<br><br>",
+    "markdown_short": "[hardware_nut_m1_flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_flanged)<br><br>"
 }
