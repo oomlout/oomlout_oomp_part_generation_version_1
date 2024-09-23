@@ -26,21 +26,22 @@ directory: parts/hardware_screw_machine_screw_m2_10_mm_length_pozidrive_head
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m2_10_mm_length_pozidrive_head/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m2_10_mm_length_pozidrive_head/working
 id: hardware_screw_machine_screw_m2_10_mm_length_pozidrive_head
 id_no_class: screw_machine_screw_m2_10_mm_length_pozidrive_head
 id_no_size: 10_mm_length_pozidrive_head
 id_no_type: m2_10_mm_length_pozidrive_head
 kicad_reference: ''
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m2_10_mm_length_pozidrive_head/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_screw_machine_screw_m2_10_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m2_10_mm_length_pozidrive_head/working)<br>[210pz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m2_10_mm_length_pozidrive_head/working)<br>[Hardware
-    Screw Machine Screw M2 10 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m2_10_mm_length_pozidrive_head/working)<br><br>'
-markdown_short: '[hardware_screw_machine_screw_m2_10_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m2_10_mm_length_pozidrive_head/working)<br><br>'
+markdown_full: '[hardware_screw_machine_screw_m2_10_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m2_10_mm_length_pozidrive_head/working)<br>[210pz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m2_10_mm_length_pozidrive_head/working)<br>[Hardware
+    Screw Machine Screw M2 10 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m2_10_mm_length_pozidrive_head/working)<br><br>'
+markdown_short: '[hardware_screw_machine_screw_m2_10_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m2_10_mm_length_pozidrive_head/working)<br><br>'
 md5: 49ddf0b103f597aa619a827184803d6f
 md5_10: 49ddf0b103
 md5_10_upper: 49DDF0B103

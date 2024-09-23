@@ -24,20 +24,21 @@ description_or_color: 50k
 description_or_color_upper: 50K
 directory: parts/oobb_part_holder_05_03_24__motor_servo_standard_01_bottom
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_24__motor_servo_standard_01_bottom/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_24__motor_servo_standard_01_bottom/working
 id: oobb_part_holder_05_03_24__motor_servo_standard_01_bottom
 id_no_class: part_holder_05_03_24__motor_servo_standard_01_bottom
 id_no_size: 05_03_24__motor_servo_standard_01_bottom
 id_no_type: holder_05_03_24__motor_servo_standard_01_bottom
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_24__motor_servo_standard_01_bottom/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_holder_05_03_24__motor_servo_standard_01_bottom](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_24__motor_servo_standard_01_bottom/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_24__motor_servo_standard_01_bottom/working)<br>[Oobb
-    Part Holder 05 03 24  Motor Servo Standard 01 Bottom](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_24__motor_servo_standard_01_bottom/working)<br><br>'
-markdown_short: '[oobb_part_holder_05_03_24__motor_servo_standard_01_bottom](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_24__motor_servo_standard_01_bottom/working)<br><br>'
+markdown_full: '[oobb_part_holder_05_03_24__motor_servo_standard_01_bottom](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_24__motor_servo_standard_01_bottom/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_24__motor_servo_standard_01_bottom/working)<br>[Oobb
+    Part Holder 05 03 24  Motor Servo Standard 01 Bottom](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_24__motor_servo_standard_01_bottom/working)<br><br>'
+markdown_short: '[oobb_part_holder_05_03_24__motor_servo_standard_01_bottom](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_24__motor_servo_standard_01_bottom/working)<br><br>'
 md5: 46945ea229cf5448ccd2d67dfa268a44
 md5_10: 46945ea229
 md5_10_upper: 46945EA229

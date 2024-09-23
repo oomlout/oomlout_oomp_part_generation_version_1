@@ -37,21 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ro154_electronic_resistor_quarter_watt_through_hole_150000_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_150000_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_150000_ohm/working
 id: electronic_resistor_quarter_watt_through_hole_150000_ohm
 id_no_class: resistor_quarter_watt_through_hole_150000_ohm
 id_no_size: 150000_ohm
 id_no_type: quarter_watt_through_hole_150000_ohm
 kicad_reference: R
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_150000_ohm/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_quarter_watt_through_hole_150000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_150000_ohm/working)<br>[ro154](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_150000_ohm/working)<br>[Electronic
-    Resistor Quarter Watt Through Hole 150000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_150000_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_quarter_watt_through_hole_150000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_150000_ohm/working)<br><br>'
+markdown_full: '[electronic_resistor_quarter_watt_through_hole_150000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_150000_ohm/working)<br>[ro154](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_150000_ohm/working)<br>[Electronic
+    Resistor Quarter Watt Through Hole 150000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_150000_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_quarter_watt_through_hole_150000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_150000_ohm/working)<br><br>'
 md5: f6c67548a04fd6b96f2a3617fc1c7185
 md5_10: f6c67548a0
 md5_10_upper: F6C67548A0

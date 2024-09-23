@@ -24,20 +24,21 @@ description_or_color: '35'
 description_or_color_upper: '35'
 directory: parts/oobb_part_shaft_3d5__washer
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5__washer/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__washer/working
 id: oobb_part_shaft_3d5__washer
 id_no_class: part_shaft_3d5__washer
 id_no_size: 3d5__washer
 id_no_type: shaft_3d5__washer
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__washer/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_shaft_3d5__washer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5__washer/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5__washer/working)<br>[Oobb
-    Part Shaft 3D5  Washer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5__washer/working)<br><br>'
-markdown_short: '[oobb_part_shaft_3d5__washer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5__washer/working)<br><br>'
+markdown_full: '[oobb_part_shaft_3d5__washer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__washer/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__washer/working)<br>[Oobb
+    Part Shaft 3D5  Washer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__washer/working)<br><br>'
+markdown_short: '[oobb_part_shaft_3d5__washer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__washer/working)<br><br>'
 md5: 93f35a4501d8a55135babbf7b7a43601
 md5_10: 93f35a4501
 md5_10_upper: 93F35A4501

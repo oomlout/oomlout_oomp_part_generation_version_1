@@ -24,21 +24,22 @@ description_or_color: B16
 description_or_color_upper: B16
 directory: parts/electronic_crimp_housing_2_54_mm_black_16_pin_dupont
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_16_pin_dupont/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_16_pin_dupont/working
 id: electronic_crimp_housing_2_54_mm_black_16_pin_dupont
 id_no_class: crimp_housing_2_54_mm_black_16_pin_dupont
 id_no_size: black_16_pin_dupont
 id_no_type: 2_54_mm_black_16_pin_dupont
 kicad_reference: CRHO
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_16_pin_dupont/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_crimp_housing_2_54_mm_black_16_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_16_pin_dupont/working)<br>[chi1b16pd](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_16_pin_dupont/working)<br>[Electronic
-    Crimp Housing 2 54 Mm Black 16 Pin Dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_16_pin_dupont/working)<br><br>'
-markdown_short: '[electronic_crimp_housing_2_54_mm_black_16_pin_dupont](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_16_pin_dupont/working)<br><br>'
+markdown_full: '[electronic_crimp_housing_2_54_mm_black_16_pin_dupont](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_16_pin_dupont/working)<br>[chi1b16pd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_16_pin_dupont/working)<br>[Electronic
+    Crimp Housing 2 54 Mm Black 16 Pin Dupont](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_16_pin_dupont/working)<br><br>'
+markdown_short: '[electronic_crimp_housing_2_54_mm_black_16_pin_dupont](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_16_pin_dupont/working)<br><br>'
 md5: 04f762b35603870a5b021686ab39a183
 md5_10: 04f762b356
 md5_10_upper: 04F762B356

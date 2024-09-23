@@ -24,20 +24,21 @@ description_or_color: 2M4
 description_or_color_upper: 2M4
 directory: parts/oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion/working
 id: oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion
 id_no_class: part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion
 id_no_size: 24_10d2_696__bearing_twenty_twenty_aluminium_extrusion
 id_no_type: wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion/working)<br>[Oobb
-    Part Wheel 24 10D2 696  Bearing Twenty Twenty Aluminium Extrusion](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion/working)<br><br>'
-markdown_short: '[oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion/working)<br><br>'
+markdown_full: '[oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion/working)<br>[Oobb
+    Part Wheel 24 10D2 696  Bearing Twenty Twenty Aluminium Extrusion](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion/working)<br><br>'
+markdown_short: '[oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion/working)<br><br>'
 md5: dc13d349eab6d6594a8015f2f9c8db1d
 md5_10: dc13d349ea
 md5_10_upper: DC13D349EA

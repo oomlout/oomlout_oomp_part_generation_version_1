@@ -50,7 +50,8 @@
     "id_no_type": "low_quality_minute",
     "id_no_size": "minute",
     "oomp_key": "oomp_three_d_printer_printing_low_quality_minute",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printing_low_quality_minute/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printing_low_quality_minute/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printing_low_quality_minute/working",
     "directory": "parts/three_d_printer_printing_low_quality_minute",
     "name": "Three D Printer Printing Low Quality Minute",
     "name_no_class": "Printing Low Quality Minute",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Minute",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[three_d_printer_printing_low_quality_minute](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printing_low_quality_minute/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printing_low_quality_minute/working)<br>[Three D Printer Printing Low Quality Minute](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printing_low_quality_minute/working)<br><br>",
-    "markdown_short": "[three_d_printer_printing_low_quality_minute](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printing_low_quality_minute/working)<br><br>"
+    "markdown_full": "[three_d_printer_printing_low_quality_minute](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printing_low_quality_minute/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printing_low_quality_minute/working)<br>[Three D Printer Printing Low Quality Minute](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printing_low_quality_minute/working)<br><br>",
+    "markdown_short": "[three_d_printer_printing_low_quality_minute](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printing_low_quality_minute/working)<br><br>"
 }

@@ -24,20 +24,21 @@ description_or_color: 310k
 description_or_color_upper: 310K
 directory: parts/oobb_part_wheel_03_09_606__no_tire
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_03_09_606__no_tire/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_03_09_606__no_tire/working
 id: oobb_part_wheel_03_09_606__no_tire
 id_no_class: part_wheel_03_09_606__no_tire
 id_no_size: 03_09_606__no_tire
 id_no_type: wheel_03_09_606__no_tire
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_03_09_606__no_tire/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_wheel_03_09_606__no_tire](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_03_09_606__no_tire/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_03_09_606__no_tire/working)<br>[Oobb
-    Part Wheel 03 09 606  No Tire](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_03_09_606__no_tire/working)<br><br>'
-markdown_short: '[oobb_part_wheel_03_09_606__no_tire](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_03_09_606__no_tire/working)<br><br>'
+markdown_full: '[oobb_part_wheel_03_09_606__no_tire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_03_09_606__no_tire/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_03_09_606__no_tire/working)<br>[Oobb
+    Part Wheel 03 09 606  No Tire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_03_09_606__no_tire/working)<br><br>'
+markdown_short: '[oobb_part_wheel_03_09_606__no_tire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_03_09_606__no_tire/working)<br><br>'
 md5: ec182fc46d34066dc562388a4babb6f9
 md5_10: ec182fc46d
 md5_10_upper: EC182FC46D

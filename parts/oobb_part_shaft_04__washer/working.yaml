@@ -24,20 +24,21 @@ description_or_color: '4'
 description_or_color_upper: '4'
 directory: parts/oobb_part_shaft_04__washer
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_04__washer/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_04__washer/working
 id: oobb_part_shaft_04__washer
 id_no_class: part_shaft_04__washer
 id_no_size: 04__washer
 id_no_type: shaft_04__washer
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_04__washer/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_shaft_04__washer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_04__washer/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_04__washer/working)<br>[Oobb
-    Part Shaft 04  Washer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_04__washer/working)<br><br>'
-markdown_short: '[oobb_part_shaft_04__washer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_04__washer/working)<br><br>'
+markdown_full: '[oobb_part_shaft_04__washer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_04__washer/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_04__washer/working)<br>[Oobb
+    Part Shaft 04  Washer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_04__washer/working)<br><br>'
+markdown_short: '[oobb_part_shaft_04__washer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_04__washer/working)<br><br>'
 md5: 40b0f00cb5ac191e7ae9334711de13bd
 md5_10: 40b0f00cb5
 md5_10_upper: 40B0F00CB5

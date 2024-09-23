@@ -37,21 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r12o274_electronic_resistor_1206_270000_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_270000_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_270000_ohm/working
 id: electronic_resistor_1206_270000_ohm
 id_no_class: resistor_1206_270000_ohm
 id_no_size: 270000_ohm
 id_no_type: 1206_270000_ohm
 kicad_reference: R
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_270000_ohm/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_1206_270000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_270000_ohm/working)<br>[r12o274](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_270000_ohm/working)<br>[Electronic
-    Resistor 1206 270000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_270000_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_1206_270000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_270000_ohm/working)<br><br>'
+markdown_full: '[electronic_resistor_1206_270000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_270000_ohm/working)<br>[r12o274](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_270000_ohm/working)<br>[Electronic
+    Resistor 1206 270000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_270000_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_1206_270000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_270000_ohm/working)<br><br>'
 md5: 06982ac97353242b1c42e63de556bd12
 md5_10: 06982ac973
 md5_10_upper: 06982AC973

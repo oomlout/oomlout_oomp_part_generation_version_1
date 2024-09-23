@@ -26,20 +26,21 @@ directory: parts/hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_dep
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth/working
 id: hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth
 id_no_class: bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth
 id_no_size: MR148_size_8_mm_id_14_mm_od_4_mm_depth
 id_no_type: MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth/working)<br>[Hardware
-    Bearing Mr Series Mr148 Size 8 Mm Id 14 Mm Od 4 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth/working)<br><br>'
-markdown_short: '[hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth/working)<br><br>'
+markdown_full: '[hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth/working)<br>[Hardware
+    Bearing Mr Series Mr148 Size 8 Mm Id 14 Mm Od 4 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth/working)<br><br>'
+markdown_short: '[hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth/working)<br><br>'
 md5: f3011a7a93c664d3152d7a2671d5501a
 md5_10: f3011a7a93
 md5_10_upper: F3011A7A93

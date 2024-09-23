@@ -26,21 +26,22 @@ directory: parts/hardware_washer_m4
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m4/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m4/working
 id: hardware_washer_m4
 id_no_class: washer_m4
 id_no_size: m4
 id_no_type: m4
 kicad_reference: ''
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m4/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_washer_m4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m4/working)<br>[w4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m4/working)<br>[Hardware
-    Washer M4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m4/working)<br><br>'
-markdown_short: '[hardware_washer_m4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m4/working)<br><br>'
+markdown_full: '[hardware_washer_m4](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m4/working)<br>[w4](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m4/working)<br>[Hardware
+    Washer M4](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m4/working)<br><br>'
+markdown_short: '[hardware_washer_m4](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m4/working)<br><br>'
 md5: 2023cbd2c32e20d980524f5a498d2fd3
 md5_10: 2023cbd2c3
 md5_10_upper: 2023CBD2C3

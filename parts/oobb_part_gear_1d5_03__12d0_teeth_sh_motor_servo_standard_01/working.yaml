@@ -24,20 +24,21 @@ description_or_color: 1k5
 description_or_color_upper: 1K5
 directory: parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01/working
 id: oobb_part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01
 id_no_class: part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01
 id_no_size: 1d5_03__12d0_teeth_sh_motor_servo_standard_01
 id_no_type: gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01/working)<br>[Oobb
-    Part Gear 1D5 03  12D0 Teeth Sh Motor Servo Standard 01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01/working)<br><br>'
-markdown_short: '[oobb_part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01/working)<br><br>'
+markdown_full: '[oobb_part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01/working)<br>[Oobb
+    Part Gear 1D5 03  12D0 Teeth Sh Motor Servo Standard 01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01/working)<br><br>'
+markdown_short: '[oobb_part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_servo_standard_01/working)<br><br>'
 md5: 8c135bbe6f150d78fee3c25491dcdda3
 md5_10: 8c135bbe6f
 md5_10_upper: 8C135BBE6F

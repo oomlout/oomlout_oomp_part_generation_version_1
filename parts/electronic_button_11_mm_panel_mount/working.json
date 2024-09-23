@@ -47,7 +47,8 @@
     "id_no_type": "11_mm_panel_mount",
     "id_no_size": "panel_mount",
     "oomp_key": "oomp_electronic_button_11_mm_panel_mount",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_11_mm_panel_mount/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_11_mm_panel_mount/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_11_mm_panel_mount/working",
     "directory": "parts/electronic_button_11_mm_panel_mount",
     "name": "Electronic Button 11 Mm Panel Mount",
     "name_no_class": "Button 11 Mm Panel Mount",
@@ -84,6 +85,6 @@
     "name_no_size_short": "Panel Mount",
     "description_or_color": "P ",
     "description_or_color_upper": "P ",
-    "markdown_full": "[electronic_button_11_mm_panel_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_11_mm_panel_mount/working)<br>[b11p](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_11_mm_panel_mount/working)<br>[Electronic Button 11 Mm Panel Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_11_mm_panel_mount/working)<br><br>",
-    "markdown_short": "[electronic_button_11_mm_panel_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_11_mm_panel_mount/working)<br><br>"
+    "markdown_full": "[electronic_button_11_mm_panel_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_11_mm_panel_mount/working)<br>[b11p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_11_mm_panel_mount/working)<br>[Electronic Button 11 Mm Panel Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_11_mm_panel_mount/working)<br><br>",
+    "markdown_short": "[electronic_button_11_mm_panel_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_11_mm_panel_mount/working)<br><br>"
 }

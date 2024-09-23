@@ -37,12 +37,13 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r6o822_electronic_resistor_0603_8200_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_8200_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_8200_ohm/working
 id: electronic_resistor_0603_8200_ohm
 id_no_class: resistor_0603_8200_ohm
 id_no_size: 8200_ohm
 id_no_type: 0603_8200_ohm
 kicad_reference: R
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_8200_ohm/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -71,13 +72,13 @@ manufacturers:
         reason: yageo is a commonly cross referenced part number
         reason_short: available everywhere
     part_number: RC0603JR-078K2L
-markdown_full: '[electronic_resistor_0603_8200_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_8200_ohm/working)<br>[r6o822](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_8200_ohm/working)<br>[Electronic
-    Resistor 0603 8200 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_8200_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_0603_8200_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_8200_ohm/working)<br>[r6o822](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_8200_ohm/working)<br>[Electronic
+    Resistor 0603 8200 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_8200_ohm/working)<br><br>[Uniroyal
     - 0603WAJ0822T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0603WAJ0822T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAJ0822T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0822T5E)[(N)  ](https://www.newark.com/search?st=0603WAJ0822T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAJ0822T5E)<br>[Uniroyal
     - 0603WAF8201T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0603WAF8201T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAF8201T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAF8201T5E)[(N)  ](https://www.newark.com/search?st=0603WAF8201T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAF8201T5E)<br>[Yageo
     - RC0603JR-078K2L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-078K2L)
     [(L)  ](https://www.lcsc.com/search?q=RC0603JR-078K2L)[(D)  ](https://www.digikey.com/en/products?keywords=RC0603JR-078K2L)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-078K2L)[(N)  ](https://www.newark.com/search?st=RC0603JR-078K2L)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0603JR-078K2L)<br>'
-markdown_short: '[electronic_resistor_0603_8200_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_8200_ohm/working)<br><br>[Uniroyal
+markdown_short: '[electronic_resistor_0603_8200_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_8200_ohm/working)<br><br>[Uniroyal
     - 0603WAJ0822T5E- not in jlc basic parts]()[Uniroyal - 0603WAF8201T5E- jlc basic
     part]()[Yageo - RC0603JR-078K2L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-078K2L)'
 md5: a922b947dccc0108e3a430583ba2666b

@@ -28,22 +28,23 @@ distributors:
     link: https://lcsc.com/product-detail/C3410.html
     name: LCSC
     part_number: C3410
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle/working
 id: electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle
 id_no_class: header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle
 id_no_size: 2x14_28_pin_through_hole_right_angle
 id_no_type: 2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle
 kicad_reference: CONN
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle/working)<br>[hi12x14pthra](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle/working)<br>[Electronic
-    Header 2 54 Mm Dual Row 2X14 28 Pin Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle/working)<br>[LCSC
+markdown_full: '[electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle/working)<br>[hi12x14pthra](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle/working)<br>[Electronic
+    Header 2 54 Mm Dual Row 2X14 28 Pin Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle/working)<br>[LCSC
     - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br>'
-markdown_short: '[electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle/working)<br>[LCSC
+markdown_short: '[electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x14_28_pin_through_hole_right_angle/working)<br>[LCSC
     - C3410<br>](https://lcsc.com/product-detail/C3410.html)<br>'
 md5: c5f4570adaf730684334305e6073f133
 md5_10: c5f4570ada

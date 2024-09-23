@@ -131,7 +131,8 @@
     "id_no_type": "step_stick_stepper_motor",
     "id_no_size": "stepper_motor",
     "oomp_key": "oomp_electronic_breakout_board_motor_driver_step_stick_stepper_motor",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_stepper_motor/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_stepper_motor/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_stepper_motor/working",
     "directory": "parts/electronic_breakout_board_motor_driver_step_stick_stepper_motor",
     "name": "Electronic Breakout Board Motor Driver Step Stick Stepper Motor",
     "name_no_class": "Breakout Board Motor Driver Step Stick Stepper Motor",
@@ -169,6 +170,6 @@
     "name_no_size_short": "Stepper Motor",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[electronic_breakout_board_motor_driver_step_stick_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_stepper_motor/working)<br>[sssm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_stepper_motor/working)<br>[Electronic Breakout Board Motor Driver Step Stick Stepper Motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_stepper_motor/working)<br><br>",
-    "markdown_short": "[electronic_breakout_board_motor_driver_step_stick_stepper_motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_stepper_motor/working)<br><br>"
+    "markdown_full": "[electronic_breakout_board_motor_driver_step_stick_stepper_motor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_stepper_motor/working)<br>[sssm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_stepper_motor/working)<br>[Electronic Breakout Board Motor Driver Step Stick Stepper Motor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_stepper_motor/working)<br><br>",
+    "markdown_short": "[electronic_breakout_board_motor_driver_step_stick_stepper_motor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_stepper_motor/working)<br><br>"
 }

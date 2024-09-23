@@ -26,20 +26,21 @@ directory: parts/hardware_bearing_61800_series_61830_size_150_mm_id_190_mm_od_20
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth/working
 id: hardware_bearing_61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth
 id_no_class: bearing_61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth
 id_no_size: 61830_size_150_mm_id_190_mm_od_20_mm_depth
 id_no_type: 61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth/working)<br>[Hardware
-    Bearing 61800 Series 61830 Size 150 Mm Id 190 Mm Od 20 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth/working)<br><br>'
-markdown_short: '[hardware_bearing_61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth/working)<br><br>'
+markdown_full: '[hardware_bearing_61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth/working)<br>[Hardware
+    Bearing 61800 Series 61830 Size 150 Mm Id 190 Mm Od 20 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth/working)<br><br>'
+markdown_short: '[hardware_bearing_61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61830_size_150_mm_id_190_mm_od_20_mm_depth/working)<br><br>'
 md5: b26b476cb3702f55bf8690d2bbcfe0d1
 md5_10: b26b476cb3
 md5_10_upper: B26B476CB3

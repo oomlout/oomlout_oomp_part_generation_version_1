@@ -26,20 +26,21 @@ directory: parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724/working
 id: computer_tablet_microsoft_surface_pro_4_microsoft_model_1724
 id_no_class: tablet_microsoft_surface_pro_4_microsoft_model_1724
 id_no_size: pro_4_microsoft_model_1724
 id_no_type: microsoft_surface_pro_4_microsoft_model_1724
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724/working
 manufacturer: microsoft
 manufacturer_capital: Microsoft
 manufacturer_first_letter: m
 manufacturer_first_letter_upper: M
 manufacturer_upper: MICROSOFT
 manufacturers: []
-markdown_full: '[computer_tablet_microsoft_surface_pro_4_microsoft_model_1724](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724/working)<br>[Computer
-    Tablet Microsoft Surface Pro 4 Microsoft Model 1724](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724/working)<br><br>'
-markdown_short: '[computer_tablet_microsoft_surface_pro_4_microsoft_model_1724](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724/working)<br><br>'
+markdown_full: '[computer_tablet_microsoft_surface_pro_4_microsoft_model_1724](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724/working)<br>[Computer
+    Tablet Microsoft Surface Pro 4 Microsoft Model 1724](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724/working)<br><br>'
+markdown_short: '[computer_tablet_microsoft_surface_pro_4_microsoft_model_1724](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724/working)<br><br>'
 md5: effa89037e8c96ad719652bdc63a4abe
 md5_10: effa89037e
 md5_10_upper: EFFA89037E

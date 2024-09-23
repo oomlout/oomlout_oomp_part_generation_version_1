@@ -24,20 +24,21 @@ description_or_color: '206'
 description_or_color_upper: '206'
 directory: parts/oobb_part_gear_02_06__16_teeth_sh_motor_tt_01
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_06__16_teeth_sh_motor_tt_01/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_02_06__16_teeth_sh_motor_tt_01/working
 id: oobb_part_gear_02_06__16_teeth_sh_motor_tt_01
 id_no_class: part_gear_02_06__16_teeth_sh_motor_tt_01
 id_no_size: 02_06__16_teeth_sh_motor_tt_01
 id_no_type: gear_02_06__16_teeth_sh_motor_tt_01
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_02_06__16_teeth_sh_motor_tt_01/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_gear_02_06__16_teeth_sh_motor_tt_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_06__16_teeth_sh_motor_tt_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_06__16_teeth_sh_motor_tt_01/working)<br>[Oobb
-    Part Gear 02 06  16 Teeth Sh Motor Tt 01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_06__16_teeth_sh_motor_tt_01/working)<br><br>'
-markdown_short: '[oobb_part_gear_02_06__16_teeth_sh_motor_tt_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_06__16_teeth_sh_motor_tt_01/working)<br><br>'
+markdown_full: '[oobb_part_gear_02_06__16_teeth_sh_motor_tt_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_02_06__16_teeth_sh_motor_tt_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_02_06__16_teeth_sh_motor_tt_01/working)<br>[Oobb
+    Part Gear 02 06  16 Teeth Sh Motor Tt 01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_02_06__16_teeth_sh_motor_tt_01/working)<br><br>'
+markdown_short: '[oobb_part_gear_02_06__16_teeth_sh_motor_tt_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_02_06__16_teeth_sh_motor_tt_01/working)<br><br>'
 md5: 31d95df432c936afd1c571493cc9bf7f
 md5_10: 31d95df432
 md5_10_upper: 31D95DF432

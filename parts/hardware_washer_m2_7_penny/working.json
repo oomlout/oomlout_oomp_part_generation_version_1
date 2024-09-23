@@ -48,7 +48,8 @@
     "id_no_type": "m2_7_penny",
     "id_no_size": "penny",
     "oomp_key": "oomp_hardware_washer_m2_7_penny",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2_7_penny/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m2_7_penny/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m2_7_penny/working",
     "directory": "parts/hardware_washer_m2_7_penny",
     "name": "Hardware Washer M2 7 Penny",
     "name_no_class": "Washer M2 7 Penny",
@@ -86,6 +87,6 @@
     "name_no_size_short": "Penny",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_washer_m2_7_penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2_7_penny/working)<br>[w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2_7_penny/working)<br>[Hardware Washer M2 7 Penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2_7_penny/working)<br><br>",
-    "markdown_short": "[hardware_washer_m2_7_penny](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2_7_penny/working)<br><br>"
+    "markdown_full": "[hardware_washer_m2_7_penny](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m2_7_penny/working)<br>[w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m2_7_penny/working)<br>[Hardware Washer M2 7 Penny](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m2_7_penny/working)<br><br>",
+    "markdown_short": "[hardware_washer_m2_7_penny](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m2_7_penny/working)<br><br>"
 }

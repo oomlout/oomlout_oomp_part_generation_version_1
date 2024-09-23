@@ -36,21 +36,22 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_sh328ac_electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_sh328ac_electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible/working
 id: electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible
 id_no_class: breakout_board_mcu_shennie_atmega328p_arduino_compatible
 id_no_size: atmega328p_arduino_compatible
 id_no_type: shennie_atmega328p_arduino_compatible
 kicad_reference: BB
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible/working)<br>[sh328ac](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible/working)<br>[Electronic
-    Breakout Board Mcu Shennie Atmega328P Arduino Compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible/working)<br><br>'
-markdown_short: '[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible/working)<br><br>'
+markdown_full: '[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible/working)<br>[sh328ac](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible/working)<br>[Electronic
+    Breakout Board Mcu Shennie Atmega328P Arduino Compatible](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible/working)<br><br>'
+markdown_short: '[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible/working)<br><br>'
 md5: ec6e64deaaeeed8781159de2634c8214
 md5_10: ec6e64deaa
 md5_10_upper: EC6E64DEAA

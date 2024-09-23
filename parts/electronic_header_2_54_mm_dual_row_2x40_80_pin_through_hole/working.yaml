@@ -24,21 +24,22 @@ description_or_color: 24k
 description_or_color_upper: 24K
 directory: parts/electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole/working
 id: electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole
 id_no_class: header_2_54_mm_dual_row_2x40_80_pin_through_hole
 id_no_size: 2x40_80_pin_through_hole
 id_no_type: 2_54_mm_dual_row_2x40_80_pin_through_hole
 kicad_reference: CONN
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole/working)<br>[hi12x40pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole/working)<br>[Electronic
-    Header 2 54 Mm Dual Row 2X40 80 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole/working)<br><br>'
-markdown_short: '[electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole/working)<br><br>'
+markdown_full: '[electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole/working)<br>[hi12x40pth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole/working)<br>[Electronic
+    Header 2 54 Mm Dual Row 2X40 80 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole/working)<br><br>'
+markdown_short: '[electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole/working)<br><br>'
 md5: efc9609038b6e0e8d8939e8d022148cc
 md5_10: efc9609038
 md5_10_upper: EFC9609038

@@ -48,7 +48,8 @@
     "id_no_type": "m4_30_mm_length",
     "id_no_size": "30_mm_length",
     "oomp_key": "oomp_hardware_set_screw_m4_30_mm_length",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m4_30_mm_length/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m4_30_mm_length/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m4_30_mm_length/working",
     "directory": "parts/hardware_set_screw_m4_30_mm_length",
     "name": "Hardware Set Screw M4 30 Mm Length",
     "name_no_class": "Set Screw M4 30 Mm Length",
@@ -86,6 +87,6 @@
     "name_no_size_short": "30 Mm Length",
     "description_or_color": "30",
     "description_or_color_upper": "30",
-    "markdown_full": "[hardware_set_screw_m4_30_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m4_30_mm_length/working)<br>[ss430](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m4_30_mm_length/working)<br>[Hardware Set Screw M4 30 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m4_30_mm_length/working)<br><br>",
-    "markdown_short": "[hardware_set_screw_m4_30_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m4_30_mm_length/working)<br><br>"
+    "markdown_full": "[hardware_set_screw_m4_30_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m4_30_mm_length/working)<br>[ss430](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m4_30_mm_length/working)<br>[Hardware Set Screw M4 30 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m4_30_mm_length/working)<br><br>",
+    "markdown_short": "[hardware_set_screw_m4_30_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m4_30_mm_length/working)<br><br>"
 }

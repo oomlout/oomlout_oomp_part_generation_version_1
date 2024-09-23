@@ -37,21 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r8o751_electronic_resistor_0805_750_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_750_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_750_ohm/working
 id: electronic_resistor_0805_750_ohm
 id_no_class: resistor_0805_750_ohm
 id_no_size: 750_ohm
 id_no_type: 0805_750_ohm
 kicad_reference: R
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_750_ohm/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_0805_750_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_750_ohm/working)<br>[r8o751](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_750_ohm/working)<br>[Electronic
-    Resistor 0805 750 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_750_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_0805_750_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_750_ohm/working)<br><br>'
+markdown_full: '[electronic_resistor_0805_750_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_750_ohm/working)<br>[r8o751](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_750_ohm/working)<br>[Electronic
+    Resistor 0805 750 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_750_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_0805_750_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_750_ohm/working)<br><br>'
 md5: 56d676c9ddbc9168f1b852d7d5ce7bee
 md5_10: 56d676c9dd
 md5_10_upper: 56D676C9DD

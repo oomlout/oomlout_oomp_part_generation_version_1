@@ -6,6 +6,7 @@ python action_setup.py
 git add *
 git commit -a -m "Full run through"
 git push
+z:
 cd Z:\oomlout_oomp_current_version_messy
 python action_build_oomp.py
 git add *

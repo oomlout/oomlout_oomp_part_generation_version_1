@@ -48,7 +48,8 @@
     "id_no_type": "0603_yellow",
     "id_no_size": "yellow",
     "oomp_key": "oomp_electronic_led_0603_yellow",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow/working",
     "directory": "parts/electronic_led_0603_yellow",
     "name": "Electronic Led 0603 Yellow",
     "name_no_class": "Led 0603 Yellow",
@@ -105,6 +106,6 @@
     "name_no_size_short": "Yellow",
     "description_or_color": "Y ",
     "description_or_color_upper": "Y ",
-    "markdown_full": "[electronic_led_0603_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow/working)<br>[l6y](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow/working)<br>[Electronic Led 0603 Yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow/working)<br>[LCSC - C965802<br>](https://lcsc.com/product-detail/C965802.html)<br>[XINGLIGHT - XL-1608UYC-06]() [(L)  ](https://www.lcsc.com/search?q=XL-1608UYC-06)[(D)  ](https://www.digikey.com/en/products?keywords=XL-1608UYC-06)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608UYC-06)[(N)  ](https://www.newark.com/search?st=XL-1608UYC-06)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608UYC-06)<br>",
-    "markdown_short": "[electronic_led_0603_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow/working)<br>[LCSC - C965802<br>](https://lcsc.com/product-detail/C965802.html)<br>[XINGLIGHT - XL-1608UYC-06]()"
+    "markdown_full": "[electronic_led_0603_yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow/working)<br>[l6y](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow/working)<br>[Electronic Led 0603 Yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow/working)<br>[LCSC - C965802<br>](https://lcsc.com/product-detail/C965802.html)<br>[XINGLIGHT - XL-1608UYC-06]() [(L)  ](https://www.lcsc.com/search?q=XL-1608UYC-06)[(D)  ](https://www.digikey.com/en/products?keywords=XL-1608UYC-06)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608UYC-06)[(N)  ](https://www.newark.com/search?st=XL-1608UYC-06)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608UYC-06)<br>",
+    "markdown_short": "[electronic_led_0603_yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow/working)<br>[LCSC - C965802<br>](https://lcsc.com/product-detail/C965802.html)<br>[XINGLIGHT - XL-1608UYC-06]()"
 }

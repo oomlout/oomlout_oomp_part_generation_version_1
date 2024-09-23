@@ -24,20 +24,21 @@ description_or_color: 313k
 description_or_color_upper: 313K
 directory: parts/oobb_part_bearing_circle_03_12_606
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_circle_03_12_606/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_circle_03_12_606/working
 id: oobb_part_bearing_circle_03_12_606
 id_no_class: part_bearing_circle_03_12_606
 id_no_size: '03_12_606'
 id_no_type: bearing_circle_03_12_606
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_circle_03_12_606/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_bearing_circle_03_12_606](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_circle_03_12_606/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_circle_03_12_606/working)<br>[Oobb
-    Part Bearing Circle 03 12 606](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_circle_03_12_606/working)<br><br>'
-markdown_short: '[oobb_part_bearing_circle_03_12_606](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_circle_03_12_606/working)<br><br>'
+markdown_full: '[oobb_part_bearing_circle_03_12_606](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_circle_03_12_606/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_circle_03_12_606/working)<br>[Oobb
+    Part Bearing Circle 03 12 606](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_circle_03_12_606/working)<br><br>'
+markdown_short: '[oobb_part_bearing_circle_03_12_606](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_circle_03_12_606/working)<br><br>'
 md5: cd91c6f4db9136de827fd368ff6005be
 md5_10: cd91c6f4db
 md5_10_upper: CD91C6F4DB

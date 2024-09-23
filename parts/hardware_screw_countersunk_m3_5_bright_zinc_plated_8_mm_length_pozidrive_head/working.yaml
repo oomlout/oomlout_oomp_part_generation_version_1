@@ -26,21 +26,22 @@ directory: parts/hardware_screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_pozidrive_head/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_pozidrive_head/working
 id: hardware_screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_pozidrive_head
 id_no_class: screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_pozidrive_head
 id_no_size: bright_zinc_plated_8_mm_length_pozidrive_head
 id_no_type: m3_5_bright_zinc_plated_8_mm_length_pozidrive_head
 kicad_reference: ''
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_pozidrive_head/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_pozidrive_head/working)<br>[cs8pz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_pozidrive_head/working)<br>[Hardware
-    Screw Countersunk M3 5 Bright Zinc Plated 8 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_pozidrive_head/working)<br><br>'
-markdown_short: '[hardware_screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_pozidrive_head/working)<br><br>'
+markdown_full: '[hardware_screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_pozidrive_head/working)<br>[cs8pz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_pozidrive_head/working)<br>[Hardware
+    Screw Countersunk M3 5 Bright Zinc Plated 8 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_pozidrive_head/working)<br><br>'
+markdown_short: '[hardware_screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_5_bright_zinc_plated_8_mm_length_pozidrive_head/working)<br><br>'
 md5: fae5ba628da1fe922b04458d77c31172
 md5_10: fae5ba628d
 md5_10_upper: FAE5BA628D

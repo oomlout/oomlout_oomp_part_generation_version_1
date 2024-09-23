@@ -26,20 +26,21 @@ directory: parts/hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_m
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth/working
 id: hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth
 id_no_class: bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth
 id_no_size: 5202_size_15_mm_id_35_mm_od_15_8_mm_depth
 id_no_type: 5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth/working)<br>[Hardware
-    Bearing 5200 Series 5202 Size 15 Mm Id 35 Mm Od 15 8 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth/working)<br><br>'
-markdown_short: '[hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth/working)<br><br>'
+markdown_full: '[hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth/working)<br>[Hardware
+    Bearing 5200 Series 5202 Size 15 Mm Id 35 Mm Od 15 8 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth/working)<br><br>'
+markdown_short: '[hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth/working)<br><br>'
 md5: cfb6f448f38e1d303375d758659fe35e
 md5_10: cfb6f448f3
 md5_10_upper: CFB6F448F3

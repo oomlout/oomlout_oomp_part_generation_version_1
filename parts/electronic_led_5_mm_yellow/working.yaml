@@ -37,21 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l5y_electronic_led_5_mm_yellow
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_yellow/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_yellow/working
 id: electronic_led_5_mm_yellow
 id_no_class: led_5_mm_yellow
 id_no_size: yellow
 id_no_type: 5_mm_yellow
 kicad_reference: L
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_yellow/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_5_mm_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_yellow/working)<br>[l5y](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_yellow/working)<br>[Electronic
-    Led 5 Mm Yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_yellow/working)<br><br>'
-markdown_short: '[electronic_led_5_mm_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_yellow/working)<br><br>'
+markdown_full: '[electronic_led_5_mm_yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_yellow/working)<br>[l5y](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_yellow/working)<br>[Electronic
+    Led 5 Mm Yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_yellow/working)<br><br>'
+markdown_short: '[electronic_led_5_mm_yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_yellow/working)<br><br>'
 md5: 7691c8dbc32bf87910d702b3b3fd7df4
 md5_10: 7691c8dbc3
 md5_10_upper: 7691C8DBC3

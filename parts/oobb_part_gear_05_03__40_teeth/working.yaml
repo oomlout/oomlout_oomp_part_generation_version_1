@@ -24,20 +24,21 @@ description_or_color: '503'
 description_or_color_upper: '503'
 directory: parts/oobb_part_gear_05_03__40_teeth
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_03__40_teeth/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_05_03__40_teeth/working
 id: oobb_part_gear_05_03__40_teeth
 id_no_class: part_gear_05_03__40_teeth
 id_no_size: 05_03__40_teeth
 id_no_type: gear_05_03__40_teeth
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_05_03__40_teeth/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_gear_05_03__40_teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_03__40_teeth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_03__40_teeth/working)<br>[Oobb
-    Part Gear 05 03  40 Teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_03__40_teeth/working)<br><br>'
-markdown_short: '[oobb_part_gear_05_03__40_teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_03__40_teeth/working)<br><br>'
+markdown_full: '[oobb_part_gear_05_03__40_teeth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_05_03__40_teeth/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_05_03__40_teeth/working)<br>[Oobb
+    Part Gear 05 03  40 Teeth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_05_03__40_teeth/working)<br><br>'
+markdown_short: '[oobb_part_gear_05_03__40_teeth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_05_03__40_teeth/working)<br><br>'
 md5: a3b5cbcce6ce399e3bf15d148d9d3b33
 md5_10: a3b5cbcce6
 md5_10_upper: A3B5CBCCE6

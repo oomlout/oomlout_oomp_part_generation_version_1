@@ -26,12 +26,13 @@ directory: parts/electronic_resistor_0402_100_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_100_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_100_ohm/working
 id: electronic_resistor_0402_100_ohm
 id_no_class: resistor_0402_100_ohm
 id_no_size: 100_ohm
 id_no_type: 0402_100_ohm
 kicad_reference: R
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_100_ohm/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -60,13 +61,13 @@ manufacturers:
         reason: yageo is a commonly cross referenced part number
         reason_short: available everywhere
     part_number: RC0402JR-07100RL
-markdown_full: '[electronic_resistor_0402_100_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_100_ohm/working)<br>[r4o101](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_100_ohm/working)<br>[Electronic
-    Resistor 0402 100 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_100_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_0402_100_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_100_ohm/working)<br>[r4o101](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_100_ohm/working)<br>[Electronic
+    Resistor 0402 100 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_100_ohm/working)<br><br>[Uniroyal
     - 0402WGJ0101TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0101TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0101TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0101TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0101TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0101TCE)<br>[Uniroyal
     - 0402WGF1000TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF1000TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF1000TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF1000TCE)[(N)  ](https://www.newark.com/search?st=0402WGF1000TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF1000TCE)<br>[Yageo
     - RC0402JR-07100RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07100RL)
     [(L)  ](https://www.lcsc.com/search?q=RC0402JR-07100RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-07100RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-07100RL)[(N)  ](https://www.newark.com/search?st=RC0402JR-07100RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-07100RL)<br>'
-markdown_short: '[electronic_resistor_0402_100_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_100_ohm/working)<br><br>[Uniroyal
+markdown_short: '[electronic_resistor_0402_100_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_100_ohm/working)<br><br>[Uniroyal
     - 0402WGJ0101TCE- not in jlc basic parts]()[Uniroyal - 0402WGF1000TCE- jlc basic
     part]()[Yageo - RC0402JR-07100RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-07100RL)'
 md5: 5115eb5c6144e661f58cec2948671275

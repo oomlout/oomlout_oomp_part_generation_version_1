@@ -26,21 +26,22 @@ directory: parts/electronic_resistor_0201_220000_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_220000_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_220000_ohm/working
 id: electronic_resistor_0201_220000_ohm
 id_no_class: resistor_0201_220000_ohm
 id_no_size: 220000_ohm
 id_no_type: 0201_220000_ohm
 kicad_reference: R
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_220000_ohm/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_0201_220000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_220000_ohm/working)<br>[ro224](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_220000_ohm/working)<br>[Electronic
-    Resistor 0201 220000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_220000_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_0201_220000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_220000_ohm/working)<br><br>'
+markdown_full: '[electronic_resistor_0201_220000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_220000_ohm/working)<br>[ro224](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_220000_ohm/working)<br>[Electronic
+    Resistor 0201 220000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_220000_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_0201_220000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_220000_ohm/working)<br><br>'
 md5: 412def99574a704a55c2af03204103b9
 md5_10: 412def9957
 md5_10_upper: 412DEF9957

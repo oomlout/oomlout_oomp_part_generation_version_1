@@ -24,20 +24,21 @@ description_or_color: 30k
 description_or_color_upper: 30K
 directory: parts/oobb_part_wire_03_02_09__spacer_long
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_09__spacer_long/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_09__spacer_long/working
 id: oobb_part_wire_03_02_09__spacer_long
 id_no_class: part_wire_03_02_09__spacer_long
 id_no_size: 03_02_09__spacer_long
 id_no_type: wire_03_02_09__spacer_long
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_09__spacer_long/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_wire_03_02_09__spacer_long](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_09__spacer_long/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_09__spacer_long/working)<br>[Oobb
-    Part Wire 03 02 09  Spacer Long](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_09__spacer_long/working)<br><br>'
-markdown_short: '[oobb_part_wire_03_02_09__spacer_long](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_09__spacer_long/working)<br><br>'
+markdown_full: '[oobb_part_wire_03_02_09__spacer_long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_09__spacer_long/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_09__spacer_long/working)<br>[Oobb
+    Part Wire 03 02 09  Spacer Long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_09__spacer_long/working)<br><br>'
+markdown_short: '[oobb_part_wire_03_02_09__spacer_long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_09__spacer_long/working)<br><br>'
 md5: 09df17b23c3f7712b07626770df4a8f0
 md5_10: 09df17b23c
 md5_10_upper: 09DF17B23C

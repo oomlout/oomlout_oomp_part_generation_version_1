@@ -24,20 +24,21 @@ description_or_color: 303k
 description_or_color_upper: 303K
 directory: parts/oobb_part_wire_03_03_2d54__motor
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__motor/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__motor/working
 id: oobb_part_wire_03_03_2d54__motor
 id_no_class: part_wire_03_03_2d54__motor
 id_no_size: 03_03_2d54__motor
 id_no_type: wire_03_03_2d54__motor
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__motor/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_wire_03_03_2d54__motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__motor/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__motor/working)<br>[Oobb
-    Part Wire 03 03 2D54  Motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__motor/working)<br><br>'
-markdown_short: '[oobb_part_wire_03_03_2d54__motor](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__motor/working)<br><br>'
+markdown_full: '[oobb_part_wire_03_03_2d54__motor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__motor/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__motor/working)<br>[Oobb
+    Part Wire 03 03 2D54  Motor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__motor/working)<br><br>'
+markdown_short: '[oobb_part_wire_03_03_2d54__motor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__motor/working)<br><br>'
 md5: 8b811bb602edd225b3fff1bc7c6c9b61
 md5_10: 8b811bb602
 md5_10_upper: 8B811BB602

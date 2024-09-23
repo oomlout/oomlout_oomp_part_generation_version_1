@@ -47,7 +47,8 @@
     "id_no_type": "test_rotation",
     "id_no_size": "rotation",
     "oomp_key": "oomp_oobb_part_test_rotation",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_rotation/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_rotation/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_rotation/working",
     "directory": "parts/oobb_part_test_rotation",
     "name": "Oobb Part Test Rotation",
     "name_no_class": "Part Test Rotation",
@@ -84,6 +85,6 @@
     "name_no_size_short": "Rotation",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[oobb_part_test_rotation](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_rotation/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_rotation/working)<br>[Oobb Part Test Rotation](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_rotation/working)<br><br>",
-    "markdown_short": "[oobb_part_test_rotation](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_rotation/working)<br><br>"
+    "markdown_full": "[oobb_part_test_rotation](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_rotation/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_rotation/working)<br>[Oobb Part Test Rotation](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_rotation/working)<br><br>",
+    "markdown_short": "[oobb_part_test_rotation](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_rotation/working)<br><br>"
 }

@@ -26,21 +26,22 @@ directory: parts/hardware_screw_socket_cap_m5_black_120_mm_length_hex_head
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_120_mm_length_hex_head/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m5_black_120_mm_length_hex_head/working
 id: hardware_screw_socket_cap_m5_black_120_mm_length_hex_head
 id_no_class: screw_socket_cap_m5_black_120_mm_length_hex_head
 id_no_size: black_120_mm_length_hex_head
 id_no_type: m5_black_120_mm_length_hex_head
 kicad_reference: ''
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m5_black_120_mm_length_hex_head/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_screw_socket_cap_m5_black_120_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_120_mm_length_hex_head/working)<br>[sc5bh](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_120_mm_length_hex_head/working)<br>[Hardware
-    Screw Socket Cap M5 Black 120 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_120_mm_length_hex_head/working)<br><br>'
-markdown_short: '[hardware_screw_socket_cap_m5_black_120_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_120_mm_length_hex_head/working)<br><br>'
+markdown_full: '[hardware_screw_socket_cap_m5_black_120_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m5_black_120_mm_length_hex_head/working)<br>[sc5bh](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m5_black_120_mm_length_hex_head/working)<br>[Hardware
+    Screw Socket Cap M5 Black 120 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m5_black_120_mm_length_hex_head/working)<br><br>'
+markdown_short: '[hardware_screw_socket_cap_m5_black_120_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m5_black_120_mm_length_hex_head/working)<br><br>'
 md5: e8b8cd65b8343ca6ce5694004ee46c9b
 md5_10: e8b8cd65b8
 md5_10_upper: E8B8CD65B8

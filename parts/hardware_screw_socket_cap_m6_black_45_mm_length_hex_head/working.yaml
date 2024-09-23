@@ -26,21 +26,22 @@ directory: parts/hardware_screw_socket_cap_m6_black_45_mm_length_hex_head
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_45_mm_length_hex_head/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_45_mm_length_hex_head/working
 id: hardware_screw_socket_cap_m6_black_45_mm_length_hex_head
 id_no_class: screw_socket_cap_m6_black_45_mm_length_hex_head
 id_no_size: black_45_mm_length_hex_head
 id_no_type: m6_black_45_mm_length_hex_head
 kicad_reference: ''
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_45_mm_length_hex_head/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_screw_socket_cap_m6_black_45_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_45_mm_length_hex_head/working)<br>[sc6b45h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_45_mm_length_hex_head/working)<br>[Hardware
-    Screw Socket Cap M6 Black 45 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_45_mm_length_hex_head/working)<br><br>'
-markdown_short: '[hardware_screw_socket_cap_m6_black_45_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_45_mm_length_hex_head/working)<br><br>'
+markdown_full: '[hardware_screw_socket_cap_m6_black_45_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_45_mm_length_hex_head/working)<br>[sc6b45h](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_45_mm_length_hex_head/working)<br>[Hardware
+    Screw Socket Cap M6 Black 45 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_45_mm_length_hex_head/working)<br><br>'
+markdown_short: '[hardware_screw_socket_cap_m6_black_45_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_45_mm_length_hex_head/working)<br><br>'
 md5: 8c1a00fba343ed1cba578632fb7ee41a
 md5_10: 8c1a00fba3
 md5_10_upper: 8C1A00FBA3

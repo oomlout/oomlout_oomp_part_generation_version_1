@@ -24,20 +24,21 @@ description_or_color: '3'
 description_or_color_upper: '3'
 directory: parts/oobb_part_smd_magazine_refiller_03__big
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_refiller_03__big/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_refiller_03__big/working
 id: oobb_part_smd_magazine_refiller_03__big
 id_no_class: part_smd_magazine_refiller_03__big
 id_no_size: 03__big
 id_no_type: smd_magazine_refiller_03__big
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_refiller_03__big/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_smd_magazine_refiller_03__big](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_refiller_03__big/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_refiller_03__big/working)<br>[Oobb
-    Part Smd Magazine Refiller 03  Big](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_refiller_03__big/working)<br><br>'
-markdown_short: '[oobb_part_smd_magazine_refiller_03__big](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_refiller_03__big/working)<br><br>'
+markdown_full: '[oobb_part_smd_magazine_refiller_03__big](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_refiller_03__big/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_refiller_03__big/working)<br>[Oobb
+    Part Smd Magazine Refiller 03  Big](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_refiller_03__big/working)<br><br>'
+markdown_short: '[oobb_part_smd_magazine_refiller_03__big](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_refiller_03__big/working)<br><br>'
 md5: cc3a3b16b183846e97eeb6c4b879a3e5
 md5_10: cc3a3b16b1
 md5_10_upper: CC3A3B16B1

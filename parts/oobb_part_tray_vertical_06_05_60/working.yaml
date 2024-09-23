@@ -24,20 +24,21 @@ description_or_color: 61k
 description_or_color_upper: 61K
 directory: parts/oobb_part_tray_vertical_06_05_60
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_05_60/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_05_60/working
 id: oobb_part_tray_vertical_06_05_60
 id_no_class: part_tray_vertical_06_05_60
 id_no_size: '06_05_60'
 id_no_type: tray_vertical_06_05_60
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_05_60/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_tray_vertical_06_05_60](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_05_60/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_05_60/working)<br>[Oobb
-    Part Tray Vertical 06 05 60](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_05_60/working)<br><br>'
-markdown_short: '[oobb_part_tray_vertical_06_05_60](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_05_60/working)<br><br>'
+markdown_full: '[oobb_part_tray_vertical_06_05_60](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_05_60/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_05_60/working)<br>[Oobb
+    Part Tray Vertical 06 05 60](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_05_60/working)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_06_05_60](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_05_60/working)<br><br>'
 md5: cb721a11e94df93fbcd356f83d7e0142
 md5_10: cb721a11e9
 md5_10_upper: CB721A11E9

@@ -24,20 +24,21 @@ description_or_color: '635'
 description_or_color_upper: '635'
 directory: parts/oobb_part_bolt_hardware_bolt_m6_35
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_35/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_35/working
 id: oobb_part_bolt_hardware_bolt_m6_35
 id_no_class: part_bolt_hardware_bolt_m6_35
 id_no_size: hardware_m6_35
 id_no_type: bolt_hardware_bolt_m6_35
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_35/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_bolt_hardware_bolt_m6_35](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_35/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_35/working)<br>[Oobb
-    Part Bolt Hardware Bolt M6 35](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_35/working)<br><br>'
-markdown_short: '[oobb_part_bolt_hardware_bolt_m6_35](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_35/working)<br><br>'
+markdown_full: '[oobb_part_bolt_hardware_bolt_m6_35](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_35/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_35/working)<br>[Oobb
+    Part Bolt Hardware Bolt M6 35](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_35/working)<br><br>'
+markdown_short: '[oobb_part_bolt_hardware_bolt_m6_35](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_35/working)<br><br>'
 md5: bcc95d12641b4178ba11576933095306
 md5_10: bcc95d1264
 md5_10_upper: BCC95D1264

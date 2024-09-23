@@ -24,20 +24,21 @@ description_or_color: 251k
 description_or_color_upper: 251K
 directory: parts/oobb_part_tray_thin_2d5_06_60
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_06_60/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_06_60/working
 id: oobb_part_tray_thin_2d5_06_60
 id_no_class: part_tray_thin_2d5_06_60
 id_no_size: 2d5_06_60
 id_no_type: tray_thin_2d5_06_60
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_06_60/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_tray_thin_2d5_06_60](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_06_60/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_06_60/working)<br>[Oobb
-    Part Tray Thin 2D5 06 60](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_06_60/working)<br><br>'
-markdown_short: '[oobb_part_tray_thin_2d5_06_60](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_06_60/working)<br><br>'
+markdown_full: '[oobb_part_tray_thin_2d5_06_60](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_06_60/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_06_60/working)<br>[Oobb
+    Part Tray Thin 2D5 06 60](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_06_60/working)<br><br>'
+markdown_short: '[oobb_part_tray_thin_2d5_06_60](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_06_60/working)<br><br>'
 md5: 24ec8f07a2fdd51c2692edc06f6a0494
 md5_10: 24ec8f07a2
 md5_10_upper: 24EC8F07A2

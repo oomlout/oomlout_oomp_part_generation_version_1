@@ -48,7 +48,8 @@
     "id_no_type": "0201_39_ohm",
     "id_no_size": "39_ohm",
     "oomp_key": "oomp_electronic_resistor_0201_39_ohm",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_39_ohm/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_39_ohm/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_39_ohm/working",
     "directory": "parts/electronic_resistor_0201_39_ohm",
     "name": "Electronic Resistor 0201 39 Ohm",
     "name_no_class": "Resistor 0201 39 Ohm",
@@ -97,6 +98,6 @@
     "name_no_size_short": "39 Ohm",
     "description_or_color": "39",
     "description_or_color_upper": "39",
-    "markdown_full": "[electronic_resistor_0201_39_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_39_ohm/working)<br>[ro390](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_39_ohm/working)<br>[Electronic Resistor 0201 39 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_39_ohm/working)<br><br>[Uniroyal - NQ01WMJ0390TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0390TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0390TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0390TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0390TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0390TEE)<br>",
-    "markdown_short": "[electronic_resistor_0201_39_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_39_ohm/working)<br><br>[Uniroyal - NQ01WMJ0390TEE- not in jlc basic parts]()"
+    "markdown_full": "[electronic_resistor_0201_39_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_39_ohm/working)<br>[ro390](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_39_ohm/working)<br>[Electronic Resistor 0201 39 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_39_ohm/working)<br><br>[Uniroyal - NQ01WMJ0390TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0390TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0390TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0390TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0390TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0390TEE)<br>",
+    "markdown_short": "[electronic_resistor_0201_39_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_39_ohm/working)<br><br>[Uniroyal - NQ01WMJ0390TEE- not in jlc basic parts]()"
 }

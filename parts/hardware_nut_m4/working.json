@@ -48,7 +48,8 @@
     "id_no_type": "m4",
     "id_no_size": "m4",
     "oomp_key": "oomp_hardware_nut_m4",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4/working",
     "directory": "parts/hardware_nut_m4",
     "name": "Hardware Nut M4",
     "name_no_class": "Nut M4",
@@ -86,6 +87,6 @@
     "name_no_size_short": "M4",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_nut_m4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4/working)<br>[nu4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4/working)<br>[Hardware Nut M4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4/working)<br><br>",
-    "markdown_short": "[hardware_nut_m4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4/working)<br><br>"
+    "markdown_full": "[hardware_nut_m4](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4/working)<br>[nu4](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4/working)<br>[Hardware Nut M4](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4/working)<br><br>",
+    "markdown_short": "[hardware_nut_m4](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4/working)<br><br>"
 }

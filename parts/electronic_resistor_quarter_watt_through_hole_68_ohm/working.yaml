@@ -37,21 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ro680_electronic_resistor_quarter_watt_through_hole_68_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68_ohm/working
 id: electronic_resistor_quarter_watt_through_hole_68_ohm
 id_no_class: resistor_quarter_watt_through_hole_68_ohm
 id_no_size: 68_ohm
 id_no_type: quarter_watt_through_hole_68_ohm
 kicad_reference: R
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68_ohm/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_quarter_watt_through_hole_68_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68_ohm/working)<br>[ro680](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68_ohm/working)<br>[Electronic
-    Resistor Quarter Watt Through Hole 68 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_quarter_watt_through_hole_68_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68_ohm/working)<br><br>'
+markdown_full: '[electronic_resistor_quarter_watt_through_hole_68_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68_ohm/working)<br>[ro680](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68_ohm/working)<br>[Electronic
+    Resistor Quarter Watt Through Hole 68 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_quarter_watt_through_hole_68_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68_ohm/working)<br><br>'
 md5: af5cfc3e81a31677a4c2927502f28c1c
 md5_10: af5cfc3e81
 md5_10_upper: AF5CFC3E81

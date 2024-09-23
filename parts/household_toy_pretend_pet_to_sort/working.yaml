@@ -26,20 +26,21 @@ directory: parts/household_toy_pretend_pet_to_sort
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_pet_to_sort/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_pretend_pet_to_sort/working
 id: household_toy_pretend_pet_to_sort
 id_no_class: pretend_pet_to_sort
 id_no_size: tosort
 id_no_type: to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_pretend_pet_to_sort/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[household_toy_pretend_pet_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_pet_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_pet_to_sort/working)<br>[Household
-    Toy Pretend Pet To Sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_pet_to_sort/working)<br><br>'
-markdown_short: '[household_toy_pretend_pet_to_sort](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_pet_to_sort/working)<br><br>'
+markdown_full: '[household_toy_pretend_pet_to_sort](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_pretend_pet_to_sort/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_pretend_pet_to_sort/working)<br>[Household
+    Toy Pretend Pet To Sort](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_pretend_pet_to_sort/working)<br><br>'
+markdown_short: '[household_toy_pretend_pet_to_sort](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_pretend_pet_to_sort/working)<br><br>'
 md5: 7202fea03b4cf47d8e9117052fff2d1d
 md5_10: 7202fea03b
 md5_10_upper: 7202FEA03B

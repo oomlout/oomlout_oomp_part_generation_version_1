@@ -48,7 +48,8 @@
     "id_no_type": "quarter_watt_through_hole_27_ohm",
     "id_no_size": "27_ohm",
     "oomp_key": "oomp_electronic_resistor_quarter_watt_through_hole_27_ohm",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27_ohm/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27_ohm/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27_ohm/working",
     "directory": "parts/electronic_resistor_quarter_watt_through_hole_27_ohm",
     "name": "Electronic Resistor Quarter Watt Through Hole 27 Ohm",
     "name_no_class": "Resistor Quarter Watt Through Hole 27 Ohm",
@@ -86,6 +87,6 @@
     "name_no_size_short": "27 Ohm",
     "description_or_color": "27",
     "description_or_color_upper": "27",
-    "markdown_full": "[electronic_resistor_quarter_watt_through_hole_27_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27_ohm/working)<br>[ro270](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27_ohm/working)<br>[Electronic Resistor Quarter Watt Through Hole 27 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27_ohm/working)<br><br>",
-    "markdown_short": "[electronic_resistor_quarter_watt_through_hole_27_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27_ohm/working)<br><br>"
+    "markdown_full": "[electronic_resistor_quarter_watt_through_hole_27_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27_ohm/working)<br>[ro270](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27_ohm/working)<br>[Electronic Resistor Quarter Watt Through Hole 27 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27_ohm/working)<br><br>",
+    "markdown_short": "[electronic_resistor_quarter_watt_through_hole_27_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27_ohm/working)<br><br>"
 }

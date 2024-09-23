@@ -26,20 +26,21 @@ directory: parts/hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth/working
 id: hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth
 id_no_class: bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth
 id_no_size: 6219_size_95_mm_id_170_mm_od_32_mm_depth
 id_no_type: 6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth/working)<br>[Hardware
-    Bearing 6200 Series 6219 Size 95 Mm Id 170 Mm Od 32 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth/working)<br><br>'
-markdown_short: '[hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth/working)<br><br>'
+markdown_full: '[hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth/working)<br>[Hardware
+    Bearing 6200 Series 6219 Size 95 Mm Id 170 Mm Od 32 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth/working)<br><br>'
+markdown_short: '[hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth/working)<br><br>'
 md5: f8cf4dacc69e1fc9a1aef2643321569d
 md5_10: f8cf4dacc6
 md5_10_upper: F8CF4DACC6

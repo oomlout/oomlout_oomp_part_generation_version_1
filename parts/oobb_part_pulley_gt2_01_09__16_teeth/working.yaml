@@ -24,20 +24,21 @@ description_or_color: '109'
 description_or_color_upper: '109'
 directory: parts/oobb_part_pulley_gt2_01_09__16_teeth
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth/working
 id: oobb_part_pulley_gt2_01_09__16_teeth
 id_no_class: part_pulley_gt2_01_09__16_teeth
 id_no_size: 01_09__16_teeth
 id_no_type: pulley_gt2_01_09__16_teeth
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_pulley_gt2_01_09__16_teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth/working)<br>[Oobb
-    Part Pulley Gt2 01 09  16 Teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth/working)<br><br>'
-markdown_short: '[oobb_part_pulley_gt2_01_09__16_teeth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth/working)<br><br>'
+markdown_full: '[oobb_part_pulley_gt2_01_09__16_teeth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth/working)<br>[Oobb
+    Part Pulley Gt2 01 09  16 Teeth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth/working)<br><br>'
+markdown_short: '[oobb_part_pulley_gt2_01_09__16_teeth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth/working)<br><br>'
 md5: 8adf57f7796773449435c98c6b766341
 md5_10: 8adf57f779
 md5_10_upper: 8ADF57F779

@@ -24,20 +24,21 @@ description_or_color: 3M
 description_or_color_upper: 3M
 directory: parts/oobb_part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01/working
 id: oobb_part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01
 id_no_class: part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01
 id_no_size: 03_03_12_6704_sh_motor_gearmotor_01
 id_no_type: bearing_plate_03_03_12_6704_sh_motor_gearmotor_01
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01/working)<br>[Oobb
-    Part Bearing Plate 03 03 12 6704 Sh Motor Gearmotor 01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01/working)<br><br>'
-markdown_short: '[oobb_part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01/working)<br><br>'
+markdown_full: '[oobb_part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01/working)<br>[Oobb
+    Part Bearing Plate 03 03 12 6704 Sh Motor Gearmotor 01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01/working)<br><br>'
+markdown_short: '[oobb_part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01/working)<br><br>'
 md5: 0d95d66ba8c124c1feecb4558488d611
 md5_10: 0d95d66ba8
 md5_10_upper: 0D95D66BA8

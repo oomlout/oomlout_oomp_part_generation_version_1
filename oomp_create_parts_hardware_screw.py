@@ -278,6 +278,8 @@ def load_parts(**kwargs):
         part_details["part_number"] = "800FY"
         parts.append(part_details)
 
+
+
     
     oomp.add_parts(parts, **kwargs)
     

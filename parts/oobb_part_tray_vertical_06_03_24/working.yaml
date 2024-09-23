@@ -24,20 +24,21 @@ description_or_color: 60k
 description_or_color_upper: 60K
 directory: parts/oobb_part_tray_vertical_06_03_24
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_03_24/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_03_24/working
 id: oobb_part_tray_vertical_06_03_24
 id_no_class: part_tray_vertical_06_03_24
 id_no_size: '06_03_24'
 id_no_type: tray_vertical_06_03_24
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_03_24/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_tray_vertical_06_03_24](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_03_24/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_03_24/working)<br>[Oobb
-    Part Tray Vertical 06 03 24](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_03_24/working)<br><br>'
-markdown_short: '[oobb_part_tray_vertical_06_03_24](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_03_24/working)<br><br>'
+markdown_full: '[oobb_part_tray_vertical_06_03_24](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_03_24/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_03_24/working)<br>[Oobb
+    Part Tray Vertical 06 03 24](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_03_24/working)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_06_03_24](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_03_24/working)<br><br>'
 md5: 3a2d77d94b4b70ecabda20236572925c
 md5_10: 3a2d77d94b
 md5_10_upper: 3A2D77D94B

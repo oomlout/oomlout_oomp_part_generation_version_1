@@ -26,21 +26,22 @@ directory: parts/hardware_set_screw_m5_12_mm_length
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_12_mm_length/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m5_12_mm_length/working
 id: hardware_set_screw_m5_12_mm_length
 id_no_class: set_screw_m5_12_mm_length
 id_no_size: 12_mm_length
 id_no_type: m5_12_mm_length
 kicad_reference: ''
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m5_12_mm_length/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_set_screw_m5_12_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_12_mm_length/working)<br>[ss512](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_12_mm_length/working)<br>[Hardware
-    Set Screw M5 12 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_12_mm_length/working)<br><br>'
-markdown_short: '[hardware_set_screw_m5_12_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_12_mm_length/working)<br><br>'
+markdown_full: '[hardware_set_screw_m5_12_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m5_12_mm_length/working)<br>[ss512](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m5_12_mm_length/working)<br>[Hardware
+    Set Screw M5 12 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m5_12_mm_length/working)<br><br>'
+markdown_short: '[hardware_set_screw_m5_12_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m5_12_mm_length/working)<br><br>'
 md5: e3e42443d6d93d9bdc7d2daeda3c47f2
 md5_10: e3e42443d6
 md5_10_upper: E3E42443D6

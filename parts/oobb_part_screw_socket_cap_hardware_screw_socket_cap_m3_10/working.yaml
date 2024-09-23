@@ -24,20 +24,21 @@ description_or_color: '310'
 description_or_color_upper: '310'
 directory: parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10/working
 id: oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10
 id_no_class: part_screw_socket_cap_hardware_screw_socket_cap_m3_10
 id_no_size: hardware_m3_10
 id_no_type: screw_socket_cap_hardware_screw_socket_cap_m3_10
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10/working)<br>[Oobb
-    Part Screw Socket Cap Hardware Screw Socket Cap M3 10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10/working)<br><br>'
-markdown_short: '[oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10/working)<br><br>'
+markdown_full: '[oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10/working)<br>[Oobb
+    Part Screw Socket Cap Hardware Screw Socket Cap M3 10](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10/working)<br><br>'
+markdown_short: '[oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10/working)<br><br>'
 md5: db3d23e2590e2d4c84f33a99ce48f05c
 md5_10: db3d23e259
 md5_10_upper: DB3D23E259

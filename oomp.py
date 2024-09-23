@@ -216,7 +216,10 @@ def add_part(**kwargs):
         kwargs["id_no_size"] = id_no_size
 
         kwargs["oomp_key"] = f'oomp_{id}'
-        kwargs["github_link"] = f"https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/{id}/working" 
+        github_link = f"https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/{id}/working" 
+        kwargs["github_link"] = github_link
+        kwargs["link_main"] = github_link
+
         
         #add the directory
         kwargs["directory"] = f'parts/{id}'

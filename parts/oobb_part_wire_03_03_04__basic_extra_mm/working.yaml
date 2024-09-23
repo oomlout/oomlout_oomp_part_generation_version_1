@@ -24,20 +24,21 @@ description_or_color: 30k
 description_or_color_upper: 30K
 directory: parts/oobb_part_wire_03_03_04__basic_extra_mm
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_04__basic_extra_mm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_04__basic_extra_mm/working
 id: oobb_part_wire_03_03_04__basic_extra_mm
 id_no_class: part_wire_03_03_04__basic_extra_mm
 id_no_size: 03_03_04__basic_extra_mm
 id_no_type: wire_03_03_04__basic_extra_mm
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_04__basic_extra_mm/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_wire_03_03_04__basic_extra_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_04__basic_extra_mm/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_04__basic_extra_mm/working)<br>[Oobb
-    Part Wire 03 03 04  Basic Extra Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_04__basic_extra_mm/working)<br><br>'
-markdown_short: '[oobb_part_wire_03_03_04__basic_extra_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_04__basic_extra_mm/working)<br><br>'
+markdown_full: '[oobb_part_wire_03_03_04__basic_extra_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_04__basic_extra_mm/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_04__basic_extra_mm/working)<br>[Oobb
+    Part Wire 03 03 04  Basic Extra Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_04__basic_extra_mm/working)<br><br>'
+markdown_short: '[oobb_part_wire_03_03_04__basic_extra_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_04__basic_extra_mm/working)<br><br>'
 md5: 9c23093f5882df6107d67581635b8f96
 md5_10: 9c23093f58
 md5_10_upper: 9C23093F58

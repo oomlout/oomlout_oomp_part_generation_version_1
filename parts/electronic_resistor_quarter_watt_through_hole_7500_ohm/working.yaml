@@ -37,21 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ro752_electronic_resistor_quarter_watt_through_hole_7500_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_7500_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_7500_ohm/working
 id: electronic_resistor_quarter_watt_through_hole_7500_ohm
 id_no_class: resistor_quarter_watt_through_hole_7500_ohm
 id_no_size: 7500_ohm
 id_no_type: quarter_watt_through_hole_7500_ohm
 kicad_reference: R
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_7500_ohm/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_quarter_watt_through_hole_7500_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_7500_ohm/working)<br>[ro752](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_7500_ohm/working)<br>[Electronic
-    Resistor Quarter Watt Through Hole 7500 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_7500_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_quarter_watt_through_hole_7500_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_7500_ohm/working)<br><br>'
+markdown_full: '[electronic_resistor_quarter_watt_through_hole_7500_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_7500_ohm/working)<br>[ro752](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_7500_ohm/working)<br>[Electronic
+    Resistor Quarter Watt Through Hole 7500 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_7500_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_quarter_watt_through_hole_7500_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_7500_ohm/working)<br><br>'
 md5: 00dff531ebc8791ca870d491993b4049
 md5_10: 00dff531eb
 md5_10_upper: 00DFF531EB

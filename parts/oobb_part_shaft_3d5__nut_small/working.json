@@ -47,7 +47,8 @@
     "id_no_type": "shaft_3d5__nut_small",
     "id_no_size": "3d5__nut_small",
     "oomp_key": "oomp_oobb_part_shaft_3d5__nut_small",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5__nut_small/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__nut_small/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__nut_small/working",
     "directory": "parts/oobb_part_shaft_3d5__nut_small",
     "name": "Oobb Part Shaft 3D5  Nut Small",
     "name_no_class": "Part Shaft 3D5  Nut Small",
@@ -84,6 +85,6 @@
     "name_no_size_short": "3D5  Nut Small",
     "description_or_color": "35",
     "description_or_color_upper": "35",
-    "markdown_full": "[oobb_part_shaft_3d5__nut_small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5__nut_small/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5__nut_small/working)<br>[Oobb Part Shaft 3D5  Nut Small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5__nut_small/working)<br><br>",
-    "markdown_short": "[oobb_part_shaft_3d5__nut_small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5__nut_small/working)<br><br>"
+    "markdown_full": "[oobb_part_shaft_3d5__nut_small](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__nut_small/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__nut_small/working)<br>[Oobb Part Shaft 3D5  Nut Small](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__nut_small/working)<br><br>",
+    "markdown_short": "[oobb_part_shaft_3d5__nut_small](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__nut_small/working)<br><br>"
 }

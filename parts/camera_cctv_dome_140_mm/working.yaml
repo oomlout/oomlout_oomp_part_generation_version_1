@@ -26,20 +26,21 @@ directory: parts/camera_cctv_dome_140_mm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/camera_cctv_dome_140_mm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/camera_cctv_dome_140_mm/working
 id: camera_cctv_dome_140_mm
 id_no_class: cctv_dome_140_mm
 id_no_size: 140_mm
 id_no_type: 140_mm
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/camera_cctv_dome_140_mm/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[camera_cctv_dome_140_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/camera_cctv_dome_140_mm/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/camera_cctv_dome_140_mm/working)<br>[Camera
-    Cctv Dome 140 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/camera_cctv_dome_140_mm/working)<br><br>'
-markdown_short: '[camera_cctv_dome_140_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/camera_cctv_dome_140_mm/working)<br><br>'
+markdown_full: '[camera_cctv_dome_140_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/camera_cctv_dome_140_mm/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/camera_cctv_dome_140_mm/working)<br>[Camera
+    Cctv Dome 140 Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/camera_cctv_dome_140_mm/working)<br><br>'
+markdown_short: '[camera_cctv_dome_140_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/camera_cctv_dome_140_mm/working)<br><br>'
 md5: 44c7ef6c170bf3521ced44dfe0c5f4bd
 md5_10: 44c7ef6c17
 md5_10_upper: 44C7EF6C17

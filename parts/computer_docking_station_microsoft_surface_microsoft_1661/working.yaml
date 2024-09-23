@@ -26,20 +26,21 @@ directory: parts/computer_docking_station_microsoft_surface_microsoft_1661
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661/working
 id: computer_docking_station_microsoft_surface_microsoft_1661
 id_no_class: docking_station_microsoft_surface_microsoft_1661
 id_no_size: microsoft_1661
 id_no_type: microsoft_surface_microsoft_1661
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661/working
 manufacturer: microsoft
 manufacturer_capital: Microsoft
 manufacturer_first_letter: m
 manufacturer_first_letter_upper: M
 manufacturer_upper: MICROSOFT
 manufacturers: []
-markdown_full: '[computer_docking_station_microsoft_surface_microsoft_1661](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661/working)<br>[Computer
-    Docking Station Microsoft Surface Microsoft 1661](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661/working)<br><br>'
-markdown_short: '[computer_docking_station_microsoft_surface_microsoft_1661](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661/working)<br><br>'
+markdown_full: '[computer_docking_station_microsoft_surface_microsoft_1661](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661/working)<br>[Computer
+    Docking Station Microsoft Surface Microsoft 1661](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661/working)<br><br>'
+markdown_short: '[computer_docking_station_microsoft_surface_microsoft_1661](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661/working)<br><br>'
 md5: 26d58805143d0182786476a8a1d2ed5c
 md5_10: 26d5880514
 md5_10_upper: 26D5880514

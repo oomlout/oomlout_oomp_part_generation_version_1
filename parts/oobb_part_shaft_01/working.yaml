@@ -24,20 +24,21 @@ description_or_color: '1'
 description_or_color_upper: '1'
 directory: parts/oobb_part_shaft_01
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_01/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_01/working
 id: oobb_part_shaft_01
 id_no_class: part_shaft_01
 id_no_size: '01'
 id_no_type: shaft_01
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_01/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_shaft_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_01/working)<br>[Oobb
-    Part Shaft 01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_01/working)<br><br>'
-markdown_short: '[oobb_part_shaft_01](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_01/working)<br><br>'
+markdown_full: '[oobb_part_shaft_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_01/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_01/working)<br>[Oobb
+    Part Shaft 01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_01/working)<br><br>'
+markdown_short: '[oobb_part_shaft_01](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_01/working)<br><br>'
 md5: 8a18db80e836bebc249b494a27e3544c
 md5_10: 8a18db80e8
 md5_10_upper: 8A18DB80E8

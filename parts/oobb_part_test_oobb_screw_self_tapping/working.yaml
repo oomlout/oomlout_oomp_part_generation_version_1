@@ -24,20 +24,21 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/oobb_part_test_oobb_screw_self_tapping
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working
 id: oobb_part_test_oobb_screw_self_tapping
 id_no_class: part_test_screw_self_tapping
 id_no_size: screw_self_tapping
 id_no_type: test_screw_self_tapping
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_test_oobb_screw_self_tapping](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working)<br>[Oobb
-    Part Test Oobb Screw Self Tapping](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working)<br><br>'
-markdown_short: '[oobb_part_test_oobb_screw_self_tapping](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working)<br><br>'
+markdown_full: '[oobb_part_test_oobb_screw_self_tapping](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working)<br>[Oobb
+    Part Test Oobb Screw Self Tapping](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working)<br><br>'
+markdown_short: '[oobb_part_test_oobb_screw_self_tapping](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_self_tapping/working)<br><br>'
 md5: 1f8018b7bb45465aa891e5d7373cce53
 md5_10: 1f8018b7bb
 md5_10_upper: 1F8018B7BB

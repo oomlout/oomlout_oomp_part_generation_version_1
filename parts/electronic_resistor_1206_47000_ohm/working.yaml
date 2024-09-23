@@ -37,12 +37,13 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r12o473_electronic_resistor_1206_47000_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_47000_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_47000_ohm/working
 id: electronic_resistor_1206_47000_ohm
 id_no_class: resistor_1206_47000_ohm
 id_no_size: 47000_ohm
 id_no_type: 1206_47000_ohm
 kicad_reference: R
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_47000_ohm/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -71,13 +72,13 @@ manufacturers:
         reason: yageo is a commonly cross referenced part number
         reason_short: available everywhere
     part_number: RC1206JR-0747KL
-markdown_full: '[electronic_resistor_1206_47000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_47000_ohm/working)<br>[r12o473](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_47000_ohm/working)<br>[Electronic
-    Resistor 1206 47000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_47000_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_1206_47000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_47000_ohm/working)<br>[r12o473](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_47000_ohm/working)<br>[Electronic
+    Resistor 1206 47000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_47000_ohm/working)<br><br>[Uniroyal
     - 1206W4J0473T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0473T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0473T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0473T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0473T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0473T5E)<br>[Uniroyal
     - 1206W4F4702T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=1206W4F4702T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4F4702T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4F4702T5E)[(N)  ](https://www.newark.com/search?st=1206W4F4702T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4F4702T5E)<br>[Yageo
     - RC1206JR-0747KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0747KL)
     [(L)  ](https://www.lcsc.com/search?q=RC1206JR-0747KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC1206JR-0747KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0747KL)[(N)  ](https://www.newark.com/search?st=RC1206JR-0747KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-0747KL)<br>'
-markdown_short: '[electronic_resistor_1206_47000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_47000_ohm/working)<br><br>[Uniroyal
+markdown_short: '[electronic_resistor_1206_47000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_47000_ohm/working)<br><br>[Uniroyal
     - 1206W4J0473T5E- not in jlc basic parts]()[Uniroyal - 1206W4F4702T5E- jlc basic
     part]()[Yageo - RC1206JR-0747KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0747KL)'
 md5: 4b30873173297cb61386144da6cbd1ee

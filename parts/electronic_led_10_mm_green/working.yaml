@@ -37,21 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l10g_electronic_led_10_mm_green
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_green/working
 id: electronic_led_10_mm_green
 id_no_class: led_10_mm_green
 id_no_size: green
 id_no_type: 10_mm_green
 kicad_reference: L
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_green/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_10_mm_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green/working)<br>[l10g](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green/working)<br>[Electronic
-    Led 10 Mm Green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green/working)<br><br>'
-markdown_short: '[electronic_led_10_mm_green](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green/working)<br><br>'
+markdown_full: '[electronic_led_10_mm_green](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_green/working)<br>[l10g](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_green/working)<br>[Electronic
+    Led 10 Mm Green](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_green/working)<br><br>'
+markdown_short: '[electronic_led_10_mm_green](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_green/working)<br><br>'
 md5: 5f6525ecafb65df19e6187ca04358bfa
 md5_10: 5f6525ecaf
 md5_10_upper: 5F6525ECAF

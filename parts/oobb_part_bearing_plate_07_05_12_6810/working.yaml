@@ -24,20 +24,21 @@ description_or_color: 7M
 description_or_color_upper: 7M
 directory: parts/oobb_part_bearing_plate_07_05_12_6810
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810/working
 id: oobb_part_bearing_plate_07_05_12_6810
 id_no_class: part_bearing_plate_07_05_12_6810
 id_no_size: 07_05_12_6810
 id_no_type: bearing_plate_07_05_12_6810
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_bearing_plate_07_05_12_6810](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810/working)<br>[Oobb
-    Part Bearing Plate 07 05 12 6810](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810/working)<br><br>'
-markdown_short: '[oobb_part_bearing_plate_07_05_12_6810](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810/working)<br><br>'
+markdown_full: '[oobb_part_bearing_plate_07_05_12_6810](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810/working)<br>[Oobb
+    Part Bearing Plate 07 05 12 6810](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810/working)<br><br>'
+markdown_short: '[oobb_part_bearing_plate_07_05_12_6810](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_07_05_12_6810/working)<br><br>'
 md5: 439f3445dfcf1ab191f98d8f646d3c1c
 md5_10: 439f3445df
 md5_10_upper: 439F3445DF

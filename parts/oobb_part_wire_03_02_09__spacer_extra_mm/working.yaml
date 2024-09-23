@@ -24,20 +24,21 @@ description_or_color: 30k
 description_or_color_upper: 30K
 directory: parts/oobb_part_wire_03_02_09__spacer_extra_mm
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_09__spacer_extra_mm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_09__spacer_extra_mm/working
 id: oobb_part_wire_03_02_09__spacer_extra_mm
 id_no_class: part_wire_03_02_09__spacer_extra_mm
 id_no_size: 03_02_09__spacer_extra_mm
 id_no_type: wire_03_02_09__spacer_extra_mm
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_09__spacer_extra_mm/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_wire_03_02_09__spacer_extra_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_09__spacer_extra_mm/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_09__spacer_extra_mm/working)<br>[Oobb
-    Part Wire 03 02 09  Spacer Extra Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_09__spacer_extra_mm/working)<br><br>'
-markdown_short: '[oobb_part_wire_03_02_09__spacer_extra_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_09__spacer_extra_mm/working)<br><br>'
+markdown_full: '[oobb_part_wire_03_02_09__spacer_extra_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_09__spacer_extra_mm/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_09__spacer_extra_mm/working)<br>[Oobb
+    Part Wire 03 02 09  Spacer Extra Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_09__spacer_extra_mm/working)<br><br>'
+markdown_short: '[oobb_part_wire_03_02_09__spacer_extra_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_09__spacer_extra_mm/working)<br><br>'
 md5: ca449c12862e6d29a813d1e5e41fa902
 md5_10: ca449c1286
 md5_10_upper: CA449C1286

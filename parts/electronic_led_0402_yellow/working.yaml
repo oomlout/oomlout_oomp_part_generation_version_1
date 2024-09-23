@@ -37,21 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l4y_electronic_led_0402_yellow
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_yellow/working
 id: electronic_led_0402_yellow
 id_no_class: led_0402_yellow
 id_no_size: yellow
 id_no_type: 0402_yellow
 kicad_reference: L
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_yellow/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_0402_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br>[l4y](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br>[Electronic
-    Led 0402 Yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br><br>'
-markdown_short: '[electronic_led_0402_yellow](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_yellow/working)<br><br>'
+markdown_full: '[electronic_led_0402_yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_yellow/working)<br>[l4y](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_yellow/working)<br>[Electronic
+    Led 0402 Yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_yellow/working)<br><br>'
+markdown_short: '[electronic_led_0402_yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_yellow/working)<br><br>'
 md5: 115c9ceb124bbc3083a529c9871f5f89
 md5_10: 115c9ceb12
 md5_10_upper: 115C9CEB12

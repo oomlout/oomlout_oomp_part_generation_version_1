@@ -48,7 +48,8 @@
     "id_no_type": "0402_22_pico_farad",
     "id_no_size": "22_pico_farad",
     "oomp_key": "oomp_electronic_capacitor_0402_22_pico_farad",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working",
     "directory": "parts/electronic_capacitor_0402_22_pico_farad",
     "name": "Electronic Capacitor 0402 22 Pico Farad",
     "name_no_class": "Capacitor 0402 22 Pico Farad",
@@ -90,6 +91,6 @@
     "name_no_size_short": "22pf Pico Farad",
     "description_or_color": "22pf",
     "description_or_color_upper": "22PF",
-    "markdown_full": "[electronic_capacitor_0402_22_pico_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working)<br>[c4pf22](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working)<br>[Electronic Capacitor 0402 22 Pico Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working)<br><br>",
-    "markdown_short": "[electronic_capacitor_0402_22_pico_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working)<br><br>"
+    "markdown_full": "[electronic_capacitor_0402_22_pico_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working)<br>[c4pf22](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working)<br>[Electronic Capacitor 0402 22 Pico Farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working)<br><br>",
+    "markdown_short": "[electronic_capacitor_0402_22_pico_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad/working)<br><br>"
 }

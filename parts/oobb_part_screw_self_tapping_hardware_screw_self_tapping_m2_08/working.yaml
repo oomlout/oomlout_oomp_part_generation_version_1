@@ -24,20 +24,21 @@ description_or_color: '208'
 description_or_color_upper: '208'
 directory: parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08/working
 id: oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08
 id_no_class: part_screw_self_tapping_hardware_screw_self_tapping_m2_08
 id_no_size: hardware_m2_08
 id_no_type: screw_self_tapping_hardware_screw_self_tapping_m2_08
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08/working)<br>[Oobb
-    Part Screw Self Tapping Hardware Screw Self Tapping M2 08](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08/working)<br><br>'
-markdown_short: '[oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08/working)<br><br>'
+markdown_full: '[oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08/working)<br>[Oobb
+    Part Screw Self Tapping Hardware Screw Self Tapping M2 08](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08/working)<br><br>'
+markdown_short: '[oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_08/working)<br><br>'
 md5: 55d0f2bac399142a8320b8e29bd64d5a
 md5_10: 55d0f2bac3
 md5_10_upper: 55D0F2BAC3

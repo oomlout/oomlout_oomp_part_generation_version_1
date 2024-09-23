@@ -24,20 +24,21 @@ description_or_color: 50k
 description_or_color_upper: 50K
 directory: parts/oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted/working
 id: oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted
 id_no_class: part_holder_05_03_09__motor_stepper_nema_17_flat_shifted
 id_no_size: 05_03_09__motor_stepper_nema_17_flat_shifted
 id_no_type: holder_05_03_09__motor_stepper_nema_17_flat_shifted
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted/working)<br>[Oobb
-    Part Holder 05 03 09  Motor Stepper Nema 17 Flat Shifted](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted/working)<br><br>'
-markdown_short: '[oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted/working)<br><br>'
+markdown_full: '[oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted/working)<br>[Oobb
+    Part Holder 05 03 09  Motor Stepper Nema 17 Flat Shifted](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted/working)<br><br>'
+markdown_short: '[oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted/working)<br><br>'
 md5: a1f06468d03353d62a73f16707c8a73e
 md5_10: a1f06468d0
 md5_10_upper: A1F06468D0

@@ -24,20 +24,21 @@ description_or_color: 1M4
 description_or_color_upper: 1M4
 directory: parts/oobb_part_plate_14_10_03_nm_oobb_pl_a5
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_10_03_nm_oobb_pl_a5/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_14_10_03_nm_oobb_pl_a5/working
 id: oobb_part_plate_14_10_03_nm_oobb_pl_a5
 id_no_class: part_plate_14_10_03_nm_pl_a5
 id_no_size: 14_10_03_nm_pl_a5
 id_no_type: plate_14_10_03_nm_pl_a5
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_14_10_03_nm_oobb_pl_a5/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_plate_14_10_03_nm_oobb_pl_a5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_10_03_nm_oobb_pl_a5/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_10_03_nm_oobb_pl_a5/working)<br>[Oobb
-    Part Plate 14 10 03 Nm Oobb Pl A5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_10_03_nm_oobb_pl_a5/working)<br><br>'
-markdown_short: '[oobb_part_plate_14_10_03_nm_oobb_pl_a5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_10_03_nm_oobb_pl_a5/working)<br><br>'
+markdown_full: '[oobb_part_plate_14_10_03_nm_oobb_pl_a5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_14_10_03_nm_oobb_pl_a5/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_14_10_03_nm_oobb_pl_a5/working)<br>[Oobb
+    Part Plate 14 10 03 Nm Oobb Pl A5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_14_10_03_nm_oobb_pl_a5/working)<br><br>'
+markdown_short: '[oobb_part_plate_14_10_03_nm_oobb_pl_a5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_14_10_03_nm_oobb_pl_a5/working)<br><br>'
 md5: e24eeae8cd18789b8c0ef2d45b3afd1d
 md5_10: e24eeae8cd
 md5_10_upper: E24EEAE8CD

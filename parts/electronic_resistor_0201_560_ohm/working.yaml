@@ -26,12 +26,13 @@ directory: parts/electronic_resistor_0201_560_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_560_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_560_ohm/working
 id: electronic_resistor_0201_560_ohm
 id_no_class: resistor_0201_560_ohm
 id_no_size: 560_ohm
 id_no_type: 0201_560_ohm
 kicad_reference: R
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_560_ohm/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -46,10 +47,10 @@ manufacturers:
             and they are the same price
         reason_short: not in jlc basic parts
     part_number: NQ01WMJ0561TEE
-markdown_full: '[electronic_resistor_0201_560_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_560_ohm/working)<br>[ro561](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_560_ohm/working)<br>[Electronic
-    Resistor 0201 560 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_560_ohm/working)<br><br>[Uniroyal
+markdown_full: '[electronic_resistor_0201_560_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_560_ohm/working)<br>[ro561](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_560_ohm/working)<br>[Electronic
+    Resistor 0201 560 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_560_ohm/working)<br><br>[Uniroyal
     - NQ01WMJ0561TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0561TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0561TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0561TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0561TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0561TEE)<br>'
-markdown_short: '[electronic_resistor_0201_560_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_560_ohm/working)<br><br>[Uniroyal
+markdown_short: '[electronic_resistor_0201_560_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_560_ohm/working)<br><br>[Uniroyal
     - NQ01WMJ0561TEE- not in jlc basic parts]()'
 md5: 1e228d96d284e28734dab6c33e5cfc0d
 md5_10: 1e228d96d2

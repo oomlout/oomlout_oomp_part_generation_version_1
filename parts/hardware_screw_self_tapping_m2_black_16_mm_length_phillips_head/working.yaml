@@ -26,21 +26,22 @@ directory: parts/hardware_screw_self_tapping_m2_black_16_mm_length_phillips_head
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_black_16_mm_length_phillips_head/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m2_black_16_mm_length_phillips_head/working
 id: hardware_screw_self_tapping_m2_black_16_mm_length_phillips_head
 id_no_class: screw_self_tapping_m2_black_16_mm_length_phillips_head
 id_no_size: black_16_mm_length_phillips_head
 id_no_type: m2_black_16_mm_length_phillips_head
 kicad_reference: ''
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m2_black_16_mm_length_phillips_head/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_screw_self_tapping_m2_black_16_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_black_16_mm_length_phillips_head/working)<br>[st2b16ph](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_black_16_mm_length_phillips_head/working)<br>[Hardware
-    Screw Self Tapping M2 Black 16 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_black_16_mm_length_phillips_head/working)<br><br>'
-markdown_short: '[hardware_screw_self_tapping_m2_black_16_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m2_black_16_mm_length_phillips_head/working)<br><br>'
+markdown_full: '[hardware_screw_self_tapping_m2_black_16_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m2_black_16_mm_length_phillips_head/working)<br>[st2b16ph](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m2_black_16_mm_length_phillips_head/working)<br>[Hardware
+    Screw Self Tapping M2 Black 16 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m2_black_16_mm_length_phillips_head/working)<br><br>'
+markdown_short: '[hardware_screw_self_tapping_m2_black_16_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m2_black_16_mm_length_phillips_head/working)<br><br>'
 md5: a68e9e4b790f100d05e9fb4d5cae7efc
 md5_10: a68e9e4b79
 md5_10_upper: A68E9E4B79

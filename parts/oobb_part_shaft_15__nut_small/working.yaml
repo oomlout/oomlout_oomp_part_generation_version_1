@@ -24,20 +24,21 @@ description_or_color: '15'
 description_or_color_upper: '15'
 directory: parts/oobb_part_shaft_15__nut_small
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_15__nut_small/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_15__nut_small/working
 id: oobb_part_shaft_15__nut_small
 id_no_class: part_shaft_15__nut_small
 id_no_size: 15__nut_small
 id_no_type: shaft_15__nut_small
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_15__nut_small/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_shaft_15__nut_small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_15__nut_small/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_15__nut_small/working)<br>[Oobb
-    Part Shaft 15  Nut Small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_15__nut_small/working)<br><br>'
-markdown_short: '[oobb_part_shaft_15__nut_small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_15__nut_small/working)<br><br>'
+markdown_full: '[oobb_part_shaft_15__nut_small](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_15__nut_small/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_15__nut_small/working)<br>[Oobb
+    Part Shaft 15  Nut Small](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_15__nut_small/working)<br><br>'
+markdown_short: '[oobb_part_shaft_15__nut_small](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_15__nut_small/working)<br><br>'
 md5: 5395454d760deb3dc4b8ea9017f269b6
 md5_10: 5395454d76
 md5_10_upper: 5395454D76

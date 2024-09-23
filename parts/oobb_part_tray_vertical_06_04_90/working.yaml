@@ -24,20 +24,21 @@ description_or_color: 60k
 description_or_color_upper: 60K
 directory: parts/oobb_part_tray_vertical_06_04_90
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_04_90/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_04_90/working
 id: oobb_part_tray_vertical_06_04_90
 id_no_class: part_tray_vertical_06_04_90
 id_no_size: 06_04_90
 id_no_type: tray_vertical_06_04_90
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_04_90/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_tray_vertical_06_04_90](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_04_90/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_04_90/working)<br>[Oobb
-    Part Tray Vertical 06 04 90](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_04_90/working)<br><br>'
-markdown_short: '[oobb_part_tray_vertical_06_04_90](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_06_04_90/working)<br><br>'
+markdown_full: '[oobb_part_tray_vertical_06_04_90](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_04_90/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_04_90/working)<br>[Oobb
+    Part Tray Vertical 06 04 90](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_04_90/working)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_06_04_90](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_04_90/working)<br><br>'
 md5: 2a11f48362e5eb27d2b64d2ac234d3c8
 md5_10: 2a11f48362
 md5_10_upper: 2A11F48362

@@ -47,7 +47,8 @@
     "id_no_type": "m3",
     "id_no_size": "m3",
     "oomp_key": "oomp_electronic_mounting_hole_m3",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3/working",
     "directory": "parts/electronic_mounting_hole_m3",
     "name": "Electronic Mounting Hole M3",
     "name_no_class": "Mounting Hole M3",
@@ -86,6 +87,6 @@
     "name_no_size_short": "M3",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working)<br>[mh3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working)<br>[Electronic Mounting Hole M3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working)<br><br>",
-    "markdown_short": "[electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3/working)<br><br>"
+    "markdown_full": "[electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3/working)<br>[mh3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3/working)<br>[Electronic Mounting Hole M3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3/working)<br><br>",
+    "markdown_short": "[electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_mounting_hole_m3/working)<br><br>"
 }

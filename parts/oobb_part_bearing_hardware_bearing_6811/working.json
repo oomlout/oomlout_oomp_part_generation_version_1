@@ -47,7 +47,8 @@
     "id_no_type": "bearing_hardware_bearing_6811",
     "id_no_size": "hardware_6811",
     "oomp_key": "oomp_oobb_part_bearing_hardware_bearing_6811",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6811/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6811/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6811/working",
     "directory": "parts/oobb_part_bearing_hardware_bearing_6811",
     "name": "Oobb Part Bearing Hardware Bearing 6811",
     "name_no_class": "Part Bearing Hardware Bearing 6811",
@@ -84,6 +85,6 @@
     "name_no_size_short": "Hardware 6k8",
     "description_or_color": "6k8",
     "description_or_color_upper": "6K8",
-    "markdown_full": "[oobb_part_bearing_hardware_bearing_6811](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6811/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6811/working)<br>[Oobb Part Bearing Hardware Bearing 6811](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6811/working)<br><br>",
-    "markdown_short": "[oobb_part_bearing_hardware_bearing_6811](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6811/working)<br><br>"
+    "markdown_full": "[oobb_part_bearing_hardware_bearing_6811](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6811/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6811/working)<br>[Oobb Part Bearing Hardware Bearing 6811](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6811/working)<br><br>",
+    "markdown_short": "[oobb_part_bearing_hardware_bearing_6811](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6811/working)<br><br>"
 }

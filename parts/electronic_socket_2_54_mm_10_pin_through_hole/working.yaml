@@ -24,21 +24,22 @@ description_or_color: '10'
 description_or_color_upper: '10'
 directory: parts/electronic_socket_2_54_mm_10_pin_through_hole
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_10_pin_through_hole/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_10_pin_through_hole/working
 id: electronic_socket_2_54_mm_10_pin_through_hole
 id_no_class: socket_2_54_mm_10_pin_through_hole
 id_no_size: 10_pin_through_hole
 id_no_type: 2_54_mm_10_pin_through_hole
 kicad_reference: CONN
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_10_pin_through_hole/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_socket_2_54_mm_10_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_10_pin_through_hole/working)<br>[sci110pth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_10_pin_through_hole/working)<br>[Electronic
-    Socket 2 54 Mm 10 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_10_pin_through_hole/working)<br><br>'
-markdown_short: '[electronic_socket_2_54_mm_10_pin_through_hole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_10_pin_through_hole/working)<br><br>'
+markdown_full: '[electronic_socket_2_54_mm_10_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_10_pin_through_hole/working)<br>[sci110pth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_10_pin_through_hole/working)<br>[Electronic
+    Socket 2 54 Mm 10 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_10_pin_through_hole/working)<br><br>'
+markdown_short: '[electronic_socket_2_54_mm_10_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_10_pin_through_hole/working)<br><br>'
 md5: 7c22425d8dfc19b2c745ae32643c73b4
 md5_10: 7c22425d8d
 md5_10_upper: 7C22425D8D

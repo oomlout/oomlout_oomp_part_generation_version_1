@@ -37,21 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ro561_electronic_resistor_quarter_watt_through_hole_560_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_560_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_560_ohm/working
 id: electronic_resistor_quarter_watt_through_hole_560_ohm
 id_no_class: resistor_quarter_watt_through_hole_560_ohm
 id_no_size: 560_ohm
 id_no_type: quarter_watt_through_hole_560_ohm
 kicad_reference: R
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_560_ohm/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_quarter_watt_through_hole_560_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_560_ohm/working)<br>[ro561](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_560_ohm/working)<br>[Electronic
-    Resistor Quarter Watt Through Hole 560 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_560_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_quarter_watt_through_hole_560_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_560_ohm/working)<br><br>'
+markdown_full: '[electronic_resistor_quarter_watt_through_hole_560_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_560_ohm/working)<br>[ro561](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_560_ohm/working)<br>[Electronic
+    Resistor Quarter Watt Through Hole 560 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_560_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_quarter_watt_through_hole_560_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_560_ohm/working)<br><br>'
 md5: 2ddd1186cd26fd7388b061f06e737f71
 md5_10: 2ddd1186cd
 md5_10_upper: 2DDD1186CD

@@ -26,20 +26,21 @@ directory: parts/hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth/working
 id: hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth
 id_no_class: bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth
 id_no_size: 5215_size_75_mm_id_130_mm_od_41_2_mm_depth
 id_no_type: 5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth/working)<br>[Hardware
-    Bearing 5200 Series 5215 Size 75 Mm Id 130 Mm Od 41 2 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth/working)<br><br>'
-markdown_short: '[hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth/working)<br><br>'
+markdown_full: '[hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth/working)<br>[Hardware
+    Bearing 5200 Series 5215 Size 75 Mm Id 130 Mm Od 41 2 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth/working)<br><br>'
+markdown_short: '[hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth/working)<br><br>'
 md5: 1cef54c09ea2e8770bf6c6ae81d95f29
 md5_10: 1cef54c09e
 md5_10_upper: 1CEF54C09E

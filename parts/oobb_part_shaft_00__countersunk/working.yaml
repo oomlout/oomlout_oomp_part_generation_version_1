@@ -24,20 +24,21 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/oobb_part_shaft_00__countersunk
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__countersunk/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00__countersunk/working
 id: oobb_part_shaft_00__countersunk
 id_no_class: part_shaft_00__countersunk
 id_no_size: 00__countersunk
 id_no_type: shaft_00__countersunk
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00__countersunk/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_shaft_00__countersunk](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__countersunk/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__countersunk/working)<br>[Oobb
-    Part Shaft 00  Countersunk](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__countersunk/working)<br><br>'
-markdown_short: '[oobb_part_shaft_00__countersunk](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__countersunk/working)<br><br>'
+markdown_full: '[oobb_part_shaft_00__countersunk](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00__countersunk/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00__countersunk/working)<br>[Oobb
+    Part Shaft 00  Countersunk](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00__countersunk/working)<br><br>'
+markdown_short: '[oobb_part_shaft_00__countersunk](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00__countersunk/working)<br><br>'
 md5: 5a9062b097cad6e4146fc331ae537252
 md5_10: 5a9062b097
 md5_10_upper: 5A9062B097

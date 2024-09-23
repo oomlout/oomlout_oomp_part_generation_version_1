@@ -48,7 +48,8 @@
     "id_no_type": "wago_221_5_pole",
     "id_no_size": "5_pole",
     "oomp_key": "oomp_electronic_connector_wago_221_5_pole",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_5_pole/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_5_pole/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_5_pole/working",
     "directory": "parts/electronic_connector_wago_221_5_pole",
     "name": "Electronic Connector Wago 221 5 Pole",
     "name_no_class": "Connector Wago 221 5 Pole",
@@ -86,6 +87,6 @@
     "name_no_size_short": "5 Pole",
     "description_or_color": "5",
     "description_or_color_upper": "5",
-    "markdown_full": "[electronic_connector_wago_221_5_pole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_5_pole/working)<br>[conw2215po](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_5_pole/working)<br>[Electronic Connector Wago 221 5 Pole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_5_pole/working)<br><br>",
-    "markdown_short": "[electronic_connector_wago_221_5_pole](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_5_pole/working)<br><br>"
+    "markdown_full": "[electronic_connector_wago_221_5_pole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_5_pole/working)<br>[conw2215po](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_5_pole/working)<br>[Electronic Connector Wago 221 5 Pole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_5_pole/working)<br><br>",
+    "markdown_short": "[electronic_connector_wago_221_5_pole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_5_pole/working)<br><br>"
 }

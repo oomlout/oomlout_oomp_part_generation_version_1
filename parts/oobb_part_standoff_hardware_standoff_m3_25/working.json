@@ -47,7 +47,8 @@
     "id_no_type": "standoff_hardware_standoff_m3_25",
     "id_no_size": "hardware_m3_25",
     "oomp_key": "oomp_oobb_part_standoff_hardware_standoff_m3_25",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_25/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_25/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_25/working",
     "directory": "parts/oobb_part_standoff_hardware_standoff_m3_25",
     "name": "Oobb Part Standoff Hardware Standoff M3 25",
     "name_no_class": "Part Standoff Hardware Standoff M3 25",
@@ -84,6 +85,6 @@
     "name_no_size_short": "Hardware M3 25",
     "description_or_color": "325",
     "description_or_color_upper": "325",
-    "markdown_full": "[oobb_part_standoff_hardware_standoff_m3_25](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_25/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_25/working)<br>[Oobb Part Standoff Hardware Standoff M3 25](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_25/working)<br><br>",
-    "markdown_short": "[oobb_part_standoff_hardware_standoff_m3_25](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_25/working)<br><br>"
+    "markdown_full": "[oobb_part_standoff_hardware_standoff_m3_25](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_25/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_25/working)<br>[Oobb Part Standoff Hardware Standoff M3 25](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_25/working)<br><br>",
+    "markdown_short": "[oobb_part_standoff_hardware_standoff_m3_25](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_25/working)<br><br>"
 }

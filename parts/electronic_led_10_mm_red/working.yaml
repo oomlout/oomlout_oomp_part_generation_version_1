@@ -37,21 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l10r_electronic_led_10_mm_red
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_red/working
 id: electronic_led_10_mm_red
 id_no_class: led_10_mm_red
 id_no_size: red
 id_no_type: 10_mm_red
 kicad_reference: L
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_red/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_10_mm_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working)<br>[l10r](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working)<br>[Electronic
-    Led 10 Mm Red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working)<br><br>'
-markdown_short: '[electronic_led_10_mm_red](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_red/working)<br><br>'
+markdown_full: '[electronic_led_10_mm_red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_red/working)<br>[l10r](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_red/working)<br>[Electronic
+    Led 10 Mm Red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_red/working)<br><br>'
+markdown_short: '[electronic_led_10_mm_red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_red/working)<br><br>'
 md5: f3ee341dcc022670fa172c7f658f6966
 md5_10: f3ee341dcc
 md5_10_upper: F3EE341DCC

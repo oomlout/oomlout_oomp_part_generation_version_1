@@ -47,7 +47,8 @@
     "id_no_type": "bolt_hardware_bolt_m5_20",
     "id_no_size": "hardware_m5_20",
     "oomp_key": "oomp_oobb_part_bolt_hardware_bolt_m5_20",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_20/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_20/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_20/working",
     "directory": "parts/oobb_part_bolt_hardware_bolt_m5_20",
     "name": "Oobb Part Bolt Hardware Bolt M5 20",
     "name_no_class": "Part Bolt Hardware Bolt M5 20",
@@ -84,6 +85,6 @@
     "name_no_size_short": "Hardware M5 20",
     "description_or_color": "520",
     "description_or_color_upper": "520",
-    "markdown_full": "[oobb_part_bolt_hardware_bolt_m5_20](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_20/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_20/working)<br>[Oobb Part Bolt Hardware Bolt M5 20](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_20/working)<br><br>",
-    "markdown_short": "[oobb_part_bolt_hardware_bolt_m5_20](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_20/working)<br><br>"
+    "markdown_full": "[oobb_part_bolt_hardware_bolt_m5_20](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_20/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_20/working)<br>[Oobb Part Bolt Hardware Bolt M5 20](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_20/working)<br><br>",
+    "markdown_short": "[oobb_part_bolt_hardware_bolt_m5_20](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_20/working)<br><br>"
 }

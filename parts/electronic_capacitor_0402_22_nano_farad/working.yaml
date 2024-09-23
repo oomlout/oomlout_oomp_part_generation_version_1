@@ -37,21 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_c4nf22_electronic_capacitor_0402_22_nano_farad
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_nano_farad/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_nano_farad/working
 id: electronic_capacitor_0402_22_nano_farad
 id_no_class: capacitor_0402_22_nano_farad
 id_no_size: 22_nano_farad
 id_no_type: 0402_22_nano_farad
 kicad_reference: C
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_nano_farad/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_capacitor_0402_22_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_nano_farad/working)<br>[c4nf22](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_nano_farad/working)<br>[Electronic
-    Capacitor 0402 22 Nano Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_nano_farad/working)<br><br>'
-markdown_short: '[electronic_capacitor_0402_22_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_22_nano_farad/working)<br><br>'
+markdown_full: '[electronic_capacitor_0402_22_nano_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_nano_farad/working)<br>[c4nf22](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_nano_farad/working)<br>[Electronic
+    Capacitor 0402 22 Nano Farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_nano_farad/working)<br><br>'
+markdown_short: '[electronic_capacitor_0402_22_nano_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_22_nano_farad/working)<br><br>'
 md5: 1680a357aabbe40624f196a667c0e274
 md5_10: 1680a357aa
 md5_10_upper: 1680A357AA

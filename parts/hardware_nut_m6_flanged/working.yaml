@@ -26,21 +26,22 @@ directory: parts/hardware_nut_m6_flanged
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_flanged/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_flanged/working
 id: hardware_nut_m6_flanged
 id_no_class: nut_m6_flanged
 id_no_size: flanged
 id_no_type: m6_flanged
 kicad_reference: ''
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_flanged/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m6_flanged](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_flanged/working)<br>[nu6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_flanged/working)<br>[Hardware
-    Nut M6 Flanged](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_flanged/working)<br><br>'
-markdown_short: '[hardware_nut_m6_flanged](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_flanged/working)<br><br>'
+markdown_full: '[hardware_nut_m6_flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_flanged/working)<br>[nu6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_flanged/working)<br>[Hardware
+    Nut M6 Flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_flanged/working)<br><br>'
+markdown_short: '[hardware_nut_m6_flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_flanged/working)<br><br>'
 md5: d6f9c36fb047e9413f77d705eb5c2a77
 md5_10: d6f9c36fb0
 md5_10_upper: D6F9C36FB0

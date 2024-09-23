@@ -46,7 +46,8 @@
     "id_no_type": "wanhao_dupicator_i3_plus",
     "id_no_size": "wanhaodupicatori3plus",
     "oomp_key": "oomp_three_d_printer_printer_wanhao_dupicator_i3_plus",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus/working",
     "directory": "parts/three_d_printer_printer_wanhao_dupicator_i3_plus",
     "name": "Three D Printer Printer Wanhao Dupicator I3 Plus",
     "name_no_class": "Printer Wanhao Dupicator I3 Plus",
@@ -84,6 +85,6 @@
     "name_no_size_short": "Wanhaodupicatori3Plus",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[three_d_printer_printer_wanhao_dupicator_i3_plus](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus/working)<br>[Three D Printer Printer Wanhao Dupicator I3 Plus](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus/working)<br><br>",
-    "markdown_short": "[three_d_printer_printer_wanhao_dupicator_i3_plus](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus/working)<br><br>"
+    "markdown_full": "[three_d_printer_printer_wanhao_dupicator_i3_plus](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus/working)<br>[Three D Printer Printer Wanhao Dupicator I3 Plus](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus/working)<br><br>",
+    "markdown_short": "[three_d_printer_printer_wanhao_dupicator_i3_plus](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus/working)<br><br>"
 }

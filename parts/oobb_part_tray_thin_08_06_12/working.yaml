@@ -24,20 +24,21 @@ description_or_color: 81k
 description_or_color_upper: 81K
 directory: parts/oobb_part_tray_thin_08_06_12
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_06_12/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_06_12/working
 id: oobb_part_tray_thin_08_06_12
 id_no_class: part_tray_thin_08_06_12
 id_no_size: 08_06_12
 id_no_type: tray_thin_08_06_12
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_06_12/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_tray_thin_08_06_12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_06_12/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_06_12/working)<br>[Oobb
-    Part Tray Thin 08 06 12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_06_12/working)<br><br>'
-markdown_short: '[oobb_part_tray_thin_08_06_12](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_06_12/working)<br><br>'
+markdown_full: '[oobb_part_tray_thin_08_06_12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_06_12/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_06_12/working)<br>[Oobb
+    Part Tray Thin 08 06 12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_06_12/working)<br><br>'
+markdown_short: '[oobb_part_tray_thin_08_06_12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_06_12/working)<br><br>'
 md5: c05ec76b05a412be4335b64b2a88621e
 md5_10: c05ec76b05
 md5_10_upper: C05EC76B05

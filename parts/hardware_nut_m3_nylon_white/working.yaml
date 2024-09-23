@@ -26,21 +26,22 @@ directory: parts/hardware_nut_m3_nylon_white
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3_nylon_white/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white/working
 id: hardware_nut_m3_nylon_white
 id_no_class: nut_m3_nylon_white
 id_no_size: nylon_white
 id_no_type: m3_nylon_white
 kicad_reference: ''
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m3_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3_nylon_white/working)<br>[nu3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3_nylon_white/working)<br>[Hardware
-    Nut M3 Nylon White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3_nylon_white/working)<br><br>'
-markdown_short: '[hardware_nut_m3_nylon_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3_nylon_white/working)<br><br>'
+markdown_full: '[hardware_nut_m3_nylon_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white/working)<br>[nu3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white/working)<br>[Hardware
+    Nut M3 Nylon White](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white/working)<br><br>'
+markdown_short: '[hardware_nut_m3_nylon_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white/working)<br><br>'
 md5: adbe7fd6c89f28962de53d98568a9f65
 md5_10: adbe7fd6c8
 md5_10_upper: ADBE7FD6C8

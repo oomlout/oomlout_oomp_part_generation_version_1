@@ -46,7 +46,8 @@
     "id_no_type": "2_54_mm_jumper",
     "id_no_size": "jumper",
     "oomp_key": "oomp_electronic_header_2_54_mm_jumper",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_jumper/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_jumper/working",
     "directory": "parts/electronic_header_2_54_mm_jumper",
     "name": "Electronic Header 2 54 Mm Jumper",
     "name_no_class": "Header 2 54 Mm Jumper",
@@ -84,6 +85,6 @@
     "name_no_size_short": "Jumper",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[electronic_header_2_54_mm_jumper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br>[hi1j](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br>[Electronic Header 2 54 Mm Jumper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br><br>",
-    "markdown_short": "[electronic_header_2_54_mm_jumper](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br><br>"
+    "markdown_full": "[electronic_header_2_54_mm_jumper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br>[hi1j](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br>[Electronic Header 2 54 Mm Jumper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br><br>",
+    "markdown_short": "[electronic_header_2_54_mm_jumper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_jumper/working)<br><br>"
 }

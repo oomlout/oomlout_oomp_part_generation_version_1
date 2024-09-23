@@ -24,20 +24,21 @@ description_or_color: 20k
 description_or_color_upper: 20K
 directory: parts/oobb_part_other_02_02_29__corner_cube
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working
 id: oobb_part_other_02_02_29__corner_cube
 id_no_class: part_other_02_02_29__corner_cube
 id_no_size: 02_02_29__corner_cube
 id_no_type: other_02_02_29__corner_cube
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_other_02_02_29__corner_cube](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working)<br>[Oobb
-    Part Other 02 02 29  Corner Cube](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working)<br><br>'
-markdown_short: '[oobb_part_other_02_02_29__corner_cube](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working)<br><br>'
+markdown_full: '[oobb_part_other_02_02_29__corner_cube](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working)<br>[Oobb
+    Part Other 02 02 29  Corner Cube](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working)<br><br>'
+markdown_short: '[oobb_part_other_02_02_29__corner_cube](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_02_02_29__corner_cube/working)<br><br>'
 md5: 894bbfc57d6036c9781741ccafa754a6
 md5_10: 894bbfc57d
 md5_10_upper: 894BBFC57D

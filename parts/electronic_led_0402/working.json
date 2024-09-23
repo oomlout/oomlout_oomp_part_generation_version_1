@@ -48,7 +48,8 @@
     "id_no_type": "0402",
     "id_no_size": "0402",
     "oomp_key": "oomp_electronic_led_0402",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402/working",
     "directory": "parts/electronic_led_0402",
     "name": "Electronic Led 0402",
     "name_no_class": "Led 0402",
@@ -91,6 +92,6 @@
     "name_no_size_short": "0402",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[electronic_led_0402](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402/working)<br>[l4](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402/working)<br>[Electronic Led 0402](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402/working)<br><br>",
-    "markdown_short": "[electronic_led_0402](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402/working)<br><br>"
+    "markdown_full": "[electronic_led_0402](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402/working)<br>[l4](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402/working)<br>[Electronic Led 0402](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402/working)<br><br>",
+    "markdown_short": "[electronic_led_0402](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402/working)<br><br>"
 }

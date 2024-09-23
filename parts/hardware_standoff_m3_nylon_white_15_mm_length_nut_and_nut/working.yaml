@@ -26,21 +26,22 @@ directory: parts/hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut/working
 id: hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut
 id_no_class: standoff_m3_nylon_white_15_mm_length_nut_and_nut
 id_no_size: nylon_white_15_mm_length_nut_and_nut
 id_no_type: m3_nylon_white_15_mm_length_nut_and_nut
 kicad_reference: ''
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut/working)<br>[st315nn](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut/working)<br>[Hardware
-    Standoff M3 Nylon White 15 Mm Length Nut And Nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut/working)<br><br>'
-markdown_short: '[hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut/working)<br><br>'
+markdown_full: '[hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut/working)<br>[st315nn](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut/working)<br>[Hardware
+    Standoff M3 Nylon White 15 Mm Length Nut And Nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut/working)<br><br>'
+markdown_short: '[hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_nylon_white_15_mm_length_nut_and_nut/working)<br><br>'
 md5: 7c9c4ae9fdd5fd91046cdd3afe307ac6
 md5_10: 7c9c4ae9fd
 md5_10_upper: 7C9C4AE9FD

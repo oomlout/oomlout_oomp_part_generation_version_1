@@ -26,20 +26,21 @@ directory: parts/hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth/working
 id: hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth
 id_no_class: bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth
 id_no_size: 16021_size_105_mm_id_160_mm_od_18_mm_depth
 id_no_type: 16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth/working)<br>[Hardware
-    Bearing 16000 Series 16021 Size 105 Mm Id 160 Mm Od 18 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth/working)<br><br>'
-markdown_short: '[hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth/working)<br><br>'
+markdown_full: '[hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth/working)<br>[Hardware
+    Bearing 16000 Series 16021 Size 105 Mm Id 160 Mm Od 18 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth/working)<br><br>'
+markdown_short: '[hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16021_size_105_mm_id_160_mm_od_18_mm_depth/working)<br><br>'
 md5: bdf215dbd8e62d0442c64ea9c776e737
 md5_10: bdf215dbd8
 md5_10_upper: BDF215DBD8

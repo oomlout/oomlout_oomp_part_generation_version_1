@@ -26,21 +26,22 @@ directory: parts/hardware_nut_m6_coupling
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_coupling/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling/working
 id: hardware_nut_m6_coupling
 id_no_class: nut_m6_coupling
 id_no_size: coupling
 id_no_type: m6_coupling
 kicad_reference: ''
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m6_coupling](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_coupling/working)<br>[nu6](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_coupling/working)<br>[Hardware
-    Nut M6 Coupling](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_coupling/working)<br><br>'
-markdown_short: '[hardware_nut_m6_coupling](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_coupling/working)<br><br>'
+markdown_full: '[hardware_nut_m6_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling/working)<br>[nu6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling/working)<br>[Hardware
+    Nut M6 Coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling/working)<br><br>'
+markdown_short: '[hardware_nut_m6_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling/working)<br><br>'
 md5: 2cb634ff8de12e3092db946892b5149b
 md5_10: 2cb634ff8d
 md5_10_upper: 2CB634FF8D

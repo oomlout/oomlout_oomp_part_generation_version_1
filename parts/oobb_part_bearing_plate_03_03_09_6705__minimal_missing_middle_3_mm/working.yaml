@@ -24,20 +24,21 @@ description_or_color: 3M
 description_or_color_upper: 3M
 directory: parts/oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm/working
 id: oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm
 id_no_class: part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm
 id_no_size: 03_03_09_6705__minimal_missing_middle_3_mm
 id_no_type: bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm/working)<br>[Oobb
-    Part Bearing Plate 03 03 09 6705  Minimal Missing Middle 3 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm/working)<br><br>'
-markdown_short: '[oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm/working)<br><br>'
+markdown_full: '[oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm/working)<br>[Oobb
+    Part Bearing Plate 03 03 09 6705  Minimal Missing Middle 3 Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm/working)<br><br>'
+markdown_short: '[oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm/working)<br><br>'
 md5: 37efc2a9f65977ec3209788fa2a1eb0e
 md5_10: 37efc2a9f6
 md5_10_upper: 37EFC2A9F6

@@ -26,21 +26,22 @@ directory: parts/hardware_set_screw_m6_nylon_white_20_mm_length
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_nylon_white_20_mm_length/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_20_mm_length/working
 id: hardware_set_screw_m6_nylon_white_20_mm_length
 id_no_class: set_screw_m6_nylon_white_20_mm_length
 id_no_size: nylon_white_20_mm_length
 id_no_type: m6_nylon_white_20_mm_length
 kicad_reference: ''
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_20_mm_length/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_set_screw_m6_nylon_white_20_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_nylon_white_20_mm_length/working)<br>[ss620](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_nylon_white_20_mm_length/working)<br>[Hardware
-    Set Screw M6 Nylon White 20 Mm Length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_nylon_white_20_mm_length/working)<br><br>'
-markdown_short: '[hardware_set_screw_m6_nylon_white_20_mm_length](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_nylon_white_20_mm_length/working)<br><br>'
+markdown_full: '[hardware_set_screw_m6_nylon_white_20_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_20_mm_length/working)<br>[ss620](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_20_mm_length/working)<br>[Hardware
+    Set Screw M6 Nylon White 20 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_20_mm_length/working)<br><br>'
+markdown_short: '[hardware_set_screw_m6_nylon_white_20_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_20_mm_length/working)<br><br>'
 md5: 547e4b10c5d64f8e4d1a1fa1ce5a6eda
 md5_10: 547e4b10c5
 md5_10_upper: 547E4B10C5

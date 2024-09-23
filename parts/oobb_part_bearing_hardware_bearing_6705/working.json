@@ -47,7 +47,8 @@
     "id_no_type": "bearing_hardware_bearing_6705",
     "id_no_size": "hardware_6705",
     "oomp_key": "oomp_oobb_part_bearing_hardware_bearing_6705",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6705/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6705/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6705/working",
     "directory": "parts/oobb_part_bearing_hardware_bearing_6705",
     "name": "Oobb Part Bearing Hardware Bearing 6705",
     "name_no_class": "Part Bearing Hardware Bearing 6705",
@@ -84,6 +85,6 @@
     "name_no_size_short": "Hardware 6k7",
     "description_or_color": "6k7",
     "description_or_color_upper": "6K7",
-    "markdown_full": "[oobb_part_bearing_hardware_bearing_6705](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6705/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6705/working)<br>[Oobb Part Bearing Hardware Bearing 6705](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6705/working)<br><br>",
-    "markdown_short": "[oobb_part_bearing_hardware_bearing_6705](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6705/working)<br><br>"
+    "markdown_full": "[oobb_part_bearing_hardware_bearing_6705](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6705/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6705/working)<br>[Oobb Part Bearing Hardware Bearing 6705](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6705/working)<br><br>",
+    "markdown_short": "[oobb_part_bearing_hardware_bearing_6705](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6705/working)<br><br>"
 }

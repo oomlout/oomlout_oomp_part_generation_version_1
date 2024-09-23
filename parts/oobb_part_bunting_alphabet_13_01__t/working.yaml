@@ -24,20 +24,21 @@ description_or_color: 1k3
 description_or_color_upper: 1K3
 directory: parts/oobb_part_bunting_alphabet_13_01__t
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__t/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__t/working
 id: oobb_part_bunting_alphabet_13_01__t
 id_no_class: part_bunting_alphabet_13_01__t
 id_no_size: 13_01__t
 id_no_type: bunting_alphabet_13_01__t
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__t/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_bunting_alphabet_13_01__t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__t/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__t/working)<br>[Oobb
-    Part Bunting Alphabet 13 01  T](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__t/working)<br><br>'
-markdown_short: '[oobb_part_bunting_alphabet_13_01__t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__t/working)<br><br>'
+markdown_full: '[oobb_part_bunting_alphabet_13_01__t](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__t/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__t/working)<br>[Oobb
+    Part Bunting Alphabet 13 01  T](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__t/working)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_13_01__t](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__t/working)<br><br>'
 md5: 31336984771df72384b57e9fa2f35d31
 md5_10: '3133698477'
 md5_10_upper: '3133698477'

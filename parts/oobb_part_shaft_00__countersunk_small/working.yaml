@@ -24,20 +24,21 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/oobb_part_shaft_00__countersunk_small
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__countersunk_small/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00__countersunk_small/working
 id: oobb_part_shaft_00__countersunk_small
 id_no_class: part_shaft_00__countersunk_small
 id_no_size: 00__countersunk_small
 id_no_type: shaft_00__countersunk_small
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00__countersunk_small/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_shaft_00__countersunk_small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__countersunk_small/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__countersunk_small/working)<br>[Oobb
-    Part Shaft 00  Countersunk Small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__countersunk_small/working)<br><br>'
-markdown_short: '[oobb_part_shaft_00__countersunk_small](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__countersunk_small/working)<br><br>'
+markdown_full: '[oobb_part_shaft_00__countersunk_small](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00__countersunk_small/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00__countersunk_small/working)<br>[Oobb
+    Part Shaft 00  Countersunk Small](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00__countersunk_small/working)<br><br>'
+markdown_short: '[oobb_part_shaft_00__countersunk_small](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00__countersunk_small/working)<br><br>'
 md5: 8f3d0641b3f0f4dbea71fd6b84dcb830
 md5_10: 8f3d0641b3
 md5_10_upper: 8F3D0641B3

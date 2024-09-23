@@ -24,20 +24,21 @@ description_or_color: 50k
 description_or_color_upper: 50K
 directory: parts/oobb_part_plate_05_02_03__t
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_03__t/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_03__t/working
 id: oobb_part_plate_05_02_03__t
 id_no_class: part_plate_05_02_03__t
 id_no_size: 05_02_03__t
 id_no_type: plate_05_02_03__t
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_03__t/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_plate_05_02_03__t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_03__t/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_03__t/working)<br>[Oobb
-    Part Plate 05 02 03  T](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_03__t/working)<br><br>'
-markdown_short: '[oobb_part_plate_05_02_03__t](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_03__t/working)<br><br>'
+markdown_full: '[oobb_part_plate_05_02_03__t](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_03__t/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_03__t/working)<br>[Oobb
+    Part Plate 05 02 03  T](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_03__t/working)<br><br>'
+markdown_short: '[oobb_part_plate_05_02_03__t](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_03__t/working)<br><br>'
 md5: c181c8e60ef2de83efc9a0632ed211e8
 md5_10: c181c8e60e
 md5_10_upper: C181C8E60E

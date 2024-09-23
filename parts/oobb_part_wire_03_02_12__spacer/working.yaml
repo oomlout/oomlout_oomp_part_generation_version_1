@@ -24,20 +24,21 @@ description_or_color: 30k
 description_or_color_upper: 30K
 directory: parts/oobb_part_wire_03_02_12__spacer
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_12__spacer/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_12__spacer/working
 id: oobb_part_wire_03_02_12__spacer
 id_no_class: part_wire_03_02_12__spacer
 id_no_size: 03_02_12__spacer
 id_no_type: wire_03_02_12__spacer
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_12__spacer/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[oobb_part_wire_03_02_12__spacer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_12__spacer/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_12__spacer/working)<br>[Oobb
-    Part Wire 03 02 12  Spacer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_12__spacer/working)<br><br>'
-markdown_short: '[oobb_part_wire_03_02_12__spacer](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_02_12__spacer/working)<br><br>'
+markdown_full: '[oobb_part_wire_03_02_12__spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_12__spacer/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_12__spacer/working)<br>[Oobb
+    Part Wire 03 02 12  Spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_12__spacer/working)<br><br>'
+markdown_short: '[oobb_part_wire_03_02_12__spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_02_12__spacer/working)<br><br>'
 md5: 16cf881f068acbb2cd4bd718299947fa
 md5_10: 16cf881f06
 md5_10_upper: 16CF881F06

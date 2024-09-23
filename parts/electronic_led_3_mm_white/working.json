@@ -48,7 +48,8 @@
     "id_no_type": "3_mm_white",
     "id_no_size": "white",
     "oomp_key": "oomp_electronic_led_3_mm_white",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_white/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_white/working",
     "directory": "parts/electronic_led_3_mm_white",
     "name": "Electronic Led 3 Mm White",
     "name_no_class": "Led 3 Mm White",
@@ -87,6 +88,6 @@
     "name_no_size_short": "White",
     "description_or_color": "W ",
     "description_or_color_upper": "W ",
-    "markdown_full": "[electronic_led_3_mm_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working)<br>[l3w](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working)<br>[Electronic Led 3 Mm White](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working)<br><br>",
-    "markdown_short": "[electronic_led_3_mm_white](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_white/working)<br><br>"
+    "markdown_full": "[electronic_led_3_mm_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_white/working)<br>[l3w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_white/working)<br>[Electronic Led 3 Mm White](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_white/working)<br><br>",
+    "markdown_short": "[electronic_led_3_mm_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_white/working)<br><br>"
 }

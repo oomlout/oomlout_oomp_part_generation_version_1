@@ -26,20 +26,21 @@ directory: parts/hardware_bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_dept
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_depth/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_depth/working
 id: hardware_bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_depth
 id_no_class: bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_depth
 id_no_size: 685_size_5_mm_id_11_mm_od_5_mm_depth
 id_no_type: 600_series_685_size_5_mm_id_11_mm_od_5_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_depth/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_depth/working)<br>[Hardware
-    Bearing 600 Series 685 Size 5 Mm Id 11 Mm Od 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_depth/working)<br><br>'
-markdown_short: '[hardware_bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_depth/working)<br><br>'
+markdown_full: '[hardware_bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_depth/working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_depth/working)<br>[Hardware
+    Bearing 600 Series 685 Size 5 Mm Id 11 Mm Od 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_depth/working)<br><br>'
+markdown_short: '[hardware_bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_600_series_685_size_5_mm_id_11_mm_od_5_mm_depth/working)<br><br>'
 md5: f57c8b0b0c08136cb8911464c45a05ee
 md5_10: f57c8b0b0c
 md5_10_upper: F57C8B0B0C

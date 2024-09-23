@@ -37,21 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r8o824_electronic_resistor_0805_820000_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_820000_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_820000_ohm/working
 id: electronic_resistor_0805_820000_ohm
 id_no_class: resistor_0805_820000_ohm
 id_no_size: 820000_ohm
 id_no_type: 0805_820000_ohm
 kicad_reference: R
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_820000_ohm/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_0805_820000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_820000_ohm/working)<br>[r8o824](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_820000_ohm/working)<br>[Electronic
-    Resistor 0805 820000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_820000_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_0805_820000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_820000_ohm/working)<br><br>'
+markdown_full: '[electronic_resistor_0805_820000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_820000_ohm/working)<br>[r8o824](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_820000_ohm/working)<br>[Electronic
+    Resistor 0805 820000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_820000_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_0805_820000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_820000_ohm/working)<br><br>'
 md5: 4635666bfc61c02e8a02e22f7cfc4837
 md5_10: 4635666bfc
 md5_10_upper: 4635666BFC

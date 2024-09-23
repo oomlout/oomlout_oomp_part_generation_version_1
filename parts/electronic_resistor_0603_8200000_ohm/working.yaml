@@ -37,21 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r6o825_electronic_resistor_0603_8200000_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_8200000_ohm/working
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_8200000_ohm/working
 id: electronic_resistor_0603_8200000_ohm
 id_no_class: resistor_0603_8200000_ohm
 id_no_size: 8200000_ohm
 id_no_type: 0603_8200000_ohm
 kicad_reference: R
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_8200000_ohm/working
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_0603_8200000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_8200000_ohm/working)<br>[r6o825](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_8200000_ohm/working)<br>[Electronic
-    Resistor 0603 8200000 Ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_8200000_ohm/working)<br><br>'
-markdown_short: '[electronic_resistor_0603_8200000_ohm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_8200000_ohm/working)<br><br>'
+markdown_full: '[electronic_resistor_0603_8200000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_8200000_ohm/working)<br>[r6o825](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_8200000_ohm/working)<br>[Electronic
+    Resistor 0603 8200000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_8200000_ohm/working)<br><br>'
+markdown_short: '[electronic_resistor_0603_8200000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_8200000_ohm/working)<br><br>'
 md5: 78c4f660df96f5073539162fb1c1dd10
 md5_10: 78c4f660df
 md5_10_upper: 78C4F660DF

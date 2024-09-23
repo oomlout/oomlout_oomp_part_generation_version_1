@@ -48,7 +48,8 @@
     "id_no_type": "0402_10_nano_farad",
     "id_no_size": "10_nano_farad",
     "oomp_key": "oomp_electronic_capacitor_0402_10_nano_farad",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_10_nano_farad/working",
+    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_10_nano_farad/working",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_10_nano_farad/working",
     "directory": "parts/electronic_capacitor_0402_10_nano_farad",
     "name": "Electronic Capacitor 0402 10 Nano Farad",
     "name_no_class": "Capacitor 0402 10 Nano Farad",
@@ -90,6 +91,6 @@
     "name_no_size_short": "10nf Nano Farad",
     "description_or_color": "10nf",
     "description_or_color_upper": "10NF",
-    "markdown_full": "[electronic_capacitor_0402_10_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_10_nano_farad/working)<br>[c4nf10](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_10_nano_farad/working)<br>[Electronic Capacitor 0402 10 Nano Farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_10_nano_farad/working)<br><br>",
-    "markdown_short": "[electronic_capacitor_0402_10_nano_farad](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_10_nano_farad/working)<br><br>"
+    "markdown_full": "[electronic_capacitor_0402_10_nano_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_10_nano_farad/working)<br>[c4nf10](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_10_nano_farad/working)<br>[Electronic Capacitor 0402 10 Nano Farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_10_nano_farad/working)<br><br>",
+    "markdown_short": "[electronic_capacitor_0402_10_nano_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0402_10_nano_farad/working)<br><br>"
 }
