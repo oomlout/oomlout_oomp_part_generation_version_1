@@ -24,7 +24,7 @@ description_or_color: '39'
 description_or_color_upper: '39'
 directory: parts/electronic_resistor_0201_39_ohm
 distributors: []
-filter: electronic
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_39_ohm
 id: electronic_resistor_0201_39_ohm

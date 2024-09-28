@@ -9,7 +9,7 @@
     "part_number": "mbr0520",
     "from_yaml": false,
     "make_files": true,
-    "filter": "electronic",
+    "filter": "",
     "kicad_reference": "D",
     "classification_upper": "ELECTRONIC",
     "classification_capital": "Electronic",

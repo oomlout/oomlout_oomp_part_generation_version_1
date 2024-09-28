@@ -24,7 +24,7 @@ description_or_color: R2k8
 description_or_color_upper: R2K8
 directory: parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 distributors: []
-filter: electronic
+filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/esden_pkl_led_led_tri_1010//working/working.kicad_mod
     index: 0

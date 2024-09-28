@@ -28,7 +28,7 @@ distributors:
     link: https://lcsc.com/product-detail/C882605.html
     name: LCSC
     part_number: C882605
-filter: electronic
+filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
     index: 0

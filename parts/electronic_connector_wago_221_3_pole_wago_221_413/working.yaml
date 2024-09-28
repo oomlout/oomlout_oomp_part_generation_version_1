@@ -25,7 +25,7 @@ description_or_color_upper: ' '
 directory: parts/electronic_connector_wago_221_3_pole_wago_221_413
 distributor_screwfix: 2803R
 distributors: []
-filter: electronic
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413
 id: electronic_connector_wago_221_3_pole_wago_221_413

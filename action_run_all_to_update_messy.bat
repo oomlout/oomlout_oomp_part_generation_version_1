@@ -2,7 +2,7 @@ REM store the start time
 set start_time=%time%
 REM run the full process
 cd C:\gh\oomlout_oomp_part_generation_version_1
-python action_setup.py
+python action_setup_full.py
 git add *
 git commit -a -m "Full run through"
 git push

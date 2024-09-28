@@ -24,7 +24,7 @@ description_or_color: 'R '
 description_or_color_upper: 'R '
 directory: parts/electronic_led_3_mm_red
 distributors: []
-filter: electronic
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_red
 id: electronic_led_3_mm_red

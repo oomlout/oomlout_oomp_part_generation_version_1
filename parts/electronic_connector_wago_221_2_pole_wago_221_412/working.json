@@ -9,7 +9,7 @@
     "part_number": "221_412",
     "from_yaml": false,
     "make_files": true,
-    "filter": "electronic",
+    "filter": "",
     "kicad_reference": "L",
     "part_number_exact": "221-412",
     "distributor_screwfix": "8421R",

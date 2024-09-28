@@ -32,7 +32,7 @@ distributors:
     link: https://lcsc.com/product-detail/C30926.html
     name: LCSC
     part_number: C30926
-filter: electronic
+filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod
     index: 0

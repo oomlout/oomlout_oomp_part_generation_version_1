@@ -9,7 +9,7 @@
     "part_number": "221_413",
     "from_yaml": false,
     "make_files": true,
-    "filter": "electronic",
+    "filter": "",
     "kicad_reference": "L",
     "part_number_exact": "221-413",
     "distributor_screwfix": "2803R",

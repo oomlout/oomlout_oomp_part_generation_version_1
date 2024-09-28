@@ -24,7 +24,7 @@ description_or_color: 'Y '
 description_or_color_upper: 'Y '
 directory: parts/electronic_led_5_mm_yellow
 distributors: []
-filter: electronic
+filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_0mm//working/working.kicad_mod
     index: 0

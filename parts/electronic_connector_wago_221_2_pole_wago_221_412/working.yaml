@@ -25,7 +25,7 @@ description_or_color_upper: ' '
 directory: parts/electronic_connector_wago_221_2_pole_wago_221_412
 distributor_screwfix: 8421R
 distributors: []
-filter: electronic
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_wago_221_412
 id: electronic_connector_wago_221_2_pole_wago_221_412

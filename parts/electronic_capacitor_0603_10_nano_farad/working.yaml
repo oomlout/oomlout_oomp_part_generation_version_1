@@ -24,7 +24,7 @@ description_or_color: 10nf
 description_or_color_upper: 10NF
 directory: parts/electronic_capacitor_0603_10_nano_farad
 distributors: []
-filter: electronic
+filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod
     index: 0

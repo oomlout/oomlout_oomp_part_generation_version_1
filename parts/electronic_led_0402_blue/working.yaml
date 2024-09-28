@@ -24,7 +24,7 @@ description_or_color: 'B '
 description_or_color_upper: 'B '
 directory: parts/electronic_led_0402_blue
 distributors: []
-filter: electronic
+filter: ''
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0402_1005metric//working/working.kicad_mod
     index: 0
