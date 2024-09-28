@@ -25,7 +25,7 @@ description_or_color: W55
 description_or_color_upper: W55
 directory: parts/furniture_shelf_ikea_kallax_white_5_cell_width_5_cell_height_1820_mm_width_1820_mm_height_390_mm_depth_ikea_703_015_37
 distributors: []
-filter: ''
+filter: ikea
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_kallax_white_5_cell_width_5_cell_height_1820_mm_width_1820_mm_height_390_mm_depth_ikea_703_015_37
 height: 1820 mm

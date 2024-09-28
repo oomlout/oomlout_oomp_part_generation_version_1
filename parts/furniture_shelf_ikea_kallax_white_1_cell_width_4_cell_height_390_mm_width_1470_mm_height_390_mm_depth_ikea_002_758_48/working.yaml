@@ -25,7 +25,7 @@ description_or_color: W14
 description_or_color_upper: W14
 directory: parts/furniture_shelf_ikea_kallax_white_1_cell_width_4_cell_height_390_mm_width_1470_mm_height_390_mm_depth_ikea_002_758_48
 distributors: []
-filter: ''
+filter: ikea
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_kallax_white_1_cell_width_4_cell_height_390_mm_width_1470_mm_height_390_mm_depth_ikea_002_758_48
 height: 1470 mm

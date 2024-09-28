@@ -9,7 +9,7 @@
     "part_number": "591_822_01",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "ikea",
     "width": "800 mm",
     "height": "2370 mm",
     "depth": "280 mm",

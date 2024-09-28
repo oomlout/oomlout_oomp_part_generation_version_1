@@ -9,7 +9,7 @@
     "part_number": "802_638_32",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "ikea",
     "width": "400 mm",
     "height": "1060 mm",
     "depth": "280 mm",

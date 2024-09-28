@@ -237,8 +237,19 @@ def load_parts(**kwargs):
         parts.append(part_details)
 
         
-
-
+    #lighting
+    if True:
+        #slattbo
+        part_details = {}
+        part_details["classification"] = "lighting"
+        part_details["type"] = "pendant"
+        part_details["size"] = ["ikea_slattbo"]
+        part_details["color"] = ["copper"]
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        parts.append(part_details)
 
 
 

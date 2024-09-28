@@ -9,7 +9,7 @@
     "part_number": "005_292_42",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "ikea",
     "width": "810 mm",
     "height": "890 mm",
     "depth": "470 mm",
