@@ -42,7 +42,7 @@ if __name__ == "__main__":
     filter = ""
     #filter = "bearing"
     #filter = "computer"
-    filter = "ikea"
+    #filter = "ikea"
     #filter = "hardware"
     #filter = "mechanical"    
     #filter = "oobb_part_tray"
