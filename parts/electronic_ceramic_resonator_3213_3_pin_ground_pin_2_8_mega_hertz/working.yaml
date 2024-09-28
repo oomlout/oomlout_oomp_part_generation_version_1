@@ -24,7 +24,7 @@ description_or_color: '38'
 description_or_color_upper: '38'
 directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
 distributors: []
-filter: ''
+filter: electronic
 footprint:
 -   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
     index: 0

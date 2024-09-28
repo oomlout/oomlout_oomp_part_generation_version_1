@@ -24,7 +24,7 @@ description_or_color: 'Y '
 description_or_color_upper: 'Y '
 directory: parts/electronic_led_3_mm_yellow
 distributors: []
-filter: ''
+filter: electronic
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_yellow
 id: electronic_led_3_mm_yellow

@@ -24,7 +24,7 @@ description_or_color: '270'
 description_or_color_upper: '270'
 directory: parts/electronic_resistor_0402_270_ohm
 distributors: []
-filter: ''
+filter: electronic
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_270_ohm
 id: electronic_resistor_0402_270_ohm

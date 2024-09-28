@@ -48,7 +48,7 @@ if __name__ == "__main__":
     #filter = "oobb_part_tray"
     #filter = "storage"
     #filter =  "breakout_board"
-    #filter = "electronic"
+    filter = "electronic"
     #filter = "lighting"
     #filter = "packaging"
     #filter = "paper"

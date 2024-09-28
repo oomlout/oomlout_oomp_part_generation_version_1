@@ -1,4 +1,5 @@
 import oomp
+import copy
 
 def load_parts(**kwargs):
     make_files = kwargs.get("make_files", True)
@@ -8,18 +9,55 @@ def load_parts(**kwargs):
     parts = []
    
 
-    #define a part 
+    #define a part    
+    part_details = {}
     part_details = {}
     part_details["classification"] = "electronic"
     part_details["type"] = "connector"
     part_details["size"] = ["wago_221"]
-    part_details["color"] = [""]
-    part_details["description_main"] = ["3_pole","5_pole","2_pole_inline"]
+    part_details["color"] = [""]    
     part_details["description_extra"] = ""
-    part_details["manufacturer"] = ""
-    part_details["part_number"] = ""
     part_details["kicad_reference"] = "L"
+
+    part_wago_base = copy.deepcopy(part_details)
+
+    #2 pole
+    part_details = copy.deepcopy(part_wago_base)
+    part_details["description_main"] = ["2_pole"]
+    part_details["manufacturer"] = "wago"
+    part_details["part_number"] = "221_412"
+    part_details["part_number_exact"] = "221-412"    
+    part_details["distributor_screwfix"] = "8421R"
     parts.append(part_details)
+
+    #3 pole
+    part_details = copy.deepcopy(part_wago_base)
+    part_details["description_main"] = ["3_pole"]
+    part_details["manufacturer"] = "wago"
+    part_details["part_number"] = "221_413"
+    part_details["part_number_exact"] = "221-413"
+    part_details["distributor_screwfix"] = "2803R"
+    parts.append(part_details)
+
+    #5 pole
+    part_details = copy.deepcopy(part_wago_base)
+    part_details["description_main"] = ["5_pole"]
+    part_details["manufacturer"] = "wago"
+    part_details["part_number"] = "221_415"
+    part_details["part_number_exact"] = "221-415"    
+    part_details["distributor_screwfix"] = "5201R"
+    parts.append(part_details)
+    
+    #2 pole inline
+    part_details = copy.deepcopy(part_wago_base)
+    part_details["description_main"] = ["2_pole_inline"]
+    part_details["manufacturer"] = "wago"
+    part_details["part_number"] = "221_2411"
+    part_details["part_number_exact"] = "221-2411"    
+    part_details["distributor_screwfix"] = "148RU"
+    parts.append(part_details)
+
+    
     
 
     oomp.add_parts(parts, **kwargs)

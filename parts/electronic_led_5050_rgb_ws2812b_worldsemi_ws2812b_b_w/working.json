@@ -9,7 +9,7 @@
     "part_number": "ws2812b_b_w",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "electronic",
     "kicad_reference": "L",
     "pins": {
         "pin_1": {
