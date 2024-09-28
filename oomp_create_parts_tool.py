@@ -44,6 +44,29 @@ def load_parts(**kwargs):
     part_details["part_number"] = "jewelry_scale"
     parts.append(part_details)
 
+    
+    part_details = {}
+    part_details["classification"] = "tool"
+    part_details["type"] = "scale"
+    part_details["size"] = ["70_mm_width_120_mm_height_40_mm_depth"]
+    part_details["color"] = [""]
+    part_details["description_main"] = ["200_gram_capacity"]
+    part_details["description_extra"] = [""]
+    part_details["manufacturer"] = "aliexpress"
+    part_details["part_number"] = "jewelry_scale"
+    parts.append(part_details)
+
+
+    part_details = {}
+    part_details["classification"] = "tool"
+    part_details["type"] = "scale"
+    part_details["size"] = ["67_mm_width_120_mm_height_18_mm_depth"]
+    part_details["color"] = [""]
+    part_details["description_main"] = ["500_gram_capacity"]
+    part_details["description_extra"] = [""]
+    part_details["manufacturer"] = "aliexpress"
+    part_details["part_number"] = "jewelry_scale"
+    parts.append(part_details)
 
     # vibratory_bowl
     part_details = {}
