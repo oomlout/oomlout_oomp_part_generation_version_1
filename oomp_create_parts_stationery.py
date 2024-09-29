@@ -11,128 +11,22 @@ def load_parts(**kwargs):
 
     #define a part 
 
-    ## color used for chip type
-
-    # sockerbit
+    # stationery
+    #     clips
     part_details = {}
-    part_details["classification"] = "storage"
-    part_details["type"] = "box_warehouse"
-    part_details["size"] = ["sockerbit"]
-    part_details["color"] = [""]
-    part_details["description_main"] = "190_mm_width_150_mm_height_260_mm_depth"
+    part_details["classification"] = "stationery"
+    part_details["type"] = "clip_binder"
+    part_details["size"] = ["100_mm_width"]
+    part_details["color"] = ["metal"]
+    part_details["description_main"] = ""
     part_details["description_extra"] = ""
-    part_details["manufacturer"] = "ikea"
-    part_details["part_number"] = "503_161_82"
-    part_details["short_name"] = ""      
-    parts.append(part_details) 
-
-    # ware house bins  
-    #   rajapack
-
-    part_details = {}
-    part_details["classification"] = "storage"
-    part_details["type"] = "box_warehouse"
-    part_details["size"] = [""]
-    part_details["color"] = ["cardboard"]
-    part_details["description_main"] = "51_mm_width_112_mm_height_301_mm_depth"
-    part_details["description_extra"] = ""
-    part_details["manufacturer"] = "rajapack"
-    part_details["part_number"] = "rbac11"
-    part_details["short_name"] = ""       
-    parts.append(part_details) 
-
-    part_details = {}
-    part_details["classification"] = "storage"
-    part_details["type"] = "box_warehouse"
-    part_details["size"] = [""]
-    part_details["color"] = ["cardboard"]
-    part_details["description_main"] = "101_mm_width_112_mm_height_301_mm_depth"
-    part_details["description_extra"] = ""
-    part_details["manufacturer"] = "rajapack"
-    part_details["part_number"] = "rbac12"
-    part_details["short_name"] = ""       
-    parts.append(part_details) 
-
-    part_details = {}
-    part_details["classification"] = "storage"
-    part_details["type"] = "box_warehouse"
-    part_details["size"] = [""]
-    part_details["color"] = ["cardboard"]
-    part_details["description_main"] = "151_mm_width_112_mm_height_301_mm_depth"
-    part_details["description_extra"] = ""
-    part_details["manufacturer"] = "rajapack"
-    part_details["part_number"] = "rbac13"
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
     part_details["short_name"] = ""
+    #add amazion distributor
+    part_details["distributor_amazon"] = "B075YQ93CC"    
+    part_details["distributor_amazon_link"] = "https://www.amazon.co.uk/dp/B075YQ93CC"
     parts.append(part_details) 
-
-    part_details = {}
-    part_details["classification"] = "storage"
-    part_details["type"] = "box_warehouse"
-    part_details["size"] = [""]
-    part_details["color"] = ["cardboard"]
-    part_details["description_main"] = "201_mm_width_112_mm_height_301_mm_depth"
-    part_details["description_extra"] = ""
-    part_details["manufacturer"] = "rajapack"
-    part_details["part_number"] = "rbac14"
-    part_details["short_name"] = ""
-    parts.append(part_details)
-
-    part_details = {}
-    part_details["classification"] = "storage"
-    part_details["type"] = "box_warehouse"
-    part_details["size"] = [""]
-    part_details["color"] = ["cardboard"]
-    part_details["description_main"] = "151_mm_width_112_mm_height_401_mm_depth"
-    part_details["description_extra"] = ""
-    part_details["manufacturer"] = "rajapack"
-    part_details["part_number"] = "rbac16"
-    part_details["short_name"] = ""
-    parts.append(part_details)
-
-
-    # oomlout special size
-    part_details = {}
-    part_details["classification"] = "storage"
-    part_details["type"] = "box_warehouse"
-    part_details["size"] = [""]
-    part_details["color"] = ["cardboard"]
-    part_details["description_main"] = "122_mm_width_110_mm_height_175_mm_depth"
-    part_details["description_extra"] = ""
-    part_details["manufacturer"] = "oomlout"
-    part_details["part_number"] = "box_1"
-    part_details["short_name"] = ""
-    parts.append(part_details)
-    
-
-
-
-    #bin bag
-    part_details = {}
-    part_details["classification"] = "storage"
-    part_details["type"] = "bin_bag"
-    part_details["size"] = ["50_micron_thickness"]
-    part_details["color"] = ["black"]
-    part_details["description_main"] = "700_mm_width_1070_mm_height_70_litre_capacity"
-    part_details["description_extra"] = "wheelie_bin_liner"
-    part_details["manufacturer"] = "rajapack"
-    part_details["part_number"] = "bprs7050"
-    part_details["short_name"] = ""      
-    parts.append(part_details)    
-
-
-    part_details = {}
-    part_details["classification"] = "storage"
-    part_details["type"] = "bin_bag"
-    part_details["size"] = ["60_micron_thickness"]
-    part_details["color"] = ["black"]
-    part_details["description_main"] = "736_mm_width_990_mm_height_70_litre_capacity"
-    part_details["description_extra"] = ""
-    part_details["manufacturer"] = "kite_packaging"
-    part_details["part_number"] = "rs240_182939"
-    part_details["part_number_exact"] = "RS240-182939"
-
-    part_details["short_name"] = ""      
-    parts.append(part_details)    
 
 
     oomp.add_parts(parts, make_files=make_files)
