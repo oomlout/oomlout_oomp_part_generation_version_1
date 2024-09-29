@@ -28,6 +28,7 @@ def load_parts(**kwargs):
     part_details["part_number"] = "221_412"
     part_details["part_number_exact"] = "221-412"    
     part_details["distributor_screwfix"] = "8421R"
+    part_details["distributor_screwfix_link"] = "https://www.screwfix.com/p/8421r"
     parts.append(part_details)
 
     #3 pole
@@ -37,6 +38,7 @@ def load_parts(**kwargs):
     part_details["part_number"] = "221_413"
     part_details["part_number_exact"] = "221-413"
     part_details["distributor_screwfix"] = "2803R"
+    part_details["distributor_screwfix_link"] = "https://www.screwfix.com/p/2803r"
     parts.append(part_details)
 
     #5 pole
@@ -46,6 +48,7 @@ def load_parts(**kwargs):
     part_details["part_number"] = "221_415"
     part_details["part_number_exact"] = "221-415"    
     part_details["distributor_screwfix"] = "5201R"
+    part_details["distributor_screwfix_link"] = "https://www.screwfix.com/p/5201r"
     parts.append(part_details)
     
     #2 pole inline
@@ -55,6 +58,7 @@ def load_parts(**kwargs):
     part_details["part_number"] = "221_2411"
     part_details["part_number_exact"] = "221-2411"    
     part_details["distributor_screwfix"] = "148RU"
+    part_details["distributor_screwfix_link"] = "https://www.screwfix.com/p/148ru"
     parts.append(part_details)
 
     
