@@ -119,38 +119,45 @@ def add_parts(parts,**kwargs):
     # Convert all the dictionary values to lists but only use the keys in names_of_main_elements
     
     for part in parts:
-        # get all the dict values that aren't in names_of_main_elements 
-        not_main_elements = {}
+        #test if any elelment in the part is a list
+        list_in_part = False
         for key, value in part.items():
-            if key not in names_of_main_elements:
-                not_main_elements[key] = (part[key])
-        for key, value in part.items():
-            #only check if the key is in names_of_main_elements
-            if key in names_of_main_elements:
-                # Check if the value is a string
-                if isinstance(value, str):
-                    # If it is, convert it to a list and add to the new dictionary
-                    my_dict_lists[key] = [value]
-                else:
-                    # If it's not a string, we assume it's a list and add it to the new dictionary as is
-                    my_dict_lists[key] = value
+            if isinstance(value, list):
+                list_in_part = True
+        if list_in_part:
+            # get all the dict values that aren't in names_of_main_elements 
+            not_main_elements = {}
+            for key, value in part.items():
+                if key not in names_of_main_elements:
+                    not_main_elements[key] = (part[key])
+            for key, value in part.items():
+                #only check if the key is in names_of_main_elements
+                if key in names_of_main_elements:
+                    # Check if the value is a string
+                    if isinstance(value, str):
+                        # If it is, convert it to a list and add to the new dictionary
+                        my_dict_lists[key] = [value]
+                    else:
+                        # If it's not a string, we assume it's a list and add it to the new dictionary as is
+                        my_dict_lists[key] = value
 
-        # Prepare a list to hold the combinations
-        combinations = []
+            # Prepare a list to hold the combinations
+            combinations = []
 
-        # The itertools.product function takes any number of arguments, 
-        # but we have a list of lists, so we need to "unpack" this list 
-        # into separate arguments using the * operator.
-        # This will generate a Cartesian product of the given lists,
-        # i.e., all possible combinations of the elements in the lists.
-        for combo in itertools.product(*my_dict_lists.values()):
-            # Add each combination to our list of combinations
-            combinations.append(combo)
+            # The itertools.product function takes any number of arguments, 
+            # but we have a list of lists, so we need to "unpack" this list 
+            # into separate arguments using the * operator.
+            # This will generate a Cartesian product of the given lists,
+            # i.e., all possible combinations of the elements in the lists.
+            for combo in itertools.product(*my_dict_lists.values()):
+                # Add each combination to our list of combinations
+                combinations.append(combo)
 
-        # Print all combinations
-        for combo in combinations:
-            add_part(classification=combo[0], type=combo[1], size=combo[2], color=combo[3], description_main=combo[4], description_extra=combo[5], manufacturer=combo[6], part_number=combo[7], not_main_elements=not_main_elements, **kwargs)
-        
+            # Print all combinations
+            for combo in combinations:
+                add_part(classification=combo[0], type=combo[1], size=combo[2], color=combo[3], description_main=combo[4], description_extra=combo[5], manufacturer=combo[6], part_number=combo[7], not_main_elements=not_main_elements, **kwargs)
+        else:
+            add_part(classification=part["classification"], type=part["type"], size=part["size"], color=part["color"], description_main=part["description_main"], description_extra=part["description_extra"], manufacturer=part["manufacturer"], part_number=part["part_number"], not_main_elements={}, **kwargs)
 
 add_part_filter = ""
 

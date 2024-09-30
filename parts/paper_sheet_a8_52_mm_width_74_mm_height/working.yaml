@@ -27,10 +27,9 @@ distributors: []
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a8_52_mm_width_74_mm_height
-height: 74 mm
 id: paper_sheet_a8_52_mm_width_74_mm_height
 id_no_class: sheet_a8_52_mm_width_74_mm_height
-id_no_size: a852mmwidth74mmheight
+id_no_size: a8_52_mm_width_74_mm_height
 id_no_type: a8_52_mm_width_74_mm_height
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a8_52_mm_width_74_mm_height
 manufacturer: ''
@@ -53,8 +52,8 @@ md5_6_alpha_upper: 64Q9W
 md5_6_upper: 9D2404
 name: Paper Sheet A8 52 Mm Width 74 Mm Height
 name_no_class: Sheet A8 52 Mm Width 74 Mm Height
-name_no_size: A852Mmwidth74Mmheight
-name_no_size_short: A852Mmwidth74Mmheight
+name_no_size: A8 52 Mm Width 74 Mm Height
+name_no_size_short: A8 52 Mm Width 74 Mm Height
 name_no_type: A8 52 Mm Width 74 Mm Height
 oomp_key: oomp_paper_sheet_a8_52_mm_width_74_mm_height
 oomp_word: hearts droplet wink
@@ -67,23 +66,22 @@ oomp_word_list:
 - hearts
 - droplet
 - wink
-part_number: a8_52_mm_width_74_mm_height
-part_number_capital: A8.52 mm Width 74 mm Height
-part_number_first_letter: a
-part_number_first_letter_upper: A
-part_number_upper: A8_52_MM_WIDTH_74_MM_HEIGHT
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
-size_only_numbers: ''
-size_only_numbers_no_zeros: ''
-size_upper: ''
+size: a8_52_mm_width_74_mm_height
+size_capital: A8.52 mm Width 74 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '85274'
+size_only_numbers_no_zeros: '85274'
+size_upper: A8_52_MM_WIDTH_74_MM_HEIGHT
 type: sheet
 type_capital: Sheet
 type_first_letter: s
 type_first_letter_upper: S
 type_upper: SHEET
-width: 52 mm

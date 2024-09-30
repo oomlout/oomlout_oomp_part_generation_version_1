@@ -27,10 +27,9 @@ distributors: []
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a7_74_mm_width_105_mm_height
-height: 105 mm
 id: paper_sheet_a7_74_mm_width_105_mm_height
 id_no_class: sheet_a7_74_mm_width_105_mm_height
-id_no_size: a774mmwidth105mmheight
+id_no_size: a7_74_mm_width_105_mm_height
 id_no_type: a7_74_mm_width_105_mm_height
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a7_74_mm_width_105_mm_height
 manufacturer: ''
@@ -53,8 +52,8 @@ md5_6_alpha_upper: 9VLK1
 md5_6_upper: FD27E1
 name: Paper Sheet A7 74 Mm Width 105 Mm Height
 name_no_class: Sheet A7 74 Mm Width 105 Mm Height
-name_no_size: A774Mmwidth105Mmheight
-name_no_size_short: A774Mmwidth105Mmheight
+name_no_size: A7 74 Mm Width 105 Mm Height
+name_no_size_short: A7 74 Mm Width 105 Mm Height
 name_no_type: A7 74 Mm Width 105 Mm Height
 oomp_key: oomp_paper_sheet_a7_74_mm_width_105_mm_height
 oomp_word: parking nose boat
@@ -67,23 +66,22 @@ oomp_word_list:
 - parking
 - nose
 - boat
-part_number: a7_74_mm_width_105_mm_height
-part_number_capital: A7.74 mm Width 105 mm Height
-part_number_first_letter: a
-part_number_first_letter_upper: A
-part_number_upper: A7_74_MM_WIDTH_105_MM_HEIGHT
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
-size_only_numbers: ''
-size_only_numbers_no_zeros: ''
-size_upper: ''
+size: a7_74_mm_width_105_mm_height
+size_capital: A7.74 mm Width 105 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '774105'
+size_only_numbers_no_zeros: '77415'
+size_upper: A7_74_MM_WIDTH_105_MM_HEIGHT
 type: sheet
 type_capital: Sheet
 type_first_letter: s
 type_first_letter_upper: S
 type_upper: SHEET
-width: 74 mm

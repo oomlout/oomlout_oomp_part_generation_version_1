@@ -27,10 +27,9 @@ distributors: []
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_460_mm_width_640_mm_height
-height: 640 mm
 id: paper_sheet_460_mm_width_640_mm_height
 id_no_class: sheet_460_mm_width_640_mm_height
-id_no_size: 460mmwidth640mmheight
+id_no_size: 460_mm_width_640_mm_height
 id_no_type: 460_mm_width_640_mm_height
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_460_mm_width_640_mm_height
 manufacturer: ''
@@ -53,8 +52,8 @@ md5_6_alpha_upper: 4BT27
 md5_6_upper: 6EEBDF
 name: Paper Sheet 460 Mm Width 640 Mm Height
 name_no_class: Sheet 460 Mm Width 640 Mm Height
-name_no_size: 460Mmwidth640Mmheight
-name_no_size_short: 460Mmwidth640Mmheight
+name_no_size: 460 Mm Width 640 Mm Height
+name_no_size_short: 460 Mm Width 640 Mm Height
 name_no_type: 460 Mm Width 640 Mm Height
 oomp_key: oomp_paper_sheet_460_mm_width_640_mm_height
 oomp_word: new_moon car fountain
@@ -67,23 +66,22 @@ oomp_word_list:
 - new_moon
 - car
 - fountain
-part_number: 460_mm_width_640_mm_height
-part_number_capital: 460 mm Width 640 mm Height
-part_number_first_letter: '4'
-part_number_first_letter_upper: '4'
-part_number_upper: 460_MM_WIDTH_640_MM_HEIGHT
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
-size_only_numbers: ''
-size_only_numbers_no_zeros: ''
-size_upper: ''
+size: 460_mm_width_640_mm_height
+size_capital: 460 mm Width 640 mm Height
+size_first_letter: '4'
+size_first_letter_upper: '4'
+size_only_numbers: '460640'
+size_only_numbers_no_zeros: '4664'
+size_upper: 460_MM_WIDTH_640_MM_HEIGHT
 type: sheet
 type_capital: Sheet
 type_first_letter: s
 type_first_letter_upper: S
 type_upper: SHEET
-width: 460 mm

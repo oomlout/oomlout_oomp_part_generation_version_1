@@ -27,10 +27,9 @@ distributors: []
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a6_105_mm_width_148_mm_height
-height: 148 mm
 id: paper_sheet_a6_105_mm_width_148_mm_height
 id_no_class: sheet_a6_105_mm_width_148_mm_height
-id_no_size: a6105mmwidth148mmheight
+id_no_size: a6_105_mm_width_148_mm_height
 id_no_type: a6_105_mm_width_148_mm_height
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a6_105_mm_width_148_mm_height
 manufacturer: ''
@@ -53,8 +52,8 @@ md5_6_alpha_upper: 72MG9
 md5_6_upper: B54529
 name: Paper Sheet A6 105 Mm Width 148 Mm Height
 name_no_class: Sheet A6 105 Mm Width 148 Mm Height
-name_no_size: A6105Mmwidth148Mmheight
-name_no_size_short: A6105Mmwidth148Mmheight
+name_no_size: A6 105 Mm Width 148 Mm Height
+name_no_size_short: A6 105 Mm Width 148 Mm Height
 name_no_type: A6 105 Mm Width 148 Mm Height
 oomp_key: oomp_paper_sheet_a6_105_mm_width_148_mm_height
 oomp_word: tea snake sunny
@@ -67,23 +66,22 @@ oomp_word_list:
 - tea
 - snake
 - sunny
-part_number: a6_105_mm_width_148_mm_height
-part_number_capital: A6.105 mm Width 148 mm Height
-part_number_first_letter: a
-part_number_first_letter_upper: A
-part_number_upper: A6_105_MM_WIDTH_148_MM_HEIGHT
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
-size_only_numbers: ''
-size_only_numbers_no_zeros: ''
-size_upper: ''
+size: a6_105_mm_width_148_mm_height
+size_capital: A6.105 mm Width 148 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '6105148'
+size_only_numbers_no_zeros: '615148'
+size_upper: A6_105_MM_WIDTH_148_MM_HEIGHT
 type: sheet
 type_capital: Sheet
 type_first_letter: s
 type_first_letter_upper: S
 type_upper: SHEET
-width: 105 mm

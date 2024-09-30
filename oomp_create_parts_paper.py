@@ -117,7 +117,7 @@ def load_parts(**kwargs):
         part_details["price_1_distributor_rapid_online"] = 13.03/100/1.2
         # current price
         part_details["price_1"] = part_details["price_1_distributor_rapid_online"]
-
+        parts.append(part_details)
 
 
 

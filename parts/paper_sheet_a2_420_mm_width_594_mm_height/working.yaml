@@ -27,10 +27,9 @@ distributors: []
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a2_420_mm_width_594_mm_height
-height: 594 mm
 id: paper_sheet_a2_420_mm_width_594_mm_height
 id_no_class: sheet_a2_420_mm_width_594_mm_height
-id_no_size: a2420mmwidth594mmheight
+id_no_size: a2_420_mm_width_594_mm_height
 id_no_type: a2_420_mm_width_594_mm_height
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a2_420_mm_width_594_mm_height
 manufacturer: ''
@@ -53,8 +52,8 @@ md5_6_alpha_upper: 1YJ10
 md5_6_upper: 3235D4
 name: Paper Sheet A2 420 Mm Width 594 Mm Height
 name_no_class: Sheet A2 420 Mm Width 594 Mm Height
-name_no_size: A2420Mmwidth594Mmheight
-name_no_size_short: A2420Mmwidth594Mmheight
+name_no_size: A2 420 Mm Width 594 Mm Height
+name_no_size_short: A2 420 Mm Width 594 Mm Height
 name_no_type: A2 420 Mm Width 594 Mm Height
 oomp_key: oomp_paper_sheet_a2_420_mm_width_594_mm_height
 oomp_word: cat hamster corn
@@ -67,23 +66,22 @@ oomp_word_list:
 - cat
 - hamster
 - corn
-part_number: a2_420_mm_width_594_mm_height
-part_number_capital: A2.420 mm Width 594 mm Height
-part_number_first_letter: a
-part_number_first_letter_upper: A
-part_number_upper: A2_420_MM_WIDTH_594_MM_HEIGHT
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
-size_only_numbers: ''
-size_only_numbers_no_zeros: ''
-size_upper: ''
+size: a2_420_mm_width_594_mm_height
+size_capital: A2.420 mm Width 594 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '2420594'
+size_only_numbers_no_zeros: '242594'
+size_upper: A2_420_MM_WIDTH_594_MM_HEIGHT
 type: sheet
 type_capital: Sheet
 type_first_letter: s
 type_first_letter_upper: S
 type_upper: SHEET
-width: 420 mm
