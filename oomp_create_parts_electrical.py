@@ -42,7 +42,24 @@ def load_parts(**kwargs):
     part_details["distributors"] = []
     parts.append(part_details)    
 
-
+    # light fixing hook
+    part_details = {}
+    part_details["classification"] = "electrical"
+    part_details["type"] = "light_fixing_hardware_hook"
+    part_details["size"] = ["68_mm_width"]
+    part_details["color"] = [""]
+    part_details["description_main"] = ""
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["short_name"] = ""
+    #adding amazon
+    part_details["distributor_amazon"] = "B0BLYVQBV7"
+    part_details["distributor_amazon_link"] = "https://www.amazon.co.uk/dp/B0BLYVQBV7"
+    part_details["price_1_distributor_amazon"] = 6.99/5/1.2
+    #current_price
+    part_details["price_1"] = part_details["price_1_distributor_amazon"]
+    parts.append(part_details)
 
 
     
