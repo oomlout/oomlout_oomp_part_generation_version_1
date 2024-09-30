@@ -10,7 +10,7 @@ def load_parts(**kwargs):
     base = {}
     base["classification"] = "paper"
     base["type"] = "sheet"    
-    base["color"] = [""]
+    base["color"] = ""
     base["description_main"] = ""
     base["description_extra"] = ""
     base["manufacturer"] = ""
@@ -20,28 +20,28 @@ def load_parts(**kwargs):
     
     #a0
     part_details = base.copy()
-    part_details["size"] = ["a0_841_mm_width_1189_mm_height"]
+    part_details["size"] = "a0_841_mm_width_1189_mm_height"
     part_details["width"] = "841 mm"
     part_details["height"] = "1189 mm"
     parts.append(part_details)
 
     #a1
     part_details = base.copy()
-    part_details["size"] = ["a1_594_mm_width_841_mm_height"]
+    part_details["size"] = "a1_594_mm_width_841_mm_height"
     part_details["width"] = "594 mm"
     part_details["height"] = "841 mm"
     parts.append(part_details)
 
     #a2
     part_details = base.copy()
-    part_details["size"] = ["a2_420_mm_width_594_mm_height"]
+    part_details["size"] = "a2_420_mm_width_594_mm_height"
     part_details["width"] = "420 mm"
     part_details["height"] = "594 mm"
     parts.append(part_details)
 
     #a3
     part_details = base.copy()
-    part_details["size"] = ["a3_297_mm_width_420_mm_height"]
+    part_details["size"] = "a3_297_mm_width_420_mm_height"
     part_details["width"] = "297 mm"
     part_details["height"] = "420 mm"
     parts.append(part_details)
@@ -49,7 +49,7 @@ def load_parts(**kwargs):
 
     #a4
     part_details = base.copy()
-    part_details["size"] = ["a4_210_mm_width_297_mm_height"]
+    part_details["size"] = "a4_210_mm_width_297_mm_height"
     part_details["width"] = "210 mm"
     part_details["height"] = "297 mm"    
     parts.append(part_details)
@@ -59,8 +59,8 @@ def load_parts(**kwargs):
     # 100 gram bright white
     if True:
         part_details = base_a4.copy()
-        part_details["description_main"] = ["100_grams_per_meter_square"]
-        part_details["description_extra"] = ["160_cie"]
+        part_details["description_main"] = "100_grams_per_meter_square"
+        part_details["description_extra"] = "160_cie"
         part_details["manufacturer"] = "mondi"
         part_details["part_number"] = "a4_26626" 
         part_details["part_number_exact"] = "A4-26626"
@@ -82,8 +82,8 @@ def load_parts(**kwargs):
     # 160 gram bright white
     if True:
         part_details = base_a4.copy()
-        part_details["description_main"] = ["160_grams_per_meter_square"]
-        part_details["description_extra"] = ["160_cie"]
+        part_details["description_main"] = "160_grams_per_meter_square"
+        part_details["description_extra"] = "160_cie"
         part_details["manufacturer"] = "mondi"
         part_details["part_number"] = "a4_26742" 
         part_details["part_number_exact"] = "A4-26742"
@@ -105,7 +105,7 @@ def load_parts(**kwargs):
     # 250 gram 
     if True:
         part_details = base_a4.copy()
-        part_details["description_main"] = ["250_grams_per_meter_square"]
+        part_details["description_main"] = "250_grams_per_meter_square"
         #distributor
         # amazon
         part_details["distributor_amazon"] = "B0CHG4S5G6"
@@ -123,28 +123,28 @@ def load_parts(**kwargs):
 
     #a5
     part_details = base.copy()
-    part_details["size"] = ["a5_148_mm_width_210_mm_height"]
+    part_details["size"] = "a5_148_mm_width_210_mm_height"
     part_details["width"] = "148 mm"
     part_details["height"] = "210 mm"
     parts.append(part_details)
 
     #a6
     part_details = base.copy()
-    part_details["size"] = ["a6_105_mm_width_148_mm_height"]
+    part_details["size"] = "a6_105_mm_width_148_mm_height"
     part_details["width"] = "105 mm"
     part_details["height"] = "148 mm"
     parts.append(part_details)
 
     #a7
     part_details = base.copy()
-    part_details["size"] = ["a7_74_mm_width_105_mm_height"]
+    part_details["size"] = "a7_74_mm_width_105_mm_height"
     part_details["width"] = "74 mm"
     part_details["height"] = "105 mm"
     parts.append(part_details)
 
     #a8
     part_details = base.copy()
-    part_details["size"] = ["a8_52_mm_width_74_mm_height"]
+    part_details["size"] = "a8_52_mm_width_74_mm_height"
     part_details["width"] = "52 mm"
     part_details["height"] = "74 mm"
     parts.append(part_details)
@@ -153,14 +153,14 @@ def load_parts(**kwargs):
     
     # 460 mm x 640 mm
     part_details = base.copy()
-    part_details["size"] = ["460_mm_width_640_mm_height"]
+    part_details["size"] = "460_mm_width_640_mm_height"
     part_details["width"] = "460 mm"
     part_details["height"] = "640 mm"
     parts.append(part_details)
 
     # 510 mm x 750 mm
     part_details = base.copy()
-    part_details["size"] = ["510_mm_width_750_mm_height"]
+    part_details["size"] = "510_mm_width_750_mm_height"
     part_details["width"] = "510 mm"
     part_details["height"] = "750 mm"
     parts.append(part_details)

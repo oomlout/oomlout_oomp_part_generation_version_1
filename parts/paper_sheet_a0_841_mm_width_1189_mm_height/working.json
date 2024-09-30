@@ -9,7 +9,7 @@
     "part_number": "a0_841_mm_width_1189_mm_height",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "paper",
     "width": "841 mm",
     "height": "1189 mm",
     "classification_upper": "PAPER",
