@@ -1,0 +1,103 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: 100_grams_per_meter_square
+color_capital: 100 Grams Per Meter Square
+color_first_letter: '1'
+color_first_letter_upper: '1'
+color_upper: 100_GRAMS_PER_METER_SQUARE
+description_extra: mondi
+description_extra_capital: Mondi
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: MONDI
+description_main: 160_cie
+description_main_capital: 160 Cie
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 160_CIE
+description_only_numbers: '160'
+description_only_numbers_short: '160'
+description_or_color: '1160'
+description_or_color_upper: '1160'
+directory: parts/paper_sheet_100_grams_per_meter_square_160_cie_mondi_a4_26626_a4_210_mm_width_297_mm_height
+distributor_amazon: B000J6A58M
+distributor_amazon_link: https://www.amazon.co.uk/Color-Copy-Premium-Ream-Wrapped-CCW0324/dp/B000J6A58M
+distributor_viking_direct: '12320'
+distributor_viking_direct_link: https://www.viking-direct.co.uk/en/p/12320
+distributor_viking_note: free delivery over 59 pounds
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_100_grams_per_meter_square_160_cie_mondi_a4_26626_a4_210_mm_width_297_mm_height
+height: 297 mm
+id: paper_sheet_100_grams_per_meter_square_160_cie_mondi_a4_26626_a4_210_mm_width_297_mm_height
+id_no_class: sheet_100_grams_per_meter_square_160_cie_mondi_a4_26626_a4_210_mm_width_297_mm_height
+id_no_size: 100gramspermetersquare160ciemondia426626a4210mmwidth297mmheight
+id_no_type: 100_grams_per_meter_square_160_cie_mondi_a4_26626_a4_210_mm_width_297_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_100_grams_per_meter_square_160_cie_mondi_a4_26626_a4_210_mm_width_297_mm_height
+manufacturer: a4_26626
+manufacturer_capital: A4.26626
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: A4_26626
+manufacturers: []
+markdown_full: '[paper_sheet_100_grams_per_meter_square_160_cie_mondi_a4_26626_a4_210_mm_width_297_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_100_grams_per_meter_square_160_cie_mondi_a4_26626_a4_210_mm_width_297_mm_height)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_100_grams_per_meter_square_160_cie_mondi_a4_26626_a4_210_mm_width_297_mm_height)<br>[Paper
+    Sheet 100 Grams Per Meter Square 160 Cie Mondi A4 26626 A4 210 Mm Width 297 Mm
+    Height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_100_grams_per_meter_square_160_cie_mondi_a4_26626_a4_210_mm_width_297_mm_height)<br><br>'
+markdown_short: '[paper_sheet_100_grams_per_meter_square_160_cie_mondi_a4_26626_a4_210_mm_width_297_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_100_grams_per_meter_square_160_cie_mondi_a4_26626_a4_210_mm_width_297_mm_height)<br><br>'
+md5: fc10b65f1dcff83a3182236711e31b98
+md5_10: fc10b65f1d
+md5_10_upper: FC10B65F1D
+md5_5: fc10b
+md5_5_upper: FC10B
+md5_6: fc10b6
+md5_6_alpha: 9u2eu
+md5_6_alpha_upper: 9U2EU
+md5_6_upper: FC10B6
+name: Paper Sheet 100 Grams Per Meter Square 160 Cie Mondi A4 26626 A4 210 Mm Width
+    297 Mm Height
+name_no_class: Sheet 100 Grams Per Meter Square 160 Cie Mondi A4 26626 A4 210 Mm Width
+    297 Mm Height
+name_no_size: 100Gramspermetersquare160Ciemondia426626A4210Mmwidth297Mmheight
+name_no_size_short: 100Gramspermetersquare160Ciemondia426626A4210Mmwidth297Mmheight
+name_no_type: 100 Grams Per Meter Square 160 Cie Mondi A4 26626 A4 210 Mm Width 297
+    Mm Height
+oomp_key: oomp_paper_sheet_100_grams_per_meter_square_160_cie_mondi_a4_26626_a4_210_mm_width_297_mm_height
+oomp_word: up star beer
+oomp_word_emoji: ':up: :star: :beer:'
+oomp_word_emoji_list:
+- ':up:'
+- ':star:'
+- ':beer:'
+oomp_word_list:
+- up
+- star
+- beer
+part_number: a4_210_mm_width_297_mm_height
+part_number_capital: A4.210 mm Width 297 mm Height
+part_number_exact: A4-26626
+part_number_first_letter: a
+part_number_first_letter_upper: A
+part_number_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+price_1: 0.020516666666666666
+price_1_distributor_amazon: 0.028316666666666664
+price_1_distributor_viking_direct: 0.020516666666666666
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET
+upc: '9003974411965'
+width: 210 mm

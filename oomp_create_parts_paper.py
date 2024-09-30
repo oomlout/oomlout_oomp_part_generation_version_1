@@ -54,6 +54,73 @@ def load_parts(**kwargs):
     part_details["height"] = "297 mm"    
     parts.append(part_details)
 
+    base_a4 = part_details.copy()
+
+    # 100 gram bright white
+    if True:
+        part_details = base_a4.copy()
+        part_details["description_main"] = ["100_grams_per_meter_square"]
+        part_details["description_extra"] = ["160_cie"]
+        part_details["manufacturer"] = "mondi"
+        part_details["part_number"] = "a4_26626" 
+        part_details["part_number_exact"] = "A4-26626"
+        part_details["upc"] = "9003974411965"
+        #distributor
+        # amazon
+        part_details["distributor_amazon"] = "B000J6A58M"
+        part_details["distributor_amazon_link"] = "https://www.amazon.co.uk/Color-Copy-Premium-Ream-Wrapped-CCW0324/dp/B000J6A58M"
+        part_details["price_1_distributor_amazon"] = 16.99/500/1.2
+        # viking_direct
+        part_details["distributor_viking_direct"] = "12320"
+        part_details["distributor_viking_direct_link"] = "https://www.viking-direct.co.uk/en/p/12320"
+        part_details["price_1_distributor_viking_direct"] = 12.31/500/1.2
+        part_details["distributor_viking_note"] = "free delivery over 59 pounds"
+        # current price
+        part_details["price_1"] = part_details["price_1_distributor_viking_direct"]
+        parts.append(part_details)
+
+    # 160 gram bright white
+    if True:
+        part_details = base_a4.copy()
+        part_details["description_main"] = ["160_grams_per_meter_square"]
+        part_details["description_extra"] = ["160_cie"]
+        part_details["manufacturer"] = "mondi"
+        part_details["part_number"] = "a4_26742" 
+        part_details["part_number_exact"] = "A4-26742"
+        part_details["upc"] = "9003974416373"
+        #distributor
+        # amazon
+        part_details["distributor_amazon"] = "B000KJOBK6"
+        part_details["distributor_amazon_link"] = "https://www.amazon.co.uk/dp/B000KJOBK6"
+        part_details["price_1_distributor_amazon"] = 14.49/250/1.2
+        # viking_direct
+        part_details["distributor_viking_direct"] = "73160"
+        part_details["distributor_viking_direct_link"] = "https://www.viking-direct.co.uk/en/p/73160"
+        part_details["price_1_distributor_viking_direct"] = 8.80/250/1.2
+        part_details["distributor_viking_note"] = "free delivery over 59 pounds"
+        # current price
+        part_details["price_1"] = part_details["price_1_distributor_viking_direct"]
+        parts.append(part_details)
+
+    # 250 gram 
+    if True:
+        part_details = base_a4.copy()
+        part_details["description_main"] = ["250_grams_per_meter_square"]
+        #distributor
+        # amazon
+        part_details["distributor_amazon"] = "B0CHG4S5G6"
+        part_details["distributor_amazon_link"] = "https://www.amazon.co.uk/A4-100sheet-Cardstock-Invitations-Stationary-Scrapbook/dp/B0CHG4S5G6"
+        part_details["price_1_distributor_amazon"] = 7.99/100/1.2
+        # viking_direct
+        part_details["distributor_rapid_online"] = "06-0930"
+        part_details["distributor_rapid_online_link"] = "https://www.rapidonline.com/rapid-a4-card-white-pack-of-100-06-0930"
+        part_details["price_1_distributor_rapid_online"] = 13.03/100/1.2
+        # current price
+        part_details["price_1"] = part_details["price_1_distributor_rapid_online"]
+
+
+
+
     #a5
     part_details = base.copy()
     part_details["size"] = ["a5_148_mm_width_210_mm_height"]
