@@ -52,7 +52,7 @@ if __name__ == "__main__":
     #filter = "lighting"
     #filter = "packaging"
     #filter = "paper"
-    filter = "three_d_printer"
+    #filter = "three_d_printer"
     #filter = "tool"
     #filter = "wood"
 
