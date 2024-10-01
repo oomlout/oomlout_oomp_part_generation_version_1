@@ -8,20 +8,20 @@ color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
 color_upper: ''
-description_extra: ''
-description_extra_capital: ''
-description_extra_first_letter: ''
-description_extra_first_letter_upper: ''
-description_extra_upper: ''
-description_main: hardware_screw_countersunk_m3_black_hex_head_version_1
-description_main_capital: Hardware Screw Countersunk M3 Black Hex Head Version 1
+description_extra: version_1
+description_extra_capital: Version 1
+description_extra_first_letter: v
+description_extra_first_letter_upper: V
+description_extra_upper: VERSION_1
+description_main: hardware_screw_countersunk_m3_black_hex_head
+description_main_capital: Hardware Screw Countersunk M3 Black Hex Head
 description_main_first_letter: h
 description_main_first_letter_upper: H
-description_main_upper: HARDWARE_SCREW_COUNTERSUNK_M3_BLACK_HEX_HEAD_VERSION_1
-description_only_numbers: '31'
-description_only_numbers_short: '31'
-description_or_color: '31'
-description_or_color_upper: '31'
+description_main_upper: HARDWARE_SCREW_COUNTERSUNK_M3_BLACK_HEX_HEAD
+description_only_numbers: '3'
+description_only_numbers_short: '3'
+description_or_color: '3'
+description_or_color_upper: '3'
 directory: parts/company_oomlout_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_oomlout_ptcs3bhv1
 distributors: []
 filter: ''

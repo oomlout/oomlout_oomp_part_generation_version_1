@@ -14,7 +14,7 @@ def load_parts(**kwargs):
     part_details = {}
     part_details["classification"] = "electronic"
     part_details["type"] = "heatshrink_2_to_1_shrink_ratio"
-    part_details["size"] = ["101_6_mm_internal_diameter","76_2_mm_internal_diameter","50_8_mm_internal_diameter","38_1_mm_internal_diameter","32_mm_internal_diameter,""25_4_mm_internal_diameter","19_mm_internal_diameter","12_7_mm_internal_diameter","9_5_mm_internal_diameter","6_4_mm_internal_diameter","3_2_mm_internal_diameter","2_4_mm_internal_diameter","1_6_mm_internal_diameter","1_2_mm_internal_diameter"]
+    part_details["size"] = ["101_6_mm_internal_diameter","76_2_mm_internal_diameter","50_8_mm_internal_diameter","38_1_mm_internal_diameter","32_mm_internal_diameter","25_4_mm_internal_diameter","19_mm_internal_diameter","12_7_mm_internal_diameter","9_5_mm_internal_diameter","6_4_mm_internal_diameter","3_2_mm_internal_diameter","2_4_mm_internal_diameter","1_6_mm_internal_diameter","1_2_mm_internal_diameter"]
     part_details["color"] = ["black","brown","orange","red","white","gray","blue","green","black","yellow","clear"]
     part_details["description_main"] = ["30000_mm_length","25_mm_length","15_mm_length","10_mm_length"]
     part_details["description_extra"] = [""]
