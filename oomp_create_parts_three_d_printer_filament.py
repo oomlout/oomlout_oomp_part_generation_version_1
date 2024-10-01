@@ -52,8 +52,8 @@ def load_parts(**kwargs):
     part_details = {}
     part_details["classification"] = "three_d_printer"
     part_details["type"] = "filament"
-    part_details["size"] = ["1_75_mm"]
-    part_details["color"] = ["pla_aqua"]
+    part_details["size"] = "1_75_mm"
+    part_details["color"] = "pla_aqua"
     part_details["description_main"] = "reel"
     part_details["description_extra"] = ""
     part_details["manufacturer"] = "3dqf"
@@ -71,8 +71,8 @@ def load_parts(**kwargs):
     part_details = {}
     part_details["classification"] = "three_d_printer"
     part_details["type"] = "filament"
-    part_details["size"] = ["1_75_mm"]
-    part_details["color"] = ["pla_plus_black"]
+    part_details["size"] = "1_75_mm"
+    part_details["color"] = "pla_plus_black"
     part_details["description_main"] = "reel"
     part_details["description_extra"] = ""
     part_details["manufacturer"] = "3dqf"
@@ -86,7 +86,47 @@ def load_parts(**kwargs):
     part_details["link_purchase"] = "https://www.3dqf.co.uk/product-page/deep-black-pla-plus-1-75mm-uk-made-3d-printer-filament"
     parts.append(part_details)    
     
+    
+    part_details = {}
+    part_details["classification"] = "three_d_printer"
+    part_details["type"] = "filament"
+    part_details["size"] = "1_75_mm"
+    part_details["color"] = "pla_eco_black"
+    part_details["description_main"] = "reel"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "3dqf"
+    part_details["part_number"] = ""
+    part_details["short_name"] = ""  
+    part_details["price_per_1"] = 15.99 / 1000 / 1.2
+    part_details["price_per_100"] = 9.99 / 1000 / 1.2
+    part_details["price_per_gram"] = part_details["price_per_100"]
+    part_details["price_per"] = part_details["price_per_100"]
+    part_details["price_current"] = 15.99 / 1000 / 1.2
+    part_details["price_per_kilogram"] = 15.99 / 1.2
+    part_details["weight"] = 1
+    part_details["link_purchase"] = "https://www.3dqf.co.uk/product-page/copy-of-eco-pla-10-pack-1-75mm-uk-made-3d-printer-filament-1kg"
+    parts.append(part_details)    
 
+    
+    part_details = {}
+    part_details["classification"] = "three_d_printer"
+    part_details["type"] = "filament"
+    part_details["size"] = "1_75_mm"
+    part_details["color"] = "pla_eco_blue_light"
+    part_details["description_main"] = "reel"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "3dqf"
+    part_details["part_number"] = ""
+    part_details["short_name"] = ""  
+    part_details["price_per_1"] = 15.99 / 1000 / 1.2
+    part_details["price_per_100"] = 9.99 / 1000 / 1.2
+    part_details["price_per_gram"] = part_details["price_per_100"]
+    part_details["price_per"] = part_details["price_per_100"]
+    part_details["price_current"] = 15.99 / 1000 / 1.2
+    part_details["price_per_kilogram"] = 15.99 / 1.2
+    part_details["weight"] = 1
+    part_details["link_purchase"] = "https://www.3dqf.co.uk/product-page/copy-of-eco-pla-10-pack-1-75mm-uk-made-3d-printer-filament-1kg"
+    parts.append(part_details) 
 
     oomp.add_parts(parts, make_files=make_files)
     
