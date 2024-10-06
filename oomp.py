@@ -305,7 +305,10 @@ def add_part(**kwargs):
         ### add useful name variants
         #      classification
         #      type
-        type_first_letter = kwargs["type"][0]
+        typ = kwargs["type"]
+        type_first_letter = ""
+        if typ != "":
+            type_first_letter = kwargs["type"][0]
         kwargs["type_first_letter"] = type_first_letter
         kwargs["type_first_letter_upper"] = type_first_letter.upper()
         kwargs["type_upper"] = kwargs["type"].upper()

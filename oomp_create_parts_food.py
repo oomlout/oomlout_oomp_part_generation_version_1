@@ -47,6 +47,9 @@ def load_parts(**kwargs):
         part_details["type"] = "dairy"
         part_details["size"] = ""
         part_details["color"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
         
         current_default = copy.deepcopy(part_details)
 
