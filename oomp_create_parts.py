@@ -9,6 +9,9 @@ part_types.append("camera")
 part_types.append("computer")
 part_types.append("computer_monitor")
 
+#dish
+part_types.append("dish")
+
 part_types.append("hardware_aluminium_extrusion")    
 part_types.append("hardware_bearing")
 part_types.append("hardware_bolt") # also set screw
