@@ -16,6 +16,7 @@ part_types.append("hardware_aluminium_extrusion")
 part_types.append("hardware_bearing")
 part_types.append("hardware_bolt") # also set screw
 part_types.append("hardware_nut")
+part_types.append("hardware_other")
 part_types.append("hardware_screw")
 part_types.append("hardware_spacer")
 part_types.append("hardware_standoff")

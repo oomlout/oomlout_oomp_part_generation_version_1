@@ -239,27 +239,6 @@ def load_parts(**kwargs):
         parts.append(part_details)
 
 
-# 574047011	M&S Creme Fraiche	04/10/2024
-# 505179011	M&S Sliced Italian Salami Milano	01/05/2024
-# 543077011	Harry & Percy Mashing Potatoes	04/10/2024
-# 230724011	Ella's Kitchen Prunes First Tastes Baby Food Pouch 4+ Months	12/02/2024
-# 517877011	M&S Piccolo Vine Tomatoes	27/11/2023
-# 267658011	Galpharm Ibuprofen 200mg Caplets	04/10/2024
-# 91370011	Ocado Large Garlic	24/09/2024
-# 517965011	M&S Baby Cucumbers	25/06/2024
-# 518638011	M&S Baby Carrots	27/02/2023
-# 517974011	M&S Salad Onions	10/09/2024
-# 15660011	Yeo Valley Organic Natural Yoghurt	18/06/2024
-# 69622011	Ocado Grated Parmigiano Reggiano	17/09/2024
-# 518324011	M&S Seedless White Grapes	08/04/2024
-# 58820011	Hellmann's Real Mayonnaise 	05/08/2024
-# 39528011	Heinz Baked Beans Snap Pots	01/10/2024
-# 517990011	M&S Whole Celery	17/09/2024
-# 517762011	M&S Seedless Easy Peelers	04/10/2024
-# 380985011	The Collective Strawberry Suckies Multipack Kids Yoghurt	08/05/2023
-# 505369011	M&S Select Farms British Semi Skimmed Milk 4 Pints	22/05/2023
-
-
 
 
 
