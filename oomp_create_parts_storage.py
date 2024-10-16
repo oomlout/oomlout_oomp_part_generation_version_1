@@ -147,6 +147,10 @@ def load_parts(**kwargs):
     part_details["manufacturer"] = "kilner"
     part_details["part_number"] = "0025_494"
     part_details["part_number_exact"] = "0025.494"
+    part_details["link_short_1"] = "kilner_3_litre"
+    part_details["link_short_2"] = "kilner3l"
+    part_details["link_short_3"] = "kilner3liter"
+
     parts.append(part_details)
 
     # 1500 ml depth 230 ml diameter 110 mm
@@ -160,6 +164,9 @@ def load_parts(**kwargs):
     part_details["manufacturer"] = "kilner"
     part_details["part_number"] = "0025_492"
     part_details["part_number_exact"] = "0025.492"
+    part_details["link_short_1"] = "kilner_1_5_litre"
+    part_details["link_short_2"] = "kilner15l"
+    part_details["link_short_3"] = "kilner15liter"
     parts.append(part_details)
 
     # 1000 ml depth 180 ml diameter 110 mm
@@ -173,6 +180,9 @@ def load_parts(**kwargs):
     part_details["manufacturer"] = "kilner"
     part_details["part_number"] = "0025_491"
     part_details["part_number_exact"] = "0025.491"
+    part_details["link_short_1"] = "kilner_1_litre"
+    part_details["link_short_2"] = "kilner1l"
+    part_details["link_short_3"] = "kilner1liter"
     parts.append(part_details)
     
 
