@@ -134,6 +134,47 @@ def load_parts(**kwargs):
     part_details["short_name"] = ""      
     parts.append(part_details)    
 
+    # kilner jars
+    
+    # 3000 ml depth 280 ml diameter 140 mm
+    part_details = {}
+    part_details["classification"] = "storage"
+    part_details["type"] = "jar_clip_top_kilner"
+    part_details["size"] = [""]
+    part_details["color"] = [""]
+    part_details["description_main"] = "3000_ml_capacity_140_mm_diameter_280_mm_depth"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "kilner"
+    part_details["part_number"] = "0025_494"
+    part_details["part_number_exact"] = "0025.494"
+    parts.append(part_details)
+
+    # 1500 ml depth 230 ml diameter 110 mm
+    part_details = {}
+    part_details["classification"] = "storage"
+    part_details["type"] = "jar_clip_top_kilner"
+    part_details["size"] = [""]
+    part_details["color"] = [""]
+    part_details["description_main"] = "1500_ml_capacity_110_mm_diameter_230_mm_depth"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "kilner"
+    part_details["part_number"] = "0025_492"
+    part_details["part_number_exact"] = "0025.492"
+    parts.append(part_details)
+
+    # 1000 ml depth 180 ml diameter 110 mm
+    part_details = {}
+    part_details["classification"] = "storage"
+    part_details["type"] = "jar_clip_top_kilner"
+    part_details["size"] = [""]
+    part_details["color"] = [""]
+    part_details["description_main"] = "1000_ml_capacity_110_mm_diameter_180_mm_depth"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "kilner"
+    part_details["part_number"] = "0025_491"
+    part_details["part_number_exact"] = "0025.491"
+    parts.append(part_details)
+    
 
     oomp.add_parts(parts, make_files=make_files)
     
