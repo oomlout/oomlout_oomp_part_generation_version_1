@@ -58,6 +58,21 @@ def load_parts(**kwargs):
     parts.append(part_details)
     
 
-    
+    #keypad
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "button_keypad"
+    part_details["size"] = ""
+    part_details["color"] = ""
+    part_details["description_main"] = "16_key_118_5_mm_width_118_5_mm_height_11_mm_depth"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = "storm_interface"
+    part_details["part_number"] = "2k16t10"
+    part_details["short_name"] = ""  
+    part_details["link"] = "https://www.storm-interface.com/ixp/keypads/2000-series/2000-series-16-key-telephone.html"
+    parts.append(part_details)
+
+
+
     oomp.add_parts(parts, make_files=make_files)
     
