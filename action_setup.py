@@ -52,6 +52,7 @@ if __name__ == "__main__":
     #filter = "electronic"
     #filter = "lighting"
     #filter = "packaging"
+    filter = "project"
     #filter = "paper"
     #filter = "three_d_printer"
     #filter = "tool"

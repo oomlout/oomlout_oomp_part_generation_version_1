@@ -4,6 +4,10 @@ import oomp
 
 part_types = []
 
+
+part_types.append("project_github")
+
+
 part_types.append("camera")
 
 part_types.append("computer")
@@ -68,7 +72,7 @@ part_types.append("packaging_tin")
 
 part_types.append("paper")
 
-part_types.append("project_github")
+
 
 #stationary
 part_types.append("stationery")
@@ -84,7 +88,20 @@ part_types.append("wood_timber_cls")
 
 
 for type in part_types:
-    importlib.import_module(f'oomp_create_parts_{type}')
+    if type == "project_github":
+        try:
+            importlib.import_module(f'oomp_create_parts_{type}')
+        except:
+            print("project_github not available")
+            print("project_github not available")
+            print("project_github not available")
+            print("project_github not available")
+            print("project_github not available")
+            import time
+            time.sleep(10)
+            pass
+    else:
+        importlib.import_module(f'oomp_create_parts_{type}')
 
 def load_parts(**kwargs):
     print("loading parts from modules")

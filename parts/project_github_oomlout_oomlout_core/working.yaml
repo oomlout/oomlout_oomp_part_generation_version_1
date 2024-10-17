@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oomlout_oomlout_core
+description_main_capital: Oomlout Oomlout Core
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OOMLOUT_OOMLOUT_CORE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/project_github_oomlout_oomlout_core
+distributors: []
+filter: project
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_core
+id: project_github_oomlout_oomlout_core
+id_no_class: github_oomlout_oomlout_core
+id_no_size: oomloutoomloutcore
+id_no_type: oomlout_oomlout_core
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_core
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_core](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_core)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_core)<br>[Project
+    Github Oomlout Oomlout Core](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_core)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_core](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_core)<br><br>'
+md5: f2435d5d2b1263e9d87b19046cbe722a
+md5_10: f2435d5d2b
+md5_10_upper: F2435D5D2B
+md5_5: f2435
+md5_5_upper: F2435
+md5_6: f2435d
+md5_6_alpha: 9gaql
+md5_6_alpha_upper: 9GAQL
+md5_6_upper: F2435D
+name: Project Github Oomlout Oomlout Core
+name_no_class: Github Oomlout Oomlout Core
+name_no_size: Oomloutoomloutcore
+name_no_size_short: Oomloutoomloutcore
+name_no_type: Oomlout Oomlout Core
+oomp_key: oomp_project_github_oomlout_oomlout_core
+oomp_word: one elephant blowfish
+oomp_word_emoji: ':one: :elephant: :blowfish:'
+oomp_word_emoji_list:
+- ':one:'
+- ':elephant:'
+- ':blowfish:'
+oomp_word_list:
+- one
+- elephant
+- blowfish
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

@@ -1,3 +1,4 @@
+import os
 import oomp
 import copy
 
@@ -13,28 +14,45 @@ def load_parts(**kwargs):
     username_github = "oomlout"
 
     #use the github api to get a list of public repositories for username_github
-    import requests
-    url = f"https://api.github.com/users/{username_github}/repos"
-    response = requests.get(url)
-    repos = response.json()
+    #authentcate first
+    #make sure to fetch all pages
+    run = True
+    page = 1
+    
+    #token notes
+    # set as GITHUB_TOKEN
+    #set GITHUB_TOKEN= {token}
 
-    #loop through the repos
-    for repo in repos:
-        url = repo["html_url"]
-        name = url.split("/")[-1]
-        name_fixed = name_fixed.lower().replace(" ", "_")
-        name_fixed = name_fixed().replace("-", "_")
-        part_details = {}
-        part_details["classification"] = "project"
-        part_details["type"] = "github"
-        part_details["size"] = ""
-        part_details["color"] = ""
-        part_details["description_main"] = f"{username_github}_{name_fixed}"
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = ""
-        part_details["part_number"] = ""
-        part_details["link_redirect"] = url
-        parts.append(part_details)
+    while run:
+        import requests
+        token_github = os.getenv("GITHUB_TOKEN")
+        if token_github is None:
+            print("GITHUB_TOKEN not set")
+        url_base = f"https://api.github.com/users/{username_github}/repos"
+        url = f"{url_base}?page={page}"      
+        headers = {
+            "Authorization": f"token {token_github}"
+        }
+        response = requests.get(url, headers=headers)
+        repos = response.json()
+
+        #loop through the repos
+        for repo in repos:
+            url = repo["html_url"]
+            name = url.split("/")[-1]
+            name_fixed = name.lower().replace(" ", "_")
+            name_fixed = name_fixed.replace("-", "_")
+            part_details = {}
+            part_details["classification"] = "project"
+            part_details["type"] = "github"
+            part_details["size"] = ""
+            part_details["color"] = ""
+            part_details["description_main"] = f"{username_github}_{name_fixed}"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = ""
+            part_details["part_number"] = ""
+            part_details["link_redirect"] = url
+            parts.append(part_details)
         
 
 
