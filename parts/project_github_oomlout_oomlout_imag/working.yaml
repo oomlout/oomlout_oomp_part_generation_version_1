@@ -13,11 +13,11 @@ description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
 description_extra_upper: ''
-description_main: oomlout_oomlout_imag
-description_main_capital: Oomlout Oomlout Imag
+description_main: oomlout_imag
+description_main_capital: Oomlout Imag
 description_main_first_letter: o
 description_main_first_letter_upper: O
-description_main_upper: OOMLOUT_OOMLOUT_IMAG
+description_main_upper: OOMLOUT_IMAG
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -29,7 +29,7 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_imag
 id: project_github_oomlout_oomlout_imag
 id_no_class: github_oomlout_oomlout_imag
-id_no_size: oomloutoomloutimag
+id_no_size: imag
 id_no_type: oomlout_oomlout_imag
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_imag
 manufacturer: ''
@@ -52,8 +52,8 @@ md5_6_alpha_upper: 647J8
 md5_6_upper: 9CC524
 name: Project Github Oomlout Oomlout Imag
 name_no_class: Github Oomlout Oomlout Imag
-name_no_size: Oomloutoomloutimag
-name_no_size_short: Oomloutoomloutimag
+name_no_size: Imag
+name_no_size_short: Imag
 name_no_type: Oomlout Oomlout Imag
 oomp_key: oomp_project_github_oomlout_oomlout_imag
 oomp_word: spades candy droplet
@@ -73,13 +73,13 @@ part_number_first_letter_upper: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: ''
+size_upper: OOMLOUT
 type: github
 type_capital: Github
 type_first_letter: g

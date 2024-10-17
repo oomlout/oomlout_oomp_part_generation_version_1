@@ -13,12 +13,12 @@ description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
 description_extra_upper: ''
-description_main: oomlout_oomlout_oobb_packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181
-description_main_capital: Oomlout Oomlout Oobb Packaging Takeaway Container Rectangle
-    500 Ml Nisbet Fiesta Small Dm181
+description_main: oomlout_oobb_packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181
+description_main_capital: Oomlout Oobb Packaging Takeaway Container Rectangle 500
+    Ml Nisbet Fiesta Small Dm181
 description_main_first_letter: o
 description_main_first_letter_upper: O
-description_main_upper: OOMLOUT_OOMLOUT_OOBB_PACKAGING_TAKEAWAY_CONTAINER_RECTANGLE_500_ML_NISBET_FIESTA_SMALL_DM181
+description_main_upper: OOMLOUT_OOBB_PACKAGING_TAKEAWAY_CONTAINER_RECTANGLE_500_ML_NISBET_FIESTA_SMALL_DM181
 description_only_numbers: '500181'
 description_only_numbers_short: 500k
 description_or_color: 500k
@@ -30,7 +30,7 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181
 id: project_github_oomlout_oomlout_oobb_packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181
 id_no_class: github_oomlout_oomlout_oobb_packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181
-id_no_size: oomloutoomloutoobbpackagingtakeawaycontainerrectangle500mlnisbetfiestasmalldm181
+id_no_size: oobb_packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181
 id_no_type: oomlout_oomlout_oobb_packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181
 manufacturer: ''
@@ -56,8 +56,10 @@ name: Project Github Oomlout Oomlout Oobb Packaging Takeaway Container Rectangle
     Ml Nisbet Fiesta Small Dm181
 name_no_class: Github Oomlout Oomlout Oobb Packaging Takeaway Container Rectangle
     500 Ml Nisbet Fiesta Small Dm181
-name_no_size: Oomloutoomloutoobbpackagingtakeawaycontainerrectangle500Mlnisbetfiestasmalldm181
-name_no_size_short: Oomloutoomloutoobbpackagingtakeawaycontainerrectangle500Mlnisbetfiestasmalldm181
+name_no_size: Oobb Packaging Takeaway Container Rectangle 500 Ml Nisbet Fiesta Small
+    Dm181
+name_no_size_short: Oobb Packaging Takeaway Container Rectangle 500 Ml Nisbet Fiesta
+    Small Dm181
 name_no_type: Oomlout Oomlout Oobb Packaging Takeaway Container Rectangle 500 Ml Nisbet
     Fiesta Small Dm181
 oomp_key: oomp_project_github_oomlout_oomlout_oobb_packaging_takeaway_container_rectangle_500_ml_nisbet_fiesta_small_dm181
@@ -78,13 +80,13 @@ part_number_first_letter_upper: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: ''
+size_upper: OOMLOUT
 type: github
 type_capital: Github
 type_first_letter: g

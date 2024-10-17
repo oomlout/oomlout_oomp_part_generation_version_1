@@ -13,11 +13,11 @@ description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
 description_extra_upper: ''
-description_main: oomlout_oomlout_oomp_current_version_fast_test
-description_main_capital: Oomlout Oomlout Oomp Current Version Fast Test
+description_main: oomlout_oomp_current_version_fast_test
+description_main_capital: Oomlout Oomp Current Version Fast Test
 description_main_first_letter: o
 description_main_first_letter_upper: O
-description_main_upper: OOMLOUT_OOMLOUT_OOMP_CURRENT_VERSION_FAST_TEST
+description_main_upper: OOMLOUT_OOMP_CURRENT_VERSION_FAST_TEST
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -29,7 +29,7 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_current_version_fast_test
 id: project_github_oomlout_oomlout_oomp_current_version_fast_test
 id_no_class: github_oomlout_oomlout_oomp_current_version_fast_test
-id_no_size: oomloutoomloutoompcurrentversionfasttest
+id_no_size: oomp_current_version_fast_test
 id_no_type: oomlout_oomlout_oomp_current_version_fast_test
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_current_version_fast_test
 manufacturer: ''
@@ -52,8 +52,8 @@ md5_6_alpha_upper: 7HZM
 md5_6_upper: 0556D2
 name: Project Github Oomlout Oomlout Oomp Current Version Fast Test
 name_no_class: Github Oomlout Oomlout Oomp Current Version Fast Test
-name_no_size: Oomloutoomloutoompcurrentversionfasttest
-name_no_size_short: Oomloutoomloutoompcurrentversionfasttest
+name_no_size: Oomp Current Version Fast Test
+name_no_size_short: Oomp Current Version Fast Test
 name_no_type: Oomlout Oomlout Oomp Current Version Fast Test
 oomp_key: oomp_project_github_oomlout_oomlout_oomp_current_version_fast_test
 oomp_word: kissing ram pineapple
@@ -73,13 +73,13 @@ part_number_first_letter_upper: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: ''
+size_upper: OOMLOUT
 type: github
 type_capital: Github
 type_first_letter: g

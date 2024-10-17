@@ -13,11 +13,11 @@ description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
 description_extra_upper: ''
-description_main: oomlout_oomlout_oomp_part_kicad_footprints
-description_main_capital: Oomlout Oomlout Oomp Part Kicad Footprints
+description_main: oomlout_oomp_part_kicad_footprints
+description_main_capital: Oomlout Oomp Part Kicad Footprints
 description_main_first_letter: o
 description_main_first_letter_upper: O
-description_main_upper: OOMLOUT_OOMLOUT_OOMP_PART_KICAD_FOOTPRINTS
+description_main_upper: OOMLOUT_OOMP_PART_KICAD_FOOTPRINTS
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -29,7 +29,7 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_part_kicad_footprints
 id: project_github_oomlout_oomlout_oomp_part_kicad_footprints
 id_no_class: github_oomlout_oomlout_oomp_part_kicad_footprints
-id_no_size: oomloutoomloutoomppartkicadfootprints
+id_no_size: oomp_part_kicad_footprints
 id_no_type: oomlout_oomlout_oomp_part_kicad_footprints
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_part_kicad_footprints
 manufacturer: ''
@@ -52,8 +52,8 @@ md5_6_alpha_upper: 7V45K
 md5_6_upper: C98DC8
 name: Project Github Oomlout Oomlout Oomp Part Kicad Footprints
 name_no_class: Github Oomlout Oomlout Oomp Part Kicad Footprints
-name_no_size: Oomloutoomloutoomppartkicadfootprints
-name_no_size_short: Oomloutoomloutoomppartkicadfootprints
+name_no_size: Oomp Part Kicad Footprints
+name_no_size_short: Oomp Part Kicad Footprints
 name_no_type: Oomlout Oomlout Oomp Part Kicad Footprints
 oomp_key: oomp_project_github_oomlout_oomlout_oomp_part_kicad_footprints
 oomp_word: lemon scroll apple
@@ -73,13 +73,13 @@ part_number_first_letter_upper: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: ''
+size_upper: OOMLOUT
 type: github
 type_capital: Github
 type_first_letter: g

@@ -13,12 +13,12 @@ description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
 description_extra_upper: ''
-description_main: oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_holder_oobb_3_2
-description_main_capital: Oomlout Oomlout Oomp Electronic Project Ibbc Breakout Board
-    Holder Oobb 3.2
+description_main: oomlout_oomp_electronic_project_ibbc_breakout_board_holder_oobb_3_2
+description_main_capital: Oomlout Oomp Electronic Project Ibbc Breakout Board Holder
+    Oobb 3.2
 description_main_first_letter: o
 description_main_first_letter_upper: O
-description_main_upper: OOMLOUT_OOMLOUT_OOMP_ELECTRONIC_PROJECT_IBBC_BREAKOUT_BOARD_HOLDER_OOBB_3_2
+description_main_upper: OOMLOUT_OOMP_ELECTRONIC_PROJECT_IBBC_BREAKOUT_BOARD_HOLDER_OOBB_3_2
 description_only_numbers: '32'
 description_only_numbers_short: '32'
 description_or_color: '32'
@@ -30,7 +30,7 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_holder_oobb_3_2
 id: project_github_oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_holder_oobb_3_2
 id_no_class: github_oomlout_oomlout_oomp_electronic_ibbc_breakout_board_holder_oobb_3_2
-id_no_size: oomloutoomloutoompelectronicibbcbreakoutboardholderoobb32
+id_no_size: oomp_electronic_ibbc_breakout_board_holder_oobb_3_2
 id_no_type: oomlout_oomlout_oomp_electronic_ibbc_breakout_board_holder_oobb_3_2
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_holder_oobb_3_2
 manufacturer: ''
@@ -56,8 +56,8 @@ name: Project Github Oomlout Oomlout Oomp Electronic Project Ibbc Breakout Board
     Oobb 3 2
 name_no_class: Github Oomlout Oomlout Oomp Electronic Ibbc Breakout Board Holder Oobb
     3 2
-name_no_size: Oomloutoomloutoompelectronicibbcbreakoutboardholderoobb32
-name_no_size_short: Oomloutoomloutoompelectronicibbcbreakoutboardholderoobb32
+name_no_size: Oomp Electronic Ibbc Breakout Board Holder Oobb 3 2
+name_no_size_short: Oomp Electronic Ibbc Breakout Board Holder Oobb 3 2
 name_no_type: Oomlout Oomlout Oomp Electronic Ibbc Breakout Board Holder Oobb 3 2
 oomp_key: oomp_project_github_oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_holder_oobb_3_2
 oomp_word: up shirt rose
@@ -77,13 +77,13 @@ part_number_first_letter_upper: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: ''
+size_upper: OOMLOUT
 type: github
 type_capital: Github
 type_first_letter: g

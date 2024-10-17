@@ -13,11 +13,11 @@ description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
 description_extra_upper: ''
-description_main: oomlout_oomlout_oomp_part_src
-description_main_capital: Oomlout Oomlout Oomp Part Src
+description_main: oomlout_oomp_part_src
+description_main_capital: Oomlout Oomp Part Src
 description_main_first_letter: o
 description_main_first_letter_upper: O
-description_main_upper: OOMLOUT_OOMLOUT_OOMP_PART_SRC
+description_main_upper: OOMLOUT_OOMP_PART_SRC
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -29,7 +29,7 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_part_src
 id: project_github_oomlout_oomlout_oomp_part_src
 id_no_class: github_oomlout_oomlout_oomp_part_src
-id_no_size: oomloutoomloutoomppartsrc
+id_no_size: oomp_part_src
 id_no_type: oomlout_oomlout_oomp_part_src
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_part_src
 manufacturer: ''
@@ -52,8 +52,8 @@ md5_6_alpha_upper: 9AYBY
 md5_6_upper: EE754E
 name: Project Github Oomlout Oomlout Oomp Part Src
 name_no_class: Github Oomlout Oomlout Oomp Part Src
-name_no_size: Oomloutoomloutoomppartsrc
-name_no_size_short: Oomloutoomloutoomppartsrc
+name_no_size: Oomp Part Src
+name_no_size_short: Oomp Part Src
 name_no_type: Oomlout Oomlout Oomp Part Src
 oomp_key: oomp_project_github_oomlout_oomlout_oomp_part_src
 oomp_word: ambulance ghost honeybee
@@ -73,13 +73,13 @@ part_number_first_letter_upper: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: ''
+size_upper: OOMLOUT
 type: github
 type_capital: Github
 type_first_letter: g

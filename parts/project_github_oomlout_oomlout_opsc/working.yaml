@@ -13,11 +13,11 @@ description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
 description_extra_upper: ''
-description_main: oomlout_oomlout_opsc
-description_main_capital: Oomlout Oomlout Opsc
+description_main: oomlout_opsc
+description_main_capital: Oomlout Opsc
 description_main_first_letter: o
 description_main_first_letter_upper: O
-description_main_upper: OOMLOUT_OOMLOUT_OPSC
+description_main_upper: OOMLOUT_OPSC
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -29,7 +29,7 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_opsc
 id: project_github_oomlout_oomlout_opsc
 id_no_class: github_oomlout_oomlout_opsc
-id_no_size: oomloutoomloutopsc
+id_no_size: opsc
 id_no_type: oomlout_oomlout_opsc
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_opsc
 manufacturer: ''
@@ -52,8 +52,8 @@ md5_6_alpha_upper: 5C6KK
 md5_6_upper: 88D144
 name: Project Github Oomlout Oomlout Opsc
 name_no_class: Github Oomlout Oomlout Opsc
-name_no_size: Oomloutoomloutopsc
-name_no_size_short: Oomloutoomloutopsc
+name_no_size: Opsc
+name_no_size_short: Opsc
 name_no_type: Oomlout Oomlout Opsc
 oomp_key: oomp_project_github_oomlout_oomlout_opsc
 oomp_word: wrench pear panda_face
@@ -73,13 +73,13 @@ part_number_first_letter_upper: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: ''
+size_upper: OOMLOUT
 type: github
 type_capital: Github
 type_first_letter: g

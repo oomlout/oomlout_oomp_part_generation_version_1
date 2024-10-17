@@ -13,12 +13,11 @@ description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
 description_extra_upper: ''
-description_main: oomlout_oomlout_product_electronic_prototyping_breadboard_800_point
-description_main_capital: Oomlout Oomlout Product Electronic Prototyping Breadboard
-    800 Point
+description_main: oomlout_product_electronic_prototyping_breadboard_800_point
+description_main_capital: Oomlout Product Electronic Prototyping Breadboard 800 Point
 description_main_first_letter: o
 description_main_first_letter_upper: O
-description_main_upper: OOMLOUT_OOMLOUT_PRODUCT_ELECTRONIC_PROTOTYPING_BREADBOARD_800_POINT
+description_main_upper: OOMLOUT_PRODUCT_ELECTRONIC_PROTOTYPING_BREADBOARD_800_POINT
 description_only_numbers: '800'
 description_only_numbers_short: '800'
 description_or_color: '800'
@@ -30,7 +29,7 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_product_electronic_prototyping_breadboard_800_point
 id: project_github_oomlout_oomlout_product_electronic_prototyping_breadboard_800_point
 id_no_class: github_oomlout_oomlout_product_electronic_prototyping_breadboard_800_point
-id_no_size: oomloutoomloutproductelectronicprototypingbreadboard800point
+id_no_size: product_electronic_prototyping_breadboard_800_point
 id_no_type: oomlout_oomlout_product_electronic_prototyping_breadboard_800_point
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_product_electronic_prototyping_breadboard_800_point
 manufacturer: ''
@@ -55,8 +54,8 @@ name: Project Github Oomlout Oomlout Product Electronic Prototyping Breadboard 8
     Point
 name_no_class: Github Oomlout Oomlout Product Electronic Prototyping Breadboard 800
     Point
-name_no_size: Oomloutoomloutproductelectronicprototypingbreadboard800Point
-name_no_size_short: Oomloutoomloutproductelectronicprototypingbreadboard800Point
+name_no_size: Product Electronic Prototyping Breadboard 800 Point
+name_no_size_short: Product Electronic Prototyping Breadboard 800 Point
 name_no_type: Oomlout Oomlout Product Electronic Prototyping Breadboard 800 Point
 oomp_key: oomp_project_github_oomlout_oomlout_product_electronic_prototyping_breadboard_800_point
 oomp_word: stars coffee grapes
@@ -76,13 +75,13 @@ part_number_first_letter_upper: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: ''
+size_upper: OOMLOUT
 type: github
 type_capital: Github
 type_first_letter: g

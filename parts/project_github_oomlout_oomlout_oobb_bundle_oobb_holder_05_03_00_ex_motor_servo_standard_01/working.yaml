@@ -13,12 +13,12 @@ description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
 description_extra_upper: ''
-description_main: oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
-description_main_capital: Oomlout Oomlout Oobb Bundle Oobb Holder 05 03 00 Ex Motor
-    Servo Standard 01
+description_main: oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
+description_main_capital: Oomlout Oobb Bundle Oobb Holder 05 03 00 Ex Motor Servo
+    Standard 01
 description_main_first_letter: o
 description_main_first_letter_upper: O
-description_main_upper: OOMLOUT_OOMLOUT_OOBB_BUNDLE_OOBB_HOLDER_05_03_00_EX_MOTOR_SERVO_STANDARD_01
+description_main_upper: OOMLOUT_OOBB_BUNDLE_OOBB_HOLDER_05_03_00_EX_MOTOR_SERVO_STANDARD_01
 description_only_numbers: '05030001'
 description_only_numbers_short: 5M
 description_or_color: 5M
@@ -30,7 +30,7 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
 id: project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
 id_no_class: github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
-id_no_size: oomloutoomloutoobbbundleoobbholder050300exmotorservostandard01
+id_no_size: oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
 id_no_type: oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
 manufacturer: ''
@@ -56,8 +56,8 @@ name: Project Github Oomlout Oomlout Oobb Bundle Oobb Holder 05 03 00 Ex Motor S
     Standard 01
 name_no_class: Github Oomlout Oomlout Oobb Bundle Oobb Holder 05 03 00 Ex Motor Servo
     Standard 01
-name_no_size: Oomloutoomloutoobbbundleoobbholder050300Exmotorservostandard01
-name_no_size_short: Oomloutoomloutoobbbundleoobbholder050300Exmotorservostandard01
+name_no_size: Oobb Bundle Oobb Holder 05 03 00 Ex Motor Servo Standard 01
+name_no_size_short: Oobb Bundle Oobb Holder 05 03 00 Ex Motor Servo Standard 01
 name_no_type: Oomlout Oomlout Oobb Bundle Oobb Holder 05 03 00 Ex Motor Servo Standard
     01
 oomp_key: oomp_project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
@@ -78,13 +78,13 @@ part_number_first_letter_upper: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: ''
+size_upper: OOMLOUT
 type: github
 type_capital: Github
 type_first_letter: g

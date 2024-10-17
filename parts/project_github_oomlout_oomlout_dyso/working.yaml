@@ -13,11 +13,11 @@ description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
 description_extra_upper: ''
-description_main: oomlout_oomlout_dyso
-description_main_capital: Oomlout Oomlout Dyso
+description_main: oomlout_dyso
+description_main_capital: Oomlout Dyso
 description_main_first_letter: o
 description_main_first_letter_upper: O
-description_main_upper: OOMLOUT_OOMLOUT_DYSO
+description_main_upper: OOMLOUT_DYSO
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -29,7 +29,7 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_dyso
 id: project_github_oomlout_oomlout_dyso
 id_no_class: github_oomlout_oomlout_dyso
-id_no_size: oomloutoomloutdyso
+id_no_size: dyso
 id_no_type: oomlout_oomlout_dyso
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_dyso
 manufacturer: ''
@@ -52,8 +52,8 @@ md5_6_alpha_upper: 1TEZW
 md5_6_upper: 2E922C
 name: Project Github Oomlout Oomlout Dyso
 name_no_class: Github Oomlout Oomlout Dyso
-name_no_size: Oomloutoomloutdyso
-name_no_size_short: Oomloutoomloutdyso
+name_no_size: Dyso
+name_no_size_short: Dyso
 name_no_type: Oomlout Oomlout Dyso
 oomp_key: oomp_project_github_oomlout_oomlout_dyso
 oomp_word: zap paperclip snowflake
@@ -73,13 +73,13 @@ part_number_first_letter_upper: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: ''
+size_upper: OOMLOUT
 type: github
 type_capital: Github
 type_first_letter: g

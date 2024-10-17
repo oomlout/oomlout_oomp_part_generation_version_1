@@ -13,11 +13,11 @@ description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
 description_extra_upper: ''
-description_main: oomlout_oomp_base_mechanical_three_d_model
-description_main_capital: Oomlout Oomp Base Mechanical Three D Model
+description_main: oomp_base_mechanical_three_d_model
+description_main_capital: Oomp Base Mechanical Three D Model
 description_main_first_letter: o
 description_main_first_letter_upper: O
-description_main_upper: OOMLOUT_OOMP_BASE_MECHANICAL_THREE_D_MODEL
+description_main_upper: OOMP_BASE_MECHANICAL_THREE_D_MODEL
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -29,7 +29,7 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_mechanical_three_d_model
 id: project_github_oomlout_oomp_base_mechanical_three_d_model
 id_no_class: github_oomlout_oomp_base_mechanical_three_d_model
-id_no_size: oomloutoompbasemechanicalthreedmodel
+id_no_size: oomp_base_mechanical_three_d_model
 id_no_type: oomlout_oomp_base_mechanical_three_d_model
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_mechanical_three_d_model
 manufacturer: ''
@@ -52,8 +52,8 @@ md5_6_alpha_upper: 7GXFY
 md5_6_upper: BF744E
 name: Project Github Oomlout Oomp Base Mechanical Three D Model
 name_no_class: Github Oomlout Oomp Base Mechanical Three D Model
-name_no_size: Oomloutoompbasemechanicalthreedmodel
-name_no_size_short: Oomloutoompbasemechanicalthreedmodel
+name_no_size: Oomp Base Mechanical Three D Model
+name_no_size_short: Oomp Base Mechanical Three D Model
 name_no_type: Oomlout Oomp Base Mechanical Three D Model
 oomp_key: oomp_project_github_oomlout_oomp_base_mechanical_three_d_model
 oomp_word: egg fireworks honeybee
@@ -73,13 +73,13 @@ part_number_first_letter_upper: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: ''
+size_upper: OOMLOUT
 type: github
 type_capital: Github
 type_first_letter: g

@@ -13,11 +13,11 @@ description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
 description_extra_upper: ''
-description_main: oomlout_oomlout_oobb_hardware_screw_wood_adapter_to_bolt
-description_main_capital: Oomlout Oomlout Oobb Hardware Screw Wood Adapter To Bolt
+description_main: oomlout_oobb_hardware_screw_wood_adapter_to_bolt
+description_main_capital: Oomlout Oobb Hardware Screw Wood Adapter To Bolt
 description_main_first_letter: o
 description_main_first_letter_upper: O
-description_main_upper: OOMLOUT_OOMLOUT_OOBB_HARDWARE_SCREW_WOOD_ADAPTER_TO_BOLT
+description_main_upper: OOMLOUT_OOBB_HARDWARE_SCREW_WOOD_ADAPTER_TO_BOLT
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -29,7 +29,7 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_wood_adapter_to_bolt
 id: project_github_oomlout_oomlout_oobb_hardware_screw_wood_adapter_to_bolt
 id_no_class: github_oomlout_oomlout_oobb_hardware_screw_wood_adapter_to_bolt
-id_no_size: oomloutoomloutoobbhardwarescrewwoodadaptertobolt
+id_no_size: oobb_hardware_screw_wood_adapter_to_bolt
 id_no_type: oomlout_oomlout_oobb_hardware_screw_wood_adapter_to_bolt
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_wood_adapter_to_bolt
 manufacturer: ''
@@ -52,8 +52,8 @@ md5_6_alpha_upper: 40SCY
 md5_6_upper: '671392'
 name: Project Github Oomlout Oomlout Oobb Hardware Screw Wood Adapter To Bolt
 name_no_class: Github Oomlout Oomlout Oobb Hardware Screw Wood Adapter To Bolt
-name_no_size: Oomloutoomloutoobbhardwarescrewwoodadaptertobolt
-name_no_size_short: Oomloutoomloutoobbhardwarescrewwoodadaptertobolt
+name_no_size: Oobb Hardware Screw Wood Adapter To Bolt
+name_no_size_short: Oobb Hardware Screw Wood Adapter To Bolt
 name_no_type: Oomlout Oomlout Oobb Hardware Screw Wood Adapter To Bolt
 oomp_key: oomp_project_github_oomlout_oomlout_oobb_hardware_screw_wood_adapter_to_bolt
 oomp_word: herb question paperclip
@@ -73,13 +73,13 @@ part_number_first_letter_upper: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: ''
+size_upper: OOMLOUT
 type: github
 type_capital: Github
 type_first_letter: g

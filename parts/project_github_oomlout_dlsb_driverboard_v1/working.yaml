@@ -13,11 +13,11 @@ description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
 description_extra_upper: ''
-description_main: oomlout_dlsb_driverboard_v1
-description_main_capital: Oomlout Dlsb Driverboard V1
-description_main_first_letter: o
-description_main_first_letter_upper: O
-description_main_upper: OOMLOUT_DLSB_DRIVERBOARD_V1
+description_main: dlsb_driverboard_v1
+description_main_capital: Dlsb Driverboard V1
+description_main_first_letter: d
+description_main_first_letter_upper: D
+description_main_upper: DLSB_DRIVERBOARD_V1
 description_only_numbers: '1'
 description_only_numbers_short: '1'
 description_or_color: '1'
@@ -29,7 +29,7 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_dlsb_driverboard_v1
 id: project_github_oomlout_dlsb_driverboard_v1
 id_no_class: github_oomlout_dlsb_driverboard_v1
-id_no_size: oomloutdlsbdriverboardv1
+id_no_size: dlsb_driverboard_v1
 id_no_type: oomlout_dlsb_driverboard_v1
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_dlsb_driverboard_v1
 manufacturer: ''
@@ -52,8 +52,8 @@ md5_6_alpha_upper: 7CXGX
 md5_6_upper: BC9B71
 name: Project Github Oomlout Dlsb Driverboard V1
 name_no_class: Github Oomlout Dlsb Driverboard V1
-name_no_size: Oomloutdlsbdriverboardv1
-name_no_size_short: Oomloutdlsbdriverboardv1
+name_no_size: Dlsb Driverboard V1
+name_no_size_short: Dlsb Driverboard V1
 name_no_type: Oomlout Dlsb Driverboard V1
 oomp_key: oomp_project_github_oomlout_dlsb_driverboard_v1
 oomp_word: sushi ski bamboo
@@ -73,13 +73,13 @@ part_number_first_letter_upper: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: ''
+size_upper: OOMLOUT
 type: github
 type_capital: Github
 type_first_letter: g

@@ -13,11 +13,11 @@ description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
 description_extra_upper: ''
-description_main: oomlout_oomp_base
-description_main_capital: Oomlout Oomp Base
+description_main: oomp_base
+description_main_capital: Oomp Base
 description_main_first_letter: o
 description_main_first_letter_upper: O
-description_main_upper: OOMLOUT_OOMP_BASE
+description_main_upper: OOMP_BASE
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -29,7 +29,7 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base
 id: project_github_oomlout_oomp_base
 id_no_class: github_oomlout_oomp_base
-id_no_size: oomloutoompbase
+id_no_size: oomp_base
 id_no_type: oomlout_oomp_base
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base
 manufacturer: ''
@@ -52,8 +52,8 @@ md5_6_alpha_upper: 3VO65
 md5_6_upper: 636F1D
 name: Project Github Oomlout Oomp Base
 name_no_class: Github Oomlout Oomp Base
-name_no_size: Oomloutoompbase
-name_no_size_short: Oomloutoompbase
+name_no_size: Oomp Base
+name_no_size_short: Oomp Base
 name_no_type: Oomlout Oomp Base
 oomp_key: oomp_project_github_oomlout_oomp_base
 oomp_word: rose moon baby
@@ -73,13 +73,13 @@ part_number_first_letter_upper: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: ''
+size_upper: OOMLOUT
 type: github
 type_capital: Github
 type_first_letter: g

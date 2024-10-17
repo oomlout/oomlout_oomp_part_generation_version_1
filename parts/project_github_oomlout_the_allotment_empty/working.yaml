@@ -13,11 +13,11 @@ description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
 description_extra_upper: ''
-description_main: oomlout_the_allotment_empty
-description_main_capital: Oomlout The Allotment Empty
-description_main_first_letter: o
-description_main_first_letter_upper: O
-description_main_upper: OOMLOUT_THE_ALLOTMENT_EMPTY
+description_main: the_allotment_empty
+description_main_capital: The Allotment Empty
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: THE_ALLOTMENT_EMPTY
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -29,7 +29,7 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_the_allotment_empty
 id: project_github_oomlout_the_allotment_empty
 id_no_class: github_oomlout_the_allotment_empty
-id_no_size: oomlouttheallotmentempty
+id_no_size: the_allotment_empty
 id_no_type: oomlout_the_allotment_empty
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_the_allotment_empty
 manufacturer: ''
@@ -52,8 +52,8 @@ md5_6_alpha_upper: 8HYQ2
 md5_6_upper: D9D20A
 name: Project Github Oomlout The Allotment Empty
 name_no_class: Github Oomlout The Allotment Empty
-name_no_size: Oomlouttheallotmentempty
-name_no_size_short: Oomlouttheallotmentempty
+name_no_size: The Allotment Empty
+name_no_size_short: The Allotment Empty
 name_no_type: Oomlout The Allotment Empty
 oomp_key: oomp_project_github_oomlout_the_allotment_empty
 oomp_word: bank pineapple sleepy
@@ -73,13 +73,13 @@ part_number_first_letter_upper: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: ''
+size_upper: OOMLOUT
 type: github
 type_capital: Github
 type_first_letter: g

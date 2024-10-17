@@ -13,12 +13,12 @@ description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
 description_extra_upper: ''
-description_main: oomlout_oomlout_packaging_takeaway_container_circle_oobb_carrying_tray
-description_main_capital: Oomlout Oomlout Packaging Takeaway Container Circle Oobb
-    Carrying Tray
+description_main: oomlout_packaging_takeaway_container_circle_oobb_carrying_tray
+description_main_capital: Oomlout Packaging Takeaway Container Circle Oobb Carrying
+    Tray
 description_main_first_letter: o
 description_main_first_letter_upper: O
-description_main_upper: OOMLOUT_OOMLOUT_PACKAGING_TAKEAWAY_CONTAINER_CIRCLE_OOBB_CARRYING_TRAY
+description_main_upper: OOMLOUT_PACKAGING_TAKEAWAY_CONTAINER_CIRCLE_OOBB_CARRYING_TRAY
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -30,7 +30,7 @@ from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_packaging_takeaway_container_circle_oobb_carrying_tray
 id: project_github_oomlout_oomlout_packaging_takeaway_container_circle_oobb_carrying_tray
 id_no_class: github_oomlout_oomlout_packaging_takeaway_container_circle_oobb_carrying_tray
-id_no_size: oomloutoomloutpackagingtakeawaycontainercircleoobbcarryingtray
+id_no_size: packaging_takeaway_container_circle_oobb_carrying_tray
 id_no_type: oomlout_oomlout_packaging_takeaway_container_circle_oobb_carrying_tray
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_packaging_takeaway_container_circle_oobb_carrying_tray
 manufacturer: ''
@@ -55,8 +55,8 @@ name: Project Github Oomlout Oomlout Packaging Takeaway Container Circle Oobb Ca
     Tray
 name_no_class: Github Oomlout Oomlout Packaging Takeaway Container Circle Oobb Carrying
     Tray
-name_no_size: Oomloutoomloutpackagingtakeawaycontainercircleoobbcarryingtray
-name_no_size_short: Oomloutoomloutpackagingtakeawaycontainercircleoobbcarryingtray
+name_no_size: Packaging Takeaway Container Circle Oobb Carrying Tray
+name_no_size_short: Packaging Takeaway Container Circle Oobb Carrying Tray
 name_no_type: Oomlout Oomlout Packaging Takeaway Container Circle Oobb Carrying Tray
 oomp_key: oomp_project_github_oomlout_oomlout_packaging_takeaway_container_circle_oobb_carrying_tray
 oomp_word: corn headphones five
@@ -76,13 +76,13 @@ part_number_first_letter_upper: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
-size: ''
-size_capital: ''
-size_first_letter: ''
-size_first_letter_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: ''
+size_upper: OOMLOUT
 type: github
 type_capital: Github
 type_first_letter: g
