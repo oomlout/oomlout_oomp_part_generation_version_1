@@ -68,6 +68,7 @@ part_types.append("packaging_tin")
 
 part_types.append("paper")
 
+part_types.append("project_github")
 
 #stationary
 part_types.append("stationery")
