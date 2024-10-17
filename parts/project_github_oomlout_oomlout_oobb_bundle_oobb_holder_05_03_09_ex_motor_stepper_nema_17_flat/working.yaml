@@ -1,0 +1,92 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oomlout_oomlout_oobb_bundle_oobb_holder_05_03_09_ex_motor_stepper_nema_17_flat
+description_main_capital: Oomlout Oomlout Oobb Bundle Oobb Holder 05 03 09 Ex Motor
+    Stepper Nema 17 Flat
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OOMLOUT_OOMLOUT_OOBB_BUNDLE_OOBB_HOLDER_05_03_09_EX_MOTOR_STEPPER_NEMA_17_FLAT
+description_only_numbers: 05030917
+description_only_numbers_short: 5M
+description_or_color: 5M
+description_or_color_upper: 5M
+directory: parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_09_ex_motor_stepper_nema_17_flat
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_09_ex_motor_stepper_nema_17_flat
+id: project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_09_ex_motor_stepper_nema_17_flat
+id_no_class: github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_09_ex_motor_stepper_nema_17_flat
+id_no_size: oomloutoomloutoobbbundleoobbholder050309exmotorsteppernema17flat
+id_no_type: oomlout_oomlout_oobb_bundle_oobb_holder_05_03_09_ex_motor_stepper_nema_17_flat
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_09_ex_motor_stepper_nema_17_flat
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_09_ex_motor_stepper_nema_17_flat](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_09_ex_motor_stepper_nema_17_flat)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_09_ex_motor_stepper_nema_17_flat)<br>[Project
+    Github Oomlout Oomlout Oobb Bundle Oobb Holder 05 03 09 Ex Motor Stepper Nema
+    17 Flat](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_09_ex_motor_stepper_nema_17_flat)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_09_ex_motor_stepper_nema_17_flat](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_09_ex_motor_stepper_nema_17_flat)<br><br>'
+md5: 3abef25843861a4cd551d524b38794fc
+md5_10: 3abef25843
+md5_10_upper: 3ABEF25843
+md5_5: 3abef
+md5_5_upper: 3ABEF
+md5_6: 3abef2
+md5_6_alpha: 2ainm
+md5_6_alpha_upper: 2AINM
+md5_6_upper: 3ABEF2
+name: Project Github Oomlout Oomlout Oobb Bundle Oobb Holder 05 03 09 Ex Motor Stepper
+    Nema 17 Flat
+name_no_class: Github Oomlout Oomlout Oobb Bundle Oobb Holder 05 03 09 Ex Motor Stepper
+    Nema 17 Flat
+name_no_size: Oomloutoomloutoobbbundleoobbholder050309Exmotorsteppernema17Flat
+name_no_size_short: Oomloutoomloutoobbbundleoobbholder050309Exmotorsteppernema17Flat
+name_no_type: Oomlout Oomlout Oobb Bundle Oobb Holder 05 03 09 Ex Motor Stepper Nema
+    17 Flat
+oomp_key: oomp_project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_09_ex_motor_stepper_nema_17_flat
+oomp_word: koala ramen one
+oomp_word_emoji: ':koala: :ramen: :one:'
+oomp_word_emoji_list:
+- ':koala:'
+- ':ramen:'
+- ':one:'
+oomp_word_list:
+- koala
+- ramen
+- one
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

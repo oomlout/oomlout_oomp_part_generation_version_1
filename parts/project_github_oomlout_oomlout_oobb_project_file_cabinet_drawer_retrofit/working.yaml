@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit
+description_main_capital: Oomlout Oomlout Oobb Project File Cabinet Drawer Retrofit
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OOMLOUT_OOMLOUT_OOBB_PROJECT_FILE_CABINET_DRAWER_RETROFIT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit
+id: project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit
+id_no_class: github_oomlout_oomlout_oobb_file_cabinet_drawer_retrofit
+id_no_size: oomloutoomloutoobbfilecabinetdrawerretrofit
+id_no_type: oomlout_oomlout_oobb_file_cabinet_drawer_retrofit
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit)<br>[Project
+    Github Oomlout Oomlout Oobb Project File Cabinet Drawer Retrofit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit)<br><br>'
+md5: cab5a317738252e624cdb6d25a8dfbbc
+md5_10: cab5a31773
+md5_10_upper: CAB5A31773
+md5_5: cab5a
+md5_5_upper: CAB5A
+md5_6: cab5a3
+md5_6_alpha: 7wqlf
+md5_6_alpha_upper: 7WQLF
+md5_6_upper: CAB5A3
+name: Project Github Oomlout Oomlout Oobb Project File Cabinet Drawer Retrofit
+name_no_class: Github Oomlout Oomlout Oobb File Cabinet Drawer Retrofit
+name_no_size: Oomloutoomloutoobbfilecabinetdrawerretrofit
+name_no_size_short: Oomloutoomloutoobbfilecabinetdrawerretrofit
+name_no_type: Oomlout Oomlout Oobb File Cabinet Drawer Retrofit
+oomp_key: oomp_project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit
+oomp_word: cherries tea pencil
+oomp_word_emoji: ':cherries: :tea: :pencil:'
+oomp_word_emoji_list:
+- ':cherries:'
+- ':tea:'
+- ':pencil:'
+oomp_word_list:
+- cherries
+- tea
+- pencil
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

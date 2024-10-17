@@ -1,0 +1,92 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1
+description_main_capital: Oomlout Oomlout Bolt Product Prototyping Tin Hardware Screw
+    Countersunk M3 Black Hex Head Version 1
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OOMLOUT_OOMLOUT_BOLT_PRODUCT_PROTOTYPING_TIN_HARDWARE_SCREW_COUNTERSUNK_M3_BLACK_HEX_HEAD_VERSION_1
+description_only_numbers: '31'
+description_only_numbers_short: '31'
+description_or_color: '31'
+description_or_color_upper: '31'
+directory: parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1
+id: project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1
+id_no_class: github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1
+id_no_size: oomloutoomloutboltproductprototypingtinhardwarescrewcountersunkm3blackhexheadversion1
+id_no_type: oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1)<br>[Project
+    Github Oomlout Oomlout Bolt Product Prototyping Tin Hardware Screw Countersunk
+    M3 Black Hex Head Version 1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1)<br><br>'
+md5: eb42cbfd2f16fcda23eeac786e3cf422
+md5_10: eb42cbfd2f
+md5_10_upper: EB42CBFD2F
+md5_5: eb42c
+md5_5_upper: EB42C
+md5_6: eb42cb
+md5_6_alpha: 96gnf
+md5_6_alpha_upper: 96GNF
+md5_6_upper: EB42CB
+name: Project Github Oomlout Oomlout Bolt Product Prototyping Tin Hardware Screw Countersunk
+    M3 Black Hex Head Version 1
+name_no_class: Github Oomlout Oomlout Bolt Product Prototyping Tin Hardware Screw
+    Countersunk M3 Black Hex Head Version 1
+name_no_size: Oomloutoomloutboltproductprototypingtinhardwarescrewcountersunkm3Blackhexheadversion1
+name_no_size_short: Oomloutoomloutboltproductprototypingtinhardwarescrewcountersunkm3Blackhexheadversion1
+name_no_type: Oomlout Oomlout Bolt Product Prototyping Tin Hardware Screw Countersunk
+    M3 Black Hex Head Version 1
+oomp_key: oomp_project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1
+oomp_word: car sheep grapes
+oomp_word_emoji: ':car: :sheep: :grapes:'
+oomp_word_emoji_list:
+- ':car:'
+- ':sheep:'
+- ':grapes:'
+oomp_word_list:
+- car
+- sheep
+- grapes
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

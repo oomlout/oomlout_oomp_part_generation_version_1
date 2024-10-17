@@ -1,0 +1,92 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oomlout_oomlout_oomp_project_electronic_breakout_board_motor_driver_makerbase_mks_servo42c_working
+description_main_capital: Oomlout Oomlout Oomp Project Electronic Breakout Board Motor
+    Driver Makerbase Mks Servo42C Working
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OOMLOUT_OOMLOUT_OOMP_PROJECT_ELECTRONIC_BREAKOUT_BOARD_MOTOR_DRIVER_MAKERBASE_MKS_SERVO42C_WORKING
+description_only_numbers: '42'
+description_only_numbers_short: '42'
+description_or_color: '42'
+description_or_color_upper: '42'
+directory: parts/project_github_oomlout_oomlout_oomp_project_electronic_breakout_board_motor_driver_makerbase_mks_servo42c_working
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_electronic_breakout_board_motor_driver_makerbase_mks_servo42c_working
+id: project_github_oomlout_oomlout_oomp_project_electronic_breakout_board_motor_driver_makerbase_mks_servo42c_working
+id_no_class: github_oomlout_oomlout_oomp_electronic_breakout_board_motor_driver_makerbase_mks_servo42c_working
+id_no_size: oomloutoomloutoompelectronicbreakoutboardmotordrivermakerbasemksservo42cworking
+id_no_type: oomlout_oomlout_oomp_electronic_breakout_board_motor_driver_makerbase_mks_servo42c_working
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_electronic_breakout_board_motor_driver_makerbase_mks_servo42c_working
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oomp_project_electronic_breakout_board_motor_driver_makerbase_mks_servo42c_working](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_electronic_breakout_board_motor_driver_makerbase_mks_servo42c_working)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_electronic_breakout_board_motor_driver_makerbase_mks_servo42c_working)<br>[Project
+    Github Oomlout Oomlout Oomp Project Electronic Breakout Board Motor Driver Makerbase
+    Mks Servo42C Working](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_electronic_breakout_board_motor_driver_makerbase_mks_servo42c_working)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oomp_project_electronic_breakout_board_motor_driver_makerbase_mks_servo42c_working](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_electronic_breakout_board_motor_driver_makerbase_mks_servo42c_working)<br><br>'
+md5: fb79f7713c77d53ba9efa0584dea34b2
+md5_10: fb79f7713c
+md5_10_upper: FB79F7713C
+md5_5: fb79f
+md5_5_upper: FB79F
+md5_6: fb79f7
+md5_6_alpha: 9t8mv
+md5_6_alpha_upper: 9T8MV
+md5_6_upper: FB79F7
+name: Project Github Oomlout Oomlout Oomp Project Electronic Breakout Board Motor
+    Driver Makerbase Mks Servo42C Working
+name_no_class: Github Oomlout Oomlout Oomp Electronic Breakout Board Motor Driver
+    Makerbase Mks Servo42C Working
+name_no_size: Oomloutoomloutoompelectronicbreakoutboardmotordrivermakerbasemksservo42Cworking
+name_no_size_short: Oomloutoomloutoompelectronicbreakoutboardmotordrivermakerbasemksservo42Cworking
+name_no_type: Oomlout Oomlout Oomp Electronic Breakout Board Motor Driver Makerbase
+    Mks Servo42C Working
+oomp_key: oomp_project_github_oomlout_oomlout_oomp_project_electronic_breakout_board_motor_driver_makerbase_mks_servo42c_working
+oomp_word: ok balloon six
+oomp_word_emoji: ':ok: :balloon: :six:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':balloon:'
+- ':six:'
+oomp_word_list:
+- ok
+- balloon
+- six
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oomlout_oomlout_oobb_lighting_project_light_panel_bracket
+description_main_capital: Oomlout Oomlout Oobb Lighting Project Light Panel Bracket
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OOMLOUT_OOMLOUT_OOBB_LIGHTING_PROJECT_LIGHT_PANEL_BRACKET
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket
+id: project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket
+id_no_class: github_oomlout_oomlout_oobb_lighting_light_panel_bracket
+id_no_size: oomloutoomloutoobblightinglightpanelbracket
+id_no_type: oomlout_oomlout_oobb_lighting_light_panel_bracket
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket)<br>[Project
+    Github Oomlout Oomlout Oobb Lighting Project Light Panel Bracket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket)<br><br>'
+md5: d36754a578c868e68981b65400efffed
+md5_10: d36754a578
+md5_10_upper: D36754A578
+md5_5: d3675
+md5_5_upper: D3675
+md5_6: d36754
+md5_6_alpha: 88y8k
+md5_6_alpha_upper: 88Y8K
+md5_6_upper: D36754
+name: Project Github Oomlout Oomlout Oobb Lighting Project Light Panel Bracket
+name_no_class: Github Oomlout Oomlout Oobb Lighting Light Panel Bracket
+name_no_size: Oomloutoomloutoobblightinglightpanelbracket
+name_no_size_short: Oomloutoomloutoobblightinglightpanelbracket
+name_no_type: Oomlout Oomlout Oobb Lighting Light Panel Bracket
+oomp_key: oomp_project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket
+oomp_word: tomato herb whale
+oomp_word_emoji: ':tomato: :herb: :whale:'
+oomp_word_emoji_list:
+- ':tomato:'
+- ':herb:'
+- ':whale:'
+oomp_word_list:
+- tomato
+- herb
+- whale
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

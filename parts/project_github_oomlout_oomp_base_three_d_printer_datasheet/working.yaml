@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oomlout_oomp_base_three_d_printer_datasheet
+description_main_capital: Oomlout Oomp Base Three D Printer Datasheet
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OOMLOUT_OOMP_BASE_THREE_D_PRINTER_DATASHEET
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/project_github_oomlout_oomp_base_three_d_printer_datasheet
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_three_d_printer_datasheet
+id: project_github_oomlout_oomp_base_three_d_printer_datasheet
+id_no_class: github_oomlout_oomp_base_three_d_printer_datasheet
+id_no_size: oomloutoompbasethreedprinterdatasheet
+id_no_type: oomlout_oomp_base_three_d_printer_datasheet
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_three_d_printer_datasheet
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomp_base_three_d_printer_datasheet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_three_d_printer_datasheet)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_three_d_printer_datasheet)<br>[Project
+    Github Oomlout Oomp Base Three D Printer Datasheet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_three_d_printer_datasheet)<br><br>'
+markdown_short: '[project_github_oomlout_oomp_base_three_d_printer_datasheet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_three_d_printer_datasheet)<br><br>'
+md5: d2cc55dcba54f0ca228dd2cb77e01760
+md5_10: d2cc55dcba
+md5_10_upper: D2CC55DCBA
+md5_5: d2cc5
+md5_5_upper: D2CC5
+md5_6: d2cc55
+md5_6_alpha: 883md
+md5_6_alpha_upper: 883MD
+md5_6_upper: D2CC55
+name: Project Github Oomlout Oomp Base Three D Printer Datasheet
+name_no_class: Github Oomlout Oomp Base Three D Printer Datasheet
+name_no_size: Oomloutoompbasethreedprinterdatasheet
+name_no_size_short: Oomloutoompbasethreedprinterdatasheet
+name_no_type: Oomlout Oomp Base Three D Printer Datasheet
+oomp_key: oomp_project_github_oomlout_oomp_base_three_d_printer_datasheet
+oomp_word: pineapple watermelon dolphin
+oomp_word_emoji: ':pineapple: :watermelon: :dolphin:'
+oomp_word_emoji_list:
+- ':pineapple:'
+- ':watermelon:'
+- ':dolphin:'
+oomp_word_list:
+- pineapple
+- watermelon
+- dolphin
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

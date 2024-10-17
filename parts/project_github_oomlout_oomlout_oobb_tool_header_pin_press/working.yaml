@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oomlout_oomlout_oobb_tool_header_pin_press
+description_main_capital: Oomlout Oomlout Oobb Tool Header Pin Press
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OOMLOUT_OOMLOUT_OOBB_TOOL_HEADER_PIN_PRESS
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/project_github_oomlout_oomlout_oobb_tool_header_pin_press
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_header_pin_press
+id: project_github_oomlout_oomlout_oobb_tool_header_pin_press
+id_no_class: github_oomlout_oomlout_oobb_tool_header_pin_press
+id_no_size: oomloutoomloutoobbtoolheaderpinpress
+id_no_type: oomlout_oomlout_oobb_tool_header_pin_press
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_header_pin_press
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oobb_tool_header_pin_press](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_header_pin_press)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_header_pin_press)<br>[Project
+    Github Oomlout Oomlout Oobb Tool Header Pin Press](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_header_pin_press)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oobb_tool_header_pin_press](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_header_pin_press)<br><br>'
+md5: 48d4c18b43c9297345f8454815cfe7d6
+md5_10: 48d4c18b43
+md5_10_upper: 48D4C18B43
+md5_5: 48d4c
+md5_5_upper: 48D4C
+md5_6: 48d4c1
+md5_6_alpha: 2uawx
+md5_6_alpha_upper: 2UAWX
+md5_6_upper: 48D4C1
+name: Project Github Oomlout Oomlout Oobb Tool Header Pin Press
+name_no_class: Github Oomlout Oomlout Oobb Tool Header Pin Press
+name_no_size: Oomloutoomloutoobbtoolheaderpinpress
+name_no_size_short: Oomloutoomloutoobbtoolheaderpinpress
+name_no_type: Oomlout Oomlout Oobb Tool Header Pin Press
+oomp_key: oomp_project_github_oomlout_oomlout_oobb_tool_header_pin_press
+oomp_word: hatched_chick corn doughnut
+oomp_word_emoji: ':hatched_chick: :corn: :doughnut:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':corn:'
+- ':doughnut:'
+oomp_word_list:
+- hatched_chick
+- corn
+- doughnut
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

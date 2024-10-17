@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oomlout_personal_oomp_household
+description_main_capital: Oomlout Personal Oomp Household
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OOMLOUT_PERSONAL_OOMP_HOUSEHOLD
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/project_github_oomlout_personal_oomp_household
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_oomp_household
+id: project_github_oomlout_personal_oomp_household
+id_no_class: github_oomlout_personal_oomp_household
+id_no_size: oomloutpersonaloomphousehold
+id_no_type: oomlout_personal_oomp_household
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_oomp_household
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_personal_oomp_household](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_oomp_household)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_oomp_household)<br>[Project
+    Github Oomlout Personal Oomp Household](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_oomp_household)<br><br>'
+markdown_short: '[project_github_oomlout_personal_oomp_household](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_oomp_household)<br><br>'
+md5: b3d642a0cd404f95a2637d5e8a011400
+md5_10: b3d642a0cd
+md5_10_upper: B3D642A0CD
+md5_5: b3d64
+md5_5_upper: B3D64
+md5_6: b3d642
+md5_6_alpha: 70lz6
+md5_6_alpha_upper: 70LZ6
+md5_6_upper: B3D642
+name: Project Github Oomlout Personal Oomp Household
+name_no_class: Github Oomlout Personal Oomp Household
+name_no_size: Oomloutpersonaloomphousehold
+name_no_size_short: Oomloutpersonaloomphousehold
+name_no_type: Oomlout Personal Oomp Household
+oomp_key: oomp_project_github_oomlout_personal_oomp_household
+oomp_word: eyeglasses school sheep
+oomp_word_emoji: ':eyeglasses: :school: :sheep:'
+oomp_word_emoji_list:
+- ':eyeglasses:'
+- ':school:'
+- ':sheep:'
+oomp_word_list:
+- eyeglasses
+- school
+- sheep
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

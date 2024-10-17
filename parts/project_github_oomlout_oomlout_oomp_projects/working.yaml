@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oomlout_oomlout_oomp_projects
+description_main_capital: Oomlout Oomlout Oomp Projects
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OOMLOUT_OOMLOUT_OOMP_PROJECTS
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/project_github_oomlout_oomlout_oomp_projects
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_projects
+id: project_github_oomlout_oomlout_oomp_projects
+id_no_class: github_oomlout_oomlout_oomp_projects
+id_no_size: oomloutoomloutoompprojects
+id_no_type: oomlout_oomlout_oomp_projects
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_projects
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oomp_projects](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_projects)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_projects)<br>[Project
+    Github Oomlout Oomlout Oomp Projects](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_projects)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oomp_projects](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_projects)<br><br>'
+md5: 80456bb96892127c5df2f03a7ee6741e
+md5_10: 80456bb968
+md5_10_upper: 80456BB968
+md5_5: '80456'
+md5_5_upper: '80456'
+md5_6: 80456b
+md5_6_alpha: 506ej
+md5_6_alpha_upper: 506EJ
+md5_6_upper: 80456B
+name: Project Github Oomlout Oomlout Oomp Projects
+name_no_class: Github Oomlout Oomlout Oomp Projects
+name_no_size: Oomloutoomloutoompprojects
+name_no_size_short: Oomloutoomloutoompprojects
+name_no_type: Oomlout Oomlout Oomp Projects
+oomp_key: oomp_project_github_oomlout_oomlout_oomp_projects
+oomp_word: hourglass snake chestnut
+oomp_word_emoji: ':hourglass: :snake: :chestnut:'
+oomp_word_emoji_list:
+- ':hourglass:'
+- ':snake:'
+- ':chestnut:'
+oomp_word_list:
+- hourglass
+- snake
+- chestnut
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

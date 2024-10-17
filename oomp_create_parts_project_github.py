@@ -20,10 +20,13 @@ def load_parts(**kwargs):
     page = 1
     
     #token notes
+    # generate here
+    # https://github.com/settings/personal-access-tokens/new
     # set as GITHUB_TOKEN
     #set GITHUB_TOKEN= {token}
 
     while run:
+        print(f"loading github page {page}")
         import requests
         token_github = os.getenv("GITHUB_TOKEN")
         if token_github is None:
@@ -35,24 +38,28 @@ def load_parts(**kwargs):
         }
         response = requests.get(url, headers=headers)
         repos = response.json()
-
-        #loop through the repos
-        for repo in repos:
-            url = repo["html_url"]
-            name = url.split("/")[-1]
-            name_fixed = name.lower().replace(" ", "_")
-            name_fixed = name_fixed.replace("-", "_")
-            part_details = {}
-            part_details["classification"] = "project"
-            part_details["type"] = "github"
-            part_details["size"] = ""
-            part_details["color"] = ""
-            part_details["description_main"] = f"{username_github}_{name_fixed}"
-            part_details["description_extra"] = ""
-            part_details["manufacturer"] = ""
-            part_details["part_number"] = ""
-            part_details["link_redirect"] = url
-            parts.append(part_details)
+        pass
+        if len(repos) == 0:
+            run = False
+        else:
+            #loop through the repos
+            for repo in repos:            
+                url = repo["html_url"]
+                name = url.split("/")[-1]
+                name_fixed = name.lower().replace(" ", "_")
+                name_fixed = name_fixed.replace("-", "_")
+                part_details = {}
+                part_details["classification"] = "project"
+                part_details["type"] = "github"
+                part_details["size"] = ""
+                part_details["color"] = ""
+                part_details["description_main"] = f"{username_github}_{name_fixed}"
+                part_details["description_extra"] = ""
+                part_details["manufacturer"] = ""
+                part_details["part_number"] = ""
+                part_details["link_redirect"] = url
+                parts.append(part_details)
+        page += 1
         
 
 
