@@ -23,12 +23,12 @@ def load_parts(**kwargs):
     # generate here
     # https://github.com/settings/personal-access-tokens/new
     # set as GITHUB_TOKEN
-    #set GITHUB_TOKEN= {token}
+    #set GITHUB_TOKEN_LOW_ACCESS= {token}
 
     while run:
         print(f"loading github page {page}")
         import requests
-        token_github = os.getenv("GITHUB_TOKEN")
+        token_github = os.getenv("GITHUB_TOKEN_LOW_ACCESS")
         if token_github is None:
             print("GITHUB_TOKEN not set")
         url_base = f"https://api.github.com/users/{username_github}/repos"

@@ -132,6 +132,18 @@ def load_parts(**kwargs):
     part_details["part_number"] = "cw4000"
     parts.append(part_details)
 
+    # chiller
+    part_details = {}
+    part_details["classification"] = "tool"
+    part_details["type"] = "measure_tape_measure"
+    part_details["size"] = ["5000_mm_length"]
+    part_details["color"] = [""]
+    part_details["description_main"] = [""]
+    part_details["description_extra"] = [""]
+    part_details["manufacturer"] = "stanley"
+    part_details["part_number"] = "1_30_696"
+    part_details["part_number_esact"] = "1-30-696"
+    parts.append(part_details)
 
     
 
