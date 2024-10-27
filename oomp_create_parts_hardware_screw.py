@@ -244,6 +244,41 @@ def load_parts(**kwargs):
             part_details["kicad_reference"] = ""
             parts.append(part_details)    
     
+    #add corefix
+    if True:
+        part_details = {}
+        part_details["classification"] = "hardware"
+        part_details["type"] = "screw_wood"
+        part_details["size"] = [""]
+        part_details["color"] = [""]
+        part_details["description_main"] = "10_mm_diameter_100_mm_length"
+        part_details["description_extra"] = "pozidrive_head"
+        part_details["manufacturer"] = "corefix"
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""        
+        part_details["part_number_exact"] = ""    
+        part_details["distributor_screwfix"] = "344hg"
+        part_details["distributor_screwfix_link"] = f"https://www.screwfix.com/p/{part_details['distributor_screwfix']}"
+        parts.append(part_details)
+
+
+        part_details = {}
+        part_details["classification"] = "hardware"
+        part_details["type"] = "screw_wood"
+        part_details["size"] = [""]
+        part_details["color"] = [""]
+        part_details["description_main"] = "10_mm_diameter_120_mm_length"
+        part_details["description_extra"] = "pozidrive_head"
+        part_details["manufacturer"] = "corefix"
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""        
+        part_details["part_number_exact"] = ""    
+        part_details["distributor_screwfix"] = "401hg"
+        part_details["distributor_screwfix_link"] = f"https://www.screwfix.com/p/{part_details['distributor_screwfix']}"
+        parts.append(part_details)
+
+
+
     #add screwtite screws
     if True:
         part_details = {}
