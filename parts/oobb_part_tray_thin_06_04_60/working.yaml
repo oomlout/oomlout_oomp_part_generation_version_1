@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '06_04_60'
+description_main_capital: 06 04.60
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '06_04_60'
+description_only_numbers: '060460'
+description_only_numbers_short: 60k
+description_or_color: 60k
+description_or_color_upper: 60K
+directory: parts/oobb_part_tray_thin_06_04_60
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_04_60
+id: oobb_part_tray_thin_06_04_60
+id_no_class: part_tray_thin_06_04_60
+id_no_size: '06_04_60'
+id_no_type: tray_thin_06_04_60
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_04_60
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_thin_06_04_60](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_04_60)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_04_60)<br>[Oobb
+    Part Tray Thin 06 04 60](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_04_60)<br><br>'
+markdown_short: '[oobb_part_tray_thin_06_04_60](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_04_60)<br><br>'
+md5: 5ebab6fccf85015a39929e3e67aa1ad0
+md5_10: 5ebab6fccf
+md5_10_upper: 5EBAB6FCCF
+md5_5: 5ebab
+md5_5_upper: 5EBAB
+md5_6: 5ebab6
+md5_6_alpha: 3p29i
+md5_6_alpha_upper: 3P29I
+md5_6_upper: 5EBAB6
+name: Oobb Part Tray Thin 06 04 60
+name_no_class: Part Tray Thin 06 04 60
+name_no_size: 06 04 60
+name_no_size_short: 06 04 60
+name_no_type: Tray Thin 06 04 60
+oomp_key: oomp_oobb_part_tray_thin_06_04_60
+oomp_word: crocodile spaghetti beer
+oomp_word_emoji: ':crocodile: :spaghetti: :beer:'
+oomp_word_emoji_list:
+- ':crocodile:'
+- ':spaghetti:'
+- ':beer:'
+oomp_word_list:
+- crocodile
+- spaghetti
+- beer
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_thin
+size_capital: Tray Thin
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_THIN
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

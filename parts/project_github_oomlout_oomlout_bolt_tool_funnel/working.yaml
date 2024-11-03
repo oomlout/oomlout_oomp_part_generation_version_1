@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oomlout_bolt_tool_funnel
+description_main_capital: Oomlout Bolt Tool Funnel
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OOMLOUT_BOLT_TOOL_FUNNEL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/project_github_oomlout_oomlout_bolt_tool_funnel
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_tool_funnel
+id: project_github_oomlout_oomlout_bolt_tool_funnel
+id_no_class: github_oomlout_oomlout_bolt_tool_funnel
+id_no_size: bolt_tool_funnel
+id_no_type: oomlout_oomlout_bolt_tool_funnel
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_tool_funnel
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_bolt_tool_funnel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_tool_funnel)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_tool_funnel)<br>[Project
+    Github Oomlout Oomlout Bolt Tool Funnel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_tool_funnel)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_bolt_tool_funnel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_tool_funnel)<br><br>'
+md5: 994e925f20beb6d3625c7a12d5449ca5
+md5_10: 994e925f20
+md5_10_upper: 994E925F20
+md5_5: 994e9
+md5_5_upper: 994E9
+md5_6: 994e92
+md5_6_alpha: 5zceq
+md5_6_alpha_upper: 5ZCEQ
+md5_6_upper: 994E92
+name: Project Github Oomlout Oomlout Bolt Tool Funnel
+name_no_class: Github Oomlout Oomlout Bolt Tool Funnel
+name_no_size: Bolt Tool Funnel
+name_no_size_short: Bolt Tool Funnel
+name_no_type: Oomlout Oomlout Bolt Tool Funnel
+oomp_key: oomp_project_github_oomlout_oomlout_bolt_tool_funnel
+oomp_word: bowling honeybee paperclip
+oomp_word_emoji: ':bowling: :honeybee: :paperclip:'
+oomp_word_emoji_list:
+- ':bowling:'
+- ':honeybee:'
+- ':paperclip:'
+oomp_word_list:
+- bowling
+- honeybee
+- paperclip
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

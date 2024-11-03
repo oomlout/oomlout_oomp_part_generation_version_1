@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oomlout_oshcamp_badge_text
+description_main_capital: Oomlout Oshcamp Badge Text
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OOMLOUT_OSHCAMP_BADGE_TEXT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/project_github_oomlout_oomlout_oshcamp_badge_text
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oshcamp_badge_text
+id: project_github_oomlout_oomlout_oshcamp_badge_text
+id_no_class: github_oomlout_oomlout_oshcamp_badge_text
+id_no_size: oshcamp_badge_text
+id_no_type: oomlout_oomlout_oshcamp_badge_text
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oshcamp_badge_text
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oshcamp_badge_text](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oshcamp_badge_text)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oshcamp_badge_text)<br>[Project
+    Github Oomlout Oomlout Oshcamp Badge Text](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oshcamp_badge_text)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oshcamp_badge_text](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oshcamp_badge_text)<br><br>'
+md5: 4b95331d189200e49baf522e119a9a3b
+md5_10: 4b95331d18
+md5_10_upper: 4B95331D18
+md5_5: 4b953
+md5_5_upper: 4B953
+md5_6: 4b9533
+md5_6_alpha: 2y62b
+md5_6_alpha_upper: 2Y62B
+md5_6_upper: 4B9533
+name: Project Github Oomlout Oomlout Oshcamp Badge Text
+name_no_class: Github Oomlout Oomlout Oshcamp Badge Text
+name_no_size: Oshcamp Badge Text
+name_no_size_short: Oshcamp Badge Text
+name_no_type: Oomlout Oomlout Oshcamp Badge Text
+oomp_key: oomp_project_github_oomlout_oomlout_oshcamp_badge_text
+oomp_word: penguin telescope dog
+oomp_word_emoji: ':penguin: :telescope: :dog:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':telescope:'
+- ':dog:'
+oomp_word_list:
+- penguin
+- telescope
+- dog
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

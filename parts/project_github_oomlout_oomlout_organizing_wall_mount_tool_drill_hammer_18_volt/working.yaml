@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oomlout_organizing_wall_mount_tool_drill_hammer_18_volt
+description_main_capital: Oomlout Organizing Wall Mount Tool Drill Hammer 18 Volt
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OOMLOUT_ORGANIZING_WALL_MOUNT_TOOL_DRILL_HAMMER_18_VOLT
+description_only_numbers: '18'
+description_only_numbers_short: '18'
+description_or_color: '18'
+description_or_color_upper: '18'
+directory: parts/project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt
+id: project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt
+id_no_class: github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt
+id_no_size: organizing_wall_mount_tool_drill_hammer_18_volt
+id_no_type: oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt)<br>[Project
+    Github Oomlout Oomlout Organizing Wall Mount Tool Drill Hammer 18 Volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt)<br><br>'
+md5: c0401d93047d546ec63236db03e67f0e
+md5_10: c0401d9304
+md5_10_upper: C0401D9304
+md5_5: c0401
+md5_5_upper: C0401
+md5_6: c0401d
+md5_6_alpha: 7i1p9
+md5_6_alpha_upper: 7I1P9
+md5_6_upper: C0401D
+name: Project Github Oomlout Oomlout Organizing Wall Mount Tool Drill Hammer 18 Volt
+name_no_class: Github Oomlout Oomlout Organizing Wall Mount Tool Drill Hammer 18 Volt
+name_no_size: Organizing Wall Mount Tool Drill Hammer 18 Volt
+name_no_size_short: Organizing Wall Mount Tool Drill Hammer 18 Volt
+name_no_type: Oomlout Oomlout Organizing Wall Mount Tool Drill Hammer 18 Volt
+oomp_key: oomp_project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt
+oomp_word: bread racehorse baby
+oomp_word_emoji: ':bread: :racehorse: :baby:'
+oomp_word_emoji_list:
+- ':bread:'
+- ':racehorse:'
+- ':baby:'
+oomp_word_list:
+- bread
+- racehorse
+- baby
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '11_12_90'
+description_main_capital: 11.12.90
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '11_12_90'
+description_only_numbers: '111290'
+description_only_numbers_short: 111k
+description_or_color: 111k
+description_or_color_upper: 111K
+directory: parts/oobb_part_tray_11_12_90
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_12_90
+id: oobb_part_tray_11_12_90
+id_no_class: part_tray_11_12_90
+id_no_size: '11_12_90'
+id_no_type: tray_11_12_90
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_12_90
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_11_12_90](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_12_90)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_12_90)<br>[Oobb
+    Part Tray 11 12 90](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_12_90)<br><br>'
+markdown_short: '[oobb_part_tray_11_12_90](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_12_90)<br><br>'
+md5: 79ff2c249da65859eacbc4971ddf8d6e
+md5_10: 79ff2c249d
+md5_10_upper: 79FF2C249D
+md5_5: 79ff2
+md5_5_upper: 79FF2
+md5_6: 79ff2c
+md5_6_alpha: 4rd4c
+md5_6_alpha_upper: 4RD4C
+md5_6_upper: 79FF2C
+name: Oobb Part Tray 11 12 90
+name_no_class: Part Tray 11 12 90
+name_no_size: 11 12 90
+name_no_size_short: 11 12 90
+name_no_type: Tray 11 12 90
+oomp_key: oomp_oobb_part_tray_11_12_90
+oomp_word: balloon trident snowflake
+oomp_word_emoji: ':balloon: :trident: :snowflake:'
+oomp_word_emoji_list:
+- ':balloon:'
+- ':trident:'
+- ':snowflake:'
+oomp_word_list:
+- balloon
+- trident
+- snowflake
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

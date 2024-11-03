@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 02_1d5_27
+description_main_capital: 02.1D5.27
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: 02_1D5_27
+description_only_numbers: '021527'
+description_only_numbers_short: 22k
+description_or_color: 22k
+description_or_color_upper: 22K
+directory: parts/oobb_part_tray_vertical_02_1d5_27
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_02_1d5_27
+id: oobb_part_tray_vertical_02_1d5_27
+id_no_class: part_tray_vertical_02_1d5_27
+id_no_size: 02_1d5_27
+id_no_type: tray_vertical_02_1d5_27
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_02_1d5_27
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_02_1d5_27](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_02_1d5_27)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_02_1d5_27)<br>[Oobb
+    Part Tray Vertical 02 1D5 27](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_02_1d5_27)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_02_1d5_27](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_02_1d5_27)<br><br>'
+md5: 81afca165b489c3e81224224dd1662dc
+md5_10: 81afca165b
+md5_10_upper: 81AFCA165B
+md5_5: 81afc
+md5_5_upper: 81AFC
+md5_6: 81afca
+md5_6_alpha: 525ze
+md5_6_alpha_upper: 525ZE
+md5_6_upper: 81AFCA
+name: Oobb Part Tray Vertical 02 1D5 27
+name_no_class: Part Tray Vertical 02 1D5 27
+name_no_size: 02 1D5 27
+name_no_size_short: 02 1D5 27
+name_no_type: Tray Vertical 02 1D5 27
+oomp_key: oomp_oobb_part_tray_vertical_02_1d5_27
+oomp_word: watch tophat cherries
+oomp_word_emoji: ':watch: :tophat: :cherries:'
+oomp_word_emoji_list:
+- ':watch:'
+- ':tophat:'
+- ':cherries:'
+oomp_word_list:
+- watch
+- tophat
+- cherries
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

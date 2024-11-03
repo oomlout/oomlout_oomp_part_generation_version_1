@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 1d5_13_12
+description_main_capital: 1D5.13.12
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 1D5_13_12
+description_only_numbers: '151312'
+description_only_numbers_short: 151k
+description_or_color: 151k
+description_or_color_upper: 151K
+directory: parts/oobb_part_tray_1d5_13_12
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_13_12
+id: oobb_part_tray_1d5_13_12
+id_no_class: part_tray_1d5_13_12
+id_no_size: 1d5_13_12
+id_no_type: tray_1d5_13_12
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_13_12
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_1d5_13_12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_13_12)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_13_12)<br>[Oobb
+    Part Tray 1D5 13 12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_13_12)<br><br>'
+markdown_short: '[oobb_part_tray_1d5_13_12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_13_12)<br><br>'
+md5: f0e2b7dccc13f9f58f6c9684f32add62
+md5_10: f0e2b7dccc
+md5_10_upper: F0E2B7DCCC
+md5_5: f0e2b
+md5_5_upper: F0E2B
+md5_6: f0e2b7
+md5_6_alpha: 9ed2v
+md5_6_alpha_upper: 9ED2V
+md5_6_upper: F0E2B7
+name: Oobb Part Tray 1D5 13 12
+name_no_class: Part Tray 1D5 13 12
+name_no_size: 1D5 13 12
+name_no_size_short: 1D5 13 12
+name_no_type: Tray 1D5 13 12
+oomp_key: oomp_oobb_part_tray_1d5_13_12
+oomp_word: train sailboat pizza
+oomp_word_emoji: ':train: :sailboat: :pizza:'
+oomp_word_emoji_list:
+- ':train:'
+- ':sailboat:'
+- ':pizza:'
+oomp_word_list:
+- train
+- sailboat
+- pizza
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oomlout_decorative_wall_mount_computer_harddrive_platter
+description_main_capital: Oomlout Decorative Wall Mount Computer Harddrive Platter
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OOMLOUT_DECORATIVE_WALL_MOUNT_COMPUTER_HARDDRIVE_PLATTER
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/project_github_oomlout_oomlout_decorative_wall_mount_computer_harddrive_platter
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_computer_harddrive_platter
+id: project_github_oomlout_oomlout_decorative_wall_mount_computer_harddrive_platter
+id_no_class: github_oomlout_oomlout_decorative_wall_mount_computer_harddrive_platter
+id_no_size: decorative_wall_mount_computer_harddrive_platter
+id_no_type: oomlout_oomlout_decorative_wall_mount_computer_harddrive_platter
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_computer_harddrive_platter
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_decorative_wall_mount_computer_harddrive_platter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_computer_harddrive_platter)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_computer_harddrive_platter)<br>[Project
+    Github Oomlout Oomlout Decorative Wall Mount Computer Harddrive Platter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_computer_harddrive_platter)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_decorative_wall_mount_computer_harddrive_platter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_computer_harddrive_platter)<br><br>'
+md5: e3dc7c2af63156314a2d4dcfe42989bb
+md5_10: e3dc7c2af6
+md5_10_upper: E3DC7C2AF6
+md5_5: e3dc7
+md5_5_upper: E3DC7
+md5_6: e3dc7c
+md5_6_alpha: 8w2gs
+md5_6_alpha_upper: 8W2GS
+md5_6_upper: E3DC7C
+name: Project Github Oomlout Oomlout Decorative Wall Mount Computer Harddrive Platter
+name_no_class: Github Oomlout Oomlout Decorative Wall Mount Computer Harddrive Platter
+name_no_size: Decorative Wall Mount Computer Harddrive Platter
+name_no_size_short: Decorative Wall Mount Computer Harddrive Platter
+name_no_type: Oomlout Oomlout Decorative Wall Mount Computer Harddrive Platter
+oomp_key: oomp_project_github_oomlout_oomlout_decorative_wall_mount_computer_harddrive_platter
+oomp_word: rowboat factory tv
+oomp_word_emoji: ':rowboat: :factory: :tv:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':factory:'
+- ':tv:'
+oomp_word_list:
+- rowboat
+- factory
+- tv
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

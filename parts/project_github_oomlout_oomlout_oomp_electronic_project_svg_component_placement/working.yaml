@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oomlout_oomp_electronic_project_svg_component_placement
+description_main_capital: Oomlout Oomp Electronic Project Svg Component Placement
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OOMLOUT_OOMP_ELECTRONIC_PROJECT_SVG_COMPONENT_PLACEMENT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement
+id: project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement
+id_no_class: github_oomlout_oomlout_oomp_electronic_svg_component_placement
+id_no_size: oomp_electronic_svg_component_placement
+id_no_type: oomlout_oomlout_oomp_electronic_svg_component_placement
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement)<br>[Project
+    Github Oomlout Oomlout Oomp Electronic Project Svg Component Placement](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement)<br><br>'
+md5: 5619e35b2c960a29f028afeb209a195e
+md5_10: 5619e35b2c
+md5_10_upper: 5619E35B2C
+md5_5: 5619e
+md5_5_upper: 5619E
+md5_6: 5619e3
+md5_6_alpha: 3cxyb
+md5_6_alpha_upper: 3CXYB
+md5_6_upper: 5619E3
+name: Project Github Oomlout Oomlout Oomp Electronic Project Svg Component Placement
+name_no_class: Github Oomlout Oomlout Oomp Electronic Svg Component Placement
+name_no_size: Oomp Electronic Svg Component Placement
+name_no_size_short: Oomp Electronic Svg Component Placement
+name_no_type: Oomlout Oomlout Oomp Electronic Svg Component Placement
+oomp_key: oomp_project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement
+oomp_word: ram pray rowboat
+oomp_word_emoji: ':ram: :pray: :rowboat:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':pray:'
+- ':rowboat:'
+oomp_word_list:
+- ram
+- pray
+- rowboat
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

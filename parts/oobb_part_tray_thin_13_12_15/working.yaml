@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '13_12_15'
+description_main_capital: 13.12.15
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '13_12_15'
+description_only_numbers: '131215'
+description_only_numbers_short: 131k
+description_or_color: 131k
+description_or_color_upper: 131K
+directory: parts/oobb_part_tray_thin_13_12_15
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_12_15
+id: oobb_part_tray_thin_13_12_15
+id_no_class: part_tray_thin_13_12_15
+id_no_size: '13_12_15'
+id_no_type: tray_thin_13_12_15
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_12_15
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_thin_13_12_15](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_12_15)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_12_15)<br>[Oobb
+    Part Tray Thin 13 12 15](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_12_15)<br><br>'
+markdown_short: '[oobb_part_tray_thin_13_12_15](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_12_15)<br><br>'
+md5: 338e988801de0a8a5c8f60aa7620e1ed
+md5_10: 338e988801
+md5_10_upper: 338E988801
+md5_5: 338e9
+md5_5_upper: 338E9
+md5_6: 338e98
+md5_6_alpha: 20f4o
+md5_6_alpha_upper: 20F4O
+md5_6_upper: 338E98
+name: Oobb Part Tray Thin 13 12 15
+name_no_class: Part Tray Thin 13 12 15
+name_no_size: 13 12 15
+name_no_size_short: 13 12 15
+name_no_type: Tray Thin 13 12 15
+oomp_key: oomp_oobb_part_tray_thin_13_12_15
+oomp_word: dog clipboard tennis
+oomp_word_emoji: ':dog: :clipboard: :tennis:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':clipboard:'
+- ':tennis:'
+oomp_word_list:
+- dog
+- clipboard
+- tennis
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_thin
+size_capital: Tray Thin
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_THIN
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oomlout_oobb_organizing_calendar
+description_main_capital: Oomlout Oobb Organizing Calendar
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OOMLOUT_OOBB_ORGANIZING_CALENDAR
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/project_github_oomlout_oomlout_oobb_organizing_calendar
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_organizing_calendar
+id: project_github_oomlout_oomlout_oobb_organizing_calendar
+id_no_class: github_oomlout_oomlout_oobb_organizing_calendar
+id_no_size: oobb_organizing_calendar
+id_no_type: oomlout_oomlout_oobb_organizing_calendar
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_organizing_calendar
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oobb_organizing_calendar](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_organizing_calendar)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_organizing_calendar)<br>[Project
+    Github Oomlout Oomlout Oobb Organizing Calendar](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_organizing_calendar)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oobb_organizing_calendar](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_organizing_calendar)<br><br>'
+md5: c2374a7fa5d34c0f3629eea274b6303d
+md5_10: c2374a7fa5
+md5_10_upper: C2374A7FA5
+md5_5: c2374
+md5_5_upper: C2374
+md5_6: c2374a
+md5_6_alpha: 7kt3e
+md5_6_alpha_upper: 7KT3E
+md5_6_upper: C2374A
+name: Project Github Oomlout Oomlout Oobb Organizing Calendar
+name_no_class: Github Oomlout Oomlout Oobb Organizing Calendar
+name_no_size: Oobb Organizing Calendar
+name_no_size_short: Oobb Organizing Calendar
+name_no_type: Oomlout Oomlout Oobb Organizing Calendar
+oomp_key: oomp_project_github_oomlout_oomlout_oobb_organizing_calendar
+oomp_word: birthday wolf chicken
+oomp_word_emoji: ':birthday: :wolf: :chicken:'
+oomp_word_emoji_list:
+- ':birthday:'
+- ':wolf:'
+- ':chicken:'
+oomp_word_list:
+- birthday
+- wolf
+- chicken
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

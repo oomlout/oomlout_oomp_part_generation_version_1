@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oomlout_oomp_footprint_bot
+description_main_capital: Oomlout Oomp Footprint Bot
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OOMLOUT_OOMP_FOOTPRINT_BOT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/project_github_oomlout_oomlout_oomp_footprint_bot
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_bot
+id: project_github_oomlout_oomlout_oomp_footprint_bot
+id_no_class: github_oomlout_oomlout_oomp_footprint_bot
+id_no_size: oomp_footprint_bot
+id_no_type: oomlout_oomlout_oomp_footprint_bot
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_bot
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oomp_footprint_bot](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_bot)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_bot)<br>[Project
+    Github Oomlout Oomlout Oomp Footprint Bot](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_bot)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oomp_footprint_bot](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_bot)<br><br>'
+md5: fef7b859c35e2b1d9220dd1cedcf4b67
+md5_10: fef7b859c3
+md5_10_upper: FEF7B859C3
+md5_5: fef7b
+md5_5_upper: FEF7B
+md5_6: fef7b8
+md5_6_alpha: 9y56g
+md5_6_alpha_upper: 9Y56G
+md5_6_upper: FEF7B8
+name: Project Github Oomlout Oomlout Oomp Footprint Bot
+name_no_class: Github Oomlout Oomlout Oomp Footprint Bot
+name_no_size: Oomp Footprint Bot
+name_no_size_short: Oomp Footprint Bot
+name_no_type: Oomlout Oomlout Oomp Footprint Bot
+oomp_key: oomp_project_github_oomlout_oomlout_oomp_footprint_bot
+oomp_word: recycle six hamburger
+oomp_word_emoji: ':recycle: :six: :hamburger:'
+oomp_word_emoji_list:
+- ':recycle:'
+- ':six:'
+- ':hamburger:'
+oomp_word_list:
+- recycle
+- six
+- hamburger
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

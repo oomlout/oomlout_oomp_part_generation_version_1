@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 2d5_06_15
+description_main_capital: 2D5 06.15
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 2D5_06_15
+description_only_numbers: '250615'
+description_only_numbers_short: 251k
+description_or_color: 251k
+description_or_color_upper: 251K
+directory: parts/oobb_part_tray_vertical_2d5_06_15
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_2d5_06_15
+id: oobb_part_tray_vertical_2d5_06_15
+id_no_class: part_tray_vertical_2d5_06_15
+id_no_size: 2d5_06_15
+id_no_type: tray_vertical_2d5_06_15
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_2d5_06_15
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_2d5_06_15](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_2d5_06_15)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_2d5_06_15)<br>[Oobb
+    Part Tray Vertical 2D5 06 15](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_2d5_06_15)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_2d5_06_15](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_2d5_06_15)<br><br>'
+md5: d00935c55265d7d3768f781e38465c15
+md5_10: d00935c552
+md5_10_upper: D00935C552
+md5_5: d0093
+md5_5_upper: D0093
+md5_6: d00935
+md5_6_alpha: 847xx
+md5_6_alpha_upper: 847XX
+md5_6_upper: D00935
+name: Oobb Part Tray Vertical 2D5 06 15
+name_no_class: Part Tray Vertical 2D5 06 15
+name_no_size: 2D5 06 15
+name_no_size_short: 2D5 06 15
+name_no_type: Tray Vertical 2D5 06 15
+oomp_key: oomp_oobb_part_tray_vertical_2d5_06_15
+oomp_word: banana angry hamster
+oomp_word_emoji: ':banana: :angry: :hamster:'
+oomp_word_emoji_list:
+- ':banana:'
+- ':angry:'
+- ':hamster:'
+oomp_word_list:
+- banana
+- angry
+- hamster
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

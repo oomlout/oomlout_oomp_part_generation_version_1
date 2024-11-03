@@ -1,0 +1,109 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tint
+description_main_capital: Tint
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TINT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_led_1206_tint
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_1206_3216metric//working/working.kicad_mod
+    index: 0
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_1206_3216metric
+    note: source footprint kicad_led_smd_led_1206_3216metric
+    oomp_key: oomp_kicad_led_smd_led_1206_3216metric
+-   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l12_electronic_led_1206_tint//working/working.kicad_mod
+    index: 1
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l12_electronic_led_1206_tint
+    note: oomp generated footprint
+    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l12_electronic_led_1206_tint
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_tint
+id: electronic_led_1206_tint
+id_no_class: led_1206_tint
+id_no_size: tint
+id_no_type: 1206_tint
+kicad_reference: L
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_tint
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_1206_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_tint)<br>[l12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_tint)<br>[Electronic
+    Led 1206 Tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_tint)<br><br>'
+markdown_short: '[electronic_led_1206_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_tint)<br><br>'
+md5: dc74f6234928221152ffc0d5f6a8a1c7
+md5_10: dc74f62349
+md5_10_upper: DC74F62349
+md5_5: dc74f
+md5_5_upper: DC74F
+md5_6: dc74f6
+md5_6_alpha: 8lo1i
+md5_6_alpha_upper: 8LO1I
+md5_6_upper: DC74F6
+name: Electronic Led 1206 Tint
+name_no_class: Led 1206 Tint
+name_no_size: Tint
+name_no_size_short: Tint
+name_no_type: 1206 Tint
+oomp_key: oomp_electronic_led_1206_tint
+oomp_word: factory fireworks five
+oomp_word_emoji: ':factory: :fireworks: :five:'
+oomp_word_emoji_list:
+- ':factory:'
+- ':fireworks:'
+- ':five:'
+oomp_word_list:
+- factory
+- fireworks
+- five
+package_style: smd_tape
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l12
+short_code_upper: L12
+short_name: 1206 Tint Led
+size: '1206'
+size_capital: '1206'
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '1206'
+size_only_numbers_no_zeros: '126'
+size_upper: '1206'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    index: 0
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

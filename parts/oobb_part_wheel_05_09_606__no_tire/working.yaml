@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: no_tire
+description_extra_capital: No Tire
+description_extra_first_letter: n
+description_extra_first_letter_upper: N
+description_extra_upper: NO_TIRE
+description_main: 05_09_606_
+description_main_capital: '05 09.606 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: 05_09_606_
+description_only_numbers: 0509606
+description_only_numbers_short: 510k
+description_or_color: 510k
+description_or_color_upper: 510K
+directory: parts/oobb_part_wheel_05_09_606__no_tire
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_05_09_606__no_tire
+id: oobb_part_wheel_05_09_606__no_tire
+id_no_class: part_wheel_05_09_606__no_tire
+id_no_size: 05_09_606__no_tire
+id_no_type: wheel_05_09_606__no_tire
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_05_09_606__no_tire
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_wheel_05_09_606__no_tire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_05_09_606__no_tire)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_05_09_606__no_tire)<br>[Oobb
+    Part Wheel 05 09 606  No Tire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_05_09_606__no_tire)<br><br>'
+markdown_short: '[oobb_part_wheel_05_09_606__no_tire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wheel_05_09_606__no_tire)<br><br>'
+md5: 5c5695dee6e04ab0eec2f55ec4db956e
+md5_10: 5c5695dee6
+md5_10_upper: 5C5695DEE6
+md5_5: 5c569
+md5_5_upper: 5C569
+md5_6: 5c5695
+md5_6_alpha: 3lpcl
+md5_6_alpha_upper: 3LPCL
+md5_6_upper: 5C5695
+name: Oobb Part Wheel 05 09 606  No Tire
+name_no_class: Part Wheel 05 09 606  No Tire
+name_no_size: 05 09 606  No Tire
+name_no_size_short: 05 09 606  No Tire
+name_no_type: Wheel 05 09 606  No Tire
+oomp_key: oomp_oobb_part_wheel_05_09_606__no_tire
+oomp_word: ox ram telescope
+oomp_word_emoji: ':ox: :ram: :telescope:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':ram:'
+- ':telescope:'
+oomp_word_list:
+- ox
+- ram
+- telescope
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: wheel
+size_capital: Wheel
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WHEEL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

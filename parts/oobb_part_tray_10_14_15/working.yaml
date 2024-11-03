@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '10_14_15'
+description_main_capital: 10 14.15
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '10_14_15'
+description_only_numbers: '101415'
+description_only_numbers_short: 101k
+description_or_color: 101k
+description_or_color_upper: 101K
+directory: parts/oobb_part_tray_10_14_15
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_14_15
+id: oobb_part_tray_10_14_15
+id_no_class: part_tray_10_14_15
+id_no_size: '10_14_15'
+id_no_type: tray_10_14_15
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_14_15
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_10_14_15](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_14_15)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_14_15)<br>[Oobb
+    Part Tray 10 14 15](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_14_15)<br><br>'
+markdown_short: '[oobb_part_tray_10_14_15](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_14_15)<br><br>'
+md5: c4dfea4d15b96250a521876dc1f386d9
+md5_10: c4dfea4d15
+md5_10_upper: C4DFEA4D15
+md5_5: c4dfe
+md5_5_upper: C4DFE
+md5_6: c4dfea
+md5_6_alpha: 7ojje
+md5_6_alpha_upper: 7OJJE
+md5_6_upper: C4DFEA
+name: Oobb Part Tray 10 14 15
+name_no_class: Part Tray 10 14 15
+name_no_size: 10 14 15
+name_no_size_short: 10 14 15
+name_no_type: Tray 10 14 15
+oomp_key: oomp_oobb_part_tray_10_14_15
+oomp_word: cookie fountain tractor
+oomp_word_emoji: ':cookie: :fountain: :tractor:'
+oomp_word_emoji_list:
+- ':cookie:'
+- ':fountain:'
+- ':tractor:'
+oomp_word_list:
+- cookie
+- fountain
+- tractor
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

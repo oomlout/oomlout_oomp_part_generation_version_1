@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '14_11_90'
+description_main_capital: 14.11.90
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '14_11_90'
+description_only_numbers: '141190'
+description_only_numbers_short: 141k
+description_or_color: 141k
+description_or_color_upper: 141K
+directory: parts/oobb_part_tray_vertical_14_11_90
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_11_90
+id: oobb_part_tray_vertical_14_11_90
+id_no_class: part_tray_vertical_14_11_90
+id_no_size: '14_11_90'
+id_no_type: tray_vertical_14_11_90
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_11_90
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_14_11_90](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_11_90)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_11_90)<br>[Oobb
+    Part Tray Vertical 14 11 90](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_11_90)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_14_11_90](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_11_90)<br><br>'
+md5: 0677da3caae09406ae7314f852b20962
+md5_10: 0677da3caa
+md5_10_upper: 0677DA3CAA
+md5_5: 0677d
+md5_5_upper: 0677D
+md5_6: 0677da
+md5_6_alpha: 932y
+md5_6_alpha_upper: 932Y
+md5_6_upper: 0677DA
+name: Oobb Part Tray Vertical 14 11 90
+name_no_class: Part Tray Vertical 14 11 90
+name_no_size: 14 11 90
+name_no_size_short: 14 11 90
+name_no_type: Tray Vertical 14 11 90
+oomp_key: oomp_oobb_part_tray_vertical_14_11_90
+oomp_word: sleeping gift hotel
+oomp_word_emoji: ':sleeping: :gift: :hotel:'
+oomp_word_emoji_list:
+- ':sleeping:'
+- ':gift:'
+- ':hotel:'
+oomp_word_list:
+- sleeping
+- gift
+- hotel
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

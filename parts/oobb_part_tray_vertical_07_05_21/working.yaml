@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '07_05_21'
+description_main_capital: 07 05.21
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '07_05_21'
+description_only_numbers: '070521'
+description_only_numbers_short: 71k
+description_or_color: 71k
+description_or_color_upper: 71K
+directory: parts/oobb_part_tray_vertical_07_05_21
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_07_05_21
+id: oobb_part_tray_vertical_07_05_21
+id_no_class: part_tray_vertical_07_05_21
+id_no_size: '07_05_21'
+id_no_type: tray_vertical_07_05_21
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_07_05_21
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_07_05_21](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_07_05_21)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_07_05_21)<br>[Oobb
+    Part Tray Vertical 07 05 21](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_07_05_21)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_07_05_21](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_07_05_21)<br><br>'
+md5: d4295262e057e4a97b900a58a6596520
+md5_10: d4295262e0
+md5_10_upper: D4295262E0
+md5_5: d4295
+md5_5_upper: D4295
+md5_6: d42952
+md5_6_alpha: 8a0k2
+md5_6_alpha_upper: 8A0K2
+md5_6_upper: D42952
+name: Oobb Part Tray Vertical 07 05 21
+name_no_class: Part Tray Vertical 07 05 21
+name_no_size: 07 05 21
+name_no_size_short: 07 05 21
+name_no_type: Tray Vertical 07 05 21
+oomp_key: oomp_oobb_part_tray_vertical_07_05_21
+oomp_word: corn sunny octopus
+oomp_word_emoji: ':corn: :sunny: :octopus:'
+oomp_word_emoji_list:
+- ':corn:'
+- ':sunny:'
+- ':octopus:'
+oomp_word_list:
+- corn
+- sunny
+- octopus
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

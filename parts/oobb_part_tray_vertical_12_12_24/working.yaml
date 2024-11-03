@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '12_12_24'
+description_main_capital: 12.12.24
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '12_12_24'
+description_only_numbers: '121224'
+description_only_numbers_short: 121k
+description_or_color: 121k
+description_or_color_upper: 121K
+directory: parts/oobb_part_tray_vertical_12_12_24
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_12_12_24
+id: oobb_part_tray_vertical_12_12_24
+id_no_class: part_tray_vertical_12_12_24
+id_no_size: '12_12_24'
+id_no_type: tray_vertical_12_12_24
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_12_12_24
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_12_12_24](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_12_12_24)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_12_12_24)<br>[Oobb
+    Part Tray Vertical 12 12 24](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_12_12_24)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_12_12_24](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_12_12_24)<br><br>'
+md5: 504cfb78ba6793d956dbe078de518bee
+md5_10: 504cfb78ba
+md5_10_upper: 504CFB78BA
+md5_5: 504cf
+md5_5_upper: 504CF
+md5_6: 504cfb
+md5_6_alpha: 34smz
+md5_6_alpha_upper: 34SMZ
+md5_6_upper: 504CFB
+name: Oobb Part Tray Vertical 12 12 24
+name_no_class: Part Tray Vertical 12 12 24
+name_no_size: 12 12 24
+name_no_size_short: 12 12 24
+name_no_type: Tray Vertical 12 12 24
+oomp_key: oomp_oobb_part_tray_vertical_12_12_24
+oomp_word: beetle turtle ok
+oomp_word_emoji: ':beetle: :turtle: :ok:'
+oomp_word_emoji_list:
+- ':beetle:'
+- ':turtle:'
+- ':ok:'
+oomp_word_list:
+- beetle
+- turtle
+- ok
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

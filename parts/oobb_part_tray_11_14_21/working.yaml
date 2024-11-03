@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '11_14_21'
+description_main_capital: 11.14.21
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '11_14_21'
+description_only_numbers: '111421'
+description_only_numbers_short: 111k
+description_or_color: 111k
+description_or_color_upper: 111K
+directory: parts/oobb_part_tray_11_14_21
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_14_21
+id: oobb_part_tray_11_14_21
+id_no_class: part_tray_11_14_21
+id_no_size: '11_14_21'
+id_no_type: tray_11_14_21
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_14_21
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_11_14_21](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_14_21)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_14_21)<br>[Oobb
+    Part Tray 11 14 21](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_14_21)<br><br>'
+markdown_short: '[oobb_part_tray_11_14_21](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_14_21)<br><br>'
+md5: e03b9320bdeacc08dbf0bb7c8bfcb02f
+md5_10: e03b9320bd
+md5_10_upper: E03B9320BD
+md5_5: e03b9
+md5_5_upper: E03B9
+md5_6: e03b93
+md5_6_alpha: 8qyz7
+md5_6_alpha_upper: 8QYZ7
+md5_6_upper: E03B93
+name: Oobb Part Tray 11 14 21
+name_no_class: Part Tray 11 14 21
+name_no_size: 11 14 21
+name_no_size_short: 11 14 21
+name_no_type: Tray 11 14 21
+oomp_key: oomp_oobb_part_tray_11_14_21
+oomp_word: ship bear books
+oomp_word_emoji: ':ship: :bear: :books:'
+oomp_word_emoji_list:
+- ':ship:'
+- ':bear:'
+- ':books:'
+oomp_word_list:
+- ship
+- bear
+- books
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: i2c
+description_extra_capital: I2C
+description_extra_first_letter: i
+description_extra_first_letter_upper: I
+description_extra_upper: I2C
+description_main: 03_03_2d54_
+description_main_capital: '03 03.2D54 '
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: 03_03_2D54_
+description_only_numbers: '0303254'
+description_only_numbers_short: 303k
+description_or_color: 303k
+description_or_color_upper: 303K
+directory: parts/oobb_part_wire_03_03_2d54__i2c
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__i2c
+id: oobb_part_wire_03_03_2d54__i2c
+id_no_class: part_wire_03_03_2d54__i2c
+id_no_size: 03_03_2d54__i2c
+id_no_type: wire_03_03_2d54__i2c
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__i2c
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_wire_03_03_2d54__i2c](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__i2c)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__i2c)<br>[Oobb
+    Part Wire 03 03 2D54  I2C](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__i2c)<br><br>'
+markdown_short: '[oobb_part_wire_03_03_2d54__i2c](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__i2c)<br><br>'
+md5: 33163a374e61d7479e655d3ea33960ca
+md5_10: 33163a374e
+md5_10_upper: 33163A374E
+md5_5: '33163'
+md5_5_upper: '33163'
+md5_6: 33163a
+md5_6_alpha: 1zrcq
+md5_6_alpha_upper: 1ZRCQ
+md5_6_upper: 33163A
+name: Oobb Part Wire 03 03 2D54  I2C
+name_no_class: Part Wire 03 03 2D54  I2C
+name_no_size: 03 03 2D54  I2C
+name_no_size_short: 03 03 2D54  I2C
+name_no_type: Wire 03 03 2D54  I2C
+oomp_key: oomp_oobb_part_wire_03_03_2d54__i2c
+oomp_word: dog thumbsup koala
+oomp_word_emoji: ':dog: :thumbsup: :koala:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':thumbsup:'
+- ':koala:'
+oomp_word_list:
+- dog
+- thumbsup
+- koala
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: wire
+size_capital: Wire
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WIRE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

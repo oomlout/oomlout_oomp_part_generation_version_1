@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '14_03_09'
+description_main_capital: 14 03 09
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '14_03_09'
+description_only_numbers: '140309'
+description_only_numbers_short: 140k
+description_or_color: 140k
+description_or_color_upper: 140K
+directory: parts/oobb_part_tray_vertical_14_03_09
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_03_09
+id: oobb_part_tray_vertical_14_03_09
+id_no_class: part_tray_vertical_14_03_09
+id_no_size: '14_03_09'
+id_no_type: tray_vertical_14_03_09
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_03_09
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_14_03_09](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_03_09)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_03_09)<br>[Oobb
+    Part Tray Vertical 14 03 09](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_03_09)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_14_03_09](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_03_09)<br><br>'
+md5: 97dd7e89286436ab93f16fa358bfe677
+md5_10: 97dd7e8928
+md5_10_upper: 97DD7E8928
+md5_5: 97dd7
+md5_5_upper: 97DD7
+md5_6: 97dd7e
+md5_6_alpha: 5xbi6
+md5_6_alpha_upper: 5XBI6
+md5_6_upper: 97DD7E
+name: Oobb Part Tray Vertical 14 03 09
+name_no_class: Part Tray Vertical 14 03 09
+name_no_size: 14 03 09
+name_no_size_short: 14 03 09
+name_no_type: Tray Vertical 14 03 09
+oomp_key: oomp_oobb_part_tray_vertical_14_03_09
+oomp_word: baseball stars fax
+oomp_word_emoji: ':baseball: :stars: :fax:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':stars:'
+- ':fax:'
+oomp_word_list:
+- baseball
+- stars
+- fax
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART
