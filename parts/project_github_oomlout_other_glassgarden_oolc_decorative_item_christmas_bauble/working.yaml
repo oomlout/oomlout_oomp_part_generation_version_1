@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: other_glassgarden_oolc_decorative_item_christmas_bauble
+color_capital: Other Glassgarden Oolc Decorative Item Christmas Bauble
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OTHER_GLASSGARDEN_OOLC_DECORATIVE_ITEM_CHRISTMAS_BAUBLE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble
+id: project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble
+id_no_class: github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble
+id_no_size: other_glassgarden_oolc_decorative_item_christmas_bauble
+id_no_type: oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble)<br>[Project
+    Github Oomlout Other Glassgarden Oolc Decorative Item Christmas Bauble](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble)<br><br>'
+markdown_short: '[project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble)<br><br>'
+md5: bf9dff386c823dd02cb19f71fddc20f7
+md5_10: bf9dff386c
+md5_10_upper: BF9DFF386C
+md5_5: bf9df
+md5_5_upper: BF9DF
+md5_6: bf9dff
+md5_6_alpha: 7h5of
+md5_6_alpha_upper: 7H5OF
+md5_6_upper: BF9DFF
+name: Project Github Oomlout Other Glassgarden Oolc Decorative Item Christmas Bauble
+name_no_class: Github Oomlout Other Glassgarden Oolc Decorative Item Christmas Bauble
+name_no_size: Other Glassgarden Oolc Decorative Item Christmas Bauble
+name_no_size_short: Other Glassgarden Oolc Decorative Item Christmas Bauble
+name_no_type: Oomlout Other Glassgarden Oolc Decorative Item Christmas Bauble
+oomp_key: oomp_project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble
+oomp_word: egg hearts trident
+oomp_word_emoji: ':egg: :hearts: :trident:'
+oomp_word_emoji_list:
+- ':egg:'
+- ':hearts:'
+- ':trident:'
+oomp_word_list:
+- egg
+- hearts
+- trident
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

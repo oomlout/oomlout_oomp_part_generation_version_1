@@ -1,0 +1,89 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie
+color_capital: Oomlout Oomp Electronic Breakout Board Mcu Atmega328 Shennie
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_OOMP_ELECTRONIC_BREAKOUT_BOARD_MCU_ATMEGA328_SHENNIE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie
+id: project_github_oomlout_oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie
+id_no_class: github_oomlout_oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie
+id_no_size: oomp_electronic_breakout_board_mcu_atmega328_shennie
+id_no_type: oomlout_oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie)<br>[Project
+    Github Oomlout Oomlout Oomp Electronic Breakout Board Mcu Atmega328 Shennie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie)<br><br>'
+md5: fecda278265bdde37a8db8905d27783c
+md5_10: fecda27826
+md5_10_upper: FECDA27826
+md5_5: fecda
+md5_5_upper: FECDA
+md5_6: fecda2
+md5_6_alpha: 9xwv6
+md5_6_alpha_upper: 9XWV6
+md5_6_upper: FECDA2
+name: Project Github Oomlout Oomlout Oomp Electronic Breakout Board Mcu Atmega328
+    Shennie
+name_no_class: Github Oomlout Oomlout Oomp Electronic Breakout Board Mcu Atmega328
+    Shennie
+name_no_size: Oomp Electronic Breakout Board Mcu Atmega328 Shennie
+name_no_size_short: Oomp Electronic Breakout Board Mcu Atmega328 Shennie
+name_no_type: Oomlout Oomlout Oomp Electronic Breakout Board Mcu Atmega328 Shennie
+oomp_key: oomp_project_github_oomlout_oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie
+oomp_word: recycle strawberry violin
+oomp_word_emoji: ':recycle: :strawberry: :violin:'
+oomp_word_emoji_list:
+- ':recycle:'
+- ':strawberry:'
+- ':violin:'
+oomp_word_list:
+- recycle
+- strawberry
+- violin
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

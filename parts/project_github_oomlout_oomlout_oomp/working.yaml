@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_oomp
+color_capital: Oomlout Oomp
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_OOMP
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_oomp
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp
+id: project_github_oomlout_oomlout_oomp
+id_no_class: github_oomlout_oomlout_oomp
+id_no_size: oomp
+id_no_type: oomlout_oomlout_oomp
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oomp](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp)<br>[Project
+    Github Oomlout Oomlout Oomp](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oomp](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp)<br><br>'
+md5: 50bd5235383d9613b9aab7a8a514b357
+md5_10: 50bd523538
+md5_10_upper: 50BD523538
+md5_5: 50bd5
+md5_5_upper: 50BD5
+md5_6: 50bd52
+md5_6_alpha: 35etu
+md5_6_alpha_upper: 35ETU
+md5_6_upper: 50BD52
+name: Project Github Oomlout Oomlout Oomp
+name_no_class: Github Oomlout Oomlout Oomp
+name_no_size: Oomp
+name_no_size_short: Oomp
+name_no_type: Oomlout Oomlout Oomp
+oomp_key: oomp_project_github_oomlout_oomlout_oomp
+oomp_word: beetle rice octopus
+oomp_word_emoji: ':beetle: :rice: :octopus:'
+oomp_word_emoji_list:
+- ':beetle:'
+- ':rice:'
+- ':octopus:'
+oomp_word_list:
+- beetle
+- rice
+- octopus
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

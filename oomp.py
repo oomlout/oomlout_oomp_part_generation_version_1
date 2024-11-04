@@ -406,15 +406,18 @@ def add_part(**kwargs):
 
         if make_files:
             ######### file stuff
-            
+            directory_parts = "parts"
+            if make_files != True:
+                directory_parts = make_files
+
             ## make a directory in /parts for the part the name is its id
             import os
-            if not os.path.exists("parts/" + id ):
-                os.makedirs("parts/" + id )
+            if not os.path.exists(f"{directory_parts}/" + id ):
+                os.makedirs(f"{directory_parts}/" + id )
             
             ## write the part working in json to the directory name the file working.json
             import json
-            with open("parts/" + id + "/working.json", "w") as outfile:
+            with open(f"{directory_parts}/" + id + "/working.json", "w") as outfile:
                 json.dump(kwargs, outfile, indent=4)
             ## write the part working in yaml to the directory name the file working.json
             
@@ -424,7 +427,7 @@ def add_part(**kwargs):
                 import os.path
                 if os.path.isfile("src/" + id + "_" + file_type):
                     import shutil
-                    shutil.copy("src/" + id + "_" + file_type, "parts/" + id + "/" + file_type)
+                    shutil.copy(f"src/" + id + "_" + file_type, f"{directory_parts}/" + id + "/" + file_type)
 
         
 
@@ -439,7 +442,7 @@ def add_part(**kwargs):
             p2.pop("make_files", None)
             p2.pop("counter", None)
 
-            with open("parts/" + id + "/working.yaml", "w") as outfile:
+            with open(f"{directory_parts}/" + id + "/working.yaml", "w") as outfile:
                 yaml.dump(p2, outfile, indent=4)
 
 

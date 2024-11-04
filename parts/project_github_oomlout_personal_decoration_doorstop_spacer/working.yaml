@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: personal_decoration_doorstop_spacer
+color_capital: Personal Decoration Doorstop Spacer
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PERSONAL_DECORATION_DOORSTOP_SPACER
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/project_github_oomlout_personal_decoration_doorstop_spacer
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_decoration_doorstop_spacer
+id: project_github_oomlout_personal_decoration_doorstop_spacer
+id_no_class: github_oomlout_personal_decoration_doorstop_spacer
+id_no_size: personal_decoration_doorstop_spacer
+id_no_type: oomlout_personal_decoration_doorstop_spacer
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_decoration_doorstop_spacer
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_personal_decoration_doorstop_spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_decoration_doorstop_spacer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_decoration_doorstop_spacer)<br>[Project
+    Github Oomlout Personal Decoration Doorstop Spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_decoration_doorstop_spacer)<br><br>'
+markdown_short: '[project_github_oomlout_personal_decoration_doorstop_spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_decoration_doorstop_spacer)<br><br>'
+md5: facadae0f34d99911f4a54de9ec7e9dd
+md5_10: facadae0f3
+md5_10_upper: FACADAE0F3
+md5_5: facad
+md5_5_upper: FACAD
+md5_6: facada
+md5_6_alpha: 9sa1m
+md5_6_alpha_upper: 9SA1M
+md5_6_upper: FACADA
+name: Project Github Oomlout Personal Decoration Doorstop Spacer
+name_no_class: Github Oomlout Personal Decoration Doorstop Spacer
+name_no_size: Personal Decoration Doorstop Spacer
+name_no_size_short: Personal Decoration Doorstop Spacer
+name_no_type: Oomlout Personal Decoration Doorstop Spacer
+oomp_key: oomp_project_github_oomlout_personal_decoration_doorstop_spacer
+oomp_word: nine cherries hotel
+oomp_word_emoji: ':nine: :cherries: :hotel:'
+oomp_word_emoji_list:
+- ':nine:'
+- ':cherries:'
+- ':hotel:'
+oomp_word_list:
+- nine
+- cherries
+- hotel
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

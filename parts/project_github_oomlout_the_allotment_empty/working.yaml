@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: the_allotment_empty
+color_capital: The Allotment Empty
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: THE_ALLOTMENT_EMPTY
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/project_github_oomlout_the_allotment_empty
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_the_allotment_empty
+id: project_github_oomlout_the_allotment_empty
+id_no_class: github_oomlout_the_allotment_empty
+id_no_size: the_allotment_empty
+id_no_type: oomlout_the_allotment_empty
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_the_allotment_empty
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_the_allotment_empty](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_the_allotment_empty)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_the_allotment_empty)<br>[Project
+    Github Oomlout The Allotment Empty](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_the_allotment_empty)<br><br>'
+markdown_short: '[project_github_oomlout_the_allotment_empty](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_the_allotment_empty)<br><br>'
+md5: d9d20a6bd5817ddb3122582531dab1ad
+md5_10: d9d20a6bd5
+md5_10_upper: D9D20A6BD5
+md5_5: d9d20
+md5_5_upper: D9D20
+md5_6: d9d20a
+md5_6_alpha: 8hyq2
+md5_6_alpha_upper: 8HYQ2
+md5_6_upper: D9D20A
+name: Project Github Oomlout The Allotment Empty
+name_no_class: Github Oomlout The Allotment Empty
+name_no_size: The Allotment Empty
+name_no_size_short: The Allotment Empty
+name_no_type: Oomlout The Allotment Empty
+oomp_key: oomp_project_github_oomlout_the_allotment_empty
+oomp_word: bank pineapple sleepy
+oomp_word_emoji: ':bank: :pineapple: :sleepy:'
+oomp_word_emoji_list:
+- ':bank:'
+- ':pineapple:'
+- ':sleepy:'
+oomp_word_list:
+- bank
+- pineapple
+- sleepy
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

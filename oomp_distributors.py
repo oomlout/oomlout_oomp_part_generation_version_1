@@ -1,4 +1,5 @@
 import oomp
+import os
 
 def get_distributors(**kwargs):
     kwargs = get_lcsc(**kwargs)
@@ -205,9 +206,11 @@ def get_matches(**kwargs):
 
     lcsc_file = "source/distributor_matches_lcsc.yml"
     import yaml
-    with open(lcsc_file, 'r') as file:
-        lcsc_matches = yaml.load(file, Loader=yaml.FullLoader)
-        matches.extend(lcsc_matches)
+    # if file exists load the matches
+    if os.path.exists(lcsc_file):
+        with open(lcsc_file, 'r') as file:
+            lcsc_matches = yaml.load(file, Loader=yaml.FullLoader)
+            matches.extend(lcsc_matches)
 
     #########
 

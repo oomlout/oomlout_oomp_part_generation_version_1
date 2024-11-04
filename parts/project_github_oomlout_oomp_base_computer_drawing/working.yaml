@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomp_base_computer_drawing
+color_capital: Oomp Base Computer Drawing
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMP_BASE_COMPUTER_DRAWING
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomp_base_computer_drawing
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing
+id: project_github_oomlout_oomp_base_computer_drawing
+id_no_class: github_oomlout_oomp_base_computer_drawing
+id_no_size: oomp_base_computer_drawing
+id_no_type: oomlout_oomp_base_computer_drawing
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomp_base_computer_drawing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing)<br>[Project
+    Github Oomlout Oomp Base Computer Drawing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing)<br><br>'
+markdown_short: '[project_github_oomlout_oomp_base_computer_drawing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing)<br><br>'
+md5: ae50ec22f8337a41950d2df071b1228f
+md5_10: ae50ec22f8
+md5_10_upper: AE50EC22F8
+md5_5: ae50e
+md5_5_upper: AE50E
+md5_6: ae50ec
+md5_6_alpha: 6suss
+md5_6_alpha_upper: 6SUSS
+md5_6_upper: AE50EC
+name: Project Github Oomlout Oomp Base Computer Drawing
+name_no_class: Github Oomlout Oomp Base Computer Drawing
+name_no_size: Oomp Base Computer Drawing
+name_no_size_short: Oomp Base Computer Drawing
+name_no_type: Oomlout Oomp Base Computer Drawing
+oomp_key: oomp_project_github_oomlout_oomp_base_computer_drawing
+oomp_word: jeans beetle taxi
+oomp_word_emoji: ':jeans: :beetle: :taxi:'
+oomp_word_emoji_list:
+- ':jeans:'
+- ':beetle:'
+- ':taxi:'
+oomp_word_list:
+- jeans
+- beetle
+- taxi
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

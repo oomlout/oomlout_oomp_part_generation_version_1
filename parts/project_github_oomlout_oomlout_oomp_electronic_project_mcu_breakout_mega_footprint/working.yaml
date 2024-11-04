@@ -1,0 +1,87 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_oomp_electronic_project_mcu_breakout_mega_footprint
+color_capital: Oomlout Oomp Electronic Project Mcu Breakout Mega Footprint
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_OOMP_ELECTRONIC_PROJECT_MCU_BREAKOUT_MEGA_FOOTPRINT
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint
+id: project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint
+id_no_class: github_oomlout_oomlout_oomp_electronic_mcu_breakout_mega_footprint
+id_no_size: oomp_electronic_mcu_breakout_mega_footprint
+id_no_type: oomlout_oomlout_oomp_electronic_mcu_breakout_mega_footprint
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint)<br>[Project
+    Github Oomlout Oomlout Oomp Electronic Project Mcu Breakout Mega Footprint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint)<br><br>'
+md5: bf29a470eb8fa2cc9d87cf1418b4667d
+md5_10: bf29a470eb
+md5_10_upper: BF29A470EB
+md5_5: bf29a
+md5_5_upper: BF29A
+md5_6: bf29a4
+md5_6_alpha: 7gip0
+md5_6_alpha_upper: 7GIP0
+md5_6_upper: BF29A4
+name: Project Github Oomlout Oomlout Oomp Electronic Project Mcu Breakout Mega Footprint
+name_no_class: Github Oomlout Oomlout Oomp Electronic Mcu Breakout Mega Footprint
+name_no_size: Oomp Electronic Mcu Breakout Mega Footprint
+name_no_size_short: Oomp Electronic Mcu Breakout Mega Footprint
+name_no_type: Oomlout Oomlout Oomp Electronic Mcu Breakout Mega Footprint
+oomp_key: oomp_project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint
+oomp_word: egg sunny book
+oomp_word_emoji: ':egg: :sunny: :book:'
+oomp_word_emoji_list:
+- ':egg:'
+- ':sunny:'
+- ':book:'
+oomp_word_list:
+- egg
+- sunny
+- book
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB
