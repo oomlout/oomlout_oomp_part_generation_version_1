@@ -10,6 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
+    "part_number_exact": "118A000",
+    "link_distributor_pyrex": "https://pyrex.co.uk/products/glass-round-casserole-high-resistance?variant=39702806560803",
     "classification_upper": "DISH",
     "classification_capital": "Dish",
     "classification_first_letter": "d",

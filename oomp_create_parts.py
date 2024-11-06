@@ -152,7 +152,9 @@ def save_parts_to_individual_yaml_files(**kwargs):
     for part_id in oomp.parts:
         part = oomp.parts[part_id]
         del part['make_files']
-        yaml_file = f"parts/{part_id}/working/working.yaml"
+        yaml_file = f"parts/{part_id}/working.yaml"
+        if not os.path.exists(f"parts/{part_id}"):
+            yaml_file = f"parts_source/{part_id}/working.yaml"
         with open(yaml_file, "w") as outfile:
             print(f"writing {yaml_file}")
             yaml.dump(part, outfile, indent=4)

@@ -8,6 +8,7 @@ color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
 color_upper: ''
+description: M&S Red Peppers
 description_extra: red
 description_extra_capital: Red
 description_extra_first_letter: r
@@ -31,6 +32,7 @@ id: food_vegetable_pepper_red
 id_no_class: vegetable_pepper_red
 id_no_size: pepperred
 id_no_type: pepper_red
+link_distributor_ocado: https://www.ocado.com/search?entry=528414011
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_pepper_red
 manufacturer: ''
 manufacturer_capital: ''
@@ -68,6 +70,7 @@ oomp_word_list:
 - alien
 part_number: ''
 part_number_capital: ''
+part_number_distributor_ocado: '528414011'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''

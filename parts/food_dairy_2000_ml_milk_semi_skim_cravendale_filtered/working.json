@@ -10,6 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
+    "part_number_distributor_ocado": "24581011",
+    "link_distributor_ocado": "https://www.ocado.com/search?entry=24581011",
     "classification_upper": "FOOD",
     "classification_capital": "Food",
     "classification_first_letter": "f",

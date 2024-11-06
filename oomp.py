@@ -121,15 +121,16 @@ def add_parts(parts,**kwargs):
     for part in parts:
         #test if any elelment in the part is a list
         list_in_part = False
+        # get all the dict values that aren't in names_of_main_elements 
+        not_main_elements = {}
+        for key, value in part.items():
+            if key not in names_of_main_elements:
+                not_main_elements[key] = (part[key])
+        
         for key, value in part.items():
             if isinstance(value, list):
                 list_in_part = True
         if list_in_part:
-            # get all the dict values that aren't in names_of_main_elements 
-            not_main_elements = {}
-            for key, value in part.items():
-                if key not in names_of_main_elements:
-                    not_main_elements[key] = (part[key])
             for key, value in part.items():
                 #only check if the key is in names_of_main_elements
                 if key in names_of_main_elements:
@@ -157,7 +158,7 @@ def add_parts(parts,**kwargs):
             for combo in combinations:
                 add_part(classification=combo[0], type=combo[1], size=combo[2], color=combo[3], description_main=combo[4], description_extra=combo[5], manufacturer=combo[6], part_number=combo[7], not_main_elements=not_main_elements, **kwargs)
         else:
-            add_part(classification=part["classification"], type=part["type"], size=part["size"], color=part["color"], description_main=part["description_main"], description_extra=part["description_extra"], manufacturer=part["manufacturer"], part_number=part["part_number"], not_main_elements={}, **kwargs)
+            add_part(classification=part["classification"], type=part["type"], size=part["size"], color=part["color"], description_main=part["description_main"], description_extra=part["description_extra"], manufacturer=part["manufacturer"], part_number=part["part_number"], not_main_elements=not_main_elements, **kwargs)
 
 add_part_filter = ""
 
@@ -400,6 +401,7 @@ def add_part(**kwargs):
 
         kwargs = get_markdown_summaries(**kwargs)
 
+        pass
 
         ## print part nicely indented by six spaces
         ### print("      " + str(kwargs).replace(", ", ",\n      "))

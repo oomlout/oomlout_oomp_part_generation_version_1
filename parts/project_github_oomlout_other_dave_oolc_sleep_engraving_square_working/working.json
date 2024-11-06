@@ -10,6 +10,7 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
+    "link_redirect": "https://github.com/oomlout/other_dave_oolc_sleep_engraving_square_working",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",

@@ -10,6 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
+    "width": "297 mm",
+    "height": "420 mm",
     "classification_upper": "PAPER",
     "classification_capital": "Paper",
     "classification_first_letter": "p",

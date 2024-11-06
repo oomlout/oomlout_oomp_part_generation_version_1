@@ -26,6 +26,7 @@ def main(**kwargs):
     
     oomp.load_parts(from_yaml=False, make_files=True, filter=filter)
     oomp.save_parts()
+    oomp.save_parts_to_individual_yaml_files()
 
 
 
@@ -54,8 +55,8 @@ if __name__ == "__main__":
     #filter = "packaging"
     #filter = "project"
     #filter = "paper"
-    #filter = "three_d_printer"
-    filter = "tool"
+    filter = "three_d_printer_filament"
+    #filter = "tool"
     #filter = "wood"
 
     #filter = "aluminium_extrusion"

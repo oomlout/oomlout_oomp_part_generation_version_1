@@ -10,6 +10,7 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
+    "link_redirect": "https://github.com/oomlout/oomlout_packaging_takeaway_container_circle_oobb_carrying_tray",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",

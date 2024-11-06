@@ -8,6 +8,8 @@
     "manufacturer": "storm_interface",
     "part_number": "2k16t10",
     "make_files": true,
+    "short_name": "",
+    "link": "https://www.storm-interface.com/ixp/keypads/2000-series/2000-series-16-key-telephone.html",
     "classification_upper": "ELECTRONIC",
     "classification_capital": "Electronic",
     "classification_first_letter": "e",

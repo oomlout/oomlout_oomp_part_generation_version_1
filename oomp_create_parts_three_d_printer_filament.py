@@ -65,6 +65,7 @@ def load_parts(**kwargs):
     part_details["price_per_kilogram"] = 18.99 / 1.2
     part_details["weight"] = 1
     part_details["link_purchase"] = "https://www.3dqf.co.uk/product-page/aqua-1-75mm-uk-made-3d-printer-filament"
+    part_details["link_buy"] = "https://www.3dqf.co.uk/product-page/aqua-1-75mm-uk-made-3d-printer-filament"
     parts.append(part_details)    
     
     
@@ -84,6 +85,7 @@ def load_parts(**kwargs):
     part_details["price_per_kilogram"] = 20.99 / 1.2
     part_details["weight"] = 1
     part_details["link_purchase"] = "https://www.3dqf.co.uk/product-page/deep-black-pla-plus-1-75mm-uk-made-3d-printer-filament"
+    part_details["link_buy"] = "https://www.3dqf.co.uk/product-page/deep-black-pla-plus-1-75mm-uk-made-3d-printer-filament"
     parts.append(part_details)    
     
     
@@ -105,6 +107,7 @@ def load_parts(**kwargs):
     part_details["price_per_kilogram"] = 15.99 / 1.2
     part_details["weight"] = 1
     part_details["link_purchase"] = "https://www.3dqf.co.uk/product-page/copy-of-eco-pla-10-pack-1-75mm-uk-made-3d-printer-filament-1kg"
+    part_details["link_buy"] = "https://www.3dqf.co.uk/product-page/copy-of-eco-pla-10-pack-1-75mm-uk-made-3d-printer-filament-1kg"
     parts.append(part_details)    
 
     
@@ -126,6 +129,7 @@ def load_parts(**kwargs):
     part_details["price_per_kilogram"] = 15.99 / 1.2
     part_details["weight"] = 1
     part_details["link_purchase"] = "https://www.3dqf.co.uk/product-page/copy-of-eco-pla-10-pack-1-75mm-uk-made-3d-printer-filament-1kg"
+    part_details["link_buy"] = "https://www.3dqf.co.uk/product-page/copy-of-eco-pla-10-pack-1-75mm-uk-made-3d-printer-filament-1kg"
     parts.append(part_details) 
 
     oomp.add_parts(parts, make_files=make_files)

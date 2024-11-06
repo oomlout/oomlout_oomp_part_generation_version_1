@@ -10,6 +10,7 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
+    "link_redirect": "https://github.com/oomlout/oomlout_decorative_wall_mount_three_d_printer_filament",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",

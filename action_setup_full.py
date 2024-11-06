@@ -26,6 +26,7 @@ def main(**kwargs):
     
     oomp.load_parts(from_yaml=False, make_files=True, filter=filter)
     oomp.save_parts()
+    oomp.save_parts_to_individual_yaml_files()
 
 
 

@@ -8,6 +8,7 @@ color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
 color_upper: ''
+description: M&S Piccolo Vine Tomatoes
 description_extra: piccolo
 description_extra_capital: Piccolo
 description_extra_first_letter: p
@@ -31,6 +32,7 @@ id: food_vegetable_tomato_cherry_piccolo
 id_no_class: vegetable_tomato_cherry_piccolo
 id_no_size: tomatocherrypiccolo
 id_no_type: tomato_cherry_piccolo
+link_distributor_ocado: https://www.ocado.com/search?entry=517984011
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_tomato_cherry_piccolo
 manufacturer: ''
 manufacturer_capital: ''
@@ -68,6 +70,7 @@ oomp_word_list:
 - trophy
 part_number: ''
 part_number_capital: ''
+part_number_distributor_ocado: '517984011'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''

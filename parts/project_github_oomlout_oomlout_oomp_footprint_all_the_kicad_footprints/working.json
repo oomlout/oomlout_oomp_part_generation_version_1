@@ -10,6 +10,7 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_footprint_all_the_kicad_footprints",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",

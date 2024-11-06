@@ -10,6 +10,7 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
+    "link_redirect": "https://github.com/oomlout/oomlout_oobb_hardware_screw_wood_adapter_to_bolt",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",

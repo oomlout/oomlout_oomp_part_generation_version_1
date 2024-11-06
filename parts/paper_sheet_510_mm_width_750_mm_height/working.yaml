@@ -27,6 +27,7 @@ distributors: []
 filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_510_mm_width_750_mm_height
+height: 750 mm
 id: paper_sheet_510_mm_width_750_mm_height
 id_no_class: sheet_510_mm_width_750_mm_height
 id_no_size: 510_mm_width_750_mm_height
@@ -85,3 +86,4 @@ type_capital: Sheet
 type_first_letter: s
 type_first_letter_upper: S
 type_upper: SHEET
+width: 510 mm

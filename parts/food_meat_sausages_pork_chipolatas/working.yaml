@@ -8,6 +8,7 @@ color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
 color_upper: ''
+description: M&S Select Farms British 12 Pork Chipolatas
 description_extra: pork_chipolatas
 description_extra_capital: Pork Chipolatas
 description_extra_first_letter: p
@@ -31,6 +32,7 @@ id: food_meat_sausages_pork_chipolatas
 id_no_class: meat_sausages_pork_chipolatas
 id_no_size: sausagesporkchipolatas
 id_no_type: sausages_pork_chipolatas
+link_distributor_ocado: https://www.ocado.com/search?entry=523896011
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas
 manufacturer: ''
 manufacturer_capital: ''
@@ -68,6 +70,7 @@ oomp_word_list:
 - factory
 part_number: ''
 part_number_capital: ''
+part_number_distributor_ocado: '523896011'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''

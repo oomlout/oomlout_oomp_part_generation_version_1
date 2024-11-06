@@ -8,6 +8,7 @@ color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
 color_upper: ''
+description: Jackson's Multigrain Brown Bloomer
 description_extra: multigrain_brown_bloomer
 description_extra_capital: Multigrain Brown Bloomer
 description_extra_first_letter: m
@@ -31,6 +32,7 @@ id: food_bakery_bread_multigrain_brown_bloomer_jackson
 id_no_class: bakery_bread_multigrain_brown_bloomer_jackson
 id_no_size: breadmultigrainbrownbloomerjackson
 id_no_type: bread_multigrain_brown_bloomer_jackson
+link_distributor_ocado: https://www.ocado.com/search?entry=86084011
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bakery_bread_multigrain_brown_bloomer_jackson
 manufacturer: jackson
 manufacturer_capital: Jackson
@@ -68,6 +70,7 @@ oomp_word_list:
 - door
 part_number: ''
 part_number_capital: ''
+part_number_distributor_ocado: '86084011'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''

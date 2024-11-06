@@ -10,6 +10,7 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
+    "part_number_exact": "003.189.42",
     "classification_upper": "DISH",
     "classification_capital": "Dish",
     "classification_first_letter": "d",
