@@ -40,6 +40,65 @@ def load_parts(**kwargs):
         part_details["description"] = "M&S Soft Tortilla Wraps"
         parts.append(part_details)
 
+    # baking
+    if True:
+        part_details = {}
+        part_details["classification"] = "food"
+        part_details["type"] = "baking"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        
+        current_default = copy.deepcopy(part_details)
+
+        # flour
+
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "flour"
+        part_details["color"] = "white"
+        part_details["description"] = "flour self raising"
+        part_details["name_short"] = "Flour Self Raising"
+        parts.append(part_details)
+        
+        # sugar
+
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "sugar"
+        part_details["color"] = "caster"
+        part_details["description"] = "sugar caster"
+        part_details["name_short"] = "Sugar Caster"
+        parts.append(part_details)
+
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "sugar"
+        part_details["color"] = "granulated"
+        part_details["description"] = "sugar granulated"
+        part_details["name_short"] = "Sugar Granulated"
+        parts.append(part_details)
+
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "sugar"
+        part_details["color"] = "icing"
+        part_details["description"] = "sugar icing"
+        part_details["name_short"] = "Sugar Icing"
+        parts.append(part_details)
+
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "sugar"
+        part_details["color"] = "light_brown"
+        part_details["description"] = "sugar light brown"
+        part_details["name_short"] = "Sugar Light Brown"
+        parts.append(part_details)
+
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "sugar"
+        part_details["color"] = "muscavado"
+        part_details["description"] = "sugar muscavado"
+        part_details["name_short"] = "Sugar Muscavado"
+        parts.append(part_details)
+
     # dairy
     if True:
         part_details = {}
@@ -133,6 +192,80 @@ def load_parts(**kwargs):
         part_details["description"] = "M&S Select Farms British 12 Pork Chipolatas"
         parts.append(part_details)
 
+    # starch
+    if True:
+        part_details = {}
+        part_details["classification"] = "food"
+        part_details["type"] = "starch"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        
+        current_default = copy.deepcopy(part_details)
+        
+        # oats
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "oats"
+        part_details["color"] = "porridge"
+        part_details["description"] = "oats porridge"
+        part_details["name_short"] = "Oats Porridge"
+        parts.append(part_details)
+
+        # pasta
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "pasta"
+        part_details["color"] = "penne"
+        part_details["description"] = "pasta penne"
+        part_details["name_short"] = "Pasta Penne"
+        parts.append(part_details)
+
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "pasta"
+        part_details["color"] = "spaghetti"
+        part_details["description"] = "pasta spaghetti"
+        part_details["name_short"] = "Pasta Spaghetti"
+        parts.append(part_details)
+
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "pasta"
+        part_details["color"] = "fusilli"
+        part_details["description"] = "pasta fusilli"
+        part_details["name_short"] = "Pasta Fusilli"
+        parts.append(part_details)
+
+        
+
+
+        # rice
+        
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "rice"
+        part_details["color"] = "dong_bei"
+        part_details["description"] = "rice dong bei"
+        part_details["name_short"] = "Rice Dong Bei"
+        parts.append(part_details)
+
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "rice"
+        part_details["color"] = "basmati"
+        part_details["description"] = "rice basmati"
+        part_details["name_short"] = "Rice Basmati"
+        parts.append(part_details)
+
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "rice"
+        part_details["color"] = "brown_short_grain"
+        part_details["description"] = "rice brown short grain"
+        part_details["name_short"] = "Rice Brown Short Grain"
+        parts.append(part_details)
+
+
+
+
+
+    # vegetable
     if True: 
         # vegetable
         part_details = {}
