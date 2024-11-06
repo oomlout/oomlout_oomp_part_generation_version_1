@@ -43,7 +43,7 @@ if __name__ == "__main__":
     filter = ""
     #filter = "bearing"
     #filter = "computer"
-    #filter = "food"
+    filter = "food"
     #filter = "ikea"
     #filter = "hardware"
     #filter = "mechanical"    
@@ -55,7 +55,7 @@ if __name__ == "__main__":
     #filter = "packaging"
     #filter = "project"
     #filter = "paper"
-    filter = "three_d_printer_filament"
+    #filter = "three_d_printer_filament"
     #filter = "tool"
     #filter = "wood"
 
