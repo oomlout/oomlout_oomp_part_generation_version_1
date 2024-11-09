@@ -1,4 +1,5 @@
 import oomp
+import copy
 
 def load_parts(**kwargs):
     make_files = kwargs.get("make_files", True)
@@ -231,9 +232,34 @@ def load_parts(**kwargs):
         pins["pin_39"] = ({"name": "vsys", "number": "39", "type": "signal"})
         pins["pin_40"] = ({"name": "vbus", "number": "40", "type": "signal"})
         part_details["pins"] = pins
+        pins_pico = copy.deepcopy(pins)
         part_details["kicad_reference"] = "BB"
         part_details["notes"] = []
         parts.append(part_details)  
+
+        #2350
+        part_details = {}
+        part_details["description"] = "The official Raspberry Pi breakout for the 2350" 
+        part_details["classification"] = "electronic"
+        part_details["type"] = "breakout_board_mcu"
+        part_details["size"] = ["pico"]
+        part_details["color"] = [""]
+        part_details["description_main"] = "raspberry_pi_2350"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["part_number_distributor_cpc"] = "SC1631"
+
+        part_details["short_name"] = ""
+        pins = copy.deepcopy(pins_pico)
+        part_details["pins"] = pins
+        part_details["kicad_reference"] = "BB"
+        part_details["notes"] = []
+        parts.append(part_details)  
+
+        
+
+        
 
     # motor driver
     #      stepper motor

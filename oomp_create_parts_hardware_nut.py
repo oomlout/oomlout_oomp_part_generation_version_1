@@ -19,6 +19,20 @@ def load_parts(**kwargs):
         part_details["kicad_reference"] = ""
         parts.append(part_details)    
 
+    # cage
+    if True:
+        part_details = {}
+        part_details["classification"] = "hardware"
+        part_details["type"] = ["nut"]    
+        part_details["size"] = ["m5","m6","m8"]
+        part_details["color"] = [""]    
+        part_details["description_main"] = ["cage"]    
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["kicad_reference"] = ""
+        parts.append(part_details)    
+
     # standard
     if True:
         part_details = {}
