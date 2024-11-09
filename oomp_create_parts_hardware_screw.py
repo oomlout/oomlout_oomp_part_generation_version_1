@@ -91,25 +91,31 @@ def load_parts(**kwargs):
         extras_sizes["m2"] = [3,4,5,6,8,10,12,14,16,20,22,25]
         extras_sizes["m2_5"] = [3,4,5,6,8,10,12,14,16,20,22,25]
         extras_sizes["m3"] = [4,5,6,8,10,12,14,16,18,20,22,25,30]
+        extras_sizes["m4"] = [5,6,8,10,12,14,16,18,20,22,25,30,35,40]
+        extras_sizes["m5"] = [6,8,10,12,14,16,18,20,22,25,30,35,40]
+        extras_sizes["m6"] = [6,8,10,12,14,16,18,20,22,25,30,35,40,45,50]
         
+        heads = ["phillips_head", "hex_head"]
+
         for size in extras_sizes:
-            part_details = {}
-            part_details["classification"] = "hardware"
-            part_details["type"] = ["screw_flat_head"]
-            sizes = [size]
-            part_details["size"] = []
-            for size in sizes:
-                part_details["size"].append(f"{size}")
-            part_details["color"] = ["black"]
-            lengths = extras_sizes[size]
-            part_details["description_main"] = []
-            for length in lengths:
-                part_details["description_main"].append(f"{length}_mm_length")
-            part_details["description_extra"] = "phillips_head"
-            part_details["manufacturer"] = ""
-            part_details["part_number"] = ""
-            part_details["kicad_reference"] = ""
-            parts.append(part_details)    
+            for head in heads:
+                part_details = {}
+                part_details["classification"] = "hardware"
+                part_details["type"] = ["screw_flat_head"]
+                sizes = [size]
+                part_details["size"] = []
+                for size in sizes:
+                    part_details["size"].append(f"{size}")
+                part_details["color"] = ["black"]
+                lengths = extras_sizes[size]
+                part_details["description_main"] = []
+                for length in lengths:
+                    part_details["description_main"].append(f"{length}_mm_length")
+                part_details["description_extra"] = head
+                part_details["manufacturer"] = ""
+                part_details["part_number"] = ""
+                part_details["kicad_reference"] = ""
+                parts.append(part_details)    
     
     #screw_machine_screw pozi drive
     if True:
