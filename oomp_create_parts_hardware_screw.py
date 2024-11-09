@@ -90,6 +90,7 @@ def load_parts(**kwargs):
         extras_sizes = {}
         extras_sizes["m2"] = [3,4,5,6,8,10,12,14,16,20,22,25]
         extras_sizes["m2_5"] = [3,4,5,6,8,10,12,14,16,20,22,25]
+        extras_sizes["m3"] = [4,5,6,8,10,12,14,16,18,20,22,25,30]
         
         for size in extras_sizes:
             part_details = {}
