@@ -79,7 +79,10 @@ part_types.append("stationery")
 
 part_types.append("storage")
 
+part_types.append("three_d_printer")
 part_types.append("three_d_printer_filament")
+part_types.append("three_d_printer_printer")
+
 
 part_types.append("tool")
 
