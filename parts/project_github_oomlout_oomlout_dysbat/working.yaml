@@ -1,0 +1,88 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_dysbat
+color_capital: Oomlout Dysbat
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_DYSBAT
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_dysbat
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_dysbat
+id: project_github_oomlout_oomlout_dysbat
+id_no_class: github_oomlout_oomlout_dysbat
+id_no_size: dysbat
+id_no_type: oomlout_oomlout_dysbat
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_dysbat
+link_redirect: https://github.com/oomlout/oomlout-DYSBAT
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_dysbat](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_dysbat)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_dysbat)<br>[Project
+    Github Oomlout Oomlout Dysbat](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_dysbat)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_dysbat](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_dysbat)<br><br>'
+md5: 461f559133c9daff8d99811cb916a2fa
+md5_10: 461f559133
+md5_10_upper: 461F559133
+md5_5: 461f5
+md5_5_upper: 461F5
+md5_6: 461f55
+md5_6_alpha: 2qhxx
+md5_6_alpha_upper: 2QHXX
+md5_6_upper: 461F55
+name: Project Github Oomlout Oomlout Dysbat
+name_no_class: Github Oomlout Oomlout Dysbat
+name_no_size: Dysbat
+name_no_size_short: Dysbat
+name_no_type: Oomlout Oomlout Dysbat
+oomp_key: oomp_project_github_oomlout_oomlout_dysbat
+oomp_word: bird princess dolphin
+oomp_word_emoji: ':bird: :princess: :dolphin:'
+oomp_word_emoji_list:
+- ':bird:'
+- ':princess:'
+- ':dolphin:'
+oomp_word_list:
+- bird
+- princess
+- dolphin
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

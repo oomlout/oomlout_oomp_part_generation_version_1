@@ -1,0 +1,88 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_bolt_tool_spacers
+color_capital: Oomlout Bolt Tool Spacers
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_BOLT_TOOL_SPACERS
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_bolt_tool_spacers
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_tool_spacers
+id: project_github_oomlout_oomlout_bolt_tool_spacers
+id_no_class: github_oomlout_oomlout_bolt_tool_spacers
+id_no_size: bolt_tool_spacers
+id_no_type: oomlout_oomlout_bolt_tool_spacers
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_tool_spacers
+link_redirect: https://github.com/oomlout/oomlout_bolt_tool_spacers
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_bolt_tool_spacers](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_tool_spacers)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_tool_spacers)<br>[Project
+    Github Oomlout Oomlout Bolt Tool Spacers](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_tool_spacers)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_bolt_tool_spacers](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_tool_spacers)<br><br>'
+md5: 9723d1557d9d09904dad7443e5d6e126
+md5_10: 9723d1557d
+md5_10_upper: 9723D1557D
+md5_5: 9723d
+md5_5_upper: 9723D
+md5_6: 9723d1
+md5_6_alpha: 5watt
+md5_6_alpha_upper: 5WATT
+md5_6_upper: 9723D1
+name: Project Github Oomlout Oomlout Bolt Tool Spacers
+name_no_class: Github Oomlout Oomlout Bolt Tool Spacers
+name_no_size: Bolt Tool Spacers
+name_no_size_short: Bolt Tool Spacers
+name_no_type: Oomlout Oomlout Bolt Tool Spacers
+oomp_key: oomp_project_github_oomlout_oomlout_bolt_tool_spacers
+oomp_word: baseball kiss pear
+oomp_word_emoji: ':baseball: :kiss: :pear:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':kiss:'
+- ':pear:'
+oomp_word_list:
+- baseball
+- kiss
+- pear
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

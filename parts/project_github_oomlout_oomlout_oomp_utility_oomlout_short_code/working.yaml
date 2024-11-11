@@ -1,0 +1,88 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_oomp_utility_oomlout_short_code
+color_capital: Oomlout Oomp Utility Oomlout Short Code
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_OOMP_UTILITY_OOMLOUT_SHORT_CODE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_oomp_utility_oomlout_short_code
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_oomlout_short_code
+id: project_github_oomlout_oomlout_oomp_utility_oomlout_short_code
+id_no_class: github_oomlout_oomlout_oomp_utility_oomlout_short_code
+id_no_size: oomp_utility_short_code
+id_no_type: oomlout_oomlout_oomp_utility_oomlout_short_code
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_oomlout_short_code
+link_redirect: https://github.com/oomlout/oomlout_oomp_utility_oomlout_short_code
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oomp_utility_oomlout_short_code](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_oomlout_short_code)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_oomlout_short_code)<br>[Project
+    Github Oomlout Oomlout Oomp Utility Oomlout Short Code](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_oomlout_short_code)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oomp_utility_oomlout_short_code](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_oomlout_short_code)<br><br>'
+md5: 3c06139b10f688737d8d53fc901f8986
+md5_10: 3c06139b10
+md5_10_upper: 3C06139B10
+md5_5: 3c061
+md5_5_upper: 3C061
+md5_6: 3c0613
+md5_6_alpha: 2cb9v
+md5_6_alpha_upper: 2CB9V
+md5_6_upper: 3C0613
+name: Project Github Oomlout Oomlout Oomp Utility Oomlout Short Code
+name_no_class: Github Oomlout Oomlout Oomp Utility Oomlout Short Code
+name_no_size: Oomp Utility Short Code
+name_no_size_short: Oomp Utility Short Code
+name_no_type: Oomlout Oomlout Oomp Utility Oomlout Short Code
+oomp_key: oomp_project_github_oomlout_oomlout_oomp_utility_oomlout_short_code
+oomp_word: pig sleeping question
+oomp_word_emoji: ':pig: :sleeping: :question:'
+oomp_word_emoji_list:
+- ':pig:'
+- ':sleeping:'
+- ':question:'
+oomp_word_list:
+- pig
+- sleeping
+- question
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

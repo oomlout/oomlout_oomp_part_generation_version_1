@@ -1,0 +1,88 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_oomp_footprint_src
+color_capital: Oomlout Oomp Footprint Src
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_OOMP_FOOTPRINT_SRC
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_oomp_footprint_src
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_src
+id: project_github_oomlout_oomlout_oomp_footprint_src
+id_no_class: github_oomlout_oomlout_oomp_footprint_src
+id_no_size: oomp_footprint_src
+id_no_type: oomlout_oomlout_oomp_footprint_src
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_src
+link_redirect: https://github.com/oomlout/oomlout_oomp_footprint_src
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oomp_footprint_src](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_src)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_src)<br>[Project
+    Github Oomlout Oomlout Oomp Footprint Src](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_src)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oomp_footprint_src](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_src)<br><br>'
+md5: 3f92ae915889d6869fc19d33bf17f4e0
+md5_10: 3f92ae9158
+md5_10_upper: 3F92AE9158
+md5_5: 3f92a
+md5_5_upper: 3F92A
+md5_6: 3f92ae
+md5_6_alpha: 2har2
+md5_6_alpha_upper: 2HAR2
+md5_6_upper: 3F92AE
+name: Project Github Oomlout Oomlout Oomp Footprint Src
+name_no_class: Github Oomlout Oomlout Oomp Footprint Src
+name_no_size: Oomp Footprint Src
+name_no_size_short: Oomp Footprint Src
+name_no_type: Oomlout Oomlout Oomp Footprint Src
+oomp_key: oomp_project_github_oomlout_oomlout_oomp_footprint_src
+oomp_word: horse paperclip jeans
+oomp_word_emoji: ':horse: :paperclip: :jeans:'
+oomp_word_emoji_list:
+- ':horse:'
+- ':paperclip:'
+- ':jeans:'
+oomp_word_list:
+- horse
+- paperclip
+- jeans
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

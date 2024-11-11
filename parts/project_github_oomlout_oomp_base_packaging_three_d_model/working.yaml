@@ -1,0 +1,88 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomp_base_packaging_three_d_model
+color_capital: Oomp Base Packaging Three D Model
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMP_BASE_PACKAGING_THREE_D_MODEL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomp_base_packaging_three_d_model
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_three_d_model
+id: project_github_oomlout_oomp_base_packaging_three_d_model
+id_no_class: github_oomlout_oomp_base_packaging_three_d_model
+id_no_size: oomp_base_packaging_three_d_model
+id_no_type: oomlout_oomp_base_packaging_three_d_model
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_three_d_model
+link_redirect: https://github.com/oomlout/oomp_base_packaging_three_d_model
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomp_base_packaging_three_d_model](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_three_d_model)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_three_d_model)<br>[Project
+    Github Oomlout Oomp Base Packaging Three D Model](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_three_d_model)<br><br>'
+markdown_short: '[project_github_oomlout_oomp_base_packaging_three_d_model](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_three_d_model)<br><br>'
+md5: 47409a80a9c53b97b6eb34eb29c5024d
+md5_10: 47409a80a9
+md5_10_upper: 47409A80A9
+md5_5: '47409'
+md5_5_upper: '47409'
+md5_6: 47409a
+md5_6_alpha: 2s32y
+md5_6_alpha_upper: 2S32Y
+md5_6_upper: 47409A
+name: Project Github Oomlout Oomp Base Packaging Three D Model
+name_no_class: Github Oomlout Oomp Base Packaging Three D Model
+name_no_size: Oomp Base Packaging Three D Model
+name_no_size_short: Oomp Base Packaging Three D Model
+name_no_type: Oomlout Oomp Base Packaging Three D Model
+oomp_key: oomp_project_github_oomlout_oomp_base_packaging_three_d_model
+oomp_word: baby_chick racehorse golf
+oomp_word_emoji: ':baby_chick: :racehorse: :golf:'
+oomp_word_emoji_list:
+- ':baby_chick:'
+- ':racehorse:'
+- ':golf:'
+oomp_word_list:
+- baby_chick
+- racehorse
+- golf
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB
