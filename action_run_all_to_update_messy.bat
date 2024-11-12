@@ -1,3 +1,10 @@
+REM 
+REM NO LONGER USED
+REM
+
+
+
+
 REM store the start time
 set start_time=%time%
 REM run the full process
