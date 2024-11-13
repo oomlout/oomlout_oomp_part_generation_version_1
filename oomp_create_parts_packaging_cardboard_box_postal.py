@@ -127,6 +127,10 @@ def load_parts(**kwargs):
         part_details["color"] = ["kraft"]
         part_details["description_main"] = ""
         part_details["description_extra"] = ""
+
+        sheet_base = copy.deepcopy(part_details)
+
+        part_details = copy.deepcopy(sheet_base)
         part_details["manufacturer"] = "oomlout"
         part_details["part_number"] = "bolt_tin_pad_1"
         part_details["short_name"] = ""  
@@ -134,11 +138,13 @@ def load_parts(**kwargs):
         part_details["link_purchase"] = [""]
         parts.append(part_details)
 
-        sheet_base = copy.deepcopy(part_details)
+        
 
         #wrapper
         part_details = copy.deepcopy(sheet_base)
         part_details["size"] = ["200_mm_width_344_mm_length_3_5_mm_depth"]
+        part_details["manufacturer"] = "oomlout"
+        part_details["part_number"] = "bolt_tin_outer_wrap_1"
         parts.append(part_details)
 
 
