@@ -1,4 +1,5 @@
 import oomp
+import copy
 
 def load_parts(**kwargs):
     make_files = kwargs.get("make_files", True)
@@ -116,20 +117,31 @@ def load_parts(**kwargs):
     part_details["link_purchase"] = ["https://www.rajapack.co.uk/protective-packaging/paper-packaging/corrugated-cardboard-rolls_PDT05562.html"]
     parts.append(part_details)
 
-    #piece for bolt tin
-    part_details = {}
-    part_details["classification"] = "packaging"
-    part_details["type"] = "cardboard_roll"
-    part_details["size"] = ["56_mm_width_136_mm_length_3_5_mm_depth"]
-    part_details["color"] = ["kraft"]
-    part_details["description_main"] = ""
-    part_details["description_extra"] = ""
-    part_details["manufacturer"] = "oomlout"
-    part_details["part_number"] = "bolt_tin_pad_1"
-    part_details["short_name"] = ""  
-    part_details["cost_per"] = "£0.02"    
-    part_details["link_purchase"] = [""]
-    parts.append(part_details)
+    #cardboard pieces
+    if True:
+        #insert for bolt tin two per tin
+        part_details = {}
+        part_details["classification"] = "packaging"
+        part_details["type"] = "cardboard_roll"
+        part_details["size"] = ["56_mm_width_136_mm_length_3_5_mm_depth"]
+        part_details["color"] = ["kraft"]
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "oomlout"
+        part_details["part_number"] = "bolt_tin_pad_1"
+        part_details["short_name"] = ""  
+        part_details["cost_per"] = "£0.02"    
+        part_details["link_purchase"] = [""]
+        parts.append(part_details)
+
+        sheet_base = copy.deepcopy(part_details)
+
+        #wrapper
+        part_details = copy.deepcopy(sheet_base)
+        part_details["size"] = ["200_mm_width_344_mm_length_3_5_mm_depth"]
+        parts.append(part_details)
+
+
 
     oomp.add_parts(parts, make_files=make_files)
     

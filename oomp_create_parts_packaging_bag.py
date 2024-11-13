@@ -50,5 +50,20 @@ def load_parts(**kwargs):
     parts.append(part_details)    
     
 
+    #oomlout
+    if True:
+        part_details = {}
+        part_details["classification"] = "packaging"
+        part_details["type"] = "bag_grip_seal"
+        part_details["size"] = ["100_micron_thickness"]
+        part_details["color"] = ["clear_front_silver_back"]
+        part_details["description_main"] = "115_mm_width_170_mm_height"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""  
+        parts.append(part_details)    
+        
+
     oomp.add_parts(parts, make_files=make_files)
     
