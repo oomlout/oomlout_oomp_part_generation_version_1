@@ -7,7 +7,18 @@ def load_parts(**kwargs):
     
     parts = []
 
-    
+    # parts
+    part_details = {}
+    part_details["classification"] = "three_d_printer"
+    part_details["type"] = "part"
+    part_details["size"] = "category"
+    part_details["color"] = ""
+    part_details["description_main"] = ""
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["short_name"] = ""  
+    parts.append(part_details) 
 
     # parts
     part_details = {}

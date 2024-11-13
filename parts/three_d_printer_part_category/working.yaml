@@ -1,0 +1,86 @@
+classification: three_d_printer
+classification_capital: Three D Printer
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: THREE_D_PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/three_d_printer_part_category
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_category
+id: three_d_printer_part_category
+id_no_class: part_category
+id_no_size: category
+id_no_type: category
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_category
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[three_d_printer_part_category](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_category)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_category)<br>[Three
+    D Printer Part Category](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_category)<br><br>'
+markdown_short: '[three_d_printer_part_category](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_category)<br><br>'
+md5: 0d48ee12ca46176cab8574200a426d1b
+md5_10: 0d48ee12ca
+md5_10_upper: 0D48EE12CA
+md5_5: 0d48e
+md5_5_upper: 0D48E
+md5_6: 0d48ee
+md5_6_alpha: inse
+md5_6_alpha_upper: INSE
+md5_6_upper: 0D48EE
+name: Three D Printer Part Category
+name_no_class: Part Category
+name_no_size: Category
+name_no_size_short: Category
+name_no_type: Category
+oomp_key: oomp_three_d_printer_part_category
+oomp_word: heart hatched_chick ambulance
+oomp_word_emoji: ':heart: :hatched_chick: :ambulance:'
+oomp_word_emoji_list:
+- ':heart:'
+- ':hatched_chick:'
+- ':ambulance:'
+oomp_word_list:
+- heart
+- hatched_chick
+- ambulance
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: category
+size_capital: Category
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CATEGORY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART
