@@ -36,6 +36,7 @@ def load_parts(**kwargs):
     part_details["part_number"] = "dupicator_i3_plus"
     part_details["short_name"] = ""  
     parts.append(part_details)    
+    
     part_details = {}
     part_details["classification"] = "three_d_printer"
     part_details["type"] = "printer"
@@ -47,6 +48,27 @@ def load_parts(**kwargs):
     part_details["part_number"] = "vyper"
     part_details["short_name"] = ""  
     parts.append(part_details)    
+
+    #spare parts
+    #anycubic vyper category
+    part_details = {}
+    part_details["classification"] = "three_d_printer"
+    part_details["type"] = "spare_part"
+    part_details["size"] = ["anycubic_vyper"]
+    part_details["color"] = ["category"]   
+    
+    #anycubic vyper hotend
+    part_details = {}
+    part_details["classification"] = "three_d_printer"
+    part_details["type"] = "spare_part"
+    part_details["size"] = ["anycubic_vyper"]
+    part_details["color"] = [""]
+    part_details["description_main"] = "hotend"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["short_name"] = "Anycubic Vyper Hotend"
+    parts.append(part_details)
 
     
 
