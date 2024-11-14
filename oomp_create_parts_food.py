@@ -101,7 +101,7 @@ def load_parts(**kwargs):
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "flour"
         part_details["color"] = "white"
-        part_details["description"] = "flour self raising"
+        part_details["description"] = "flour_self_raising"
         part_details["name_short"] = "Flour Self Raising"
         parts.append(part_details)
         
@@ -110,35 +110,42 @@ def load_parts(**kwargs):
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "sugar"
         part_details["color"] = "caster"
-        part_details["description"] = "sugar caster"
+        part_details["description"] = "sugar_caster"
         part_details["name_short"] = "Sugar Caster"
         parts.append(part_details)
 
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "sugar"
         part_details["color"] = "granulated"
-        part_details["description"] = "sugar granulated"
+        part_details["description"] = "sugar_granulated"
         part_details["name_short"] = "Sugar Granulated"
+        parts.append(part_details)
+        
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "sugar"
+        part_details["color"] = "granulated"
+        part_details["description"] = "sugar_granulated_golden"
+        part_details["name_short"] = "Sugar Golden Granulated Coffee"
         parts.append(part_details)
 
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "sugar"
         part_details["color"] = "icing"
-        part_details["description"] = "sugar icing"
+        part_details["description"] = "sugar_icing"
         part_details["name_short"] = "Sugar Icing"
         parts.append(part_details)
 
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "sugar"
         part_details["color"] = "light_brown"
-        part_details["description"] = "sugar light brown"
+        part_details["description"] = "sugar_light_brown"
         part_details["name_short"] = "Sugar Light Brown"
         parts.append(part_details)
 
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "sugar"
         part_details["color"] = "muscavado"
-        part_details["description"] = "sugar muscavado"
+        part_details["description"] = "sugar_muscavado"
         part_details["name_short"] = "Sugar Muscavado"
         parts.append(part_details)
 
@@ -240,7 +247,8 @@ def load_parts(**kwargs):
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "2000_ml"
         part_details["description_main"] = "milk_semi_skim"
-        part_details["description_extra"] = "cravendale_filtered"
+        part_details["description_extra"] = "filtered"
+        part_details["manufacturer"] = "cravendale"
         part_details["part_number_distributor_ocado"] = "24581011"
         part_details["link_distributor_ocado"] = "https://www.ocado.com/search?entry=24581011"        
         parts.append(part_details)
@@ -402,7 +410,7 @@ def load_parts(**kwargs):
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "oats"
         part_details["color"] = "porridge"
-        part_details["description"] = "oats porridge"
+        part_details["description"] = "oats_porridge"
         part_details["name_short"] = "Oats Porridge"
         parts.append(part_details)
 
@@ -410,14 +418,14 @@ def load_parts(**kwargs):
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "pasta"
         part_details["color"] = "penne"
-        part_details["description"] = "pasta penne"
+        part_details["description"] = "pasta_penne"
         part_details["name_short"] = "Pasta Penne"
         parts.append(part_details)
 
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "pasta"
         part_details["color"] = "spaghetti"
-        part_details["description"] = "pasta spaghetti"
+        part_details["description"] = "pasta_spaghetti"
         part_details["name_short"] = "Pasta Spaghetti"
         parts.append(part_details)
 
@@ -432,7 +440,7 @@ def load_parts(**kwargs):
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "pasta"
         part_details["color"] = "fusilli"
-        part_details["description"] = "pasta fusilli"
+        part_details["description"] = "pasta_fusilli"
         part_details["name_short"] = "Pasta Fusilli"
         parts.append(part_details)
 
@@ -450,14 +458,14 @@ def load_parts(**kwargs):
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "rice"
         part_details["color"] = "dong_bei"
-        part_details["description"] = "rice dong bei"
+        part_details["description"] = "rice_dong_bei"
         part_details["name_short"] = "Rice Dong Bei"
         parts.append(part_details)
 
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "rice"
         part_details["color"] = "basmati"
-        part_details["description"] = "rice basmati"
+        part_details["description"] = "rice_basmati"
         part_details["name_short"] = "Rice Basmati"
         parts.append(part_details)
 
