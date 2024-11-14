@@ -40,6 +40,48 @@ def load_parts(**kwargs):
         part_details["description"] = "M&S Soft Tortilla Wraps"
         parts.append(part_details)
 
+    # bean
+    if True:
+        part_details = {}
+        part_details["classification"] = "food"
+        part_details["type"] = "bean"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        
+        current_default = copy.deepcopy(part_details)
+
+        # 59104011	Ocado Baked Beans in Tomato Sauce	04/10/2024
+        part_details = copy.deepcopy(current_default)
+        
+        part_details["description_main"] = "chickpea"
+        part_details["description_extra"] = "tin_400_gram"
+        part_details["name_short"] = "Chickenpeas"
+        parts.append(part_details)
+
+        #kidney beans
+        part_details = copy.deepcopy(current_default)
+        part_details["description_main"] = "kidney_bean"
+        part_details["description_extra"] = "tin_400_gram"
+        part_details["name_short"] = "Kidney Beans"
+        parts.append(part_details)
+
+        #adzuki
+        part_details = copy.deepcopy(current_default)
+        part_details["description_main"] = "adzuki_bean"
+        part_details["description_extra"] = "tin_400_gram"
+        part_details["name_short"] = "Adzuki Beans"
+
+        #elpaso refried beans
+        part_details = copy.deepcopy(current_default)
+        part_details["description_main"] = "refried_bean"
+        part_details["description_extra"] = "tin_435_gram"
+        part_details["manufacturer"] = "elpaso"
+        part_details["name_short"] = "Refried Beans"
+        parts.append(part_details)
+
     # baking
     if True:
         part_details = {}
@@ -100,6 +142,88 @@ def load_parts(**kwargs):
         part_details["name_short"] = "Sugar Muscavado"
         parts.append(part_details)
 
+    #condiment
+    if True:
+        part_details = {}
+        part_details["classification"] = "food"
+        part_details["type"] = "condiment"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        
+        current_default = copy.deepcopy(part_details)
+
+        part_details = copy.deepcopy(current_default)
+        part_details["color"] = "jam"
+        part_details["description_main"] = "strawberry"
+        part_details["description_extra"] = "jar_370_gram"
+        part_details["manufacturer"] = "bonne_maman"
+        part_details["name_short"] = "Strawberry Jam"
+        parts.append(part_details)
+
+        jam_default = copy.deepcopy(part_details)
+        jam_default["description_main"] = ""
+
+        #apricot
+        part_details = copy.deepcopy(jam_default)
+        part_details["description_main"] = "apricot"
+        part_details["name_short"] = "Apricot Jam"
+        parts.append(part_details)
+
+        #marmalade
+        part_details = copy.deepcopy(jam_default)
+        part_details["description_main"] = "marmalade"
+        part_details["name_short"] = "Marmalade"
+        parts.append(part_details)
+
+        #raspberrry
+        part_details = copy.deepcopy(jam_default)
+        part_details["description_main"] = "raspberry"
+        part_details["name_short"] = "Raspberry Jam"
+        parts.append(part_details)
+
+        #ketchup
+        part_details = copy.deepcopy(current_default)
+        part_details["color"] = "savoury"
+        part_details["description_main"] = "ketchup"
+        part_details["description_extra"] = "bottle_squeeze_910_gram"
+        part_details["manufacturer"] = "heinz"
+        part_details["name_short"] = "Ketchup"
+        parts.append(part_details)
+
+
+        #salsa
+        part_details = copy.deepcopy(current_default)
+        part_details["color"] = "savoury"
+        part_details["description_main"] = "salsa_red"
+        part_details["description_extra"] = "jar_240_gram"
+        part_details["manufacturer"] = "herdez"
+        part_details["name_short"] = "Salsa Red"
+        parts.append(part_details)
+
+        salsa_default = copy.deepcopy(part_details)
+        salsa_default["description_main"] = ""
+
+        #salsa_green
+        part_details = copy.deepcopy(salsa_default)
+        part_details["description_main"] = "salsa_green"
+        part_details["name_short"] = "Salsa Green"
+        parts.append(part_details)
+
+        #salad dressing
+        part_details = copy.deepcopy(current_default)
+        part_details["color"] = "salad_dressing"
+        part_details["description_main"] = "ranch"
+        part_details["description_extra"] = "bottle_250_ml"
+        part_details["manufacturer"] = "newmans_own"
+        part_details["name_short"] = "Ranch Salad Dressing"
+        parts.append(part_details)
+
+
+
+
     # dairy
     if True:
         part_details = {}
@@ -140,6 +264,29 @@ def load_parts(**kwargs):
         part_details["description"] = "Cathedral City Mature Cheddar Cheese"
         parts.append(part_details)
 
+    # drink
+    if True:
+        part_details = {}
+        part_details["classification"] = "food"
+        part_details["type"] = "drink"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        
+        current_default = copy.deepcopy(part_details)
+
+        # 24081011	Ocado Still Spring Water	04/10/2024
+        part_details = copy.deepcopy(current_default)
+        #size coffee
+        part_details["size"] = "coffee"
+        part_details["color"] = "instant"
+        part_details["description_main"] = "espresso"
+        part_details["description_extra"] = "jar_95_gram"
+        part_details["manufacturer"] = "nescafe"
+        part_details["name_short"] = "Instant Coffee Espresso"
+        parts.append(part_details)
     # fruit
     if True:
         part_details = {}
@@ -193,6 +340,50 @@ def load_parts(**kwargs):
         part_details["description"] = "M&S Select Farms British 12 Pork Chipolatas"
         parts.append(part_details)
 
+        #tinned tuna
+        part_details = copy.deepcopy(current_default)
+        part_details["description_main"] = "tuna_in_sunflower_oil"
+        part_details["description_extra"] = "tin_125_gram"
+        part_details["name_short"] = "Tuna in Sunflower Oil"
+        parts.append(part_details)
+
+    # pantry_imgredient
+    if True:
+        part_details = {}
+        part_details["classification"] = "food"
+        part_details["type"] = "pantry"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        
+        current_default = copy.deepcopy(part_details)
+        
+        part_details = copy.deepcopy(current_default)
+        part_details["color"] = "ingredient"
+        part_details["description_main"] = "coconut_milk"
+        part_details["description_extra"] = "tin_400_ml"
+        parts.append(part_details)
+
+        #tin of tomatoes
+        part_details = copy.deepcopy(current_default)
+        part_details["color"] = "ingredient"
+        part_details["description_main"] = "tomatoes"
+        part_details["description_extra"] = "tin_400_gram"
+        part_details["manufacturer"] = "cirio"
+        part_details["name_short"] = "Tomatoes Tinned"
+        parts.append(part_details)
+
+        #pasta sauce
+        part_details = copy.deepcopy(current_default)
+        part_details["color"] = "ingredient"
+        part_details["description_main"] = "pasta_sauce_tomato_and_roasted_garlic"
+        part_details["description_extra"] = "jar_350_gram"
+        part_details["manufacturer"] = "loyd_grossman"
+        part_details["name_short"] = "Pasta Sauce Tomato and Roasted Garlic"
+        parts.append(part_details)
+
     # starch
     if True:
         part_details = {}
@@ -230,12 +421,26 @@ def load_parts(**kwargs):
         part_details["name_short"] = "Pasta Spaghetti"
         parts.append(part_details)
 
+        spaghetti_default = copy.deepcopy(part_details)
+
+        part_details = copy.deepcopy(spaghetti_default)
+        part_details["description_extra"] = "box_500_gram"
+        part_details["manufacturer"] = "barilla"
+        part_details["name_short"] = "Pasta Spaghetti Box"
+        parts.append(part_details)
+
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "pasta"
         part_details["color"] = "fusilli"
         part_details["description"] = "pasta fusilli"
         part_details["name_short"] = "Pasta Fusilli"
         parts.append(part_details)
+
+        fusilli_default = copy.deepcopy(part_details)
+
+        part_details = copy.deepcopy(fusilli_default)
+        part_details["description_extra"] = "box_500_gram"
+        part_details["manufacturer"] = "barilla"
 
         
 
@@ -374,7 +579,22 @@ def load_parts(**kwargs):
         parts.append(part_details)
 
 
+        #canned items
+        current_default = copy.deepcopy(part_details)
+        #198 gram tin
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = ""
+        part_details["description_main"] = "sweetcorn"
+        part_details["description_extra"] = "tin_198_gram"
+        part_details["name_short"] = "Sweetcorn"
+        parts.append(part_details)
 
+        part_details = copy.deepcopy(current_default)
+        #340 gram tin
+        part_details["description_main"] = "sweetcorn"
+        part_details["description_extra"] = "tin_340_gram"
+        part_details["name_short"] = "Sweetcorn"
+        parts.append(part_details)
 
 
 
