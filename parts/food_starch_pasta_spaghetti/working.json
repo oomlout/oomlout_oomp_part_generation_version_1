@@ -10,7 +10,7 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "description": "pasta spaghetti",
+    "description": "pasta_spaghetti",
     "name_short": "Pasta Spaghetti",
     "classification_upper": "FOOD",
     "classification_capital": "Food",

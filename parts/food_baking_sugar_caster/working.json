@@ -10,7 +10,7 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "description": "sugar caster",
+    "description": "sugar_caster",
     "name_short": "Sugar Caster",
     "classification_upper": "FOOD",
     "classification_capital": "Food",

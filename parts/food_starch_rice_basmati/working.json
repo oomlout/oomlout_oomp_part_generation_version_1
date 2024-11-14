@@ -10,7 +10,7 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "description": "rice basmati",
+    "description": "rice_basmati",
     "name_short": "Rice Basmati",
     "classification_upper": "FOOD",
     "classification_capital": "Food",

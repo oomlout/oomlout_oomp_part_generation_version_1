@@ -10,7 +10,7 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "description": "oats porridge",
+    "description": "oats_porridge",
     "name_short": "Oats Porridge",
     "classification_upper": "FOOD",
     "classification_capital": "Food",

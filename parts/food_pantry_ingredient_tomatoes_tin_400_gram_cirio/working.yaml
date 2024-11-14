@@ -1,0 +1,88 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ingredient
+color_capital: Ingredient
+color_first_letter: i
+color_first_letter_upper: I
+color_upper: INGREDIENT
+description_extra: tin_400_gram
+description_extra_capital: Tin 400 Gram
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TIN_400_GRAM
+description_main: tomatoes
+description_main_capital: Tomatoes
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TOMATOES
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'I '
+description_or_color_upper: 'I '
+directory: parts/food_pantry_ingredient_tomatoes_tin_400_gram_cirio
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_tomatoes_tin_400_gram_cirio
+id: food_pantry_ingredient_tomatoes_tin_400_gram_cirio
+id_no_class: pantry_ingredient_tomatoes_tin_400_gram_cirio
+id_no_size: ingredienttomatoestin400gramcirio
+id_no_type: ingredient_tomatoes_tin_400_gram_cirio
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_tomatoes_tin_400_gram_cirio
+manufacturer: cirio
+manufacturer_capital: Cirio
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CIRIO
+manufacturers: []
+markdown_full: '[food_pantry_ingredient_tomatoes_tin_400_gram_cirio](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_tomatoes_tin_400_gram_cirio)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_tomatoes_tin_400_gram_cirio)<br>[Food
+    Pantry Ingredient Tomatoes Tin 400 Gram Cirio](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_tomatoes_tin_400_gram_cirio)<br><br>'
+markdown_short: '[food_pantry_ingredient_tomatoes_tin_400_gram_cirio](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_tomatoes_tin_400_gram_cirio)<br><br>'
+md5: e7815501f6a24c3727eec5dbf4935edb
+md5_10: e7815501f6
+md5_10_upper: E7815501F6
+md5_5: e7815
+md5_5_upper: E7815
+md5_6: e78155
+md5_6_alpha: 916qd
+md5_6_alpha_upper: 916QD
+md5_6_upper: E78155
+name: Food Pantry Ingredient Tomatoes Tin 400 Gram Cirio
+name_no_class: Pantry Ingredient Tomatoes Tin 400 Gram Cirio
+name_no_size: Ingredienttomatoestin400Gramcirio
+name_no_size_short: Ingredienttomatoestin400Gramcirio
+name_no_type: Ingredient Tomatoes Tin 400 Gram Cirio
+name_short: Tomatoes Tinned
+oomp_key: oomp_food_pantry_ingredient_tomatoes_tin_400_gram_cirio
+oomp_word: helicopter watch dolphin
+oomp_word_emoji: ':helicopter: :watch: :dolphin:'
+oomp_word_emoji_list:
+- ':helicopter:'
+- ':watch:'
+- ':dolphin:'
+oomp_word_list:
+- helicopter
+- watch
+- dolphin
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: pantry
+type_capital: Pantry
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PANTRY
