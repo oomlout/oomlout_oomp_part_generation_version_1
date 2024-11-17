@@ -53,7 +53,7 @@ def load_parts(**kwargs):
         
         current_default = copy.deepcopy(part_details)
 
-        # 59104011	Ocado Baked Beans in Tomato Sauce	04/10/2024
+       
         part_details = copy.deepcopy(current_default)
         
         part_details["description_main"] = "chickpea"
@@ -295,6 +295,18 @@ def load_parts(**kwargs):
         part_details["manufacturer"] = "nescafe"
         part_details["name_short"] = "Instant Coffee Espresso"
         parts.append(part_details)
+
+        part_details = copy.deepcopy(current_default)
+        #size coffee
+        part_details["size"] = "coffee"
+        part_details["color"] = "ground_filter"
+        part_details["description_main"] = "classic"
+        part_details["description_extra"] = "tin_250_gram"
+        part_details["manufacturer"] = "illy"
+        part_details["name_short"] = "Ground Coffee Classic"
+        parts.append(part_details)
+
+
     # fruit
     if True:
         part_details = {}
@@ -374,18 +386,22 @@ def load_parts(**kwargs):
         part_details["description_extra"] = "tin_400_ml"
         parts.append(part_details)
 
-        #tin of tomatoes
-        part_details = copy.deepcopy(current_default)
-        part_details["color"] = "ingredient"
-        part_details["description_main"] = "tomatoes"
-        part_details["description_extra"] = "tin_400_gram"
-        part_details["manufacturer"] = "cirio"
-        part_details["name_short"] = "Tomatoes Tinned"
-        parts.append(part_details)
+    # pantry prepared    
+    if True:
+
+        part_details = {}
+        part_details["classification"] = "food"
+        part_details["type"] = "pantry"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+
 
         #pasta sauce
         part_details = copy.deepcopy(current_default)
-        part_details["color"] = "ingredient"
+        part_details["color"] = "prepared"
         part_details["description_main"] = "pasta_sauce_tomato_and_roasted_garlic"
         part_details["description_extra"] = "jar_350_gram"
         part_details["manufacturer"] = "loyd_grossman"
@@ -604,6 +620,15 @@ def load_parts(**kwargs):
         part_details["name_short"] = "Sweetcorn"
         parts.append(part_details)
 
+
+        #tin of tomatoes
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = ""
+        part_details["description_main"] = "tomatoes"
+        part_details["description_extra"] = "tin_400_gram"
+        part_details["manufacturer"] = "cirio"
+        part_details["name_short"] = "Tomatoes Tinned"
+        parts.append(part_details)
 
 
 
