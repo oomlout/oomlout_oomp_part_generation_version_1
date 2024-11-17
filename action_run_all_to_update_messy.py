@@ -6,14 +6,8 @@ import time
 start_time = time.time()
 
 # Run the full process
-"""
 os.chdir(r'C:\gh\oomlout_oomp_part_generation_version_1')
 subprocess.run(['python', 'action_setup_full.py'])
-"""
-
-import action_setup_full
-action_setup_full.main()
-os.chdir(r'C:\gh\oomlout_oomp_part_generation_version_1')
 subprocess.run(['git', 'add', '*'])
 subprocess.run(['git', 'commit', '-a', '-m', 'Full run through'])
 subprocess.run(['git', 'push'])

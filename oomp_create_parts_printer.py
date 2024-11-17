@@ -15,7 +15,7 @@ def load_parts(**kwargs):
     part_details["color"] = [""]
     part_details["description_main"] = ""
     part_details["description_extra"] = ""
-    part_details["manufacturer"] = "canon"
+    part_details["manufacturer"] = "canon_pixma"
     part_details["part_number"] = "ts5350"
     part_details["short_name"] = "Printer Canon TS5350"  
     parts.append(part_details)    

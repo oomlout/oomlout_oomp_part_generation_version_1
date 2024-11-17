@@ -76,6 +76,8 @@ part_types.append("paper")
 #printer
 part_types.append("printer")
 
+part_types.append("robot_vacuum")
+
 #stationary
 part_types.append("stationery")
 
