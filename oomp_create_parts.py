@@ -73,6 +73,8 @@ part_types.append("packaging_tin")
 part_types.append("paper")
 
 
+#printer
+part_types.append("printer")
 
 #stationary
 part_types.append("stationery")
