@@ -57,6 +57,7 @@ part_types.append("furniture_ikea")
 part_types.append("household")
 
 part_types.append("mechanical_motor")
+part_types.append("mechanical_wheel")
 
 part_types.append("oobb")
 

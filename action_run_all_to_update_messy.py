@@ -17,12 +17,9 @@ subprocess.run(['git', 'push'])
 
 
 #add  Z:\oomlout_oomp_current_version_messy to python path
-import sys
-sys.path.append(r'Z:\oomlout_oomp_current_version_messy')
-
-
-subprocess.run(['python', 'action_build_oomp.py'])
 os.chdir(r'Z:\oomlout_oomp_current_version_messy')
+subprocess.run(['python', 'action_build_oomp.py'])
+
 subprocess.run(['git', 'add', '*'])
 subprocess.run(['git', 'commit', '-a', '-m', 'Full run through'])
 subprocess.run(['git', 'push'])

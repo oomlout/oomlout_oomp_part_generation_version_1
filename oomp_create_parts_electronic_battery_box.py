@@ -18,16 +18,19 @@ def load_parts(**kwargs):
     part_details = {}
     part_details["classification"] = "electronic"
     part_details["type"] = "battery_box"
-    part_details["size"] = ["aa_battery"]
+    part_details["size"] = ["dewalt_xr"]
     part_details["color"] = [""]
-    part_details["description_main"] = "4_cell"
+    part_details["description_main"] = ""
     part_details["description_extra"] = ""
-    part_details["manufacturer"] = ""
-    part_details["part_number"] = ""
-    part_details["short_name"] = ""  
+    part_details["manufacturer"] = "aliexpress"
+    part_details["part_number"] = "diy_200"
+    part_details["part_number_exact"] = "DIY-200"
+    part_details["short_name"] = "Dewalt XR Battery Holder"  
     part_details["distributors"] = []
     parts.append(part_details)    
 
     
+    #dewalt 
+
     oomp.add_parts(parts, make_files=make_files)
     
