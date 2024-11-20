@@ -6,7 +6,7 @@ part_types = []
 
 
 
-
+part_types.append("aluminium_extrusion")
 
 part_types.append("camera")
 
