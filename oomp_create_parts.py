@@ -52,6 +52,7 @@ part_types.append("electronic_socket")
 
 part_types.append("food")
 
+part_types.append("furniture")
 part_types.append("furniture_ikea")
 
 part_types.append("household")

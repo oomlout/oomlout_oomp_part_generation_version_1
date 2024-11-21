@@ -11,6 +11,7 @@
     "make_files": true,
     "filter": "",
     "link_redirect": "https://github.com/oomlout/oomlout_laser_printer_experiment",
+    "link_github": "https://github.com/oomlout/oomlout_laser_printer_experiment",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",

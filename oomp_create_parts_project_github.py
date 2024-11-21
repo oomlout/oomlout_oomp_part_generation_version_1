@@ -58,6 +58,7 @@ def load_parts(**kwargs):
                 part_details["manufacturer"] = ""
                 part_details["part_number"] = ""
                 part_details["link_redirect"] = url
+                part_details["link_github"] = url
                 parts.append(part_details)
         page += 1
         

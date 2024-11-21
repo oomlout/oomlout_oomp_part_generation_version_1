@@ -11,6 +11,7 @@
     "make_files": true,
     "filter": "",
     "link_redirect": "https://github.com/oomlout/oomp_base_three_d_printer_three_d_model",
+    "link_github": "https://github.com/oomlout/oomp_base_three_d_printer_three_d_model",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",

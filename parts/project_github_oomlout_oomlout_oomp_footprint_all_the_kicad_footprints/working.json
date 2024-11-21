@@ -11,6 +11,7 @@
     "make_files": true,
     "filter": "",
     "link_redirect": "https://github.com/oomlout/oomlout_oomp_footprint_all_the_kicad_footprints",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_footprint_all_the_kicad_footprints",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",

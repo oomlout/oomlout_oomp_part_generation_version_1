@@ -13,8 +13,8 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["classification"] = "furniture"
         part_details["type"] = "shelf"
-        part_details["size"] = ["ikea_billy"]
-        part_details["color"] = ["white"]
+        part_details["size"] = "ikea_billy"
+        part_details["color"] = "white"
         part_details["description_main"] = ""
         part_details["description_extra"] = "800_mm_width_2370_mm_height_280_mm_depth"
         part_details["manufacturer"] = "ikea"
@@ -28,8 +28,8 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["classification"] = "furniture"
         part_details["type"] = "shelf"
-        part_details["size"] = ["ikea_billy"]
-        part_details["color"] = ["white"]
+        part_details["size"] = "ikea_billy"
+        part_details["color"] = "white"
         part_details["description_main"] = ""
         part_details["description_extra"] = "800_mm_width_2020_mm_height_280_mm_depth"
         part_details["manufacturer"] = "ikea"
@@ -42,8 +42,8 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["classification"] = "furniture"
         part_details["type"] = "shelf"
-        part_details["size"] = ["ikea_billy"]
-        part_details["color"] = ["white"]
+        part_details["size"] = "ikea_billy"
+        part_details["color"] = "white"
         part_details["description_main"] = ""
         part_details["description_extra"] = "800_mm_width_2020_mm_height_400_mm_depth"
         part_details["manufacturer"] = "ikea"
@@ -57,8 +57,8 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["classification"] = "furniture"
         part_details["type"] = "shelf"
-        part_details["size"] = ["ikea_billy"]
-        part_details["color"] = ["white"]
+        part_details["size"] = "ikea_billy"
+        part_details["color"] = "white"
         part_details["description_main"] = ""
         part_details["description_extra"] = "400_mm_width_2020_mm_height_280_mm_depth"
         part_details["manufacturer"] = "ikea"
@@ -72,8 +72,8 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["classification"] = "furniture"
         part_details["type"] = "shelf"
-        part_details["size"] = ["ikea_billy"]
-        part_details["color"] = ["white"]
+        part_details["size"] = "ikea_billy"
+        part_details["color"] = "white"
         part_details["description_main"] = ""
         part_details["description_extra"] = "800_mm_width_1060_mm_height_280_mm_depth"
         part_details["manufacturer"] = "ikea"
@@ -86,8 +86,8 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["classification"] = "furniture"
         part_details["type"] = "shelf"
-        part_details["size"] = ["ikea_billy"]
-        part_details["color"] = ["white"]
+        part_details["size"] = "ikea_billy"
+        part_details["color"] = "white"
         part_details["description_main"] = ""
         part_details["description_extra"] = "400_mm_width_1060_mm_height_280_mm_depth"
         part_details["manufacturer"] = "ikea"
@@ -100,8 +100,8 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["classification"] = "furniture"
         part_details["type"] = "shelf_extender"
-        part_details["size"] = ["ikea_billy"]
-        part_details["color"] = ["white"]
+        part_details["size"] = "ikea_billy"
+        part_details["color"] = "white"
         part_details["description_main"] = ""
         part_details["description_extra"] = "800_mm_width_350_mm_height_280_mm_depth"
         part_details["manufacturer"] = "ikea"
@@ -116,8 +116,8 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["classification"] = "furniture"
         part_details["type"] = "cabinet"
-        part_details["size"] = ["ikea_havsta"]
-        part_details["color"] = ["white"]
+        part_details["size"] = "ikea_havsta"
+        part_details["color"] = "white"
         part_details["description_main"] = ""
         part_details["description_extra"] = "810_mm_width_890_mm_height_470_mm_depth"
         part_details["manufacturer"] = "ikea"
@@ -127,14 +127,47 @@ def load_parts(**kwargs):
         part_details["depth"] = "470 mm"
         parts.append(part_details)
 
+    # hejne
+    if True:    
+        part_details = {}
+        part_details["classification"] = "furniture"
+        part_details["type"] = "shelf"
+        part_details["size"] = "ikea_hejne"
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = "780_mm_width_1710_mm_height_310_mm_depth"
+        part_details["manufacturer"] = "ikea"
+        part_details["part_number"] = "390_314_11"
+        part_details["width"] = "780 mm"
+        part_details["height"] = "1710 mm"
+        part_details["depth"] = "310 mm"
+        parts.append(part_details)
+
+    # gorm
+    if True:    
+        part_details = {}
+        part_details["classification"] = "furniture"
+        part_details["type"] = "shelf"
+        part_details["size"] = "ikea_gorm"
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = "780_mm_width_1740_mm_height_350_mm_depth"
+        part_details["manufacturer"] = "ikea"
+        part_details["part_number"] = ""
+        part_details["width"] = "780 mm"
+        part_details["height"] = "1740 mm"
+        part_details["depth"] = "350 mm"
+        parts.append(part_details)
+
+
     #   kallax
     if True:
         #5 by 5
         part_details = {}
         part_details["classification"] = "furniture"
         part_details["type"] = "shelf"
-        part_details["size"] = ["ikea_kallax"]
-        part_details["color"] = ["white"]
+        part_details["size"] = "ikea_kallax"
+        part_details["color"] = "white"
         part_details["description_main"] = "5_cell_width_5_cell_height"
         part_details["description_extra"] = "1820_mm_width_1820_mm_height_390_mm_depth"
         part_details["manufacturer"] = "ikea"
@@ -149,7 +182,7 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["classification"] = "furniture"
         part_details["type"] = "shelf"
-        part_details["size"] = ["ikea_kallax"]
+        part_details["size"] = "ikea_kallax"
         part_details["color"] = ["white"]
         part_details["description_main"] = "4_cell_width_4_cell_height"
         part_details["description_extra"] = "1470_mm_width_1470_mm_height_390_mm_depth"
@@ -164,8 +197,8 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["classification"] = "furniture"
         part_details["type"] = "shelf"
-        part_details["size"] = ["ikea_kallax"]
-        part_details["color"] = ["white"]
+        part_details["size"] = "ikea_kallax"
+        part_details["color"] = "white"
         part_details["description_main"] = "3_cell_width_4_cell_height"
         part_details["description_extra"] = "1120_mm_width_1470_mm_height_390_mm_depth"
         part_details["manufacturer"] = "ikea"
@@ -180,8 +213,8 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["classification"] = "furniture"
         part_details["type"] = "shelf"
-        part_details["size"] = ["ikea_kallax"]
-        part_details["color"] = ["white"]
+        part_details["size"] = "ikea_kallax"
+        part_details["color"] = "white"
         part_details["description_main"] = "2_cell_width_4_cell_height"
         part_details["description_extra"] = "770_mm_width_1470_mm_height_390_mm_depth"
         part_details["manufacturer"] = "ikea"
@@ -195,8 +228,8 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["classification"] = "furniture"
         part_details["type"] = "shelf"
-        part_details["size"] = ["ikea_kallax"]
-        part_details["color"] = ["white"]
+        part_details["size"] = "ikea_kallax"
+        part_details["color"] = "white"
         part_details["description_main"] = "1_cell_width_4_cell_height"
         part_details["description_extra"] = "390_mm_width_1470_mm_height_390_mm_depth"
         part_details["manufacturer"] = "ikea"
@@ -210,8 +243,8 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["classification"] = "furniture"
         part_details["type"] = "shelf"
-        part_details["size"] = ["ikea_kallax"]
-        part_details["color"] = ["white"]
+        part_details["size"] = "ikea_kallax"
+        part_details["color"] = "white"
         part_details["description_main"] = "2_cell_width_2_cell_height"
         part_details["description_extra"] = "770_mm_width_770_mm_height_390_mm_depth"
         part_details["manufacturer"] = "ikea"
@@ -225,8 +258,8 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["classification"] = "furniture"
         part_details["type"] = "shelf"
-        part_details["size"] = ["ikea_kallax"]
-        part_details["color"] = ["white"]
+        part_details["size"] = "ikea_kallax"
+        part_details["color"] = "white"
         part_details["description_main"] = "2_cell_width_1_cell_height"
         part_details["description_extra"] = "770_mm_width_390_mm_height_390_mm_depth"
         part_details["manufacturer"] = "ikea"

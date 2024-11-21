@@ -11,6 +11,7 @@
     "make_files": true,
     "filter": "",
     "link_redirect": "https://github.com/oomlout/oomlout_label_printing_python_flask_svg_replace",
+    "link_github": "https://github.com/oomlout/oomlout_label_printing_python_flask_svg_replace",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",

@@ -11,6 +11,7 @@
     "make_files": true,
     "filter": "",
     "link_redirect": "https://github.com/oomlout/DLSB-DRIVERBOARD-V1",
+    "link_github": "https://github.com/oomlout/DLSB-DRIVERBOARD-V1",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",

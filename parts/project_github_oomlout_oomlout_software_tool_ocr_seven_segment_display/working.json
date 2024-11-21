@@ -11,6 +11,7 @@
     "make_files": true,
     "filter": "",
     "link_redirect": "https://github.com/oomlout/oomlout_software_tool_ocr_seven_segment_display",
+    "link_github": "https://github.com/oomlout/oomlout_software_tool_ocr_seven_segment_display",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",

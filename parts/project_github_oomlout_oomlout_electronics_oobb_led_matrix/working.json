@@ -11,6 +11,7 @@
     "make_files": true,
     "filter": "",
     "link_redirect": "https://github.com/oomlout/oomlout_electronics_oobb_led_matrix",
+    "link_github": "https://github.com/oomlout/oomlout_electronics_oobb_led_matrix",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",

@@ -11,6 +11,7 @@
     "make_files": true,
     "filter": "",
     "link_redirect": "https://github.com/oomlout/oomlout_bolt_packaging_three_d_printed_version_2",
+    "link_github": "https://github.com/oomlout/oomlout_bolt_packaging_three_d_printed_version_2",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
