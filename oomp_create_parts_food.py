@@ -465,7 +465,7 @@ def load_parts(**kwargs):
         part_details = copy.deepcopy(fusilli_default)
         part_details["description_extra"] = "box_500_gram"
         part_details["manufacturer"] = "barilla"
-
+        parts.append(part_details)
         
 
 
