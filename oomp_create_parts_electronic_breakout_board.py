@@ -69,6 +69,10 @@ def load_parts(**kwargs):
         part_details["description_extra"] = "breakout_screw_terminal_3_5_mm_pitch"
         parts.append(part_details)
 
+        part_details = copy.deepcopy(shennie_default)
+        part_details["description_extra"] = "breakout_arduino_uno_footprint"
+        parts.append(part_details)
+
 
     #             pro_mini
     if True:
@@ -123,6 +127,8 @@ def load_parts(**kwargs):
         part_details["kicad_reference"] = "BB"
         part_details["notes"] = []
         parts.append(part_details)
+
+
 
     #      espressif 32c
     
@@ -269,6 +275,45 @@ def load_parts(**kwargs):
         
 
     # motor driver
+    #       dc motor
+    # l298n
+    if True:
+        part_details = {}
+        part_details["classification"] = "electronic"
+        part_details["type"] = "breakout_board_motor_driver"
+        part_details["size"] = ["l298n"]
+        part_details["color"] = ["dual_h_bridge"]
+        part_details["description_main"] = "25_mm_width_21_mm_length_red_pcb"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "aliexpress"
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""        
+        part_details["kicad_reference"] = "BB"
+        part_details["notes"] = []
+        parts.append(part_details)
+
+        l298_default = copy.deepcopy(part_details)
+
+    # l9110s
+    if True:
+        part_details = {}
+        part_details["classification"] = "electronic"
+        part_details["type"] = "breakout_board_motor_driver"
+        part_details["size"] = ["l9110s"]
+        part_details["color"] = ["dual_h_bridge"]
+        part_details["description_main"] = "29_mm_width_24_mm_length_blue_pcb_5_08_mm_pitch_screw_terminal"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "aliexpress"
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""        
+        part_details["kicad_reference"] = "BB"
+        part_details["notes"] = []
+        parts.append(part_details)
+
+        l9110s_default = copy.deepcopy(part_details)
+
+
+
     #      stepper motor
     # step stick
     if True:
@@ -320,6 +365,8 @@ def load_parts(**kwargs):
         part_details["short_name"] = ""
         part_details["notes"] = []
         parts.append(part_details)
+
+
 
     # servo tester
     if True:
