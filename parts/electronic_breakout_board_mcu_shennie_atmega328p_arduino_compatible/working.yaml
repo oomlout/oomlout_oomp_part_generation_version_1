@@ -9,33 +9,22 @@ color_first_letter: ''
 color_first_letter_upper: ''
 color_upper: ''
 description: A popular arduino compatible atmega328 board from aliexpress
-description_extra: arduino_compatible
-description_extra_capital: Arduino Compatible
-description_extra_first_letter: a
-description_extra_first_letter_upper: A
-description_extra_upper: ARDUINO_COMPATIBLE
-description_main: atmega328p
-description_main_capital: Atmega328P
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: atmega328p_arduino_compatible
+description_main_capital: Atmega328P Arduino Compatible
 description_main_first_letter: a
 description_main_first_letter_upper: A
-description_main_upper: ATMEGA328P
+description_main_upper: ATMEGA328P_ARDUINO_COMPATIBLE
 description_only_numbers: '328'
 description_only_numbers_short: '328'
 description_or_color: '328'
 description_or_color_upper: '328'
 directory: parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible
 distributors: []
-footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_module_arduino_nano_withmountingholes//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_module_arduino_nano_withmountingholes
-    note: source footprint kicad_module_arduino_nano_withmountingholes
-    oomp_key: oomp_kicad_module_arduino_nano_withmountingholes
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_sh328ac_electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_sh328ac_electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_sh328ac_electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible
 id: electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible
 id_no_class: breakout_board_mcu_shennie_atmega328p_arduino_compatible
@@ -49,7 +38,7 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible)<br>[sh328ac](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible)<br>[Electronic
+markdown_full: '[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible)<br>[sh](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible)<br>[Electronic
     Breakout Board Mcu Shennie Atmega328P Arduino Compatible](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible)<br><br>'
 markdown_short: '[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible)<br><br>'
 md5: ec6e64deaaeeed8781159de2634c8214
@@ -204,8 +193,8 @@ pins:
         name: d6
         number: '9'
         type: signal
-short_code: sh328ac
-short_code_upper: SH328AC
+short_code: sh
+short_code_upper: SH
 short_name: ''
 size: shennie
 size_capital: Shennie
@@ -214,11 +203,6 @@ size_first_letter_upper: S
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SHENNIE
-symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_module_arduino_nano_v2_x//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_module_arduino_nano_v2_x
-    oomp_key: oomp_kicad_mcu_module_arduino_nano_v2_x
 type: breakout_board_mcu
 type_capital: Breakout Board Mcu
 type_first_letter: b

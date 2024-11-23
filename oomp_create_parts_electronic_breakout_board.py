@@ -22,8 +22,8 @@ def load_parts(**kwargs):
         part_details["type"] = "breakout_board_mcu"
         part_details["size"] = ["shennie"]
         part_details["color"] = [""]
-        part_details["description_main"] = "atmega328p"
-        part_details["description_extra"] = "arduino_compatible"
+        part_details["description_main"] = "atmega328p_arduino_compatible"
+        part_details["description_extra"] = ""
         part_details["manufacturer"] = ""
         part_details["part_number"] = ""
         part_details["short_name"] = ""
@@ -63,6 +63,13 @@ def load_parts(**kwargs):
         part_details["notes"] = []
         parts.append(part_details)
 
+        shennie_default = copy.deepcopy(part_details)
+
+        part_details = copy.deepcopy(shennie_default)
+        part_details["description_extra"] = "breakout_screw_terminal_3_5_mm_pitch"
+        parts.append(part_details)
+
+
     #             pro_mini
     if True:
         part_details = {}
@@ -71,8 +78,8 @@ def load_parts(**kwargs):
         part_details["type"] = "breakout_board_mcu"
         part_details["size"] = ["pro_mini"]
         part_details["color"] = [""]
-        part_details["description_main"] = "atmega328p"
-        part_details["description_extra"] = "arduino_compatible"
+        part_details["description_main"] = "atmega328p_arduino_compatible"
+        part_details["description_extra"] = ""
         part_details["manufacturer"] = ""
         part_details["part_number"] = ""
         part_details["short_name"] = ""
@@ -329,6 +336,8 @@ def load_parts(**kwargs):
         part_details["short_name"] = ""
         part_details["notes"] = []
         parts.append(part_details)
+
+    # 
 
     oomp.add_parts(parts, make_files=make_files)
     
