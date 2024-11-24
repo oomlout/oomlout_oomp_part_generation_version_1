@@ -53,6 +53,8 @@ def load_parts(**kwargs):
     part_details["short_name"] = "Roomba 500 Motor Wheel Right Side"
     parts.append(part_details)
 
+
+
     part_details = {}
     part_details["classification"] = "robot_vacuum"
     part_details["type"] = "part"
@@ -65,6 +67,17 @@ def load_parts(**kwargs):
     part_details["short_name"] = "Roomba 500 Caster Wheel"  
     parts.append(part_details)    
    
+    part_details = {}
+    part_details["classification"] = "robot_vacuum"
+    part_details["type"] = "part"
+    part_details["size"] = "robot_vacuum_roomba_500_series"
+    part_details["color"] = "motor"
+    part_details["description_main"] = "wheel"
+    part_details["description_extra"] = "connector_pcb"
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["short_name"] = "Roomba 500 Motor Wheel Connector PCB"
+    parts.append(part_details)
 
 
 
