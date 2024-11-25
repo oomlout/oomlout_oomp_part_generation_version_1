@@ -422,6 +422,29 @@ def load_parts(**kwargs):
         
         current_default = copy.deepcopy(part_details)
         
+        # breadcrumb
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "breadcrumb"
+        part_details["color"] = "panko"
+        part_details["description"] = "breadcrumb_panko"
+        part_details["name_short"] = "Breadcrumb Panko"
+        parts.append(part_details)
+
+        #couscous
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "couscous"
+        part_details["color"] = ""
+        part_details["description"] = "couscous"
+        part_details["name_short"] = "Couscous"
+        parts.append(part_details)
+
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "couscous"
+        part_details["color"] = "giant"
+        part_details["description"] = "couscous_giant"
+        part_details["name_short"] = "Couscous Giant"
+        parts.append(part_details)
+
         # oats
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "oats"
