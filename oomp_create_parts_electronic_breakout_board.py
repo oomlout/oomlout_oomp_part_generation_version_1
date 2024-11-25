@@ -294,8 +294,7 @@ def load_parts(**kwargs):
 
         l298_default = copy.deepcopy(part_details)
 
-    # l9110s
-    if True:
+    # l9110s    
         part_details = {}
         part_details["classification"] = "electronic"
         part_details["type"] = "breakout_board_motor_driver"
@@ -311,6 +310,21 @@ def load_parts(**kwargs):
         parts.append(part_details)
 
         l9110s_default = copy.deepcopy(part_details)
+
+    # drv8833
+        part_details = {}
+        part_details["classification"] = "electronic"
+        part_details["type"] = "breakout_board_motor_driver"
+        part_details["size"] = ["drv8833"]
+        part_details["color"] = ["dual_h_bridge"]
+        part_details["description_main"] = "15_mm_width_15_mm_length_black_pcb"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "aliexpress"
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""
+        part_details["kicad_reference"] = "BB"
+        part_details["notes"] = []
+        parts.append(part_details)
 
 
 

@@ -35,6 +35,7 @@ def load_parts(**kwargs):
             part_details["kicad_reference"] = ""
             parts.append(part_details)    
     
+    
     # screw_countersunk black hex head
     if True:
         extras_sizes = {}
@@ -61,9 +62,14 @@ def load_parts(**kwargs):
             part_details["kicad_reference"] = ""
             parts.append(part_details)    
     
+
+
     # screw_countersunk black phillips head
     if True:
-        extras_sizes = {}
+        extras_sizes = {}        
+        extras_sizes["m1_4"] = [3,4,5,6,8,10]
+        extras_sizes["m1_5"] = [3,4,5,6,8,10]
+        extras_sizes["m1_6"] = [3,4,5,6,8,10]
         extras_sizes["m2"] = [3,4,5,6,7,8,10,12,14,16,18,20,22,25,30]
         
         for size in extras_sizes:
@@ -117,6 +123,8 @@ def load_parts(**kwargs):
                 part_details["kicad_reference"] = ""
                 parts.append(part_details)    
     
+        
+
     #screw_machine_screw pozi drive
     if True:
         extras_sizes = {}

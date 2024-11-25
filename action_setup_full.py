@@ -8,6 +8,7 @@ def main(**kwargs):
     #git = True
     git = False
 
+
     if git:
         repos = []
         repos.append(["https://github.com/oomlout/oomlout_oomp_footprint_bot","tmp/"])

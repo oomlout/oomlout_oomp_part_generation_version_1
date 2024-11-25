@@ -30,6 +30,19 @@ def load_parts(**kwargs):
     parts.append(part_details)    
 
     
+    #pcb mount 16340
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "battery_holder"
+    part_details["size"] = "16340"
+    part_details["color"] = "single"
+    part_details["description_main"] = "pcb_mount"
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["short_name"] = "16340 Single Cell PCB Mount"
+    parts.append(part_details)
+
     #dewalt 
 
     oomp.add_parts(parts, make_files=make_files)
