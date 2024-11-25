@@ -123,7 +123,7 @@ def load_parts(**kwargs):
         
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "sugar"
-        part_details["color"] = "granulated"
+        part_details["color"] = "granulated_golden"
         part_details["description"] = "sugar_granulated_golden"
         part_details["name_short"] = "Sugar Golden Granulated Coffee"
         parts.append(part_details)
