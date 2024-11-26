@@ -8,8 +8,7 @@
     "manufacturer": "",
     "part_number": "",
     "make_files": true,
-    "description": "The official Raspberry Pi breakout for the 2350",
-    "part_number_distributor_cpc": "SC1631",
+    "description": "",
     "short_name": "",
     "pins": {
         "pin_1": {

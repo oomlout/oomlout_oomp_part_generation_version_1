@@ -193,12 +193,12 @@ def load_parts(**kwargs):
     #            pico
     if True:
         part_details = {}
-        part_details["description"] = "The official Raspberry Pi breakout for the 2040" 
+        part_details["description"] = "" 
         part_details["classification"] = "electronic"
         part_details["type"] = "breakout_board_mcu"
-        part_details["size"] = ["pico"]
-        part_details["color"] = [""]
-        part_details["description_main"] = "raspberry_pi_2040"
+        part_details["size"] = "pico"
+        part_details["color"] = ""
+        part_details["description_main"] = ""
         part_details["description_extra"] = ""
         part_details["manufacturer"] = ""
         part_details["part_number"] = ""
@@ -248,27 +248,30 @@ def load_parts(**kwargs):
         pins_pico = copy.deepcopy(pins)
         part_details["kicad_reference"] = "BB"
         part_details["notes"] = []
-        parts.append(part_details)  
 
-        #2350
-        part_details = {}
-        part_details["description"] = "The official Raspberry Pi breakout for the 2350" 
-        part_details["classification"] = "electronic"
-        part_details["type"] = "breakout_board_mcu"
-        part_details["size"] = ["pico"]
-        part_details["color"] = [""]
-        part_details["description_main"] = "raspberry_pi_2350"
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = ""
-        part_details["part_number"] = ""
-        part_details["part_number_distributor_cpc"] = "SC1631"
 
-        part_details["short_name"] = ""
-        pins = copy.deepcopy(pins_pico)
-        part_details["pins"] = pins
-        part_details["kicad_reference"] = "BB"
-        part_details["notes"] = []
-        parts.append(part_details)  
+        pico_default = copy.deepcopy(part_details)
+
+        chips = []
+        chips.append("raspberry_pi_2040")
+        chips.append("raspberry_pi_2350")
+
+        extras = []
+        extras.append("")
+        extras.append("wifi")
+        extras.append("header_attached")
+        extras.append("wifi_header_attached")
+
+        for chip in chips:
+            for extra in extras:
+                part_details = copy.deepcopy(pico_default)
+                part_details["description_main"] = chip
+                part_details["description_extra"] = extra
+                parts.append(part_details)
+
+
+        
+
 
         
 

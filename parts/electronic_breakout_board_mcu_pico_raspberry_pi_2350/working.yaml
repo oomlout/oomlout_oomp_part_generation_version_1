@@ -8,7 +8,7 @@ color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
 color_upper: ''
-description: The official Raspberry Pi breakout for the 2350
+description: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
@@ -69,7 +69,6 @@ oomp_word_list:
 - house
 part_number: ''
 part_number_capital: ''
-part_number_distributor_cpc: SC1631
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''
