@@ -6,7 +6,9 @@ from multiprocessing import Pool
 
 part_types = []
 
+cnt_error = 0
 
+cnt_gen = 1
 
 part_types.append("aluminium_extrusion")
 
@@ -169,18 +171,25 @@ def save_parts_to_individual_yaml_files(**kwargs):
         save_parts_to_individual_yaml_files()
 
 def save_parts_to_individual_yaml_files(**kwargs):
+    global cnt_error, cnt_gen
     print("saving parts to yaml")
     import yaml
-    for part_id in oomp.parts:
-        part = oomp.parts[part_id]
-        del part['make_files']
-        yaml_file = f"parts/{part_id}/working.yaml"
-        if not os.path.exists(f"parts/{part_id}"):
-            yaml_file = f"parts_source/{part_id}/working.yaml"
-        with open(yaml_file, "w") as outfile:
-            print(f"writing {yaml_file}")
-            yaml.dump(part, outfile, indent=4)
-
+    try:
+        for part_id in oomp.parts:
+            part = oomp.parts[part_id]
+            del part['make_files']
+            yaml_file = f"parts/{part_id}/working.yaml"
+            if not os.path.exists(f"parts/{part_id}"):
+                yaml_file = f"parts_source/{part_id}/working.yaml"
+            with open(yaml_file, "w") as outfile:
+                #print(f"writing {yaml_file}")
+                if cnt_gen % 100 == 0:
+                    print(".", end="")
+                yaml.dump(part, outfile, indent=4)
+    except Exception as e:
+        print(e)
+        cnt_error += 1
+    cnt_gen += 1
 
 
 

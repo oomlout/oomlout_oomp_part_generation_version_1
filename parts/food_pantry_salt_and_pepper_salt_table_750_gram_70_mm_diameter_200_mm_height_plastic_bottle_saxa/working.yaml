@@ -1,0 +1,94 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: salt
+description_extra: 750_gram_70_mm_diameter_200_mm_height_plastic_bottle
+description_extra_capital: 750 Gram 70 mm Diameter 200 mm Height Plastic Bottle
+description_extra_first_letter: '7'
+description_extra_first_letter_upper: '7'
+description_extra_upper: 750_GRAM_70_MM_DIAMETER_200_MM_HEIGHT_PLASTIC_BOTTLE
+description_main: salt_table
+description_main_capital: Salt Table
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SALT_TABLE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa
+id: food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa
+id_no_class: pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa
+id_no_size: salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa
+id_no_type: salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa
+manufacturer: saxa
+manufacturer_capital: Saxa
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_upper: SAXA
+manufacturers: []
+markdown_full: '[food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa)<br>[Food
+    Pantry Salt And Pepper Salt Table 750 Gram 70 Mm Diameter 200 Mm Height Plastic
+    Bottle Saxa](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa)<br><br>'
+markdown_short: '[food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa)<br><br>'
+md5: 5b7f2adaea11785d622b11488edcecb2
+md5_10: 5b7f2adaea
+md5_10_upper: 5B7F2ADAEA
+md5_5: 5b7f2
+md5_5_upper: 5B7F2
+md5_6: 5b7f2a
+md5_6_alpha: 3kisq
+md5_6_alpha_upper: 3KISQ
+md5_6_upper: 5B7F2A
+name: Food Pantry Salt And Pepper Salt Table 750 Gram 70 Mm Diameter 200 Mm Height
+    Plastic Bottle Saxa
+name_no_class: Pantry Salt And Pepper Salt Table 750 Gram 70 Mm Diameter 200 Mm Height
+    Plastic Bottle Saxa
+name_no_size: Salt Table 750 Gram 70 Mm Diameter 200 Mm Height Plastic Bottle Saxa
+name_no_size_short: Salt Table 750 Gram 70 Mm Diameter 200 Mm Height Plastic Bottle
+    Saxa
+name_no_type: Salt And Pepper Salt Table 750 Gram 70 Mm Diameter 200 Mm Height Plastic
+    Bottle Saxa
+name_short: Salt Saxa
+oomp_key: oomp_food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa
+oomp_word: rooster speaker umbrella
+oomp_word_emoji: ':rooster: :speaker: :umbrella:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':speaker:'
+- ':umbrella:'
+oomp_word_list:
+- rooster
+- speaker
+- umbrella
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: salt_and_pepper
+size_capital: Salt And Pepper
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SALT_AND_PEPPER
+type: pantry
+type_capital: Pantry
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PANTRY
