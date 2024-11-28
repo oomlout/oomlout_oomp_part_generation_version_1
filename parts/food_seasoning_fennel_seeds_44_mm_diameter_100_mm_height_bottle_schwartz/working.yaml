@@ -1,0 +1,89 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: fennel_seeds
+description_extra: 44_mm_diameter_100_mm_height_bottle
+description_extra_capital: 44 mm Diameter 100 mm Height Bottle
+description_extra_first_letter: '4'
+description_extra_first_letter_upper: '4'
+description_extra_upper: 44_MM_DIAMETER_100_MM_HEIGHT_BOTTLE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_fennel_seeds_44_mm_diameter_100_mm_height_bottle_schwartz
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_fennel_seeds_44_mm_diameter_100_mm_height_bottle_schwartz
+id: food_seasoning_fennel_seeds_44_mm_diameter_100_mm_height_bottle_schwartz
+id_no_class: seasoning_fennel_seeds_44_mm_diameter_100_mm_height_bottle_schwartz
+id_no_size: 44_mm_diameter_100_mm_height_bottle_schwartz
+id_no_type: fennel_seeds_44_mm_diameter_100_mm_height_bottle_schwartz
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_fennel_seeds_44_mm_diameter_100_mm_height_bottle_schwartz
+manufacturer: schwartz
+manufacturer_capital: Schwartz
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_upper: SCHWARTZ
+manufacturers: []
+markdown_full: '[food_seasoning_fennel_seeds_44_mm_diameter_100_mm_height_bottle_schwartz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_fennel_seeds_44_mm_diameter_100_mm_height_bottle_schwartz)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_fennel_seeds_44_mm_diameter_100_mm_height_bottle_schwartz)<br>[Food
+    Seasoning Fennel Seeds 44 Mm Diameter 100 Mm Height Bottle Schwartz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_fennel_seeds_44_mm_diameter_100_mm_height_bottle_schwartz)<br><br>'
+markdown_short: '[food_seasoning_fennel_seeds_44_mm_diameter_100_mm_height_bottle_schwartz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_fennel_seeds_44_mm_diameter_100_mm_height_bottle_schwartz)<br><br>'
+md5: a9cadb5ca87e908dfa1a84674ef04bea
+md5_10: a9cadb5ca8
+md5_10_upper: A9CADB5CA8
+md5_5: a9cad
+md5_5_upper: A9CAD
+md5_6: a9cadb
+md5_6_alpha: 6mi1n
+md5_6_alpha_upper: 6MI1N
+md5_6_upper: A9CADB
+name: Food Seasoning Fennel Seeds 44 Mm Diameter 100 Mm Height Bottle Schwartz
+name_no_class: Seasoning Fennel Seeds 44 Mm Diameter 100 Mm Height Bottle Schwartz
+name_no_size: 44 Mm Diameter 100 Mm Height Bottle Schwartz
+name_no_size_short: 44 Mm Diameter 100 Mm Height Bottle Schwartz
+name_no_type: Fennel Seeds 44 Mm Diameter 100 Mm Height Bottle Schwartz
+name_short: Fennel Seeds
+oomp_key: oomp_food_seasoning_fennel_seeds_44_mm_diameter_100_mm_height_bottle_schwartz
+oomp_word: sandal cherries tent
+oomp_word_emoji: ':sandal: :cherries: :tent:'
+oomp_word_emoji_list:
+- ':sandal:'
+- ':cherries:'
+- ':tent:'
+oomp_word_list:
+- sandal
+- cherries
+- tent
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: fennel_seeds
+size_capital: Fennel Seeds
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FENNEL_SEEDS
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

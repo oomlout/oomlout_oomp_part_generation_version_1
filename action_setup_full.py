@@ -24,10 +24,56 @@ def main(**kwargs):
             oom_git.clone(repo=repo[0], directory=directory)
 
 
-    
+    import time
+    times = []
+
+    time_start_start = time.time()
+
+    time_start = time.time()
+    time_name = "oomp.load_parts"
+    print(f"starting {time_name}")    
     oomp.load_parts(from_yaml=False, make_files=True, filter=filter)
+    time_end = time.time()
+    hour = (time_end - time_start) / 3600
+    minutes = (time_end - time_start) / 60
+    print(f"{time_name} took {hour} hours or {minutes} minutes")
+    time_entry = {"time_name": time_name, "time": time_end - time_start}
+    times.append(time_entry)
+
+
+    time_start = time.time()
+    time_name = "oomp.save_parts"    
+    print(f"starting {time_name}")
     oomp.save_parts()
+    time_end = time.time()
+    hour = (time_end - time_start) / 3600
+    minutes = (time_end - time_start) / 60
+    print(f"{time_name} took {hour} hours or {minutes} minutes")
+    time_entry = {"time_name": time_name, "time": time_end - time_start}
+    times.append(time_entry)
+
+    time_start = time.time()
+    time_name = "oomp.save_parts_to_individual_yaml_files"
+    print(f"starting {time_name}")    
     oomp.save_parts_to_individual_yaml_files()
+    time_end = time.time()
+    hour = (time_end - time_start) / 3600
+    minutes = (time_end - time_start) / 60
+    print(f"{time_name} took {hour} hours or {minutes} minutes")
+    time_entry = {"time_name": time_name, "time": time_end - time_start}
+    times.append(time_entry)
+
+    time_end_end = time.time()
+    time_name = "total time"
+    hour = (time_end_end - time_start_start) / 3600
+    minutes = (time_end_end - time_start_start) / 60
+    
+    time_entry = {"time_name": time_name, "time": time_end_end - time_start_start}
+    times.append(time_entry)
+
+    print("time summary")
+    for time_entry in times:
+        print(f"{time_entry['time_name']} took {time_entry['time']} seconds")
 
 
 

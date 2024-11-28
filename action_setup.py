@@ -43,7 +43,7 @@ if __name__ == "__main__":
     filter = ""
     #filter = "bearing"
     #filter = "computer"
-    #filter = "food"
+    filter = "food"
     #filter = "ikea"
     #filter = "hardware"
     #filter = "mechanical"    

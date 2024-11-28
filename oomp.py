@@ -110,6 +110,7 @@ def create_parts_readme_old():
 
 
 def add_parts(parts,**kwargs):
+    parts_full_list = []
     #expand the parts list into parts_processed, make this a list of permutations of the part using itertools
     import itertools
 
@@ -119,6 +120,7 @@ def add_parts(parts,**kwargs):
     # Convert all the dictionary values to lists but only use the keys in names_of_main_elements
     
     for part in parts:
+
         #test if any elelment in the part is a list
         list_in_part = False
         # get all the dict values that aren't in names_of_main_elements 
@@ -156,13 +158,51 @@ def add_parts(parts,**kwargs):
 
             # Print all combinations
             for combo in combinations:
-                add_part(classification=combo[0], type=combo[1], size=combo[2], color=combo[3], description_main=combo[4], description_extra=combo[5], manufacturer=combo[6], part_number=combo[7], not_main_elements=not_main_elements, **kwargs)
+                part_full = {}
+                part_full["classification"] = combo[0]
+                part_full["type"] = combo[1]
+                part_full["size"] = combo[2]
+                part_full["color"] = combo[3]
+                part_full["description_main"] = combo[4]
+                part_full["description_extra"] = combo[5]
+                part_full["manufacturer"] = combo[6]
+                part_full["part_number"] = combo[7]
+                part_full["not_main_elements"] = not_main_elements
+                part_full.update(kwargs)    
+                parts_full_list.append(part_full)
+                #add_part(classification=combo[0], type=combo[1], size=combo[2], color=combo[3], description_main=combo[4], description_extra=combo[5], manufacturer=combo[6], part_number=combo[7], not_main_elements=not_main_elements, **kwargs)
         else:
-            add_part(classification=part["classification"], type=part["type"], size=part["size"], color=part["color"], description_main=part["description_main"], description_extra=part["description_extra"], manufacturer=part["manufacturer"], part_number=part["part_number"], not_main_elements=not_main_elements, **kwargs)
+            part_full = {}
+            part_full["classification"] = part["classification"]
+            part_full["type"] = part["type"]
+            part_full["size"] = part["size"]
+            part_full["color"] = part["color"]
+            part_full["description_main"] = part["description_main"]
+            part_full["description_extra"] = part["description_extra"]
+            part_full["manufacturer"] = part["manufacturer"]
+            part_full["part_number"] = part["part_number"]
+            part_full["not_main_elements"] = not_main_elements
+            part_full.update(kwargs)  
+            parts_full_list.append(part_full)
+            #add_part(classification=part["classification"], type=part["type"], size=part["size"], color=part["color"], description_main=part["description_main"], description_extra=part["description_extra"], manufacturer=part["manufacturer"], part_number=part["part_number"], not_main_elements=not_main_elements, **kwargs)
+
+    #go through each item in parts_full_list and run it through add_part but use threading on 6 cores
+    import threading
+    threads = []
+    for part in parts_full_list:
+        thread = threading.Thread(target=add_part, kwargs=part)
+        threads.append(thread)
+        thread.start()
+
+
+
 
 add_part_filter = ""
 
+cnt = 1
+
 def add_part(**kwargs):
+    global cnt
     global add_part_filter
     make_files = kwargs.get("make_files", True)
 
@@ -179,7 +219,7 @@ def add_part(**kwargs):
         
         
         ## add part to dict
-        print("    adding part " + id)
+        #print("    adding part " + id)
         
 
         #add formated taxonomy
@@ -451,6 +491,9 @@ def add_part(**kwargs):
         parts[id] = kwargs
     else:
         print("    skipping part " + id)
+    cnt += 1
+    if cnt % 100 == 0:
+        print(f".", end="")
 
 def hex_to_base36(hex_value):
     # Convert the hex value to an integer

@@ -1,6 +1,8 @@
 
 import importlib
 import oomp
+import yaml
+from multiprocessing import Pool
 
 part_types = []
 
@@ -25,6 +27,7 @@ part_types.append("hardware_screw")
 part_types.append("hardware_spacer")
 part_types.append("hardware_standoff")
 part_types.append("hardware_washer")
+part_types.append("hardware_variety_pack")
 
 part_types.append("electrical")
 
@@ -157,6 +160,14 @@ def save_parts_to_pickle(**kwargs):
     with open(file_pickle, "wb") as outfile:
         pickle.dump(oomp.parts, outfile)
 
+
+def save_parts_to_individual_yaml_files(**kwargs):
+    threading = True
+    if threading:
+        save_parts_to_individual_yaml_files_threading()
+    else:
+        save_parts_to_individual_yaml_files()
+
 def save_parts_to_individual_yaml_files(**kwargs):
     print("saving parts to yaml")
     import yaml
@@ -169,3 +180,26 @@ def save_parts_to_individual_yaml_files(**kwargs):
         with open(yaml_file, "w") as outfile:
             print(f"writing {yaml_file}")
             yaml.dump(part, outfile, indent=4)
+
+
+
+
+def save_part_to_yaml(args):
+    part, yaml_file = args
+    with open(yaml_file, 'w') as file:
+        yaml.dump(part, file)
+
+def save_parts_to_individual_yaml_files_threading(parts_list):
+    tasks = []
+    for part_id in parts_list:
+        part = oomp.parts[part_id]
+        del part['make_files']
+        yaml_file = f"parts/{part_id}/working.yaml"
+        
+        if not os.path.exists(f"parts/{part_id}"):
+            yaml_file = f"parts_source/{part_id}/working.yaml"
+        
+        tasks.append((part, yaml_file))
+
+    with Pool() as pool:
+        pool.map(save_part_to_yaml, tasks)

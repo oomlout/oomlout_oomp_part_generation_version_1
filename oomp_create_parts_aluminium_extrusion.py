@@ -9,7 +9,7 @@ def load_parts(**kwargs):
     # standard
     if True:
         part_details = {}
-        part_details["classification"] = "aluminium extrusion"
+        part_details["classification"] = "aluminium_extrusion"
         part_details["type"] = "2020"
         part_details["size"] = ""
         part_details["color"] = ""    

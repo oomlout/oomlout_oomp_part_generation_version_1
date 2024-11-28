@@ -8,7 +8,7 @@ color_capital: White
 color_first_letter: w
 color_first_letter_upper: W
 color_upper: WHITE
-description: flour_self_raising
+description: flour_white
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
@@ -56,7 +56,7 @@ name_no_class: Baking Flour White
 name_no_size: White
 name_no_size_short: White
 name_no_type: Flour White
-name_short: Flour Self Raising
+name_short: Flour White
 oomp_key: oomp_food_baking_flour_white
 oomp_word: bowtie snake honeybee
 oomp_word_emoji: ':bowtie: :snake: :honeybee:'

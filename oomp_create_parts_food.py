@@ -406,6 +406,7 @@ def load_parts(**kwargs):
         part_details["type"] = "pantry"
         part_details["size"] = ""
         part_details["color"] = ""
+        part_details["description_main"] = ""
         part_details["description_extra"] = ""
         part_details["manufacturer"] = ""
         part_details["part_number"] = ""
@@ -426,6 +427,7 @@ def load_parts(**kwargs):
         part_details["type"] = "pantry"
         part_details["size"] = ""
         part_details["color"] = ""
+        part_details["description_main"] = ""
         part_details["description_extra"] = ""
         part_details["manufacturer"] = ""
         part_details["part_number"] = ""
@@ -447,6 +449,7 @@ def load_parts(**kwargs):
         part_details["type"] = "seasoning"
         part_details["size"] = "spice"
         part_details["color"] = ""
+        part_details["description_main"] = ""
         part_details["description_extra"] = ""
         part_details["manufacturer"] = ""
         part_details["part_number"] = ""
@@ -454,7 +457,7 @@ def load_parts(**kwargs):
         current_default_spice = copy.deepcopy(part_details)
 
         #schwartz default
-        part_details = copy.deepcopy(current_default)
+        part_details = copy.deepcopy(part_details)
         part_details["description_extra"] = "44_mm_diameter_100_mm_height_bottle"
         part_details["manufacturer"] = "schwartz"
         
@@ -462,12 +465,6 @@ def load_parts(**kwargs):
 
         #spice
         if True:
-            # cumin
-            part_details = copy.deepcopy(schwartz_default_spice)
-            part_details["size"] = "cumin"
-            part_details["description"] = "cumin"
-            part_details["name_short"] = "Cumin"
-            parts.append(part_details)
 
             # paprika
             part_details = copy.deepcopy(schwartz_default_spice)
@@ -488,6 +485,7 @@ def load_parts(**kwargs):
             part_details["size"] = "cumin_ground"
             part_details["description"] = "cumin_ground"
             part_details["name_short"] = "Cumin Ground"
+            parts.append(part_details)
 
             #fennel_seeds
             part_details = copy.deepcopy(schwartz_default_spice)
