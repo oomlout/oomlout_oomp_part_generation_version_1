@@ -440,6 +440,226 @@ def load_parts(**kwargs):
         part_details["name_short"] = "Pasta Sauce Tomato and Roasted Garlic"
         parts.append(part_details)
 
+    # spice
+    if True:
+        part_details = {}
+        part_details["classification"] = "food"
+        part_details["type"] = "seasoning"
+        part_details["size"] = "spice"
+        part_details["color"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        
+        current_default_spice = copy.deepcopy(part_details)
+
+        #schwartz default
+        part_details = copy.deepcopy(current_default)
+        part_details["description_extra"] = "44_mm_diameter_100_mm_height_bottle"
+        part_details["manufacturer"] = "schwartz"
+        
+        schwartz_default_spice = copy.deepcopy(part_details)
+
+        #spice
+        if True:
+            # cumin
+            part_details = copy.deepcopy(schwartz_default_spice)
+            part_details["size"] = "cumin"
+            part_details["description"] = "cumin"
+            part_details["name_short"] = "Cumin"
+            parts.append(part_details)
+
+            # paprika
+            part_details = copy.deepcopy(schwartz_default_spice)
+            part_details["size"] = "paprika"
+            part_details["description"] = "paprika"
+            part_details["name_short"] = "Paprika"
+            parts.append(part_details)
+
+            #corriander_ground
+            part_details = copy.deepcopy(schwartz_default_spice)
+            part_details["size"] = "corriander_ground"
+            part_details["description"] = "corriander_ground"
+            part_details["name_short"] = "Corriander Ground"
+            parts.append(part_details)
+
+            #cumin_ground
+            part_details = copy.deepcopy(schwartz_default_spice)
+            part_details["size"] = "cumin_ground"
+            part_details["description"] = "cumin_ground"
+            part_details["name_short"] = "Cumin Ground"
+
+            #fennel_seeds
+            part_details = copy.deepcopy(schwartz_default_spice)
+            part_details["size"] = "fennel_seeds"
+            part_details["description"] = "fennel_seeds"
+            part_details["name_short"] = "Fennel Seeds"
+            parts.append(part_details)
+
+            #garam_masala
+            part_details = copy.deepcopy(schwartz_default_spice)
+            part_details["size"] = "garam_masala"
+            part_details["description"] = "garam_masala"
+            part_details["name_short"] = "Garam Masala"
+            parts.append(part_details)
+
+            #paprika_smoked
+            part_details = copy.deepcopy(schwartz_default_spice)
+            part_details["size"] = "paprika_smoked"
+            part_details["description"] = "paprika_smoked"
+            part_details["name_short"] = "Paprika Smoked"
+            parts.append(part_details)
+
+            #zatar
+            part_details = copy.deepcopy(schwartz_default_spice)
+            part_details["size"] = "zatar"
+            part_details["description"] = "zatar"
+            part_details["name_short"] = "Zatar"
+            parts.append(part_details)
+
+            #turmeric
+            part_details = copy.deepcopy(schwartz_default_spice)
+            part_details["size"] = "turmeric"
+            part_details["description"] = "turmeric"
+            part_details["name_short"] = "Turmeric"
+            parts.append(part_details)
+
+
+        
+        #herb default
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "herb"
+
+        current_default_herb = copy.deepcopy(part_details)
+
+        #schwartz default
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "herb"
+        part_details["description_extra"] = "44_mm_diameter_100_mm_height_bottle"
+        part_details["manufacturer"] = "schwartz"
+        schwartz_default_herb = copy.deepcopy(part_details)
+
+        #herb
+        if True:
+            #basil
+            part_details = copy.deepcopy(schwartz_default_herb)
+            part_details["description_main"] = "basil"
+            part_details["description"] = "basil"
+            part_details["name_short"] = "Basil"
+            parts.append(part_details)
+
+            #bay leaves
+            part_details = copy.deepcopy(schwartz_default_herb)
+            part_details["description_main"] = "bay_leaves"
+            part_details["description"] = "bay_leaves"
+            part_details["name_short"] = "Bay Leaves"
+            parts.append(part_details)
+
+            #dill
+            part_details = copy.deepcopy(schwartz_default_herb)
+            part_details["description_main"] = "dill"
+            part_details["description"] = "dill"
+            part_details["name_short"] = "Dill"
+            parts.append(part_details)
+
+            #thyme
+            part_details = copy.deepcopy(schwartz_default_herb)
+            part_details["description_main"] = "thyme"
+            part_details["description"] = "thyme"
+            part_details["name_short"] = "Thyme"
+            parts.append(part_details)
+
+            #onion_granules
+            part_details = copy.deepcopy(schwartz_default_herb)
+            part_details["description_main"] = "onion_granules"
+            part_details["description"] = "onion_granules"
+            part_details["name_short"] = "Onion Granules"
+            parts.append(part_details)
+
+            #rosemary
+            part_details = copy.deepcopy(schwartz_default_herb)
+            part_details["description_main"] = "rosemary"
+            part_details["description"] = "rosemary"
+            part_details["name_short"] = "Rosemary"
+            parts.append(part_details)
+
+            #parsley
+            part_details = copy.deepcopy(schwartz_default_herb)
+            part_details["description_main"] = "parsley"
+            part_details["description"] = "parsley"
+            part_details["name_short"] = "Parsley"
+            parts.append(part_details)
+
+            #sage
+            part_details = copy.deepcopy(schwartz_default_herb)
+            part_details["description_main"] = "sage"
+            part_details["description"] = "sage"
+            part_details["name_short"] = "Sage"
+            parts.append(part_details)
+
+            #taragon
+            part_details = copy.deepcopy(schwartz_default_herb)
+            part_details["description_main"] = "taragon"
+            part_details["description"] = "taragon"
+            part_details["name_short"] = "Taragon"
+            parts.append(part_details)
+
+            #garlic_powder
+            part_details = copy.deepcopy(schwartz_default_herb)
+            part_details["description_main"] = "garlic_powder"
+            part_details["description"] = "garlic_powder"
+            part_details["name_short"] = "Garlic Powder"
+            parts.append(part_details)
+
+            #
+
+        #salt_and_pepper
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "salt_and_pepper"
+        current_default_salt_and_pepper = copy.deepcopy(part_details)
+
+        current_default_salt_and_pepper = copy.deepcopy(part_details)
+        schwartz_default_saltr_and_pepper = copy.deepcopy(current_default_salt_and_pepper)
+        schwartz_default_saltr_and_pepper["manufacturer"] = "schwartz"
+        schwartz_default_saltr_and_pepper["description_extra"] = "44_mm_diameter_100_mm_height_bottle"  
+        
+        #salt_and_pepper
+        if True:
+            #salt
+            part_details = copy.deepcopy(schwartz_default_saltr_and_pepper)
+            part_details["description_main"] = "salt_table"
+            part_details["description"] = "salt"
+            part_details["name_short"] = "Salt"
+            parts.append(part_details)
+
+            #saxa 750 g
+            part_details = copy.deepcopy(part_details)
+            part_details["description_extra"] = "750_gram_70_mm_diameter_200_mm_height_plastic_bottle"
+            part_details["manufacturer"] = "saxa"
+            part_details["name_short"] = "Salt Saxa"
+            parts.append(part_details)
+
+            #black pepercorn scwartz
+            part_details = copy.deepcopy(schwartz_default_saltr_and_pepper)
+            part_details["description_main"] = "black_peppercorn"
+            part_details["description"] = "black_peppercorn"
+            part_details["name_short"] = "Black Peppercorn"
+            parts.append(part_details)
+
+            #black pepper ground
+            part_details = copy.deepcopy(schwartz_default_saltr_and_pepper)
+            part_details["description_main"] = "black_pepper_ground"
+            part_details["description"] = "black_pepper_ground"
+            part_details["name_short"] = "Black Pepper Ground"
+            parts.append(part_details)
+
+            #white_pepper
+            part_details = copy.deepcopy(schwartz_default_saltr_and_pepper)
+            part_details["description_main"] = "white_pepper"
+            part_details["description"] = "white_pepper"
+            part_details["name_short"] = "White Pepper"
+            parts.append(part_details)
+
     # starch
     if True:
         part_details = {}
