@@ -101,9 +101,41 @@ def load_parts(**kwargs):
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "flour"
         part_details["color"] = "white"
+        part_details["description"] = "flour_white"
+        part_details["name_short"] = "Flour White"
+        parts.append(part_details)
+
+        #self raising
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "flour"
+        part_details["color"] = "self_raising"
         part_details["description"] = "flour_self_raising"
         part_details["name_short"] = "Flour Self Raising"
         parts.append(part_details)
+
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "flour"
+        part_details["color"] = "corn"
+        part_details["description"] = "flour_corn"
+        part_details["name_short"] = "Flour Corn"
+        parts.append(part_details)
+
+        #double o
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "flour"
+        part_details["color"] = "pasta_double_zero"
+        part_details["description"] = "flour_pasta_double_zero"
+        part_details["name_short"] = "Flour Pasta Double Zero"
+        parts.append(part_details)
+
+        #whole wheat
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "flour"
+        part_details["color"] = "whole_wheat"
+        part_details["description"] = "flour_whole_wheat"
+        part_details["name_short"] = "Flour Whole Wheat"
+        parts.append(part_details)
+
         
         # sugar
 
