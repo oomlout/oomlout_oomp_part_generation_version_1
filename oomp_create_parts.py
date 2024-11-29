@@ -33,6 +33,7 @@ part_types.append("hardware_variety_pack")
 
 part_types.append("electrical")
 
+part_types.append("electronic_battery")
 part_types.append("electronic_battery_box")
 part_types.append("electronic_breakout_board")
 part_types.append("electronic_button")
@@ -186,6 +187,7 @@ def save_parts_to_individual_yaml_files(**kwargs):
                 if cnt_gen % 100 == 0:
                     print(".", end="")
                 yaml.dump(part, outfile, indent=4)
+                cnt_gen += 1
     except Exception as e:
         print(e)
         cnt_error += 1

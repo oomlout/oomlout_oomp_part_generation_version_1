@@ -8,24 +8,28 @@ def load_parts(**kwargs):
     
     parts = []
 
-    # variables
-    pins = {}
-    pins["pin_1"] = ({"name": "vbus", "number": "1", "type": "power"})
-    pins["pin_2"] = ({"name": "usb_negative", "number": "2", "type": "signal"})
-    pins["pin_3"] = ({"name": "usb_positive", "number": "3", "type": "signal"})
-    pins["pin_4"] = ({"name": "gnd", "number": "4", "type": "signal"})
-    pins["pin_5"] = ({"name": "shield", "number": "6", "type": "signal"})    
-    pins_usb_a = copy.deepcopy(pins)
+    #sockets the natural counterpart to headers
 
-    pins = {}
-    pins["pin_1"] = ({"name": "vbus", "number": "1", "type": "power"})
-    pins["pin_2"] = ({"name": "usb_negative", "number": "2", "type": "signal"})
-    pins["pin_3"] = ({"name": "usb_positive", "number": "3", "type": "signal"})
-    pins["pin_4"] = ({"name": "id", "number": "4", "type": "signal"})
-    pins["pin_5"] = ({"name": "gnd", "number": "5", "type": "power"})
-    pins["pin_6"] = ({"name": "shield", "number": "6", "type": "signal"})
-    pins_usb_micro = copy.deepcopy(pins)
-    pins_usb_mini = copy.deepcopy(pins)
+    #usb
+    if True:
+        # variables
+        pins = {}
+        pins["pin_1"] = ({"name": "vbus", "number": "1", "type": "power"})
+        pins["pin_2"] = ({"name": "usb_negative", "number": "2", "type": "signal"})
+        pins["pin_3"] = ({"name": "usb_positive", "number": "3", "type": "signal"})
+        pins["pin_4"] = ({"name": "gnd", "number": "4", "type": "signal"})
+        pins["pin_5"] = ({"name": "shield", "number": "6", "type": "signal"})    
+        pins_usb_a = copy.deepcopy(pins)
+
+        pins = {}
+        pins["pin_1"] = ({"name": "vbus", "number": "1", "type": "power"})
+        pins["pin_2"] = ({"name": "usb_negative", "number": "2", "type": "signal"})
+        pins["pin_3"] = ({"name": "usb_positive", "number": "3", "type": "signal"})
+        pins["pin_4"] = ({"name": "id", "number": "4", "type": "signal"})
+        pins["pin_5"] = ({"name": "gnd", "number": "5", "type": "power"})
+        pins["pin_6"] = ({"name": "shield", "number": "6", "type": "signal"})
+        pins_usb_micro = copy.deepcopy(pins)
+        pins_usb_mini = copy.deepcopy(pins)
 
     #define a part 
 

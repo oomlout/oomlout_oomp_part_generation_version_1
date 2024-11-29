@@ -62,7 +62,7 @@ def load_parts(**kwargs):
     parts.append(part_details)
 
     
-    
+       
 
     oomp.add_parts(parts, **kwargs)
     

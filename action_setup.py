@@ -43,7 +43,7 @@ if __name__ == "__main__":
     filter = ""
     #filter = "bearing"
     #filter = "computer"
-    filter = "food"
+    #filter = "food"
     #filter = "ikea"
     #filter = "hardware"
     #filter = "mechanical"    
@@ -51,7 +51,7 @@ if __name__ == "__main__":
     #filter = "storage"
     #filter =  "breakout_board"
     #filter = "electronic"
-    #filter = "electronic_battery_box"
+    filter = "electronic_battery"
     #filter = "electronic_breakout_board"
     #filter = "lighting"
     #filter = "packaging"
@@ -68,6 +68,8 @@ if __name__ == "__main__":
     kwargs["filter"] = filter
     main(**kwargs)
 
+    #wait
+    input("Press Enter to continue...")
 
     if boolean_generate_releases:
         import action_generate_releases

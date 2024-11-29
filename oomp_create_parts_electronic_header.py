@@ -68,19 +68,25 @@ def load_parts(**kwargs):
     part_details = {}
     part_details["classification"] = "electronic"
     part_details["type"] = "header"
-    part_details["size"] = ["2_5_mm_jst_xh"]
-    part_details["color"] = [""]
-    part_details["description_main"] = []
-    # add 1- 10 _pin
-    for pin_count in range(2, 11):
-        part_details["description_main"].append(f"{pin_count}_pin")
-    part_details["description_extra"] = ["through_hole_right_angle","surface_mount","through_hole","surface_mount_right_angle"]
+    part_details["size"] = "2_5_mm_jst_xh"
+    part_details["color"] = ""
+    part_details["description_main"] = ""
     part_details["manufacturer"] = ""
     part_details["part_number"] = ""
     part_details["kicad_reference"] = "CONN"
-    #add the part to the list of parts
-    parts.append(part_details)
+    
+    pins = [1,2,3,4,5,6,7,8,9,10]
+    description_extras = ["through_hole_right_angle","surface_mount","through_hole","surface_mount_right_angle"]
+        
+    for pin_count in pins:
+        for description_extra in description_extras:
+            part_details["description_main"] = f"{pin_count}_pin"
+            part_details["description_extra"] = description_extra
+            parts.append(part_details)        
+    
 
+
+        
     """
     
     #      2 mm ph

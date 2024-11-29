@@ -75,16 +75,16 @@ def load_parts(**kwargs):
             part_details["color"] = [""]  
             part_details["description_main"] = ""
             part_details["description_extra"] = ""
-            part_details["manufacturer"] = "bambu"
+            part_details["manufacturer"] = ""
             part_details["part_number"] = ""
             part_details["short_name"] = ""  
             
             bambu_default = copy.deepcopy(part_details)
 
-            models = ["a1", "a1_mini", "p1s", "p1p"]
+            models = ["bambu_lab_a1", "bambu_lab_a1_mini", "bambu_lab_p1s", "bambu_lab_p1p"]
             for model in models:
                 part_details = copy.deepcopy(bambu_default)
-                part_details["part_number"] = model
+                part_details["size"] = model
                 parts.append(part_details)
 
         #wanhao
@@ -92,12 +92,12 @@ def load_parts(**kwargs):
             part_details = {}
             part_details["classification"] = "three_d_printer"
             part_details["type"] = "printer"
-            part_details["size"] = [""]
-            part_details["color"] = [""]
+            part_details["size"] = "wanhao_duplicator_i3_plus"
+            part_details["color"] = ""
             part_details["description_main"] = ""
             part_details["description_extra"] = ""
-            part_details["manufacturer"] = "wanhao"
-            part_details["part_number"] = "dupicator_i3_plus"
+            part_details["manufacturer"] = ""
+            part_details["part_number"] = ""
             part_details["short_name"] = ""  
             parts.append(part_details)    
     
