@@ -1,4 +1,5 @@
 import oomp
+import copy
 
 def load_parts(**kwargs):
     make_files = kwargs.get("make_files", True)
@@ -8,69 +9,100 @@ def load_parts(**kwargs):
     parts = []
 
     #print_time]
-    part_details = {}
-    part_details["classification"] = "three_d_printer"
-    part_details["type"] = "printing"
-    part_details["size"] = ["low_quality"]
-    part_details["color"] = [""]
-    part_details["description_main"] = "minute"
-    part_details["description_extra"] = ""
-    part_details["manufacturer"] = ""
-    part_details["part_number"] = ""
-    part_details["short_name"] = ""  
-    part_details["price_per"] = 0
-    part_details["price_per_gram"] = 0
-    part_details["price_current"] = 0
-    part_details["price_per_kilogram"] = 0
-    parts.append(part_details)    
+    if True:
+        part_details = {}
+        part_details["classification"] = "three_d_printer"
+        part_details["type"] = "printing"
+        part_details["size"] = ["low_quality"]
+        part_details["color"] = [""]
+        part_details["description_main"] = "minute"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""  
+        part_details["price_per"] = 0
+        part_details["price_per_gram"] = 0
+        part_details["price_current"] = 0
+        part_details["price_per_kilogram"] = 0
+        parts.append(part_details)    
     
     # printers
-    part_details = {}
-    part_details["classification"] = "three_d_printer"
-    part_details["type"] = "printer"
-    part_details["size"] = [""]
-    part_details["color"] = [""]
-    part_details["description_main"] = ""
-    part_details["description_extra"] = ""
-    part_details["manufacturer"] = "wanhao"
-    part_details["part_number"] = "dupicator_i3_plus"
-    part_details["short_name"] = ""  
-    parts.append(part_details)    
+    if True:
     
-    part_details = {}
-    part_details["classification"] = "three_d_printer"
-    part_details["type"] = "printer"
-    part_details["size"] = [""]
-    part_details["color"] = [""]
-    part_details["description_main"] = ""
-    part_details["description_extra"] = ""
-    part_details["manufacturer"] = "anycubic"
-    part_details["part_number"] = "vyper"
-    part_details["short_name"] = ""  
-    parts.append(part_details)    
+        #anycubic
+        if True:
+            part_details = {}
+            part_details["classification"] = "three_d_printer"
+            part_details["type"] = "printer"
+            part_details["size"] = [""]
+            part_details["color"] = [""]
+            part_details["description_main"] = ""
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "anycubic"
+            part_details["part_number"] = "vyper"
+            part_details["short_name"] = ""  
+            parts.append(part_details)    
 
-    #spare parts
-    #anycubic vyper category
-    part_details = {}
-    part_details["classification"] = "three_d_printer"
-    part_details["type"] = "spare_part"
-    part_details["size"] = ["anycubic_vyper"]
-    part_details["color"] = ["category"]   
-    
-    #anycubic vyper hotend
-    part_details = {}
-    part_details["classification"] = "three_d_printer"
-    part_details["type"] = "spare_part"
-    part_details["size"] = ["anycubic_vyper"]
-    part_details["color"] = [""]
-    part_details["description_main"] = "hotend"
-    part_details["description_extra"] = ""
-    part_details["manufacturer"] = ""
-    part_details["part_number"] = ""
-    part_details["short_name"] = "Anycubic Vyper Hotend"
-    parts.append(part_details)
+            #spare part
+            if True:
+                #spare parts
+                #anycubic vyper category
+                part_details = {}
+                part_details["classification"] = "three_d_printer"
+                part_details["type"] = "spare_part"
+                part_details["size"] = ["anycubic_vyper"]
+                part_details["color"] = ["category"]   
+                
+                #anycubic vyper hotend
+                part_details = {}
+                part_details["classification"] = "three_d_printer"
+                part_details["type"] = "spare_part"
+                part_details["size"] = ["anycubic_vyper"]
+                part_details["color"] = [""]
+                part_details["description_main"] = "hotend"
+                part_details["description_extra"] = ""
+                part_details["manufacturer"] = ""
+                part_details["part_number"] = ""
+                part_details["short_name"] = "Anycubic Vyper Hotend"
+                parts.append(part_details)
 
+        #bambu
+        if True:
+            part_details = {}
+            part_details["classification"] = "three_d_printer"
+            part_details["type"] = "printer"
+            part_details["size"] = [""]  
+            part_details["color"] = [""]  
+            part_details["description_main"] = ""
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "bambu"
+            part_details["part_number"] = ""
+            part_details["short_name"] = ""  
+            
+            bambu_default = copy.deepcopy(part_details)
+
+            models = ["a1", "a1_mini", "p1s", "p1p"]
+            for model in models:
+                part_details = copy.deepcopy(bambu_default)
+                part_details["part_number"] = model
+                parts.append(part_details)
+
+        #wanhao
+        if True:
+            part_details = {}
+            part_details["classification"] = "three_d_printer"
+            part_details["type"] = "printer"
+            part_details["size"] = [""]
+            part_details["color"] = [""]
+            part_details["description_main"] = ""
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "wanhao"
+            part_details["part_number"] = "dupicator_i3_plus"
+            part_details["short_name"] = ""  
+            parts.append(part_details)    
     
+
+
 
     oomp.add_parts(parts, make_files=make_files)
     
