@@ -270,8 +270,11 @@ def load_parts(**kwargs):
                 parts.append(part_details)
 
 
-        
-
+        #3_5 mm pitch screw terminal 55 mm x 73 mm
+        part_details = copy.deepcopy(pico_default)
+        part_details["description_main"] = ""
+        part_details["description_extra"] = "screw_terminal_3_5_mm_pitch_55_mm_width_73_mm_length_purple_pcb"
+        parts.append(part_details)
 
         
 

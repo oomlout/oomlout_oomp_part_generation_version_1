@@ -54,6 +54,7 @@ part_types.append("electronic_pmic")
 part_types.append("electronic_potentiometer")
 part_types.append("electronic_prototyping")
 part_types.append("electronic_resistor")
+part_types.append("electronic_screw_terminal")
 part_types.append("electronic_socket")
 
 part_types.append("flashlight")
