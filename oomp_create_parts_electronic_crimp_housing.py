@@ -50,6 +50,25 @@ def load_parts(**kwargs):
                 part_details["description_extra"] = description_extra
                 parts.append(part_details) 
 
+        #   2_5 xh
+        part_details = {}
+        part_details["classification"] = "electronic"
+        part_details["type"] = "crimp_housing"
+        part_details["size"] = "2_5_mm_jst_xh"
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["kicad_reference"] = "CONN"
+
+        pins = [2,3,4,5,6,7,8,9,10]
+        description_extras = ["socket"]
+        for pin_count in pins:
+            for description_extra in description_extras:
+                part_details["description_main"] = f"{pin_count}_pin"
+                part_details["description_extra"] = description_extra
+                parts.append(part_details)
+
 
     oomp.add_parts(parts, make_files=make_files)
     

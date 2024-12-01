@@ -71,16 +71,19 @@ def load_parts(**kwargs):
         #sg90
         part_details = copy.deepcopy(servo_default)
         part_details["size"] = "micro"
-
         servo_micro_default = copy.deepcopy(part_details)
-
         descriptions = ["sg90", "mg90s"]
         for description in descriptions:
             part_details = copy.deepcopy(servo_micro_default)
             part_details["description_main"] = description
             parts.append(part_details)
 
-
+        #sg90 pcb
+        part_details = copy.deepcopy(servo_default)
+        part_details["size"] = "micro"
+        part_details["description_main"] = "sg90"
+        part_details["description_extra"] = "pcb"
+        parts.append(part_details)
         
 
 
