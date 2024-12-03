@@ -272,11 +272,22 @@ def load_parts(**kwargs):
 
         #3_5 mm pitch screw terminal 55 mm x 73 mm
         part_details = copy.deepcopy(pico_default)
-        part_details["description_main"] = ""
-        part_details["description_extra"] = "screw_terminal_3_5_mm_pitch_55_mm_width_73_mm_length_purple_pcb"
+        part_details["color"] = "screw_terminal"
+        part_details["description_main"] = "55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal"
+        part_details["description_extra"] = ""
         parts.append(part_details)
 
         
+        #3_5 mm pitch screw terminal 55 mm x 73 mm
+        part_details = copy.deepcopy(pico_default)
+        part_details.pop("pins","")
+        part_details["color"] = "robotic"
+        part_details["description_main"] = "42_mm_width_64_mm_height_green_pcb"
+        part_details["description_extra"] = "simply_robtoics_motor_driver_board_for_raspberry_pi_pico"
+        part_details["manufacturer"] = "kitronik"
+        part_details["part_number"] = "5348"
+        part_details["link_distributor_kitronik"] = "https://kitronik.co.uk/products/5348-kitronik-simply-robotics-for-raspberry-pi-pico"
+        parts.append(part_details)
 
         
 

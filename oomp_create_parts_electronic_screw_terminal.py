@@ -22,7 +22,7 @@ def load_parts(**kwargs):
                 part_details["classification"] = "electronic"
                 part_details["type"] = "screw_terminal"
                 part_details["size"] = size
-                part_details["color"] = "green"
+                part_details["color"] = ""
                 part_details["description_main"] = description_main
                 part_details["description_extra"] = ""
                 part_details["manufacturer"] = ""

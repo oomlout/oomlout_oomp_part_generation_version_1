@@ -101,6 +101,8 @@ part_types.append("three_d_printer_printer")
 
 part_types.append("tool")
 
+part_types.append("toy")
+
 part_types.append("wood_timber_cls")
 
 #must be last
