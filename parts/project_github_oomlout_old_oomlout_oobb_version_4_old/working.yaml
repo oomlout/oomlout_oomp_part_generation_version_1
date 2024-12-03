@@ -1,0 +1,89 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: old_oomlout_oobb_version_4_old
+color_capital: Old Oomlout Oobb Version 4 Old
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OLD_OOMLOUT_OOBB_VERSION_4_OLD
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_old_oomlout_oobb_version_4_old
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_old_oomlout_oobb_version_4_old
+id: project_github_oomlout_old_oomlout_oobb_version_4_old
+id_no_class: github_oomlout_old_oomlout_oobb_version_4_old
+id_no_size: old_oobb_version_4_old
+id_no_type: oomlout_old_oomlout_oobb_version_4_old
+link_github: https://github.com/oomlout/old_oomlout_oobb_version_4_old
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_old_oomlout_oobb_version_4_old
+link_redirect: https://github.com/oomlout/old_oomlout_oobb_version_4_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_old_oomlout_oobb_version_4_old](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_old_oomlout_oobb_version_4_old)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_old_oomlout_oobb_version_4_old)<br>[Project
+    Github Oomlout Old Oomlout Oobb Version 4 Old](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_old_oomlout_oobb_version_4_old)<br><br>'
+markdown_short: '[project_github_oomlout_old_oomlout_oobb_version_4_old](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_old_oomlout_oobb_version_4_old)<br><br>'
+md5: 77f424c5761c88f0be2cbb9cad2e44c2
+md5_10: 77f424c576
+md5_10_upper: 77F424C576
+md5_5: 77f42
+md5_5_upper: 77F42
+md5_6: 77f424
+md5_6_alpha: 4oht0
+md5_6_alpha_upper: 4OHT0
+md5_6_upper: 77F424
+name: Project Github Oomlout Old Oomlout Oobb Version 4 Old
+name_no_class: Github Oomlout Old Oomlout Oobb Version 4 Old
+name_no_size: Old Oobb Version 4 Old
+name_no_size_short: Old Oobb Version 4 Old
+name_no_type: Oomlout Old Oomlout Oobb Version 4 Old
+oomp_key: oomp_project_github_oomlout_old_oomlout_oobb_version_4_old
+oomp_word: gift three droplet
+oomp_word_emoji: ':gift: :three: :droplet:'
+oomp_word_emoji_list:
+- ':gift:'
+- ':three:'
+- ':droplet:'
+oomp_word_list:
+- gift
+- three
+- droplet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB
