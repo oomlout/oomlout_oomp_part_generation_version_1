@@ -1,0 +1,87 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: green
+color_capital: Green
+color_first_letter: g
+color_first_letter_upper: G
+color_upper: GREEN
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 3_pin
+description_main_capital: 3 Pin
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_PIN
+description_only_numbers: '3'
+description_only_numbers_short: '3'
+description_or_color: G3
+description_or_color_upper: G3
+directory: parts/electronic_screw_terminal_5_mm_pitch_green_3_pin
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_green_3_pin
+id: electronic_screw_terminal_5_mm_pitch_green_3_pin
+id_no_class: screw_terminal_5_mm_pitch_green_3_pin
+id_no_size: green_3_pin
+id_no_type: 5_mm_pitch_green_3_pin
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_green_3_pin
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_screw_terminal_5_mm_pitch_green_3_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_green_3_pin)<br>[g3p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_green_3_pin)<br>[Electronic
+    Screw Terminal 5 Mm Pitch Green 3 Pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_green_3_pin)<br><br>'
+markdown_short: '[electronic_screw_terminal_5_mm_pitch_green_3_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_green_3_pin)<br><br>'
+md5: 1da2620815e3299a39b77bdcbf5951ad
+md5_10: 1da2620815
+md5_10_upper: 1DA2620815
+md5_5: 1da26
+md5_5_upper: 1DA26
+md5_6: 1da262
+md5_6_alpha: 15mjm
+md5_6_alpha_upper: 15MJM
+md5_6_upper: 1DA262
+name: Electronic Screw Terminal 5 Mm Pitch Green 3 Pin
+name_no_class: Screw Terminal 5 Mm Pitch Green 3 Pin
+name_no_size: Green 3 Pin
+name_no_size_short: Green 3 Pin
+name_no_type: 5 Mm Pitch Green 3 Pin
+oomp_key: oomp_electronic_screw_terminal_5_mm_pitch_green_3_pin
+oomp_word: baby violin tulip
+oomp_word_emoji: ':baby: :violin: :tulip:'
+oomp_word_emoji_list:
+- ':baby:'
+- ':violin:'
+- ':tulip:'
+oomp_word_list:
+- baby
+- violin
+- tulip
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: g3p
+short_code_upper: G3P
+short_name: ''
+size: 5_mm_pitch
+size_capital: 5 mm Pitch
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '5'
+size_only_numbers_no_zeros: '5'
+size_upper: 5_MM_PITCH
+type: screw_terminal
+type_capital: Screw Terminal
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SCREW_TERMINAL

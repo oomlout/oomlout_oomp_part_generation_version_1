@@ -53,9 +53,22 @@ def load_parts(**kwargs):
         
         current_default = copy.deepcopy(part_details)
 
-       
+        #adzuki
         part_details = copy.deepcopy(current_default)
+        part_details["description_main"] = "adzuki_bean"
+        part_details["description_extra"] = "tin_400_gram"
+        part_details["name_short"] = "Adzuki Beans"
+        parts.append(part_details)        
         
+        #black bean
+        part_details = copy.deepcopy(current_default)
+        part_details["description_main"] = "black_bean"
+        part_details["description_extra"] = "tin_400_gram"
+        part_details["name_short"] = "Black Beans"
+        parts.append(part_details)
+
+        #chickpea
+        part_details = copy.deepcopy(current_default)
         part_details["description_main"] = "chickpea"
         part_details["description_extra"] = "tin_400_gram"
         part_details["name_short"] = "Chickenpeas"
@@ -67,12 +80,6 @@ def load_parts(**kwargs):
         part_details["description_extra"] = "tin_400_gram"
         part_details["name_short"] = "Kidney Beans"
         parts.append(part_details)
-
-        #adzuki
-        part_details = copy.deepcopy(current_default)
-        part_details["description_main"] = "adzuki_bean"
-        part_details["description_extra"] = "tin_400_gram"
-        part_details["name_short"] = "Adzuki Beans"
 
         #elpaso refried beans
         part_details = copy.deepcopy(current_default)
@@ -454,6 +461,14 @@ def load_parts(**kwargs):
         part_details["manufacturer"] = ""
         part_details["part_number"] = ""
         
+
+        #make a box of bags
+        part_details = copy.deepcopy(part_details)
+        part_details["description_extra"] = "100_gram_bag"
+        part_details["name_short"] = "Box of Spice Bags"
+        parts.append(part_details)
+
+
         current_default_spice = copy.deepcopy(part_details)
 
         #schwartz default
@@ -463,6 +478,11 @@ def load_parts(**kwargs):
         
         schwartz_default_spice = copy.deepcopy(part_details)
 
+        part_details = copy.deepcopy(part_details)
+        part_details["description_extra"] = "100_gram_bag"
+        
+        bag_default_spice = copy.deepcopy(part_details)
+
         #spice
         if True:
 
@@ -471,6 +491,12 @@ def load_parts(**kwargs):
             part_details["size"] = "paprika"
             part_details["description"] = "paprika"
             part_details["name_short"] = "Paprika"
+            parts.append(part_details)
+
+            part_details = copy.deepcopy(bag_default_spice)
+            part_details["size"] = "paprika"
+            part_details["description"] = "paprika_bag"
+            part_details["name_short"] = "Paprika Bag"
             parts.append(part_details)
 
             #corriander_ground
@@ -486,6 +512,14 @@ def load_parts(**kwargs):
             part_details["description"] = "cumin_ground"
             part_details["name_short"] = "Cumin Ground"
             parts.append(part_details)
+
+            part_details = copy.deepcopy(bag_default_spice)
+            part_details["size"] = "cumin_ground"
+            part_details["description"] = "cumin_ground_bag"
+            part_details["name_short"] = "Cumin Ground Bag"
+            parts.append(part_details)
+
+
 
             #fennel_seeds
             part_details = copy.deepcopy(schwartz_default_spice)
@@ -520,6 +554,12 @@ def load_parts(**kwargs):
             part_details["size"] = "turmeric"
             part_details["description"] = "turmeric"
             part_details["name_short"] = "Turmeric"
+            parts.append(part_details)
+
+            part_details = copy.deepcopy(bag_default_spice)
+            part_details["size"] = "turmeric"
+            part_details["description"] = "turmeric_bag"
+            part_details["name_short"] = "Turmeric Bag"
             parts.append(part_details)
 
 

@@ -1,0 +1,89 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_oobb_holder_stationery_clip_binder
+color_capital: Oomlout Oobb Holder Stationery Clip Binder
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_OOBB_HOLDER_STATIONERY_CLIP_BINDER
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder
+id: project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder
+id_no_class: github_oomlout_oomlout_oobb_holder_stationery_clip_binder
+id_no_size: oobb_holder_stationery_clip_binder
+id_no_type: oomlout_oomlout_oobb_holder_stationery_clip_binder
+link_github: https://github.com/oomlout/oomlout_oobb_holder_stationery_clip_binder
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder
+link_redirect: https://github.com/oomlout/oomlout_oobb_holder_stationery_clip_binder
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder)<br>[Project
+    Github Oomlout Oomlout Oobb Holder Stationery Clip Binder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder)<br><br>'
+md5: b2b75cbeca9d0ce59614c9eb7ade491c
+md5_10: b2b75cbeca
+md5_10_upper: B2B75CBECA
+md5_5: b2b75
+md5_5_upper: B2B75
+md5_6: b2b75c
+md5_6_alpha: 6z1b0
+md5_6_alpha_upper: 6Z1B0
+md5_6_upper: B2B75C
+name: Project Github Oomlout Oomlout Oobb Holder Stationery Clip Binder
+name_no_class: Github Oomlout Oomlout Oobb Holder Stationery Clip Binder
+name_no_size: Oobb Holder Stationery Clip Binder
+name_no_size_short: Oobb Holder Stationery Clip Binder
+name_no_type: Oomlout Oomlout Oobb Holder Stationery Clip Binder
+oomp_key: oomp_project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder
+oomp_word: handbag pizza ox
+oomp_word_emoji: ':handbag: :pizza: :ox:'
+oomp_word_emoji_list:
+- ':handbag:'
+- ':pizza:'
+- ':ox:'
+oomp_word_list:
+- handbag
+- pizza
+- ox
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

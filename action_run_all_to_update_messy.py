@@ -2,7 +2,7 @@ import os
 import subprocess
 import time
 
-# Store the start time
+# Store the start time 
 start_time = time.time()
 
 # Run the full process

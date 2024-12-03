@@ -7,6 +7,21 @@ def load_parts(**kwargs):
     
     parts = []
 
+
+    #cleaning products
+    if True:
+        part_details = {}
+        part_details["classification"] = "household_cleaning"
+        part_details["type"] = "cleaner_spray"
+        part_details["size"] = [""]
+        part_details["color"] = [""]
+        part_details["description_main"] = "ineos_multi_room_cleaner_rhubarb_and_pommegranate"
+        part_details["description_extra"] = "750_ml_bottle"
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        parts.append(part_details)
+
+
     # animal
     if True:
         part_details = {}
