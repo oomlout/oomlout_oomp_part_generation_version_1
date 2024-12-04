@@ -11,7 +11,6 @@
     "make_files": true,
     "filter": "",
     "kicad_reference": "",
-    "link_buy": "https://www.aluminium-profile.co.uk/20x20-aluminium-profile-kjn992888",
     "classification_upper": "ALUMINIUM_EXTRUSION",
     "classification_capital": "Aluminium Extrusion",
     "classification_first_letter": "a",
@@ -90,4 +89,5 @@
     "description_or_color_upper": " ",
     "markdown_full": "[aluminium_extrusion_2020](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020)<br>[Aluminium Extrusion 2020](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020)<br><br>",
     "markdown_short": "[aluminium_extrusion_2020](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020)<br><br>"
+}t/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020)<br><br>"
 }
