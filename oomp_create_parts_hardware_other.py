@@ -19,7 +19,7 @@ def load_parts(**kwargs):
         part_details["part_number"] = ""
 
         part_details["distributor_amazon"] = "B0CC1YRZP6"
-        part_details["distributor_amazon_link"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+        part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
         part_details["price_1_distributor_amazon"] = 6.99/20/1.2
 
         parts.append(part_details)    
@@ -38,7 +38,7 @@ def load_parts(**kwargs):
         part_details["part_number"] = ""
 
         part_details["distributor_amazon"] = "B0CSBNN2R1"
-        part_details["distributor_amazon_link"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+        part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
         parts.append(part_details)
 
         # 5 mm width, 26 mm height, 9 mm depth, 13500 g weight capacity

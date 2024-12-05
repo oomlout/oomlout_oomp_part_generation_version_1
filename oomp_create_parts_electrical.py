@@ -55,7 +55,7 @@ def load_parts(**kwargs):
     part_details["short_name"] = ""
     #adding amazon
     part_details["distributor_amazon"] = "B0BLYVQBV7"
-    part_details["distributor_amazon_link"] = "https://www.amazon.co.uk/dp/B0BLYVQBV7"
+    part_details["link_distributor_amazon"] = "https://www.amazon.co.uk/dp/B0BLYVQBV7"
     part_details["price_1_distributor_amazon"] = 6.99/5/1.2
     #current_price
     part_details["price_1"] = part_details["price_1_distributor_amazon"]

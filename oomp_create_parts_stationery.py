@@ -27,7 +27,7 @@ def load_parts(**kwargs):
     #add amazon distributor
     
     part_details["distributor_amazon"] = "B075YQ93CC"    
-    part_details["distributor_amazon_link"] = "https://www.amazon.co.uk/dp/B075YQ93CC"
+    part_details["link_distributor_amazon"] = "https://www.amazon.co.uk/dp/B075YQ93CC"
     part_details["price_1_distributor_amazon"] = 9.93/10/1.2
     parts.append(part_details) 
 
@@ -45,7 +45,7 @@ def load_parts(**kwargs):
     #add amazon distributor
 
     part_details["distributor_amazon"] = "B07VHPV47Q"
-    part_details["distributor_amazon_link"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+    part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
     part_details["price_1_distributor_amazon"] = 3.99/12/1.2
     parts.append(part_details)
 

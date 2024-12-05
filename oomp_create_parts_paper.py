@@ -68,7 +68,7 @@ def load_parts(**kwargs):
         #distributor
         # amazon
         part_details["distributor_amazon"] = "B000J6A58M"
-        part_details["distributor_amazon_link"] = "https://www.amazon.co.uk/Color-Copy-Premium-Ream-Wrapped-CCW0324/dp/B000J6A58M"
+        part_details["link_distributor_amazon"] = "https://www.amazon.co.uk/Color-Copy-Premium-Ream-Wrapped-CCW0324/dp/B000J6A58M"
         part_details["price_1_distributor_amazon"] = 16.99/500/1.2
         # viking_direct
         part_details["distributor_viking_direct"] = "12320"
@@ -91,7 +91,7 @@ def load_parts(**kwargs):
         #distributor
         # amazon
         part_details["distributor_amazon"] = "B000KJOBK6"
-        part_details["distributor_amazon_link"] = "https://www.amazon.co.uk/dp/B000KJOBK6"
+        part_details["link_distributor_amazon"] = "https://www.amazon.co.uk/dp/B000KJOBK6"
         part_details["price_1_distributor_amazon"] = 14.49/250/1.2
         # viking_direct
         part_details["distributor_viking_direct"] = "73160"
@@ -109,7 +109,7 @@ def load_parts(**kwargs):
         #distributor
         # amazon
         part_details["distributor_amazon"] = "B0CHG4S5G6"
-        part_details["distributor_amazon_link"] = "https://www.amazon.co.uk/A4-100sheet-Cardstock-Invitations-Stationary-Scrapbook/dp/B0CHG4S5G6"
+        part_details["link_distributor_amazon"] = "https://www.amazon.co.uk/A4-100sheet-Cardstock-Invitations-Stationary-Scrapbook/dp/B0CHG4S5G6"
         part_details["price_1_distributor_amazon"] = 7.99/100/1.2
         # viking_direct
         part_details["distributor_rapid_online"] = "06-0930"
