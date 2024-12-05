@@ -27,6 +27,20 @@ def load_parts(**kwargs):
         parts.append(part_details)    
 
    
+    #mechano
+    if True:
+        part_details = {}
+        part_details["classification"] = "toy"
+        part_details["type"] = "mechano"
+        part_details["size"] = "car_remote_control"
+        part_details["color"] = ""
+        part_details["description_main"] = "lambourghini_huracan_green"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "mechano"
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""  
+        parts.append(part_details)    
+
         
 
 
