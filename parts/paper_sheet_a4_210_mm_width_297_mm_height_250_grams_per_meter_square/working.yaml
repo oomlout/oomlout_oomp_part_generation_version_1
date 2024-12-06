@@ -24,7 +24,6 @@ description_or_color: '250'
 description_or_color_upper: '250'
 directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square
 distributor_amazon: B0CHG4S5G6
-distributor_amazon_link: https://www.amazon.co.uk/A4-100sheet-Cardstock-Invitations-Stationary-Scrapbook/dp/B0CHG4S5G6
 distributor_rapid_online: 06-0930
 distributor_rapid_online_link: https://www.rapidonline.com/rapid-a4-card-white-pack-of-100-06-0930
 distributors: []
@@ -36,6 +35,7 @@ id: paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square
 id_no_class: sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square
 id_no_size: 250_grams_per_meter_square
 id_no_type: a4_210_mm_width_297_mm_height_250_grams_per_meter_square
+link_distributor_amazon: https://www.amazon.co.uk/A4-100sheet-Cardstock-Invitations-Stationary-Scrapbook/dp/B0CHG4S5G6
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square
 manufacturer: ''
 manufacturer_capital: ''

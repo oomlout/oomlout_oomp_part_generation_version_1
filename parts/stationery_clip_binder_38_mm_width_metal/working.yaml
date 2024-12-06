@@ -24,13 +24,13 @@ description_or_color: 'M '
 description_or_color_upper: 'M '
 directory: parts/stationery_clip_binder_38_mm_width_metal
 distributor_amazon: B07VHPV47Q
-distributor_amazon_link: https://www.amazon.co.uk/dp/B07VHPV47Q
 distributors: []
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal
 id: stationery_clip_binder_38_mm_width_metal
 id_no_class: clip_binder_38_mm_width_metal
 id_no_size: metal
 id_no_type: 38_mm_width_metal
+link_distributor_amazon: https://www.amazon.co.uk/dp/B07VHPV47Q
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal
 manufacturer: ''
 manufacturer_capital: ''

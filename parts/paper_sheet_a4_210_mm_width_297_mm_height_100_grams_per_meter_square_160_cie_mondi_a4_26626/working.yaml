@@ -24,7 +24,6 @@ description_or_color: '100'
 description_or_color_upper: '100'
 directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626
 distributor_amazon: B000J6A58M
-distributor_amazon_link: https://www.amazon.co.uk/Color-Copy-Premium-Ream-Wrapped-CCW0324/dp/B000J6A58M
 distributor_viking_direct: '12320'
 distributor_viking_direct_link: https://www.viking-direct.co.uk/en/p/12320
 distributor_viking_note: free delivery over 59 pounds
@@ -37,6 +36,7 @@ id: paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie
 id_no_class: sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626
 id_no_size: 100_grams_per_meter_square_160_cie_mondi_a4_26626
 id_no_type: a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626
+link_distributor_amazon: https://www.amazon.co.uk/Color-Copy-Premium-Ream-Wrapped-CCW0324/dp/B000J6A58M
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626
 manufacturer: mondi
 manufacturer_capital: Mondi

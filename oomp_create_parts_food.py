@@ -469,10 +469,10 @@ def load_parts(**kwargs):
         
 
         #make a box of bags
-        part_details = copy.deepcopy(part_details)
-        part_details.pop("manufacturer","")
+        part_details = copy.deepcopy(part_details)       
         part_details["description_extra"] = "100_gram_bag"
         part_details["name_short"] = "Box of Spice Bags"
+        part_details["manufacturer"] = ""
         parts.append(part_details)
 
 
@@ -484,9 +484,9 @@ def load_parts(**kwargs):
         part_details["manufacturer"] = "schwartz"
         
         schwartz_default_spice = copy.deepcopy(part_details)
-        part_details.pop("manufacturer","")
         part_details = copy.deepcopy(part_details)
         part_details["description_extra"] = "100_gram_bag"
+        part_details["manufacturer"] = ""
         
         bag_default_spice = copy.deepcopy(part_details)
 

@@ -1,0 +1,89 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: paprika_bag
+description_extra: 100_gram_bag
+description_extra_capital: 100 Gram Bag
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 100_GRAM_BAG
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_paprika_100_gram_bag
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_paprika_100_gram_bag
+id: food_seasoning_paprika_100_gram_bag
+id_no_class: seasoning_paprika_100_gram_bag
+id_no_size: 100_gram_bag
+id_no_type: paprika_100_gram_bag
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_paprika_100_gram_bag
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_paprika_100_gram_bag](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_paprika_100_gram_bag)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_paprika_100_gram_bag)<br>[Food
+    Seasoning Paprika 100 Gram Bag](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_paprika_100_gram_bag)<br><br>'
+markdown_short: '[food_seasoning_paprika_100_gram_bag](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_paprika_100_gram_bag)<br><br>'
+md5: 5365a5e2f825ee94dc1b287987ab2027
+md5_10: 5365a5e2f8
+md5_10_upper: 5365A5E2F8
+md5_5: 5365a
+md5_5_upper: 5365A
+md5_6: 5365a5
+md5_6_alpha: 3957p
+md5_6_alpha_upper: 3957P
+md5_6_upper: 5365A5
+name: Food Seasoning Paprika 100 Gram Bag
+name_no_class: Seasoning Paprika 100 Gram Bag
+name_no_size: 100 Gram Bag
+name_no_size_short: 100 Gram Bag
+name_no_type: Paprika 100 Gram Bag
+name_short: Paprika Bag
+oomp_key: oomp_food_seasoning_paprika_100_gram_bag
+oomp_word: fish maple_leaf headphones
+oomp_word_emoji: ':fish: :maple_leaf: :headphones:'
+oomp_word_emoji_list:
+- ':fish:'
+- ':maple_leaf:'
+- ':headphones:'
+oomp_word_list:
+- fish
+- maple_leaf
+- headphones
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: paprika
+size_capital: Paprika
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PAPRIKA
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING
