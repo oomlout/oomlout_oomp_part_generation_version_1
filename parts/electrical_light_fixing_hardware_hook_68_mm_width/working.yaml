@@ -24,13 +24,13 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/electrical_light_fixing_hardware_hook_68_mm_width
 distributor_amazon: B0BLYVQBV7
-distributor_amazon_link: https://www.amazon.co.uk/dp/B0BLYVQBV7
 distributors: []
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width
 id: electrical_light_fixing_hardware_hook_68_mm_width
 id_no_class: light_fixing_hardware_hook_68_mm_width
 id_no_size: 68_mm_width
 id_no_type: 68_mm_width
+link_distributor_amazon: https://www.amazon.co.uk/dp/B0BLYVQBV7
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width
 manufacturer: ''
 manufacturer_capital: ''

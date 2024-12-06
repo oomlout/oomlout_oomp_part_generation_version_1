@@ -11,7 +11,7 @@
     "make_files": true,
     "filter": "",
     "distributor_amazon": "B0CC1YRZP6",
-    "distributor_amazon_link": "https://www.amazon.co.uk/dp/B0CC1YRZP6",
+    "link_distributor_amazon": "https://www.amazon.co.uk/dp/B0CC1YRZP6",
     "price_1_distributor_amazon": 0.29125000000000006,
     "classification_upper": "HARDWARE",
     "classification_capital": "Hardware",

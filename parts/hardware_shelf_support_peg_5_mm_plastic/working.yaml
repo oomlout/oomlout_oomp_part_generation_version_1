@@ -24,7 +24,6 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/hardware_shelf_support_peg_5_mm_plastic
 distributor_amazon: B0CC1YRZP6
-distributor_amazon_link: https://www.amazon.co.uk/dp/B0CC1YRZP6
 distributors: []
 filter: ''
 from_yaml: false
@@ -33,6 +32,7 @@ id: hardware_shelf_support_peg_5_mm_plastic
 id_no_class: shelf_support_peg_5_mm_plastic
 id_no_size: plastic
 id_no_type: 5_mm_plastic
+link_distributor_amazon: https://www.amazon.co.uk/dp/B0CC1YRZP6
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic
 manufacturer: ''
 manufacturer_capital: ''
