@@ -29,6 +29,7 @@ id: electronic_battery_box_dewalt_xr_aliexpress_diy_200
 id_no_class: battery_box_dewalt_xr_aliexpress_diy_200
 id_no_size: aliexpress_diy_200
 id_no_type: dewalt_xr_aliexpress_diy_200
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005005544254172.html
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200
 manufacturer: aliexpress
 manufacturer_capital: Aliexpress
@@ -66,6 +67,7 @@ oomp_word_list:
 - pig
 part_number: diy_200
 part_number_capital: Diy 200
+part_number_distributor_aliexpress: '1005005544254172'
 part_number_exact: DIY-200
 part_number_first_letter: d
 part_number_first_letter_upper: D

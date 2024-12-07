@@ -166,5 +166,81 @@ def load_parts(**kwargs):
     parts.append(part_details)
 
 
+    #envelope
+    if True:
+        base = {}
+        base["classification"] = "paper"
+        base["type"] = "envelope"    
+        base["color"] = ""
+        base["description_main"] = ""
+        base["description_extra"] = ""
+        base["manufacturer"] = ""
+        base["part_number"] = ""
+
+        #c4
+        part_details = base.copy()
+        w = 324
+        h = 229
+        name = "c4"
+        note = f"fits_a4_sheet"
+        part_details["size"] = f"{name}_size_{w}_mm_width_{h}_mm_height_{note}"
+        part_details["width"] = f"{w} mm"
+        part_details["height"] = f"{h} mm"
+        part_details["short_name"] = "C4 Envelope"
+        parts.append(part_details)
+
+        #c5
+        part_details = base.copy()
+        w = 229
+        h = 162
+        name = "c5"
+        note = f"fits_a5_sheet"
+        part_details["size"] = f"{name}_size_{w}_mm_width_{h}_mm_height_{note}"
+        part_details["width"] = f"{w} mm"
+        part_details["height"] = f"{h} mm"
+        part_details["short_name"] = "C5 Envelope"
+        parts.append(part_details)
+
+        #c6
+        part_details = base.copy()
+        w = 162
+        h = 114
+        name = "c6"
+        note = f"fits_a6_sheet"
+        part_details["size"] = f"{name}_size_{w}_mm_width_{h}_mm_height_{note}"
+        part_details["width"] = f"{w} mm"
+        part_details["height"] = f"{h} mm"
+        part_details["short_name"] = "C6 Envelope"
+        parts.append(part_details)
+
+        #c7
+        part_details = base.copy()
+        w = 114
+        h = 81
+        name = "c7"
+        note = f"fits_a7_sheet"
+        part_details["size"] = f"{name}_size_{w}_mm_width_{h}_mm_height_{note}"
+        part_details["width"] = f"{w} mm"
+        part_details["height"] = f"{h} mm"
+        part_details["short_name"] = "C7 Envelope"
+        parts.append(part_details)
+
+        #dl
+        part_details = base.copy()
+        w = 220
+        h = 110
+        name = "dl"
+        note = f"fits_a4_sheet_folded_in_thirds"
+        part_details["size"] = f"{name}_size_{w}_mm_width_{h}_mm_height_{note}"
+        part_details["width"] = f"{w} mm"
+        part_details["height"] = f"{h} mm"
+        part_details["short_name"] = "DL Envelope"
+        parts.append(part_details)
+
+
+
+
+
+
     oomp.add_parts(parts, **kwargs)
     

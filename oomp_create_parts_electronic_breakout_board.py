@@ -382,10 +382,12 @@ def load_parts(**kwargs):
         part_details["type"] = "breakout_board_motor_driver"
         part_details["size"] = ["drv8833"]
         part_details["color"] = ["dual_h_bridge"]
-        part_details["description_main"] = "15_mm_width_15_mm_length_black_pcb"
+        part_details["description_main"] = "18_mm_width_16_mm_length_black_pcb"
         part_details["description_extra"] = ""
         part_details["manufacturer"] = "aliexpress"
         part_details["part_number"] = ""
+        part_details["part_number_distributor_aliexpress"] = "1005006282457232"
+        part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details["part_number_distributor_aliexpress"]}.html"
         part_details["short_name"] = ""
         part_details["kicad_reference"] = "BB"
         part_details["notes"] = []
