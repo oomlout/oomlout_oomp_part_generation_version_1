@@ -9,11 +9,11 @@ color_first_letter: ''
 color_first_letter_upper: ''
 color_upper: ''
 description: A popular arduino compatible atmega328 board from aliexpress
-description_extra: breakout_arduino_uno_footprint
-description_extra_capital: Breakout Arduino Uno Footprint
+description_extra: breakout_cnc_shield
+description_extra_capital: Breakout Cnc Shield
 description_extra_first_letter: b
 description_extra_first_letter_upper: B
-description_extra_upper: BREAKOUT_ARDUINO_UNO_FOOTPRINT
+description_extra_upper: BREAKOUT_CNC_SHIELD
 description_main: atmega328p_arduino_compatible
 description_main_capital: Atmega328P Arduino Compatible
 description_main_first_letter: a
@@ -23,53 +23,52 @@ description_only_numbers: '328'
 description_only_numbers_short: '328'
 description_or_color: '328'
 description_or_color_upper: '328'
-directory: parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_arduino_uno_footprint
+directory: parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_arduino_uno_footprint
-id: electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_arduino_uno_footprint
-id_no_class: breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_arduino_uno_footprint
-id_no_size: atmega328p_arduino_compatible_breakout_arduino_uno_footprint
-id_no_type: shennie_atmega328p_arduino_compatible_breakout_arduino_uno_footprint
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
+id: electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
+id_no_class: breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
+id_no_size: atmega328p_arduino_compatible_breakout_cnc_shield
+id_no_type: shennie_atmega328p_arduino_compatible_breakout_cnc_shield
 kicad_reference: BB
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_arduino_uno_footprint
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_arduino_uno_footprint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_arduino_uno_footprint)<br>[sh](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_arduino_uno_footprint)<br>[Electronic
-    Breakout Board Mcu Shennie Atmega328P Arduino Compatible Breakout Arduino Uno
-    Footprint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_arduino_uno_footprint)<br><br>'
-markdown_short: '[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_arduino_uno_footprint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_arduino_uno_footprint)<br><br>'
-md5: 2b1f0c1b2b96de7969716f128e77d6cd
-md5_10: 2b1f0c1b2b
-md5_10_upper: 2B1F0C1B2B
-md5_5: 2b1f0
-md5_5_upper: 2B1F0
-md5_6: 2b1f0c
-md5_6_alpha: 1okjw
-md5_6_alpha_upper: 1OKJW
-md5_6_upper: 2B1F0C
+markdown_full: '[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield)<br>[sh](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield)<br>[Electronic
+    Breakout Board Mcu Shennie Atmega328P Arduino Compatible Breakout Cnc Shield](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield)<br><br>'
+markdown_short: '[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield)<br><br>'
+md5: 6caf008b157223246ce0ca9553e21b74
+md5_10: 6caf008b15
+md5_10_upper: 6CAF008B15
+md5_5: 6caf0
+md5_5_upper: 6CAF0
+md5_6: 6caf00
+md5_6_alpha: 48nwg
+md5_6_alpha_upper: 48NWG
+md5_6_upper: 6CAF00
 name: Electronic Breakout Board Mcu Shennie Atmega328P Arduino Compatible Breakout
-    Arduino Uno Footprint
-name_no_class: Breakout Board Mcu Shennie Atmega328P Arduino Compatible Breakout Arduino
-    Uno Footprint
-name_no_size: Atmega328P Arduino Compatible Breakout Arduino Uno Footprint
-name_no_size_short: Atmega328P Arduino Compatible Breakout Arduino Uno Footprint
-name_no_type: Shennie Atmega328P Arduino Compatible Breakout Arduino Uno Footprint
+    Cnc Shield
+name_no_class: Breakout Board Mcu Shennie Atmega328P Arduino Compatible Breakout Cnc
+    Shield
+name_no_size: Atmega328P Arduino Compatible Breakout Cnc Shield
+name_no_size_short: Atmega328P Arduino Compatible Breakout Cnc Shield
+name_no_type: Shennie Atmega328P Arduino Compatible Breakout Cnc Shield
 notes: []
-oomp_key: oomp_electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_arduino_uno_footprint
-oomp_word: cloud princess alien
-oomp_word_emoji: ':cloud: :princess: :alien:'
+oomp_key: oomp_electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
+oomp_word: blossom tophat bowtie
+oomp_word_emoji: ':blossom: :tophat: :bowtie:'
 oomp_word_emoji_list:
-- ':cloud:'
-- ':princess:'
-- ':alien:'
+- ':blossom:'
+- ':tophat:'
+- ':bowtie:'
 oomp_word_list:
-- cloud
-- princess
-- alien
+- blossom
+- tophat
+- bowtie
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
