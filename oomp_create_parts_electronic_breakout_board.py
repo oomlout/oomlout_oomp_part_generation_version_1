@@ -131,10 +131,81 @@ def load_parts(**kwargs):
     #           uno
     if True:
         part_details = {}
-        part_details["description"] = "An arduino compatible breakout in the Arduino Uno size format" 
+        part_details["description"] = "An arduino compatible breakout in the Arduino Uno short size format, pfavoured by aliexpress vendors sometimes" 
         part_details["classification"] = "electronic"
         part_details["type"] = "breakout_board_mcu"
         part_details["size"] = "uno_short"
+        part_details["color"] = ""
+        part_details["description_main"] = "atmega328p_arduino_compatible"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""
+        pins = {}
+        pins["pin_1"] = ({"name": "reset", "number": "1", "type": "signal"})
+        pins["pin_2"] = ({"name": "3v3", "number": "2", "type": "signal"})
+        pins["pin_3"] = ({"name": "5v", "number": "3", "type": "signal"})
+        pins["pin_4"] = ({"name": "gnd", "number": "4", "type": "power"})
+        pins["pin_5"] = ({"name": "gnd", "number": "5", "type": "signal"})
+        pins["pin_6"] = ({"name": "vin", "number": "6", "type": "signal"})
+        pins["pin_7"] = ({"name": "a0", "number": "7", "type": "signal"})
+        pins["pin_8"] = ({"name": "a1", "number": "8", "type": "signal"})
+        pins["pin_9"] = ({"name": "a2", "number": "9", "type": "signal"})
+        pins["pin_10"] = ({"name": "a3", "number": "10", "type": "signal"})
+        pins["pin_11"] = ({"name": "a4", "number": "11", "type": "signal"})
+        pins["pin_12"] = ({"name": "a5", "number": "12", "type": "signal"})
+        pins["pin_13"] = ({"name": "d0_rx", "number": "13", "type": "signal"})
+        pins["pin_14"] = ({"name": "d1_tx", "number": "14", "type": "signal"})
+        pins["pin_15"] = ({"name": "d2", "number": "15", "type": "signal"})
+        pins["pin_16"] = ({"name": "d3", "number": "16", "type": "signal"})
+        pins["pin_17"] = ({"name": "d4", "number": "17", "type": "power"})
+        pins["pin_18"] = ({"name": "d5", "number": "18", "type": "signal"})
+        pins["pin_19"] = ({"name": "d6", "number": "19", "type": "signal"})
+        pins["pin_20"] = ({"name": "d7", "number": "20", "type": "signal"})
+        pins["pin_21"] = ({"name": "d8", "number": "21", "type": "signal"})
+        pins["pin_22"] = ({"name": "d9", "number": "22", "type": "signal"})
+        pins["pin_23"] = ({"name": "d10", "number": "23", "type": "signal"})
+        pins["pin_24"] = ({"name": "d11", "number": "24", "type": "signal"})
+        pins["pin_25"] = ({"name": "d12", "number": "25", "type": "signal"})
+        pins["pin_26"] = ({"name": "d13", "number": "26", "type": "signal"})
+        pins["pin_27"] = ({"name": "gnd", "number": "27", "type": "power"})
+        pins["pin_28"] = ({"name": "aref", "number": "28", "type": "signal"})
+        pins["pin_29"] = ({"name": "black", "number": "29", "type": "gnd"})
+        pins["pin_30"] = ({"name": "gnd", "number": "30", "type": "power"})
+        pins["pin_31"] = ({"name": "vcc", "number": "30", "type": "power"})
+        pins["pin_32"] = ({"name": "rx0", "number": "30", "type": "power"})
+        pins["pin_33"] = ({"name": "tx1", "number": "30", "type": "power"})
+        pins["pin_34"] = ({"name": "green", "number": "30", "type": "power"})
+        
+        part_details["pins"] = pins
+        #used below
+        part_details["kicad_reference"] = "BB"
+        part_details["notes"] = []
+        parts.append(part_details)
+        
+        #uses uno_short pin naming
+        part_details = {}
+        part_details["description"] = "An arduino compatible breakout in the Arduino Uno short size format, pfavoured by aliexpress vendors sometimes" 
+        part_details["classification"] = "electronic"
+        part_details["type"] = "breakout_board_mcu"
+        part_details["size"] = "uno_rev_1"
+        part_details["color"] = ""
+        part_details["description_main"] = "atmega328p_arduino_compatible"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""
+        pins = copy.deepcopy(pins)        
+        part_details["pins"] = pins
+        part_details["kicad_reference"] = "BB"
+        part_details["notes"] = []
+        parts.append(part_details)
+
+        part_details = {}
+        part_details["description"] = "An arduino compatible breakout in the Arduino Uno size format" 
+        part_details["classification"] = "electronic"
+        part_details["type"] = "breakout_board_mcu"
+        part_details["size"] = "uno_rev_3"
         part_details["color"] = ""
         part_details["description_main"] = "atmega328p_arduino_compatible"
         part_details["description_extra"] = ""
