@@ -43,7 +43,7 @@ if __name__ == "__main__":
     filter = ""
     #filter = "bearing"
     #filter = "computer"
-    #filter = "food"
+    filter = "food"
     #filter = "ikea"
     #filter = "hardware"
     #filter = "household"
@@ -53,7 +53,7 @@ if __name__ == "__main__":
     #filter =  "breakout_board"
     #filter = "electronic"
     #filter = "electronic_battery"
-    filter = "electronic_breakout_board"
+    #filter = "electronic_breakout_board"
     #filter = "electronic_screw_terminal"
     #filter = "lighting"
     #filter = "packaging"
@@ -64,6 +64,7 @@ if __name__ == "__main__":
     #filter = "tool"
     #filter = "toy"
     #filter = "wood"
+
 
     #filter = "aluminium_extrusion"
     #filter = "self_tapping"
