@@ -41,9 +41,10 @@ if __name__ == "__main__":
     kwargs = {}
 
     filter = ""
+    #filter = "appliance"
     #filter = "bearing"
     #filter = "computer"
-    filter = "food"
+    #filter = "food"
     #filter = "ikea"
     #filter = "hardware"
     #filter = "household"
@@ -61,7 +62,7 @@ if __name__ == "__main__":
     #filter = "paper"
     #filter = "robot_vacuum"
     #filter = "three_d_printer_filament"
-    #filter = "tool"
+    filter = "tool"
     #filter = "toy"
     #filter = "wood"
 

@@ -168,7 +168,21 @@ def load_parts(**kwargs):
         part_details["part_number_esact"] = "1-30-696"
         parts.append(part_details)
 
-    
+    # timer
+    if True:
+        part_details = {}
+        part_details["classification"] = "tool"
+        part_details["type"] = "timer"
+        part_details["size"] = [""]
+        part_details["color"] = [""]
+        part_details["description_main"] = ["80_mm_diameter_30_mm_depth_black"]
+        part_details["description_extra"] = [""]
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["part_number_distributor_amazon"] = "B07VNWZCZH"
+        part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/gp/product/{part_details['part_number_distributor_amazon']}"
+        parts.append(part_details)
+
     # vibratory_bowl
     if True:
         part_details = {}

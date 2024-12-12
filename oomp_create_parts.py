@@ -12,6 +12,8 @@ cnt_gen = 1
 
 part_types.append("aluminium_extrusion")
 
+part_types.append("appliance_vacuum_cleaner")
+
 part_types.append("camera")
 
 part_types.append("computer")
@@ -88,6 +90,8 @@ part_types.append("paper")
 
 #printer
 part_types.append("printer")
+
+part_types.append("remote_control")
 
 part_types.append("robot_vacuum")
 
