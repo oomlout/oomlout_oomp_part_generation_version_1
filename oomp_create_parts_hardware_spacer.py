@@ -9,7 +9,7 @@ def load_parts(**kwargs):
     if True:
         extras_sizes = {}
         extras_sizes["m3_id_7_mm_od"] = [4,5,6,8,10,12,15,20,25,30]
-        
+        extras_sizes["m6_id_9_mm_od"] = [6,9,12,15,20,25,30]
         
         for size in extras_sizes:
             part_details = {}
