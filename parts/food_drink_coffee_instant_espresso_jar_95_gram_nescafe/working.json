@@ -9,7 +9,10 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "food"
+    ],
     "name_short": "Instant Coffee Espresso",
     "classification_upper": "FOOD",
     "classification_capital": "Food",

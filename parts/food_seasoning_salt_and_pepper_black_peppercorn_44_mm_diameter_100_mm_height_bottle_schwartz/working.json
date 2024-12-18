@@ -9,7 +9,10 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "food"
+    ],
     "description": "black_peppercorn",
     "name_short": "Black Peppercorn",
     "classification_upper": "FOOD",

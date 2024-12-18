@@ -9,7 +9,10 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "food"
+    ],
     "description": "thyme",
     "name_short": "Thyme",
     "classification_upper": "FOOD",

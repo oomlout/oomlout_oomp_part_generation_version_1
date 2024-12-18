@@ -24,7 +24,9 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
 distributors: []
-filter: ''
+filter:
+- category
+- food
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
 id: food_dairy_2000_ml_milk_semi_skim_filtered_cravendale

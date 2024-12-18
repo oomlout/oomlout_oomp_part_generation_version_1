@@ -25,7 +25,9 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_dairy_eggs_large_free_range_six
 distributors: []
-filter: ''
+filter:
+- category
+- food
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_eggs_large_free_range_six
 id: food_dairy_eggs_large_free_range_six

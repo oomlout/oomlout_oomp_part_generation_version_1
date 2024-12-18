@@ -9,7 +9,10 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "food"
+    ],
     "description": "chives",
     "name_short": "Chives",
     "classification_upper": "FOOD",

@@ -9,7 +9,10 @@
     "part_number": "390_314_11",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "ikea"
+    ],
     "width": "780 mm",
     "height": "1710 mm",
     "depth": "310 mm",

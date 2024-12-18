@@ -14,7 +14,7 @@ import os
 import oom_markdown
 import oom_git
 
-
+import copy
 
 parts = {}
 parts_md5 = {}
@@ -213,282 +213,287 @@ def add_part(**kwargs):
         kwargs[key] = value
 
     ## get id
+    import copy
+    add_part_filters = copy.deepcopy(add_part_filter)
+    if not isinstance(add_part_filters, list):
+        add_part_filters = [add_part_filters] 
     id = get_id(**kwargs)
-    if add_part_filter in id:
-        
-        
-        
-        ## add part to dict
-        #print("    adding part " + id)
-        
+    for add_part_filter in add_part_filters:
+        if add_part_filter in id:
+            
+            
+            
+            ## add part to dict
+            #print("    adding part " + id)
+            
 
-        #add formated taxonomy
-        types = ["classification", "type", "size", "color", "description_main", "description_extra", "manufacturer", "part_number"]
-        formats = ["upper","capital","first_letter","first_letter_upper"]
-        for typ in types:
-            for format in formats:
-                kwargs[f"{typ}_{format}"] = kwargs[typ]
-                first_letter = ""
-                if kwargs[typ] != "":
-                    first_letter = kwargs[typ][0]
-                if format == "upper":
-                    kwargs[f"{typ}_{format}"] = kwargs[typ].upper()
-                if format == "capital":
-                    
-                    value = kwargs[typ].replace("_", " ").title()
-                    value = value.replace(" X ", " x ")
-                    value = value.replace("Mm", "mm")
-                    for i in range(1,10):
-                        for j in range(1,10):
-                            src_value = f"{i} {j}"
-                            dst_value = f"{i}.{j}"
-                            value = value.replace(src_value, dst_value)
-                    kwargs[f"{typ}_{format}"] = value
-                if format == "first_letter":
-                    kwargs[f"{typ}_{format}"] = first_letter
-                if format == "first_letter_upper":
-                    kwargs[f"{typ}_{format}"] = first_letter.upper()
-
-
-        #add id as a keyed item to kwargs
-        kwargs["id"] = id
-        clas = kwargs.get("classification","none")
-        ###add_id_start
-        id_no_class = id.replace(f"{clas}_","")        
-        kwargs["id_no_class"] = id_no_class
-        typ = kwargs.get("type","none")
-        id_no_type = id_no_class.replace(f"{typ}_","")        
-        kwargs["id_no_type"] = id_no_type
-        siz = kwargs.get("size","none")
-        id_no_size = id_no_type.replace(f"{siz}_","")
-        kwargs["id_no_size"] = id_no_size
-
-        kwargs["oomp_key"] = f'oomp_{id}'
-        github_link = f"https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/{id}" 
-        kwargs["github_link"] = github_link
-        kwargs["link_main"] = github_link
-
-        
-        #add the directory
-        kwargs["directory"] = f'parts/{id}'
-
-        ## add_id_end
-
-        ## add_name_start
-
-        #add name, the name is the id with proper capitalization and _ replaced with ' '
-        kwargs["name"] = id.replace("_", " ").title()
-        name_no_class = id_no_class.replace("_", " ").title()
-        kwargs["name_no_class"] = name_no_class
-        name_no_type = id_no_type.replace("_", " ").title()
-        kwargs["name_no_type"] = name_no_type
-        name_no_size = id_no_size.replace("_", " ").title()
-        kwargs["name_no_size"] = name_no_size
-
-        ## add_name_end
-
-        #add short code from a get_short_code function
-        kwargs["short_code"] = oomp_short_code.get_short_code(**kwargs)
-        kwargs["short_code_upper"] = kwargs["short_code"].upper()
-        parts_short_code[kwargs["short_code"]] = kwargs["id"]
-        
-        # add short name from a get_short_name function
-        short_name = oomp_short_name.get_short_name(**kwargs)
-        if short_name != "":
-            kwargs["short_name"] = short_name
+            #add formated taxonomy
+            types = ["classification", "type", "size", "color", "description_main", "description_extra", "manufacturer", "part_number"]
+            formats = ["upper","capital","first_letter","first_letter_upper"]
+            for typ in types:
+                for format in formats:
+                    kwargs[f"{typ}_{format}"] = kwargs[typ]
+                    first_letter = ""
+                    if kwargs[typ] != "":
+                        first_letter = kwargs[typ][0]
+                    if format == "upper":
+                        kwargs[f"{typ}_{format}"] = kwargs[typ].upper()
+                    if format == "capital":
+                        
+                        value = kwargs[typ].replace("_", " ").title()
+                        value = value.replace(" X ", " x ")
+                        value = value.replace("Mm", "mm")
+                        for i in range(1,10):
+                            for j in range(1,10):
+                                src_value = f"{i} {j}"
+                                dst_value = f"{i}.{j}"
+                                value = value.replace(src_value, dst_value)
+                        kwargs[f"{typ}_{format}"] = value
+                    if format == "first_letter":
+                        kwargs[f"{typ}_{format}"] = first_letter
+                    if format == "first_letter_upper":
+                        kwargs[f"{typ}_{format}"] = first_letter.upper()
 
 
-        #add distributors from a function get_distributors in oomp_distributors.py
-        kwargs = oomp_distributors.get_distributors(**kwargs)
+            #add id as a keyed item to kwargs
+            kwargs["id"] = id
+            clas = kwargs.get("classification","none")
+            ###add_id_start
+            id_no_class = id.replace(f"{clas}_","")        
+            kwargs["id_no_class"] = id_no_class
+            typ = kwargs.get("type","none")
+            id_no_type = id_no_class.replace(f"{typ}_","")        
+            kwargs["id_no_type"] = id_no_type
+            siz = kwargs.get("size","none")
+            id_no_size = id_no_type.replace(f"{siz}_","")
+            kwargs["id_no_size"] = id_no_size
 
-        kwargs = oomp_manufacturers.get_manufacturers(**kwargs)
+            kwargs["oomp_key"] = f'oomp_{id}'
+            github_link = f"https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/{id}" 
+            kwargs["github_link"] = github_link
+            kwargs["link_main"] = github_link
 
-        kwargs = oomp_packaging.get_packaging(**kwargs)
+            
+            #add the directory
+            kwargs["directory"] = f'parts/{id}'
 
-        kwargs = oomp_extra_details.get_extra_details(**kwargs)
+            ## add_id_end
 
-        # add_md5_start
+            ## add_name_start
 
-        #add a md5 hash of the id as a keyed item to kwargs
-        import hashlib
-        kwargs["md5"] = hashlib.md5(id.encode()).hexdigest()
-        #trim md5 to 6 and add it as md5_6
-        kwargs["md5_5"] = kwargs["md5"][0:5]
-        kwargs["md5_5_upper"] = kwargs["md5"][0:5].upper()
-        #add to md5_5 dict
-        parts_md5_5[kwargs["md5_5"]] = id
-        md5_6 = kwargs["md5"][0:6]
-        kwargs["md5_6"] = md5_6
-        kwargs["md5_6_upper"] = kwargs["md5_6"].upper()
+            #add name, the name is the id with proper capitalization and _ replaced with ' '
+            kwargs["name"] = id.replace("_", " ").title()
+            name_no_class = id_no_class.replace("_", " ").title()
+            kwargs["name_no_class"] = name_no_class
+            name_no_type = id_no_type.replace("_", " ").title()
+            kwargs["name_no_type"] = name_no_type
+            name_no_size = id_no_size.replace("_", " ").title()
+            kwargs["name_no_size"] = name_no_size
 
-        md5_6_alpha = hex_to_base36(kwargs["md5_6"])
-        kwargs["md5_6_alpha"] = md5_6_alpha
-        kwargs["md5_6_alpha_upper"] = kwargs["md5_6_alpha"].upper()
-        
-        
-        parts_md5_6[kwargs["md5_6"]] = id
-        kwargs["md5_10"] = kwargs["md5"][0:10]
-        kwargs["md5_10_upper"] = kwargs["md5_10"].upper()
-        parts_md5_10[kwargs["md5_10"]] = id
-        
-        ###### add_oomp_moji start
+            ## add_name_end
 
-        # oomp_word
-        import oomp_word
-        oomp_word_value = oomp_word.get_oomp_word(md5_6, style="string")
-        kwargs["oomp_word"] = oomp_word_value
-        kwargs["oomp_word_list"] = oomp_word.get_oomp_word(md5_6, style="list")
-        kwargs["oomp_word_emoji"] = oomp_word.get_oomp_word(md5_6, style="emoji")
-        kwargs["oomp_word_emoji_list"] = oomp_word.get_oomp_word(md5_6, style="emoji_list")
+            #add short code from a get_short_code function
+            kwargs["short_code"] = oomp_short_code.get_short_code(**kwargs)
+            kwargs["short_code_upper"] = kwargs["short_code"].upper()
+            parts_short_code[kwargs["short_code"]] = kwargs["id"]
+            
+            # add short name from a get_short_name function
+            short_name = oomp_short_name.get_short_name(**kwargs)
+            if short_name != "":
+                kwargs["short_name"] = short_name
 
-        ##### add_oomp_moji enf
 
-        ### add useful name variants
-        #      classification
-        #      type
-        typ = kwargs["type"]
-        type_first_letter = ""
-        if typ != "":
-            type_first_letter = kwargs["type"][0]
-        kwargs["type_first_letter"] = type_first_letter
-        kwargs["type_first_letter_upper"] = type_first_letter.upper()
-        kwargs["type_upper"] = kwargs["type"].upper()
-        kwargs["type_capital"] = kwargs["type"].replace("_", " ").title()
-        #      size
-        #remove all charachters that aren't numbers
-        size_only_numbers = ''.join(i for i in kwargs["size"] if i.isdigit())
-        kwargs["size_only_numbers"] = size_only_numbers
-        size_only_numbers_no_zeros = size_only_numbers.lstrip("0")
-        kwargs["size_only_numbers_no_zeros"] = str(size_only_numbers_no_zeros).replace("0","")
-        #      color
-        color = kwargs["color"]
-        kwargs["color_upper"] = color.upper()
-        #first letter
-        color_first_letter = ""
-        if color != "":
-            color_first_letter = color[0]
-        kwargs["color_first_letter"] = color_first_letter
-        kwargs["color_first_letter_upper"] = color_first_letter.upper()
-        
-        #      description_main
-        working_desc = kwargs["description_main"]
-        working_desc = working_desc.replace("2d54","")
-        description_only_numbers = ''.join(i for i in kwargs["description_main"] if i.isdigit())
-        kwargs["description_only_numbers"] = description_only_numbers
-        description_only_numbers_short = ""
-        if description_only_numbers == "":
-            description_only_numbers = 0
-        don = int(description_only_numbers)
-        if don < 1000:
-            description_only_numbers_short = str(don)
-        elif don < 10000:
-            w = str(round(don) / 1000)
-            w =w.replace(".", "")
-            if w[1] != "0":
-                description_only_numbers_short = w[0] + "k" + w[1]
+            #add distributors from a function get_distributors in oomp_distributors.py
+            kwargs = oomp_distributors.get_distributors(**kwargs)
+
+            kwargs = oomp_manufacturers.get_manufacturers(**kwargs)
+
+            kwargs = oomp_packaging.get_packaging(**kwargs)
+
+            kwargs = oomp_extra_details.get_extra_details(**kwargs)
+
+            # add_md5_start
+
+            #add a md5 hash of the id as a keyed item to kwargs
+            import hashlib
+            kwargs["md5"] = hashlib.md5(id.encode()).hexdigest()
+            #trim md5 to 6 and add it as md5_6
+            kwargs["md5_5"] = kwargs["md5"][0:5]
+            kwargs["md5_5_upper"] = kwargs["md5"][0:5].upper()
+            #add to md5_5 dict
+            parts_md5_5[kwargs["md5_5"]] = id
+            md5_6 = kwargs["md5"][0:6]
+            kwargs["md5_6"] = md5_6
+            kwargs["md5_6_upper"] = kwargs["md5_6"].upper()
+
+            md5_6_alpha = hex_to_base36(kwargs["md5_6"])
+            kwargs["md5_6_alpha"] = md5_6_alpha
+            kwargs["md5_6_alpha_upper"] = kwargs["md5_6_alpha"].upper()
+            
+            
+            parts_md5_6[kwargs["md5_6"]] = id
+            kwargs["md5_10"] = kwargs["md5"][0:10]
+            kwargs["md5_10_upper"] = kwargs["md5_10"].upper()
+            parts_md5_10[kwargs["md5_10"]] = id
+            
+            ###### add_oomp_moji start
+
+            # oomp_word
+            import oomp_word
+            oomp_word_value = oomp_word.get_oomp_word(md5_6, style="string")
+            kwargs["oomp_word"] = oomp_word_value
+            kwargs["oomp_word_list"] = oomp_word.get_oomp_word(md5_6, style="list")
+            kwargs["oomp_word_emoji"] = oomp_word.get_oomp_word(md5_6, style="emoji")
+            kwargs["oomp_word_emoji_list"] = oomp_word.get_oomp_word(md5_6, style="emoji_list")
+
+            ##### add_oomp_moji enf
+
+            ### add useful name variants
+            #      classification
+            #      type
+            typ = kwargs["type"]
+            type_first_letter = ""
+            if typ != "":
+                type_first_letter = kwargs["type"][0]
+            kwargs["type_first_letter"] = type_first_letter
+            kwargs["type_first_letter_upper"] = type_first_letter.upper()
+            kwargs["type_upper"] = kwargs["type"].upper()
+            kwargs["type_capital"] = kwargs["type"].replace("_", " ").title()
+            #      size
+            #remove all charachters that aren't numbers
+            size_only_numbers = ''.join(i for i in kwargs["size"] if i.isdigit())
+            kwargs["size_only_numbers"] = size_only_numbers
+            size_only_numbers_no_zeros = size_only_numbers.lstrip("0")
+            kwargs["size_only_numbers_no_zeros"] = str(size_only_numbers_no_zeros).replace("0","")
+            #      color
+            color = kwargs["color"]
+            kwargs["color_upper"] = color.upper()
+            #first letter
+            color_first_letter = ""
+            if color != "":
+                color_first_letter = color[0]
+            kwargs["color_first_letter"] = color_first_letter
+            kwargs["color_first_letter_upper"] = color_first_letter.upper()
+            
+            #      description_main
+            working_desc = kwargs["description_main"]
+            working_desc = working_desc.replace("2d54","")
+            description_only_numbers = ''.join(i for i in kwargs["description_main"] if i.isdigit())
+            kwargs["description_only_numbers"] = description_only_numbers
+            description_only_numbers_short = ""
+            if description_only_numbers == "":
+                description_only_numbers = 0
+            don = int(description_only_numbers)
+            if don < 1000:
+                description_only_numbers_short = str(don)
+            elif don < 10000:
+                w = str(round(don) / 1000)
+                w =w.replace(".", "")
+                if w[1] != "0":
+                    description_only_numbers_short = w[0] + "k" + w[1]
+                    pass
+                else:
+                    description_only_numbers_short = w[0] + "k"
+                    pass
+            elif don < 100000:
+                w = str(round(don / 1000))
+                description_only_numbers_short = w + "k"
+                pass
+            elif don < 1000000:
+                w = str(round(don / 1000))
+                description_only_numbers_short = w + "k"
                 pass
             else:
-                description_only_numbers_short = w[0] + "k"
-                pass
-        elif don < 100000:
-            w = str(round(don / 1000))
-            description_only_numbers_short = w + "k"
+                w = str(round(don) / 100000)
+                w =w.replace(".", "")
+                if w[1] != "0":
+                    description_only_numbers_short = w[0] + "M" + w[1]
+                    pass
+                else:
+                    description_only_numbers_short = w[0] + "M"
+                    pass            
+            
+            replacements = []
+            replacements.append(["nano_farad", "nf"])
+            replacements.append(["micro_farad", "uf"])
+            replacements.append(["pico_farad", "pf"])
+            replacement_extra = ""
+            for replacement in replacements:
+                if replacement[0] in id:
+                    replacement_extra = replacement[1]
+
+            if description_only_numbers_short == 0 or description_only_numbers_short == "0" or description_only_numbers_short == "":
+                description_only_numbers_short = " "
+            
+            description_only_numbers_short += replacement_extra
+            kwargs["description_only_numbers_short"] = description_only_numbers_short
+
+            name_no_size_short_number = kwargs["name_no_size"]
+            if description_only_numbers_short != " ":            
+                name_no_size_short_number = name_no_size_short_number.replace(description_only_numbers, description_only_numbers_short)        
+            kwargs["name_no_size_short"] = name_no_size_short_number
+
+            
+            
+            description_or_color = f"{color_first_letter.upper()}{description_only_numbers_short}"
+            kwargs["description_or_color"] = description_or_color
+            kwargs["description_or_color_upper"] = description_or_color.upper()
+            
+            #      description_extra
+
+
+
+
+            kwargs = get_markdown_summaries(**kwargs)
+
             pass
-        elif don < 1000000:
-            w = str(round(don / 1000))
-            description_only_numbers_short = w + "k"
-            pass
-        else:
-            w = str(round(don) / 100000)
-            w =w.replace(".", "")
-            if w[1] != "0":
-                description_only_numbers_short = w[0] + "M" + w[1]
-                pass
-            else:
-                description_only_numbers_short = w[0] + "M"
-                pass            
-        
-        replacements = []
-        replacements.append(["nano_farad", "nf"])
-        replacements.append(["micro_farad", "uf"])
-        replacements.append(["pico_farad", "pf"])
-        replacement_extra = ""
-        for replacement in replacements:
-            if replacement[0] in id:
-                replacement_extra = replacement[1]
 
-        if description_only_numbers_short == 0 or description_only_numbers_short == "0" or description_only_numbers_short == "":
-            description_only_numbers_short = " "
-        
-        description_only_numbers_short += replacement_extra
-        kwargs["description_only_numbers_short"] = description_only_numbers_short
+            ## print part nicely indented by six spaces
+            ### print("      " + str(kwargs).replace(", ", ",\n      "))
 
-        name_no_size_short_number = kwargs["name_no_size"]
-        if description_only_numbers_short != " ":            
-            name_no_size_short_number = name_no_size_short_number.replace(description_only_numbers, description_only_numbers_short)        
-        kwargs["name_no_size_short"] = name_no_size_short_number
+            if make_files:
+                ######### file stuff
+                directory_parts = "parts"
+                if make_files != True:
+                    directory_parts = make_files
 
-        
-        
-        description_or_color = f"{color_first_letter.upper()}{description_only_numbers_short}"
-        kwargs["description_or_color"] = description_or_color
-        kwargs["description_or_color_upper"] = description_or_color.upper()
-        
-        #      description_extra
-
-
-
-
-        kwargs = get_markdown_summaries(**kwargs)
-
-        pass
-
-        ## print part nicely indented by six spaces
-        ### print("      " + str(kwargs).replace(", ", ",\n      "))
-
-        if make_files:
-            ######### file stuff
-            directory_parts = "parts"
-            if make_files != True:
-                directory_parts = make_files
-
-            ## make a directory in /parts for the part the name is its id
-            import os
-            if not os.path.exists(f"{directory_parts}/" + id ):
-                os.makedirs(f"{directory_parts}/" + id )
-            
-            ## write the part working in json to the directory name the file working.json
-            import json
-            with open(f"{directory_parts}/" + id + "/working.json", "w") as outfile:
-                json.dump(kwargs, outfile, indent=4)
-            ## write the part working in yaml to the directory name the file working.json
-            
-            file_types = ["datasheet.pdf", "image.jpg", "image_reference.jpg"]
-            #for each file type look in the src directory for a file named (id)_(file_type) if it exists copy it to the parts directory as the file_type name
-            for file_type in file_types:
-                import os.path
-                if os.path.isfile("src/" + id + "_" + file_type):
-                    import shutil
-                    shutil.copy(f"src/" + id + "_" + file_type, f"{directory_parts}/" + id + "/" + file_type)
-
-        
-
-            ### eda stuff
-            kwargs = oomp_kicad_footprint.get_footprints(**kwargs)
-            kwargs = oomp_kicad_symbol.get_symbols(**kwargs)
+                ## make a directory in /parts for the part the name is its id
+                import os
+                if not os.path.exists(f"{directory_parts}/" + id ):
+                    os.makedirs(f"{directory_parts}/" + id )
+                
+                ## write the part working in json to the directory name the file working.json
+                import json
+                with open(f"{directory_parts}/" + id + "/working.json", "w") as outfile:
+                    json.dump(kwargs, outfile, indent=4)
+                ## write the part working in yaml to the directory name the file working.json
+                
+                file_types = ["datasheet.pdf", "image.jpg", "image_reference.jpg"]
+                #for each file type look in the src directory for a file named (id)_(file_type) if it exists copy it to the parts directory as the file_type name
+                for file_type in file_types:
+                    import os.path
+                    if os.path.isfile("src/" + id + "_" + file_type):
+                        import shutil
+                        shutil.copy(f"src/" + id + "_" + file_type, f"{directory_parts}/" + id + "/" + file_type)
 
             
-            import yaml
-            import copy
-            p2 = copy.deepcopy(kwargs)
-            p2.pop("make_files", None)
-            p2.pop("counter", None)
 
-            with open(f"{directory_parts}/" + id + "/working.yaml", "w") as outfile:
-                yaml.dump(p2, outfile, indent=4)
+                ### eda stuff
+                kwargs = oomp_kicad_footprint.get_footprints(**kwargs)
+                kwargs = oomp_kicad_symbol.get_symbols(**kwargs)
+
+                
+                import yaml
+                import copy
+                p2 = copy.deepcopy(kwargs)
+                p2.pop("make_files", None)
+                p2.pop("counter", None)
+
+                with open(f"{directory_parts}/" + id + "/working.yaml", "w") as outfile:
+                    yaml.dump(p2, outfile, indent=4)
 
 
-        parts[id] = kwargs
+            parts[id] = kwargs
     else:
         print("    skipping part " + id)
     cnt += 1

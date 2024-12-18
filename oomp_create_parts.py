@@ -3,6 +3,7 @@ import importlib
 import oomp
 import yaml
 from multiprocessing import Pool
+import copy
 
 part_types = []
 
@@ -64,6 +65,7 @@ part_types.append("electronic_wire_pigtail")
 part_types.append("flashlight")
 
 part_types.append("food")
+part_types.append("food_seasoning")
 
 part_types.append("furniture")
 part_types.append("furniture_ikea")
@@ -71,6 +73,7 @@ part_types.append("furniture_ikea")
 part_types.append("household")
 
 part_types.append("mechanical_motor")
+part_types.append("mechanical_solenoid")
 part_types.append("mechanical_wheel")
 
 part_types.append("oobb")
@@ -114,6 +117,9 @@ part_types.append("wood_timber_cls")
 #must be last
 part_types.append("project_github")
 
+part_types.append("category") # needs to be added 
+
+
 for type in part_types:    
     importlib.import_module(f'oomp_create_parts_{type}')
 
@@ -121,20 +127,29 @@ def load_parts(**kwargs):
     print("loading parts from modules")
     filter = kwargs.get('filter', "")
     for type in part_types:
-        if filter in type:
-            if type == "project_github":
-                try:
-                    importlib.import_module(f'oomp_create_parts_{type}').load_parts(**kwargs)
-                except:
-                    print("project_github not available")
-                    print("project_github not available")
-                    print("project_github not available")
-                    print("project_github not available")
-                    print("project_github not available")
-                    import time
-                    time.sleep(10)
-                    return
-            importlib.import_module(f'oomp_create_parts_{type}').load_parts(**kwargs)
+        #if filter isn't an array make it one
+        filters = []
+        if not isinstance(filter, list):
+            filters = [filter]
+
+        filters = copy.deepcopy(filter)
+        for filter in filters:
+            if filter in type:
+                if type == "project_github":
+                    try:
+                        importlib.import_module(f'oomp_create_parts_{type}').load_parts(**kwargs)
+                    except:
+                        print("project_github not available")
+                        print("project_github not available")
+                        print("project_github not available")
+                        print("project_github not available")
+                        print("project_github not available")
+                        import time
+                        time.sleep(10)
+                        return
+                importlib.import_module(f'oomp_create_parts_{type}').load_parts(**kwargs)
+    if "category" in filters:
+        oomp.add_category_parts(**kwargs)
 
 
 def load_parts_from_yaml(**kwargs):

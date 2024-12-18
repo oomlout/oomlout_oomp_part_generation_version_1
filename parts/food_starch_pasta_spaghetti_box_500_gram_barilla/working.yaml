@@ -25,7 +25,9 @@ description_or_color: 'S '
 description_or_color_upper: 'S '
 directory: parts/food_starch_pasta_spaghetti_box_500_gram_barilla
 distributors: []
-filter: ''
+filter:
+- category
+- food
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_spaghetti_box_500_gram_barilla
 id: food_starch_pasta_spaghetti_box_500_gram_barilla

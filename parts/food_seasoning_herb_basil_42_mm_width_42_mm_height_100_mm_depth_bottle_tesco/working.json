@@ -9,7 +9,10 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "food"
+    ],
     "description": "basil",
     "name_short": "Basil",
     "classification_upper": "FOOD",

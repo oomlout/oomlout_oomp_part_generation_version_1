@@ -44,6 +44,7 @@ if __name__ == "__main__":
     #filter = "appliance"
     #filter = "bearing"
     #filter = "computer"
+    filter = ["category","ikea"]
     #filter = "food"
     #filter = "ikea"
     #filter = "hardware"
@@ -62,9 +63,10 @@ if __name__ == "__main__":
     #filter = "paper"
     #filter = "robot_vacuum"
     #filter = "three_d_printer_filament"
-    filter = "tool"
+    #filter = "tool"
     #filter = "toy"
     #filter = "wood"
+
 
 
     #filter = "aluminium_extrusion"
@@ -74,7 +76,7 @@ if __name__ == "__main__":
     main(**kwargs)
 
     #wait
-    input("Press Enter to continue...")
+    #input("Press Enter to continue...")
 
     if boolean_generate_releases:
         import action_generate_releases

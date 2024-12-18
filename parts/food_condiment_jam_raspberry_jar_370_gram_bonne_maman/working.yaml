@@ -24,7 +24,9 @@ description_or_color: 'J '
 description_or_color_upper: 'J '
 directory: parts/food_condiment_jam_raspberry_jar_370_gram_bonne_maman
 distributors: []
-filter: ''
+filter:
+- category
+- food
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_jam_raspberry_jar_370_gram_bonne_maman
 id: food_condiment_jam_raspberry_jar_370_gram_bonne_maman

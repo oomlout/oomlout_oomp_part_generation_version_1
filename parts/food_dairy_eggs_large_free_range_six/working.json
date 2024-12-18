@@ -9,7 +9,10 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "food"
+    ],
     "part_number_distributor_ocado": "57293011",
     "link_distributor_ocado": "https://www.ocado.com/search?entry=57293011",
     "description": "Ocado Large Free Range Eggs",

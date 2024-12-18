@@ -9,7 +9,10 @@
     "part_number": "903_015_55",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "ikea"
+    ],
     "width": "770 mm",
     "height": "390 mm",
     "depth": "390 mm",

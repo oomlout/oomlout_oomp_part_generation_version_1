@@ -24,7 +24,9 @@ description_or_color: 'I '
 description_or_color_upper: 'I '
 directory: parts/food_pantry_ingredient_coconut_milk_tin_400_ml
 distributors: []
-filter: ''
+filter:
+- category
+- food
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml
 id: food_pantry_ingredient_coconut_milk_tin_400_ml

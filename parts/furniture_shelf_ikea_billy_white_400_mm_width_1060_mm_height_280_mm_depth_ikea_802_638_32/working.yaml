@@ -25,7 +25,9 @@ description_or_color: 'W '
 description_or_color_upper: 'W '
 directory: parts/furniture_shelf_ikea_billy_white_400_mm_width_1060_mm_height_280_mm_depth_ikea_802_638_32
 distributors: []
-filter: ''
+filter:
+- category
+- ikea
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_billy_white_400_mm_width_1060_mm_height_280_mm_depth_ikea_802_638_32
 height: 1060 mm

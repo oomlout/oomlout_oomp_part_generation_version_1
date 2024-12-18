@@ -9,7 +9,10 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "ikea"
+    ],
     "classification_upper": "LIGHTING",
     "classification_capital": "Lighting",
     "classification_first_letter": "l",

@@ -9,7 +9,10 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "food"
+    ],
     "description": "rice_basmati",
     "name_short": "Rice Basmati",
     "classification_upper": "FOOD",

@@ -9,7 +9,10 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "food"
+    ],
     "description": "sugar_icing",
     "name_short": "Sugar Icing",
     "classification_upper": "FOOD",

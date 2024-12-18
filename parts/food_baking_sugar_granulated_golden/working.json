@@ -9,7 +9,10 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "food"
+    ],
     "description": "sugar_granulated_golden",
     "name_short": "Sugar Golden Granulated Coffee",
     "classification_upper": "FOOD",

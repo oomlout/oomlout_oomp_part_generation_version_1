@@ -25,7 +25,9 @@ description_or_color: 'B '
 description_or_color_upper: 'B '
 directory: parts/food_starch_rice_basmati
 distributors: []
-filter: ''
+filter:
+- category
+- food
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_basmati
 id: food_starch_rice_basmati

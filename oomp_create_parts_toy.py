@@ -23,7 +23,20 @@ def load_parts(**kwargs):
         part_details["part_number"] = ""
         part_details["short_name"] = ""  
         part_details["distributor_amazon"] = "B09FSFP7H2"
-        part_details["link_distributor_amzon"] = f"https://www.amazon.com/dp/{part_details['distributor_amazon']}"
+        part_details["link_distributor_amazon"] = f"https://www.amazon.com/dp/{part_details['distributor_amazon']}"
+        parts.append(part_details)    
+        part_details = {}
+        part_details["classification"] = "toy"
+        part_details["type"] = "remote_control"
+        part_details["size"] = "2_4_ghz_controller"
+        part_details["color"] = ""
+        part_details["description_main"] = "stunt_car_green_165_mm_width_155_mm_height_75_mm_depth"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""  
+        part_details["distributor_aliexpress"] = "1005006841176949"
+        part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['distributor_aliexpress']}.html"
         parts.append(part_details)    
 
    

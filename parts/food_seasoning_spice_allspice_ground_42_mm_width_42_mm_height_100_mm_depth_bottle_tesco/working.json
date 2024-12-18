@@ -9,7 +9,10 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "food"
+    ],
     "description": "allspice ground",
     "name_short": "Allspice Ground",
     "classification_upper": "FOOD",

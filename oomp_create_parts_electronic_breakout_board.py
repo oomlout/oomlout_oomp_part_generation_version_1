@@ -116,6 +116,12 @@ def load_parts(**kwargs):
 
         shennie_default = copy.deepcopy(part_details)
 
+
+        #usb_c version
+        part_details = copy.deepcopy(shennie_default)
+        part_details["description_extra"] = "usb_c_type"
+        parts.append(part_details)
+
         part_details = copy.deepcopy(shennie_default)
         part_details["description_extra"] = "breakout_screw_terminal_3_5_mm_pitch"
         parts.append(part_details)

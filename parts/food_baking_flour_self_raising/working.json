@@ -9,7 +9,10 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "food"
+    ],
     "description": "flour_self_raising",
     "name_short": "Flour Self Raising",
     "classification_upper": "FOOD",

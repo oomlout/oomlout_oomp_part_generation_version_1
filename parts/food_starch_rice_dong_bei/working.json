@@ -9,7 +9,10 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "food"
+    ],
     "description": "rice_dong_bei",
     "name_short": "Rice Dong Bei",
     "classification_upper": "FOOD",

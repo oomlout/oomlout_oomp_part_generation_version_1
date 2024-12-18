@@ -9,7 +9,10 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "food"
+    ],
     "description": "paprika smoked",
     "name_short": "Paprika Smoked",
     "classification_upper": "FOOD",

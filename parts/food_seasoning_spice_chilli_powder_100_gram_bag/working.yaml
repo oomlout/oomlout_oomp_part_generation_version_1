@@ -25,7 +25,9 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_seasoning_spice_chilli_powder_100_gram_bag
 distributors: []
-filter: ''
+filter:
+- category
+- food
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_spice_chilli_powder_100_gram_bag
 id: food_seasoning_spice_chilli_powder_100_gram_bag

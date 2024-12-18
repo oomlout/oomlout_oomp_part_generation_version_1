@@ -9,7 +9,10 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "food"
+    ],
     "description": "cinnamon ground",
     "name_short": "Cinnamon Ground",
     "classification_upper": "FOOD",

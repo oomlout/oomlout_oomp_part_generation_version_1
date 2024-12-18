@@ -9,7 +9,10 @@
     "part_number": "202_758_14",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": [
+        "category",
+        "ikea"
+    ],
     "width": "770 mm",
     "height": "770 mm",
     "depth": "390 mm",

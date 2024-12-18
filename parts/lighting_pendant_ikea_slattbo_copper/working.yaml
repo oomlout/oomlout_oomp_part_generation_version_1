@@ -24,7 +24,9 @@ description_or_color: 'C '
 description_or_color_upper: 'C '
 directory: parts/lighting_pendant_ikea_slattbo_copper
 distributors: []
-filter: ''
+filter:
+- category
+- ikea
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper
 id: lighting_pendant_ikea_slattbo_copper
