@@ -117,7 +117,7 @@ part_types.append("wood_timber_cls")
 #must be last
 part_types.append("project_github")
 
-part_types.append("category") # needs to be added 
+
 
 
 for type in part_types:    
@@ -148,8 +148,10 @@ def load_parts(**kwargs):
                         time.sleep(10)
                         return
                 importlib.import_module(f'oomp_create_parts_{type}').load_parts(**kwargs)
-    if "category" in filters:
-        oomp.add_category_parts(**kwargs)
+    
+    #add category making last
+    if "category" in filters or "" in filters:
+        importlib.import_module(f'oomp_create_parts_category').load_parts(**kwargs)
 
 
 def load_parts_from_yaml(**kwargs):
