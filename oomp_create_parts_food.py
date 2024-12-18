@@ -541,7 +541,17 @@ def load_parts(**kwargs):
 
 
         # rice
-        
+        rices = []
+        rices.append("basmati")
+        rices.append("brown_short_grain")
+        rices.append("dong_bei")
+        rices.append("baldo")
+        rices.append("arborio")
+        rices.append("sushi")
+        rices.append("long_grain")
+        rices.append("wild")
+        rices.append("long_grain_quick_cook")
+
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "rice"
         part_details["color"] = "dong_bei"
