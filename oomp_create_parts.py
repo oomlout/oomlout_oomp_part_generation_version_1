@@ -151,6 +151,7 @@ def load_parts(**kwargs):
     
     #add category making last
     if "category" in filters or "" in filters:
+        print("creating category parts")
         importlib.import_module(f'oomp_create_parts_category').load_parts(**kwargs)
 
 
