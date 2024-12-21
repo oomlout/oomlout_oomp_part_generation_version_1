@@ -9,10 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": [
-        "category",
-        "food"
-    ],
+    "filter": "",
     "part_number_distributor_ocado": "518090011",
     "link_distributor_ocado": "https://www.ocado.com/search?entry=518090011",
     "description": "M&S Iceberg Lettuce",

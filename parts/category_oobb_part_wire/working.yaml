@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: wire
+color_capital: Wire
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WIRE
+description: category_oobb
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/category_oobb_part_wire
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire
+id: category_oobb_part_wire
+id_no_class: oobb_part_wire
+id_no_size: wire
+id_no_type: part_wire
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_wire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire)<br>[Category
+    Oobb Part Wire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire)<br><br>'
+markdown_short: '[category_oobb_part_wire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire)<br><br>'
+md5: e7ca6a3e25a9c328b9923ced2c7f48b9
+md5_10: e7ca6a3e25
+md5_10_upper: E7CA6A3E25
+md5_5: e7ca6
+md5_5_upper: E7CA6
+md5_6: e7ca6a
+md5_6_alpha: 91l62
+md5_6_alpha_upper: 91L62
+md5_6_upper: E7CA6A
+name: Category Oobb Part Wire
+name_no_class: Oobb Part Wire
+name_no_size: Wire
+name_no_size_short: Wire
+name_no_type: Part Wire
+oomp_key: oomp_category_oobb_part_wire
+oomp_word: helicopter cherries palm_tree
+oomp_word_emoji: ':helicopter: :cherries: :palm_tree:'
+oomp_word_emoji_list:
+- ':helicopter:'
+- ':cherries:'
+- ':palm_tree:'
+oomp_word_list:
+- helicopter
+- cherries
+- palm_tree
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

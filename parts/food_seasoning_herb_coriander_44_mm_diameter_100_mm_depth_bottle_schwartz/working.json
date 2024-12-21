@@ -9,10 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": [
-        "category",
-        "food"
-    ],
+    "filter": "",
     "description": "coriander",
     "name_short": "Coriander",
     "classification_upper": "FOOD",

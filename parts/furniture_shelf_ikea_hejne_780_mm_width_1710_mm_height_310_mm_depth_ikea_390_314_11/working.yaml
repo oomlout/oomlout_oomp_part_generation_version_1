@@ -25,9 +25,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/furniture_shelf_ikea_hejne_780_mm_width_1710_mm_height_310_mm_depth_ikea_390_314_11
 distributors: []
-filter:
-- category
-- ikea
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_hejne_780_mm_width_1710_mm_height_310_mm_depth_ikea_390_314_11
 height: 1710 mm

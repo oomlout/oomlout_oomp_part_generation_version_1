@@ -9,10 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": [
-        "category",
-        "food"
-    ],
+    "filter": "",
     "description": "flour_whole_wheat",
     "name_short": "Flour Whole Wheat",
     "classification_upper": "FOOD",

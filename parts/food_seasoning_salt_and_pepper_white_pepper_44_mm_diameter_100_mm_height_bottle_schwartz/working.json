@@ -9,10 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": [
-        "category",
-        "food"
-    ],
+    "filter": "",
     "description": "white_pepper",
     "name_short": "White Pepper",
     "classification_upper": "FOOD",

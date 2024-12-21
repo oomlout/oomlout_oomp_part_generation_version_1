@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: car_remote_control
+color_capital: Car Remote Control
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CAR_REMOTE_CONTROL
+description: category_toy
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_toy_mechano_car_remote_control_tote
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_tote
+id: category_toy_mechano_car_remote_control_tote
+id_no_class: toy_mechano_car_remote_control_tote
+id_no_size: car_remote_control_tote
+id_no_type: mechano_car_remote_control_tote
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_mechano_car_remote_control_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_tote)<br>[Category
+    Toy Mechano Car Remote Control Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_tote)<br><br>'
+markdown_short: '[category_toy_mechano_car_remote_control_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_tote)<br><br>'
+md5: 1ef08db93c0544ec0366b5f7654a6fca
+md5_10: 1ef08db93c
+md5_10_upper: 1EF08DB93C
+md5_5: 1ef08
+md5_5_upper: 1EF08
+md5_6: 1ef08d
+md5_6_alpha: 17gjx
+md5_6_alpha_upper: 17GJX
+md5_6_upper: 1EF08D
+name: Category Toy Mechano Car Remote Control Tote
+name_no_class: Toy Mechano Car Remote Control Tote
+name_no_size: Car Remote Control Tote
+name_no_size_short: Car Remote Control Tote
+name_no_type: Mechano Car Remote Control Tote
+oomp_key: oomp_category_toy_mechano_car_remote_control_tote
+oomp_word: angel train scroll
+oomp_word_emoji: ':angel: :train: :scroll:'
+oomp_word_emoji_list:
+- ':angel:'
+- ':train:'
+- ':scroll:'
+oomp_word_list:
+- angel
+- train
+- scroll
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: mechano
+size_capital: Mechano
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MECHANO
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOY

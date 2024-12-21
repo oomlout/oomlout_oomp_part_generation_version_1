@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: smd_magazine_lid
+color_capital: Smd Magazine Lid
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMD_MAGAZINE_LID
+description: category_oobb
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_oobb_part_smd_magazine_lid_tote
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_lid_tote
+id: category_oobb_part_smd_magazine_lid_tote
+id_no_class: oobb_part_smd_magazine_lid_tote
+id_no_size: smd_magazine_lid_tote
+id_no_type: part_smd_magazine_lid_tote
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_lid_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_smd_magazine_lid_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_lid_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_lid_tote)<br>[Category
+    Oobb Part Smd Magazine Lid Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_lid_tote)<br><br>'
+markdown_short: '[category_oobb_part_smd_magazine_lid_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_lid_tote)<br><br>'
+md5: 76326148706b1c06c94bacbd41347219
+md5_10: '7632614870'
+md5_10_upper: '7632614870'
+md5_5: '76326'
+md5_5_upper: '76326'
+md5_6: '763261'
+md5_6_alpha: 4m0yp
+md5_6_alpha_upper: 4M0YP
+md5_6_upper: '763261'
+name: Category Oobb Part Smd Magazine Lid Tote
+name_no_class: Oobb Part Smd Magazine Lid Tote
+name_no_size: Smd Magazine Lid Tote
+name_no_size_short: Smd Magazine Lid Tote
+name_no_type: Part Smd Magazine Lid Tote
+oomp_key: oomp_category_oobb_part_smd_magazine_lid_tote
+oomp_word: santa cat bouquet
+oomp_word_emoji: ':santa: :cat: :bouquet:'
+oomp_word_emoji_list:
+- ':santa:'
+- ':cat:'
+- ':bouquet:'
+oomp_word_list:
+- santa
+- cat
+- bouquet
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

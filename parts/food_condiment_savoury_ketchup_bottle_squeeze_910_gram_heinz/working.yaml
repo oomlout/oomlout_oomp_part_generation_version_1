@@ -24,9 +24,7 @@ description_or_color: 'S '
 description_or_color_upper: 'S '
 directory: parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz
 distributors: []
-filter:
-- category
-- food
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz
 id: food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz

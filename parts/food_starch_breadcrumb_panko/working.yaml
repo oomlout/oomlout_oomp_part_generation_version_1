@@ -25,9 +25,7 @@ description_or_color: 'P '
 description_or_color_upper: 'P '
 directory: parts/food_starch_breadcrumb_panko
 distributors: []
-filter:
-- category
-- food
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_breadcrumb_panko
 id: food_starch_breadcrumb_panko

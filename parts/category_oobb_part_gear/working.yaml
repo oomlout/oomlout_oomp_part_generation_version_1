@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: gear
+color_capital: Gear
+color_first_letter: g
+color_first_letter_upper: G
+color_upper: GEAR
+description: category_oobb
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'G '
+description_or_color_upper: 'G '
+directory: parts/category_oobb_part_gear
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_gear
+id: category_oobb_part_gear
+id_no_class: oobb_part_gear
+id_no_size: gear
+id_no_type: part_gear
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_gear
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_gear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_gear)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_gear)<br>[Category
+    Oobb Part Gear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_gear)<br><br>'
+markdown_short: '[category_oobb_part_gear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_gear)<br><br>'
+md5: 92f2a96ce75f4a05e5f38c604dd53618
+md5_10: 92f2a96ce7
+md5_10_upper: 92F2A96CE7
+md5_5: 92f2a
+md5_5_upper: 92F2A
+md5_6: 92f2a9
+md5_6_alpha: 5qeuh
+md5_6_alpha_upper: 5QEUH
+md5_6_upper: 92F2A9
+name: Category Oobb Part Gear
+name_no_class: Oobb Part Gear
+name_no_size: Gear
+name_no_size_short: Gear
+name_no_type: Part Gear
+oomp_key: oomp_category_oobb_part_gear
+oomp_word: paperclip one sandal
+oomp_word_emoji: ':paperclip: :one: :sandal:'
+oomp_word_emoji_list:
+- ':paperclip:'
+- ':one:'
+- ':sandal:'
+oomp_word_list:
+- paperclip
+- one
+- sandal
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

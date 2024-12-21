@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ziptie_holder
+color_capital: Ziptie Holder
+color_first_letter: z
+color_first_letter_upper: Z
+color_upper: ZIPTIE_HOLDER
+description: category_oobb
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'Z '
+description_or_color_upper: 'Z '
+directory: parts/category_oobb_part_ziptie_holder
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder
+id: category_oobb_part_ziptie_holder
+id_no_class: oobb_part_ziptie_holder
+id_no_size: ziptie_holder
+id_no_type: part_ziptie_holder
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_ziptie_holder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder)<br>[Category
+    Oobb Part Ziptie Holder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder)<br><br>'
+markdown_short: '[category_oobb_part_ziptie_holder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder)<br><br>'
+md5: 7f98b19520d5fe891289def214af2efd
+md5_10: 7f98b19520
+md5_10_upper: 7F98B19520
+md5_5: 7f98b
+md5_5_upper: 7F98B
+md5_6: 7f98b1
+md5_6_alpha: 4z8a9
+md5_6_alpha_upper: 4Z8A9
+md5_6_upper: 7F98B1
+name: Category Oobb Part Ziptie Holder
+name_no_class: Oobb Part Ziptie Holder
+name_no_size: Ziptie Holder
+name_no_size_short: Ziptie Holder
+name_no_type: Part Ziptie Holder
+oomp_key: oomp_category_oobb_part_ziptie_holder
+oomp_word: speaker tennis briefcase
+oomp_word_emoji: ':speaker: :tennis: :briefcase:'
+oomp_word_emoji_list:
+- ':speaker:'
+- ':tennis:'
+- ':briefcase:'
+oomp_word_list:
+- speaker
+- tennis
+- briefcase
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

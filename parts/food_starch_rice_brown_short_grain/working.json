@@ -9,10 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": [
-        "category",
-        "food"
-    ],
+    "filter": "",
     "description": "rice brown short grain",
     "name_short": "Rice Brown Short Grain",
     "classification_upper": "FOOD",

@@ -24,9 +24,7 @@ description_or_color: 'P '
 description_or_color_upper: 'P '
 directory: parts/food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
 distributors: []
-filter:
-- category
-- food
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
 id: food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman

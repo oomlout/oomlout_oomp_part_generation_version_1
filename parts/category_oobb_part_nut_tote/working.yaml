@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: nut
+color_capital: Nut
+color_first_letter: n
+color_first_letter_upper: N
+color_upper: NUT
+description: category_oobb
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'N '
+description_or_color_upper: 'N '
+directory: parts/category_oobb_part_nut_tote
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_nut_tote
+id: category_oobb_part_nut_tote
+id_no_class: oobb_part_nut_tote
+id_no_size: nut_tote
+id_no_type: part_nut_tote
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_nut_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_nut_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_nut_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_nut_tote)<br>[Category
+    Oobb Part Nut Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_nut_tote)<br><br>'
+markdown_short: '[category_oobb_part_nut_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_nut_tote)<br><br>'
+md5: a570b3c8d22ad3c5f9eb51aa59cc4305
+md5_10: a570b3c8d2
+md5_10_upper: A570B3C8D2
+md5_5: a570b
+md5_5_upper: A570B
+md5_6: a570b3
+md5_6_alpha: 6gdyr
+md5_6_alpha_upper: 6GDYR
+md5_6_upper: A570B3
+name: Category Oobb Part Nut Tote
+name_no_class: Oobb Part Nut Tote
+name_no_size: Nut Tote
+name_no_size_short: Nut Tote
+name_no_type: Part Nut Tote
+oomp_key: oomp_category_oobb_part_nut_tote
+oomp_word: headphones squirrel eyeglasses
+oomp_word_emoji: ':headphones: :squirrel: :eyeglasses:'
+oomp_word_emoji_list:
+- ':headphones:'
+- ':squirrel:'
+- ':eyeglasses:'
+oomp_word_list:
+- headphones
+- squirrel
+- eyeglasses
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

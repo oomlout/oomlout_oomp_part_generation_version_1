@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_oobb
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_oobb_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_cubby_box
+id: category_oobb_cubby_box
+id_no_class: oobb_cubby_box
+id_no_size: cubbybox
+id_no_type: cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_cubby_box)<br>[Category
+    Oobb Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_cubby_box)<br><br>'
+markdown_short: '[category_oobb_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_cubby_box)<br><br>'
+md5: 8586d12db238f23dd8698af7a90f03cb
+md5_10: 8586d12db2
+md5_10_upper: 8586D12DB2
+md5_5: 8586d
+md5_5_upper: 8586D
+md5_6: 8586d1
+md5_6_alpha: 57k5t
+md5_6_alpha_upper: 57K5T
+md5_6_upper: 8586D1
+name: Category Oobb Cubby Box
+name_no_class: Oobb Cubby Box
+name_no_size: Cubbybox
+name_no_size_short: Cubbybox
+name_no_type: Cubby Box
+oomp_key: oomp_category_oobb_cubby_box
+oomp_word: bulb bath pear
+oomp_word_emoji: ':bulb: :bath: :pear:'
+oomp_word_emoji_list:
+- ':bulb:'
+- ':bath:'
+- ':pear:'
+oomp_word_list:
+- bulb
+- bath
+- pear
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

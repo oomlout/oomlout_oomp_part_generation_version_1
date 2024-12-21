@@ -9,10 +9,7 @@
     "part_number": "402_638_53",
     "from_yaml": false,
     "make_files": true,
-    "filter": [
-        "category",
-        "ikea"
-    ],
+    "filter": "",
     "width": "800 mm",
     "height": "350 mm",
     "depth": "280 mm",

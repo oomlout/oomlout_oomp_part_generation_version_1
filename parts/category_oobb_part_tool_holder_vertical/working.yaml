@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: tool_holder_vertical
+color_capital: Tool Holder Vertical
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TOOL_HOLDER_VERTICAL
+description: category_oobb
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_oobb_part_tool_holder_vertical
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_tool_holder_vertical
+id: category_oobb_part_tool_holder_vertical
+id_no_class: oobb_part_tool_holder_vertical
+id_no_size: tool_holder_vertical
+id_no_type: part_tool_holder_vertical
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_tool_holder_vertical
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_tool_holder_vertical](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_tool_holder_vertical)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_tool_holder_vertical)<br>[Category
+    Oobb Part Tool Holder Vertical](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_tool_holder_vertical)<br><br>'
+markdown_short: '[category_oobb_part_tool_holder_vertical](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_tool_holder_vertical)<br><br>'
+md5: ae9915fda7088309326343fa5d16f85a
+md5_10: ae9915fda7
+md5_10_upper: AE9915FDA7
+md5_5: ae991
+md5_5_upper: AE991
+md5_6: ae9915
+md5_6_alpha: 6t91x
+md5_6_alpha_upper: 6T91X
+md5_6_upper: AE9915
+name: Category Oobb Part Tool Holder Vertical
+name_no_class: Oobb Part Tool Holder Vertical
+name_no_size: Tool Holder Vertical
+name_no_size_short: Tool Holder Vertical
+name_no_type: Part Tool Holder Vertical
+oomp_key: oomp_category_oobb_part_tool_holder_vertical
+oomp_word: jeans bowling poop
+oomp_word_emoji: ':jeans: :bowling: :poop:'
+oomp_word_emoji_list:
+- ':jeans:'
+- ':bowling:'
+- ':poop:'
+oomp_word_list:
+- jeans
+- bowling
+- poop
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

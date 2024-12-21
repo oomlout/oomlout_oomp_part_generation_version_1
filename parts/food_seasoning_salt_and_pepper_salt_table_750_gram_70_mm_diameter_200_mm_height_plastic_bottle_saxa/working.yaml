@@ -25,9 +25,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa
 distributors: []
-filter:
-- category
-- food
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa
 id: food_seasoning_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa

@@ -9,10 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": [
-        "category",
-        "food"
-    ],
+    "filter": "",
     "description": "pasta_spaghetti",
     "name_short": "Pasta Spaghetti Box",
     "classification_upper": "FOOD",

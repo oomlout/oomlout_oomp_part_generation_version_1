@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: oomlout
+color_capital: Oomlout
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT
+description: category_project
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/category_project_github_oomlout_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github_oomlout_cubby_box
+id: category_project_github_oomlout_cubby_box
+id_no_class: project_github_oomlout_cubby_box
+id_no_size: oomlout_cubby_box
+id_no_type: github_oomlout_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github_oomlout_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_project_github_oomlout_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github_oomlout_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github_oomlout_cubby_box)<br>[Category
+    Project Github Oomlout Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github_oomlout_cubby_box)<br><br>'
+markdown_short: '[category_project_github_oomlout_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github_oomlout_cubby_box)<br><br>'
+md5: ceababcb594acb59d3c0dee52a9a252f
+md5_10: ceababcb59
+md5_10_upper: CEABABCB59
+md5_5: ceaba
+md5_5_upper: CEABA
+md5_6: ceabab
+md5_6_alpha: 82awb
+md5_6_alpha_upper: 82AWB
+md5_6_upper: CEABAB
+name: Category Project Github Oomlout Cubby Box
+name_no_class: Project Github Oomlout Cubby Box
+name_no_size: Oomlout Cubby Box
+name_no_size_short: Oomlout Cubby Box
+name_no_type: Github Oomlout Cubby Box
+oomp_key: oomp_category_project_github_oomlout_cubby_box
+oomp_word: peach boot boot
+oomp_word_emoji: ':peach: :boot: :boot:'
+oomp_word_emoji_list:
+- ':peach:'
+- ':boot:'
+- ':boot:'
+oomp_word_list:
+- peach
+- boot
+- boot
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryproject
+size: github
+size_capital: Github
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GITHUB
+type: project
+type_capital: Project
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PROJECT

@@ -25,9 +25,7 @@ description_or_color: 'L '
 description_or_color_upper: 'L '
 directory: parts/food_baking_sugar_light_brown
 distributors: []
-filter:
-- category
-- food
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_light_brown
 id: food_baking_sugar_light_brown

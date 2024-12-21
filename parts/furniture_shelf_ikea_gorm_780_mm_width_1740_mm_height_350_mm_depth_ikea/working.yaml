@@ -25,9 +25,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea
 distributors: []
-filter:
-- category
-- ikea
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea
 height: 1740 mm

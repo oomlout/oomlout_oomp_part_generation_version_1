@@ -9,10 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": [
-        "category",
-        "food"
-    ],
+    "filter": "",
     "description": "sugar_muscavado",
     "name_short": "Sugar Muscavado",
     "classification_upper": "FOOD",

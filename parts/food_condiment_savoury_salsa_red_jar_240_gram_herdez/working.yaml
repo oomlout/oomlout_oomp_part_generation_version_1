@@ -24,9 +24,7 @@ description_or_color: 'S '
 description_or_color_upper: 'S '
 directory: parts/food_condiment_savoury_salsa_red_jar_240_gram_herdez
 distributors: []
-filter:
-- category
-- food
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_salsa_red_jar_240_gram_herdez
 id: food_condiment_savoury_salsa_red_jar_240_gram_herdez

@@ -131,8 +131,10 @@ def load_parts(**kwargs):
         filters = []
         if not isinstance(filter, list):
             filters = [filter]
+        if filter == "":
+            filters = [""]
 
-        filters = copy.deepcopy(filter)
+        filters = copy.deepcopy(filters)
         for filter in filters:
             if filter in type:
                 if type == "project_github":

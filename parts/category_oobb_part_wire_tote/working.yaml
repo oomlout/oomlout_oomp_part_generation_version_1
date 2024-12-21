@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: wire
+color_capital: Wire
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WIRE
+description: category_oobb
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/category_oobb_part_wire_tote
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire_tote
+id: category_oobb_part_wire_tote
+id_no_class: oobb_part_wire_tote
+id_no_size: wire_tote
+id_no_type: part_wire_tote
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_wire_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire_tote)<br>[Category
+    Oobb Part Wire Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire_tote)<br><br>'
+markdown_short: '[category_oobb_part_wire_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire_tote)<br><br>'
+md5: 3fe5550ff283e85bae9a1b1980bdb3d7
+md5_10: 3fe5550ff2
+md5_10_upper: 3FE5550FF2
+md5_5: 3fe55
+md5_5_upper: 3FE55
+md5_6: 3fe555
+md5_6_alpha: 2hr2t
+md5_6_alpha_upper: 2HR2T
+md5_6_upper: 3FE555
+name: Category Oobb Part Wire Tote
+name_no_class: Oobb Part Wire Tote
+name_no_size: Wire Tote
+name_no_size_short: Wire Tote
+name_no_type: Part Wire Tote
+oomp_key: oomp_category_oobb_part_wire_tote
+oomp_word: horse rocket dolphin
+oomp_word_emoji: ':horse: :rocket: :dolphin:'
+oomp_word_emoji_list:
+- ':horse:'
+- ':rocket:'
+- ':dolphin:'
+oomp_word_list:
+- horse
+- rocket
+- dolphin
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

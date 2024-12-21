@@ -25,9 +25,7 @@ description_or_color: 'W '
 description_or_color_upper: 'W '
 directory: parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
 distributors: []
-filter:
-- category
-- ikea
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
 height: 890 mm

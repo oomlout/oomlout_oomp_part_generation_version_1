@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: jig_screw_sorter_m3_03_03
+color_capital: Jig Screw Sorter M3 03 03
+color_first_letter: j
+color_first_letter_upper: J
+color_upper: JIG_SCREW_SORTER_M3_03_03
+description: category_oobb
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'J '
+description_or_color_upper: 'J '
+directory: parts/category_oobb_part_jig_screw_sorter_m3_03_03_tote
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03_tote
+id: category_oobb_part_jig_screw_sorter_m3_03_03_tote
+id_no_class: oobb_part_jig_screw_sorter_m3_03_03_tote
+id_no_size: jig_screw_sorter_m3_03_03_tote
+id_no_type: part_jig_screw_sorter_m3_03_03_tote
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_jig_screw_sorter_m3_03_03_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03_tote)<br>[Category
+    Oobb Part Jig Screw Sorter M3 03 03 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03_tote)<br><br>'
+markdown_short: '[category_oobb_part_jig_screw_sorter_m3_03_03_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_jig_screw_sorter_m3_03_03_tote)<br><br>'
+md5: 0e5c8fb7e37966656516e0ec1daa6a9d
+md5_10: 0e5c8fb7e3
+md5_10_upper: 0E5C8FB7E3
+md5_5: 0e5c8
+md5_5_upper: 0E5C8
+md5_6: 0e5c8f
+md5_6_alpha: k68f
+md5_6_alpha_upper: K68F
+md5_6_upper: 0E5C8F
+name: Category Oobb Part Jig Screw Sorter M3 03 03 Tote
+name_no_class: Oobb Part Jig Screw Sorter M3 03 03 Tote
+name_no_size: Jig Screw Sorter M3 03 03 Tote
+name_no_size_short: Jig Screw Sorter M3 03 03 Tote
+name_no_type: Part Jig Screw Sorter M3 03 03 Tote
+oomp_key: oomp_category_oobb_part_jig_screw_sorter_m3_03_03_tote
+oomp_word: cupid ox calendar
+oomp_word_emoji: ':cupid: :ox: :calendar:'
+oomp_word_emoji_list:
+- ':cupid:'
+- ':ox:'
+- ':calendar:'
+oomp_word_list:
+- cupid
+- ox
+- calendar
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

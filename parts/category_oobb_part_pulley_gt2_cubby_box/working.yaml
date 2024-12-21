@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: pulley_gt2
+color_capital: Pulley Gt2
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PULLEY_GT2
+description: category_oobb
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_oobb_part_pulley_gt2_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_pulley_gt2_cubby_box
+id: category_oobb_part_pulley_gt2_cubby_box
+id_no_class: oobb_part_pulley_gt2_cubby_box
+id_no_size: pulley_gt2_cubby_box
+id_no_type: part_pulley_gt2_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_pulley_gt2_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_pulley_gt2_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_pulley_gt2_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_pulley_gt2_cubby_box)<br>[Category
+    Oobb Part Pulley Gt2 Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_pulley_gt2_cubby_box)<br><br>'
+markdown_short: '[category_oobb_part_pulley_gt2_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_pulley_gt2_cubby_box)<br><br>'
+md5: 5650cc11b77e743c4816d2178bb54ba0
+md5_10: 5650cc11b7
+md5_10_upper: 5650CC11B7
+md5_5: 5650c
+md5_5_upper: 5650C
+md5_6: 5650cc
+md5_6_alpha: 3d8ss
+md5_6_alpha_upper: 3D8SS
+md5_6_upper: 5650CC
+name: Category Oobb Part Pulley Gt2 Cubby Box
+name_no_class: Oobb Part Pulley Gt2 Cubby Box
+name_no_size: Pulley Gt2 Cubby Box
+name_no_size_short: Pulley Gt2 Cubby Box
+name_no_type: Part Pulley Gt2 Cubby Box
+oomp_key: oomp_category_oobb_part_pulley_gt2_cubby_box
+oomp_word: ram beetle watermelon
+oomp_word_emoji: ':ram: :beetle: :watermelon:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':beetle:'
+- ':watermelon:'
+oomp_word_list:
+- ram
+- beetle
+- watermelon
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

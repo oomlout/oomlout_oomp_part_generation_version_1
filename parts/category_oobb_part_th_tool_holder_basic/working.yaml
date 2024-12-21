@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: th_tool_holder_basic
+color_capital: Th Tool Holder Basic
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TH_TOOL_HOLDER_BASIC
+description: category_oobb
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_oobb_part_th_tool_holder_basic
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic
+id: category_oobb_part_th_tool_holder_basic
+id_no_class: oobb_part_th_tool_holder_basic
+id_no_size: th_tool_holder_basic
+id_no_type: part_th_tool_holder_basic
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_th_tool_holder_basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic)<br>[Category
+    Oobb Part Th Tool Holder Basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic)<br><br>'
+markdown_short: '[category_oobb_part_th_tool_holder_basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic)<br><br>'
+md5: db851ad22780e2dca8f88457026e64ba
+md5_10: db851ad227
+md5_10_upper: DB851AD227
+md5_5: db851
+md5_5_upper: DB851
+md5_6: db851a
+md5_6_alpha: 8kcnu
+md5_6_alpha_upper: 8KCNU
+md5_6_upper: DB851A
+name: Category Oobb Part Th Tool Holder Basic
+name_no_class: Oobb Part Th Tool Holder Basic
+name_no_size: Th Tool Holder Basic
+name_no_size_short: Th Tool Holder Basic
+name_no_type: Part Th Tool Holder Basic
+oomp_key: oomp_category_oobb_part_th_tool_holder_basic
+oomp_word: tent bulb clap
+oomp_word_emoji: ':tent: :bulb: :clap:'
+oomp_word_emoji_list:
+- ':tent:'
+- ':bulb:'
+- ':clap:'
+oomp_word_list:
+- tent
+- bulb
+- clap
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

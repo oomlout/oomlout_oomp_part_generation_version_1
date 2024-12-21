@@ -9,10 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": [
-        "category",
-        "ikea"
-    ],
+    "filter": "",
     "width": "780 mm",
     "height": "1740 mm",
     "depth": "350 mm",

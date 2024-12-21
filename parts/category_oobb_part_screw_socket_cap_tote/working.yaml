@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: screw_socket_cap
+color_capital: Screw Socket Cap
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SCREW_SOCKET_CAP
+description: category_oobb
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_oobb_part_screw_socket_cap_tote
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap_tote
+id: category_oobb_part_screw_socket_cap_tote
+id_no_class: oobb_part_screw_socket_cap_tote
+id_no_size: screw_socket_cap_tote
+id_no_type: part_screw_socket_cap_tote
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_screw_socket_cap_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap_tote)<br>[Category
+    Oobb Part Screw Socket Cap Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap_tote)<br><br>'
+markdown_short: '[category_oobb_part_screw_socket_cap_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap_tote)<br><br>'
+md5: d7b89a3aaae331899c9db7c685a207a5
+md5_10: d7b89a3aaa
+md5_10_upper: D7B89A3AAA
+md5_5: d7b89
+md5_5_upper: D7B89
+md5_6: d7b89a
+md5_6_alpha: 8f0ka
+md5_6_alpha_upper: 8F0KA
+md5_6_upper: D7B89A
+name: Category Oobb Part Screw Socket Cap Tote
+name_no_class: Oobb Part Screw Socket Cap Tote
+name_no_size: Screw Socket Cap Tote
+name_no_size_short: Screw Socket Cap Tote
+name_no_type: Part Screw Socket Cap Tote
+oomp_key: oomp_category_oobb_part_screw_socket_cap_tote
+oomp_word: office hamburger golf
+oomp_word_emoji: ':office: :hamburger: :golf:'
+oomp_word_emoji_list:
+- ':office:'
+- ':hamburger:'
+- ':golf:'
+oomp_word_list:
+- office
+- hamburger
+- golf
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

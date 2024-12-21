@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 25_mm_x_25_mm
+color_capital: 25 mm x 25 mm
+color_first_letter: '2'
+color_first_letter_upper: '2'
+color_upper: 25_MM_X_25_MM
+description: category_packaging
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '2 '
+description_or_color_upper: '2 '
+directory: parts/category_packaging_label_25_mm_x_25_mm_tote
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_label_25_mm_x_25_mm_tote
+id: category_packaging_label_25_mm_x_25_mm_tote
+id_no_class: packaging_label_25_mm_x_25_mm_tote
+id_no_size: 25_mm_x_25_mm_tote
+id_no_type: label_25_mm_x_25_mm_tote
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_label_25_mm_x_25_mm_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_label_25_mm_x_25_mm_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_label_25_mm_x_25_mm_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_label_25_mm_x_25_mm_tote)<br>[Category
+    Packaging Label 25 Mm X 25 Mm Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_label_25_mm_x_25_mm_tote)<br><br>'
+markdown_short: '[category_packaging_label_25_mm_x_25_mm_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_label_25_mm_x_25_mm_tote)<br><br>'
+md5: dd41a3874aa196b75b77e4d11f9de56a
+md5_10: dd41a3874a
+md5_10_upper: DD41A3874A
+md5_5: dd41a
+md5_5_upper: DD41A
+md5_6: dd41a3
+md5_6_alpha: 8msgz
+md5_6_alpha_upper: 8MSGZ
+md5_6_upper: DD41A3
+name: Category Packaging Label 25 Mm X 25 Mm Tote
+name_no_class: Packaging Label 25 Mm X 25 Mm Tote
+name_no_size: 25 Mm X 25 Mm Tote
+name_no_size_short: 25 Mm X 25 Mm Tote
+name_no_type: Label 25 Mm X 25 Mm Tote
+oomp_key: oomp_category_packaging_label_25_mm_x_25_mm_tote
+oomp_word: stars camel pencil
+oomp_word_emoji: ':stars: :camel: :pencil:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':camel:'
+- ':pencil:'
+oomp_word_list:
+- stars
+- camel
+- pencil
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: label
+size_capital: Label
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LABEL
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

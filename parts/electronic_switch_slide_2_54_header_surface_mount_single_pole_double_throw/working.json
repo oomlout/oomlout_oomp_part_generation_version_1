@@ -9,7 +9,14 @@
     "part_number": "",
     "make_files": true,
     "short_name": "",
-    "distributors": [],
+    "distributors": [
+        {
+            "name": "LCSC",
+            "part_number": "C431540",
+            "link": "https://lcsc.com/product-detail/C431540.html",
+            "id": "distributor_lcsc"
+        }
+    ],
     "classification_upper": "ELECTRONIC",
     "classification_capital": "Electronic",
     "classification_first_letter": "e",

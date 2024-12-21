@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: plate
+color_capital: Plate
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PLATE
+description: category_oobb
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_oobb_part_plate
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_plate
+id: category_oobb_part_plate
+id_no_class: oobb_part_plate
+id_no_size: plate
+id_no_type: part_plate
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_plate
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_plate](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_plate)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_plate)<br>[Category
+    Oobb Part Plate](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_plate)<br><br>'
+markdown_short: '[category_oobb_part_plate](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_plate)<br><br>'
+md5: 646b22eb5d811b69f65ee08bb6a97c83
+md5_10: 646b22eb5d
+md5_10_upper: 646B22EB5D
+md5_5: 646b2
+md5_5_upper: 646B2
+md5_6: 646b22
+md5_6_alpha: 3x1ya
+md5_6_alpha_upper: 3X1YA
+md5_6_upper: 646B22
+name: Category Oobb Part Plate
+name_no_class: Oobb Part Plate
+name_no_size: Plate
+name_no_size_short: Plate
+name_no_type: Part Plate
+oomp_key: oomp_category_oobb_part_plate
+oomp_word: sunflower chestnut lips
+oomp_word_emoji: ':sunflower: :chestnut: :lips:'
+oomp_word_emoji_list:
+- ':sunflower:'
+- ':chestnut:'
+- ':lips:'
+oomp_word_list:
+- sunflower
+- chestnut
+- lips
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

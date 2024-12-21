@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: mounting_plate_u
+color_capital: Mounting Plate U
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MOUNTING_PLATE_U
+description: category_oobb
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_oobb_part_mounting_plate_u_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_u_cubby_box
+id: category_oobb_part_mounting_plate_u_cubby_box
+id_no_class: oobb_part_mounting_plate_u_cubby_box
+id_no_size: mounting_plate_u_cubby_box
+id_no_type: part_mounting_plate_u_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_u_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_mounting_plate_u_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_u_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_u_cubby_box)<br>[Category
+    Oobb Part Mounting Plate U Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_u_cubby_box)<br><br>'
+markdown_short: '[category_oobb_part_mounting_plate_u_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_u_cubby_box)<br><br>'
+md5: fb7ffe09cc65477c380a9b737abdfc64
+md5_10: fb7ffe09cc
+md5_10_upper: FB7FFE09CC
+md5_5: fb7ff
+md5_5_upper: FB7FF
+md5_6: fb7ffe
+md5_6_alpha: 9t9tq
+md5_6_alpha_upper: 9T9TQ
+md5_6_upper: FB7FFE
+name: Category Oobb Part Mounting Plate U Cubby Box
+name_no_class: Oobb Part Mounting Plate U Cubby Box
+name_no_size: Mounting Plate U Cubby Box
+name_no_size_short: Mounting Plate U Cubby Box
+name_no_type: Part Mounting Plate U Cubby Box
+oomp_key: oomp_category_oobb_part_mounting_plate_u_cubby_box
+oomp_word: ok speaker recycle
+oomp_word_emoji: ':ok: :speaker: :recycle:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':speaker:'
+- ':recycle:'
+oomp_word_list:
+- ok
+- speaker
+- recycle
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

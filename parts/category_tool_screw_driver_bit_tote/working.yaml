@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_tool
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_tool_screw_driver_bit_tote
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_screw_driver_bit_tote
+id: category_tool_screw_driver_bit_tote
+id_no_class: tool_screw_driver_bit_tote
+id_no_size: tote
+id_no_type: screw_driver_bit_tote
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_screw_driver_bit_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_screw_driver_bit_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_screw_driver_bit_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_screw_driver_bit_tote)<br>[Category
+    Tool Screw Driver Bit Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_screw_driver_bit_tote)<br><br>'
+markdown_short: '[category_tool_screw_driver_bit_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_screw_driver_bit_tote)<br><br>'
+md5: cdff201c387c749ea6650657748ceee8
+md5_10: cdff201c38
+md5_10_upper: CDFF201C38
+md5_5: cdff2
+md5_5_upper: CDFF2
+md5_6: cdff20
+md5_6_alpha: 81ctc
+md5_6_alpha_upper: 81CTC
+md5_6_upper: CDFF20
+name: Category Tool Screw Driver Bit Tote
+name_no_class: Tool Screw Driver Bit Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Screw Driver Bit Tote
+oomp_key: oomp_category_tool_screw_driver_bit_tote
+oomp_word: strawberry trident skull
+oomp_word_emoji: ':strawberry: :trident: :skull:'
+oomp_word_emoji_list:
+- ':strawberry:'
+- ':trident:'
+- ':skull:'
+oomp_word_list:
+- strawberry
+- trident
+- skull
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: screw_driver_bit
+size_capital: Screw Driver Bit
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_DRIVER_BIT
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: holder
+color_capital: Holder
+color_first_letter: h
+color_first_letter_upper: H
+color_upper: HOLDER
+description: category_oobb
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'H '
+description_or_color_upper: 'H '
+directory: parts/category_oobb_part_holder_tote
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_holder_tote
+id: category_oobb_part_holder_tote
+id_no_class: oobb_part_holder_tote
+id_no_size: holder_tote
+id_no_type: part_holder_tote
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_holder_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_holder_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_holder_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_holder_tote)<br>[Category
+    Oobb Part Holder Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_holder_tote)<br><br>'
+markdown_short: '[category_oobb_part_holder_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_holder_tote)<br><br>'
+md5: a45dae81f73b292a90c8f40ccd263d41
+md5_10: a45dae81f7
+md5_10_upper: A45DAE81F7
+md5_5: a45da
+md5_5_upper: A45DA
+md5_6: a45dae
+md5_6_alpha: 6evn2
+md5_6_alpha_upper: 6EVN2
+md5_6_upper: A45DAE
+name: Category Oobb Part Holder Tote
+name_no_class: Oobb Part Holder Tote
+name_no_size: Holder Tote
+name_no_size_short: Holder Tote
+name_no_type: Part Holder Tote
+oomp_key: oomp_category_oobb_part_holder_tote
+oomp_word: book blowfish jeans
+oomp_word_emoji: ':book: :blowfish: :jeans:'
+oomp_word_emoji_list:
+- ':book:'
+- ':blowfish:'
+- ':jeans:'
+oomp_word_list:
+- book
+- blowfish
+- jeans
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_project
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_project_github_tote
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github_tote
+id: category_project_github_tote
+id_no_class: project_github_tote
+id_no_size: tote
+id_no_type: github_tote
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_project_github_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github_tote)<br>[Category
+    Project Github Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github_tote)<br><br>'
+markdown_short: '[category_project_github_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_project_github_tote)<br><br>'
+md5: de4eda0944df6c353019394e58aab07e
+md5_10: de4eda0944
+md5_10_upper: DE4EDA0944
+md5_5: de4ed
+md5_5_upper: DE4ED
+md5_6: de4eda
+md5_6_alpha: 8o9ne
+md5_6_alpha_upper: 8O9NE
+md5_6_upper: DE4EDA
+name: Category Project Github Tote
+name_no_class: Project Github Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Github Tote
+oomp_key: oomp_category_project_github_tote
+oomp_word: rainbow honeybee hotel
+oomp_word_emoji: ':rainbow: :honeybee: :hotel:'
+oomp_word_emoji_list:
+- ':rainbow:'
+- ':honeybee:'
+- ':hotel:'
+oomp_word_list:
+- rainbow
+- honeybee
+- hotel
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryproject
+size: github
+size_capital: Github
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GITHUB
+type: project
+type_capital: Project
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PROJECT

@@ -9,10 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": [
-        "category",
-        "food"
-    ],
+    "filter": "",
     "description": "flour_corn",
     "name_short": "Flour Corn",
     "classification_upper": "FOOD",

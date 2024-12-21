@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: other
+color_capital: Other
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OTHER
+description: category_oobb
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/category_oobb_part_other
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_other
+id: category_oobb_part_other
+id_no_class: oobb_part_other
+id_no_size: other
+id_no_type: part_other
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_other
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_other](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_other)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_other)<br>[Category
+    Oobb Part Other](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_other)<br><br>'
+markdown_short: '[category_oobb_part_other](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_other)<br><br>'
+md5: 7a6e5e5cebd5d5c8887433b7bbcfe938
+md5_10: 7a6e5e5ceb
+md5_10_upper: 7A6E5E5CEB
+md5_5: 7a6e5
+md5_5_upper: 7A6E5
+md5_6: 7a6e5e
+md5_6_alpha: 4rz32
+md5_6_alpha_upper: 4RZ32
+md5_6_upper: 7A6E5E
+name: Category Oobb Part Other
+name_no_class: Oobb Part Other
+name_no_size: Other
+name_no_size_short: Other
+name_no_type: Part Other
+oomp_key: oomp_category_oobb_part_other
+oomp_word: camera new_moon crocodile
+oomp_word_emoji: ':camera: :new_moon: :crocodile:'
+oomp_word_emoji_list:
+- ':camera:'
+- ':new_moon:'
+- ':crocodile:'
+oomp_word_list:
+- camera
+- new_moon
+- crocodile
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

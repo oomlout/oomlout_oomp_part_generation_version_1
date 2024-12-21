@@ -1,0 +1,90 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ziptie_holder_jack
+color_capital: Ziptie Holder Jack
+color_first_letter: z
+color_first_letter_upper: Z
+color_upper: ZIPTIE_HOLDER_JACK
+description: category_oobb
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'Z '
+description_or_color_upper: 'Z '
+directory: parts/category_oobb_part_ziptie_holder_jack_tote
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_tote
+id: category_oobb_part_ziptie_holder_jack_tote
+id_no_class: oobb_part_ziptie_holder_jack_tote
+id_no_size: ziptie_holder_jack_tote
+id_no_type: part_ziptie_holder_jack_tote
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_ziptie_holder_jack_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_tote)<br>[Category
+    Oobb Part Ziptie Holder Jack Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_tote)<br><br>'
+markdown_short: '[category_oobb_part_ziptie_holder_jack_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_tote)<br><br>'
+md5: 0152b18e38d899a066427e1c416fc266
+md5_10: 0152b18e38
+md5_10_upper: 0152B18E38
+md5_5: 0152b
+md5_5_upper: 0152B
+md5_6: 0152b1
+md5_6_alpha: 1uwh
+md5_6_alpha_upper: 1UWH
+md5_6_upper: 0152B1
+name: Category Oobb Part Ziptie Holder Jack Tote
+name_no_class: Oobb Part Ziptie Holder Jack Tote
+name_no_size: Ziptie Holder Jack Tote
+name_no_size_short: Ziptie Holder Jack Tote
+name_no_type: Part Ziptie Holder Jack Tote
+oomp_key: oomp_category_oobb_part_ziptie_holder_jack_tote
+oomp_word: smile octopus briefcase
+oomp_word_emoji: ':smile: :octopus: :briefcase:'
+oomp_word_emoji_list:
+- ':smile:'
+- ':octopus:'
+- ':briefcase:'
+oomp_word_list:
+- smile
+- octopus
+- briefcase
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB
