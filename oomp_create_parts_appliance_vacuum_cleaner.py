@@ -26,7 +26,8 @@ def load_parts(**kwargs):
             part_details["description_main"] = ""
             part_details["description_extra"] = ""
             part_details["manufacturer"] = "dyson"
-            part_details["part_number"] = f"{size.replace("dyson_", "")}"
+            part_number = size.replace("dyson_", "")
+            part_details["part_number"] = part_number
             parts.append(part_details)    
     
         #v6 cleaning heads
