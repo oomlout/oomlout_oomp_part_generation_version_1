@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "household",
     "classification_upper": "HOUSEHOLD_CLEANING",
     "classification_capital": "Household Cleaning",
     "classification_first_letter": "h",

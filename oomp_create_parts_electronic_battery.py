@@ -77,5 +77,20 @@ def load_parts(**kwargs):
                 part_details["description_main"] = description_main
                 parts.append(part_details)
 
+    #charge chord
+    if True:
+        part_details = {}
+        part_details["classification"] = "electronic" 
+        part_details["type"] = "battery"
+        part_details["size"] = "charger_usb_cable"
+        part_details["color"] = "lithium_3_7_volt_rechargable"
+        part_details["description_main"] = "pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["part_number_exact"] = ""
+        part_details["short_name"] = ""  
+
+
     oomp.add_parts(parts, make_files=make_files)
     

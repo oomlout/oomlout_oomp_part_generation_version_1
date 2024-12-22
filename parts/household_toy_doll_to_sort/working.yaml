@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/household_toy_doll_to_sort
 distributors: []
-filter: ''
+filter: household
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_doll_to_sort
 id: household_toy_doll_to_sort

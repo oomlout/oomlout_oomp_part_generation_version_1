@@ -165,6 +165,18 @@ def load_parts(**kwargs):
         part_details["part_number"] = ""
         parts.append(part_details)
 
+    # household_kitchen
+    if True:
+        part_details = {}
+        part_details["classification"] = "household_kitchen"
+        part_details["type"] = "disposable"
+        part_details["size"] = "toothpick"
+        part_details["color"] = ""
+        part_details["description_main"] = "2_mm_diameter_80_mm_length"
+        part_details["description_extra"] = "double_point"
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        parts.append(part_details)
 
     
     oomp.add_parts(parts, **kwargs)

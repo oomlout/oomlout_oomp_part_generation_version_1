@@ -1,4 +1,5 @@
 import oomp
+import copy 
 
 def load_parts(**kwargs):
     make_files = kwargs.get("make_files", True)
@@ -62,6 +63,36 @@ def load_parts(**kwargs):
     parts.append(part_details)
 
 
+    #wall wart
+    part_details = {}
+    part_details["classification"] = "electrical"
+    part_details["type"] = "wall_wart"
+    part_details["size"] = "240_volt_input"
+    part_details["color"] = "uk_socket"
+    part_details["description_main"] = ""
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["short_name"] = ""
     
+    current_default = copy.deepcopy(part_details)
+
+    description_mains = []
+    #5v 4 amp
+    description_mains.append("5_volt_4_amp_output")
+    #9 v 600 ma
+    description_mains.append("9_volt_0_6_amp_output")
+    #12 v 2 amp
+    description_mains.append("12_volt_2_amp_output")
+
+    for description_main in description_mains:
+        part_details = copy.deepcopy(current_default)
+        part_details["description_main"] = description_main
+        parts.append(part_details)
+        
+
+
+
+
     oomp.add_parts(parts, make_files=make_files)
     
