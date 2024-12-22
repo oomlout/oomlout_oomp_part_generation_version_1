@@ -494,8 +494,9 @@ def add_part(**kwargs):
 
 
             parts[id] = kwargs
-    else:
-        print("    skipping part " + id)
+        else:
+            print("    skipping part " + id)
+            pass
     cnt += 1
     if cnt % 100 == 0:
         print(f".", end="")
