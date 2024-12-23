@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/household_cleaning_cleaner_spray_ineos_multi_room_cleaner_rhubarb_and_pommegranate_750_ml_bottle
 distributors: []
-filter: household
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_cleaning_cleaner_spray_ineos_multi_room_cleaner_rhubarb_and_pommegranate_750_ml_bottle
 id: household_cleaning_cleaner_spray_ineos_multi_room_cleaner_rhubarb_and_pommegranate_750_ml_bottle

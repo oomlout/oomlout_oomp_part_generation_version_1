@@ -574,7 +574,13 @@ def load_parts(**kwargs):
         parts.append(part_details)
 
 
-
+        #popcorn
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "popcorn"
+        part_details["color"] = "kernels"
+        part_details["description"] = "popcorn_kernels"
+        part_details["name_short"] = "Popcorn Kernels"
+        parts.append(part_details)
 
 
     # vegetable

@@ -94,11 +94,23 @@ def load_parts(**kwargs):
         part_details["type"] = "motor_stepper"
         part_details["size"] = "nema_17"
         part_details["color"] = ""
-        part_details["description_main"] = "42_mm_width_42_mm_height_48_mm_depth"
+        part_details["description_main"] = ""
         part_details["description_extra"] = ""
         part_details["manufacturer"] = ""
         part_details["part_number"] = ""
         part_details["short_name"] = ""  
+
+        descriptions = []
+        descriptions.append(["48", "1_7_amp_drive_current"])
+
+        for description in descriptions:
+            part_details = copy.deepcopy(part_details)
+            part_details["description_main"] = description[0]
+            part_details["description_extra"] = description[1]
+            parts.append(part_details)
+            
+
+
         parts.append(part_details)    
 
     #      tt

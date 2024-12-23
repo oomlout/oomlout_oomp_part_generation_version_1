@@ -88,8 +88,10 @@ def load_parts(**kwargs):
     for description_main in description_mains:
         part_details = copy.deepcopy(current_default)
         part_details["description_main"] = description_main
+        part_details["description_extra"] = "2_1_mm_barrel_plug_center_positive"
+
         parts.append(part_details)
-        
+
 
 
 

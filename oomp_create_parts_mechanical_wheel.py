@@ -75,7 +75,12 @@ def load_parts(**kwargs):
         part_details["name_short"] = "Wheel 34mm Diameter 3 mm D Shape Shaft" 
         parts.append(part_details)
 
-
+        part_details = copy.deepcopy(part_default)
+        part_details["description_main"] = "80_mm_diameter_10_mm_depth"
+        part_details["name_short"] = "Wheel 80mm Diameter 3 mm D Shape Shaft"
+        part_details["part_number_distributor_pololu"] = "1434"
+        part_details["link_distributor_pololu"] = f"https://www.pololu.com/product/{part_details['part_number_distributor_pololu']}"
+        parts.append(part_details)
     
 
 

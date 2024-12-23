@@ -24,7 +24,7 @@ description_or_color: '280'
 description_or_color_upper: '280'
 directory: parts/household_kitchen_disposable_toothpick_2_mm_diameter_80_mm_length_double_point
 distributors: []
-filter: household
+filter: ''
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_kitchen_disposable_toothpick_2_mm_diameter_80_mm_length_double_point
 id: household_kitchen_disposable_toothpick_2_mm_diameter_80_mm_length_double_point

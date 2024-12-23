@@ -1,0 +1,91 @@
+classification: remote_control
+classification_capital: Remote Control
+classification_first_letter: r
+classification_first_letter_upper: R
+classification_upper: REMOTE_CONTROL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: wire_attached
+description_extra_capital: Wire Attached
+description_extra_first_letter: w
+description_extra_first_letter_upper: W
+description_extra_upper: WIRE_ATTACHED
+description_main: 1_amp_12_mm_width_8_5_mm_height_green_pcb
+description_main_capital: 1 Amp 12 mm Width 8.5 mm Height Green Pcb
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 1_AMP_12_MM_WIDTH_8_5_MM_HEIGHT_GREEN_PCB
+description_only_numbers: '11285'
+description_only_numbers_short: 11k
+description_or_color: 11k
+description_or_color_upper: 11K
+directory: parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+id: remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+id_no_class: electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+id_no_size: 1amp12mmwidth85mmheightgreenpcbwireattachedaliexpress
+id_no_type: 1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005006080168104.html
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+manufacturer: aliexpress
+manufacturer_capital: Aliexpress
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: ALIEXPRESS
+manufacturers: []
+markdown_full: '[remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress)<br>[Remote
+    Control Electronic Speed Controller 1 Amp 12 Mm Width 8 5 Mm Height Green Pcb
+    Wire Attached Aliexpress](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress)<br><br>'
+markdown_short: '[remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress)<br><br>'
+md5: ba799711b6e6a7276a228101414fcb4c
+md5_10: ba799711b6
+md5_10_upper: BA799711B6
+md5_5: ba799
+md5_5_upper: BA799
+md5_6: ba7997
+md5_6_alpha: 79xnb
+md5_6_alpha_upper: 79XNB
+md5_6_upper: BA7997
+name: Remote Control Electronic Speed Controller 1 Amp 12 Mm Width 8 5 Mm Height Green
+    Pcb Wire Attached Aliexpress
+name_no_class: Electronic Speed Controller 1 Amp 12 Mm Width 8 5 Mm Height Green Pcb
+    Wire Attached Aliexpress
+name_no_size: 1Amp12Mmwidth85Mmheightgreenpcbwireattachedaliexpress
+name_no_size_short: 1Amp12Mmwidth85Mmheightgreenpcbwireattachedaliexpress
+name_no_type: 1 Amp 12 Mm Width 8 5 Mm Height Green Pcb Wire Attached Aliexpress
+oomp_key: oomp_remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+oomp_word: spaghetti balloon baseball
+oomp_word_emoji: ':spaghetti: :balloon: :baseball:'
+oomp_word_emoji_list:
+- ':spaghetti:'
+- ':balloon:'
+- ':baseball:'
+oomp_word_list:
+- spaghetti
+- balloon
+- baseball
+part_number: ''
+part_number_capital: ''
+part_number_distributor_aliexpress: '1005006080168104'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ESC 1 amp
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: electronic_speed_controller
+type_capital: Electronic Speed Controller
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC_SPEED_CONTROLLER

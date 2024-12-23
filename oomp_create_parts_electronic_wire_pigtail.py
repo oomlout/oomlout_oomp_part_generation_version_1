@@ -8,7 +8,7 @@ def load_parts(**kwargs):
     
     parts = []
 
-    # basic
+    # lithium battery ones
     if True:
         sizes = []
         sizes.append("crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug")
@@ -28,8 +28,24 @@ def load_parts(**kwargs):
             part_details["short_name"] = ""  
             parts.append(part_details)    
         
+    #qwiic         
+    if True:
+        sizes = []
+        sizes.append("crimp_housing_1_mm_jst_sh_4_pin_socket")        
         
-        
+        for size in sizes:
+            part_details = {}
+            part_details["classification"] = "electronic"
+            part_details["type"] = "wire_pigtail"
+            part_details["size"] = size
+            part_details["color"] = "red_black_yellow_green_color"
+            part_details["description_main"] = "100_mm_length"
+            part_details["description_extra"] = "qwiic_stemma_i2c_bus_compatible"
+            part_details["manufacturer"] = ""
+            part_details["part_number"] = ""
+            part_details["part_number_exact"] = ""
+            part_details["short_name"] = ""  
+            parts.append(part_details)       
     
     oomp.add_parts(parts, make_files=make_files)
     
