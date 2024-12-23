@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 06_07_09
+description_main_capital: 06 07 09
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: 06_07_09
+description_only_numbers: 060709
+description_only_numbers_short: 61k
+description_or_color: 61k
+description_or_color_upper: 61K
+directory: parts/oobb_part_tray_vertical_06_07_09
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_07_09
+id: oobb_part_tray_vertical_06_07_09
+id_no_class: part_tray_vertical_06_07_09
+id_no_size: 06_07_09
+id_no_type: tray_vertical_06_07_09
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_07_09
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_06_07_09](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_07_09)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_07_09)<br>[Oobb
+    Part Tray Vertical 06 07 09](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_07_09)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_06_07_09](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_06_07_09)<br><br>'
+md5: 921dcca410f99e8ae645b89e3e863083
+md5_10: 921dcca410
+md5_10_upper: 921DCCA410
+md5_5: 921dc
+md5_5_upper: 921DC
+md5_6: 921dcc
+md5_6_alpha: 5p8ss
+md5_6_alpha_upper: 5P8SS
+md5_6_upper: 921DCC
+name: Oobb Part Tray Vertical 06 07 09
+name_no_class: Part Tray Vertical 06 07 09
+name_no_size: 06 07 09
+name_no_size_short: 06 07 09
+name_no_type: Tray Vertical 06 07 09
+oomp_key: oomp_oobb_part_tray_vertical_06_07_09
+oomp_word: paperclip baby watermelon
+oomp_word_emoji: ':paperclip: :baby: :watermelon:'
+oomp_word_emoji_list:
+- ':paperclip:'
+- ':baby:'
+- ':watermelon:'
+oomp_word_list:
+- paperclip
+- baby
+- watermelon
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

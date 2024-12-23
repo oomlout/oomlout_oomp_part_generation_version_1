@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 08_15_12
+description_main_capital: 08.15.12
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: 08_15_12
+description_only_numbers: 081512
+description_only_numbers_short: 82k
+description_or_color: 82k
+description_or_color_upper: 82K
+directory: parts/oobb_part_tray_vertical_08_15_12
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_08_15_12
+id: oobb_part_tray_vertical_08_15_12
+id_no_class: part_tray_vertical_08_15_12
+id_no_size: 08_15_12
+id_no_type: tray_vertical_08_15_12
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_08_15_12
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_08_15_12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_08_15_12)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_08_15_12)<br>[Oobb
+    Part Tray Vertical 08 15 12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_08_15_12)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_08_15_12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_08_15_12)<br><br>'
+md5: 159edaf3a8ac6921a91b97c791a0f85b
+md5_10: 159edaf3a8
+md5_10_upper: 159EDAF3A8
+md5_5: 159ed
+md5_5_upper: 159ED
+md5_6: 159eda
+md5_6_alpha: uday
+md5_6_alpha_upper: UDAY
+md5_6_upper: 159EDA
+name: Oobb Part Tray Vertical 08 15 12
+name_no_class: Part Tray Vertical 08 15 12
+name_no_size: 08 15 12
+name_no_size_short: 08 15 12
+name_no_type: Tray Vertical 08 15 12
+oomp_key: oomp_oobb_part_tray_vertical_08_15_12
+oomp_word: poop clubs hotel
+oomp_word_emoji: ':poop: :clubs: :hotel:'
+oomp_word_emoji_list:
+- ':poop:'
+- ':clubs:'
+- ':hotel:'
+oomp_word_list:
+- poop
+- clubs
+- hotel
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART
