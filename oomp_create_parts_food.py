@@ -552,26 +552,15 @@ def load_parts(**kwargs):
         rices.append("wild")
         rices.append("long_grain_quick_cook")
 
-        part_details = copy.deepcopy(current_default)
-        part_details["size"] = "rice"
-        part_details["color"] = "dong_bei"
-        part_details["description"] = "rice_dong_bei"
-        part_details["name_short"] = "Rice Dong Bei"
-        parts.append(part_details)
 
-        part_details = copy.deepcopy(current_default)
-        part_details["size"] = "rice"
-        part_details["color"] = "basmati"
-        part_details["description"] = "rice_basmati"
-        part_details["name_short"] = "Rice Basmati"
-        parts.append(part_details)
+        for rice in rices:
+            part_details = copy.deepcopy(current_default)
+            part_details["size"] = "rice"
+            part_details["color"] = rice
+            part_details["description"] = f"rice_{rice}"
+            part_details["name_short"] = f"Rice {rice}"
+            parts.append(part_details)
 
-        part_details = copy.deepcopy(current_default)
-        part_details["size"] = "rice"
-        part_details["color"] = "brown_short_grain"
-        part_details["description"] = "rice brown short grain"
-        part_details["name_short"] = "Rice Brown Short Grain"
-        parts.append(part_details)
 
 
         #popcorn

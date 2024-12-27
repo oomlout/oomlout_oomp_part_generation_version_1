@@ -63,8 +63,8 @@ def load_parts(**kwargs):
         locations.append([current_site, current_room, "back_wall_cupboard_pantry_4_unit",1,3])
         locations.append([current_site, current_room, "fridge_unit",4,2])
         locations.append([current_site, current_room, "fridge_door_unit",3,2])
-        locations.append([current_site, current_room, "island_fridge_side_unit",2,2])
-        locations.append([current_site, current_room, "island_table_side_unit",2,2])
+        locations.append([current_site, current_room, "island_fridge_side_unit",2,3])
+        locations.append([current_site, current_room, "island_table_side_unit",3,3])
    
         part_details = {}
         part_details["classification"] = "warehouse"

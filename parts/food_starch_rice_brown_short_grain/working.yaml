@@ -8,7 +8,7 @@ color_capital: Brown Short Grain
 color_first_letter: b
 color_first_letter_upper: B
 color_upper: BROWN_SHORT_GRAIN
-description: rice brown short grain
+description: rice_brown_short_grain
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
@@ -56,7 +56,7 @@ name_no_class: Starch Rice Brown Short Grain
 name_no_size: Brown Short Grain
 name_no_size_short: Brown Short Grain
 name_no_type: Rice Brown Short Grain
-name_short: Rice Brown Short Grain
+name_short: Rice brown_short_grain
 oomp_key: oomp_food_starch_rice_brown_short_grain
 oomp_word: jeans pray dancer
 oomp_word_emoji: ':jeans: :pray: :dancer:'
