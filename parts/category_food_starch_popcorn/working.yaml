@@ -27,21 +27,22 @@ directory: parts/category_food_starch_popcorn
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_popcorn
 id: category_food_starch_popcorn
 id_no_class: food_starch_popcorn
 id_no_size: popcorn
 id_no_type: starch_popcorn
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_popcorn
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_popcorn
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_popcorn
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_popcorn
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food_starch_popcorn](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_popcorn)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_popcorn)<br>[Category
-    Food Starch Popcorn](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_popcorn)<br><br>'
-markdown_short: '[category_food_starch_popcorn](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_popcorn)<br><br>'
+markdown_full: '[category_food_starch_popcorn](none)<br>[](none)<br>[Category Food
+    Starch Popcorn](none)<br><br>'
+markdown_short: '[category_food_starch_popcorn](none)<br><br>'
 md5: c54901b06ac7bb3d1eee51c973b0c409
 md5_10: c54901b06a
 md5_10_upper: C54901B06A

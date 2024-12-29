@@ -50,8 +50,9 @@
     "id_no_type": "screw_thread_forming_m2_6",
     "id_no_size": "m2_6",
     "oomp_key": "oomp_category_hardware_screw_thread_forming_m2_6",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_thread_forming_m2_6",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_thread_forming_m2_6",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_thread_forming_m2_6",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_thread_forming_m2_6",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_thread_forming_m2_6",
     "directory": "parts/category_hardware_screw_thread_forming_m2_6",
     "name": "Category Hardware Screw Thread Forming M2 6",
     "name_no_class": "Hardware Screw Thread Forming M2 6",
@@ -89,6 +90,6 @@
     "name_no_size_short": "M2 6",
     "description_or_color": "M ",
     "description_or_color_upper": "M ",
-    "markdown_full": "[category_hardware_screw_thread_forming_m2_6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_thread_forming_m2_6)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_thread_forming_m2_6)<br>[Category Hardware Screw Thread Forming M2 6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_thread_forming_m2_6)<br><br>",
-    "markdown_short": "[category_hardware_screw_thread_forming_m2_6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_thread_forming_m2_6)<br><br>"
+    "markdown_full": "[category_hardware_screw_thread_forming_m2_6](none)<br>[](none)<br>[Category Hardware Screw Thread Forming M2 6](none)<br><br>",
+    "markdown_short": "[category_hardware_screw_thread_forming_m2_6](none)<br><br>"
 }

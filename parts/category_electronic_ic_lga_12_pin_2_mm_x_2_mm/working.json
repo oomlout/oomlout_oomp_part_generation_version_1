@@ -50,8 +50,9 @@
     "id_no_type": "ic_lga_12_pin_2_mm_x_2_mm",
     "id_no_size": "lga_12_pin_2_mm_x_2_mm",
     "oomp_key": "oomp_category_electronic_ic_lga_12_pin_2_mm_x_2_mm",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_12_pin_2_mm_x_2_mm",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_12_pin_2_mm_x_2_mm",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_lga_12_pin_2_mm_x_2_mm",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_lga_12_pin_2_mm_x_2_mm",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_lga_12_pin_2_mm_x_2_mm",
     "directory": "parts/category_electronic_ic_lga_12_pin_2_mm_x_2_mm",
     "name": "Category Electronic Ic Lga 12 Pin 2 Mm X 2 Mm",
     "name_no_class": "Electronic Ic Lga 12 Pin 2 Mm X 2 Mm",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Lga 12 Pin 2 Mm X 2 Mm",
     "description_or_color": "L ",
     "description_or_color_upper": "L ",
-    "markdown_full": "[category_electronic_ic_lga_12_pin_2_mm_x_2_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_12_pin_2_mm_x_2_mm)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_12_pin_2_mm_x_2_mm)<br>[Category Electronic Ic Lga 12 Pin 2 Mm X 2 Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_12_pin_2_mm_x_2_mm)<br><br>",
-    "markdown_short": "[category_electronic_ic_lga_12_pin_2_mm_x_2_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_12_pin_2_mm_x_2_mm)<br><br>"
+    "markdown_full": "[category_electronic_ic_lga_12_pin_2_mm_x_2_mm](none)<br>[](none)<br>[Category Electronic Ic Lga 12 Pin 2 Mm X 2 Mm](none)<br><br>",
+    "markdown_short": "[category_electronic_ic_lga_12_pin_2_mm_x_2_mm](none)<br><br>"
 }

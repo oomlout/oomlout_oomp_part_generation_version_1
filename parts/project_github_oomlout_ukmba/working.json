@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/UKMBA",
-    "link_github": "https://github.com/oomlout/UKMBA",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_ukmba",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_ukmba",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_ukmba",
     "id_no_size": "ukmba",
     "oomp_key": "oomp_project_github_oomlout_ukmba",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_ukmba",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_ukmba",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_ukmba",
     "directory": "parts/project_github_oomlout_ukmba",
     "name": "Project Github Oomlout Ukmba",
     "name_no_class": "Github Oomlout Ukmba",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Ukmba",
     "description_or_color": "U ",
     "description_or_color_upper": "U ",
-    "markdown_full": "[project_github_oomlout_ukmba](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_ukmba)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_ukmba)<br>[Project Github Oomlout Ukmba](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_ukmba)<br><br>",
-    "markdown_short": "[project_github_oomlout_ukmba](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_ukmba)<br><br>"
+    "markdown_full": "[project_github_oomlout_ukmba](none)<br>[](none)<br>[Project Github Oomlout Ukmba](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_ukmba](none)<br><br>"
 }

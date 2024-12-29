@@ -50,8 +50,9 @@
     "id_no_type": "measure_tape_measure_5000_mm_length",
     "id_no_size": "5000_mm_length",
     "oomp_key": "oomp_category_tool_measure_tape_measure_5000_mm_length",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_measure_tape_measure_5000_mm_length",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_measure_tape_measure_5000_mm_length",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_measure_tape_measure_5000_mm_length",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_measure_tape_measure_5000_mm_length",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_measure_tape_measure_5000_mm_length",
     "directory": "parts/category_tool_measure_tape_measure_5000_mm_length",
     "name": "Category Tool Measure Tape Measure 5000 Mm Length",
     "name_no_class": "Tool Measure Tape Measure 5000 Mm Length",
@@ -89,6 +90,6 @@
     "name_no_size_short": "5000 Mm Length",
     "description_or_color": "5 ",
     "description_or_color_upper": "5 ",
-    "markdown_full": "[category_tool_measure_tape_measure_5000_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_measure_tape_measure_5000_mm_length)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_measure_tape_measure_5000_mm_length)<br>[Category Tool Measure Tape Measure 5000 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_measure_tape_measure_5000_mm_length)<br><br>",
-    "markdown_short": "[category_tool_measure_tape_measure_5000_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_measure_tape_measure_5000_mm_length)<br><br>"
+    "markdown_full": "[category_tool_measure_tape_measure_5000_mm_length](none)<br>[](none)<br>[Category Tool Measure Tape Measure 5000 Mm Length](none)<br><br>",
+    "markdown_short": "[category_tool_measure_tape_measure_5000_mm_length](none)<br><br>"
 }

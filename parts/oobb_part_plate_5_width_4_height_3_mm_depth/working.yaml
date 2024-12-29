@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 5_width_4_height_3_mm_depth
+description_main_capital: 5 Width 4 Height 3 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5_WIDTH_4_HEIGHT_3_MM_DEPTH
+description_only_numbers: '543'
+description_only_numbers_short: '543'
+description_or_color: '543'
+description_or_color_upper: '543'
+directory: parts/oobb_part_plate_5_width_4_height_3_mm_depth
+distributors: []
+id: oobb_part_plate_5_width_4_height_3_mm_depth
+id_no_class: part_plate_5_width_4_height_3_mm_depth
+id_no_size: 5_width_4_height_3_mm_depth
+id_no_type: plate_5_width_4_height_3_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_5_width_4_height_3_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_5_width_4_height_3_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_5_width_4_height_3_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_5_width_4_height_3_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Plate 5 Width 4 Height 3 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_plate_5_width_4_height_3_mm_depth](none)<br><br>'
+md5: 5d7e08a9216460793f12722b8e4df5ae
+md5_10: 5d7e08a921
+md5_10_upper: 5D7E08A921
+md5_5: 5d7e0
+md5_5_upper: 5D7E0
+md5_6: 5d7e08
+md5_6_alpha: 3nbpk
+md5_6_alpha_upper: 3NBPK
+md5_6_upper: 5D7E08
+name: Oobb Part Plate 5 Width 4 Height 3 Mm Depth
+name_no_class: Part Plate 5 Width 4 Height 3 Mm Depth
+name_no_size: 5 Width 4 Height 3 Mm Depth
+name_no_size_short: 5 Width 4 Height 3 Mm Depth
+name_no_type: Plate 5 Width 4 Height 3 Mm Depth
+oomp_key: oomp_oobb_part_plate_5_width_4_height_3_mm_depth
+oomp_word: blowfish fax scream
+oomp_word_emoji: ':blowfish: :fax: :scream:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':fax:'
+- ':scream:'
+oomp_word_list:
+- blowfish
+- fax
+- scream
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

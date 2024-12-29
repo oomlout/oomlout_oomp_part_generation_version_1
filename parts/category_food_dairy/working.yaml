@@ -27,21 +27,21 @@ directory: parts/category_food_dairy
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_dairy
 id: category_food_dairy
 id_no_class: food_dairy
 id_no_size: dairy
 id_no_type: dairy
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_dairy
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_dairy
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_dairy
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_dairy
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food_dairy](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_dairy)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_dairy)<br>[Category
-    Food Dairy](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_dairy)<br><br>'
-markdown_short: '[category_food_dairy](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_dairy)<br><br>'
+markdown_full: '[category_food_dairy](none)<br>[](none)<br>[Category Food Dairy](none)<br><br>'
+markdown_short: '[category_food_dairy](none)<br><br>'
 md5: 3d8385d0745e0381b298efdafdf556ee
 md5_10: 3d8385d074
 md5_10_upper: 3D8385D074

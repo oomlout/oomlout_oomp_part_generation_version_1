@@ -50,8 +50,9 @@
     "id_no_type": "pendant_ikea_slattbo",
     "id_no_size": "ikea_slattbo",
     "oomp_key": "oomp_category_lighting_pendant_ikea_slattbo",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo",
     "directory": "parts/category_lighting_pendant_ikea_slattbo",
     "name": "Category Lighting Pendant Ikea Slattbo",
     "name_no_class": "Lighting Pendant Ikea Slattbo",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Ikea Slattbo",
     "description_or_color": "I ",
     "description_or_color_upper": "I ",
-    "markdown_full": "[category_lighting_pendant_ikea_slattbo](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo)<br>[Category Lighting Pendant Ikea Slattbo](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo)<br><br>",
-    "markdown_short": "[category_lighting_pendant_ikea_slattbo](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo)<br><br>"
+    "markdown_full": "[category_lighting_pendant_ikea_slattbo](none)<br>[](none)<br>[Category Lighting Pendant Ikea Slattbo](none)<br><br>",
+    "markdown_short": "[category_lighting_pendant_ikea_slattbo](none)<br><br>"
 }

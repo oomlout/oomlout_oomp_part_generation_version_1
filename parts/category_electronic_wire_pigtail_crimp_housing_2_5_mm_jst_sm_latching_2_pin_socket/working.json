@@ -50,8 +50,9 @@
     "id_no_type": "wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket",
     "id_no_size": "crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket",
     "oomp_key": "oomp_category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket",
     "directory": "parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket",
     "name": "Category Electronic Wire Pigtail Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Socket",
     "name_no_class": "Electronic Wire Pigtail Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Socket",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Socket",
     "description_or_color": "C ",
     "description_or_color_upper": "C ",
-    "markdown_full": "[category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket)<br>[Category Electronic Wire Pigtail Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket)<br><br>",
-    "markdown_short": "[category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket)<br><br>"
+    "markdown_full": "[category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket](none)<br>[](none)<br>[Category Electronic Wire Pigtail Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Socket](none)<br><br>",
+    "markdown_short": "[category_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket](none)<br><br>"
 }

@@ -50,8 +50,9 @@
     "id_no_type": "coriander",
     "id_no_size": "coriander",
     "oomp_key": "oomp_food_vegetable_coriander",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_coriander",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_coriander",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_coriander",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_coriander",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_coriander",
     "directory": "parts/food_vegetable_coriander",
     "name": "Food Vegetable Coriander",
     "name_no_class": "Vegetable Coriander",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Coriander",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[food_vegetable_coriander](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_coriander)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_coriander)<br>[Food Vegetable Coriander](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_coriander)<br><br>",
-    "markdown_short": "[food_vegetable_coriander](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_coriander)<br><br>"
+    "markdown_full": "[food_vegetable_coriander](none)<br>[](none)<br>[Food Vegetable Coriander](none)<br><br>",
+    "markdown_short": "[food_vegetable_coriander](none)<br><br>"
 }

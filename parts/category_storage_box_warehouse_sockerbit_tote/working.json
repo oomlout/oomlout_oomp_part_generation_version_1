@@ -50,8 +50,9 @@
     "id_no_type": "box_warehouse_sockerbit_tote",
     "id_no_size": "sockerbit_tote",
     "oomp_key": "oomp_category_storage_box_warehouse_sockerbit_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse_sockerbit_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse_sockerbit_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_box_warehouse_sockerbit_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_box_warehouse_sockerbit_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_box_warehouse_sockerbit_tote",
     "directory": "parts/category_storage_box_warehouse_sockerbit_tote",
     "name": "Category Storage Box Warehouse Sockerbit Tote",
     "name_no_class": "Storage Box Warehouse Sockerbit Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Sockerbit Tote",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_storage_box_warehouse_sockerbit_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse_sockerbit_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse_sockerbit_tote)<br>[Category Storage Box Warehouse Sockerbit Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse_sockerbit_tote)<br><br>",
-    "markdown_short": "[category_storage_box_warehouse_sockerbit_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse_sockerbit_tote)<br><br>"
+    "markdown_full": "[category_storage_box_warehouse_sockerbit_tote](none)<br>[](none)<br>[Category Storage Box Warehouse Sockerbit Tote](none)<br><br>",
+    "markdown_short": "[category_storage_box_warehouse_sockerbit_tote](none)<br><br>"
 }

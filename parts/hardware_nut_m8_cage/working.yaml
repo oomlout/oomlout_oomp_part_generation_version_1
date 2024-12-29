@@ -26,22 +26,22 @@ directory: parts/hardware_nut_m8_cage
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_cage
 id: hardware_nut_m8_cage
 id_no_class: nut_m8_cage
 id_no_size: cage
 id_no_type: m8_cage
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_cage
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m8_cage
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m8_cage
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m8_cage
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m8_cage](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_cage)<br>[nu8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_cage)<br>[Hardware
-    Nut M8 Cage](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_cage)<br><br>'
-markdown_short: '[hardware_nut_m8_cage](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_cage)<br><br>'
+markdown_full: '[hardware_nut_m8_cage](none)<br>[nu8](none)<br>[Hardware Nut M8 Cage](none)<br><br>'
+markdown_short: '[hardware_nut_m8_cage](none)<br><br>'
 md5: 70a5bc2d9b565090986bbf2d60d1b31d
 md5_10: 70a5bc2d9b
 md5_10_upper: 70A5BC2D9B

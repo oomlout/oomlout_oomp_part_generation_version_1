@@ -50,8 +50,9 @@
     "id_no_type": "hardware",
     "id_no_size": "hardware",
     "oomp_key": "oomp_category_hardware",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware",
     "directory": "parts/category_hardware",
     "name": "Category Hardware",
     "name_no_class": "Hardware",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Hardware",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_hardware](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware)<br>[Category Hardware](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware)<br><br>",
-    "markdown_short": "[category_hardware](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware)<br><br>"
+    "markdown_full": "[category_hardware](none)<br>[](none)<br>[Category Hardware](none)<br><br>",
+    "markdown_short": "[category_hardware](none)<br><br>"
 }

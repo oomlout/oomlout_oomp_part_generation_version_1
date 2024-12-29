@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 2_width_10_height_15_mm_depth
+description_main_capital: 2 Width 10 Height 15 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 2_WIDTH_10_HEIGHT_15_MM_DEPTH
+description_only_numbers: '21015'
+description_only_numbers_short: 21k
+description_or_color: 21k
+description_or_color_upper: 21K
+directory: parts/oobb_part_tray_vertical_2_width_10_height_15_mm_depth
+distributors: []
+id: oobb_part_tray_vertical_2_width_10_height_15_mm_depth
+id_no_class: part_tray_vertical_2_width_10_height_15_mm_depth
+id_no_size: 2_width_10_height_15_mm_depth
+id_no_type: tray_vertical_2_width_10_height_15_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_2_width_10_height_15_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_2_width_10_height_15_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_2_width_10_height_15_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_2_width_10_height_15_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray Vertical 2 Width 10 Height 15 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_2_width_10_height_15_mm_depth](none)<br><br>'
+md5: ca101bfc063e67de006492dcbba8ec7a
+md5_10: ca101bfc06
+md5_10_upper: CA101BFC06
+md5_5: ca101
+md5_5_upper: CA101
+md5_6: ca101b
+md5_6_alpha: 7vtwb
+md5_6_alpha_upper: 7VTWB
+md5_6_upper: CA101B
+name: Oobb Part Tray Vertical 2 Width 10 Height 15 Mm Depth
+name_no_class: Part Tray Vertical 2 Width 10 Height 15 Mm Depth
+name_no_size: 2 Width 10 Height 15 Mm Depth
+name_no_size_short: 2 Width 10 Height 15 Mm Depth
+name_no_type: Tray Vertical 2 Width 10 Height 15 Mm Depth
+oomp_key: oomp_oobb_part_tray_vertical_2_width_10_height_15_mm_depth
+oomp_word: cherries star muscle
+oomp_word_emoji: ':cherries: :star: :muscle:'
+oomp_word_emoji_list:
+- ':cherries:'
+- ':star:'
+- ':muscle:'
+oomp_word_list:
+- cherries
+- star
+- muscle
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

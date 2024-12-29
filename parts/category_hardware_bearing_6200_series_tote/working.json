@@ -50,8 +50,9 @@
     "id_no_type": "bearing_6200_series_tote",
     "id_no_size": "6200_series_tote",
     "oomp_key": "oomp_category_hardware_bearing_6200_series_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_6200_series_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_6200_series_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_6200_series_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_6200_series_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_6200_series_tote",
     "directory": "parts/category_hardware_bearing_6200_series_tote",
     "name": "Category Hardware Bearing 6200 Series Tote",
     "name_no_class": "Hardware Bearing 6200 Series Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "6200 Series Tote",
     "description_or_color": "6 ",
     "description_or_color_upper": "6 ",
-    "markdown_full": "[category_hardware_bearing_6200_series_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_6200_series_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_6200_series_tote)<br>[Category Hardware Bearing 6200 Series Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_6200_series_tote)<br><br>",
-    "markdown_short": "[category_hardware_bearing_6200_series_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_6200_series_tote)<br><br>"
+    "markdown_full": "[category_hardware_bearing_6200_series_tote](none)<br>[](none)<br>[Category Hardware Bearing 6200 Series Tote](none)<br><br>",
+    "markdown_short": "[category_hardware_bearing_6200_series_tote](none)<br><br>"
 }

@@ -48,8 +48,9 @@
     "id_no_type": "5_mm_clear",
     "id_no_size": "clear",
     "oomp_key": "oomp_electronic_led_5_mm_clear",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_clear",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_clear",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_clear",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_clear",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_clear",
     "directory": "parts/electronic_led_5_mm_clear",
     "name": "Electronic Led 5 Mm Clear",
     "name_no_class": "Led 5 Mm Clear",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Clear",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[electronic_led_5_mm_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_clear)<br>[l5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_clear)<br>[Electronic Led 5 Mm Clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_clear)<br><br>",
-    "markdown_short": "[electronic_led_5_mm_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_clear)<br><br>"
+    "markdown_full": "[electronic_led_5_mm_clear](none)<br>[l5](none)<br>[Electronic Led 5 Mm Clear](none)<br><br>",
+    "markdown_short": "[electronic_led_5_mm_clear](none)<br><br>"
 }

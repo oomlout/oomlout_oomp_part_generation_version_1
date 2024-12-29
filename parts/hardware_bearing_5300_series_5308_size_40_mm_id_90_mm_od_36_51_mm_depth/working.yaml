@@ -26,21 +26,22 @@ directory: parts/hardware_bearing_5300_series_5308_size_40_mm_id_90_mm_od_36_51_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5308_size_40_mm_id_90_mm_od_36_51_mm_depth
 id: hardware_bearing_5300_series_5308_size_40_mm_id_90_mm_od_36_51_mm_depth
 id_no_class: bearing_5300_series_5308_size_40_mm_id_90_mm_od_36_51_mm_depth
 id_no_size: 5308_size_40_mm_id_90_mm_od_36_51_mm_depth
 id_no_type: 5300_series_5308_size_40_mm_id_90_mm_od_36_51_mm_depth
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5308_size_40_mm_id_90_mm_od_36_51_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_5300_series_5308_size_40_mm_id_90_mm_od_36_51_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_5300_series_5308_size_40_mm_id_90_mm_od_36_51_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_5300_series_5308_size_40_mm_id_90_mm_od_36_51_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_5300_series_5308_size_40_mm_id_90_mm_od_36_51_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5308_size_40_mm_id_90_mm_od_36_51_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5308_size_40_mm_id_90_mm_od_36_51_mm_depth)<br>[Hardware
-    Bearing 5300 Series 5308 Size 40 Mm Id 90 Mm Od 36 51 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5308_size_40_mm_id_90_mm_od_36_51_mm_depth)<br><br>'
-markdown_short: '[hardware_bearing_5300_series_5308_size_40_mm_id_90_mm_od_36_51_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5308_size_40_mm_id_90_mm_od_36_51_mm_depth)<br><br>'
+markdown_full: '[hardware_bearing_5300_series_5308_size_40_mm_id_90_mm_od_36_51_mm_depth](none)<br>[](none)<br>[Hardware
+    Bearing 5300 Series 5308 Size 40 Mm Id 90 Mm Od 36 51 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_bearing_5300_series_5308_size_40_mm_id_90_mm_od_36_51_mm_depth](none)<br><br>'
 md5: 2b9c7c423ad093cd476a40f0cf3810dc
 md5_10: 2b9c7c423a
 md5_10_upper: 2B9C7C423A

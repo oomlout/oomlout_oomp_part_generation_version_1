@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/oomlout_oomp_symbol_all_the_kicad_symbols",
-    "link_github": "https://github.com/oomlout/oomlout_oomp_symbol_all_the_kicad_symbols",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_oomlout_oomp_symbol_all_the_kicad_symbols",
     "id_no_size": "oomp_symbol_all_the_kicad_symbols",
     "oomp_key": "oomp_project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols",
     "directory": "parts/project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols",
     "name": "Project Github Oomlout Oomlout Oomp Symbol All The Kicad Symbols",
     "name_no_class": "Github Oomlout Oomlout Oomp Symbol All The Kicad Symbols",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Oomp Symbol All The Kicad Symbols",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols)<br>[Project Github Oomlout Oomlout Oomp Symbol All The Kicad Symbols](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols)<br><br>",
-    "markdown_short": "[project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols)<br><br>"
+    "markdown_full": "[project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols](none)<br>[](none)<br>[Project Github Oomlout Oomlout Oomp Symbol All The Kicad Symbols](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols](none)<br><br>"
 }

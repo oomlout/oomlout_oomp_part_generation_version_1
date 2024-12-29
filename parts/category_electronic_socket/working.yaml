@@ -27,21 +27,22 @@ directory: parts/category_electronic_socket
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket
 id: category_electronic_socket
 id_no_class: electronic_socket
 id_no_size: socket
 id_no_type: socket
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket)<br>[Category
-    Electronic Socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket)<br><br>'
-markdown_short: '[category_electronic_socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket)<br><br>'
+markdown_full: '[category_electronic_socket](none)<br>[](none)<br>[Category Electronic
+    Socket](none)<br><br>'
+markdown_short: '[category_electronic_socket](none)<br><br>'
 md5: 1f5b164e6d8d93b4a4c3a1a3daedab14
 md5_10: 1f5b164e6d
 md5_10_upper: 1F5B164E6D

@@ -27,21 +27,22 @@ directory: parts/category_electronic_ic_dip_8
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_dip_8
 id: category_electronic_ic_dip_8
 id_no_class: electronic_ic_dip_8
 id_no_size: dip_8
 id_no_type: ic_dip_8
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_dip_8
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_dip_8
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_dip_8
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_dip_8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_ic_dip_8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_dip_8)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_dip_8)<br>[Category
-    Electronic Ic Dip 8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_dip_8)<br><br>'
-markdown_short: '[category_electronic_ic_dip_8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_dip_8)<br><br>'
+markdown_full: '[category_electronic_ic_dip_8](none)<br>[](none)<br>[Category Electronic
+    Ic Dip 8](none)<br><br>'
+markdown_short: '[category_electronic_ic_dip_8](none)<br><br>'
 md5: b8a3dc83ddefe35840bca4d385aa2864
 md5_10: b8a3dc83dd
 md5_10_upper: B8A3DC83DD

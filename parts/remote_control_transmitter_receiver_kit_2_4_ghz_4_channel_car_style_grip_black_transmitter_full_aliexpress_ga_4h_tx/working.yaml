@@ -24,22 +24,25 @@ description_or_color: 'C '
 description_or_color_upper: 'C '
 directory: parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx
 id: remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx
 id_no_class: transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx
 id_no_size: car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx
 id_no_type: 2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005005061265278.html
+link_distributor_amazon: https://www.amazon.co.uk/dp/B0D8686DBH
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx
 manufacturer: aliexpress
 manufacturer_capital: Aliexpress
 manufacturer_first_letter: a
 manufacturer_first_letter_upper: A
 manufacturer_upper: ALIEXPRESS
 manufacturers: []
-markdown_full: '[remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx)<br>[Remote
+markdown_full: '[remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx](none)<br>[](none)<br>[Remote
     Control Transmitter Receiver Kit 2 4 Ghz 4 Channel Car Style Grip Black Transmitter
-    Full Aliexpress Ga 4H Tx](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx)<br><br>'
-markdown_short: '[remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx)<br><br>'
+    Full Aliexpress Ga 4H Tx](none)<br><br>'
+markdown_short: '[remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_ga_4h_tx](none)<br><br>'
 md5: de3258e75d3ac333a0add778af7ea130
 md5_10: de3258e75d
 md5_10_upper: DE3258E75D
@@ -70,12 +73,15 @@ oomp_word_list:
 - water_buffalo
 part_number: ga_4h_tx
 part_number_capital: Ga 4H Tx
+part_number_distributor_aliexpress: '1005005061265278'
+part_number_distributor_amazon: B0D8686DBH
 part_number_exact: GA-4H-TX
 part_number_first_letter: g
 part_number_first_letter_upper: G
 part_number_upper: GA_4H_TX
 short_code: ''
 short_code_upper: ''
+short_name: Transmitter Kit 4 Channel
 size: 2_4_ghz_4_channel
 size_capital: 2.4 Ghz 4 Channel
 size_first_letter: '2'

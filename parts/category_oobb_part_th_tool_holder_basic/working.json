@@ -50,8 +50,9 @@
     "id_no_type": "part_th_tool_holder_basic",
     "id_no_size": "th_tool_holder_basic",
     "oomp_key": "oomp_category_oobb_part_th_tool_holder_basic",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic",
     "directory": "parts/category_oobb_part_th_tool_holder_basic",
     "name": "Category Oobb Part Th Tool Holder Basic",
     "name_no_class": "Oobb Part Th Tool Holder Basic",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Th Tool Holder Basic",
     "description_or_color": "T ",
     "description_or_color_upper": "T ",
-    "markdown_full": "[category_oobb_part_th_tool_holder_basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic)<br>[Category Oobb Part Th Tool Holder Basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic)<br><br>",
-    "markdown_short": "[category_oobb_part_th_tool_holder_basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic)<br><br>"
+    "markdown_full": "[category_oobb_part_th_tool_holder_basic](none)<br>[](none)<br>[Category Oobb Part Th Tool Holder Basic](none)<br><br>",
+    "markdown_short": "[category_oobb_part_th_tool_holder_basic](none)<br><br>"
 }

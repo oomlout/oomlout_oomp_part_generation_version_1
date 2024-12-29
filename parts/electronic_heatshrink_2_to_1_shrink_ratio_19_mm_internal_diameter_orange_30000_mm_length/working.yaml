@@ -24,22 +24,23 @@ description_or_color: O30k
 description_or_color_upper: O30K
 directory: parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_orange_30000_mm_length
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_orange_30000_mm_length
 id: electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_orange_30000_mm_length
 id_no_class: heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_orange_30000_mm_length
 id_no_size: orange_30000_mm_length
 id_no_type: 19_mm_internal_diameter_orange_30000_mm_length
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_orange_30000_mm_length
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_orange_30000_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_orange_30000_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_orange_30000_mm_length
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_orange_30000_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_orange_30000_mm_length)<br>[o](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_orange_30000_mm_length)<br>[Electronic
-    Heatshrink 2 To 1 Shrink Ratio 19 Mm Internal Diameter Orange 30000 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_orange_30000_mm_length)<br><br>'
-markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_orange_30000_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_orange_30000_mm_length)<br><br>'
+markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_orange_30000_mm_length](none)<br>[o](none)<br>[Electronic
+    Heatshrink 2 To 1 Shrink Ratio 19 Mm Internal Diameter Orange 30000 Mm Length](none)<br><br>'
+markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_orange_30000_mm_length](none)<br><br>'
 md5: 994aed9e4828a0c6d99e3959d722f244
 md5_10: 994aed9e48
 md5_10_upper: 994AED9E48

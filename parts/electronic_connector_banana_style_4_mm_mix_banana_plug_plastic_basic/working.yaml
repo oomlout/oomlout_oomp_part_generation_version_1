@@ -26,21 +26,22 @@ directory: parts/electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic
 id: electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic
 id_no_class: connector_banana_style_4_mm_mix_banana_plug_plastic_basic
 id_no_size: mix_banana_plug_plastic_basic
 id_no_type: banana_style_4_mm_mix_banana_plug_plastic_basic
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic)<br>[con](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic)<br>[Electronic
-    Connector Banana Style 4 Mm Mix Banana Plug Plastic Basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic)<br><br>'
-markdown_short: '[electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic)<br><br>'
+markdown_full: '[electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic](none)<br>[con](none)<br>[Electronic
+    Connector Banana Style 4 Mm Mix Banana Plug Plastic Basic](none)<br><br>'
+markdown_short: '[electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic](none)<br><br>'
 md5: 3be37ac331d6decc33fe7bb24cf445ad
 md5_10: 3be37ac331
 md5_10_upper: 3BE37AC331

@@ -50,8 +50,9 @@
     "id_no_type": "set_screw",
     "id_no_size": "set_screw",
     "oomp_key": "oomp_category_hardware_set_screw",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw",
     "directory": "parts/category_hardware_set_screw",
     "name": "Category Hardware Set Screw",
     "name_no_class": "Hardware Set Screw",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Set Screw",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_hardware_set_screw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw)<br>[Category Hardware Set Screw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw)<br><br>",
-    "markdown_short": "[category_hardware_set_screw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw)<br><br>"
+    "markdown_full": "[category_hardware_set_screw](none)<br>[](none)<br>[Category Hardware Set Screw](none)<br><br>",
+    "markdown_short": "[category_hardware_set_screw](none)<br><br>"
 }

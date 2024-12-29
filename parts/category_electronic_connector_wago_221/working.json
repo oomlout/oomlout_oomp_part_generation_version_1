@@ -50,8 +50,9 @@
     "id_no_type": "connector_wago_221",
     "id_no_size": "wago_221",
     "oomp_key": "oomp_category_electronic_connector_wago_221",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_wago_221",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_wago_221",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_wago_221",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_wago_221",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_wago_221",
     "directory": "parts/category_electronic_connector_wago_221",
     "name": "Category Electronic Connector Wago 221",
     "name_no_class": "Electronic Connector Wago 221",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Wago 221",
     "description_or_color": "W ",
     "description_or_color_upper": "W ",
-    "markdown_full": "[category_electronic_connector_wago_221](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_wago_221)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_wago_221)<br>[Category Electronic Connector Wago 221](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_wago_221)<br><br>",
-    "markdown_short": "[category_electronic_connector_wago_221](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_wago_221)<br><br>"
+    "markdown_full": "[category_electronic_connector_wago_221](none)<br>[](none)<br>[Category Electronic Connector Wago 221](none)<br><br>",
+    "markdown_short": "[category_electronic_connector_wago_221](none)<br><br>"
 }

@@ -50,8 +50,9 @@
     "id_no_type": "takeaway_container_rectangle_500_ml",
     "id_no_size": "500_ml",
     "oomp_key": "oomp_category_packaging_takeaway_container_rectangle_500_ml",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_rectangle_500_ml",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_rectangle_500_ml",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_takeaway_container_rectangle_500_ml",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_takeaway_container_rectangle_500_ml",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_takeaway_container_rectangle_500_ml",
     "directory": "parts/category_packaging_takeaway_container_rectangle_500_ml",
     "name": "Category Packaging Takeaway Container Rectangle 500 Ml",
     "name_no_class": "Packaging Takeaway Container Rectangle 500 Ml",
@@ -89,6 +90,6 @@
     "name_no_size_short": "500 Ml",
     "description_or_color": "5 ",
     "description_or_color_upper": "5 ",
-    "markdown_full": "[category_packaging_takeaway_container_rectangle_500_ml](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_rectangle_500_ml)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_rectangle_500_ml)<br>[Category Packaging Takeaway Container Rectangle 500 Ml](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_rectangle_500_ml)<br><br>",
-    "markdown_short": "[category_packaging_takeaway_container_rectangle_500_ml](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_rectangle_500_ml)<br><br>"
+    "markdown_full": "[category_packaging_takeaway_container_rectangle_500_ml](none)<br>[](none)<br>[Category Packaging Takeaway Container Rectangle 500 Ml](none)<br><br>",
+    "markdown_short": "[category_packaging_takeaway_container_rectangle_500_ml](none)<br><br>"
 }

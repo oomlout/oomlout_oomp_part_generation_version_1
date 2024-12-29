@@ -1,0 +1,92 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: tool_screwdriver_hex_wera_60_mm_x4_extra
+description_extra_capital: Tool Screwdriver Hex Wera 60 mm X4 Extra
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOOL_SCREWDRIVER_HEX_WERA_60_MM_X4_EXTRA
+description_main: 7_width_5_height_20_mm_depth
+description_main_capital: 7 Width 5 Height 20 mm Depth
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 7_WIDTH_5_HEIGHT_20_MM_DEPTH
+description_only_numbers: '7520'
+description_only_numbers_short: 7k5
+description_or_color: 7k5
+description_or_color_upper: 7K5
+directory: parts/oobb_part_tool_holder_vertical_7_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x4_extra
+distributors: []
+id: oobb_part_tool_holder_vertical_7_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x4_extra
+id_no_class: part_tool_holder_vertical_7_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x4_extra
+id_no_size: 7_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x4_extra
+id_no_type: tool_holder_vertical_7_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x4_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_7_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x4_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_7_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x4_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_7_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x4_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tool_holder_vertical_7_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x4_extra](none)<br>[](none)<br>[Oobb
+    Part Tool Holder Vertical 7 Width 5 Height 20 Mm Depth Tool Screwdriver Hex Wera
+    60 Mm X4 Extra](none)<br><br>'
+markdown_short: '[oobb_part_tool_holder_vertical_7_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x4_extra](none)<br><br>'
+md5: 045b28fb9f30d1034729f1bcf79226a8
+md5_10: 045b28fb9f
+md5_10_upper: 045B28FB9F
+md5_5: 045b2
+md5_5_upper: 045B2
+md5_6: 045b28
+md5_6_alpha: 64a0
+md5_6_alpha_upper: 64A0
+md5_6_upper: 045B28
+name: Oobb Part Tool Holder Vertical 7 Width 5 Height 20 Mm Depth Tool Screwdriver
+    Hex Wera 60 Mm X4 Extra
+name_no_class: Part Tool Holder Vertical 7 Width 5 Height 20 Mm Depth Tool Screwdriver
+    Hex Wera 60 Mm X4 Extra
+name_no_size: 7 Width 5 Height 20 Mm Depth Tool Screwdriver Hex Wera 60 Mm X4 Extra
+name_no_size_short: 7 Width 5 Height 20 Mm Depth Tool Screwdriver Hex Wera 60 Mm X4
+    Extra
+name_no_type: Tool Holder Vertical 7 Width 5 Height 20 Mm Depth Tool Screwdriver Hex
+    Wera 60 Mm X4 Extra
+oomp_key: oomp_oobb_part_tool_holder_vertical_7_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x4_extra
+oomp_word: wink rooster tongue
+oomp_word_emoji: ':wink: :rooster: :tongue:'
+oomp_word_emoji_list:
+- ':wink:'
+- ':rooster:'
+- ':tongue:'
+oomp_word_list:
+- wink
+- rooster
+- tongue
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tool_holder_vertical
+size_capital: Tool Holder Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TOOL_HOLDER_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

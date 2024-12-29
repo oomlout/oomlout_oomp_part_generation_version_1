@@ -27,21 +27,22 @@ directory: parts/category_electronic_resistor_quarter_watt_through_hole
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole
 id: category_electronic_resistor_quarter_watt_through_hole
 id_no_class: electronic_resistor_quarter_watt_through_hole
 id_no_size: quarter_watt_through_hole
 id_no_type: resistor_quarter_watt_through_hole
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_resistor_quarter_watt_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole)<br>[Category
-    Electronic Resistor Quarter Watt Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole)<br><br>'
-markdown_short: '[category_electronic_resistor_quarter_watt_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole)<br><br>'
+markdown_full: '[category_electronic_resistor_quarter_watt_through_hole](none)<br>[](none)<br>[Category
+    Electronic Resistor Quarter Watt Through Hole](none)<br><br>'
+markdown_short: '[category_electronic_resistor_quarter_watt_through_hole](none)<br><br>'
 md5: 9bff91ffe54da11da39824edc22174e8
 md5_10: 9bff91ffe5
 md5_10_upper: 9BFF91FFE5

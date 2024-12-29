@@ -50,8 +50,9 @@
     "id_no_type": "spacer_m6_id_9_mm_od",
     "id_no_size": "m6_id_9_mm_od",
     "oomp_key": "oomp_category_hardware_spacer_m6_id_9_mm_od",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_spacer_m6_id_9_mm_od",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_spacer_m6_id_9_mm_od",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_spacer_m6_id_9_mm_od",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_spacer_m6_id_9_mm_od",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_spacer_m6_id_9_mm_od",
     "directory": "parts/category_hardware_spacer_m6_id_9_mm_od",
     "name": "Category Hardware Spacer M6 Id 9 Mm Od",
     "name_no_class": "Hardware Spacer M6 Id 9 Mm Od",
@@ -89,6 +90,6 @@
     "name_no_size_short": "M6 Id 9 Mm Od",
     "description_or_color": "M ",
     "description_or_color_upper": "M ",
-    "markdown_full": "[category_hardware_spacer_m6_id_9_mm_od](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_spacer_m6_id_9_mm_od)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_spacer_m6_id_9_mm_od)<br>[Category Hardware Spacer M6 Id 9 Mm Od](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_spacer_m6_id_9_mm_od)<br><br>",
-    "markdown_short": "[category_hardware_spacer_m6_id_9_mm_od](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_spacer_m6_id_9_mm_od)<br><br>"
+    "markdown_full": "[category_hardware_spacer_m6_id_9_mm_od](none)<br>[](none)<br>[Category Hardware Spacer M6 Id 9 Mm Od](none)<br><br>",
+    "markdown_short": "[category_hardware_spacer_m6_id_9_mm_od](none)<br><br>"
 }

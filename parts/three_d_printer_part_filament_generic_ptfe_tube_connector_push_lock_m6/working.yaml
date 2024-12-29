@@ -24,21 +24,22 @@ description_or_color: 'G '
 description_or_color_upper: 'G '
 directory: parts/three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6
 id: three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6
 id_no_class: part_filament_generic_ptfe_tube_connector_push_lock_m6
 id_no_size: generic_ptfe_tube_connector_push_lock_m6
 id_no_type: filament_generic_ptfe_tube_connector_push_lock_m6
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6)<br>[Three
-    D Printer Part Filament Generic Ptfe Tube Connector Push Lock M6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6)<br><br>'
-markdown_short: '[three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6)<br><br>'
+markdown_full: '[three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6](none)<br>[](none)<br>[Three
+    D Printer Part Filament Generic Ptfe Tube Connector Push Lock M6](none)<br><br>'
+markdown_short: '[three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6](none)<br><br>'
 md5: 8a83147bf942ae70a515b3291cbfe6fd
 md5_10: 8a83147bf9
 md5_10_upper: 8A83147BF9

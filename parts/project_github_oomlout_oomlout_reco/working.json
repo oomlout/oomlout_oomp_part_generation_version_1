@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/oomlout-RECO",
-    "link_github": "https://github.com/oomlout/oomlout-RECO",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_reco",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_reco",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_oomlout_reco",
     "id_no_size": "reco",
     "oomp_key": "oomp_project_github_oomlout_oomlout_reco",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_reco",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_reco",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_reco",
     "directory": "parts/project_github_oomlout_oomlout_reco",
     "name": "Project Github Oomlout Oomlout Reco",
     "name_no_class": "Github Oomlout Oomlout Reco",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Reco",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[project_github_oomlout_oomlout_reco](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_reco)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_reco)<br>[Project Github Oomlout Oomlout Reco](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_reco)<br><br>",
-    "markdown_short": "[project_github_oomlout_oomlout_reco](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_reco)<br><br>"
+    "markdown_full": "[project_github_oomlout_oomlout_reco](none)<br>[](none)<br>[Project Github Oomlout Oomlout Reco](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_oomlout_reco](none)<br><br>"
 }

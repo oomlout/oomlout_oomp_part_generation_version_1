@@ -26,21 +26,22 @@ directory: parts/household_toy_animal_to_sort
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_animal_to_sort
 id: household_toy_animal_to_sort
 id_no_class: animal_to_sort
 id_no_size: tosort
 id_no_type: to_sort
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_animal_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/household_toy_animal_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/household_toy_animal_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/household_toy_animal_to_sort
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[household_toy_animal_to_sort](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_animal_to_sort)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_animal_to_sort)<br>[Household
-    Toy Animal To Sort](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_animal_to_sort)<br><br>'
-markdown_short: '[household_toy_animal_to_sort](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_animal_to_sort)<br><br>'
+markdown_full: '[household_toy_animal_to_sort](none)<br>[](none)<br>[Household Toy
+    Animal To Sort](none)<br><br>'
+markdown_short: '[household_toy_animal_to_sort](none)<br><br>'
 md5: 2b7c1a3ebcedf81eb8fc34485fdc330f
 md5_10: 2b7c1a3ebc
 md5_10_upper: 2B7C1A3EBC

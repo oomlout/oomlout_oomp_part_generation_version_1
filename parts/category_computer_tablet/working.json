@@ -50,8 +50,9 @@
     "id_no_type": "tablet",
     "id_no_size": "tablet",
     "oomp_key": "oomp_category_computer_tablet",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet",
     "directory": "parts/category_computer_tablet",
     "name": "Category Computer Tablet",
     "name_no_class": "Computer Tablet",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Tablet",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_computer_tablet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet)<br>[Category Computer Tablet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet)<br><br>",
-    "markdown_short": "[category_computer_tablet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet)<br><br>"
+    "markdown_full": "[category_computer_tablet](none)<br>[](none)<br>[Category Computer Tablet](none)<br><br>",
+    "markdown_short": "[category_computer_tablet](none)<br><br>"
 }

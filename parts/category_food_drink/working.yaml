@@ -27,21 +27,21 @@ directory: parts/category_food_drink
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink
 id: category_food_drink
 id_no_class: food_drink
 id_no_size: drink
 id_no_type: drink
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_drink
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_drink
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_drink
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food_drink](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink)<br>[Category
-    Food Drink](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink)<br><br>'
-markdown_short: '[category_food_drink](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink)<br><br>'
+markdown_full: '[category_food_drink](none)<br>[](none)<br>[Category Food Drink](none)<br><br>'
+markdown_short: '[category_food_drink](none)<br><br>'
 md5: 161b32cf774ca9acb970f8e3f6836b61
 md5_10: 161b32cf77
 md5_10_upper: 161B32CF77

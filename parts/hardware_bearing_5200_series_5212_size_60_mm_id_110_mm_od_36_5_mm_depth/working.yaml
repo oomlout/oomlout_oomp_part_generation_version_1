@@ -26,21 +26,22 @@ directory: parts/hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth
 id: hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth
 id_no_class: bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth
 id_no_size: 5212_size_60_mm_id_110_mm_od_36_5_mm_depth
 id_no_type: 5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth)<br>[Hardware
-    Bearing 5200 Series 5212 Size 60 Mm Id 110 Mm Od 36 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth)<br><br>'
-markdown_short: '[hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth)<br><br>'
+markdown_full: '[hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth](none)<br>[](none)<br>[Hardware
+    Bearing 5200 Series 5212 Size 60 Mm Id 110 Mm Od 36 5 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth](none)<br><br>'
 md5: 0b6af29c4f9b4bda6fb0514cb68f9d1a
 md5_10: 0b6af29c4f
 md5_10_upper: 0B6AF29C4F

@@ -50,8 +50,9 @@
     "id_no_type": "bolt",
     "id_no_size": "bolt",
     "oomp_key": "oomp_category_hardware_bolt",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt",
     "directory": "parts/category_hardware_bolt",
     "name": "Category Hardware Bolt",
     "name_no_class": "Hardware Bolt",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Bolt",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_hardware_bolt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt)<br>[Category Hardware Bolt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt)<br><br>",
-    "markdown_short": "[category_hardware_bolt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt)<br><br>"
+    "markdown_full": "[category_hardware_bolt](none)<br>[](none)<br>[Category Hardware Bolt](none)<br><br>",
+    "markdown_short": "[category_hardware_bolt](none)<br><br>"
 }

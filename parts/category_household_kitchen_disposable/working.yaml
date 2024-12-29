@@ -27,21 +27,22 @@ directory: parts/category_household_kitchen_disposable
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable
 id: category_household_kitchen_disposable
 id_no_class: household_kitchen_disposable
 id_no_size: disposable
 id_no_type: disposable
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen_disposable
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen_disposable
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen_disposable
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_household_kitchen_disposable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable)<br>[Category
-    Household Kitchen Disposable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable)<br><br>'
-markdown_short: '[category_household_kitchen_disposable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable)<br><br>'
+markdown_full: '[category_household_kitchen_disposable](none)<br>[](none)<br>[Category
+    Household Kitchen Disposable](none)<br><br>'
+markdown_short: '[category_household_kitchen_disposable](none)<br><br>'
 md5: 0b8ed8ad2c269280ac2e496a5ad1407a
 md5_10: 0b8ed8ad2c
 md5_10_upper: 0B8ED8AD2C

@@ -26,21 +26,22 @@ directory: parts/electronic_connector_banana_style_4_mm_black_banana_socket_and_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_socket_and_spade_connect_panel_mount
 id: electronic_connector_banana_style_4_mm_black_banana_socket_and_spade_connect_panel_mount
 id_no_class: connector_banana_style_4_mm_black_banana_socket_and_spade_connect_panel_mount
 id_no_size: black_banana_socket_and_spade_connect_panel_mount
 id_no_type: banana_style_4_mm_black_banana_socket_and_spade_connect_panel_mount
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_socket_and_spade_connect_panel_mount
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_socket_and_spade_connect_panel_mount
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_socket_and_spade_connect_panel_mount
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_socket_and_spade_connect_panel_mount
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_connector_banana_style_4_mm_black_banana_socket_and_spade_connect_panel_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_socket_and_spade_connect_panel_mount)<br>[conb](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_socket_and_spade_connect_panel_mount)<br>[Electronic
-    Connector Banana Style 4 Mm Black Banana Socket And Spade Connect Panel Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_socket_and_spade_connect_panel_mount)<br><br>'
-markdown_short: '[electronic_connector_banana_style_4_mm_black_banana_socket_and_spade_connect_panel_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_socket_and_spade_connect_panel_mount)<br><br>'
+markdown_full: '[electronic_connector_banana_style_4_mm_black_banana_socket_and_spade_connect_panel_mount](none)<br>[conb](none)<br>[Electronic
+    Connector Banana Style 4 Mm Black Banana Socket And Spade Connect Panel Mount](none)<br><br>'
+markdown_short: '[electronic_connector_banana_style_4_mm_black_banana_socket_and_spade_connect_panel_mount](none)<br><br>'
 md5: fb3e17a6fdab3dba61ac6e049d1c4766
 md5_10: fb3e17a6fd
 md5_10_upper: FB3E17A6FD

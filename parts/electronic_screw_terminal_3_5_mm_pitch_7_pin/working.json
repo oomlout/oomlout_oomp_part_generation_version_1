@@ -47,8 +47,9 @@
     "id_no_type": "3_5_mm_pitch_7_pin",
     "id_no_size": "7_pin",
     "oomp_key": "oomp_electronic_screw_terminal_3_5_mm_pitch_7_pin",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_7_pin",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_7_pin",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_7_pin",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_7_pin",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_7_pin",
     "directory": "parts/electronic_screw_terminal_3_5_mm_pitch_7_pin",
     "name": "Electronic Screw Terminal 3 5 Mm Pitch 7 Pin",
     "name_no_class": "Screw Terminal 3 5 Mm Pitch 7 Pin",
@@ -86,6 +87,6 @@
     "name_no_size_short": "7 Pin",
     "description_or_color": "7",
     "description_or_color_upper": "7",
-    "markdown_full": "[electronic_screw_terminal_3_5_mm_pitch_7_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_7_pin)<br>[7p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_7_pin)<br>[Electronic Screw Terminal 3 5 Mm Pitch 7 Pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_7_pin)<br><br>",
-    "markdown_short": "[electronic_screw_terminal_3_5_mm_pitch_7_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_7_pin)<br><br>"
+    "markdown_full": "[electronic_screw_terminal_3_5_mm_pitch_7_pin](none)<br>[7p](none)<br>[Electronic Screw Terminal 3 5 Mm Pitch 7 Pin](none)<br><br>",
+    "markdown_short": "[electronic_screw_terminal_3_5_mm_pitch_7_pin](none)<br><br>"
 }

@@ -50,8 +50,9 @@
     "id_no_type": "breakout_board_motor_driver_drv8833",
     "id_no_size": "drv8833",
     "oomp_key": "oomp_category_electronic_breakout_board_motor_driver_drv8833",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_drv8833",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_drv8833",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_drv8833",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_drv8833",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_drv8833",
     "directory": "parts/category_electronic_breakout_board_motor_driver_drv8833",
     "name": "Category Electronic Breakout Board Motor Driver Drv8833",
     "name_no_class": "Electronic Breakout Board Motor Driver Drv8833",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Drv8833",
     "description_or_color": "D ",
     "description_or_color_upper": "D ",
-    "markdown_full": "[category_electronic_breakout_board_motor_driver_drv8833](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_drv8833)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_drv8833)<br>[Category Electronic Breakout Board Motor Driver Drv8833](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_drv8833)<br><br>",
-    "markdown_short": "[category_electronic_breakout_board_motor_driver_drv8833](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_drv8833)<br><br>"
+    "markdown_full": "[category_electronic_breakout_board_motor_driver_drv8833](none)<br>[](none)<br>[Category Electronic Breakout Board Motor Driver Drv8833](none)<br><br>",
+    "markdown_short": "[category_electronic_breakout_board_motor_driver_drv8833](none)<br><br>"
 }

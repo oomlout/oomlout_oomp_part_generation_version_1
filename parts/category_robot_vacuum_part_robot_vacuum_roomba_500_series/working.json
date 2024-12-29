@@ -50,8 +50,9 @@
     "id_no_type": "part_roomba_500_series",
     "id_no_size": "roomba_500_series",
     "oomp_key": "oomp_category_robot_vacuum_part_robot_vacuum_roomba_500_series",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series",
     "directory": "parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series",
     "name": "Category Robot Vacuum Part Robot Vacuum Roomba 500 Series",
     "name_no_class": "Robot Vacuum Part Robot Vacuum Roomba 500 Series",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Roomba 500 Series",
     "description_or_color": "R ",
     "description_or_color_upper": "R ",
-    "markdown_full": "[category_robot_vacuum_part_robot_vacuum_roomba_500_series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series)<br>[Category Robot Vacuum Part Robot Vacuum Roomba 500 Series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series)<br><br>",
-    "markdown_short": "[category_robot_vacuum_part_robot_vacuum_roomba_500_series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series)<br><br>"
+    "markdown_full": "[category_robot_vacuum_part_robot_vacuum_roomba_500_series](none)<br>[](none)<br>[Category Robot Vacuum Part Robot Vacuum Roomba 500 Series](none)<br><br>",
+    "markdown_short": "[category_robot_vacuum_part_robot_vacuum_roomba_500_series](none)<br><br>"
 }

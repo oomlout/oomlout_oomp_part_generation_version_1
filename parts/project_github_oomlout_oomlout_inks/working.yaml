@@ -26,23 +26,22 @@ directory: parts/project_github_oomlout_oomlout_inks
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_inks
 id: project_github_oomlout_oomlout_inks
 id_no_class: github_oomlout_oomlout_inks
 id_no_size: inks
 id_no_type: oomlout_oomlout_inks
-link_github: https://github.com/oomlout/oomlout-INKS
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_inks
-link_redirect: https://github.com/oomlout/oomlout-INKS
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_inks
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_inks
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_inks
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_oomlout_inks](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_inks)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_inks)<br>[Project
-    Github Oomlout Oomlout Inks](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_inks)<br><br>'
-markdown_short: '[project_github_oomlout_oomlout_inks](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_inks)<br><br>'
+markdown_full: '[project_github_oomlout_oomlout_inks](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Inks](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_inks](none)<br><br>'
 md5: a123ffb8d2d823c7c2fc31f7938c10a1
 md5_10: a123ffb8d2
 md5_10_upper: A123FFB8D2

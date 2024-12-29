@@ -50,8 +50,9 @@
     "id_no_type": "switch_slide_tote",
     "id_no_size": "tote",
     "oomp_key": "oomp_category_electronic_switch_slide_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_switch_slide_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_switch_slide_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_switch_slide_tote",
     "directory": "parts/category_electronic_switch_slide_tote",
     "name": "Category Electronic Switch Slide Tote",
     "name_no_class": "Electronic Switch Slide Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Tote",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_switch_slide_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide_tote)<br>[Category Electronic Switch Slide Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide_tote)<br><br>",
-    "markdown_short": "[category_electronic_switch_slide_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide_tote)<br><br>"
+    "markdown_full": "[category_electronic_switch_slide_tote](none)<br>[](none)<br>[Category Electronic Switch Slide Tote](none)<br><br>",
+    "markdown_short": "[category_electronic_switch_slide_tote](none)<br><br>"
 }

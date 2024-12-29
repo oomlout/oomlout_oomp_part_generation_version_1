@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 15_width_12_height_3_mm_depth
+description_main_capital: 15 Width 12 Height 3 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 15_WIDTH_12_HEIGHT_3_MM_DEPTH
+description_only_numbers: '15123'
+description_only_numbers_short: 15k
+description_or_color: 15k
+description_or_color_upper: 15K
+directory: parts/oobb_part_plate_15_width_12_height_3_mm_depth
+distributors: []
+id: oobb_part_plate_15_width_12_height_3_mm_depth
+id_no_class: part_plate_15_width_12_height_3_mm_depth
+id_no_size: 15_width_12_height_3_mm_depth
+id_no_type: plate_15_width_12_height_3_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_15_width_12_height_3_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_15_width_12_height_3_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_15_width_12_height_3_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_15_width_12_height_3_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Plate 15 Width 12 Height 3 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_plate_15_width_12_height_3_mm_depth](none)<br><br>'
+md5: 91fee21e83b19e0cf2927c3b839ce7b8
+md5_10: 91fee21e83
+md5_10_upper: 91FEE21E83
+md5_5: 91fee
+md5_5_upper: 91FEE
+md5_6: 91fee2
+md5_6_alpha: 5p2oy
+md5_6_alpha_upper: 5P2OY
+md5_6_upper: 91FEE2
+name: Oobb Part Plate 15 Width 12 Height 3 Mm Depth
+name_no_class: Part Plate 15 Width 12 Height 3 Mm Depth
+name_no_size: 15 Width 12 Height 3 Mm Depth
+name_no_size_short: 15 Width 12 Height 3 Mm Depth
+name_no_type: Plate 15 Width 12 Height 3 Mm Depth
+oomp_key: oomp_oobb_part_plate_15_width_12_height_3_mm_depth
+oomp_word: pushpin recycle sailboat
+oomp_word_emoji: ':pushpin: :recycle: :sailboat:'
+oomp_word_emoji_list:
+- ':pushpin:'
+- ':recycle:'
+- ':sailboat:'
+oomp_word_list:
+- pushpin
+- recycle
+- sailboat
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

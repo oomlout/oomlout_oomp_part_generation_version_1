@@ -1,0 +1,93 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: electronic_button_11_mm_panel_mount_x4_extra
+description_extra_capital: Electronic Button 11 mm Panel Mount X4 Extra
+description_extra_first_letter: e
+description_extra_first_letter_upper: E
+description_extra_upper: ELECTRONIC_BUTTON_11_MM_PANEL_MOUNT_X4_EXTRA
+description_main: 3_width_3_height_21_mm_depth
+description_main_capital: 3 Width 3 Height 21 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_3_HEIGHT_21_MM_DEPTH
+description_only_numbers: '3321'
+description_only_numbers_short: 3k3
+description_or_color: 3k3
+description_or_color_upper: 3K3
+directory: parts/oobb_part_holder_3_width_3_height_21_mm_depth_electronic_button_11_mm_panel_mount_x4_extra
+distributors: []
+id: oobb_part_holder_3_width_3_height_21_mm_depth_electronic_button_11_mm_panel_mount_x4_extra
+id_no_class: part_holder_3_width_3_height_21_mm_depth_electronic_button_11_mm_panel_mount_x4_extra
+id_no_size: 3_width_3_height_21_mm_depth_electronic_button_11_mm_panel_mount_x4_extra
+id_no_type: holder_3_width_3_height_21_mm_depth_electronic_button_11_mm_panel_mount_x4_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_3_width_3_height_21_mm_depth_electronic_button_11_mm_panel_mount_x4_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_3_width_3_height_21_mm_depth_electronic_button_11_mm_panel_mount_x4_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_3_width_3_height_21_mm_depth_electronic_button_11_mm_panel_mount_x4_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_holder_3_width_3_height_21_mm_depth_electronic_button_11_mm_panel_mount_x4_extra](none)<br>[](none)<br>[Oobb
+    Part Holder 3 Width 3 Height 21 Mm Depth Electronic Button 11 Mm Panel Mount X4
+    Extra](none)<br><br>'
+markdown_short: '[oobb_part_holder_3_width_3_height_21_mm_depth_electronic_button_11_mm_panel_mount_x4_extra](none)<br><br>'
+md5: 708541a24e9da621ff151ac95829e911
+md5_10: 708541a24e
+md5_10_upper: 708541A24E
+md5_5: '70854'
+md5_5_upper: '70854'
+md5_6: '708541'
+md5_6_alpha: 4e1xd
+md5_6_alpha_upper: 4E1XD
+md5_6_upper: '708541'
+name: Oobb Part Holder 3 Width 3 Height 21 Mm Depth Electronic Button 11 Mm Panel
+    Mount X4 Extra
+name_no_class: Part Holder 3 Width 3 Height 21 Mm Depth Electronic Button 11 Mm Panel
+    Mount X4 Extra
+name_no_size: 3 Width 3 Height 21 Mm Depth Electronic Button 11 Mm Panel Mount X4
+    Extra
+name_no_size_short: 3 Width 3 Height 21 Mm Depth Electronic Button 11 Mm Panel Mount
+    X4 Extra
+name_no_type: Holder 3 Width 3 Height 21 Mm Depth Electronic Button 11 Mm Panel Mount
+    X4 Extra
+oomp_key: oomp_oobb_part_holder_3_width_3_height_21_mm_depth_electronic_button_11_mm_panel_mount_x4_extra
+oomp_word: squirrel bulb camel
+oomp_word_emoji: ':squirrel: :bulb: :camel:'
+oomp_word_emoji_list:
+- ':squirrel:'
+- ':bulb:'
+- ':camel:'
+oomp_word_list:
+- squirrel
+- bulb
+- camel
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: holder
+size_capital: Holder
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOLDER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -27,21 +27,22 @@ directory: parts/category_electronic_connector
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector
 id: category_electronic_connector
 id_no_class: electronic_connector
 id_no_size: connector
 id_no_type: connector
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_connector](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector)<br>[Category
-    Electronic Connector](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector)<br><br>'
-markdown_short: '[category_electronic_connector](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector)<br><br>'
+markdown_full: '[category_electronic_connector](none)<br>[](none)<br>[Category Electronic
+    Connector](none)<br><br>'
+markdown_short: '[category_electronic_connector](none)<br><br>'
 md5: f2b640117889e23c20132aae16592b18
 md5_10: f2b6401178
 md5_10_upper: F2B6401178

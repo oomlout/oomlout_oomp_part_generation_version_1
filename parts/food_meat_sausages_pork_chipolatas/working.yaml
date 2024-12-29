@@ -27,22 +27,23 @@ directory: parts/food_meat_sausages_pork_chipolatas
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas
 id: food_meat_sausages_pork_chipolatas
 id_no_class: meat_sausages_pork_chipolatas
 id_no_size: sausagesporkchipolatas
 id_no_type: sausages_pork_chipolatas
 link_distributor_ocado: https://www.ocado.com/search?entry=523896011
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_sausages_pork_chipolatas
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_sausages_pork_chipolatas
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_sausages_pork_chipolatas
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_meat_sausages_pork_chipolatas](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas)<br>[Food
-    Meat Sausages Pork Chipolatas](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas)<br><br>'
-markdown_short: '[food_meat_sausages_pork_chipolatas](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas)<br><br>'
+markdown_full: '[food_meat_sausages_pork_chipolatas](none)<br>[](none)<br>[Food Meat
+    Sausages Pork Chipolatas](none)<br><br>'
+markdown_short: '[food_meat_sausages_pork_chipolatas](none)<br><br>'
 md5: cc21dc7399269f8623b6562320e32f61
 md5_10: cc21dc7399
 md5_10_upper: CC21DC7399

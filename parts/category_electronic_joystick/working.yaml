@@ -27,21 +27,22 @@ directory: parts/category_electronic_joystick
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick
 id: category_electronic_joystick
 id_no_class: electronic_joystick
 id_no_size: joystick
 id_no_type: joystick
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_joystick
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_joystick
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_joystick
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_joystick](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick)<br>[Category
-    Electronic Joystick](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick)<br><br>'
-markdown_short: '[category_electronic_joystick](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick)<br><br>'
+markdown_full: '[category_electronic_joystick](none)<br>[](none)<br>[Category Electronic
+    Joystick](none)<br><br>'
+markdown_short: '[category_electronic_joystick](none)<br><br>'
 md5: 8fd92e7fd35703b0bb0a324f8000cafe
 md5_10: 8fd92e7fd3
 md5_10_upper: 8FD92E7FD3

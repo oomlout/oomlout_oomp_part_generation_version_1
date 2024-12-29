@@ -50,8 +50,9 @@
     "id_no_type": "led_1206_tote",
     "id_no_size": "1206_tote",
     "oomp_key": "oomp_category_electronic_led_1206_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_1206_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_1206_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_1206_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_1206_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_1206_tote",
     "directory": "parts/category_electronic_led_1206_tote",
     "name": "Category Electronic Led 1206 Tote",
     "name_no_class": "Electronic Led 1206 Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "1206 Tote",
     "description_or_color": "1 ",
     "description_or_color_upper": "1 ",
-    "markdown_full": "[category_electronic_led_1206_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_1206_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_1206_tote)<br>[Category Electronic Led 1206 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_1206_tote)<br><br>",
-    "markdown_short": "[category_electronic_led_1206_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_1206_tote)<br><br>"
+    "markdown_full": "[category_electronic_led_1206_tote](none)<br>[](none)<br>[Category Electronic Led 1206 Tote](none)<br><br>",
+    "markdown_short": "[category_electronic_led_1206_tote](none)<br><br>"
 }

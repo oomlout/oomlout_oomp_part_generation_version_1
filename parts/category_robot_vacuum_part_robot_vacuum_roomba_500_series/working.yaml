@@ -27,21 +27,22 @@ directory: parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series
 id: category_robot_vacuum_part_robot_vacuum_roomba_500_series
 id_no_class: robot_vacuum_part_robot_vacuum_roomba_500_series
 id_no_size: roomba_500_series
 id_no_type: part_roomba_500_series
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_robot_vacuum_part_robot_vacuum_roomba_500_series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series)<br>[Category
-    Robot Vacuum Part Robot Vacuum Roomba 500 Series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series)<br><br>'
-markdown_short: '[category_robot_vacuum_part_robot_vacuum_roomba_500_series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series)<br><br>'
+markdown_full: '[category_robot_vacuum_part_robot_vacuum_roomba_500_series](none)<br>[](none)<br>[Category
+    Robot Vacuum Part Robot Vacuum Roomba 500 Series](none)<br><br>'
+markdown_short: '[category_robot_vacuum_part_robot_vacuum_roomba_500_series](none)<br><br>'
 md5: 7ba515f582f91685d684545a6c413723
 md5_10: 7ba515f582
 md5_10_upper: 7BA515F582

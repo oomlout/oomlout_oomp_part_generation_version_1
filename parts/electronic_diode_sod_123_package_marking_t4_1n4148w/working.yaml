@@ -45,23 +45,24 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_dsod123pmt44148_electronic_diode_sod_123_package_marking_t4_1n4148w
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w
 id: electronic_diode_sod_123_package_marking_t4_1n4148w
 id_no_class: diode_sod_123_package_marking_t4_1n4148w
 id_no_size: package_marking_t4_1n4148w
 id_no_type: sod_123_package_marking_t4_1n4148w
 kicad_reference: D
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_diode_sod_123_package_marking_t4_1n4148w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w)<br>[dsod123pmt44148](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w)<br>[Electronic
-    Diode Sod 123 Package Marking T4 1N4148W](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w)<br>[LCSC
-    - C2099<br>](https://lcsc.com/product-detail/C2099.html)[LCSC - C444720<br>](https://lcsc.com/product-detail/C444720.html)<br>'
-markdown_short: '[electronic_diode_sod_123_package_marking_t4_1n4148w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w)<br>[LCSC
+markdown_full: '[electronic_diode_sod_123_package_marking_t4_1n4148w](none)<br>[dsod123pmt44148](none)<br>[Electronic
+    Diode Sod 123 Package Marking T4 1N4148W](none)<br>[LCSC - C2099<br>](https://lcsc.com/product-detail/C2099.html)[LCSC
+    - C444720<br>](https://lcsc.com/product-detail/C444720.html)<br>'
+markdown_short: '[electronic_diode_sod_123_package_marking_t4_1n4148w](none)<br>[LCSC
     - C2099<br>](https://lcsc.com/product-detail/C2099.html)[LCSC - C444720<br>](https://lcsc.com/product-detail/C444720.html)<br>'
 md5: 35b545ced662ea6b79a91d4e083ad0fd
 md5_10: 35b545ced6

@@ -26,21 +26,22 @@ directory: parts/hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth
 id: hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth
 id_no_class: bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth
 id_no_size: MR93_size_3_mm_id_9_mm_od_4_mm_depth
 id_no_type: MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth)<br>[Hardware
-    Bearing Mr Series Mr93 Size 3 Mm Id 9 Mm Od 4 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth)<br><br>'
-markdown_short: '[hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth)<br><br>'
+markdown_full: '[hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth](none)<br>[](none)<br>[Hardware
+    Bearing Mr Series Mr93 Size 3 Mm Id 9 Mm Od 4 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth](none)<br><br>'
 md5: 300e87079b36fc1c173acc39cf960750
 md5_10: 300e87079b
 md5_10_upper: 300E87079B

@@ -50,8 +50,9 @@
     "id_no_type": "mounting_hole",
     "id_no_size": "mounting_hole",
     "oomp_key": "oomp_category_electronic_mounting_hole",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_mounting_hole",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_mounting_hole",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_mounting_hole",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_mounting_hole",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_mounting_hole",
     "directory": "parts/category_electronic_mounting_hole",
     "name": "Category Electronic Mounting Hole",
     "name_no_class": "Electronic Mounting Hole",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Mounting Hole",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_mounting_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_mounting_hole)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_mounting_hole)<br>[Category Electronic Mounting Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_mounting_hole)<br><br>",
-    "markdown_short": "[category_electronic_mounting_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_mounting_hole)<br><br>"
+    "markdown_full": "[category_electronic_mounting_hole](none)<br>[](none)<br>[Category Electronic Mounting Hole](none)<br><br>",
+    "markdown_short": "[category_electronic_mounting_hole](none)<br><br>"
 }

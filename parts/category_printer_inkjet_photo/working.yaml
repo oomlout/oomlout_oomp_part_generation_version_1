@@ -27,21 +27,22 @@ directory: parts/category_printer_inkjet_photo
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_photo
 id: category_printer_inkjet_photo
 id_no_class: printer_inkjet_photo
 id_no_size: photo
 id_no_type: inkjet_photo
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_photo
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_photo
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_photo
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_photo
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_printer_inkjet_photo](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_photo)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_photo)<br>[Category
-    Printer Inkjet Photo](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_photo)<br><br>'
-markdown_short: '[category_printer_inkjet_photo](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_photo)<br><br>'
+markdown_full: '[category_printer_inkjet_photo](none)<br>[](none)<br>[Category Printer
+    Inkjet Photo](none)<br><br>'
+markdown_short: '[category_printer_inkjet_photo](none)<br><br>'
 md5: 5d32bd36011d7171033bb65629949fcd
 md5_10: 5d32bd3601
 md5_10_upper: 5D32BD3601

@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: countersunk_extra
+description_extra_capital: Countersunk Extra
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: COUNTERSUNK_EXTRA
+description_main: 15_mm_depth
+description_main_capital: 15 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 15_MM_DEPTH
+description_only_numbers: '15'
+description_only_numbers_short: '15'
+description_or_color: '15'
+description_or_color_upper: '15'
+directory: parts/oobb_part_shaft_15_mm_depth_countersunk_extra
+distributors: []
+id: oobb_part_shaft_15_mm_depth_countersunk_extra
+id_no_class: part_shaft_15_mm_depth_countersunk_extra
+id_no_size: 15_mm_depth_countersunk_extra
+id_no_type: shaft_15_mm_depth_countersunk_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_15_mm_depth_countersunk_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_15_mm_depth_countersunk_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_15_mm_depth_countersunk_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_shaft_15_mm_depth_countersunk_extra](none)<br>[](none)<br>[Oobb
+    Part Shaft 15 Mm Depth Countersunk Extra](none)<br><br>'
+markdown_short: '[oobb_part_shaft_15_mm_depth_countersunk_extra](none)<br><br>'
+md5: 1b2aba005fd67296717565f02c85d756
+md5_10: 1b2aba005f
+md5_10_upper: 1B2ABA005F
+md5_5: 1b2ab
+md5_5_upper: 1B2AB
+md5_6: 1b2aba
+md5_6_alpha: 125ru
+md5_6_alpha_upper: 125RU
+md5_6_upper: 1B2ABA
+name: Oobb Part Shaft 15 Mm Depth Countersunk Extra
+name_no_class: Part Shaft 15 Mm Depth Countersunk Extra
+name_no_size: 15 Mm Depth Countersunk Extra
+name_no_size_short: 15 Mm Depth Countersunk Extra
+name_no_type: Shaft 15 Mm Depth Countersunk Extra
+oomp_key: oomp_oobb_part_shaft_15_mm_depth_countersunk_extra
+oomp_word: muscle umbrella spaghetti
+oomp_word_emoji: ':muscle: :umbrella: :spaghetti:'
+oomp_word_emoji_list:
+- ':muscle:'
+- ':umbrella:'
+- ':spaghetti:'
+oomp_word_list:
+- muscle
+- umbrella
+- spaghetti
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: shaft
+size_capital: Shaft
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHAFT
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

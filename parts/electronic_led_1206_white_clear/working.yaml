@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l12w_electronic_led_1206_white_clear
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_white_clear
 id: electronic_led_1206_white_clear
 id_no_class: led_1206_white_clear
 id_no_size: white_clear
 id_no_type: 1206_white_clear
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_white_clear
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_white_clear
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_white_clear
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_white_clear
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_1206_white_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_white_clear)<br>[l12w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_white_clear)<br>[Electronic
-    Led 1206 White Clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_white_clear)<br><br>'
-markdown_short: '[electronic_led_1206_white_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_white_clear)<br><br>'
+markdown_full: '[electronic_led_1206_white_clear](none)<br>[l12w](none)<br>[Electronic
+    Led 1206 White Clear](none)<br><br>'
+markdown_short: '[electronic_led_1206_white_clear](none)<br><br>'
 md5: 8213b58765b4c5dce28107c142cc7c9b
 md5_10: 8213b58765
 md5_10_upper: 8213B58765

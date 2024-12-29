@@ -26,22 +26,23 @@ directory: parts/electronic_led_3_mm_green_clear
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_green_clear
 id: electronic_led_3_mm_green_clear
 id_no_class: led_3_mm_green_clear
 id_no_size: green_clear
 id_no_type: 3_mm_green_clear
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_green_clear
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_green_clear
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_green_clear
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_green_clear
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_3_mm_green_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_green_clear)<br>[l3g](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_green_clear)<br>[Electronic
-    Led 3 Mm Green Clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_green_clear)<br><br>'
-markdown_short: '[electronic_led_3_mm_green_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_green_clear)<br><br>'
+markdown_full: '[electronic_led_3_mm_green_clear](none)<br>[l3g](none)<br>[Electronic
+    Led 3 Mm Green Clear](none)<br><br>'
+markdown_short: '[electronic_led_3_mm_green_clear](none)<br><br>'
 md5: 257f52b9b53412c2ecd0982d381e4a12
 md5_10: 257f52b9b5
 md5_10_upper: 257F52B9B5

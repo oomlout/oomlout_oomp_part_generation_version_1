@@ -27,21 +27,22 @@ directory: parts/category_furniture_cabinet
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet
 id: category_furniture_cabinet
 id_no_class: furniture_cabinet
 id_no_size: cabinet
 id_no_type: cabinet
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_furniture_cabinet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet)<br>[Category
-    Furniture Cabinet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet)<br><br>'
-markdown_short: '[category_furniture_cabinet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet)<br><br>'
+markdown_full: '[category_furniture_cabinet](none)<br>[](none)<br>[Category Furniture
+    Cabinet](none)<br><br>'
+markdown_short: '[category_furniture_cabinet](none)<br><br>'
 md5: 331fe89ba0ccbc3846a5df5c9ba50365
 md5_10: 331fe89ba0
 md5_10_upper: 331FE89BA0

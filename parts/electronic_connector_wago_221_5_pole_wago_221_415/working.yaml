@@ -28,22 +28,23 @@ distributor_screwfix_link: https://www.screwfix.com/p/5201r
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_5_pole_wago_221_415
 id: electronic_connector_wago_221_5_pole_wago_221_415
 id_no_class: connector_wago_221_5_pole_wago_221_415
 id_no_size: 5_pole_415
 id_no_type: wago_221_5_pole_wago_221_415
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_5_pole_wago_221_415
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_5_pole_wago_221_415
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_5_pole_wago_221_415
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_5_pole_wago_221_415
 manufacturer: wago
 manufacturer_capital: Wago
 manufacturer_first_letter: w
 manufacturer_first_letter_upper: W
 manufacturer_upper: WAGO
 manufacturers: []
-markdown_full: '[electronic_connector_wago_221_5_pole_wago_221_415](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_5_pole_wago_221_415)<br>[conw221](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_5_pole_wago_221_415)<br>[Electronic
-    Connector Wago 221 5 Pole Wago 221 415](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_5_pole_wago_221_415)<br><br>'
-markdown_short: '[electronic_connector_wago_221_5_pole_wago_221_415](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_5_pole_wago_221_415)<br><br>'
+markdown_full: '[electronic_connector_wago_221_5_pole_wago_221_415](none)<br>[conw221](none)<br>[Electronic
+    Connector Wago 221 5 Pole Wago 221 415](none)<br><br>'
+markdown_short: '[electronic_connector_wago_221_5_pole_wago_221_415](none)<br><br>'
 md5: 2d0d83fc88da92a6e7791e3e7db04126
 md5_10: 2d0d83fc88
 md5_10_upper: 2D0D83FC88

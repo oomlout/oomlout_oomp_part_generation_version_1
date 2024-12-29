@@ -27,21 +27,22 @@ directory: parts/category_electronic_socket_usb_micro_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro_tote
 id: category_electronic_socket_usb_micro_tote
 id_no_class: electronic_socket_usb_micro_tote
 id_no_size: usb_micro_tote
 id_no_type: socket_usb_micro_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_micro_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_micro_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_micro_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_socket_usb_micro_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro_tote)<br>[Category
-    Electronic Socket Usb Micro Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro_tote)<br><br>'
-markdown_short: '[category_electronic_socket_usb_micro_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro_tote)<br><br>'
+markdown_full: '[category_electronic_socket_usb_micro_tote](none)<br>[](none)<br>[Category
+    Electronic Socket Usb Micro Tote](none)<br><br>'
+markdown_short: '[category_electronic_socket_usb_micro_tote](none)<br><br>'
 md5: 11c0e22d71a98020761fd86349a7f1ba
 md5_10: 11c0e22d71
 md5_10_upper: 11C0E22D71

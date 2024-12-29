@@ -26,21 +26,22 @@ directory: parts/computer_tablet_microsoft_surface_pro_3_microsoft_model_1631
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_model_1631
 id: computer_tablet_microsoft_surface_pro_3_microsoft_model_1631
 id_no_class: tablet_microsoft_surface_pro_3_microsoft_model_1631
 id_no_size: pro_3_microsoft_model_1631
 id_no_type: microsoft_surface_pro_3_microsoft_model_1631
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_model_1631
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_model_1631
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_model_1631
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_model_1631
 manufacturer: microsoft
 manufacturer_capital: Microsoft
 manufacturer_first_letter: m
 manufacturer_first_letter_upper: M
 manufacturer_upper: MICROSOFT
 manufacturers: []
-markdown_full: '[computer_tablet_microsoft_surface_pro_3_microsoft_model_1631](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_model_1631)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_model_1631)<br>[Computer
-    Tablet Microsoft Surface Pro 3 Microsoft Model 1631](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_model_1631)<br><br>'
-markdown_short: '[computer_tablet_microsoft_surface_pro_3_microsoft_model_1631](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_3_microsoft_model_1631)<br><br>'
+markdown_full: '[computer_tablet_microsoft_surface_pro_3_microsoft_model_1631](none)<br>[](none)<br>[Computer
+    Tablet Microsoft Surface Pro 3 Microsoft Model 1631](none)<br><br>'
+markdown_short: '[computer_tablet_microsoft_surface_pro_3_microsoft_model_1631](none)<br><br>'
 md5: 85c615c239c809402cedd8a55bf35cbb
 md5_10: 85c615c239
 md5_10_upper: 85C615C239

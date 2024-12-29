@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_lg_electronic_led_0201_green
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_green
 id: electronic_led_0201_green
 id_no_class: led_0201_green
 id_no_size: green
 id_no_type: 0201_green
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_green
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_green
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_green
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_green
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_0201_green](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_green)<br>[lg](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_green)<br>[Electronic
-    Led 0201 Green](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_green)<br><br>'
-markdown_short: '[electronic_led_0201_green](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_green)<br><br>'
+markdown_full: '[electronic_led_0201_green](none)<br>[lg](none)<br>[Electronic Led
+    0201 Green](none)<br><br>'
+markdown_short: '[electronic_led_0201_green](none)<br><br>'
 md5: 8ac6d3b3539fcf933a0fac5ad6c0ca54
 md5_10: 8ac6d3b353
 md5_10_upper: 8AC6D3B353

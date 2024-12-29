@@ -27,21 +27,22 @@ directory: parts/category_electronic_interposer
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer
 id: category_electronic_interposer
 id_no_class: electronic_interposer
 id_no_size: interposer
 id_no_type: interposer
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_interposer
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_interposer
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_interposer
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_interposer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer)<br>[Category
-    Electronic Interposer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer)<br><br>'
-markdown_short: '[category_electronic_interposer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer)<br><br>'
+markdown_full: '[category_electronic_interposer](none)<br>[](none)<br>[Category Electronic
+    Interposer](none)<br><br>'
+markdown_short: '[category_electronic_interposer](none)<br><br>'
 md5: 7e0a48ead0d1d0270496e775a4d04b20
 md5_10: 7e0a48ead0
 md5_10_upper: 7E0A48EAD0

@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: m3_radius_name_25_depth
+description_extra_capital: M3 Radius Name 25 Depth
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: M3_RADIUS_NAME_25_DEPTH
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_screw_socket_cap_m3_radius_name_25_depth
+distributors: []
+id: oobb_part_screw_socket_cap_m3_radius_name_25_depth
+id_no_class: part_screw_socket_cap_m3_radius_name_25_depth
+id_no_size: m3_radius_name_25_depth
+id_no_type: screw_socket_cap_m3_radius_name_25_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_screw_socket_cap_m3_radius_name_25_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_screw_socket_cap_m3_radius_name_25_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_screw_socket_cap_m3_radius_name_25_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_screw_socket_cap_m3_radius_name_25_depth](none)<br>[](none)<br>[Oobb
+    Part Screw Socket Cap M3 Radius Name 25 Depth](none)<br><br>'
+markdown_short: '[oobb_part_screw_socket_cap_m3_radius_name_25_depth](none)<br><br>'
+md5: 1a8325fba2c917ee9c4a098b0e7c65eb
+md5_10: 1a8325fba2
+md5_10_upper: 1A8325FBA2
+md5_5: 1a832
+md5_5_upper: 1A832
+md5_6: 1a8325
+md5_6_alpha: 118o5
+md5_6_alpha_upper: 118O5
+md5_6_upper: 1A8325
+name: Oobb Part Screw Socket Cap M3 Radius Name 25 Depth
+name_no_class: Part Screw Socket Cap M3 Radius Name 25 Depth
+name_no_size: M3 Radius Name 25 Depth
+name_no_size_short: M3 Radius Name 25 Depth
+name_no_type: Screw Socket Cap M3 Radius Name 25 Depth
+oomp_key: oomp_oobb_part_screw_socket_cap_m3_radius_name_25_depth
+oomp_word: clap lock ear
+oomp_word_emoji: ':clap: :lock: :ear:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':lock:'
+- ':ear:'
+oomp_word_list:
+- clap
+- lock
+- ear
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: screw_socket_cap
+size_capital: Screw Socket Cap
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_SOCKET_CAP
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

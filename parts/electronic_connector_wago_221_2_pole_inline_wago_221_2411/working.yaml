@@ -28,22 +28,23 @@ distributor_screwfix_link: https://www.screwfix.com/p/148ru
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411
 id: electronic_connector_wago_221_2_pole_inline_wago_221_2411
 id_no_class: connector_wago_221_2_pole_inline_wago_221_2411
 id_no_size: 2_pole_inline_2411
 id_no_type: wago_221_2_pole_inline_wago_221_2411
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411
 manufacturer: wago
 manufacturer_capital: Wago
 manufacturer_first_letter: w
 manufacturer_first_letter_upper: W
 manufacturer_upper: WAGO
 manufacturers: []
-markdown_full: '[electronic_connector_wago_221_2_pole_inline_wago_221_2411](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411)<br>[conw221](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411)<br>[Electronic
-    Connector Wago 221 2 Pole Inline Wago 221 2411](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411)<br><br>'
-markdown_short: '[electronic_connector_wago_221_2_pole_inline_wago_221_2411](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411)<br><br>'
+markdown_full: '[electronic_connector_wago_221_2_pole_inline_wago_221_2411](none)<br>[conw221](none)<br>[Electronic
+    Connector Wago 221 2 Pole Inline Wago 221 2411](none)<br><br>'
+markdown_short: '[electronic_connector_wago_221_2_pole_inline_wago_221_2411](none)<br><br>'
 md5: 0bc5b16df15af1744cf22b110d81acd2
 md5_10: 0bc5b16df1
 md5_10_upper: 0BC5B16DF1

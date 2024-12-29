@@ -50,8 +50,9 @@
     "id_no_type": "drill_hammer",
     "id_no_size": "drill_hammer",
     "oomp_key": "oomp_category_tool_drill_hammer",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer",
     "directory": "parts/category_tool_drill_hammer",
     "name": "Category Tool Drill Hammer",
     "name_no_class": "Tool Drill Hammer",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Drill Hammer",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_tool_drill_hammer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer)<br>[Category Tool Drill Hammer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer)<br><br>",
-    "markdown_short": "[category_tool_drill_hammer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer)<br><br>"
+    "markdown_full": "[category_tool_drill_hammer](none)<br>[](none)<br>[Category Tool Drill Hammer](none)<br><br>",
+    "markdown_short": "[category_tool_drill_hammer](none)<br><br>"
 }

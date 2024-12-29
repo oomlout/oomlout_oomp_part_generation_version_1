@@ -27,21 +27,22 @@ directory: parts/category_oobb_part_screw_countersunk
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_countersunk
 id: category_oobb_part_screw_countersunk
 id_no_class: oobb_part_screw_countersunk
 id_no_size: screw_countersunk
 id_no_type: part_screw_countersunk
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_countersunk
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_countersunk
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_countersunk
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_countersunk
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part_screw_countersunk](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_countersunk)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_countersunk)<br>[Category
-    Oobb Part Screw Countersunk](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_countersunk)<br><br>'
-markdown_short: '[category_oobb_part_screw_countersunk](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_countersunk)<br><br>'
+markdown_full: '[category_oobb_part_screw_countersunk](none)<br>[](none)<br>[Category
+    Oobb Part Screw Countersunk](none)<br><br>'
+markdown_short: '[category_oobb_part_screw_countersunk](none)<br><br>'
 md5: dbda51c36a1555681e6586f35d03e912
 md5_10: dbda51c36a
 md5_10_upper: DBDA51C36A

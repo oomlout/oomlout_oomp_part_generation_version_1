@@ -50,8 +50,9 @@
     "id_no_type": "table",
     "id_no_size": "table",
     "oomp_key": "oomp_category_furniture_table",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_table",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_table",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_table",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_table",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_table",
     "directory": "parts/category_furniture_table",
     "name": "Category Furniture Table",
     "name_no_class": "Furniture Table",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Table",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_furniture_table](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_table)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_table)<br>[Category Furniture Table](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_table)<br><br>",
-    "markdown_short": "[category_furniture_table](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_table)<br><br>"
+    "markdown_full": "[category_furniture_table](none)<br>[](none)<br>[Category Furniture Table](none)<br><br>",
+    "markdown_short": "[category_furniture_table](none)<br><br>"
 }

@@ -43,12 +43,13 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_itq32mcuat328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_itq32mcuat328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
 id: electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
 id_no_class: ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
 id_no_size: mcu_atmega328_microchip_atmega328p_au
 id_no_type: tqfp_32_mcu_atmega328_microchip_atmega328p_au
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
 manufacturer: microchip
 manufacturer_capital: Microchip
 manufacturer_first_letter: m
@@ -63,12 +64,12 @@ manufacturers:
     link: https://www.microchip.com/wwwproducts/en/ATMEGA328P-AUR
     name: Microchip
     part_number: ATMEGA328P-AUR
-markdown_full: '[electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au)<br>[itq32mcuat328](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au)<br>[Electronic
-    Ic Tqfp 32 Mcu Atmega328 Microchip Atmega328P Au](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au)<br>[LCSC
-    - C14877<br>](https://lcsc.com/product-detail/C14877.html)[LCSC - C618816<br>](https://lcsc.com/product-detail/C618816.html)<br>[Microchip
-    - ATMEGA328P-AU](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AU) [(L)  ](https://www.lcsc.com/search?q=ATMEGA328P-AU)[(D)  ](https://www.digikey.com/en/products?keywords=ATMEGA328P-AU)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=ATMEGA328P-AU)[(N)  ](https://www.newark.com/search?st=ATMEGA328P-AU)[(SZ)  ](https://so.szlcsc.com/global.html?k=ATMEGA328P-AU)<br>[Microchip
+markdown_full: '[electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au](none)<br>[itq32mcuat328](none)<br>[Electronic
+    Ic Tqfp 32 Mcu Atmega328 Microchip Atmega328P Au](none)<br>[LCSC - C14877<br>](https://lcsc.com/product-detail/C14877.html)[LCSC
+    - C618816<br>](https://lcsc.com/product-detail/C618816.html)<br>[Microchip - ATMEGA328P-AU](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AU)
+    [(L)  ](https://www.lcsc.com/search?q=ATMEGA328P-AU)[(D)  ](https://www.digikey.com/en/products?keywords=ATMEGA328P-AU)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=ATMEGA328P-AU)[(N)  ](https://www.newark.com/search?st=ATMEGA328P-AU)[(SZ)  ](https://so.szlcsc.com/global.html?k=ATMEGA328P-AU)<br>[Microchip
     - ATMEGA328P-AUR](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AUR) [(L)  ](https://www.lcsc.com/search?q=ATMEGA328P-AUR)[(D)  ](https://www.digikey.com/en/products?keywords=ATMEGA328P-AUR)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=ATMEGA328P-AUR)[(N)  ](https://www.newark.com/search?st=ATMEGA328P-AUR)[(SZ)  ](https://so.szlcsc.com/global.html?k=ATMEGA328P-AUR)<br>'
-markdown_short: '[electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au)<br>[LCSC
+markdown_short: '[electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au](none)<br>[LCSC
     - C14877<br>](https://lcsc.com/product-detail/C14877.html)[LCSC - C618816<br>](https://lcsc.com/product-detail/C618816.html)<br>[Microchip
     - ATMEGA328P-AU](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AU)[Microchip
     - ATMEGA328P-AUR](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AUR)'

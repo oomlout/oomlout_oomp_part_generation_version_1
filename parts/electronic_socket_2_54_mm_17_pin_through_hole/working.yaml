@@ -24,22 +24,23 @@ description_or_color: '17'
 description_or_color_upper: '17'
 directory: parts/electronic_socket_2_54_mm_17_pin_through_hole
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_17_pin_through_hole
 id: electronic_socket_2_54_mm_17_pin_through_hole
 id_no_class: socket_2_54_mm_17_pin_through_hole
 id_no_size: 17_pin_through_hole
 id_no_type: 2_54_mm_17_pin_through_hole
 kicad_reference: CONN
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_17_pin_through_hole
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_17_pin_through_hole
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_17_pin_through_hole
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_17_pin_through_hole
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_socket_2_54_mm_17_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_17_pin_through_hole)<br>[sci117pth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_17_pin_through_hole)<br>[Electronic
-    Socket 2 54 Mm 17 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_17_pin_through_hole)<br><br>'
-markdown_short: '[electronic_socket_2_54_mm_17_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_17_pin_through_hole)<br><br>'
+markdown_full: '[electronic_socket_2_54_mm_17_pin_through_hole](none)<br>[sci117pth](none)<br>[Electronic
+    Socket 2 54 Mm 17 Pin Through Hole](none)<br><br>'
+markdown_short: '[electronic_socket_2_54_mm_17_pin_through_hole](none)<br><br>'
 md5: c805969f326baac0c1f29076e35fc04c
 md5_10: c805969f32
 md5_10_upper: C805969F32

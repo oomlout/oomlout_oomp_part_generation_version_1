@@ -37,13 +37,14 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r6o333_electronic_resistor_0603_33000_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_33000_ohm
 id: electronic_resistor_0603_33000_ohm
 id_no_class: resistor_0603_33000_ohm
 id_no_size: 33000_ohm
 id_no_type: 0603_33000_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_33000_ohm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0603_33000_ohm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0603_33000_ohm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0603_33000_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -72,15 +73,15 @@ manufacturers:
         reason: yageo is a commonly cross referenced part number
         reason_short: available everywhere
     part_number: RC0603JR-0733KL
-markdown_full: '[electronic_resistor_0603_33000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_33000_ohm)<br>[r6o333](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_33000_ohm)<br>[Electronic
-    Resistor 0603 33000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_33000_ohm)<br><br>[Uniroyal
-    - 0603WAJ0333T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0603WAJ0333T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAJ0333T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0333T5E)[(N)  ](https://www.newark.com/search?st=0603WAJ0333T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAJ0333T5E)<br>[Uniroyal
+markdown_full: '[electronic_resistor_0603_33000_ohm](none)<br>[r6o333](none)<br>[Electronic
+    Resistor 0603 33000 Ohm](none)<br><br>[Uniroyal - 0603WAJ0333T5E- not in jlc basic
+    parts]() [(L)  ](https://www.lcsc.com/search?q=0603WAJ0333T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAJ0333T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAJ0333T5E)[(N)  ](https://www.newark.com/search?st=0603WAJ0333T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAJ0333T5E)<br>[Uniroyal
     - 0603WAF3302T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0603WAF3302T5E)[(D)  ](https://www.digikey.com/en/products?keywords=0603WAF3302T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0603WAF3302T5E)[(N)  ](https://www.newark.com/search?st=0603WAF3302T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=0603WAF3302T5E)<br>[Yageo
     - RC0603JR-0733KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0733KL)
     [(L)  ](https://www.lcsc.com/search?q=RC0603JR-0733KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0603JR-0733KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0603JR-0733KL)[(N)  ](https://www.newark.com/search?st=RC0603JR-0733KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0603JR-0733KL)<br>'
-markdown_short: '[electronic_resistor_0603_33000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_33000_ohm)<br><br>[Uniroyal
-    - 0603WAJ0333T5E- not in jlc basic parts]()[Uniroyal - 0603WAF3302T5E- jlc basic
-    part]()[Yageo - RC0603JR-0733KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0733KL)'
+markdown_short: '[electronic_resistor_0603_33000_ohm](none)<br><br>[Uniroyal - 0603WAJ0333T5E-
+    not in jlc basic parts]()[Uniroyal - 0603WAF3302T5E- jlc basic part]()[Yageo -
+    RC0603JR-0733KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0603JR-0733KL)'
 md5: 596e08d199919dbb023da564d3cfd93e
 md5_10: 596e08d199
 md5_10_upper: 596E08D199

@@ -50,8 +50,9 @@
     "id_no_type": "puzzle",
     "id_no_size": "puzzle",
     "oomp_key": "oomp_category_household_toy_puzzle",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_puzzle",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_puzzle",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_puzzle",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_puzzle",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_puzzle",
     "directory": "parts/category_household_toy_puzzle",
     "name": "Category Household Toy Puzzle",
     "name_no_class": "Household Toy Puzzle",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Puzzle",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_household_toy_puzzle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_puzzle)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_puzzle)<br>[Category Household Toy Puzzle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_puzzle)<br><br>",
-    "markdown_short": "[category_household_toy_puzzle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_puzzle)<br><br>"
+    "markdown_full": "[category_household_toy_puzzle](none)<br>[](none)<br>[Category Household Toy Puzzle](none)<br><br>",
+    "markdown_short": "[category_household_toy_puzzle](none)<br><br>"
 }

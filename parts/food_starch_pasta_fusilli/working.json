@@ -49,8 +49,9 @@
     "id_no_type": "pasta_fusilli",
     "id_no_size": "fusilli",
     "oomp_key": "oomp_food_starch_pasta_fusilli",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_fusilli",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_fusilli",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_fusilli",
     "directory": "parts/food_starch_pasta_fusilli",
     "name": "Food Starch Pasta Fusilli",
     "name_no_class": "Starch Pasta Fusilli",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Fusilli",
     "description_or_color": "F ",
     "description_or_color_upper": "F ",
-    "markdown_full": "[food_starch_pasta_fusilli](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli)<br>[Food Starch Pasta Fusilli](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli)<br><br>",
-    "markdown_short": "[food_starch_pasta_fusilli](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli)<br><br>"
+    "markdown_full": "[food_starch_pasta_fusilli](none)<br>[](none)<br>[Food Starch Pasta Fusilli](none)<br><br>",
+    "markdown_short": "[food_starch_pasta_fusilli](none)<br><br>"
 }

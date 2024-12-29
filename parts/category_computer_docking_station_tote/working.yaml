@@ -27,21 +27,22 @@ directory: parts/category_computer_docking_station_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station_tote
 id: category_computer_docking_station_tote
 id_no_class: computer_docking_station_tote
 id_no_size: tote
 id_no_type: docking_station_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_computer_docking_station_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station_tote)<br>[Category
-    Computer Docking Station Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station_tote)<br><br>'
-markdown_short: '[category_computer_docking_station_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station_tote)<br><br>'
+markdown_full: '[category_computer_docking_station_tote](none)<br>[](none)<br>[Category
+    Computer Docking Station Tote](none)<br><br>'
+markdown_short: '[category_computer_docking_station_tote](none)<br><br>'
 md5: f1ee7c35bd068384d97e9e0452f980f1
 md5_10: f1ee7c35bd
 md5_10_upper: F1EE7C35BD

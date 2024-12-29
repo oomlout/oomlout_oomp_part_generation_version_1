@@ -46,8 +46,9 @@
     "id_no_type": "sot_223_linear_1117_3_3_volt",
     "id_no_size": "linear_1117_3_3_volt",
     "oomp_key": "oomp_electronic_pmic_sot_223_linear_1117_3_3_volt",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt",
     "directory": "parts/electronic_pmic_sot_223_linear_1117_3_3_volt",
     "name": "Electronic Pmic Sot 223 Linear 1117 3 3 Volt",
     "name_no_class": "Pmic Sot 223 Linear 1117 3 3 Volt",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Linear 1k1 3 3 Volt",
     "description_or_color": "L1k1",
     "description_or_color_upper": "L1K1",
-    "markdown_full": "[electronic_pmic_sot_223_linear_1117_3_3_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt)<br>[pms22311173d3v](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt)<br>[Electronic Pmic Sot 223 Linear 1117 3 3 Volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt)<br><br>",
-    "markdown_short": "[electronic_pmic_sot_223_linear_1117_3_3_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_3_3_volt)<br><br>"
+    "markdown_full": "[electronic_pmic_sot_223_linear_1117_3_3_volt](none)<br>[pms22311173d3v](none)<br>[Electronic Pmic Sot 223 Linear 1117 3 3 Volt](none)<br><br>",
+    "markdown_short": "[electronic_pmic_sot_223_linear_1117_3_3_volt](none)<br><br>"
 }

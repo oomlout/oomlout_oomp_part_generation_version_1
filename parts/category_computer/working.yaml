@@ -27,21 +27,21 @@ directory: parts/category_computer
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer
 id: category_computer
 id_no_class: computer
 id_no_size: computer
 id_no_type: computer
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_computer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer)<br>[Category
-    Computer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer)<br><br>'
-markdown_short: '[category_computer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer)<br><br>'
+markdown_full: '[category_computer](none)<br>[](none)<br>[Category Computer](none)<br><br>'
+markdown_short: '[category_computer](none)<br><br>'
 md5: 1ffa13d418a3f6a2f6e6d90031e5e87a
 md5_10: 1ffa13d418
 md5_10_upper: 1FFA13D418

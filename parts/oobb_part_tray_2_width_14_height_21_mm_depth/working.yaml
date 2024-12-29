@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 2_width_14_height_21_mm_depth
+description_main_capital: 2 Width 14 Height 21 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 2_WIDTH_14_HEIGHT_21_MM_DEPTH
+description_only_numbers: '21421'
+description_only_numbers_short: 21k
+description_or_color: 21k
+description_or_color_upper: 21K
+directory: parts/oobb_part_tray_2_width_14_height_21_mm_depth
+distributors: []
+id: oobb_part_tray_2_width_14_height_21_mm_depth
+id_no_class: part_tray_2_width_14_height_21_mm_depth
+id_no_size: 2_width_14_height_21_mm_depth
+id_no_type: tray_2_width_14_height_21_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_2_width_14_height_21_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_2_width_14_height_21_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_2_width_14_height_21_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_2_width_14_height_21_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray 2 Width 14 Height 21 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_2_width_14_height_21_mm_depth](none)<br><br>'
+md5: 013405075507dd57a117449d91b1b96a
+md5_10: '0134050755'
+md5_10_upper: '0134050755'
+md5_5: '01340'
+md5_5_upper: '01340'
+md5_6: '013405'
+md5_6_alpha: 1oud
+md5_6_alpha_upper: 1OUD
+md5_6_upper: '013405'
+name: Oobb Part Tray 2 Width 14 Height 21 Mm Depth
+name_no_class: Part Tray 2 Width 14 Height 21 Mm Depth
+name_no_size: 2 Width 14 Height 21 Mm Depth
+name_no_size_short: 2 Width 14 Height 21 Mm Depth
+name_no_type: Tray 2 Width 14 Height 21 Mm Depth
+oomp_key: oomp_oobb_part_tray_2_width_14_height_21_mm_depth
+oomp_word: smile mouse kissing
+oomp_word_emoji: ':smile: :mouse: :kissing:'
+oomp_word_emoji_list:
+- ':smile:'
+- ':mouse:'
+- ':kissing:'
+oomp_word_list:
+- smile
+- mouse
+- kissing
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

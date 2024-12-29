@@ -25,22 +25,23 @@ description_or_color: '32'
 description_or_color_upper: '32'
 directory: parts/electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32
 id: electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32
 id_no_class: breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32
 id_no_size: espressif_esp32
 id_no_type: esp32_38_pin_devkitc_espressif_esp32
 kicad_reference: BB
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32)<br>[e32](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32)<br>[Electronic
-    Breakout Board Mcu Esp32 38 Pin Devkitc Espressif Esp32](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32)<br><br>'
-markdown_short: '[electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32)<br><br>'
+markdown_full: '[electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32](none)<br>[e32](none)<br>[Electronic
+    Breakout Board Mcu Esp32 38 Pin Devkitc Espressif Esp32](none)<br><br>'
+markdown_short: '[electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32](none)<br><br>'
 md5: f124955352943f9c9178e80201616003
 md5_10: f124955352
 md5_10_upper: F124955352

@@ -50,8 +50,9 @@
     "id_no_type": "set_screw_m6_tote",
     "id_no_size": "m6_tote",
     "oomp_key": "oomp_category_hardware_set_screw_m6_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m6_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m6_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_m6_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_m6_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_m6_tote",
     "directory": "parts/category_hardware_set_screw_m6_tote",
     "name": "Category Hardware Set Screw M6 Tote",
     "name_no_class": "Hardware Set Screw M6 Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "M6 Tote",
     "description_or_color": "M ",
     "description_or_color_upper": "M ",
-    "markdown_full": "[category_hardware_set_screw_m6_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m6_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m6_tote)<br>[Category Hardware Set Screw M6 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m6_tote)<br><br>",
-    "markdown_short": "[category_hardware_set_screw_m6_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m6_tote)<br><br>"
+    "markdown_full": "[category_hardware_set_screw_m6_tote](none)<br>[](none)<br>[Category Hardware Set Screw M6 Tote](none)<br><br>",
+    "markdown_short": "[category_hardware_set_screw_m6_tote](none)<br><br>"
 }

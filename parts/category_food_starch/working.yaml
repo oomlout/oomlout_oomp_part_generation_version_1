@@ -27,21 +27,21 @@ directory: parts/category_food_starch
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch
 id: category_food_starch
 id_no_class: food_starch
 id_no_size: starch
 id_no_type: starch
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food_starch](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch)<br>[Category
-    Food Starch](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch)<br><br>'
-markdown_short: '[category_food_starch](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch)<br><br>'
+markdown_full: '[category_food_starch](none)<br>[](none)<br>[Category Food Starch](none)<br><br>'
+markdown_short: '[category_food_starch](none)<br><br>'
 md5: 4c8c6e5fb738e26308d911f153ee8375
 md5_10: 4c8c6e5fb7
 md5_10_upper: 4C8C6E5FB7

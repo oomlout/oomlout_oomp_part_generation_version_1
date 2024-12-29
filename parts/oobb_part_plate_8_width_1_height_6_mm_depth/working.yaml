@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 8_width_1_height_6_mm_depth
+description_main_capital: 8 Width 1 Height 6 mm Depth
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_upper: 8_WIDTH_1_HEIGHT_6_MM_DEPTH
+description_only_numbers: '816'
+description_only_numbers_short: '816'
+description_or_color: '816'
+description_or_color_upper: '816'
+directory: parts/oobb_part_plate_8_width_1_height_6_mm_depth
+distributors: []
+id: oobb_part_plate_8_width_1_height_6_mm_depth
+id_no_class: part_plate_8_width_1_height_6_mm_depth
+id_no_size: 8_width_1_height_6_mm_depth
+id_no_type: plate_8_width_1_height_6_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_8_width_1_height_6_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_8_width_1_height_6_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_8_width_1_height_6_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_8_width_1_height_6_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Plate 8 Width 1 Height 6 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_plate_8_width_1_height_6_mm_depth](none)<br><br>'
+md5: 00bc9bf2a1eed6e40b69b886a2cef830
+md5_10: 00bc9bf2a1
+md5_10_upper: 00BC9BF2A1
+md5_5: 00bc9
+md5_5_upper: 00BC9
+md5_6: 00bc9b
+md5_6_alpha: '1197'
+md5_6_alpha_upper: '1197'
+md5_6_upper: 00BC9B
+name: Oobb Part Plate 8 Width 1 Height 6 Mm Depth
+name_no_class: Part Plate 8 Width 1 Height 6 Mm Depth
+name_no_size: 8 Width 1 Height 6 Mm Depth
+name_no_size_short: 8 Width 1 Height 6 Mm Depth
+name_no_type: Plate 8 Width 1 Height 6 Mm Depth
+oomp_key: oomp_oobb_part_plate_8_width_1_height_6_mm_depth
+oomp_word: bowtie sushi ski
+oomp_word_emoji: ':bowtie: :sushi: :ski:'
+oomp_word_emoji_list:
+- ':bowtie:'
+- ':sushi:'
+- ':ski:'
+oomp_word_list:
+- bowtie
+- sushi
+- ski
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

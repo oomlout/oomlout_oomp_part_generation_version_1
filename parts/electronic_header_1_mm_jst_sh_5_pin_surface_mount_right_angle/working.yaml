@@ -35,13 +35,14 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hjsh5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_hjsh5psmra_electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
 id: electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
 id_no_class: header_1_mm_jst_sh_5_pin_surface_mount_right_angle
 id_no_size: 5_pin_surface_mount_right_angle
 id_no_type: 1_mm_jst_sh_5_pin_surface_mount_right_angle
 kicad_reference: CONN
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -52,10 +53,10 @@ manufacturers:
     link: https://www.jst-mfg.com/product/index.php?series=231
     name: JST
     part_number: SM05B-SRSS-TB
-markdown_full: '[electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle)<br>[hjsh5psmra](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle)<br>[Electronic
-    Header 1 Mm Jst Sh 5 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle)<br><br>[JST
-    - SM05B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM05B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM05B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM05B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM05B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM05B-SRSS-TB)<br>'
-markdown_short: '[electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle)<br><br>[JST
+markdown_full: '[electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle](none)<br>[hjsh5psmra](none)<br>[Electronic
+    Header 1 Mm Jst Sh 5 Pin Surface Mount Right Angle](none)<br><br>[JST - SM05B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)
+    [(L)  ](https://www.lcsc.com/search?q=SM05B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM05B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM05B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM05B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM05B-SRSS-TB)<br>'
+markdown_short: '[electronic_header_1_mm_jst_sh_5_pin_surface_mount_right_angle](none)<br><br>[JST
     - SM05B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)'
 md5: af554da37be509b88081a95a39cfeda0
 md5_10: af554da37b

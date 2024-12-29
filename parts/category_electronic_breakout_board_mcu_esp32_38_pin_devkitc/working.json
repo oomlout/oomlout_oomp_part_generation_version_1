@@ -50,8 +50,9 @@
     "id_no_type": "breakout_board_mcu_esp32_38_pin_devkitc",
     "id_no_size": "esp32_38_pin_devkitc",
     "oomp_key": "oomp_category_electronic_breakout_board_mcu_esp32_38_pin_devkitc",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc",
     "directory": "parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc",
     "name": "Category Electronic Breakout Board Mcu Esp32 38 Pin Devkitc",
     "name_no_class": "Electronic Breakout Board Mcu Esp32 38 Pin Devkitc",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Esp32 38 Pin Devkitc",
     "description_or_color": "E ",
     "description_or_color_upper": "E ",
-    "markdown_full": "[category_electronic_breakout_board_mcu_esp32_38_pin_devkitc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc)<br>[Category Electronic Breakout Board Mcu Esp32 38 Pin Devkitc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc)<br><br>",
-    "markdown_short": "[category_electronic_breakout_board_mcu_esp32_38_pin_devkitc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc)<br><br>"
+    "markdown_full": "[category_electronic_breakout_board_mcu_esp32_38_pin_devkitc](none)<br>[](none)<br>[Category Electronic Breakout Board Mcu Esp32 38 Pin Devkitc](none)<br><br>",
+    "markdown_short": "[category_electronic_breakout_board_mcu_esp32_38_pin_devkitc](none)<br><br>"
 }

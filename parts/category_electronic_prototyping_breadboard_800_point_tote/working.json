@@ -50,8 +50,9 @@
     "id_no_type": "prototyping_breadboard_800_point_tote",
     "id_no_size": "800_point_tote",
     "oomp_key": "oomp_category_electronic_prototyping_breadboard_800_point_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point_tote",
     "directory": "parts/category_electronic_prototyping_breadboard_800_point_tote",
     "name": "Category Electronic Prototyping Breadboard 800 Point Tote",
     "name_no_class": "Electronic Prototyping Breadboard 800 Point Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "800 Point Tote",
     "description_or_color": "8 ",
     "description_or_color_upper": "8 ",
-    "markdown_full": "[category_electronic_prototyping_breadboard_800_point_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point_tote)<br>[Category Electronic Prototyping Breadboard 800 Point Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point_tote)<br><br>",
-    "markdown_short": "[category_electronic_prototyping_breadboard_800_point_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point_tote)<br><br>"
+    "markdown_full": "[category_electronic_prototyping_breadboard_800_point_tote](none)<br>[](none)<br>[Category Electronic Prototyping Breadboard 800 Point Tote](none)<br><br>",
+    "markdown_short": "[category_electronic_prototyping_breadboard_800_point_tote](none)<br><br>"
 }

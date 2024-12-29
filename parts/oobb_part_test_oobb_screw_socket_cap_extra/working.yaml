@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: oobb_screw_socket_cap_extra
+description_extra_capital: Oobb Screw Socket Cap Extra
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OOBB_SCREW_SOCKET_CAP_EXTRA
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_test_oobb_screw_socket_cap_extra
+distributors: []
+id: oobb_part_test_oobb_screw_socket_cap_extra
+id_no_class: part_test_screw_socket_cap_extra
+id_no_size: screw_socket_cap_extra
+id_no_type: test_screw_socket_cap_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_test_oobb_screw_socket_cap_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_test_oobb_screw_socket_cap_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_test_oobb_screw_socket_cap_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_test_oobb_screw_socket_cap_extra](none)<br>[](none)<br>[Oobb
+    Part Test Oobb Screw Socket Cap Extra](none)<br><br>'
+markdown_short: '[oobb_part_test_oobb_screw_socket_cap_extra](none)<br><br>'
+md5: fc40173b807ce97c94241a9f230c3d2e
+md5_10: fc40173b80
+md5_10_upper: FC40173B80
+md5_5: fc401
+md5_5_upper: FC401
+md5_6: fc4017
+md5_6_alpha: 9ubrr
+md5_6_alpha_upper: 9UBRR
+md5_6_upper: FC4017
+name: Oobb Part Test Oobb Screw Socket Cap Extra
+name_no_class: Part Test Screw Socket Cap Extra
+name_no_size: Screw Socket Cap Extra
+name_no_size_short: Screw Socket Cap Extra
+name_no_type: Test Screw Socket Cap Extra
+oomp_key: oomp_oobb_part_test_oobb_screw_socket_cap_extra
+oomp_word: up racehorse thumbsdown
+oomp_word_emoji: ':up: :racehorse: :thumbsdown:'
+oomp_word_emoji_list:
+- ':up:'
+- ':racehorse:'
+- ':thumbsdown:'
+oomp_word_list:
+- up
+- racehorse
+- thumbsdown
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: test
+size_capital: Test
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TEST
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

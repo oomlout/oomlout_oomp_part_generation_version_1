@@ -24,21 +24,22 @@ description_or_color: 'S '
 description_or_color_upper: 'S '
 directory: parts/electronic_battery_holder_16340_single_pcb_mount
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_holder_16340_single_pcb_mount
 id: electronic_battery_holder_16340_single_pcb_mount
 id_no_class: battery_holder_16340_single_pcb_mount
 id_no_size: single_pcb_mount
 id_no_type: 16340_single_pcb_mount
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_holder_16340_single_pcb_mount
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_holder_16340_single_pcb_mount
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_holder_16340_single_pcb_mount
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_holder_16340_single_pcb_mount
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_battery_holder_16340_single_pcb_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_holder_16340_single_pcb_mount)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_holder_16340_single_pcb_mount)<br>[Electronic
-    Battery Holder 16340 Single Pcb Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_holder_16340_single_pcb_mount)<br><br>'
-markdown_short: '[electronic_battery_holder_16340_single_pcb_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_holder_16340_single_pcb_mount)<br><br>'
+markdown_full: '[electronic_battery_holder_16340_single_pcb_mount](none)<br>[](none)<br>[Electronic
+    Battery Holder 16340 Single Pcb Mount](none)<br><br>'
+markdown_short: '[electronic_battery_holder_16340_single_pcb_mount](none)<br><br>'
 md5: 1604cb88ccd96db806ac1c1e2d64e4ce
 md5_10: 1604cb88cc
 md5_10_upper: 1604CB88CC

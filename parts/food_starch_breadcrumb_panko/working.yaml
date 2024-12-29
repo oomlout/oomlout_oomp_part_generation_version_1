@@ -27,21 +27,22 @@ directory: parts/food_starch_breadcrumb_panko
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_breadcrumb_panko
 id: food_starch_breadcrumb_panko
 id_no_class: starch_breadcrumb_panko
 id_no_size: panko
 id_no_type: breadcrumb_panko
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_breadcrumb_panko
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_breadcrumb_panko
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_breadcrumb_panko
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_breadcrumb_panko
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_starch_breadcrumb_panko](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_breadcrumb_panko)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_breadcrumb_panko)<br>[Food
-    Starch Breadcrumb Panko](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_breadcrumb_panko)<br><br>'
-markdown_short: '[food_starch_breadcrumb_panko](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_breadcrumb_panko)<br><br>'
+markdown_full: '[food_starch_breadcrumb_panko](none)<br>[](none)<br>[Food Starch Breadcrumb
+    Panko](none)<br><br>'
+markdown_short: '[food_starch_breadcrumb_panko](none)<br><br>'
 md5: 6bc9944bf9f7f928b3d03732269182fb
 md5_10: 6bc9944bf9
 md5_10_upper: 6BC9944BF9

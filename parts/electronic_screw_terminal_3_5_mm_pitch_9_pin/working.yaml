@@ -24,21 +24,22 @@ description_or_color: '9'
 description_or_color_upper: '9'
 directory: parts/electronic_screw_terminal_3_5_mm_pitch_9_pin
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_9_pin
 id: electronic_screw_terminal_3_5_mm_pitch_9_pin
 id_no_class: screw_terminal_3_5_mm_pitch_9_pin
 id_no_size: 9_pin
 id_no_type: 3_5_mm_pitch_9_pin
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_9_pin
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_9_pin
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_9_pin
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_9_pin
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_screw_terminal_3_5_mm_pitch_9_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_9_pin)<br>[9p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_9_pin)<br>[Electronic
-    Screw Terminal 3 5 Mm Pitch 9 Pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_9_pin)<br><br>'
-markdown_short: '[electronic_screw_terminal_3_5_mm_pitch_9_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_9_pin)<br><br>'
+markdown_full: '[electronic_screw_terminal_3_5_mm_pitch_9_pin](none)<br>[9p](none)<br>[Electronic
+    Screw Terminal 3 5 Mm Pitch 9 Pin](none)<br><br>'
+markdown_short: '[electronic_screw_terminal_3_5_mm_pitch_9_pin](none)<br><br>'
 md5: 366fa6d6a15eb21f3c9538fa954e8991
 md5_10: 366fa6d6a1
 md5_10_upper: 366FA6D6A1

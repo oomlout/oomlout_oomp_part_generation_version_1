@@ -47,8 +47,9 @@
     "id_no_type": "5_mm_pitch_3_pin",
     "id_no_size": "3_pin",
     "oomp_key": "oomp_electronic_screw_terminal_5_mm_pitch_3_pin",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin",
     "directory": "parts/electronic_screw_terminal_5_mm_pitch_3_pin",
     "name": "Electronic Screw Terminal 5 Mm Pitch 3 Pin",
     "name_no_class": "Screw Terminal 5 Mm Pitch 3 Pin",
@@ -86,6 +87,6 @@
     "name_no_size_short": "3 Pin",
     "description_or_color": "3",
     "description_or_color_upper": "3",
-    "markdown_full": "[electronic_screw_terminal_5_mm_pitch_3_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin)<br>[3p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin)<br>[Electronic Screw Terminal 5 Mm Pitch 3 Pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin)<br><br>",
-    "markdown_short": "[electronic_screw_terminal_5_mm_pitch_3_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin)<br><br>"
+    "markdown_full": "[electronic_screw_terminal_5_mm_pitch_3_pin](none)<br>[3p](none)<br>[Electronic Screw Terminal 5 Mm Pitch 3 Pin](none)<br><br>",
+    "markdown_short": "[electronic_screw_terminal_5_mm_pitch_3_pin](none)<br><br>"
 }

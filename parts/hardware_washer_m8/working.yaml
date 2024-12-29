@@ -26,22 +26,22 @@ directory: parts/hardware_washer_m8
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m8
 id: hardware_washer_m8
 id_no_class: washer_m8
 id_no_size: m8
 id_no_type: m8
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m8
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_washer_m8
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_washer_m8
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_washer_m8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_washer_m8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m8)<br>[w8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m8)<br>[Hardware
-    Washer M8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m8)<br><br>'
-markdown_short: '[hardware_washer_m8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m8)<br><br>'
+markdown_full: '[hardware_washer_m8](none)<br>[w8](none)<br>[Hardware Washer M8](none)<br><br>'
+markdown_short: '[hardware_washer_m8](none)<br><br>'
 md5: 2809ed420027b0013468584a5e2406ff
 md5_10: 2809ed4200
 md5_10_upper: 2809ED4200

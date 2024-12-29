@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 8_width_9_height_90_mm_depth
+description_main_capital: 8 Width 9 Height 90 mm Depth
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_upper: 8_WIDTH_9_HEIGHT_90_MM_DEPTH
+description_only_numbers: '8990'
+description_only_numbers_short: 8k9
+description_or_color: 8k9
+description_or_color_upper: 8K9
+directory: parts/oobb_part_tray_8_width_9_height_90_mm_depth
+distributors: []
+id: oobb_part_tray_8_width_9_height_90_mm_depth
+id_no_class: part_tray_8_width_9_height_90_mm_depth
+id_no_size: 8_width_9_height_90_mm_depth
+id_no_type: tray_8_width_9_height_90_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_8_width_9_height_90_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_8_width_9_height_90_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_8_width_9_height_90_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_8_width_9_height_90_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray 8 Width 9 Height 90 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_8_width_9_height_90_mm_depth](none)<br><br>'
+md5: 612069adde328b59e4e5962ab7a5bb5c
+md5_10: 612069adde
+md5_10_upper: 612069ADDE
+md5_5: '61206'
+md5_5_upper: '61206'
+md5_6: '612069'
+md5_6_alpha: 3sfhl
+md5_6_alpha_upper: 3SFHL
+md5_6_upper: '612069'
+name: Oobb Part Tray 8 Width 9 Height 90 Mm Depth
+name_no_class: Part Tray 8 Width 9 Height 90 Mm Depth
+name_no_size: 8 Width 9 Height 90 Mm Depth
+name_no_size_short: 8 Width 9 Height 90 Mm Depth
+name_no_type: Tray 8 Width 9 Height 90 Mm Depth
+oomp_key: oomp_oobb_part_tray_8_width_9_height_90_mm_depth
+oomp_word: bouquet skull cactus
+oomp_word_emoji: ':bouquet: :skull: :cactus:'
+oomp_word_emoji_list:
+- ':bouquet:'
+- ':skull:'
+- ':cactus:'
+oomp_word_list:
+- bouquet
+- skull
+- cactus
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

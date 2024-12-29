@@ -46,8 +46,9 @@
     "id_no_type": "dip_8_timer_precision_timer",
     "id_no_size": "timer_precision_timer",
     "oomp_key": "oomp_electronic_ic_dip_8_timer_precision_timer",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_dip_8_timer_precision_timer",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_dip_8_timer_precision_timer",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_dip_8_timer_precision_timer",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_dip_8_timer_precision_timer",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_dip_8_timer_precision_timer",
     "directory": "parts/electronic_ic_dip_8_timer_precision_timer",
     "name": "Electronic Ic Dip 8 Timer Precision Timer",
     "name_no_class": "Ic Dip 8 Timer Precision Timer",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Timer Precision Timer",
     "description_or_color": "T ",
     "description_or_color_upper": "T ",
-    "markdown_full": "[electronic_ic_dip_8_timer_precision_timer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_dip_8_timer_precision_timer)<br>[id8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_dip_8_timer_precision_timer)<br>[Electronic Ic Dip 8 Timer Precision Timer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_dip_8_timer_precision_timer)<br><br>",
-    "markdown_short": "[electronic_ic_dip_8_timer_precision_timer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_dip_8_timer_precision_timer)<br><br>"
+    "markdown_full": "[electronic_ic_dip_8_timer_precision_timer](none)<br>[id8](none)<br>[Electronic Ic Dip 8 Timer Precision Timer](none)<br><br>",
+    "markdown_short": "[electronic_ic_dip_8_timer_precision_timer](none)<br><br>"
 }

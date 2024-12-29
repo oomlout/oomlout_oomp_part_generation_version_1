@@ -48,8 +48,9 @@
     "id_no_type": "3_mm_red_clear",
     "id_no_size": "red_clear",
     "oomp_key": "oomp_electronic_led_3_mm_red_clear",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_red_clear",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_red_clear",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_red_clear",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_red_clear",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_red_clear",
     "directory": "parts/electronic_led_3_mm_red_clear",
     "name": "Electronic Led 3 Mm Red Clear",
     "name_no_class": "Led 3 Mm Red Clear",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Red Clear",
     "description_or_color": "R ",
     "description_or_color_upper": "R ",
-    "markdown_full": "[electronic_led_3_mm_red_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_red_clear)<br>[l3r](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_red_clear)<br>[Electronic Led 3 Mm Red Clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_red_clear)<br><br>",
-    "markdown_short": "[electronic_led_3_mm_red_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_red_clear)<br><br>"
+    "markdown_full": "[electronic_led_3_mm_red_clear](none)<br>[l3r](none)<br>[Electronic Led 3 Mm Red Clear](none)<br><br>",
+    "markdown_short": "[electronic_led_3_mm_red_clear](none)<br><br>"
 }

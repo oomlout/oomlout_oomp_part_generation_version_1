@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: timing_belt_clamp_gt2_extra
+description_extra_capital: Timing Belt Clamp Gt2 Extra
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TIMING_BELT_CLAMP_GT2_EXTRA
+description_main: 2.5_width_1.5_height_14_mm_depth
+description_main_capital: 2.5 Width 1.5 Height 14 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 2.5_WIDTH_1.5_HEIGHT_14_MM_DEPTH
+description_only_numbers: '251514'
+description_only_numbers_short: 252k
+description_or_color: 252k
+description_or_color_upper: 252K
+directory: parts/oobb_part_other_2.5_width_1.5_height_14_mm_depth_timing_belt_clamp_gt2_extra
+distributors: []
+id: oobb_part_other_2.5_width_1.5_height_14_mm_depth_timing_belt_clamp_gt2_extra
+id_no_class: part_other_2.5_width_1.5_height_14_mm_depth_timing_belt_clamp_gt2_extra
+id_no_size: 2.5_width_1.5_height_14_mm_depth_timing_belt_clamp_gt2_extra
+id_no_type: other_2.5_width_1.5_height_14_mm_depth_timing_belt_clamp_gt2_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_other_2.5_width_1.5_height_14_mm_depth_timing_belt_clamp_gt2_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_other_2.5_width_1.5_height_14_mm_depth_timing_belt_clamp_gt2_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_other_2.5_width_1.5_height_14_mm_depth_timing_belt_clamp_gt2_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_other_2.5_width_1.5_height_14_mm_depth_timing_belt_clamp_gt2_extra](none)<br>[](none)<br>[Oobb
+    Part Other 2.5 Width 1.5 Height 14 Mm Depth Timing Belt Clamp Gt2 Extra](none)<br><br>'
+markdown_short: '[oobb_part_other_2.5_width_1.5_height_14_mm_depth_timing_belt_clamp_gt2_extra](none)<br><br>'
+md5: 2b545151282a9cc9a19eeb2fe7601840
+md5_10: 2b54515128
+md5_10_upper: 2B54515128
+md5_5: 2b545
+md5_5_upper: 2B545
+md5_6: 2b5451
+md5_6_alpha: 1ov2p
+md5_6_alpha_upper: 1OV2P
+md5_6_upper: 2B5451
+name: Oobb Part Other 2.5 Width 1.5 Height 14 Mm Depth Timing Belt Clamp Gt2 Extra
+name_no_class: Part Other 2.5 Width 1.5 Height 14 Mm Depth Timing Belt Clamp Gt2 Extra
+name_no_size: 2.5 Width 1.5 Height 14 Mm Depth Timing Belt Clamp Gt2 Extra
+name_no_size_short: 2.5 Width 1.5 Height 14 Mm Depth Timing Belt Clamp Gt2 Extra
+name_no_type: Other 2.5 Width 1.5 Height 14 Mm Depth Timing Belt Clamp Gt2 Extra
+oomp_key: oomp_oobb_part_other_2.5_width_1.5_height_14_mm_depth_timing_belt_clamp_gt2_extra
+oomp_word: cloud whale snail
+oomp_word_emoji: ':cloud: :whale: :snail:'
+oomp_word_emoji_list:
+- ':cloud:'
+- ':whale:'
+- ':snail:'
+oomp_word_list:
+- cloud
+- whale
+- snail
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: other
+size_capital: Other
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OTHER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

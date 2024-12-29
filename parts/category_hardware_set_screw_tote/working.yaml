@@ -27,21 +27,22 @@ directory: parts/category_hardware_set_screw_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_tote
 id: category_hardware_set_screw_tote
 id_no_class: hardware_set_screw_tote
 id_no_size: tote
 id_no_type: set_screw_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_set_screw_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_tote)<br>[Category
-    Hardware Set Screw Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_tote)<br><br>'
-markdown_short: '[category_hardware_set_screw_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_tote)<br><br>'
+markdown_full: '[category_hardware_set_screw_tote](none)<br>[](none)<br>[Category
+    Hardware Set Screw Tote](none)<br><br>'
+markdown_short: '[category_hardware_set_screw_tote](none)<br><br>'
 md5: add766bb85e52a713bf2102f43b409d1
 md5_10: add766bb85
 md5_10_upper: ADD766BB85

@@ -26,21 +26,22 @@ directory: parts/food_condiment_jam_apricot_jar_370_gram_bonne_maman
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_jam_apricot_jar_370_gram_bonne_maman
 id: food_condiment_jam_apricot_jar_370_gram_bonne_maman
 id_no_class: condiment_jam_apricot_jar_370_gram_bonne_maman
 id_no_size: jamapricotjar370grambonnemaman
 id_no_type: jam_apricot_jar_370_gram_bonne_maman
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_jam_apricot_jar_370_gram_bonne_maman
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_jam_apricot_jar_370_gram_bonne_maman
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_jam_apricot_jar_370_gram_bonne_maman
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_jam_apricot_jar_370_gram_bonne_maman
 manufacturer: bonne_maman
 manufacturer_capital: Bonne Maman
 manufacturer_first_letter: b
 manufacturer_first_letter_upper: B
 manufacturer_upper: BONNE_MAMAN
 manufacturers: []
-markdown_full: '[food_condiment_jam_apricot_jar_370_gram_bonne_maman](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_jam_apricot_jar_370_gram_bonne_maman)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_jam_apricot_jar_370_gram_bonne_maman)<br>[Food
-    Condiment Jam Apricot Jar 370 Gram Bonne Maman](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_jam_apricot_jar_370_gram_bonne_maman)<br><br>'
-markdown_short: '[food_condiment_jam_apricot_jar_370_gram_bonne_maman](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_jam_apricot_jar_370_gram_bonne_maman)<br><br>'
+markdown_full: '[food_condiment_jam_apricot_jar_370_gram_bonne_maman](none)<br>[](none)<br>[Food
+    Condiment Jam Apricot Jar 370 Gram Bonne Maman](none)<br><br>'
+markdown_short: '[food_condiment_jam_apricot_jar_370_gram_bonne_maman](none)<br><br>'
 md5: e03b1f49d6e3b42f1b2d4a138c7f55d4
 md5_10: e03b1f49d6
 md5_10_upper: E03B1F49D6

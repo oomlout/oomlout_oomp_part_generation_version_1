@@ -27,21 +27,21 @@ directory: parts/category_paper_sheet
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet
 id: category_paper_sheet
 id_no_class: paper_sheet
 id_no_size: sheet
 id_no_type: sheet
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_paper_sheet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet)<br>[Category
-    Paper Sheet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet)<br><br>'
-markdown_short: '[category_paper_sheet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet)<br><br>'
+markdown_full: '[category_paper_sheet](none)<br>[](none)<br>[Category Paper Sheet](none)<br><br>'
+markdown_short: '[category_paper_sheet](none)<br><br>'
 md5: ab8c45730ab57f67a00c44937ce70051
 md5_10: ab8c45730a
 md5_10_upper: AB8C45730A

@@ -27,21 +27,22 @@ directory: parts/category_electrical_wall_wart
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart
 id: category_electrical_wall_wart
 id_no_class: electrical_wall_wart
 id_no_size: wall_wart
 id_no_type: wall_wart
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_wall_wart
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_wall_wart
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_wall_wart
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electrical_wall_wart](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart)<br>[Category
-    Electrical Wall Wart](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart)<br><br>'
-markdown_short: '[category_electrical_wall_wart](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart)<br><br>'
+markdown_full: '[category_electrical_wall_wart](none)<br>[](none)<br>[Category Electrical
+    Wall Wart](none)<br><br>'
+markdown_short: '[category_electrical_wall_wart](none)<br><br>'
 md5: 360bd1367289a84c43380e70425051de
 md5_10: 360bd13672
 md5_10_upper: 360BD13672

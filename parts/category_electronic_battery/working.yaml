@@ -27,21 +27,22 @@ directory: parts/category_electronic_battery
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery
 id: category_electronic_battery
 id_no_class: electronic_battery
 id_no_size: battery
 id_no_type: battery
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_battery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery)<br>[Category
-    Electronic Battery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery)<br><br>'
-markdown_short: '[category_electronic_battery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery)<br><br>'
+markdown_full: '[category_electronic_battery](none)<br>[](none)<br>[Category Electronic
+    Battery](none)<br><br>'
+markdown_short: '[category_electronic_battery](none)<br><br>'
 md5: df9f707abf01be4f42b70de7cc6d4556
 md5_10: df9f707abf
 md5_10_upper: DF9F707ABF

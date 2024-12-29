@@ -50,8 +50,9 @@
     "id_no_type": "laser_cutter",
     "id_no_size": "laser_cutter",
     "oomp_key": "oomp_category_tool_laser_cutter",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_laser_cutter",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_laser_cutter",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_laser_cutter",
     "directory": "parts/category_tool_laser_cutter",
     "name": "Category Tool Laser Cutter",
     "name_no_class": "Tool Laser Cutter",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Laser Cutter",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_tool_laser_cutter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter)<br>[Category Tool Laser Cutter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter)<br><br>",
-    "markdown_short": "[category_tool_laser_cutter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter)<br><br>"
+    "markdown_full": "[category_tool_laser_cutter](none)<br>[](none)<br>[Category Tool Laser Cutter](none)<br><br>",
+    "markdown_short": "[category_tool_laser_cutter](none)<br><br>"
 }

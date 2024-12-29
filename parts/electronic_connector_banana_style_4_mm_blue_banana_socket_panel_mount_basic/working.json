@@ -47,8 +47,9 @@
     "id_no_type": "banana_style_4_mm_blue_banana_socket_panel_mount_basic",
     "id_no_size": "blue_banana_socket_panel_mount_basic",
     "oomp_key": "oomp_electronic_connector_banana_style_4_mm_blue_banana_socket_panel_mount_basic",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_blue_banana_socket_panel_mount_basic",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_blue_banana_socket_panel_mount_basic",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_blue_banana_socket_panel_mount_basic",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_blue_banana_socket_panel_mount_basic",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_blue_banana_socket_panel_mount_basic",
     "directory": "parts/electronic_connector_banana_style_4_mm_blue_banana_socket_panel_mount_basic",
     "name": "Electronic Connector Banana Style 4 Mm Blue Banana Socket Panel Mount Basic",
     "name_no_class": "Connector Banana Style 4 Mm Blue Banana Socket Panel Mount Basic",
@@ -86,6 +87,6 @@
     "name_no_size_short": "Blue Banana Socket Panel Mount Basic",
     "description_or_color": "B ",
     "description_or_color_upper": "B ",
-    "markdown_full": "[electronic_connector_banana_style_4_mm_blue_banana_socket_panel_mount_basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_blue_banana_socket_panel_mount_basic)<br>[conl](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_blue_banana_socket_panel_mount_basic)<br>[Electronic Connector Banana Style 4 Mm Blue Banana Socket Panel Mount Basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_blue_banana_socket_panel_mount_basic)<br><br>",
-    "markdown_short": "[electronic_connector_banana_style_4_mm_blue_banana_socket_panel_mount_basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_blue_banana_socket_panel_mount_basic)<br><br>"
+    "markdown_full": "[electronic_connector_banana_style_4_mm_blue_banana_socket_panel_mount_basic](none)<br>[conl](none)<br>[Electronic Connector Banana Style 4 Mm Blue Banana Socket Panel Mount Basic](none)<br><br>",
+    "markdown_short": "[electronic_connector_banana_style_4_mm_blue_banana_socket_panel_mount_basic](none)<br><br>"
 }

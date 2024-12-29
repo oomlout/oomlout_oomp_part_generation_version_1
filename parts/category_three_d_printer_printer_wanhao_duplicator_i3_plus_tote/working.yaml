@@ -27,21 +27,22 @@ directory: parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_tote
 id: category_three_d_printer_printer_wanhao_duplicator_i3_plus_tote
 id_no_class: three_d_printer_printer_wanhao_duplicator_i3_plus_tote
 id_no_size: wanhao_duplicator_i3_plus_tote
 id_no_type: printer_wanhao_duplicator_i3_plus_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_three_d_printer_printer_wanhao_duplicator_i3_plus_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_tote)<br>[Category
-    Three D Printer Printer Wanhao Duplicator I3 Plus Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_tote)<br><br>'
-markdown_short: '[category_three_d_printer_printer_wanhao_duplicator_i3_plus_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_tote)<br><br>'
+markdown_full: '[category_three_d_printer_printer_wanhao_duplicator_i3_plus_tote](none)<br>[](none)<br>[Category
+    Three D Printer Printer Wanhao Duplicator I3 Plus Tote](none)<br><br>'
+markdown_short: '[category_three_d_printer_printer_wanhao_duplicator_i3_plus_tote](none)<br><br>'
 md5: 1a24419566edff3be4c655d14f6c7529
 md5_10: 1a24419566
 md5_10_upper: 1A24419566

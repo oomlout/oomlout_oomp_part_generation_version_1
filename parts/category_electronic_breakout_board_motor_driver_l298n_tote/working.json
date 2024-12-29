@@ -50,8 +50,9 @@
     "id_no_type": "breakout_board_motor_driver_l298n_tote",
     "id_no_size": "l298n_tote",
     "oomp_key": "oomp_category_electronic_breakout_board_motor_driver_l298n_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n_tote",
     "directory": "parts/category_electronic_breakout_board_motor_driver_l298n_tote",
     "name": "Category Electronic Breakout Board Motor Driver L298N Tote",
     "name_no_class": "Electronic Breakout Board Motor Driver L298N Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "L298N Tote",
     "description_or_color": "L ",
     "description_or_color_upper": "L ",
-    "markdown_full": "[category_electronic_breakout_board_motor_driver_l298n_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n_tote)<br>[Category Electronic Breakout Board Motor Driver L298N Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n_tote)<br><br>",
-    "markdown_short": "[category_electronic_breakout_board_motor_driver_l298n_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n_tote)<br><br>"
+    "markdown_full": "[category_electronic_breakout_board_motor_driver_l298n_tote](none)<br>[](none)<br>[Category Electronic Breakout Board Motor Driver L298N Tote](none)<br><br>",
+    "markdown_short": "[category_electronic_breakout_board_motor_driver_l298n_tote](none)<br><br>"
 }

@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/the_allotment_beetrice_boiled",
-    "link_github": "https://github.com/oomlout/the_allotment_beetrice_boiled",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_the_allotment_beetrice_boiled",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_the_allotment_beetrice_boiled",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_the_allotment_beetrice_boiled",
     "id_no_size": "the_allotment_beetrice_boiled",
     "oomp_key": "oomp_project_github_oomlout_the_allotment_beetrice_boiled",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_the_allotment_beetrice_boiled",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_the_allotment_beetrice_boiled",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_the_allotment_beetrice_boiled",
     "directory": "parts/project_github_oomlout_the_allotment_beetrice_boiled",
     "name": "Project Github Oomlout The Allotment Beetrice Boiled",
     "name_no_class": "Github Oomlout The Allotment Beetrice Boiled",
@@ -88,6 +87,6 @@
     "name_no_size_short": "The Allotment Beetrice Boiled",
     "description_or_color": "T ",
     "description_or_color_upper": "T ",
-    "markdown_full": "[project_github_oomlout_the_allotment_beetrice_boiled](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_the_allotment_beetrice_boiled)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_the_allotment_beetrice_boiled)<br>[Project Github Oomlout The Allotment Beetrice Boiled](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_the_allotment_beetrice_boiled)<br><br>",
-    "markdown_short": "[project_github_oomlout_the_allotment_beetrice_boiled](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_the_allotment_beetrice_boiled)<br><br>"
+    "markdown_full": "[project_github_oomlout_the_allotment_beetrice_boiled](none)<br>[](none)<br>[Project Github Oomlout The Allotment Beetrice Boiled](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_the_allotment_beetrice_boiled](none)<br><br>"
 }

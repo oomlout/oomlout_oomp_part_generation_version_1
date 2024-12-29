@@ -50,8 +50,9 @@
     "id_no_type": "broccoli",
     "id_no_size": "broccoli",
     "oomp_key": "oomp_food_vegetable_broccoli",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_broccoli",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_broccoli",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_broccoli",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_broccoli",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_broccoli",
     "directory": "parts/food_vegetable_broccoli",
     "name": "Food Vegetable Broccoli",
     "name_no_class": "Vegetable Broccoli",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Broccoli",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[food_vegetable_broccoli](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_broccoli)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_broccoli)<br>[Food Vegetable Broccoli](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_broccoli)<br><br>",
-    "markdown_short": "[food_vegetable_broccoli](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_broccoli)<br><br>"
+    "markdown_full": "[food_vegetable_broccoli](none)<br>[](none)<br>[Food Vegetable Broccoli](none)<br><br>",
+    "markdown_short": "[food_vegetable_broccoli](none)<br><br>"
 }

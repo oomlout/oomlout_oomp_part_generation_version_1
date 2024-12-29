@@ -50,8 +50,9 @@
     "id_no_type": "pmic",
     "id_no_size": "pmic",
     "oomp_key": "oomp_category_electronic_pmic",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_pmic",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_pmic",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_pmic",
     "directory": "parts/category_electronic_pmic",
     "name": "Category Electronic Pmic",
     "name_no_class": "Electronic Pmic",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Pmic",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_pmic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic)<br>[Category Electronic Pmic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic)<br><br>",
-    "markdown_short": "[category_electronic_pmic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic)<br><br>"
+    "markdown_full": "[category_electronic_pmic](none)<br>[](none)<br>[Category Electronic Pmic](none)<br><br>",
+    "markdown_short": "[category_electronic_pmic](none)<br><br>"
 }

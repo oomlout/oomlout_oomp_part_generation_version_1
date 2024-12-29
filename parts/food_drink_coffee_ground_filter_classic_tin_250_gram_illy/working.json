@@ -48,8 +48,9 @@
     "id_no_type": "coffee_ground_filter_classic_tin_250_gram_illy",
     "id_no_size": "ground_filter_classic_tin_250_gram_illy",
     "oomp_key": "oomp_food_drink_coffee_ground_filter_classic_tin_250_gram_illy",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_drink_coffee_ground_filter_classic_tin_250_gram_illy",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_drink_coffee_ground_filter_classic_tin_250_gram_illy",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_drink_coffee_ground_filter_classic_tin_250_gram_illy",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_drink_coffee_ground_filter_classic_tin_250_gram_illy",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_drink_coffee_ground_filter_classic_tin_250_gram_illy",
     "directory": "parts/food_drink_coffee_ground_filter_classic_tin_250_gram_illy",
     "name": "Food Drink Coffee Ground Filter Classic Tin 250 Gram Illy",
     "name_no_class": "Drink Coffee Ground Filter Classic Tin 250 Gram Illy",
@@ -87,6 +88,6 @@
     "name_no_size_short": "Ground Filter Classic Tin 250 Gram Illy",
     "description_or_color": "G ",
     "description_or_color_upper": "G ",
-    "markdown_full": "[food_drink_coffee_ground_filter_classic_tin_250_gram_illy](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_drink_coffee_ground_filter_classic_tin_250_gram_illy)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_drink_coffee_ground_filter_classic_tin_250_gram_illy)<br>[Food Drink Coffee Ground Filter Classic Tin 250 Gram Illy](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_drink_coffee_ground_filter_classic_tin_250_gram_illy)<br><br>",
-    "markdown_short": "[food_drink_coffee_ground_filter_classic_tin_250_gram_illy](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_drink_coffee_ground_filter_classic_tin_250_gram_illy)<br><br>"
+    "markdown_full": "[food_drink_coffee_ground_filter_classic_tin_250_gram_illy](none)<br>[](none)<br>[Food Drink Coffee Ground Filter Classic Tin 250 Gram Illy](none)<br><br>",
+    "markdown_short": "[food_drink_coffee_ground_filter_classic_tin_250_gram_illy](none)<br><br>"
 }

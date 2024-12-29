@@ -49,8 +49,9 @@
     "id_no_type": "sugar_granulated",
     "id_no_size": "granulated",
     "oomp_key": "oomp_food_baking_sugar_granulated",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_granulated",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_granulated",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_granulated",
     "directory": "parts/food_baking_sugar_granulated",
     "name": "Food Baking Sugar Granulated",
     "name_no_class": "Baking Sugar Granulated",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Granulated",
     "description_or_color": "G ",
     "description_or_color_upper": "G ",
-    "markdown_full": "[food_baking_sugar_granulated](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated)<br>[Food Baking Sugar Granulated](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated)<br><br>",
-    "markdown_short": "[food_baking_sugar_granulated](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated)<br><br>"
+    "markdown_full": "[food_baking_sugar_granulated](none)<br>[](none)<br>[Food Baking Sugar Granulated](none)<br><br>",
+    "markdown_short": "[food_baking_sugar_granulated](none)<br><br>"
 }

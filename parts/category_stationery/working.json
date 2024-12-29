@@ -50,8 +50,9 @@
     "id_no_type": "stationery",
     "id_no_size": "stationery",
     "oomp_key": "oomp_category_stationery",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery",
     "directory": "parts/category_stationery",
     "name": "Category Stationery",
     "name_no_class": "Stationery",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Stationery",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_stationery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery)<br>[Category Stationery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery)<br><br>",
-    "markdown_short": "[category_stationery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery)<br><br>"
+    "markdown_full": "[category_stationery](none)<br>[](none)<br>[Category Stationery](none)<br><br>",
+    "markdown_short": "[category_stationery](none)<br><br>"
 }

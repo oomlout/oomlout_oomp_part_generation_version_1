@@ -50,8 +50,9 @@
     "id_no_type": "box_warehouse_sockerbit",
     "id_no_size": "sockerbit",
     "oomp_key": "oomp_category_storage_box_warehouse_sockerbit",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse_sockerbit",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse_sockerbit",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_box_warehouse_sockerbit",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_box_warehouse_sockerbit",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_box_warehouse_sockerbit",
     "directory": "parts/category_storage_box_warehouse_sockerbit",
     "name": "Category Storage Box Warehouse Sockerbit",
     "name_no_class": "Storage Box Warehouse Sockerbit",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Sockerbit",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_storage_box_warehouse_sockerbit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse_sockerbit)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse_sockerbit)<br>[Category Storage Box Warehouse Sockerbit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse_sockerbit)<br><br>",
-    "markdown_short": "[category_storage_box_warehouse_sockerbit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse_sockerbit)<br><br>"
+    "markdown_full": "[category_storage_box_warehouse_sockerbit](none)<br>[](none)<br>[Category Storage Box Warehouse Sockerbit](none)<br><br>",
+    "markdown_short": "[category_storage_box_warehouse_sockerbit](none)<br><br>"
 }

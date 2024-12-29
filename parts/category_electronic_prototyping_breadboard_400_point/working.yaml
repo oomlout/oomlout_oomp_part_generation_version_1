@@ -27,21 +27,22 @@ directory: parts/category_electronic_prototyping_breadboard_400_point
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_400_point
 id: category_electronic_prototyping_breadboard_400_point
 id_no_class: electronic_prototyping_breadboard_400_point
 id_no_size: 400_point
 id_no_type: prototyping_breadboard_400_point
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_400_point
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_breadboard_400_point
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_breadboard_400_point
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_breadboard_400_point
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_prototyping_breadboard_400_point](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_400_point)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_400_point)<br>[Category
-    Electronic Prototyping Breadboard 400 Point](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_400_point)<br><br>'
-markdown_short: '[category_electronic_prototyping_breadboard_400_point](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_400_point)<br><br>'
+markdown_full: '[category_electronic_prototyping_breadboard_400_point](none)<br>[](none)<br>[Category
+    Electronic Prototyping Breadboard 400 Point](none)<br><br>'
+markdown_short: '[category_electronic_prototyping_breadboard_400_point](none)<br><br>'
 md5: 7dd8ce08e1cae3118facb28594814016
 md5_10: 7dd8ce08e1
 md5_10_upper: 7DD8CE08E1

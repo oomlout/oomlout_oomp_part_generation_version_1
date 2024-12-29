@@ -251,8 +251,9 @@
     "id_no_type": "pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal",
     "id_no_size": "screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal",
     "oomp_key": "oomp_electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal",
     "directory": "parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal",
     "name": "Electronic Breakout Board Mcu Pico Screw Terminal 55 Mm Width 73 Mm Height Purple Pcb 3 5 Mm Pitch Terminal",
     "name_no_class": "Breakout Board Mcu Pico Screw Terminal 55 Mm Width 73 Mm Height Purple Pcb 3 5 Mm Pitch Terminal",
@@ -290,6 +291,6 @@
     "name_no_size_short": "Screw Terminal 55 Mm Width 73 Mm Height Purple Pcb 3 5 Mm Pitch Terminal",
     "description_or_color": "S557k",
     "description_or_color_upper": "S557K",
-    "markdown_full": "[electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal)<br>[pc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal)<br>[Electronic Breakout Board Mcu Pico Screw Terminal 55 Mm Width 73 Mm Height Purple Pcb 3 5 Mm Pitch Terminal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal)<br><br>",
-    "markdown_short": "[electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal)<br><br>"
+    "markdown_full": "[electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal](none)<br>[pc](none)<br>[Electronic Breakout Board Mcu Pico Screw Terminal 55 Mm Width 73 Mm Height Purple Pcb 3 5 Mm Pitch Terminal](none)<br><br>",
+    "markdown_short": "[electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal](none)<br><br>"
 }

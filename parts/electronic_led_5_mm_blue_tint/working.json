@@ -48,8 +48,9 @@
     "id_no_type": "5_mm_blue_tint",
     "id_no_size": "blue_tint",
     "oomp_key": "oomp_electronic_led_5_mm_blue_tint",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_blue_tint",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_blue_tint",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_blue_tint",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_blue_tint",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_blue_tint",
     "directory": "parts/electronic_led_5_mm_blue_tint",
     "name": "Electronic Led 5 Mm Blue Tint",
     "name_no_class": "Led 5 Mm Blue Tint",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Blue Tint",
     "description_or_color": "B ",
     "description_or_color_upper": "B ",
-    "markdown_full": "[electronic_led_5_mm_blue_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_blue_tint)<br>[l5l](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_blue_tint)<br>[Electronic Led 5 Mm Blue Tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_blue_tint)<br><br>",
-    "markdown_short": "[electronic_led_5_mm_blue_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_blue_tint)<br><br>"
+    "markdown_full": "[electronic_led_5_mm_blue_tint](none)<br>[l5l](none)<br>[Electronic Led 5 Mm Blue Tint](none)<br><br>",
+    "markdown_short": "[electronic_led_5_mm_blue_tint](none)<br><br>"
 }

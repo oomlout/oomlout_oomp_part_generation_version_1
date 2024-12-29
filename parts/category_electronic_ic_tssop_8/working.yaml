@@ -27,21 +27,22 @@ directory: parts/category_electronic_ic_tssop_8
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_tssop_8
 id: category_electronic_ic_tssop_8
 id_no_class: electronic_ic_tssop_8
 id_no_size: tssop_8
 id_no_type: ic_tssop_8
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_tssop_8
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_tssop_8
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_tssop_8
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_tssop_8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_ic_tssop_8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_tssop_8)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_tssop_8)<br>[Category
-    Electronic Ic Tssop 8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_tssop_8)<br><br>'
-markdown_short: '[category_electronic_ic_tssop_8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_tssop_8)<br><br>'
+markdown_full: '[category_electronic_ic_tssop_8](none)<br>[](none)<br>[Category Electronic
+    Ic Tssop 8](none)<br><br>'
+markdown_short: '[category_electronic_ic_tssop_8](none)<br><br>'
 md5: 8ed14d8348ec1f12d6daa06f85c0b227
 md5_10: 8ed14d8348
 md5_10_upper: 8ED14D8348

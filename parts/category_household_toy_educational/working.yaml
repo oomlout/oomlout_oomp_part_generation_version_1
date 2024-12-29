@@ -27,21 +27,22 @@ directory: parts/category_household_toy_educational
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_educational
 id: category_household_toy_educational
 id_no_class: household_toy_educational
 id_no_size: educational
 id_no_type: educational
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_educational
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_educational
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_educational
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_educational
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_household_toy_educational](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_educational)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_educational)<br>[Category
-    Household Toy Educational](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_educational)<br><br>'
-markdown_short: '[category_household_toy_educational](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_educational)<br><br>'
+markdown_full: '[category_household_toy_educational](none)<br>[](none)<br>[Category
+    Household Toy Educational](none)<br><br>'
+markdown_short: '[category_household_toy_educational](none)<br><br>'
 md5: a238c55e785d805d282d9d084af6db00
 md5_10: a238c55e78
 md5_10_upper: A238C55E78

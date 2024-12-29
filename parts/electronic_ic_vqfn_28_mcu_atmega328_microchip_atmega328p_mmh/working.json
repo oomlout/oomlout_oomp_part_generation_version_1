@@ -46,8 +46,9 @@
     "id_no_type": "vqfn_28_mcu_atmega328_microchip_atmega328p_mmh",
     "id_no_size": "mcu_atmega328_microchip_atmega328p_mmh",
     "oomp_key": "oomp_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh",
     "directory": "parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh",
     "name": "Electronic Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh",
     "name_no_class": "Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Mcu Atmega328 Microchip Atmega328P Mmh",
     "description_or_color": "M328",
     "description_or_color_upper": "M328",
-    "markdown_full": "[electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh)<br>[ivq28mcuat328](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh)<br>[Electronic Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh)<br><br>",
-    "markdown_short": "[electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh)<br><br>"
+    "markdown_full": "[electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh](none)<br>[ivq28mcuat328](none)<br>[Electronic Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh](none)<br><br>",
+    "markdown_short": "[electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh](none)<br><br>"
 }

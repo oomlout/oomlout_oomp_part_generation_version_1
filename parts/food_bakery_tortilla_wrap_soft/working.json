@@ -50,8 +50,9 @@
     "id_no_type": "tortilla_wrap_soft",
     "id_no_size": "tortillawrapsoft",
     "oomp_key": "oomp_food_bakery_tortilla_wrap_soft",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bakery_tortilla_wrap_soft",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bakery_tortilla_wrap_soft",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bakery_tortilla_wrap_soft",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bakery_tortilla_wrap_soft",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bakery_tortilla_wrap_soft",
     "directory": "parts/food_bakery_tortilla_wrap_soft",
     "name": "Food Bakery Tortilla Wrap Soft",
     "name_no_class": "Bakery Tortilla Wrap Soft",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Tortillawrapsoft",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[food_bakery_tortilla_wrap_soft](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bakery_tortilla_wrap_soft)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bakery_tortilla_wrap_soft)<br>[Food Bakery Tortilla Wrap Soft](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bakery_tortilla_wrap_soft)<br><br>",
-    "markdown_short": "[food_bakery_tortilla_wrap_soft](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bakery_tortilla_wrap_soft)<br><br>"
+    "markdown_full": "[food_bakery_tortilla_wrap_soft](none)<br>[](none)<br>[Food Bakery Tortilla Wrap Soft](none)<br><br>",
+    "markdown_short": "[food_bakery_tortilla_wrap_soft](none)<br><br>"
 }

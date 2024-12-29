@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l6_electronic_led_0603_clear
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_clear
 id: electronic_led_0603_clear
 id_no_class: led_0603_clear
 id_no_size: clear
 id_no_type: 0603_clear
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_clear
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_clear
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_clear
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_clear
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_0603_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_clear)<br>[l6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_clear)<br>[Electronic
-    Led 0603 Clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_clear)<br><br>'
-markdown_short: '[electronic_led_0603_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_clear)<br><br>'
+markdown_full: '[electronic_led_0603_clear](none)<br>[l6](none)<br>[Electronic Led
+    0603 Clear](none)<br><br>'
+markdown_short: '[electronic_led_0603_clear](none)<br><br>'
 md5: e1426b5b11cc4d2cdd59341d16f26f78
 md5_10: e1426b5b11
 md5_10_upper: E1426B5B11

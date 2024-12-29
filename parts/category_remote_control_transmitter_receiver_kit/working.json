@@ -50,8 +50,9 @@
     "id_no_type": "transmitter_receiver_kit",
     "id_no_size": "transmitter_receiver_kit",
     "oomp_key": "oomp_category_remote_control_transmitter_receiver_kit",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit",
     "directory": "parts/category_remote_control_transmitter_receiver_kit",
     "name": "Category Remote Control Transmitter Receiver Kit",
     "name_no_class": "Remote Control Transmitter Receiver Kit",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Transmitter Receiver Kit",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_remote_control_transmitter_receiver_kit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit)<br>[Category Remote Control Transmitter Receiver Kit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit)<br><br>",
-    "markdown_short": "[category_remote_control_transmitter_receiver_kit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit)<br><br>"
+    "markdown_full": "[category_remote_control_transmitter_receiver_kit](none)<br>[](none)<br>[Category Remote Control Transmitter Receiver Kit](none)<br><br>",
+    "markdown_short": "[category_remote_control_transmitter_receiver_kit](none)<br><br>"
 }

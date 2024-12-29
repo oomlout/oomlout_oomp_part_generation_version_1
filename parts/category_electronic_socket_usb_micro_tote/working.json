@@ -50,8 +50,9 @@
     "id_no_type": "socket_usb_micro_tote",
     "id_no_size": "usb_micro_tote",
     "oomp_key": "oomp_category_electronic_socket_usb_micro_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_micro_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_micro_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_micro_tote",
     "directory": "parts/category_electronic_socket_usb_micro_tote",
     "name": "Category Electronic Socket Usb Micro Tote",
     "name_no_class": "Electronic Socket Usb Micro Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Usb Micro Tote",
     "description_or_color": "U ",
     "description_or_color_upper": "U ",
-    "markdown_full": "[category_electronic_socket_usb_micro_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro_tote)<br>[Category Electronic Socket Usb Micro Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro_tote)<br><br>",
-    "markdown_short": "[category_electronic_socket_usb_micro_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro_tote)<br><br>"
+    "markdown_full": "[category_electronic_socket_usb_micro_tote](none)<br>[](none)<br>[Category Electronic Socket Usb Micro Tote](none)<br><br>",
+    "markdown_short": "[category_electronic_socket_usb_micro_tote](none)<br><br>"
 }

@@ -26,22 +26,23 @@ directory: parts/electronic_led_3_mm_white_clear
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_white_clear
 id: electronic_led_3_mm_white_clear
 id_no_class: led_3_mm_white_clear
 id_no_size: white_clear
 id_no_type: 3_mm_white_clear
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_white_clear
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_white_clear
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_white_clear
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_white_clear
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_3_mm_white_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_white_clear)<br>[l3w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_white_clear)<br>[Electronic
-    Led 3 Mm White Clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_white_clear)<br><br>'
-markdown_short: '[electronic_led_3_mm_white_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_white_clear)<br><br>'
+markdown_full: '[electronic_led_3_mm_white_clear](none)<br>[l3w](none)<br>[Electronic
+    Led 3 Mm White Clear](none)<br><br>'
+markdown_short: '[electronic_led_3_mm_white_clear](none)<br><br>'
 md5: 7b5eb5395232b5f075eaa5aad59bdcee
 md5_10: 7b5eb53952
 md5_10_upper: 7B5EB53952

@@ -47,8 +47,9 @@
     "id_no_type": "oobb_i2c_triple_through_hole_right_angle",
     "id_no_size": "i2c_triple_through_hole_right_angle",
     "oomp_key": "oomp_electronic_header_oobb_i2c_triple_through_hole_right_angle",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle",
     "directory": "parts/electronic_header_oobb_i2c_triple_through_hole_right_angle",
     "name": "Electronic Header Oobb I2C Triple Through Hole Right Angle",
     "name_no_class": "Header Oobb I2C Triple Through Hole Right Angle",
@@ -85,6 +86,6 @@
     "name_no_size_short": "I2C Triple Through Hole Right Angle",
     "description_or_color": "I ",
     "description_or_color_upper": "I ",
-    "markdown_full": "[electronic_header_oobb_i2c_triple_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle)<br>[hob3thra](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle)<br>[Electronic Header Oobb I2C Triple Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle)<br><br>",
-    "markdown_short": "[electronic_header_oobb_i2c_triple_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_oobb_i2c_triple_through_hole_right_angle)<br><br>"
+    "markdown_full": "[electronic_header_oobb_i2c_triple_through_hole_right_angle](none)<br>[hob3thra](none)<br>[Electronic Header Oobb I2C Triple Through Hole Right Angle](none)<br><br>",
+    "markdown_short": "[electronic_header_oobb_i2c_triple_through_hole_right_angle](none)<br><br>"
 }

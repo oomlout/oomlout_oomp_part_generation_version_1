@@ -27,21 +27,22 @@ directory: parts/category_hardware_washer_m6_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer_m6_tote
 id: category_hardware_washer_m6_tote
 id_no_class: hardware_washer_m6_tote
 id_no_size: m6_tote
 id_no_type: washer_m6_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer_m6_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m6_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m6_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m6_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_washer_m6_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer_m6_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer_m6_tote)<br>[Category
-    Hardware Washer M6 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer_m6_tote)<br><br>'
-markdown_short: '[category_hardware_washer_m6_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer_m6_tote)<br><br>'
+markdown_full: '[category_hardware_washer_m6_tote](none)<br>[](none)<br>[Category
+    Hardware Washer M6 Tote](none)<br><br>'
+markdown_short: '[category_hardware_washer_m6_tote](none)<br><br>'
 md5: 8177324e726745f59fb47279af30be14
 md5_10: 8177324e72
 md5_10_upper: 8177324E72

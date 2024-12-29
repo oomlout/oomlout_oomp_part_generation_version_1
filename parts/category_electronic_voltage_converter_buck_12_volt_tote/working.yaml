@@ -27,21 +27,22 @@ directory: parts/category_electronic_voltage_converter_buck_12_volt_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt_tote
 id: category_electronic_voltage_converter_buck_12_volt_tote
 id_no_class: electronic_voltage_converter_buck_12_volt_tote
 id_no_size: 12_volt_tote
 id_no_type: voltage_converter_buck_12_volt_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_voltage_converter_buck_12_volt_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt_tote)<br>[Category
-    Electronic Voltage Converter Buck 12 Volt Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt_tote)<br><br>'
-markdown_short: '[category_electronic_voltage_converter_buck_12_volt_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt_tote)<br><br>'
+markdown_full: '[category_electronic_voltage_converter_buck_12_volt_tote](none)<br>[](none)<br>[Category
+    Electronic Voltage Converter Buck 12 Volt Tote](none)<br><br>'
+markdown_short: '[category_electronic_voltage_converter_buck_12_volt_tote](none)<br><br>'
 md5: 9d4624cc1f31853c2569277b5f787280
 md5_10: 9d4624cc1f
 md5_10_upper: 9D4624CC1F

@@ -50,8 +50,9 @@
     "id_no_type": "doll",
     "id_no_size": "doll",
     "oomp_key": "oomp_category_household_toy_doll",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll",
     "directory": "parts/category_household_toy_doll",
     "name": "Category Household Toy Doll",
     "name_no_class": "Household Toy Doll",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Doll",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_household_toy_doll](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll)<br>[Category Household Toy Doll](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll)<br><br>",
-    "markdown_short": "[category_household_toy_doll](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll)<br><br>"
+    "markdown_full": "[category_household_toy_doll](none)<br>[](none)<br>[Category Household Toy Doll](none)<br><br>",
+    "markdown_short": "[category_household_toy_doll](none)<br><br>"
 }

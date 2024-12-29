@@ -25,22 +25,23 @@ description_or_color: 2k3
 description_or_color_upper: 2K3
 directory: parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350
 id: electronic_breakout_board_mcu_pico_raspberry_pi_2350
 id_no_class: breakout_board_mcu_pico_raspberry_pi_2350
 id_no_size: raspberry_pi_2350
 id_no_type: pico_raspberry_pi_2350
 kicad_reference: BB
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_breakout_board_mcu_pico_raspberry_pi_2350](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350)<br>[pc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350)<br>[Electronic
-    Breakout Board Mcu Pico Raspberry Pi 2350](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350)<br><br>'
-markdown_short: '[electronic_breakout_board_mcu_pico_raspberry_pi_2350](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350)<br><br>'
+markdown_full: '[electronic_breakout_board_mcu_pico_raspberry_pi_2350](none)<br>[pc](none)<br>[Electronic
+    Breakout Board Mcu Pico Raspberry Pi 2350](none)<br><br>'
+markdown_short: '[electronic_breakout_board_mcu_pico_raspberry_pi_2350](none)<br><br>'
 md5: 2a58d55c70f387ed47a2e772d41d4a35
 md5_10: 2a58d55c70
 md5_10_upper: 2A58D55C70

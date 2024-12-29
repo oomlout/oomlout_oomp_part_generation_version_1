@@ -48,8 +48,9 @@
     "id_no_type": "5_mm_green_tint",
     "id_no_size": "green_tint",
     "oomp_key": "oomp_electronic_led_5_mm_green_tint",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_green_tint",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_green_tint",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_green_tint",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_green_tint",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_green_tint",
     "directory": "parts/electronic_led_5_mm_green_tint",
     "name": "Electronic Led 5 Mm Green Tint",
     "name_no_class": "Led 5 Mm Green Tint",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Green Tint",
     "description_or_color": "G ",
     "description_or_color_upper": "G ",
-    "markdown_full": "[electronic_led_5_mm_green_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_green_tint)<br>[l5g](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_green_tint)<br>[Electronic Led 5 Mm Green Tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_green_tint)<br><br>",
-    "markdown_short": "[electronic_led_5_mm_green_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_green_tint)<br><br>"
+    "markdown_full": "[electronic_led_5_mm_green_tint](none)<br>[l5g](none)<br>[Electronic Led 5 Mm Green Tint](none)<br><br>",
+    "markdown_short": "[electronic_led_5_mm_green_tint](none)<br><br>"
 }

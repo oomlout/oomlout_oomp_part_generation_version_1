@@ -50,8 +50,9 @@
     "id_no_type": "mechano_car_remote_control_tote",
     "id_no_size": "car_remote_control_tote",
     "oomp_key": "oomp_category_toy_mechano_car_remote_control_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_mechano_car_remote_control_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_mechano_car_remote_control_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_mechano_car_remote_control_tote",
     "directory": "parts/category_toy_mechano_car_remote_control_tote",
     "name": "Category Toy Mechano Car Remote Control Tote",
     "name_no_class": "Toy Mechano Car Remote Control Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Car Remote Control Tote",
     "description_or_color": "C ",
     "description_or_color_upper": "C ",
-    "markdown_full": "[category_toy_mechano_car_remote_control_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_tote)<br>[Category Toy Mechano Car Remote Control Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_tote)<br><br>",
-    "markdown_short": "[category_toy_mechano_car_remote_control_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_tote)<br><br>"
+    "markdown_full": "[category_toy_mechano_car_remote_control_tote](none)<br>[](none)<br>[Category Toy Mechano Car Remote Control Tote](none)<br><br>",
+    "markdown_short": "[category_toy_mechano_car_remote_control_tote](none)<br><br>"
 }

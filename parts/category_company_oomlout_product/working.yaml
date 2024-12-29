@@ -27,21 +27,22 @@ directory: parts/category_company_oomlout_product
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product
 id: category_company_oomlout_product
 id_no_class: company_oomlout_product
 id_no_size: product
 id_no_type: product
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_company_oomlout_product](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product)<br>[Category
-    Company Oomlout Product](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product)<br><br>'
-markdown_short: '[category_company_oomlout_product](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product)<br><br>'
+markdown_full: '[category_company_oomlout_product](none)<br>[](none)<br>[Category
+    Company Oomlout Product](none)<br><br>'
+markdown_short: '[category_company_oomlout_product](none)<br><br>'
 md5: 1958f89c8ff60039aa5d34d6285b3bd5
 md5_10: 1958f89c8f
 md5_10_upper: 1958F89C8F

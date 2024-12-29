@@ -27,21 +27,22 @@ directory: parts/category_electronic_diode
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode
 id: category_electronic_diode
 id_no_class: electronic_diode
 id_no_size: diode
 id_no_type: diode
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_diode](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode)<br>[Category
-    Electronic Diode](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode)<br><br>'
-markdown_short: '[category_electronic_diode](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode)<br><br>'
+markdown_full: '[category_electronic_diode](none)<br>[](none)<br>[Category Electronic
+    Diode](none)<br><br>'
+markdown_short: '[category_electronic_diode](none)<br><br>'
 md5: 864592f32fd80992bd34464ccd394645
 md5_10: 864592f32f
 md5_10_upper: 864592F32F

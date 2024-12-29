@@ -27,21 +27,22 @@ directory: parts/category_food_baking_sugar
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_baking_sugar
 id: category_food_baking_sugar
 id_no_class: food_baking_sugar
 id_no_size: sugar
 id_no_type: baking_sugar
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_baking_sugar
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_sugar
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_sugar
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_sugar
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food_baking_sugar](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_baking_sugar)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_baking_sugar)<br>[Category
-    Food Baking Sugar](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_baking_sugar)<br><br>'
-markdown_short: '[category_food_baking_sugar](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_baking_sugar)<br><br>'
+markdown_full: '[category_food_baking_sugar](none)<br>[](none)<br>[Category Food Baking
+    Sugar](none)<br><br>'
+markdown_short: '[category_food_baking_sugar](none)<br><br>'
 md5: afd5ac81278c4d0dfdc3962fabb34b65
 md5_10: afd5ac8127
 md5_10_upper: AFD5AC8127

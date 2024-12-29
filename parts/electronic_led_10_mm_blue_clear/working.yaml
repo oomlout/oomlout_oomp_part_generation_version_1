@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l10l_electronic_led_10_mm_blue_clear
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_blue_clear
 id: electronic_led_10_mm_blue_clear
 id_no_class: led_10_mm_blue_clear
 id_no_size: blue_clear
 id_no_type: 10_mm_blue_clear
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_blue_clear
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_blue_clear
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_blue_clear
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_blue_clear
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_10_mm_blue_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_blue_clear)<br>[l10l](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_blue_clear)<br>[Electronic
-    Led 10 Mm Blue Clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_blue_clear)<br><br>'
-markdown_short: '[electronic_led_10_mm_blue_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_blue_clear)<br><br>'
+markdown_full: '[electronic_led_10_mm_blue_clear](none)<br>[l10l](none)<br>[Electronic
+    Led 10 Mm Blue Clear](none)<br><br>'
+markdown_short: '[electronic_led_10_mm_blue_clear](none)<br><br>'
 md5: efd3bc18d9177d470ea714b2c7c896ea
 md5_10: efd3bc18d9
 md5_10_upper: EFD3BC18D9

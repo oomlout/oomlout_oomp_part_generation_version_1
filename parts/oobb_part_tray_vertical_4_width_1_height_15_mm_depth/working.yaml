@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 4_width_1_height_15_mm_depth
+description_main_capital: 4 Width 1 Height 15 mm Depth
+description_main_first_letter: '4'
+description_main_first_letter_upper: '4'
+description_main_upper: 4_WIDTH_1_HEIGHT_15_MM_DEPTH
+description_only_numbers: '4115'
+description_only_numbers_short: 4k1
+description_or_color: 4k1
+description_or_color_upper: 4K1
+directory: parts/oobb_part_tray_vertical_4_width_1_height_15_mm_depth
+distributors: []
+id: oobb_part_tray_vertical_4_width_1_height_15_mm_depth
+id_no_class: part_tray_vertical_4_width_1_height_15_mm_depth
+id_no_size: 4_width_1_height_15_mm_depth
+id_no_type: tray_vertical_4_width_1_height_15_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_4_width_1_height_15_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_4_width_1_height_15_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_4_width_1_height_15_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_4_width_1_height_15_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray Vertical 4 Width 1 Height 15 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_4_width_1_height_15_mm_depth](none)<br><br>'
+md5: a14fa4484e84c4a764cf9cea81e2b2d6
+md5_10: a14fa4484e
+md5_10_upper: A14FA4484E
+md5_5: a14fa
+md5_5_upper: A14FA
+md5_6: a14fa4
+md5_6_alpha: 6al5w
+md5_6_alpha_upper: 6AL5W
+md5_6_upper: A14FA4
+name: Oobb Part Tray Vertical 4 Width 1 Height 15 Mm Depth
+name_no_class: Part Tray Vertical 4 Width 1 Height 15 Mm Depth
+name_no_size: 4 Width 1 Height 15 Mm Depth
+name_no_size_short: 4 Width 1 Height 15 Mm Depth
+name_no_type: Tray Vertical 4 Width 1 Height 15 Mm Depth
+oomp_key: oomp_oobb_part_tray_vertical_4_width_1_height_15_mm_depth
+oomp_word: trophy ant book
+oomp_word_emoji: ':trophy: :ant: :book:'
+oomp_word_emoji_list:
+- ':trophy:'
+- ':ant:'
+- ':book:'
+oomp_word_list:
+- trophy
+- ant
+- book
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

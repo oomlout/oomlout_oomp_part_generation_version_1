@@ -45,8 +45,9 @@
     "id_no_type": "dyson_v11_dyson_v11",
     "id_no_size": "dyson_v11",
     "oomp_key": "oomp_appliance_vacuum_cleaner_dyson_v11_dyson_v11",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v11_dyson_v11",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v11_dyson_v11",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v11_dyson_v11",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v11_dyson_v11",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v11_dyson_v11",
     "directory": "parts/appliance_vacuum_cleaner_dyson_v11_dyson_v11",
     "name": "Appliance Vacuum Cleaner Dyson V11 Dyson V11",
     "name_no_class": "Vacuum Cleaner Dyson V11 Dyson V11",
@@ -84,6 +85,6 @@
     "name_no_size_short": "Dyson V11",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[appliance_vacuum_cleaner_dyson_v11_dyson_v11](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v11_dyson_v11)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v11_dyson_v11)<br>[Appliance Vacuum Cleaner Dyson V11 Dyson V11](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v11_dyson_v11)<br><br>",
-    "markdown_short": "[appliance_vacuum_cleaner_dyson_v11_dyson_v11](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v11_dyson_v11)<br><br>"
+    "markdown_full": "[appliance_vacuum_cleaner_dyson_v11_dyson_v11](none)<br>[](none)<br>[Appliance Vacuum Cleaner Dyson V11 Dyson V11](none)<br><br>",
+    "markdown_short": "[appliance_vacuum_cleaner_dyson_v11_dyson_v11](none)<br><br>"
 }

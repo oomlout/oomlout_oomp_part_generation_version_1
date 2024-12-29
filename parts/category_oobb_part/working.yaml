@@ -27,21 +27,21 @@ directory: parts/category_oobb_part
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part
 id: category_oobb_part
 id_no_class: oobb_part
 id_no_size: part
 id_no_type: part
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part)<br>[Category
-    Oobb Part](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part)<br><br>'
-markdown_short: '[category_oobb_part](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part)<br><br>'
+markdown_full: '[category_oobb_part](none)<br>[](none)<br>[Category Oobb Part](none)<br><br>'
+markdown_short: '[category_oobb_part](none)<br><br>'
 md5: ecc10beca7439c0e863a3d66276d5add
 md5_10: ecc10beca7
 md5_10_upper: ECC10BECA7

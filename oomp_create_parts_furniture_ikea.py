@@ -284,7 +284,36 @@ def load_parts(**kwargs):
         part_details["part_number"] = ""
         parts.append(part_details)
 
-
+    #   varde
+    if True:    
+        part_details = {}
+        part_details["classification"] = "furniture"
+        part_details["type"] = "kitchen_unit_freestanding"
+        part_details["size"] = "ikea_varde"
+        part_details["color"] = ""
+        part_details["description_main"] = "dual_drawer"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "ikea"
+        part_details["part_number"] = ""
+        part_details["width"] = ""
+        part_details["height"] = ""
+        part_details["depth"] = ""
+        part_details["width_drawer"] = ""
+        #parts.append(part_details)
+    
+        part_details = {}
+        part_details["classification"] = "furniture"
+        part_details["type"] = "kitchen_unit_freestanding"
+        part_details["size"] = "ikea_varde"
+        part_details["color"] = ""
+        part_details["description_main"] = "triple_drawer"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "ikea"
+        part_details["part_number"] = ""
+        part_details["width"] = ""
+        part_details["height"] = ""
+        part_details["depth"] = ""
+        #parts.append(part_details)
 
 
         

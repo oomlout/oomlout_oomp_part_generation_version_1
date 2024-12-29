@@ -46,8 +46,9 @@
     "id_no_type": "bambu_lab_p1s",
     "id_no_size": "bambu_lab_p1s",
     "oomp_key": "oomp_three_d_printer_printer_bambu_lab_p1s",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s",
     "directory": "parts/three_d_printer_printer_bambu_lab_p1s",
     "name": "Three D Printer Printer Bambu Lab P1S",
     "name_no_class": "Printer Bambu Lab P1S",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Bambu Lab P1S",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[three_d_printer_printer_bambu_lab_p1s](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s)<br>[Three D Printer Printer Bambu Lab P1S](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s)<br><br>",
-    "markdown_short": "[three_d_printer_printer_bambu_lab_p1s](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s)<br><br>"
+    "markdown_full": "[three_d_printer_printer_bambu_lab_p1s](none)<br>[](none)<br>[Three D Printer Printer Bambu Lab P1S](none)<br><br>",
+    "markdown_short": "[three_d_printer_printer_bambu_lab_p1s](none)<br><br>"
 }

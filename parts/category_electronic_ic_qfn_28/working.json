@@ -50,8 +50,9 @@
     "id_no_type": "ic_qfn_28",
     "id_no_size": "qfn_28",
     "oomp_key": "oomp_category_electronic_ic_qfn_28",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_qfn_28",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_qfn_28",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_qfn_28",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_qfn_28",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_qfn_28",
     "directory": "parts/category_electronic_ic_qfn_28",
     "name": "Category Electronic Ic Qfn 28",
     "name_no_class": "Electronic Ic Qfn 28",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Qfn 28",
     "description_or_color": "Q ",
     "description_or_color_upper": "Q ",
-    "markdown_full": "[category_electronic_ic_qfn_28](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_qfn_28)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_qfn_28)<br>[Category Electronic Ic Qfn 28](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_qfn_28)<br><br>",
-    "markdown_short": "[category_electronic_ic_qfn_28](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_qfn_28)<br><br>"
+    "markdown_full": "[category_electronic_ic_qfn_28](none)<br>[](none)<br>[Category Electronic Ic Qfn 28](none)<br><br>",
+    "markdown_short": "[category_electronic_ic_qfn_28](none)<br><br>"
 }

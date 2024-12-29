@@ -27,21 +27,21 @@ directory: parts/category_mechanical
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical
 id: category_mechanical
 id_no_class: mechanical
 id_no_size: mechanical
 id_no_type: mechanical
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_mechanical](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical)<br>[Category
-    Mechanical](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical)<br><br>'
-markdown_short: '[category_mechanical](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical)<br><br>'
+markdown_full: '[category_mechanical](none)<br>[](none)<br>[Category Mechanical](none)<br><br>'
+markdown_short: '[category_mechanical](none)<br><br>'
 md5: 63b125105694c256f88d5443a6c8ea76
 md5_10: 63b1251056
 md5_10_upper: 63B1251056

@@ -50,8 +50,9 @@
     "id_no_type": "crimp_housing",
     "id_no_size": "crimp_housing",
     "oomp_key": "oomp_category_electronic_crimp_housing",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing",
     "directory": "parts/category_electronic_crimp_housing",
     "name": "Category Electronic Crimp Housing",
     "name_no_class": "Electronic Crimp Housing",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Crimp Housing",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_crimp_housing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing)<br>[Category Electronic Crimp Housing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing)<br><br>",
-    "markdown_short": "[category_electronic_crimp_housing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing)<br><br>"
+    "markdown_full": "[category_electronic_crimp_housing](none)<br>[](none)<br>[Category Electronic Crimp Housing](none)<br><br>",
+    "markdown_short": "[category_electronic_crimp_housing](none)<br><br>"
 }

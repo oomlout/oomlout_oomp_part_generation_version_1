@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 26_width_1_height_9_mm_depth
+description_main_capital: 26 Width 1 Height 9 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 26_WIDTH_1_HEIGHT_9_MM_DEPTH
+description_only_numbers: '2619'
+description_only_numbers_short: 2k6
+description_or_color: 2k6
+description_or_color_upper: 2K6
+directory: parts/oobb_part_plate_26_width_1_height_9_mm_depth
+distributors: []
+id: oobb_part_plate_26_width_1_height_9_mm_depth
+id_no_class: part_plate_26_width_1_height_9_mm_depth
+id_no_size: 26_width_1_height_9_mm_depth
+id_no_type: plate_26_width_1_height_9_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_26_width_1_height_9_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_26_width_1_height_9_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_26_width_1_height_9_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_26_width_1_height_9_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Plate 26 Width 1 Height 9 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_plate_26_width_1_height_9_mm_depth](none)<br><br>'
+md5: a07e5d66a291d0b6d7c1c412e2b58a67
+md5_10: a07e5d66a2
+md5_10_upper: A07E5D66A2
+md5_5: a07e5
+md5_5_upper: A07E5
+md5_6: a07e5d
+md5_6_alpha: 69ftp
+md5_6_alpha_upper: 69FTP
+md5_6_upper: A07E5D
+name: Oobb Part Plate 26 Width 1 Height 9 Mm Depth
+name_no_class: Part Plate 26 Width 1 Height 9 Mm Depth
+name_no_size: 26 Width 1 Height 9 Mm Depth
+name_no_size_short: 26 Width 1 Height 9 Mm Depth
+name_no_type: Plate 26 Width 1 Height 9 Mm Depth
+oomp_key: oomp_oobb_part_plate_26_width_1_height_9_mm_depth
+oomp_word: ring fax blowfish
+oomp_word_emoji: ':ring: :fax: :blowfish:'
+oomp_word_emoji_list:
+- ':ring:'
+- ':fax:'
+- ':blowfish:'
+oomp_word_list:
+- ring
+- fax
+- blowfish
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -50,8 +50,9 @@
     "id_no_type": "washer_m2_tote",
     "id_no_size": "m2_tote",
     "oomp_key": "oomp_category_hardware_washer_m2_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer_m2_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer_m2_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m2_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m2_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m2_tote",
     "directory": "parts/category_hardware_washer_m2_tote",
     "name": "Category Hardware Washer M2 Tote",
     "name_no_class": "Hardware Washer M2 Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "M2 Tote",
     "description_or_color": "M ",
     "description_or_color_upper": "M ",
-    "markdown_full": "[category_hardware_washer_m2_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer_m2_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer_m2_tote)<br>[Category Hardware Washer M2 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer_m2_tote)<br><br>",
-    "markdown_short": "[category_hardware_washer_m2_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer_m2_tote)<br><br>"
+    "markdown_full": "[category_hardware_washer_m2_tote](none)<br>[](none)<br>[Category Hardware Washer M2 Tote](none)<br><br>",
+    "markdown_short": "[category_hardware_washer_m2_tote](none)<br><br>"
 }

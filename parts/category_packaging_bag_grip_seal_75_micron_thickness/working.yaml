@@ -27,21 +27,22 @@ directory: parts/category_packaging_bag_grip_seal_75_micron_thickness
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_75_micron_thickness
 id: category_packaging_bag_grip_seal_75_micron_thickness
 id_no_class: packaging_bag_grip_seal_75_micron_thickness
 id_no_size: 75_micron_thickness
 id_no_type: bag_grip_seal_75_micron_thickness
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_75_micron_thickness
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_75_micron_thickness
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_75_micron_thickness
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_75_micron_thickness
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_packaging_bag_grip_seal_75_micron_thickness](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_75_micron_thickness)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_75_micron_thickness)<br>[Category
-    Packaging Bag Grip Seal 75 Micron Thickness](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_75_micron_thickness)<br><br>'
-markdown_short: '[category_packaging_bag_grip_seal_75_micron_thickness](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_75_micron_thickness)<br><br>'
+markdown_full: '[category_packaging_bag_grip_seal_75_micron_thickness](none)<br>[](none)<br>[Category
+    Packaging Bag Grip Seal 75 Micron Thickness](none)<br><br>'
+markdown_short: '[category_packaging_bag_grip_seal_75_micron_thickness](none)<br><br>'
 md5: 90298a1c0f53469c9fd1eb4d5985b5c4
 md5_10: 90298a1c0f
 md5_10_upper: 90298A1C0F

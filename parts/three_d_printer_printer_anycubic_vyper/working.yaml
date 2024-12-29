@@ -24,21 +24,22 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/three_d_printer_printer_anycubic_vyper
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper
 id: three_d_printer_printer_anycubic_vyper
 id_no_class: printer_anycubic_vyper
 id_no_size: anycubicvyper
 id_no_type: anycubic_vyper
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper
 manufacturer: anycubic
 manufacturer_capital: Anycubic
 manufacturer_first_letter: a
 manufacturer_first_letter_upper: A
 manufacturer_upper: ANYCUBIC
 manufacturers: []
-markdown_full: '[three_d_printer_printer_anycubic_vyper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper)<br>[Three
-    D Printer Printer Anycubic Vyper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper)<br><br>'
-markdown_short: '[three_d_printer_printer_anycubic_vyper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper)<br><br>'
+markdown_full: '[three_d_printer_printer_anycubic_vyper](none)<br>[](none)<br>[Three
+    D Printer Printer Anycubic Vyper](none)<br><br>'
+markdown_short: '[three_d_printer_printer_anycubic_vyper](none)<br><br>'
 md5: 8eeee0a554cb5221e09be7c0225221f9
 md5_10: 8eeee0a554
 md5_10_upper: 8EEEE0A554

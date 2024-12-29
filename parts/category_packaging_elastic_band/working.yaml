@@ -27,21 +27,22 @@ directory: parts/category_packaging_elastic_band
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band
 id: category_packaging_elastic_band
 id_no_class: packaging_elastic_band
 id_no_size: elastic_band
 id_no_type: elastic_band
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_elastic_band
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_elastic_band
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_elastic_band
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_packaging_elastic_band](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band)<br>[Category
-    Packaging Elastic Band](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band)<br><br>'
-markdown_short: '[category_packaging_elastic_band](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band)<br><br>'
+markdown_full: '[category_packaging_elastic_band](none)<br>[](none)<br>[Category Packaging
+    Elastic Band](none)<br><br>'
+markdown_short: '[category_packaging_elastic_band](none)<br><br>'
 md5: 4aacadfce2de48d26646f1b424bc2164
 md5_10: 4aacadfce2
 md5_10_upper: 4AACADFCE2

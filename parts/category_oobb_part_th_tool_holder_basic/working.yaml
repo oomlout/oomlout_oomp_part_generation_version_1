@@ -27,21 +27,22 @@ directory: parts/category_oobb_part_th_tool_holder_basic
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic
 id: category_oobb_part_th_tool_holder_basic
 id_no_class: oobb_part_th_tool_holder_basic
 id_no_size: th_tool_holder_basic
 id_no_type: part_th_tool_holder_basic
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part_th_tool_holder_basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic)<br>[Category
-    Oobb Part Th Tool Holder Basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic)<br><br>'
-markdown_short: '[category_oobb_part_th_tool_holder_basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic)<br><br>'
+markdown_full: '[category_oobb_part_th_tool_holder_basic](none)<br>[](none)<br>[Category
+    Oobb Part Th Tool Holder Basic](none)<br><br>'
+markdown_short: '[category_oobb_part_th_tool_holder_basic](none)<br><br>'
 md5: db851ad22780e2dca8f88457026e64ba
 md5_10: db851ad227
 md5_10_upper: DB851AD227

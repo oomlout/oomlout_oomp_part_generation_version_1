@@ -50,8 +50,9 @@
     "id_no_type": "part_bolt_tote",
     "id_no_size": "bolt_tote",
     "oomp_key": "oomp_category_oobb_part_bolt_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bolt_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bolt_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bolt_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bolt_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bolt_tote",
     "directory": "parts/category_oobb_part_bolt_tote",
     "name": "Category Oobb Part Bolt Tote",
     "name_no_class": "Oobb Part Bolt Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Bolt Tote",
     "description_or_color": "B ",
     "description_or_color_upper": "B ",
-    "markdown_full": "[category_oobb_part_bolt_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bolt_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bolt_tote)<br>[Category Oobb Part Bolt Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bolt_tote)<br><br>",
-    "markdown_short": "[category_oobb_part_bolt_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bolt_tote)<br><br>"
+    "markdown_full": "[category_oobb_part_bolt_tote](none)<br>[](none)<br>[Category Oobb Part Bolt Tote](none)<br><br>",
+    "markdown_short": "[category_oobb_part_bolt_tote](none)<br><br>"
 }

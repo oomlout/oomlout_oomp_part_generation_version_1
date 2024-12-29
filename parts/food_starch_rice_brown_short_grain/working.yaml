@@ -27,21 +27,22 @@ directory: parts/food_starch_rice_brown_short_grain
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_brown_short_grain
 id: food_starch_rice_brown_short_grain
 id_no_class: starch_rice_brown_short_grain
 id_no_size: brown_short_grain
 id_no_type: rice_brown_short_grain
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_brown_short_grain
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_brown_short_grain
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_brown_short_grain
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_brown_short_grain
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_starch_rice_brown_short_grain](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_brown_short_grain)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_brown_short_grain)<br>[Food
-    Starch Rice Brown Short Grain](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_brown_short_grain)<br><br>'
-markdown_short: '[food_starch_rice_brown_short_grain](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_brown_short_grain)<br><br>'
+markdown_full: '[food_starch_rice_brown_short_grain](none)<br>[](none)<br>[Food Starch
+    Rice Brown Short Grain](none)<br><br>'
+markdown_short: '[food_starch_rice_brown_short_grain](none)<br><br>'
 md5: ae191c4dc1ae82e6e14ce93098ad8af2
 md5_10: ae191c4dc1
 md5_10_upper: AE191C4DC1

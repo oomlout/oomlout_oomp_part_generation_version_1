@@ -50,8 +50,9 @@
     "id_no_type": "motor_servo_remote_control_tote",
     "id_no_size": "tote",
     "oomp_key": "oomp_category_mechanical_motor_servo_remote_control_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_servo_remote_control_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_servo_remote_control_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_servo_remote_control_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_servo_remote_control_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_servo_remote_control_tote",
     "directory": "parts/category_mechanical_motor_servo_remote_control_tote",
     "name": "Category Mechanical Motor Servo Remote Control Tote",
     "name_no_class": "Mechanical Motor Servo Remote Control Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Tote",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_mechanical_motor_servo_remote_control_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_servo_remote_control_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_servo_remote_control_tote)<br>[Category Mechanical Motor Servo Remote Control Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_servo_remote_control_tote)<br><br>",
-    "markdown_short": "[category_mechanical_motor_servo_remote_control_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_servo_remote_control_tote)<br><br>"
+    "markdown_full": "[category_mechanical_motor_servo_remote_control_tote](none)<br>[](none)<br>[Category Mechanical Motor Servo Remote Control Tote](none)<br><br>",
+    "markdown_short": "[category_mechanical_motor_servo_remote_control_tote](none)<br><br>"
 }

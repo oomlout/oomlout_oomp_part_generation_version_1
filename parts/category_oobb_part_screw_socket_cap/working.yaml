@@ -27,21 +27,22 @@ directory: parts/category_oobb_part_screw_socket_cap
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap
 id: category_oobb_part_screw_socket_cap
 id_no_class: oobb_part_screw_socket_cap
 id_no_size: screw_socket_cap
 id_no_type: part_screw_socket_cap
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_socket_cap
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_socket_cap
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_socket_cap
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part_screw_socket_cap](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap)<br>[Category
-    Oobb Part Screw Socket Cap](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap)<br><br>'
-markdown_short: '[category_oobb_part_screw_socket_cap](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap)<br><br>'
+markdown_full: '[category_oobb_part_screw_socket_cap](none)<br>[](none)<br>[Category
+    Oobb Part Screw Socket Cap](none)<br><br>'
+markdown_short: '[category_oobb_part_screw_socket_cap](none)<br><br>'
 md5: 1dc6439624671e6efff80967d8d83abf
 md5_10: 1dc6439624
 md5_10_upper: 1DC6439624

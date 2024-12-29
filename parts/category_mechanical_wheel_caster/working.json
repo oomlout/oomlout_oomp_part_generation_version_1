@@ -50,8 +50,9 @@
     "id_no_type": "wheel_caster",
     "id_no_size": "caster",
     "oomp_key": "oomp_category_mechanical_wheel_caster",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_wheel_caster",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_wheel_caster",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_wheel_caster",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_wheel_caster",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_wheel_caster",
     "directory": "parts/category_mechanical_wheel_caster",
     "name": "Category Mechanical Wheel Caster",
     "name_no_class": "Mechanical Wheel Caster",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Caster",
     "description_or_color": "C ",
     "description_or_color_upper": "C ",
-    "markdown_full": "[category_mechanical_wheel_caster](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_wheel_caster)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_wheel_caster)<br>[Category Mechanical Wheel Caster](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_wheel_caster)<br><br>",
-    "markdown_short": "[category_mechanical_wheel_caster](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_wheel_caster)<br><br>"
+    "markdown_full": "[category_mechanical_wheel_caster](none)<br>[](none)<br>[Category Mechanical Wheel Caster](none)<br><br>",
+    "markdown_short": "[category_mechanical_wheel_caster](none)<br><br>"
 }

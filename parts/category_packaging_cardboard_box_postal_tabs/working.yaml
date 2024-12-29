@@ -27,21 +27,22 @@ directory: parts/category_packaging_cardboard_box_postal_tabs
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs
 id: category_packaging_cardboard_box_postal_tabs
 id_no_class: packaging_cardboard_box_postal_tabs
 id_no_size: cardboard_box_postal_tabs
 id_no_type: cardboard_box_postal_tabs
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_packaging_cardboard_box_postal_tabs](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs)<br>[Category
-    Packaging Cardboard Box Postal Tabs](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs)<br><br>'
-markdown_short: '[category_packaging_cardboard_box_postal_tabs](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs)<br><br>'
+markdown_full: '[category_packaging_cardboard_box_postal_tabs](none)<br>[](none)<br>[Category
+    Packaging Cardboard Box Postal Tabs](none)<br><br>'
+markdown_short: '[category_packaging_cardboard_box_postal_tabs](none)<br><br>'
 md5: ff1d60ddd9332332f3a649a66314c211
 md5_10: ff1d60ddd9
 md5_10_upper: FF1D60DDD9

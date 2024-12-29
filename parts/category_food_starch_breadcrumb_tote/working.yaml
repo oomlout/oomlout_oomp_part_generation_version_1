@@ -27,21 +27,22 @@ directory: parts/category_food_starch_breadcrumb_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_breadcrumb_tote
 id: category_food_starch_breadcrumb_tote
 id_no_class: food_starch_breadcrumb_tote
 id_no_size: breadcrumb_tote
 id_no_type: starch_breadcrumb_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_breadcrumb_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_breadcrumb_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_breadcrumb_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_breadcrumb_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food_starch_breadcrumb_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_breadcrumb_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_breadcrumb_tote)<br>[Category
-    Food Starch Breadcrumb Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_breadcrumb_tote)<br><br>'
-markdown_short: '[category_food_starch_breadcrumb_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_breadcrumb_tote)<br><br>'
+markdown_full: '[category_food_starch_breadcrumb_tote](none)<br>[](none)<br>[Category
+    Food Starch Breadcrumb Tote](none)<br><br>'
+markdown_short: '[category_food_starch_breadcrumb_tote](none)<br><br>'
 md5: 8f0229ee5828f40482fe2652a09f4189
 md5_10: 8f0229ee58
 md5_10_upper: 8F0229EE58

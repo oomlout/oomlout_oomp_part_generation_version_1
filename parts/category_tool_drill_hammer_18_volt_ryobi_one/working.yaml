@@ -27,21 +27,22 @@ directory: parts/category_tool_drill_hammer_18_volt_ryobi_one
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_ryobi_one
 id: category_tool_drill_hammer_18_volt_ryobi_one
 id_no_class: tool_drill_hammer_18_volt_ryobi_one
 id_no_size: 18_volt_ryobi_one
 id_no_type: drill_hammer_18_volt_ryobi_one
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_ryobi_one
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer_18_volt_ryobi_one
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer_18_volt_ryobi_one
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer_18_volt_ryobi_one
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_tool_drill_hammer_18_volt_ryobi_one](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_ryobi_one)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_ryobi_one)<br>[Category
-    Tool Drill Hammer 18 Volt Ryobi One](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_ryobi_one)<br><br>'
-markdown_short: '[category_tool_drill_hammer_18_volt_ryobi_one](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_ryobi_one)<br><br>'
+markdown_full: '[category_tool_drill_hammer_18_volt_ryobi_one](none)<br>[](none)<br>[Category
+    Tool Drill Hammer 18 Volt Ryobi One](none)<br><br>'
+markdown_short: '[category_tool_drill_hammer_18_volt_ryobi_one](none)<br><br>'
 md5: 47c5c258bf27a600c7848b3b460c41d6
 md5_10: 47c5c258bf
 md5_10_upper: 47C5C258BF

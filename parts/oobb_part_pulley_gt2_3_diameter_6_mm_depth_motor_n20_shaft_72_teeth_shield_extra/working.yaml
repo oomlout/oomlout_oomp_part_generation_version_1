@@ -1,0 +1,88 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: motor_n20_shaft_72_teeth_shield_extra
+description_extra_capital: Motor N20 Shaft 72 Teeth Shield Extra
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: MOTOR_N20_SHAFT_72_TEETH_SHIELD_EXTRA
+description_main: 3_diameter_6_mm_depth
+description_main_capital: 3 Diameter 6 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_DIAMETER_6_MM_DEPTH
+description_only_numbers: '36'
+description_only_numbers_short: '36'
+description_or_color: '36'
+description_or_color_upper: '36'
+directory: parts/oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra
+distributors: []
+id: oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra
+id_no_class: part_pulley_gt2_3_diameter_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra
+id_no_size: 3_diameter_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra
+id_no_type: pulley_gt2_3_diameter_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra](none)<br>[](none)<br>[Oobb
+    Part Pulley Gt2 3 Diameter 6 Mm Depth Motor N20 Shaft 72 Teeth Shield Extra](none)<br><br>'
+markdown_short: '[oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra](none)<br><br>'
+md5: 147db7c341a777506f3d10a4bed8d463
+md5_10: 147db7c341
+md5_10_upper: 147DB7C341
+md5_5: 147db
+md5_5_upper: 147DB
+md5_6: 147db7
+md5_6_alpha: ss6v
+md5_6_alpha_upper: SS6V
+md5_6_upper: 147DB7
+name: Oobb Part Pulley Gt2 3 Diameter 6 Mm Depth Motor N20 Shaft 72 Teeth Shield Extra
+name_no_class: Part Pulley Gt2 3 Diameter 6 Mm Depth Motor N20 Shaft 72 Teeth Shield
+    Extra
+name_no_size: 3 Diameter 6 Mm Depth Motor N20 Shaft 72 Teeth Shield Extra
+name_no_size_short: 3 Diameter 6 Mm Depth Motor N20 Shaft 72 Teeth Shield Extra
+name_no_type: Pulley Gt2 3 Diameter 6 Mm Depth Motor N20 Shaft 72 Teeth Shield Extra
+oomp_key: oomp_oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_n20_shaft_72_teeth_shield_extra
+oomp_word: fire phone pizza
+oomp_word_emoji: ':fire: :phone: :pizza:'
+oomp_word_emoji_list:
+- ':fire:'
+- ':phone:'
+- ':pizza:'
+oomp_word_list:
+- fire
+- phone
+- pizza
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: pulley_gt2
+size_capital: Pulley Gt2
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: '2'
+size_only_numbers_no_zeros: '2'
+size_upper: PULLEY_GT2
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

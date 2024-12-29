@@ -27,21 +27,22 @@ directory: parts/category_appliance_vacuum_cleaner_dyson_v11_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11_cubby_box
 id: category_appliance_vacuum_cleaner_dyson_v11_cubby_box
 id_no_class: appliance_vacuum_cleaner_dyson_v11_cubby_box
 id_no_size: dyson_v11_cubby_box
 id_no_type: vacuum_cleaner_dyson_v11_cubby_box
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_appliance_vacuum_cleaner_dyson_v11_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11_cubby_box)<br>[Category
-    Appliance Vacuum Cleaner Dyson V11 Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11_cubby_box)<br><br>'
-markdown_short: '[category_appliance_vacuum_cleaner_dyson_v11_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11_cubby_box)<br><br>'
+markdown_full: '[category_appliance_vacuum_cleaner_dyson_v11_cubby_box](none)<br>[](none)<br>[Category
+    Appliance Vacuum Cleaner Dyson V11 Cubby Box](none)<br><br>'
+markdown_short: '[category_appliance_vacuum_cleaner_dyson_v11_cubby_box](none)<br><br>'
 md5: 16931b8197ffba8af14fe5254e39b566
 md5_10: 16931b8197
 md5_10_upper: 16931B8197

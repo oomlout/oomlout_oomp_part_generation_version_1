@@ -46,8 +46,9 @@
     "id_no_type": "2_54_mm_19_pin_through_hole_long",
     "id_no_size": "19_pin_through_hole_long",
     "oomp_key": "oomp_electronic_socket_2_54_mm_19_pin_through_hole_long",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long",
     "directory": "parts/electronic_socket_2_54_mm_19_pin_through_hole_long",
     "name": "Electronic Socket 2 54 Mm 19 Pin Through Hole Long",
     "name_no_class": "Socket 2 54 Mm 19 Pin Through Hole Long",
@@ -85,6 +86,6 @@
     "name_no_size_short": "19 Pin Through Hole Long",
     "description_or_color": "19",
     "description_or_color_upper": "19",
-    "markdown_full": "[electronic_socket_2_54_mm_19_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long)<br>[sci119pthl](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long)<br>[Electronic Socket 2 54 Mm 19 Pin Through Hole Long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long)<br><br>",
-    "markdown_short": "[electronic_socket_2_54_mm_19_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_19_pin_through_hole_long)<br><br>"
+    "markdown_full": "[electronic_socket_2_54_mm_19_pin_through_hole_long](none)<br>[sci119pthl](none)<br>[Electronic Socket 2 54 Mm 19 Pin Through Hole Long](none)<br><br>",
+    "markdown_short": "[electronic_socket_2_54_mm_19_pin_through_hole_long](none)<br><br>"
 }

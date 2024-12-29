@@ -50,8 +50,9 @@
     "id_no_type": "joystick_16_mm_width_16_mm_height",
     "id_no_size": "16_mm_width_16_mm_height",
     "oomp_key": "oomp_category_electronic_joystick_16_mm_width_16_mm_height",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick_16_mm_width_16_mm_height",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick_16_mm_width_16_mm_height",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_joystick_16_mm_width_16_mm_height",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_joystick_16_mm_width_16_mm_height",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_joystick_16_mm_width_16_mm_height",
     "directory": "parts/category_electronic_joystick_16_mm_width_16_mm_height",
     "name": "Category Electronic Joystick 16 Mm Width 16 Mm Height",
     "name_no_class": "Electronic Joystick 16 Mm Width 16 Mm Height",
@@ -89,6 +90,6 @@
     "name_no_size_short": "16 Mm Width 16 Mm Height",
     "description_or_color": "1 ",
     "description_or_color_upper": "1 ",
-    "markdown_full": "[category_electronic_joystick_16_mm_width_16_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick_16_mm_width_16_mm_height)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick_16_mm_width_16_mm_height)<br>[Category Electronic Joystick 16 Mm Width 16 Mm Height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick_16_mm_width_16_mm_height)<br><br>",
-    "markdown_short": "[category_electronic_joystick_16_mm_width_16_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick_16_mm_width_16_mm_height)<br><br>"
+    "markdown_full": "[category_electronic_joystick_16_mm_width_16_mm_height](none)<br>[](none)<br>[Category Electronic Joystick 16 Mm Width 16 Mm Height](none)<br><br>",
+    "markdown_short": "[category_electronic_joystick_16_mm_width_16_mm_height](none)<br><br>"
 }

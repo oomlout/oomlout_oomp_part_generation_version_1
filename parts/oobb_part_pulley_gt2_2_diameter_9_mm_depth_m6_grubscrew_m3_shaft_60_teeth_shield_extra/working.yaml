@@ -1,0 +1,90 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: m6_grubscrew_m3_shaft_60_teeth_shield_extra
+description_extra_capital: M6 Grubscrew M3 Shaft 60 Teeth Shield Extra
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: M6_GRUBSCREW_M3_SHAFT_60_TEETH_SHIELD_EXTRA
+description_main: 2_diameter_9_mm_depth
+description_main_capital: 2 Diameter 9 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 2_DIAMETER_9_MM_DEPTH
+description_only_numbers: '29'
+description_only_numbers_short: '29'
+description_or_color: '29'
+description_or_color_upper: '29'
+directory: parts/oobb_part_pulley_gt2_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_60_teeth_shield_extra
+distributors: []
+id: oobb_part_pulley_gt2_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_60_teeth_shield_extra
+id_no_class: part_pulley_gt2_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_60_teeth_shield_extra
+id_no_size: 2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_60_teeth_shield_extra
+id_no_type: pulley_gt2_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_60_teeth_shield_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_60_teeth_shield_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_60_teeth_shield_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_60_teeth_shield_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_pulley_gt2_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_60_teeth_shield_extra](none)<br>[](none)<br>[Oobb
+    Part Pulley Gt2 2 Diameter 9 Mm Depth M6 Grubscrew M3 Shaft 60 Teeth Shield Extra](none)<br><br>'
+markdown_short: '[oobb_part_pulley_gt2_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_60_teeth_shield_extra](none)<br><br>'
+md5: a75ce261adedb011346cd91cfc2805e7
+md5_10: a75ce261ad
+md5_10_upper: A75CE261AD
+md5_5: a75ce
+md5_5_upper: A75CE
+md5_6: a75ce2
+md5_6_alpha: 6j36q
+md5_6_alpha_upper: 6J36Q
+md5_6_upper: A75CE2
+name: Oobb Part Pulley Gt2 2 Diameter 9 Mm Depth M6 Grubscrew M3 Shaft 60 Teeth Shield
+    Extra
+name_no_class: Part Pulley Gt2 2 Diameter 9 Mm Depth M6 Grubscrew M3 Shaft 60 Teeth
+    Shield Extra
+name_no_size: 2 Diameter 9 Mm Depth M6 Grubscrew M3 Shaft 60 Teeth Shield Extra
+name_no_size_short: 2 Diameter 9 Mm Depth M6 Grubscrew M3 Shaft 60 Teeth Shield Extra
+name_no_type: Pulley Gt2 2 Diameter 9 Mm Depth M6 Grubscrew M3 Shaft 60 Teeth Shield
+    Extra
+oomp_key: oomp_oobb_part_pulley_gt2_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_60_teeth_shield_extra
+oomp_word: guitar ox sailboat
+oomp_word_emoji: ':guitar: :ox: :sailboat:'
+oomp_word_emoji_list:
+- ':guitar:'
+- ':ox:'
+- ':sailboat:'
+oomp_word_list:
+- guitar
+- ox
+- sailboat
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: pulley_gt2
+size_capital: Pulley Gt2
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: '2'
+size_only_numbers_no_zeros: '2'
+size_upper: PULLEY_GT2
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

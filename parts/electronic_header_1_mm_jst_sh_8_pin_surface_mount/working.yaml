@@ -24,13 +24,14 @@ description_or_color: '8'
 description_or_color_upper: '8'
 directory: parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount
 id: electronic_header_1_mm_jst_sh_8_pin_surface_mount
 id_no_class: header_1_mm_jst_sh_8_pin_surface_mount
 id_no_size: 8_pin_surface_mount
 id_no_type: 1_mm_jst_sh_8_pin_surface_mount
 kicad_reference: CONN
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -41,10 +42,10 @@ manufacturers:
     link: https://www.jst-mfg.com/product/index.php?series=231
     name: JST
     part_number: BM08B-SRSS-TB
-markdown_full: '[electronic_header_1_mm_jst_sh_8_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount)<br>[hjsh8psm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount)<br>[Electronic
-    Header 1 Mm Jst Sh 8 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount)<br><br>[JST
-    - BM08B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM08B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM08B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM08B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM08B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM08B-SRSS-TB)<br>'
-markdown_short: '[electronic_header_1_mm_jst_sh_8_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_8_pin_surface_mount)<br><br>[JST
+markdown_full: '[electronic_header_1_mm_jst_sh_8_pin_surface_mount](none)<br>[hjsh8psm](none)<br>[Electronic
+    Header 1 Mm Jst Sh 8 Pin Surface Mount](none)<br><br>[JST - BM08B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)
+    [(L)  ](https://www.lcsc.com/search?q=BM08B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM08B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM08B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM08B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM08B-SRSS-TB)<br>'
+markdown_short: '[electronic_header_1_mm_jst_sh_8_pin_surface_mount](none)<br><br>[JST
     - BM08B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)'
 md5: ff3161c7d8f065f7f00bf6bf9c79e3d4
 md5_10: ff3161c7d8

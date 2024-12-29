@@ -27,21 +27,22 @@ directory: parts/category_aluminium_extrusion_2020_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion_2020_tote
 id: category_aluminium_extrusion_2020_tote
 id_no_class: aluminium_extrusion_2020_tote
 id_no_size: tote
 id_no_type: 2020_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion_2020_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_aluminium_extrusion_2020_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_aluminium_extrusion_2020_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_aluminium_extrusion_2020_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_aluminium_extrusion_2020_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion_2020_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion_2020_tote)<br>[Category
-    Aluminium Extrusion 2020 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion_2020_tote)<br><br>'
-markdown_short: '[category_aluminium_extrusion_2020_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion_2020_tote)<br><br>'
+markdown_full: '[category_aluminium_extrusion_2020_tote](none)<br>[](none)<br>[Category
+    Aluminium Extrusion 2020 Tote](none)<br><br>'
+markdown_short: '[category_aluminium_extrusion_2020_tote](none)<br><br>'
 md5: 70e906c43dab6739b4797c200f111b8f
 md5_10: 70e906c43d
 md5_10_upper: 70E906C43D

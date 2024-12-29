@@ -41,24 +41,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r12o0_electronic_resistor_1206_0_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_0_ohm
 id: electronic_resistor_1206_0_ohm
 id_no_class: resistor_1206_0_ohm
 id_no_size: 0_ohm
 id_no_type: 1206_0_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_0_ohm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_0_ohm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_0_ohm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_0_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_0_ohm)<br>[r12o0](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_0_ohm)<br>[Electronic
-    Resistor 1206 0 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_0_ohm)<br>[LCSC
-    - C17888<br>](https://lcsc.com/product-detail/C17888.html)<br>'
-markdown_short: '[electronic_resistor_1206_0_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_0_ohm)<br>[LCSC
-    - C17888<br>](https://lcsc.com/product-detail/C17888.html)<br>'
+markdown_full: '[electronic_resistor_1206_0_ohm](none)<br>[r12o0](none)<br>[Electronic
+    Resistor 1206 0 Ohm](none)<br>[LCSC - C17888<br>](https://lcsc.com/product-detail/C17888.html)<br>'
+markdown_short: '[electronic_resistor_1206_0_ohm](none)<br>[LCSC - C17888<br>](https://lcsc.com/product-detail/C17888.html)<br>'
 md5: cb80fe6900902f133acee0cef16afa46
 md5_10: cb80fe6900
 md5_10_upper: CB80FE6900

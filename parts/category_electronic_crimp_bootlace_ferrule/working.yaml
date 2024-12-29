@@ -27,21 +27,22 @@ directory: parts/category_electronic_crimp_bootlace_ferrule
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule
 id: category_electronic_crimp_bootlace_ferrule
 id_no_class: electronic_crimp_bootlace_ferrule
 id_no_size: crimp_bootlace_ferrule
 id_no_type: crimp_bootlace_ferrule
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_crimp_bootlace_ferrule](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule)<br>[Category
-    Electronic Crimp Bootlace Ferrule](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule)<br><br>'
-markdown_short: '[category_electronic_crimp_bootlace_ferrule](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule)<br><br>'
+markdown_full: '[category_electronic_crimp_bootlace_ferrule](none)<br>[](none)<br>[Category
+    Electronic Crimp Bootlace Ferrule](none)<br><br>'
+markdown_short: '[category_electronic_crimp_bootlace_ferrule](none)<br><br>'
 md5: af69f18b2316ea5733fd84c921130b0c
 md5_10: af69f18b23
 md5_10_upper: AF69F18B23

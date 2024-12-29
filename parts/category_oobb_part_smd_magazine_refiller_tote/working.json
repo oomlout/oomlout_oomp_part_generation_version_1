@@ -50,8 +50,9 @@
     "id_no_type": "part_smd_magazine_refiller_tote",
     "id_no_size": "smd_magazine_refiller_tote",
     "oomp_key": "oomp_category_oobb_part_smd_magazine_refiller_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_refiller_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_refiller_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine_refiller_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine_refiller_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine_refiller_tote",
     "directory": "parts/category_oobb_part_smd_magazine_refiller_tote",
     "name": "Category Oobb Part Smd Magazine Refiller Tote",
     "name_no_class": "Oobb Part Smd Magazine Refiller Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Smd Magazine Refiller Tote",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_oobb_part_smd_magazine_refiller_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_refiller_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_refiller_tote)<br>[Category Oobb Part Smd Magazine Refiller Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_refiller_tote)<br><br>",
-    "markdown_short": "[category_oobb_part_smd_magazine_refiller_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_refiller_tote)<br><br>"
+    "markdown_full": "[category_oobb_part_smd_magazine_refiller_tote](none)<br>[](none)<br>[Category Oobb Part Smd Magazine Refiller Tote](none)<br><br>",
+    "markdown_short": "[category_oobb_part_smd_magazine_refiller_tote](none)<br><br>"
 }

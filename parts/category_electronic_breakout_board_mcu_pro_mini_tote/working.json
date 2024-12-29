@@ -50,8 +50,9 @@
     "id_no_type": "breakout_board_mcu_pro_mini_tote",
     "id_no_size": "pro_mini_tote",
     "oomp_key": "oomp_category_electronic_breakout_board_mcu_pro_mini_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pro_mini_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pro_mini_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pro_mini_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pro_mini_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pro_mini_tote",
     "directory": "parts/category_electronic_breakout_board_mcu_pro_mini_tote",
     "name": "Category Electronic Breakout Board Mcu Pro Mini Tote",
     "name_no_class": "Electronic Breakout Board Mcu Pro Mini Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Pro Mini Tote",
     "description_or_color": "P ",
     "description_or_color_upper": "P ",
-    "markdown_full": "[category_electronic_breakout_board_mcu_pro_mini_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pro_mini_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pro_mini_tote)<br>[Category Electronic Breakout Board Mcu Pro Mini Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pro_mini_tote)<br><br>",
-    "markdown_short": "[category_electronic_breakout_board_mcu_pro_mini_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pro_mini_tote)<br><br>"
+    "markdown_full": "[category_electronic_breakout_board_mcu_pro_mini_tote](none)<br>[](none)<br>[Category Electronic Breakout Board Mcu Pro Mini Tote](none)<br><br>",
+    "markdown_short": "[category_electronic_breakout_board_mcu_pro_mini_tote](none)<br><br>"
 }

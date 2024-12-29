@@ -26,22 +26,23 @@ directory: parts/electronic_led_3_mm_red_tint
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_red_tint
 id: electronic_led_3_mm_red_tint
 id_no_class: led_3_mm_red_tint
 id_no_size: red_tint
 id_no_type: 3_mm_red_tint
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_red_tint
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_red_tint
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_red_tint
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_red_tint
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_3_mm_red_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_red_tint)<br>[l3r](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_red_tint)<br>[Electronic
-    Led 3 Mm Red Tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_red_tint)<br><br>'
-markdown_short: '[electronic_led_3_mm_red_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_red_tint)<br><br>'
+markdown_full: '[electronic_led_3_mm_red_tint](none)<br>[l3r](none)<br>[Electronic
+    Led 3 Mm Red Tint](none)<br><br>'
+markdown_short: '[electronic_led_3_mm_red_tint](none)<br><br>'
 md5: f9db99d9a7c2c9e0e39011eda785d9b5
 md5_10: f9db99d9a7
 md5_10_upper: F9DB99D9A7

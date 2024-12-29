@@ -27,21 +27,22 @@ directory: parts/category_three_d_printer_printing_low_quality
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality
 id: category_three_d_printer_printing_low_quality
 id_no_class: three_d_printer_printing_low_quality
 id_no_size: low_quality
 id_no_type: printing_low_quality
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_low_quality
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_low_quality
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_low_quality
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_three_d_printer_printing_low_quality](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality)<br>[Category
-    Three D Printer Printing Low Quality](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality)<br><br>'
-markdown_short: '[category_three_d_printer_printing_low_quality](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality)<br><br>'
+markdown_full: '[category_three_d_printer_printing_low_quality](none)<br>[](none)<br>[Category
+    Three D Printer Printing Low Quality](none)<br><br>'
+markdown_short: '[category_three_d_printer_printing_low_quality](none)<br><br>'
 md5: b7f24f836eaa084f89d9aebc5367eb85
 md5_10: b7f24f836e
 md5_10_upper: B7F24F836E

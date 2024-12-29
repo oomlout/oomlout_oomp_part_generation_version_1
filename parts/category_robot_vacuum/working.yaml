@@ -27,21 +27,21 @@ directory: parts/category_robot_vacuum
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum
 id: category_robot_vacuum
 id_no_class: robot_vacuum
 id_no_size: robotvacuum
 id_no_type: robot_vacuum
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_robot_vacuum](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum)<br>[Category
-    Robot Vacuum](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum)<br><br>'
-markdown_short: '[category_robot_vacuum](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum)<br><br>'
+markdown_full: '[category_robot_vacuum](none)<br>[](none)<br>[Category Robot Vacuum](none)<br><br>'
+markdown_short: '[category_robot_vacuum](none)<br><br>'
 md5: 860d64efb1551f9c6eccc794ed827281
 md5_10: 860d64efb1
 md5_10_upper: 860D64EFB1

@@ -27,21 +27,22 @@ directory: parts/category_mechanical_motor_stepper
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper
 id: category_mechanical_motor_stepper
 id_no_class: mechanical_motor_stepper
 id_no_size: motor_stepper
 id_no_type: motor_stepper
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_mechanical_motor_stepper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper)<br>[Category
-    Mechanical Motor Stepper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper)<br><br>'
-markdown_short: '[category_mechanical_motor_stepper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper)<br><br>'
+markdown_full: '[category_mechanical_motor_stepper](none)<br>[](none)<br>[Category
+    Mechanical Motor Stepper](none)<br><br>'
+markdown_short: '[category_mechanical_motor_stepper](none)<br><br>'
 md5: 7f4bff68b5819951cf11e9f9911befd9
 md5_10: 7f4bff68b5
 md5_10_upper: 7F4BFF68B5

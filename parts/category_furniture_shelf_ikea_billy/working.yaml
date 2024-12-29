@@ -27,21 +27,22 @@ directory: parts/category_furniture_shelf_ikea_billy
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_billy
 id: category_furniture_shelf_ikea_billy
 id_no_class: furniture_shelf_ikea_billy
 id_no_size: ikea_billy
 id_no_type: shelf_ikea_billy
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_billy
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_billy
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_billy
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_billy
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_furniture_shelf_ikea_billy](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_billy)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_billy)<br>[Category
-    Furniture Shelf Ikea Billy](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_billy)<br><br>'
-markdown_short: '[category_furniture_shelf_ikea_billy](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_billy)<br><br>'
+markdown_full: '[category_furniture_shelf_ikea_billy](none)<br>[](none)<br>[Category
+    Furniture Shelf Ikea Billy](none)<br><br>'
+markdown_short: '[category_furniture_shelf_ikea_billy](none)<br><br>'
 md5: c157a69745cd234ed5eeada1dd7802b2
 md5_10: c157a69745
 md5_10_upper: C157A69745

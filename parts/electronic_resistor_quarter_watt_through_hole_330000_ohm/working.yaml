@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ro334_electronic_resistor_quarter_watt_through_hole_330000_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_330000_ohm
 id: electronic_resistor_quarter_watt_through_hole_330000_ohm
 id_no_class: resistor_quarter_watt_through_hole_330000_ohm
 id_no_size: 330000_ohm
 id_no_type: quarter_watt_through_hole_330000_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_330000_ohm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_330000_ohm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_330000_ohm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_330000_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_quarter_watt_through_hole_330000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_330000_ohm)<br>[ro334](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_330000_ohm)<br>[Electronic
-    Resistor Quarter Watt Through Hole 330000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_330000_ohm)<br><br>'
-markdown_short: '[electronic_resistor_quarter_watt_through_hole_330000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_330000_ohm)<br><br>'
+markdown_full: '[electronic_resistor_quarter_watt_through_hole_330000_ohm](none)<br>[ro334](none)<br>[Electronic
+    Resistor Quarter Watt Through Hole 330000 Ohm](none)<br><br>'
+markdown_short: '[electronic_resistor_quarter_watt_through_hole_330000_ohm](none)<br><br>'
 md5: 2c6dee64c99fd99d2aff9f2afab87efe
 md5_10: 2c6dee64c9
 md5_10_upper: 2C6DEE64C9

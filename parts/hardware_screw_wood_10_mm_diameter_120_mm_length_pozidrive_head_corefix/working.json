@@ -51,8 +51,9 @@
     "id_no_type": "10_mm_diameter_120_mm_length_pozidrive_head_corefix",
     "id_no_size": "10mmdiameter120mmlengthpozidriveheadcorefix",
     "oomp_key": "oomp_hardware_screw_wood_10_mm_diameter_120_mm_length_pozidrive_head_corefix",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_wood_10_mm_diameter_120_mm_length_pozidrive_head_corefix",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_wood_10_mm_diameter_120_mm_length_pozidrive_head_corefix",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_10_mm_diameter_120_mm_length_pozidrive_head_corefix",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_10_mm_diameter_120_mm_length_pozidrive_head_corefix",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_10_mm_diameter_120_mm_length_pozidrive_head_corefix",
     "directory": "parts/hardware_screw_wood_10_mm_diameter_120_mm_length_pozidrive_head_corefix",
     "name": "Hardware Screw Wood 10 Mm Diameter 120 Mm Length Pozidrive Head Corefix",
     "name_no_class": "Screw Wood 10 Mm Diameter 120 Mm Length Pozidrive Head Corefix",
@@ -90,6 +91,6 @@
     "name_no_size_short": "10Mmdiameter120Mmlengthpozidriveheadcorefix",
     "description_or_color": "10k",
     "description_or_color_upper": "10K",
-    "markdown_full": "[hardware_screw_wood_10_mm_diameter_120_mm_length_pozidrive_head_corefix](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_wood_10_mm_diameter_120_mm_length_pozidrive_head_corefix)<br>[pz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_wood_10_mm_diameter_120_mm_length_pozidrive_head_corefix)<br>[Hardware Screw Wood 10 Mm Diameter 120 Mm Length Pozidrive Head Corefix](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_wood_10_mm_diameter_120_mm_length_pozidrive_head_corefix)<br><br>",
-    "markdown_short": "[hardware_screw_wood_10_mm_diameter_120_mm_length_pozidrive_head_corefix](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_wood_10_mm_diameter_120_mm_length_pozidrive_head_corefix)<br><br>"
+    "markdown_full": "[hardware_screw_wood_10_mm_diameter_120_mm_length_pozidrive_head_corefix](none)<br>[pz](none)<br>[Hardware Screw Wood 10 Mm Diameter 120 Mm Length Pozidrive Head Corefix](none)<br><br>",
+    "markdown_short": "[hardware_screw_wood_10_mm_diameter_120_mm_length_pozidrive_head_corefix](none)<br><br>"
 }

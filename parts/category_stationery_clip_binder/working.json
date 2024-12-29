@@ -50,8 +50,9 @@
     "id_no_type": "clip_binder",
     "id_no_size": "clip_binder",
     "oomp_key": "oomp_category_stationery_clip_binder",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_clip_binder",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_clip_binder",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_clip_binder",
     "directory": "parts/category_stationery_clip_binder",
     "name": "Category Stationery Clip Binder",
     "name_no_class": "Stationery Clip Binder",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Clip Binder",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_stationery_clip_binder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder)<br>[Category Stationery Clip Binder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder)<br><br>",
-    "markdown_short": "[category_stationery_clip_binder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder)<br><br>"
+    "markdown_full": "[category_stationery_clip_binder](none)<br>[](none)<br>[Category Stationery Clip Binder](none)<br><br>",
+    "markdown_short": "[category_stationery_clip_binder](none)<br><br>"
 }

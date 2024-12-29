@@ -26,22 +26,23 @@ directory: parts/hardware_standoff_m3_brass_20_mm_length_screw_and_screw
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_brass_20_mm_length_screw_and_screw
 id: hardware_standoff_m3_brass_20_mm_length_screw_and_screw
 id_no_class: standoff_m3_brass_20_mm_length_screw_and_screw
 id_no_size: brass_20_mm_length_screw_and_screw
 id_no_type: m3_brass_20_mm_length_screw_and_screw
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_brass_20_mm_length_screw_and_screw
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_standoff_m3_brass_20_mm_length_screw_and_screw
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_standoff_m3_brass_20_mm_length_screw_and_screw
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_standoff_m3_brass_20_mm_length_screw_and_screw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_standoff_m3_brass_20_mm_length_screw_and_screw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_brass_20_mm_length_screw_and_screw)<br>[st320](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_brass_20_mm_length_screw_and_screw)<br>[Hardware
-    Standoff M3 Brass 20 Mm Length Screw And Screw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_brass_20_mm_length_screw_and_screw)<br><br>'
-markdown_short: '[hardware_standoff_m3_brass_20_mm_length_screw_and_screw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_brass_20_mm_length_screw_and_screw)<br><br>'
+markdown_full: '[hardware_standoff_m3_brass_20_mm_length_screw_and_screw](none)<br>[st320](none)<br>[Hardware
+    Standoff M3 Brass 20 Mm Length Screw And Screw](none)<br><br>'
+markdown_short: '[hardware_standoff_m3_brass_20_mm_length_screw_and_screw](none)<br><br>'
 md5: 882fd805b32a946db94c90d261d94dc9
 md5_10: 882fd805b3
 md5_10_upper: 882FD805B3

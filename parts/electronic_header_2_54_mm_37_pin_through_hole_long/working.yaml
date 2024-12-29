@@ -32,23 +32,24 @@ distributors:
     link: https://lcsc.com/product-detail/C2883695.html
     name: LCSC
     part_number: C2883695
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_37_pin_through_hole_long
 id: electronic_header_2_54_mm_37_pin_through_hole_long
 id_no_class: header_2_54_mm_37_pin_through_hole_long
 id_no_size: 37_pin_through_hole_long
 id_no_type: 2_54_mm_37_pin_through_hole_long
 kicad_reference: CONN
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_37_pin_through_hole_long
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_37_pin_through_hole_long
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_37_pin_through_hole_long
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_37_pin_through_hole_long
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_header_2_54_mm_37_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_37_pin_through_hole_long)<br>[hi137pthl](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_37_pin_through_hole_long)<br>[Electronic
-    Header 2 54 Mm 37 Pin Through Hole Long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_37_pin_through_hole_long)<br>[LCSC
-    - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>'
-markdown_short: '[electronic_header_2_54_mm_37_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_37_pin_through_hole_long)<br>[LCSC
+markdown_full: '[electronic_header_2_54_mm_37_pin_through_hole_long](none)<br>[hi137pthl](none)<br>[Electronic
+    Header 2 54 Mm 37 Pin Through Hole Long](none)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC
+    - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>'
+markdown_short: '[electronic_header_2_54_mm_37_pin_through_hole_long](none)<br>[LCSC
     - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>'
 md5: 237690371bbc1280416b09d54e4fa969
 md5_10: 237690371b

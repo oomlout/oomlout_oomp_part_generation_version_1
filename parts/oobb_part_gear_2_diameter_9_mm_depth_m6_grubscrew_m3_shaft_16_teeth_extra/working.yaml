@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: m6_grubscrew_m3_shaft_16_teeth_extra
+description_extra_capital: M6 Grubscrew M3 Shaft 16 Teeth Extra
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: M6_GRUBSCREW_M3_SHAFT_16_TEETH_EXTRA
+description_main: 2_diameter_9_mm_depth
+description_main_capital: 2 Diameter 9 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 2_DIAMETER_9_MM_DEPTH
+description_only_numbers: '29'
+description_only_numbers_short: '29'
+description_or_color: '29'
+description_or_color_upper: '29'
+directory: parts/oobb_part_gear_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_16_teeth_extra
+distributors: []
+id: oobb_part_gear_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_16_teeth_extra
+id_no_class: part_gear_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_16_teeth_extra
+id_no_size: 2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_16_teeth_extra
+id_no_type: gear_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_16_teeth_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_16_teeth_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_16_teeth_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_16_teeth_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_gear_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_16_teeth_extra](none)<br>[](none)<br>[Oobb
+    Part Gear 2 Diameter 9 Mm Depth M6 Grubscrew M3 Shaft 16 Teeth Extra](none)<br><br>'
+markdown_short: '[oobb_part_gear_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_16_teeth_extra](none)<br><br>'
+md5: 4196922a0a4a331eab7083d6f7efb173
+md5_10: 4196922a0a
+md5_10_upper: 4196922A0A
+md5_5: '41969'
+md5_5_upper: '41969'
+md5_6: '419692'
+md5_6_alpha: 2k4nm
+md5_6_alpha_upper: 2K4NM
+md5_6_upper: '419692'
+name: Oobb Part Gear 2 Diameter 9 Mm Depth M6 Grubscrew M3 Shaft 16 Teeth Extra
+name_no_class: Part Gear 2 Diameter 9 Mm Depth M6 Grubscrew M3 Shaft 16 Teeth Extra
+name_no_size: 2 Diameter 9 Mm Depth M6 Grubscrew M3 Shaft 16 Teeth Extra
+name_no_size_short: 2 Diameter 9 Mm Depth M6 Grubscrew M3 Shaft 16 Teeth Extra
+name_no_type: Gear 2 Diameter 9 Mm Depth M6 Grubscrew M3 Shaft 16 Teeth Extra
+oomp_key: oomp_oobb_part_gear_2_diameter_9_mm_depth_m6_grubscrew_m3_shaft_16_teeth_extra
+oomp_word: camel basketball paperclip
+oomp_word_emoji: ':camel: :basketball: :paperclip:'
+oomp_word_emoji_list:
+- ':camel:'
+- ':basketball:'
+- ':paperclip:'
+oomp_word_list:
+- camel
+- basketball
+- paperclip
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: gear
+size_capital: Gear
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GEAR
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

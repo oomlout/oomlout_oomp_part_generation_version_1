@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 5_width_3_height_27_mm_depth
+description_main_capital: 5 Width 3 Height 27 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5_WIDTH_3_HEIGHT_27_MM_DEPTH
+description_only_numbers: '5327'
+description_only_numbers_short: 5k3
+description_or_color: 5k3
+description_or_color_upper: 5K3
+directory: parts/oobb_part_tray_thin_5_width_3_height_27_mm_depth
+distributors: []
+id: oobb_part_tray_thin_5_width_3_height_27_mm_depth
+id_no_class: part_tray_thin_5_width_3_height_27_mm_depth
+id_no_size: 5_width_3_height_27_mm_depth
+id_no_type: tray_thin_5_width_3_height_27_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_5_width_3_height_27_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_5_width_3_height_27_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_5_width_3_height_27_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_thin_5_width_3_height_27_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray Thin 5 Width 3 Height 27 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_thin_5_width_3_height_27_mm_depth](none)<br><br>'
+md5: 205cb7ce8240971c216779d74c39bd63
+md5_10: 205cb7ce82
+md5_10_upper: 205CB7CE82
+md5_5: 205cb
+md5_5_upper: 205CB
+md5_6: 205cb7
+md5_6_alpha: 19ghj
+md5_6_alpha_upper: 19GHJ
+md5_6_upper: 205CB7
+name: Oobb Part Tray Thin 5 Width 3 Height 27 Mm Depth
+name_no_class: Part Tray Thin 5 Width 3 Height 27 Mm Depth
+name_no_size: 5 Width 3 Height 27 Mm Depth
+name_no_size_short: 5 Width 3 Height 27 Mm Depth
+name_no_type: Tray Thin 5 Width 3 Height 27 Mm Depth
+oomp_key: oomp_oobb_part_tray_thin_5_width_3_height_27_mm_depth
+oomp_word: skull ox pizza
+oomp_word_emoji: ':skull: :ox: :pizza:'
+oomp_word_emoji_list:
+- ':skull:'
+- ':ox:'
+- ':pizza:'
+oomp_word_list:
+- skull
+- ox
+- pizza
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_thin
+size_capital: Tray Thin
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_THIN
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

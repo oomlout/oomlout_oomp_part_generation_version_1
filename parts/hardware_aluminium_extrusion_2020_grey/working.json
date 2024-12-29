@@ -48,8 +48,9 @@
     "id_no_type": "2020_grey",
     "id_no_size": "grey",
     "oomp_key": "oomp_hardware_aluminium_extrusion_2020_grey",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_aluminium_extrusion_2020_grey",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_aluminium_extrusion_2020_grey",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_aluminium_extrusion_2020_grey",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_aluminium_extrusion_2020_grey",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_aluminium_extrusion_2020_grey",
     "directory": "parts/hardware_aluminium_extrusion_2020_grey",
     "name": "Hardware Aluminium Extrusion 2020 Grey",
     "name_no_class": "Aluminium Extrusion 2020 Grey",
@@ -87,6 +88,6 @@
     "name_no_size_short": "Grey",
     "description_or_color": "G ",
     "description_or_color_upper": "G ",
-    "markdown_full": "[hardware_aluminium_extrusion_2020_grey](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_aluminium_extrusion_2020_grey)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_aluminium_extrusion_2020_grey)<br>[Hardware Aluminium Extrusion 2020 Grey](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_aluminium_extrusion_2020_grey)<br><br>",
-    "markdown_short": "[hardware_aluminium_extrusion_2020_grey](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_aluminium_extrusion_2020_grey)<br><br>"
+    "markdown_full": "[hardware_aluminium_extrusion_2020_grey](none)<br>[](none)<br>[Hardware Aluminium Extrusion 2020 Grey](none)<br><br>",
+    "markdown_short": "[hardware_aluminium_extrusion_2020_grey](none)<br><br>"
 }

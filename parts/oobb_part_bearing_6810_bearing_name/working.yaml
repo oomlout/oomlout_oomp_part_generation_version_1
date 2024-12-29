@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 6810_bearing_name
+description_extra_capital: 6810 Bearing Name
+description_extra_first_letter: '6'
+description_extra_first_letter_upper: '6'
+description_extra_upper: 6810_BEARING_NAME
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_bearing_6810_bearing_name
+distributors: []
+id: oobb_part_bearing_6810_bearing_name
+id_no_class: part_bearing_6810_bearing_name
+id_no_size: 6810_name
+id_no_type: bearing_6810_bearing_name
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6810_bearing_name
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6810_bearing_name
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6810_bearing_name
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bearing_6810_bearing_name](none)<br>[](none)<br>[Oobb Part
+    Bearing 6810 Bearing Name](none)<br><br>'
+markdown_short: '[oobb_part_bearing_6810_bearing_name](none)<br><br>'
+md5: fbc4f1f48c13c37e7fd3d64fa0c65892
+md5_10: fbc4f1f48c
+md5_10_upper: FBC4F1F48C
+md5_5: fbc4f
+md5_5_upper: FBC4F
+md5_6: fbc4f1
+md5_6_alpha: 9tng1
+md5_6_alpha_upper: 9TNG1
+md5_6_upper: FBC4F1
+name: Oobb Part Bearing 6810 Bearing Name
+name_no_class: Part Bearing 6810 Bearing Name
+name_no_size: 6810 Name
+name_no_size_short: 6810 Name
+name_no_type: Bearing 6810 Bearing Name
+oomp_key: oomp_oobb_part_bearing_6810_bearing_name
+oomp_word: ok cookie ticket
+oomp_word_emoji: ':ok: :cookie: :ticket:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':cookie:'
+- ':ticket:'
+oomp_word_list:
+- ok
+- cookie
+- ticket
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bearing
+size_capital: Bearing
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

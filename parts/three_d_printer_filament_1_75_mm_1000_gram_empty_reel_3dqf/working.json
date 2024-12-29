@@ -46,8 +46,9 @@
     "id_no_type": "1_75_mm_1000_gram_empty_reel_3dqf",
     "id_no_size": "empty_reel_3dqf",
     "oomp_key": "oomp_three_d_printer_filament_1_75_mm_1000_gram_empty_reel_3dqf",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_3dqf",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_3dqf",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_3dqf",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_3dqf",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_3dqf",
     "directory": "parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_3dqf",
     "name": "Three D Printer Filament 1 75 Mm 1000 Gram Empty Reel 3Dqf",
     "name_no_class": "Filament 1 75 Mm 1000 Gram Empty Reel 3Dqf",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Empty Reel 3Dqf",
     "description_or_color": "E ",
     "description_or_color_upper": "E ",
-    "markdown_full": "[three_d_printer_filament_1_75_mm_1000_gram_empty_reel_3dqf](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_3dqf)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_3dqf)<br>[Three D Printer Filament 1 75 Mm 1000 Gram Empty Reel 3Dqf](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_3dqf)<br><br>",
-    "markdown_short": "[three_d_printer_filament_1_75_mm_1000_gram_empty_reel_3dqf](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_3dqf)<br><br>"
+    "markdown_full": "[three_d_printer_filament_1_75_mm_1000_gram_empty_reel_3dqf](none)<br>[](none)<br>[Three D Printer Filament 1 75 Mm 1000 Gram Empty Reel 3Dqf](none)<br><br>",
+    "markdown_short": "[three_d_printer_filament_1_75_mm_1000_gram_empty_reel_3dqf](none)<br><br>"
 }

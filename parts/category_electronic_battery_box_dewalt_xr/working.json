@@ -50,8 +50,9 @@
     "id_no_type": "battery_box_dewalt_xr",
     "id_no_size": "dewalt_xr",
     "oomp_key": "oomp_category_electronic_battery_box_dewalt_xr",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr",
     "directory": "parts/category_electronic_battery_box_dewalt_xr",
     "name": "Category Electronic Battery Box Dewalt Xr",
     "name_no_class": "Electronic Battery Box Dewalt Xr",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Dewalt Xr",
     "description_or_color": "D ",
     "description_or_color_upper": "D ",
-    "markdown_full": "[category_electronic_battery_box_dewalt_xr](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr)<br>[Category Electronic Battery Box Dewalt Xr](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr)<br><br>",
-    "markdown_short": "[category_electronic_battery_box_dewalt_xr](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr)<br><br>"
+    "markdown_full": "[category_electronic_battery_box_dewalt_xr](none)<br>[](none)<br>[Category Electronic Battery Box Dewalt Xr](none)<br><br>",
+    "markdown_short": "[category_electronic_battery_box_dewalt_xr](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_hardware_screw_self_tapping_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_self_tapping_tote
 id: category_hardware_screw_self_tapping_tote
 id_no_class: hardware_screw_self_tapping_tote
 id_no_size: tote
 id_no_type: screw_self_tapping_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_self_tapping_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_self_tapping_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_self_tapping_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_self_tapping_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_screw_self_tapping_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_self_tapping_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_self_tapping_tote)<br>[Category
-    Hardware Screw Self Tapping Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_self_tapping_tote)<br><br>'
-markdown_short: '[category_hardware_screw_self_tapping_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_self_tapping_tote)<br><br>'
+markdown_full: '[category_hardware_screw_self_tapping_tote](none)<br>[](none)<br>[Category
+    Hardware Screw Self Tapping Tote](none)<br><br>'
+markdown_short: '[category_hardware_screw_self_tapping_tote](none)<br><br>'
 md5: 6439d2f52a17ba51f7272fdf7d597948
 md5_10: 6439d2f52a
 md5_10_upper: 6439D2F52A

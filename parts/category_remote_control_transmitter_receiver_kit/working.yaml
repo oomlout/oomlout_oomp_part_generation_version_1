@@ -27,21 +27,22 @@ directory: parts/category_remote_control_transmitter_receiver_kit
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit
 id: category_remote_control_transmitter_receiver_kit
 id_no_class: remote_control_transmitter_receiver_kit
 id_no_size: transmitter_receiver_kit
 id_no_type: transmitter_receiver_kit
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_remote_control_transmitter_receiver_kit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit)<br>[Category
-    Remote Control Transmitter Receiver Kit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit)<br><br>'
-markdown_short: '[category_remote_control_transmitter_receiver_kit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit)<br><br>'
+markdown_full: '[category_remote_control_transmitter_receiver_kit](none)<br>[](none)<br>[Category
+    Remote Control Transmitter Receiver Kit](none)<br><br>'
+markdown_short: '[category_remote_control_transmitter_receiver_kit](none)<br><br>'
 md5: 9a20ffd6f8b20d5c96d21ee080b97fe1
 md5_10: 9a20ffd6f8
 md5_10_upper: 9A20FFD6F8

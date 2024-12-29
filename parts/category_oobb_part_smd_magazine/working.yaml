@@ -27,21 +27,22 @@ directory: parts/category_oobb_part_smd_magazine
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine
 id: category_oobb_part_smd_magazine
 id_no_class: oobb_part_smd_magazine
 id_no_size: smd_magazine
 id_no_type: part_smd_magazine
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part_smd_magazine](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine)<br>[Category
-    Oobb Part Smd Magazine](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine)<br><br>'
-markdown_short: '[category_oobb_part_smd_magazine](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine)<br><br>'
+markdown_full: '[category_oobb_part_smd_magazine](none)<br>[](none)<br>[Category Oobb
+    Part Smd Magazine](none)<br><br>'
+markdown_short: '[category_oobb_part_smd_magazine](none)<br><br>'
 md5: 9839ee6c4dfad6557f6ff2b5797c17df
 md5_10: 9839ee6c4d
 md5_10_upper: 9839EE6C4D

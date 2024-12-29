@@ -50,8 +50,9 @@
     "id_no_type": "part_ziptie_holder_jack_tote",
     "id_no_size": "ziptie_holder_jack_tote",
     "oomp_key": "oomp_category_oobb_part_ziptie_holder_jack_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_tote",
     "directory": "parts/category_oobb_part_ziptie_holder_jack_tote",
     "name": "Category Oobb Part Ziptie Holder Jack Tote",
     "name_no_class": "Oobb Part Ziptie Holder Jack Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Ziptie Holder Jack Tote",
     "description_or_color": "Z ",
     "description_or_color_upper": "Z ",
-    "markdown_full": "[category_oobb_part_ziptie_holder_jack_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_tote)<br>[Category Oobb Part Ziptie Holder Jack Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_tote)<br><br>",
-    "markdown_short": "[category_oobb_part_ziptie_holder_jack_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_tote)<br><br>"
+    "markdown_full": "[category_oobb_part_ziptie_holder_jack_tote](none)<br>[](none)<br>[Category Oobb Part Ziptie Holder Jack Tote](none)<br><br>",
+    "markdown_short": "[category_oobb_part_ziptie_holder_jack_tote](none)<br><br>"
 }

@@ -50,8 +50,9 @@
     "id_no_type": "bearing",
     "id_no_size": "bearing",
     "oomp_key": "oomp_category_hardware_bearing",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing",
     "directory": "parts/category_hardware_bearing",
     "name": "Category Hardware Bearing",
     "name_no_class": "Hardware Bearing",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Bearing",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_hardware_bearing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing)<br>[Category Hardware Bearing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing)<br><br>",
-    "markdown_short": "[category_hardware_bearing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing)<br><br>"
+    "markdown_full": "[category_hardware_bearing](none)<br>[](none)<br>[Category Hardware Bearing](none)<br><br>",
+    "markdown_short": "[category_hardware_bearing](none)<br><br>"
 }

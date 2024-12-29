@@ -24,21 +24,22 @@ description_or_color: 'A '
 description_or_color_upper: 'A '
 directory: parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable
 id: electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable
 id_no_class: battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable
 id_no_size: alkaline_1_5_volt_non_rechargable
 id_no_type: aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable)<br>[Electronic
-    Battery Aa Size 14 Mm Diameter 50 Mm Depth Alkaline 1 5 Volt Non Rechargable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable)<br><br>'
-markdown_short: '[electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable)<br><br>'
+markdown_full: '[electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable](none)<br>[](none)<br>[Electronic
+    Battery Aa Size 14 Mm Diameter 50 Mm Depth Alkaline 1 5 Volt Non Rechargable](none)<br><br>'
+markdown_short: '[electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable](none)<br><br>'
 md5: cfa2b92535b223189b2457388473ba00
 md5_10: cfa2b92535
 md5_10_upper: CFA2B92535

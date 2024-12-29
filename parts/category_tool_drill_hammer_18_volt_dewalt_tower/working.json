@@ -50,8 +50,9 @@
     "id_no_type": "drill_hammer_18_volt_dewalt_tower",
     "id_no_size": "18_volt_dewalt_tower",
     "oomp_key": "oomp_category_tool_drill_hammer_18_volt_dewalt_tower",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower",
     "directory": "parts/category_tool_drill_hammer_18_volt_dewalt_tower",
     "name": "Category Tool Drill Hammer 18 Volt Dewalt Tower",
     "name_no_class": "Tool Drill Hammer 18 Volt Dewalt Tower",
@@ -89,6 +90,6 @@
     "name_no_size_short": "18 Volt Dewalt Tower",
     "description_or_color": "1 ",
     "description_or_color_upper": "1 ",
-    "markdown_full": "[category_tool_drill_hammer_18_volt_dewalt_tower](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower)<br>[Category Tool Drill Hammer 18 Volt Dewalt Tower](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower)<br><br>",
-    "markdown_short": "[category_tool_drill_hammer_18_volt_dewalt_tower](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower)<br><br>"
+    "markdown_full": "[category_tool_drill_hammer_18_volt_dewalt_tower](none)<br>[](none)<br>[Category Tool Drill Hammer 18 Volt Dewalt Tower](none)<br><br>",
+    "markdown_short": "[category_tool_drill_hammer_18_volt_dewalt_tower](none)<br><br>"
 }

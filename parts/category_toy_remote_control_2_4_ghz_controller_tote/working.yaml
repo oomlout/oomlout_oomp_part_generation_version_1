@@ -27,21 +27,22 @@ directory: parts/category_toy_remote_control_2_4_ghz_controller_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_tote
 id: category_toy_remote_control_2_4_ghz_controller_tote
 id_no_class: toy_remote_control_2_4_ghz_controller_tote
 id_no_size: 2_4_ghz_controller_tote
 id_no_type: remote_control_2_4_ghz_controller_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_toy_remote_control_2_4_ghz_controller_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_tote)<br>[Category
-    Toy Remote Control 2 4 Ghz Controller Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_tote)<br><br>'
-markdown_short: '[category_toy_remote_control_2_4_ghz_controller_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_tote)<br><br>'
+markdown_full: '[category_toy_remote_control_2_4_ghz_controller_tote](none)<br>[](none)<br>[Category
+    Toy Remote Control 2 4 Ghz Controller Tote](none)<br><br>'
+markdown_short: '[category_toy_remote_control_2_4_ghz_controller_tote](none)<br><br>'
 md5: 9262597134e4e849322087093da0b8bd
 md5_10: '9262597134'
 md5_10_upper: '9262597134'

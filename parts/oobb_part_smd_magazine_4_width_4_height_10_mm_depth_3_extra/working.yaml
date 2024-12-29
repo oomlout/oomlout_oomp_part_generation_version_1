@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 3_extra
+description_extra_capital: 3 Extra
+description_extra_first_letter: '3'
+description_extra_first_letter_upper: '3'
+description_extra_upper: 3_EXTRA
+description_main: 4_width_4_height_10_mm_depth
+description_main_capital: 4 Width 4 Height 10 mm Depth
+description_main_first_letter: '4'
+description_main_first_letter_upper: '4'
+description_main_upper: 4_WIDTH_4_HEIGHT_10_MM_DEPTH
+description_only_numbers: '4410'
+description_only_numbers_short: 4k4
+description_or_color: 4k4
+description_or_color_upper: 4K4
+directory: parts/oobb_part_smd_magazine_4_width_4_height_10_mm_depth_3_extra
+distributors: []
+id: oobb_part_smd_magazine_4_width_4_height_10_mm_depth_3_extra
+id_no_class: part_smd_magazine_4_width_4_height_10_mm_depth_3_extra
+id_no_size: 4_width_4_height_10_mm_depth_3_extra
+id_no_type: smd_magazine_4_width_4_height_10_mm_depth_3_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_4_width_4_height_10_mm_depth_3_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_4_width_4_height_10_mm_depth_3_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_4_width_4_height_10_mm_depth_3_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_smd_magazine_4_width_4_height_10_mm_depth_3_extra](none)<br>[](none)<br>[Oobb
+    Part Smd Magazine 4 Width 4 Height 10 Mm Depth 3 Extra](none)<br><br>'
+markdown_short: '[oobb_part_smd_magazine_4_width_4_height_10_mm_depth_3_extra](none)<br><br>'
+md5: c52a66fb44f1b8b03bc2ee7968229040
+md5_10: c52a66fb44
+md5_10_upper: C52A66FB44
+md5_5: c52a6
+md5_5_upper: C52A6
+md5_6: c52a66
+md5_6_alpha: 7oy92
+md5_6_alpha_upper: 7OY92
+md5_6_upper: C52A66
+name: Oobb Part Smd Magazine 4 Width 4 Height 10 Mm Depth 3 Extra
+name_no_class: Part Smd Magazine 4 Width 4 Height 10 Mm Depth 3 Extra
+name_no_size: 4 Width 4 Height 10 Mm Depth 3 Extra
+name_no_size_short: 4 Width 4 Height 10 Mm Depth 3 Extra
+name_no_type: Smd Magazine 4 Width 4 Height 10 Mm Depth 3 Extra
+oomp_key: oomp_oobb_part_smd_magazine_4_width_4_height_10_mm_depth_3_extra
+oomp_word: candy umbrella leaves
+oomp_word_emoji: ':candy: :umbrella: :leaves:'
+oomp_word_emoji_list:
+- ':candy:'
+- ':umbrella:'
+- ':leaves:'
+oomp_word_list:
+- candy
+- umbrella
+- leaves
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: smd_magazine
+size_capital: Smd Magazine
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SMD_MAGAZINE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

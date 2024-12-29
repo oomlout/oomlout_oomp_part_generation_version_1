@@ -27,21 +27,22 @@ directory: parts/category_food_starch_pasta_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_pasta_tote
 id: category_food_starch_pasta_tote
 id_no_class: food_starch_pasta_tote
 id_no_size: pasta_tote
 id_no_type: starch_pasta_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_pasta_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_pasta_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_pasta_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_pasta_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food_starch_pasta_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_pasta_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_pasta_tote)<br>[Category
-    Food Starch Pasta Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_pasta_tote)<br><br>'
-markdown_short: '[category_food_starch_pasta_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_pasta_tote)<br><br>'
+markdown_full: '[category_food_starch_pasta_tote](none)<br>[](none)<br>[Category Food
+    Starch Pasta Tote](none)<br><br>'
+markdown_short: '[category_food_starch_pasta_tote](none)<br><br>'
 md5: e6af1543c5212294def36cb54a62c675
 md5_10: e6af1543c5
 md5_10_upper: E6AF1543C5

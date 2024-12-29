@@ -27,21 +27,21 @@ directory: parts/category_food
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food
 id: category_food
 id_no_class: food
 id_no_size: food
 id_no_type: food
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food)<br>[Category
-    Food](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food)<br><br>'
-markdown_short: '[category_food](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food)<br><br>'
+markdown_full: '[category_food](none)<br>[](none)<br>[Category Food](none)<br><br>'
+markdown_short: '[category_food](none)<br><br>'
 md5: 5be5173aae95cab4ebaa2a2291968398
 md5_10: 5be5173aae
 md5_10_upper: 5BE5173AAE

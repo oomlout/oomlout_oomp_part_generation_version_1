@@ -50,8 +50,9 @@
     "id_no_type": "remote_control_2_4_ghz_controller_cubby_box",
     "id_no_size": "2_4_ghz_controller_cubby_box",
     "oomp_key": "oomp_category_toy_remote_control_2_4_ghz_controller_cubby_box",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_cubby_box",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_cubby_box",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_cubby_box",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_cubby_box",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_cubby_box",
     "directory": "parts/category_toy_remote_control_2_4_ghz_controller_cubby_box",
     "name": "Category Toy Remote Control 2 4 Ghz Controller Cubby Box",
     "name_no_class": "Toy Remote Control 2 4 Ghz Controller Cubby Box",
@@ -89,6 +90,6 @@
     "name_no_size_short": "2 4 Ghz Controller Cubby Box",
     "description_or_color": "2 ",
     "description_or_color_upper": "2 ",
-    "markdown_full": "[category_toy_remote_control_2_4_ghz_controller_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_cubby_box)<br>[Category Toy Remote Control 2 4 Ghz Controller Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_cubby_box)<br><br>",
-    "markdown_short": "[category_toy_remote_control_2_4_ghz_controller_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_cubby_box)<br><br>"
+    "markdown_full": "[category_toy_remote_control_2_4_ghz_controller_cubby_box](none)<br>[](none)<br>[Category Toy Remote Control 2 4 Ghz Controller Cubby Box](none)<br><br>",
+    "markdown_short": "[category_toy_remote_control_2_4_ghz_controller_cubby_box](none)<br><br>"
 }

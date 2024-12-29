@@ -27,21 +27,22 @@ directory: parts/category_electronic_crimp_housing_2_5_mm_jst_sm_latching_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_sm_latching_tote
 id: category_electronic_crimp_housing_2_5_mm_jst_sm_latching_tote
 id_no_class: electronic_crimp_housing_2_5_mm_jst_sm_latching_tote
 id_no_size: 2_5_mm_jst_sm_latching_tote
 id_no_type: crimp_housing_2_5_mm_jst_sm_latching_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_sm_latching_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_sm_latching_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_sm_latching_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_sm_latching_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_crimp_housing_2_5_mm_jst_sm_latching_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_sm_latching_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_sm_latching_tote)<br>[Category
-    Electronic Crimp Housing 2 5 Mm Jst Sm Latching Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_sm_latching_tote)<br><br>'
-markdown_short: '[category_electronic_crimp_housing_2_5_mm_jst_sm_latching_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_sm_latching_tote)<br><br>'
+markdown_full: '[category_electronic_crimp_housing_2_5_mm_jst_sm_latching_tote](none)<br>[](none)<br>[Category
+    Electronic Crimp Housing 2 5 Mm Jst Sm Latching Tote](none)<br><br>'
+markdown_short: '[category_electronic_crimp_housing_2_5_mm_jst_sm_latching_tote](none)<br><br>'
 md5: cb1c3d3ba6c03bfba938c1c0cef12e10
 md5_10: cb1c3d3ba6
 md5_10_upper: CB1C3D3BA6

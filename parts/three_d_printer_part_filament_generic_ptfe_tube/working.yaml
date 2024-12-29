@@ -24,21 +24,22 @@ description_or_color: 'G '
 description_or_color_upper: 'G '
 directory: parts/three_d_printer_part_filament_generic_ptfe_tube
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube
 id: three_d_printer_part_filament_generic_ptfe_tube
 id_no_class: part_filament_generic_ptfe_tube
 id_no_size: generic_ptfe_tube
 id_no_type: filament_generic_ptfe_tube
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[three_d_printer_part_filament_generic_ptfe_tube](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube)<br>[Three
-    D Printer Part Filament Generic Ptfe Tube](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube)<br><br>'
-markdown_short: '[three_d_printer_part_filament_generic_ptfe_tube](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube)<br><br>'
+markdown_full: '[three_d_printer_part_filament_generic_ptfe_tube](none)<br>[](none)<br>[Three
+    D Printer Part Filament Generic Ptfe Tube](none)<br><br>'
+markdown_short: '[three_d_printer_part_filament_generic_ptfe_tube](none)<br><br>'
 md5: 4ca1ae0f6267da1f67607c506a15109c
 md5_10: 4ca1ae0f62
 md5_10_upper: 4CA1AE0F62

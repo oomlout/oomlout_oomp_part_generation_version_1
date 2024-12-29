@@ -27,21 +27,22 @@ directory: parts/category_electronic_nettie_2_nets_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie_2_nets_tote
 id: category_electronic_nettie_2_nets_tote
 id_no_class: electronic_nettie_2_nets_tote
 id_no_size: 2_nets_tote
 id_no_type: nettie_2_nets_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie_2_nets_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie_2_nets_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie_2_nets_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie_2_nets_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_nettie_2_nets_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie_2_nets_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie_2_nets_tote)<br>[Category
-    Electronic Nettie 2 Nets Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie_2_nets_tote)<br><br>'
-markdown_short: '[category_electronic_nettie_2_nets_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie_2_nets_tote)<br><br>'
+markdown_full: '[category_electronic_nettie_2_nets_tote](none)<br>[](none)<br>[Category
+    Electronic Nettie 2 Nets Tote](none)<br><br>'
+markdown_short: '[category_electronic_nettie_2_nets_tote](none)<br><br>'
 md5: bbf49f63c3354399480101119f3f56ac
 md5_10: bbf49f63c3
 md5_10_upper: BBF49F63C3

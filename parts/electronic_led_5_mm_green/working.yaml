@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l5g_electronic_led_5_mm_green
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_green
 id: electronic_led_5_mm_green
 id_no_class: led_5_mm_green
 id_no_size: green
 id_no_type: 5_mm_green
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_green
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_green
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_green
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_green
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_5_mm_green](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_green)<br>[l5g](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_green)<br>[Electronic
-    Led 5 Mm Green](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_green)<br><br>'
-markdown_short: '[electronic_led_5_mm_green](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_green)<br><br>'
+markdown_full: '[electronic_led_5_mm_green](none)<br>[l5g](none)<br>[Electronic Led
+    5 Mm Green](none)<br><br>'
+markdown_short: '[electronic_led_5_mm_green](none)<br><br>'
 md5: b71b9c3a298ae961a34c3856d35b694e
 md5_10: b71b9c3a29
 md5_10_upper: B71B9C3A29

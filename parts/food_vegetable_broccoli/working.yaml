@@ -27,22 +27,22 @@ directory: parts/food_vegetable_broccoli
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_broccoli
 id: food_vegetable_broccoli
 id_no_class: vegetable_broccoli
 id_no_size: broccoli
 id_no_type: broccoli
 link_distributor_ocado: https://www.ocado.com/search?entry=59106011
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_broccoli
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_broccoli
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_broccoli
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_broccoli
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_vegetable_broccoli](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_broccoli)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_broccoli)<br>[Food
-    Vegetable Broccoli](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_broccoli)<br><br>'
-markdown_short: '[food_vegetable_broccoli](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_broccoli)<br><br>'
+markdown_full: '[food_vegetable_broccoli](none)<br>[](none)<br>[Food Vegetable Broccoli](none)<br><br>'
+markdown_short: '[food_vegetable_broccoli](none)<br><br>'
 md5: c2d910ea8d2d150e3f30fa7bb90bbedb
 md5_10: c2d910ea8d
 md5_10_upper: C2D910EA8D

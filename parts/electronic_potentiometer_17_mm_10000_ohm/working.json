@@ -48,8 +48,9 @@
     "id_no_type": "17_mm_10000_ohm",
     "id_no_size": "10000_ohm",
     "oomp_key": "oomp_electronic_potentiometer_17_mm_10000_ohm",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_potentiometer_17_mm_10000_ohm",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_potentiometer_17_mm_10000_ohm",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_potentiometer_17_mm_10000_ohm",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_potentiometer_17_mm_10000_ohm",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_potentiometer_17_mm_10000_ohm",
     "directory": "parts/electronic_potentiometer_17_mm_10000_ohm",
     "name": "Electronic Potentiometer 17 Mm 10000 Ohm",
     "name_no_class": "Potentiometer 17 Mm 10000 Ohm",
@@ -87,6 +88,6 @@
     "name_no_size_short": "10k Ohm",
     "description_or_color": "10k",
     "description_or_color_upper": "10K",
-    "markdown_full": "[electronic_potentiometer_17_mm_10000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_potentiometer_17_mm_10000_ohm)<br>[pot17o103](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_potentiometer_17_mm_10000_ohm)<br>[Electronic Potentiometer 17 Mm 10000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_potentiometer_17_mm_10000_ohm)<br><br>",
-    "markdown_short": "[electronic_potentiometer_17_mm_10000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_potentiometer_17_mm_10000_ohm)<br><br>"
+    "markdown_full": "[electronic_potentiometer_17_mm_10000_ohm](none)<br>[pot17o103](none)<br>[Electronic Potentiometer 17 Mm 10000 Ohm](none)<br><br>",
+    "markdown_short": "[electronic_potentiometer_17_mm_10000_ohm](none)<br><br>"
 }

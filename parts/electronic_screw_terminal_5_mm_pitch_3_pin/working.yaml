@@ -24,21 +24,22 @@ description_or_color: '3'
 description_or_color_upper: '3'
 directory: parts/electronic_screw_terminal_5_mm_pitch_3_pin
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin
 id: electronic_screw_terminal_5_mm_pitch_3_pin
 id_no_class: screw_terminal_5_mm_pitch_3_pin
 id_no_size: 3_pin
 id_no_type: 5_mm_pitch_3_pin
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_screw_terminal_5_mm_pitch_3_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin)<br>[3p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin)<br>[Electronic
-    Screw Terminal 5 Mm Pitch 3 Pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin)<br><br>'
-markdown_short: '[electronic_screw_terminal_5_mm_pitch_3_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_3_pin)<br><br>'
+markdown_full: '[electronic_screw_terminal_5_mm_pitch_3_pin](none)<br>[3p](none)<br>[Electronic
+    Screw Terminal 5 Mm Pitch 3 Pin](none)<br><br>'
+markdown_short: '[electronic_screw_terminal_5_mm_pitch_3_pin](none)<br><br>'
 md5: f7b34a419b3c06e9277c7dceff50569d
 md5_10: f7b34a419b
 md5_10_upper: F7B34A419B

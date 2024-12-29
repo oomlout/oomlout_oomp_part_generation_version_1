@@ -50,8 +50,9 @@
     "id_no_type": "motor_stepper_nema_17",
     "id_no_size": "nema_17",
     "oomp_key": "oomp_category_mechanical_motor_stepper_nema_17",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17",
     "directory": "parts/category_mechanical_motor_stepper_nema_17",
     "name": "Category Mechanical Motor Stepper Nema 17",
     "name_no_class": "Mechanical Motor Stepper Nema 17",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Nema 17",
     "description_or_color": "N ",
     "description_or_color_upper": "N ",
-    "markdown_full": "[category_mechanical_motor_stepper_nema_17](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17)<br>[Category Mechanical Motor Stepper Nema 17](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17)<br><br>",
-    "markdown_short": "[category_mechanical_motor_stepper_nema_17](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17)<br><br>"
+    "markdown_full": "[category_mechanical_motor_stepper_nema_17](none)<br>[](none)<br>[Category Mechanical Motor Stepper Nema 17](none)<br><br>",
+    "markdown_short": "[category_mechanical_motor_stepper_nema_17](none)<br><br>"
 }

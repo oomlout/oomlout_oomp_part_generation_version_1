@@ -26,21 +26,21 @@ directory: parts/food_bean_lentil_red
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_lentil_red
 id: food_bean_lentil_red
 id_no_class: bean_lentil_red
 id_no_size: lentilred
 id_no_type: lentil_red
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_lentil_red
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_lentil_red
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_lentil_red
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_lentil_red
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_bean_lentil_red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_lentil_red)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_lentil_red)<br>[Food
-    Bean Lentil Red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_lentil_red)<br><br>'
-markdown_short: '[food_bean_lentil_red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_lentil_red)<br><br>'
+markdown_full: '[food_bean_lentil_red](none)<br>[](none)<br>[Food Bean Lentil Red](none)<br><br>'
+markdown_short: '[food_bean_lentil_red](none)<br><br>'
 md5: ee8c7fa4176e16d729244f3543207705
 md5_10: ee8c7fa417
 md5_10_upper: EE8C7FA417

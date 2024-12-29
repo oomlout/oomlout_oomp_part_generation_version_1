@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r6o752_electronic_resistor_0603_7500_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_7500_ohm
 id: electronic_resistor_0603_7500_ohm
 id_no_class: resistor_0603_7500_ohm
 id_no_size: 7500_ohm
 id_no_type: 0603_7500_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_7500_ohm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0603_7500_ohm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0603_7500_ohm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0603_7500_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_0603_7500_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_7500_ohm)<br>[r6o752](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_7500_ohm)<br>[Electronic
-    Resistor 0603 7500 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_7500_ohm)<br><br>'
-markdown_short: '[electronic_resistor_0603_7500_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_7500_ohm)<br><br>'
+markdown_full: '[electronic_resistor_0603_7500_ohm](none)<br>[r6o752](none)<br>[Electronic
+    Resistor 0603 7500 Ohm](none)<br><br>'
+markdown_short: '[electronic_resistor_0603_7500_ohm](none)<br><br>'
 md5: 5f52975beca8e1dd2085e2788b38cd2d
 md5_10: 5f52975bec
 md5_10_upper: 5F52975BEC

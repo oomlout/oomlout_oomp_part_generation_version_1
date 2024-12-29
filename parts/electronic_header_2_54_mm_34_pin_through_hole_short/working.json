@@ -46,8 +46,9 @@
     "id_no_type": "2_54_mm_34_pin_through_hole_short",
     "id_no_size": "34_pin_through_hole_short",
     "oomp_key": "oomp_electronic_header_2_54_mm_34_pin_through_hole_short",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_34_pin_through_hole_short",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_34_pin_through_hole_short",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_34_pin_through_hole_short",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_34_pin_through_hole_short",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_34_pin_through_hole_short",
     "directory": "parts/electronic_header_2_54_mm_34_pin_through_hole_short",
     "name": "Electronic Header 2 54 Mm 34 Pin Through Hole Short",
     "name_no_class": "Header 2 54 Mm 34 Pin Through Hole Short",
@@ -98,6 +99,6 @@
     "name_no_size_short": "34 Pin Through Hole Short",
     "description_or_color": "34",
     "description_or_color_upper": "34",
-    "markdown_full": "[electronic_header_2_54_mm_34_pin_through_hole_short](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_34_pin_through_hole_short)<br>[hi134pths](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_34_pin_through_hole_short)<br>[Electronic Header 2 54 Mm 34 Pin Through Hole Short](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_34_pin_through_hole_short)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>",
-    "markdown_short": "[electronic_header_2_54_mm_34_pin_through_hole_short](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_34_pin_through_hole_short)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>"
+    "markdown_full": "[electronic_header_2_54_mm_34_pin_through_hole_short](none)<br>[hi134pths](none)<br>[Electronic Header 2 54 Mm 34 Pin Through Hole Short](none)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>",
+    "markdown_short": "[electronic_header_2_54_mm_34_pin_through_hole_short](none)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>"
 }

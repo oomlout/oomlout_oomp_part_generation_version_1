@@ -50,8 +50,9 @@
     "id_no_type": "vacuum_cleaner_dyson_v10",
     "id_no_size": "dyson_v10",
     "oomp_key": "oomp_category_appliance_vacuum_cleaner_dyson_v10",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10",
     "directory": "parts/category_appliance_vacuum_cleaner_dyson_v10",
     "name": "Category Appliance Vacuum Cleaner Dyson V10",
     "name_no_class": "Appliance Vacuum Cleaner Dyson V10",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Dyson V10",
     "description_or_color": "D ",
     "description_or_color_upper": "D ",
-    "markdown_full": "[category_appliance_vacuum_cleaner_dyson_v10](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10)<br>[Category Appliance Vacuum Cleaner Dyson V10](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10)<br><br>",
-    "markdown_short": "[category_appliance_vacuum_cleaner_dyson_v10](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10)<br><br>"
+    "markdown_full": "[category_appliance_vacuum_cleaner_dyson_v10](none)<br>[](none)<br>[Category Appliance Vacuum Cleaner Dyson V10](none)<br><br>",
+    "markdown_short": "[category_appliance_vacuum_cleaner_dyson_v10](none)<br><br>"
 }

@@ -26,21 +26,22 @@ directory: parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth
 id: hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth
 id_no_class: bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth
 id_no_size: 16020_size_100_mm_id_150_mm_od_16_mm_depth
 id_no_type: 16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth)<br>[Hardware
-    Bearing 16000 Series 16020 Size 100 Mm Id 150 Mm Od 16 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth)<br><br>'
-markdown_short: '[hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth)<br><br>'
+markdown_full: '[hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth](none)<br>[](none)<br>[Hardware
+    Bearing 16000 Series 16020 Size 100 Mm Id 150 Mm Od 16 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth](none)<br><br>'
 md5: ee54e51ffa7334ac5878188a046ee079
 md5_10: ee54e51ffa
 md5_10_upper: EE54E51FFA

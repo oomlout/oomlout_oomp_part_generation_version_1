@@ -27,21 +27,22 @@ directory: parts/category_oobb_part_bearing_plate_shim
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_plate_shim
 id: category_oobb_part_bearing_plate_shim
 id_no_class: oobb_part_bearing_plate_shim
 id_no_size: bearing_plate_shim
 id_no_type: part_bearing_plate_shim
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_plate_shim
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing_plate_shim
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing_plate_shim
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing_plate_shim
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part_bearing_plate_shim](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_plate_shim)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_plate_shim)<br>[Category
-    Oobb Part Bearing Plate Shim](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_plate_shim)<br><br>'
-markdown_short: '[category_oobb_part_bearing_plate_shim](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_plate_shim)<br><br>'
+markdown_full: '[category_oobb_part_bearing_plate_shim](none)<br>[](none)<br>[Category
+    Oobb Part Bearing Plate Shim](none)<br><br>'
+markdown_short: '[category_oobb_part_bearing_plate_shim](none)<br><br>'
 md5: 0e51230dcb92632fd03cff95c0e86eef
 md5_10: 0e51230dcb
 md5_10_upper: 0E51230DCB

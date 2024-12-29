@@ -27,21 +27,22 @@ directory: parts/category_tool_drill_hammer
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer
 id: category_tool_drill_hammer
 id_no_class: tool_drill_hammer
 id_no_size: drill_hammer
 id_no_type: drill_hammer
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_tool_drill_hammer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer)<br>[Category
-    Tool Drill Hammer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer)<br><br>'
-markdown_short: '[category_tool_drill_hammer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer)<br><br>'
+markdown_full: '[category_tool_drill_hammer](none)<br>[](none)<br>[Category Tool Drill
+    Hammer](none)<br><br>'
+markdown_short: '[category_tool_drill_hammer](none)<br><br>'
 md5: 8360b6e5ccf881fea813ade780294759
 md5_10: 8360b6e5cc
 md5_10_upper: 8360B6E5CC

@@ -50,8 +50,9 @@
     "id_no_type": "interposer_soic_14_wide",
     "id_no_size": "soic_14_wide",
     "oomp_key": "oomp_category_electronic_interposer_soic_14_wide",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer_soic_14_wide",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer_soic_14_wide",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_interposer_soic_14_wide",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_interposer_soic_14_wide",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_interposer_soic_14_wide",
     "directory": "parts/category_electronic_interposer_soic_14_wide",
     "name": "Category Electronic Interposer Soic 14 Wide",
     "name_no_class": "Electronic Interposer Soic 14 Wide",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Soic 14 Wide",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_electronic_interposer_soic_14_wide](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer_soic_14_wide)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer_soic_14_wide)<br>[Category Electronic Interposer Soic 14 Wide](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer_soic_14_wide)<br><br>",
-    "markdown_short": "[category_electronic_interposer_soic_14_wide](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer_soic_14_wide)<br><br>"
+    "markdown_full": "[category_electronic_interposer_soic_14_wide](none)<br>[](none)<br>[Category Electronic Interposer Soic 14 Wide](none)<br><br>",
+    "markdown_short": "[category_electronic_interposer_soic_14_wide](none)<br><br>"
 }

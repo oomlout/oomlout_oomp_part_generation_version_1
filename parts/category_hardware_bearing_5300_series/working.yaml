@@ -27,21 +27,22 @@ directory: parts/category_hardware_bearing_5300_series
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_5300_series
 id: category_hardware_bearing_5300_series
 id_no_class: hardware_bearing_5300_series
 id_no_size: 5300_series
 id_no_type: bearing_5300_series
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_5300_series
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_5300_series
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_5300_series
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_5300_series
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_bearing_5300_series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_5300_series)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_5300_series)<br>[Category
-    Hardware Bearing 5300 Series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_5300_series)<br><br>'
-markdown_short: '[category_hardware_bearing_5300_series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_5300_series)<br><br>'
+markdown_full: '[category_hardware_bearing_5300_series](none)<br>[](none)<br>[Category
+    Hardware Bearing 5300 Series](none)<br><br>'
+markdown_short: '[category_hardware_bearing_5300_series](none)<br><br>'
 md5: e7c8d48f15497bfd729b4bf0384d748c
 md5_10: e7c8d48f15
 md5_10_upper: E7C8D48F15

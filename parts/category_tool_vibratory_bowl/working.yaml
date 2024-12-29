@@ -27,21 +27,22 @@ directory: parts/category_tool_vibratory_bowl
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl
 id: category_tool_vibratory_bowl
 id_no_class: tool_vibratory_bowl
 id_no_size: vibratory_bowl
 id_no_type: vibratory_bowl
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_tool_vibratory_bowl](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl)<br>[Category
-    Tool Vibratory Bowl](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl)<br><br>'
-markdown_short: '[category_tool_vibratory_bowl](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl)<br><br>'
+markdown_full: '[category_tool_vibratory_bowl](none)<br>[](none)<br>[Category Tool
+    Vibratory Bowl](none)<br><br>'
+markdown_short: '[category_tool_vibratory_bowl](none)<br><br>'
 md5: 48b1ed6cf113042032f572b436133ce7
 md5_10: 48b1ed6cf1
 md5_10_upper: 48B1ED6CF1

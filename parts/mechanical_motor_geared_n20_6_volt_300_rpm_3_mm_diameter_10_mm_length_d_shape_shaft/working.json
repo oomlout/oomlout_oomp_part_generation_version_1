@@ -46,8 +46,9 @@
     "id_no_type": "n20_6_volt_300_rpm_3_mm_diameter_10_mm_length_d_shape_shaft",
     "id_no_size": "6_volt_300_rpm_3_mm_diameter_10_mm_length_d_shape_shaft",
     "oomp_key": "oomp_mechanical_motor_geared_n20_6_volt_300_rpm_3_mm_diameter_10_mm_length_d_shape_shaft",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_n20_6_volt_300_rpm_3_mm_diameter_10_mm_length_d_shape_shaft",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_n20_6_volt_300_rpm_3_mm_diameter_10_mm_length_d_shape_shaft",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_geared_n20_6_volt_300_rpm_3_mm_diameter_10_mm_length_d_shape_shaft",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_geared_n20_6_volt_300_rpm_3_mm_diameter_10_mm_length_d_shape_shaft",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_geared_n20_6_volt_300_rpm_3_mm_diameter_10_mm_length_d_shape_shaft",
     "directory": "parts/mechanical_motor_geared_n20_6_volt_300_rpm_3_mm_diameter_10_mm_length_d_shape_shaft",
     "name": "Mechanical Motor Geared N20 6 Volt 300 Rpm 3 Mm Diameter 10 Mm Length D Shape Shaft",
     "name_no_class": "Motor Geared N20 6 Volt 300 Rpm 3 Mm Diameter 10 Mm Length D Shape Shaft",
@@ -85,6 +86,6 @@
     "name_no_size_short": "6 Volt 300 Rpm 3 Mm Diameter 10 Mm Length D Shape Shaft",
     "description_or_color": "6300",
     "description_or_color_upper": "6300",
-    "markdown_full": "[mechanical_motor_geared_n20_6_volt_300_rpm_3_mm_diameter_10_mm_length_d_shape_shaft](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_n20_6_volt_300_rpm_3_mm_diameter_10_mm_length_d_shape_shaft)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_n20_6_volt_300_rpm_3_mm_diameter_10_mm_length_d_shape_shaft)<br>[Mechanical Motor Geared N20 6 Volt 300 Rpm 3 Mm Diameter 10 Mm Length D Shape Shaft](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_n20_6_volt_300_rpm_3_mm_diameter_10_mm_length_d_shape_shaft)<br><br>",
-    "markdown_short": "[mechanical_motor_geared_n20_6_volt_300_rpm_3_mm_diameter_10_mm_length_d_shape_shaft](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_n20_6_volt_300_rpm_3_mm_diameter_10_mm_length_d_shape_shaft)<br><br>"
+    "markdown_full": "[mechanical_motor_geared_n20_6_volt_300_rpm_3_mm_diameter_10_mm_length_d_shape_shaft](none)<br>[](none)<br>[Mechanical Motor Geared N20 6 Volt 300 Rpm 3 Mm Diameter 10 Mm Length D Shape Shaft](none)<br><br>",
+    "markdown_short": "[mechanical_motor_geared_n20_6_volt_300_rpm_3_mm_diameter_10_mm_length_d_shape_shaft](none)<br><br>"
 }

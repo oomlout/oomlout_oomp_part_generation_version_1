@@ -50,8 +50,9 @@
     "id_no_type": "variety_pack_screw_flat_head",
     "id_no_size": "screw_flat_head",
     "oomp_key": "oomp_category_hardware_variety_pack_screw_flat_head",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack_screw_flat_head",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack_screw_flat_head",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_variety_pack_screw_flat_head",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_variety_pack_screw_flat_head",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_variety_pack_screw_flat_head",
     "directory": "parts/category_hardware_variety_pack_screw_flat_head",
     "name": "Category Hardware Variety Pack Screw Flat Head",
     "name_no_class": "Hardware Variety Pack Screw Flat Head",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Screw Flat Head",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_hardware_variety_pack_screw_flat_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack_screw_flat_head)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack_screw_flat_head)<br>[Category Hardware Variety Pack Screw Flat Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack_screw_flat_head)<br><br>",
-    "markdown_short": "[category_hardware_variety_pack_screw_flat_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack_screw_flat_head)<br><br>"
+    "markdown_full": "[category_hardware_variety_pack_screw_flat_head](none)<br>[](none)<br>[Category Hardware Variety Pack Screw Flat Head](none)<br><br>",
+    "markdown_short": "[category_hardware_variety_pack_screw_flat_head](none)<br><br>"
 }

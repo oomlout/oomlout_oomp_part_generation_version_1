@@ -48,8 +48,9 @@
     "id_no_type": "salad_dressing_ranch_bottle_250_ml_newmans_own",
     "id_no_size": "saladdressingranchbottle250mlnewmansown",
     "oomp_key": "oomp_food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own",
     "directory": "parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own",
     "name": "Food Condiment Salad Dressing Ranch Bottle 250 Ml Newmans Own",
     "name_no_class": "Condiment Salad Dressing Ranch Bottle 250 Ml Newmans Own",
@@ -87,6 +88,6 @@
     "name_no_size_short": "Saladdressingranchbottle250Mlnewmansown",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own)<br>[Food Condiment Salad Dressing Ranch Bottle 250 Ml Newmans Own](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own)<br><br>",
-    "markdown_short": "[food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own)<br><br>"
+    "markdown_full": "[food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own](none)<br>[](none)<br>[Food Condiment Salad Dressing Ranch Bottle 250 Ml Newmans Own](none)<br><br>",
+    "markdown_short": "[food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own](none)<br><br>"
 }

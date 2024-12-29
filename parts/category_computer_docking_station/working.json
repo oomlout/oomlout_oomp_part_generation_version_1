@@ -50,8 +50,9 @@
     "id_no_type": "docking_station",
     "id_no_size": "docking_station",
     "oomp_key": "oomp_category_computer_docking_station",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station",
     "directory": "parts/category_computer_docking_station",
     "name": "Category Computer Docking Station",
     "name_no_class": "Computer Docking Station",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Docking Station",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_computer_docking_station](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station)<br>[Category Computer Docking Station](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station)<br><br>",
-    "markdown_short": "[category_computer_docking_station](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station)<br><br>"
+    "markdown_full": "[category_computer_docking_station](none)<br>[](none)<br>[Category Computer Docking Station](none)<br><br>",
+    "markdown_short": "[category_computer_docking_station](none)<br><br>"
 }

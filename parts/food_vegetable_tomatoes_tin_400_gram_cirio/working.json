@@ -51,8 +51,9 @@
     "id_no_type": "tomatoes_tin_400_gram_cirio",
     "id_no_size": "tomatoestin400gramcirio",
     "oomp_key": "oomp_food_vegetable_tomatoes_tin_400_gram_cirio",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_tomatoes_tin_400_gram_cirio",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_tomatoes_tin_400_gram_cirio",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_tomatoes_tin_400_gram_cirio",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_tomatoes_tin_400_gram_cirio",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_tomatoes_tin_400_gram_cirio",
     "directory": "parts/food_vegetable_tomatoes_tin_400_gram_cirio",
     "name": "Food Vegetable Tomatoes Tin 400 Gram Cirio",
     "name_no_class": "Vegetable Tomatoes Tin 400 Gram Cirio",
@@ -90,6 +91,6 @@
     "name_no_size_short": "Tomatoestin400Gramcirio",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[food_vegetable_tomatoes_tin_400_gram_cirio](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_tomatoes_tin_400_gram_cirio)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_tomatoes_tin_400_gram_cirio)<br>[Food Vegetable Tomatoes Tin 400 Gram Cirio](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_tomatoes_tin_400_gram_cirio)<br><br>",
-    "markdown_short": "[food_vegetable_tomatoes_tin_400_gram_cirio](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_tomatoes_tin_400_gram_cirio)<br><br>"
+    "markdown_full": "[food_vegetable_tomatoes_tin_400_gram_cirio](none)<br>[](none)<br>[Food Vegetable Tomatoes Tin 400 Gram Cirio](none)<br><br>",
+    "markdown_short": "[food_vegetable_tomatoes_tin_400_gram_cirio](none)<br><br>"
 }

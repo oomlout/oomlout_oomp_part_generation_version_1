@@ -48,8 +48,9 @@
     "id_no_type": "m6_black_30_mm_length_hex_head",
     "id_no_size": "black_30_mm_length_hex_head",
     "oomp_key": "oomp_hardware_screw_flat_head_m6_black_30_mm_length_hex_head",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m6_black_30_mm_length_hex_head",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m6_black_30_mm_length_hex_head",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_flat_head_m6_black_30_mm_length_hex_head",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_flat_head_m6_black_30_mm_length_hex_head",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_flat_head_m6_black_30_mm_length_hex_head",
     "directory": "parts/hardware_screw_flat_head_m6_black_30_mm_length_hex_head",
     "name": "Hardware Screw Flat Head M6 Black 30 Mm Length Hex Head",
     "name_no_class": "Screw Flat Head M6 Black 30 Mm Length Hex Head",
@@ -87,6 +88,6 @@
     "name_no_size_short": "Black 30 Mm Length Hex Head",
     "description_or_color": "B30",
     "description_or_color_upper": "B30",
-    "markdown_full": "[hardware_screw_flat_head_m6_black_30_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m6_black_30_mm_length_hex_head)<br>[fh6b30h](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m6_black_30_mm_length_hex_head)<br>[Hardware Screw Flat Head M6 Black 30 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m6_black_30_mm_length_hex_head)<br><br>",
-    "markdown_short": "[hardware_screw_flat_head_m6_black_30_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m6_black_30_mm_length_hex_head)<br><br>"
+    "markdown_full": "[hardware_screw_flat_head_m6_black_30_mm_length_hex_head](none)<br>[fh6b30h](none)<br>[Hardware Screw Flat Head M6 Black 30 Mm Length Hex Head](none)<br><br>",
+    "markdown_short": "[hardware_screw_flat_head_m6_black_30_mm_length_hex_head](none)<br><br>"
 }

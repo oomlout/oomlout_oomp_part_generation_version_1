@@ -50,8 +50,9 @@
     "id_no_type": "bag_grip_seal_45_micron_thickness",
     "id_no_size": "45_micron_thickness",
     "oomp_key": "oomp_category_packaging_bag_grip_seal_45_micron_thickness",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness",
     "directory": "parts/category_packaging_bag_grip_seal_45_micron_thickness",
     "name": "Category Packaging Bag Grip Seal 45 Micron Thickness",
     "name_no_class": "Packaging Bag Grip Seal 45 Micron Thickness",
@@ -89,6 +90,6 @@
     "name_no_size_short": "45 Micron Thickness",
     "description_or_color": "4 ",
     "description_or_color_upper": "4 ",
-    "markdown_full": "[category_packaging_bag_grip_seal_45_micron_thickness](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness)<br>[Category Packaging Bag Grip Seal 45 Micron Thickness](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness)<br><br>",
-    "markdown_short": "[category_packaging_bag_grip_seal_45_micron_thickness](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness)<br><br>"
+    "markdown_full": "[category_packaging_bag_grip_seal_45_micron_thickness](none)<br>[](none)<br>[Category Packaging Bag Grip Seal 45 Micron Thickness](none)<br><br>",
+    "markdown_short": "[category_packaging_bag_grip_seal_45_micron_thickness](none)<br><br>"
 }

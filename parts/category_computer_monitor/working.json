@@ -50,8 +50,9 @@
     "id_no_type": "monitor",
     "id_no_size": "monitor",
     "oomp_key": "oomp_category_computer_monitor",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor",
     "directory": "parts/category_computer_monitor",
     "name": "Category Computer Monitor",
     "name_no_class": "Computer Monitor",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Monitor",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_computer_monitor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor)<br>[Category Computer Monitor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor)<br><br>",
-    "markdown_short": "[category_computer_monitor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor)<br><br>"
+    "markdown_full": "[category_computer_monitor](none)<br>[](none)<br>[Category Computer Monitor](none)<br><br>",
+    "markdown_short": "[category_computer_monitor](none)<br><br>"
 }

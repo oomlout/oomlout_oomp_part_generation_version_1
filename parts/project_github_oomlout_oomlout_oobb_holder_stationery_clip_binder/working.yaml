@@ -26,23 +26,22 @@ directory: parts/project_github_oomlout_oomlout_oobb_holder_stationery_clip_bind
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder
 id: project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder
 id_no_class: github_oomlout_oomlout_oobb_holder_stationery_clip_binder
 id_no_size: oobb_holder_stationery_clip_binder
 id_no_type: oomlout_oomlout_oobb_holder_stationery_clip_binder
-link_github: https://github.com/oomlout/oomlout_oobb_holder_stationery_clip_binder
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder
-link_redirect: https://github.com/oomlout/oomlout_oobb_holder_stationery_clip_binder
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder)<br>[Project
-    Github Oomlout Oomlout Oobb Holder Stationery Clip Binder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder)<br><br>'
-markdown_short: '[project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder)<br><br>'
+markdown_full: '[project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Oobb Holder Stationery Clip Binder](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oobb_holder_stationery_clip_binder](none)<br><br>'
 md5: b2b75cbeca9d0ce59614c9eb7ade491c
 md5_10: b2b75cbeca
 md5_10_upper: B2B75CBECA

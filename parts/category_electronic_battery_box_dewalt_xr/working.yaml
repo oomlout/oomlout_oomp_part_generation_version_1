@@ -27,21 +27,22 @@ directory: parts/category_electronic_battery_box_dewalt_xr
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr
 id: category_electronic_battery_box_dewalt_xr
 id_no_class: electronic_battery_box_dewalt_xr
 id_no_size: dewalt_xr
 id_no_type: battery_box_dewalt_xr
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_battery_box_dewalt_xr](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr)<br>[Category
-    Electronic Battery Box Dewalt Xr](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr)<br><br>'
-markdown_short: '[category_electronic_battery_box_dewalt_xr](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr)<br><br>'
+markdown_full: '[category_electronic_battery_box_dewalt_xr](none)<br>[](none)<br>[Category
+    Electronic Battery Box Dewalt Xr](none)<br><br>'
+markdown_short: '[category_electronic_battery_box_dewalt_xr](none)<br><br>'
 md5: 4737ab3be0881bf22ba9b7668243552e
 md5_10: 4737ab3be0
 md5_10_upper: 4737AB3BE0

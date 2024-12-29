@@ -46,8 +46,9 @@
     "id_no_type": "2_54_mm_40_pin_surface_mount_right_angle",
     "id_no_size": "40_pin_surface_mount_right_angle",
     "oomp_key": "oomp_electronic_header_2_54_mm_40_pin_surface_mount_right_angle",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_40_pin_surface_mount_right_angle",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_40_pin_surface_mount_right_angle",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_40_pin_surface_mount_right_angle",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_40_pin_surface_mount_right_angle",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_40_pin_surface_mount_right_angle",
     "directory": "parts/electronic_header_2_54_mm_40_pin_surface_mount_right_angle",
     "name": "Electronic Header 2 54 Mm 40 Pin Surface Mount Right Angle",
     "name_no_class": "Header 2 54 Mm 40 Pin Surface Mount Right Angle",
@@ -98,6 +99,6 @@
     "name_no_size_short": "40 Pin Surface Mount Right Angle",
     "description_or_color": "40",
     "description_or_color_upper": "40",
-    "markdown_full": "[electronic_header_2_54_mm_40_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_40_pin_surface_mount_right_angle)<br>[hi140psmra](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_40_pin_surface_mount_right_angle)<br>[Electronic Header 2 54 Mm 40 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_40_pin_surface_mount_right_angle)<br>[LCSC - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>",
-    "markdown_short": "[electronic_header_2_54_mm_40_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_40_pin_surface_mount_right_angle)<br>[LCSC - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>"
+    "markdown_full": "[electronic_header_2_54_mm_40_pin_surface_mount_right_angle](none)<br>[hi140psmra](none)<br>[Electronic Header 2 54 Mm 40 Pin Surface Mount Right Angle](none)<br>[LCSC - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>",
+    "markdown_short": "[electronic_header_2_54_mm_40_pin_surface_mount_right_angle](none)<br>[LCSC - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>"
 }

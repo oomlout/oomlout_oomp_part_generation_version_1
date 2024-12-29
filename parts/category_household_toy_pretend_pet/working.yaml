@@ -27,21 +27,22 @@ directory: parts/category_household_toy_pretend_pet
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_pet
 id: category_household_toy_pretend_pet
 id_no_class: household_toy_pretend_pet
 id_no_size: pretend_pet
 id_no_type: pretend_pet
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_pet
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_pet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_pet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_pet
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_household_toy_pretend_pet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_pet)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_pet)<br>[Category
-    Household Toy Pretend Pet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_pet)<br><br>'
-markdown_short: '[category_household_toy_pretend_pet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_pet)<br><br>'
+markdown_full: '[category_household_toy_pretend_pet](none)<br>[](none)<br>[Category
+    Household Toy Pretend Pet](none)<br><br>'
+markdown_short: '[category_household_toy_pretend_pet](none)<br><br>'
 md5: c20b5daae85641739608d117efa41dd0
 md5_10: c20b5daae8
 md5_10_upper: C20B5DAAE8

@@ -47,8 +47,9 @@
     "id_no_type": "to_sort",
     "id_no_size": "tosort",
     "oomp_key": "oomp_household_toy_stuffie_to_sort",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_stuffie_to_sort",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_stuffie_to_sort",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/household_toy_stuffie_to_sort",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/household_toy_stuffie_to_sort",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/household_toy_stuffie_to_sort",
     "directory": "parts/household_toy_stuffie_to_sort",
     "name": "Household Toy Stuffie To Sort",
     "name_no_class": "Stuffie To Sort",
@@ -86,6 +87,6 @@
     "name_no_size_short": "Tosort",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[household_toy_stuffie_to_sort](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_stuffie_to_sort)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_stuffie_to_sort)<br>[Household Toy Stuffie To Sort](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_stuffie_to_sort)<br><br>",
-    "markdown_short": "[household_toy_stuffie_to_sort](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_stuffie_to_sort)<br><br>"
+    "markdown_full": "[household_toy_stuffie_to_sort](none)<br>[](none)<br>[Household Toy Stuffie To Sort](none)<br><br>",
+    "markdown_short": "[household_toy_stuffie_to_sort](none)<br><br>"
 }

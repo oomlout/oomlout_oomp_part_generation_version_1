@@ -27,21 +27,22 @@ directory: parts/category_electronic_led_10_mm_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_10_mm_tote
 id: category_electronic_led_10_mm_tote
 id_no_class: electronic_led_10_mm_tote
 id_no_size: 10_mm_tote
 id_no_type: led_10_mm_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_10_mm_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_10_mm_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_10_mm_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_10_mm_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_led_10_mm_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_10_mm_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_10_mm_tote)<br>[Category
-    Electronic Led 10 Mm Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_10_mm_tote)<br><br>'
-markdown_short: '[category_electronic_led_10_mm_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_10_mm_tote)<br><br>'
+markdown_full: '[category_electronic_led_10_mm_tote](none)<br>[](none)<br>[Category
+    Electronic Led 10 Mm Tote](none)<br><br>'
+markdown_short: '[category_electronic_led_10_mm_tote](none)<br><br>'
 md5: 922dc349c16a9d934fe8695762f3f756
 md5_10: 922dc349c1
 md5_10_upper: 922DC349C1

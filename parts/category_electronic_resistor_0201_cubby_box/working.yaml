@@ -27,21 +27,22 @@ directory: parts/category_electronic_resistor_0201_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0201_cubby_box
 id: category_electronic_resistor_0201_cubby_box
 id_no_class: electronic_resistor_0201_cubby_box
 id_no_size: 0201_cubby_box
 id_no_type: resistor_0201_cubby_box
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0201_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_0201_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_0201_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_0201_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_resistor_0201_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0201_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0201_cubby_box)<br>[Category
-    Electronic Resistor 0201 Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0201_cubby_box)<br><br>'
-markdown_short: '[category_electronic_resistor_0201_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0201_cubby_box)<br><br>'
+markdown_full: '[category_electronic_resistor_0201_cubby_box](none)<br>[](none)<br>[Category
+    Electronic Resistor 0201 Cubby Box](none)<br><br>'
+markdown_short: '[category_electronic_resistor_0201_cubby_box](none)<br><br>'
 md5: 1a3d9bb315dc0d815fa1d47e53dec7c2
 md5_10: 1a3d9bb315
 md5_10_upper: 1A3D9BB315

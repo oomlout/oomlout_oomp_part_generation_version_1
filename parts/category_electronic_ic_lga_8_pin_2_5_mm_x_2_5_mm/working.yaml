@@ -27,21 +27,22 @@ directory: parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm
 id: category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm
 id_no_class: electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm
 id_no_size: lga_8_pin_2_5_mm_x_2_5_mm
 id_no_type: ic_lga_8_pin_2_5_mm_x_2_5_mm
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm)<br>[Category
-    Electronic Ic Lga 8 Pin 2 5 Mm X 2 5 Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm)<br><br>'
-markdown_short: '[category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm)<br><br>'
+markdown_full: '[category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm](none)<br>[](none)<br>[Category
+    Electronic Ic Lga 8 Pin 2 5 Mm X 2 5 Mm](none)<br><br>'
+markdown_short: '[category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm](none)<br><br>'
 md5: 755d31d4d7cf0988a4ff29710f7be17b
 md5_10: 755d31d4d7
 md5_10_upper: 755D31D4D7

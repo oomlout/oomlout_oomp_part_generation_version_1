@@ -26,23 +26,22 @@ directory: parts/project_github_oomlout_oomlout_oobb_holder_mechanical_motor_gea
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_mechanical_motor_geared_n20
 id: project_github_oomlout_oomlout_oobb_holder_mechanical_motor_geared_n20
 id_no_class: github_oomlout_oomlout_oobb_holder_mechanical_motor_geared_n20
 id_no_size: oobb_holder_mechanical_motor_geared_n20
 id_no_type: oomlout_oomlout_oobb_holder_mechanical_motor_geared_n20
-link_github: https://github.com/oomlout/oomlout_oobb_holder_mechanical_motor_geared_n20
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_mechanical_motor_geared_n20
-link_redirect: https://github.com/oomlout/oomlout_oobb_holder_mechanical_motor_geared_n20
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_mechanical_motor_geared_n20
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_mechanical_motor_geared_n20
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_mechanical_motor_geared_n20
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_oomlout_oobb_holder_mechanical_motor_geared_n20](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_mechanical_motor_geared_n20)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_mechanical_motor_geared_n20)<br>[Project
-    Github Oomlout Oomlout Oobb Holder Mechanical Motor Geared N20](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_mechanical_motor_geared_n20)<br><br>'
-markdown_short: '[project_github_oomlout_oomlout_oobb_holder_mechanical_motor_geared_n20](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_mechanical_motor_geared_n20)<br><br>'
+markdown_full: '[project_github_oomlout_oomlout_oobb_holder_mechanical_motor_geared_n20](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Oobb Holder Mechanical Motor Geared N20](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oobb_holder_mechanical_motor_geared_n20](none)<br><br>'
 md5: 132a7f87b6c2507eb4a524f3bd5f73ac
 md5_10: 132a7f87b6
 md5_10_upper: 132A7F87B6

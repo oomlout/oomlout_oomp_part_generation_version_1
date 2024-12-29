@@ -27,21 +27,22 @@ directory: parts/category_furniture_shelf_ikea_kallax
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_kallax
 id: category_furniture_shelf_ikea_kallax
 id_no_class: furniture_shelf_ikea_kallax
 id_no_size: ikea_kallax
 id_no_type: shelf_ikea_kallax
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_kallax
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_kallax
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_kallax
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_kallax
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_furniture_shelf_ikea_kallax](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_kallax)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_kallax)<br>[Category
-    Furniture Shelf Ikea Kallax](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_kallax)<br><br>'
-markdown_short: '[category_furniture_shelf_ikea_kallax](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_kallax)<br><br>'
+markdown_full: '[category_furniture_shelf_ikea_kallax](none)<br>[](none)<br>[Category
+    Furniture Shelf Ikea Kallax](none)<br><br>'
+markdown_short: '[category_furniture_shelf_ikea_kallax](none)<br><br>'
 md5: b868039c002c3cc4ffd7f179c7871073
 md5_10: b868039c00
 md5_10_upper: B868039C00

@@ -46,8 +46,9 @@
     "id_no_type": "1_mm_jst_sh_6_pin_surface_mount",
     "id_no_size": "6_pin_surface_mount",
     "oomp_key": "oomp_electronic_header_1_mm_jst_sh_6_pin_surface_mount",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount",
     "directory": "parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount",
     "name": "Electronic Header 1 Mm Jst Sh 6 Pin Surface Mount",
     "name_no_class": "Header 1 Mm Jst Sh 6 Pin Surface Mount",
@@ -93,6 +94,6 @@
     "name_no_size_short": "6 Pin Surface Mount",
     "description_or_color": "6",
     "description_or_color_upper": "6",
-    "markdown_full": "[electronic_header_1_mm_jst_sh_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount)<br>[hjsh6psm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount)<br>[Electronic Header 1 Mm Jst Sh 6 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount)<br><br>[JST - BM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM06B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM06B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM06B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM06B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM06B-SRSS-TB)<br>",
-    "markdown_short": "[electronic_header_1_mm_jst_sh_6_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_6_pin_surface_mount)<br><br>[JST - BM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)"
+    "markdown_full": "[electronic_header_1_mm_jst_sh_6_pin_surface_mount](none)<br>[hjsh6psm](none)<br>[Electronic Header 1 Mm Jst Sh 6 Pin Surface Mount](none)<br><br>[JST - BM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM06B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM06B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM06B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM06B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM06B-SRSS-TB)<br>",
+    "markdown_short": "[electronic_header_1_mm_jst_sh_6_pin_surface_mount](none)<br><br>[JST - BM06B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)"
 }

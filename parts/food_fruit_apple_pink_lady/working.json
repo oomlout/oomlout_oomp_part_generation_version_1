@@ -50,8 +50,9 @@
     "id_no_type": "apple_pink_lady",
     "id_no_size": "applepinklady",
     "oomp_key": "oomp_food_fruit_apple_pink_lady",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_apple_pink_lady",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_apple_pink_lady",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_fruit_apple_pink_lady",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_fruit_apple_pink_lady",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_fruit_apple_pink_lady",
     "directory": "parts/food_fruit_apple_pink_lady",
     "name": "Food Fruit Apple Pink Lady",
     "name_no_class": "Fruit Apple Pink Lady",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Applepinklady",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[food_fruit_apple_pink_lady](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_apple_pink_lady)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_apple_pink_lady)<br>[Food Fruit Apple Pink Lady](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_apple_pink_lady)<br><br>",
-    "markdown_short": "[food_fruit_apple_pink_lady](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_apple_pink_lady)<br><br>"
+    "markdown_full": "[food_fruit_apple_pink_lady](none)<br>[](none)<br>[Food Fruit Apple Pink Lady](none)<br><br>",
+    "markdown_short": "[food_fruit_apple_pink_lady](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_electronic_crimp_housing_2_54_mm_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm_tote
 id: category_electronic_crimp_housing_2_54_mm_tote
 id_no_class: electronic_crimp_housing_2_54_mm_tote
 id_no_size: 2_54_mm_tote
 id_no_type: crimp_housing_2_54_mm_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_crimp_housing_2_54_mm_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm_tote)<br>[Category
-    Electronic Crimp Housing 2 54 Mm Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm_tote)<br><br>'
-markdown_short: '[category_electronic_crimp_housing_2_54_mm_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm_tote)<br><br>'
+markdown_full: '[category_electronic_crimp_housing_2_54_mm_tote](none)<br>[](none)<br>[Category
+    Electronic Crimp Housing 2 54 Mm Tote](none)<br><br>'
+markdown_short: '[category_electronic_crimp_housing_2_54_mm_tote](none)<br><br>'
 md5: 9030da82626bc228ed960a38891cfc87
 md5_10: 9030da8262
 md5_10_upper: 9030DA8262

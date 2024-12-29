@@ -50,8 +50,9 @@
     "id_no_type": "vacuum_cleaner",
     "id_no_size": "vacuum_cleaner",
     "oomp_key": "oomp_category_appliance_vacuum_cleaner",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner",
     "directory": "parts/category_appliance_vacuum_cleaner",
     "name": "Category Appliance Vacuum Cleaner",
     "name_no_class": "Appliance Vacuum Cleaner",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Vacuum Cleaner",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_appliance_vacuum_cleaner](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner)<br>[Category Appliance Vacuum Cleaner](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner)<br><br>",
-    "markdown_short": "[category_appliance_vacuum_cleaner](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner)<br><br>"
+    "markdown_full": "[category_appliance_vacuum_cleaner](none)<br>[](none)<br>[Category Appliance Vacuum Cleaner](none)<br><br>",
+    "markdown_short": "[category_appliance_vacuum_cleaner](none)<br><br>"
 }

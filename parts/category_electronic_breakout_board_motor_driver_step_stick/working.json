@@ -50,8 +50,9 @@
     "id_no_type": "breakout_board_motor_driver_step_stick",
     "id_no_size": "step_stick",
     "oomp_key": "oomp_category_electronic_breakout_board_motor_driver_step_stick",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick",
     "directory": "parts/category_electronic_breakout_board_motor_driver_step_stick",
     "name": "Category Electronic Breakout Board Motor Driver Step Stick",
     "name_no_class": "Electronic Breakout Board Motor Driver Step Stick",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Step Stick",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_electronic_breakout_board_motor_driver_step_stick](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick)<br>[Category Electronic Breakout Board Motor Driver Step Stick](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick)<br><br>",
-    "markdown_short": "[category_electronic_breakout_board_motor_driver_step_stick](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick)<br><br>"
+    "markdown_full": "[category_electronic_breakout_board_motor_driver_step_stick](none)<br>[](none)<br>[Category Electronic Breakout Board Motor Driver Step Stick](none)<br><br>",
+    "markdown_short": "[category_electronic_breakout_board_motor_driver_step_stick](none)<br><br>"
 }

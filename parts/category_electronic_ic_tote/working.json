@@ -50,8 +50,9 @@
     "id_no_type": "ic_tote",
     "id_no_size": "tote",
     "oomp_key": "oomp_category_electronic_ic_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_tote",
     "directory": "parts/category_electronic_ic_tote",
     "name": "Category Electronic Ic Tote",
     "name_no_class": "Electronic Ic Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Tote",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_ic_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_tote)<br>[Category Electronic Ic Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_tote)<br><br>",
-    "markdown_short": "[category_electronic_ic_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_tote)<br><br>"
+    "markdown_full": "[category_electronic_ic_tote](none)<br>[](none)<br>[Category Electronic Ic Tote](none)<br><br>",
+    "markdown_short": "[category_electronic_ic_tote](none)<br><br>"
 }

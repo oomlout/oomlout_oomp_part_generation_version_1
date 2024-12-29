@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/oomp_base_tool",
-    "link_github": "https://github.com/oomlout/oomp_base_tool",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_tool",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_tool",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_oomp_base_tool",
     "id_no_size": "oomp_base_tool",
     "oomp_key": "oomp_project_github_oomlout_oomp_base_tool",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_tool",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_tool",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_tool",
     "directory": "parts/project_github_oomlout_oomp_base_tool",
     "name": "Project Github Oomlout Oomp Base Tool",
     "name_no_class": "Github Oomlout Oomp Base Tool",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Oomp Base Tool",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[project_github_oomlout_oomp_base_tool](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_tool)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_tool)<br>[Project Github Oomlout Oomp Base Tool](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_tool)<br><br>",
-    "markdown_short": "[project_github_oomlout_oomp_base_tool](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_tool)<br><br>"
+    "markdown_full": "[project_github_oomlout_oomp_base_tool](none)<br>[](none)<br>[Project Github Oomlout Oomp Base Tool](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_oomp_base_tool](none)<br><br>"
 }

@@ -50,8 +50,9 @@
     "id_no_type": "mechano",
     "id_no_size": "mechano",
     "oomp_key": "oomp_category_toy_mechano",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_mechano",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_mechano",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_mechano",
     "directory": "parts/category_toy_mechano",
     "name": "Category Toy Mechano",
     "name_no_class": "Toy Mechano",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Mechano",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_toy_mechano](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano)<br>[Category Toy Mechano](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano)<br><br>",
-    "markdown_short": "[category_toy_mechano](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano)<br><br>"
+    "markdown_full": "[category_toy_mechano](none)<br>[](none)<br>[Category Toy Mechano](none)<br><br>",
+    "markdown_short": "[category_toy_mechano](none)<br><br>"
 }

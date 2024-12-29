@@ -50,8 +50,9 @@
     "id_no_type": "breakout_board_mcu_shennie",
     "id_no_size": "shennie",
     "oomp_key": "oomp_category_electronic_breakout_board_mcu_shennie",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie",
     "directory": "parts/category_electronic_breakout_board_mcu_shennie",
     "name": "Category Electronic Breakout Board Mcu Shennie",
     "name_no_class": "Electronic Breakout Board Mcu Shennie",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Shennie",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_electronic_breakout_board_mcu_shennie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie)<br>[Category Electronic Breakout Board Mcu Shennie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie)<br><br>",
-    "markdown_short": "[category_electronic_breakout_board_mcu_shennie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie)<br><br>"
+    "markdown_full": "[category_electronic_breakout_board_mcu_shennie](none)<br>[](none)<br>[Category Electronic Breakout Board Mcu Shennie](none)<br><br>",
+    "markdown_short": "[category_electronic_breakout_board_mcu_shennie](none)<br><br>"
 }

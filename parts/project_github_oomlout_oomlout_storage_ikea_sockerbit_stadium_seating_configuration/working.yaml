@@ -26,23 +26,22 @@ directory: parts/project_github_oomlout_oomlout_storage_ikea_sockerbit_stadium_s
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_storage_ikea_sockerbit_stadium_seating_configuration
 id: project_github_oomlout_oomlout_storage_ikea_sockerbit_stadium_seating_configuration
 id_no_class: github_oomlout_oomlout_storage_ikea_sockerbit_stadium_seating_configuration
 id_no_size: storage_ikea_sockerbit_stadium_seating_configuration
 id_no_type: oomlout_oomlout_storage_ikea_sockerbit_stadium_seating_configuration
-link_github: https://github.com/oomlout/oomlout_storage_ikea_sockerbit_stadium_seating_configuration
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_storage_ikea_sockerbit_stadium_seating_configuration
-link_redirect: https://github.com/oomlout/oomlout_storage_ikea_sockerbit_stadium_seating_configuration
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_storage_ikea_sockerbit_stadium_seating_configuration
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_storage_ikea_sockerbit_stadium_seating_configuration
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_storage_ikea_sockerbit_stadium_seating_configuration
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_oomlout_storage_ikea_sockerbit_stadium_seating_configuration](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_storage_ikea_sockerbit_stadium_seating_configuration)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_storage_ikea_sockerbit_stadium_seating_configuration)<br>[Project
-    Github Oomlout Oomlout Storage Ikea Sockerbit Stadium Seating Configuration](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_storage_ikea_sockerbit_stadium_seating_configuration)<br><br>'
-markdown_short: '[project_github_oomlout_oomlout_storage_ikea_sockerbit_stadium_seating_configuration](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_storage_ikea_sockerbit_stadium_seating_configuration)<br><br>'
+markdown_full: '[project_github_oomlout_oomlout_storage_ikea_sockerbit_stadium_seating_configuration](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Storage Ikea Sockerbit Stadium Seating Configuration](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_storage_ikea_sockerbit_stadium_seating_configuration](none)<br><br>'
 md5: 644428311bed8586acd200931c357a81
 md5_10: 644428311b
 md5_10_upper: 644428311B

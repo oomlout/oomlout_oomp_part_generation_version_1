@@ -27,21 +27,22 @@ directory: parts/category_appliance_vacuum_cleaner_dyson_v10
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10
 id: category_appliance_vacuum_cleaner_dyson_v10
 id_no_class: appliance_vacuum_cleaner_dyson_v10
 id_no_size: dyson_v10
 id_no_type: vacuum_cleaner_dyson_v10
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_appliance_vacuum_cleaner_dyson_v10](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10)<br>[Category
-    Appliance Vacuum Cleaner Dyson V10](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10)<br><br>'
-markdown_short: '[category_appliance_vacuum_cleaner_dyson_v10](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v10)<br><br>'
+markdown_full: '[category_appliance_vacuum_cleaner_dyson_v10](none)<br>[](none)<br>[Category
+    Appliance Vacuum Cleaner Dyson V10](none)<br><br>'
+markdown_short: '[category_appliance_vacuum_cleaner_dyson_v10](none)<br><br>'
 md5: 7578f4dfe9c6f76cbc074a9a53af6e85
 md5_10: 7578f4dfe9
 md5_10_upper: 7578F4DFE9

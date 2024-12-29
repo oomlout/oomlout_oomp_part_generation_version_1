@@ -50,8 +50,9 @@
     "id_no_type": "filament_1_75_mm_1000_gram",
     "id_no_size": "1_75_mm_1000_gram",
     "oomp_key": "oomp_category_three_d_printer_filament_1_75_mm_1000_gram",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram",
     "directory": "parts/category_three_d_printer_filament_1_75_mm_1000_gram",
     "name": "Category Three D Printer Filament 1 75 Mm 1000 Gram",
     "name_no_class": "Three D Printer Filament 1 75 Mm 1000 Gram",
@@ -89,6 +90,6 @@
     "name_no_size_short": "1 75 Mm 1000 Gram",
     "description_or_color": "1 ",
     "description_or_color_upper": "1 ",
-    "markdown_full": "[category_three_d_printer_filament_1_75_mm_1000_gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram)<br>[Category Three D Printer Filament 1 75 Mm 1000 Gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram)<br><br>",
-    "markdown_short": "[category_three_d_printer_filament_1_75_mm_1000_gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram)<br><br>"
+    "markdown_full": "[category_three_d_printer_filament_1_75_mm_1000_gram](none)<br>[](none)<br>[Category Three D Printer Filament 1 75 Mm 1000 Gram](none)<br><br>",
+    "markdown_short": "[category_three_d_printer_filament_1_75_mm_1000_gram](none)<br><br>"
 }

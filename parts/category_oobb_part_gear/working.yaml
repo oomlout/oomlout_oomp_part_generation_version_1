@@ -27,21 +27,22 @@ directory: parts/category_oobb_part_gear
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_gear
 id: category_oobb_part_gear
 id_no_class: oobb_part_gear
 id_no_size: gear
 id_no_type: part_gear
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_gear
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_gear
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_gear
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_gear
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part_gear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_gear)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_gear)<br>[Category
-    Oobb Part Gear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_gear)<br><br>'
-markdown_short: '[category_oobb_part_gear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_gear)<br><br>'
+markdown_full: '[category_oobb_part_gear](none)<br>[](none)<br>[Category Oobb Part
+    Gear](none)<br><br>'
+markdown_short: '[category_oobb_part_gear](none)<br><br>'
 md5: 92f2a96ce75f4a05e5f38c604dd53618
 md5_10: 92f2a96ce7
 md5_10_upper: 92F2A96CE7

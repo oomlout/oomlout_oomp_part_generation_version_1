@@ -27,21 +27,22 @@ directory: parts/category_hardware_bearing_6700_series
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_6700_series
 id: category_hardware_bearing_6700_series
 id_no_class: hardware_bearing_6700_series
 id_no_size: 6700_series
 id_no_type: bearing_6700_series
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_6700_series
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_6700_series
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_6700_series
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_6700_series
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_bearing_6700_series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_6700_series)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_6700_series)<br>[Category
-    Hardware Bearing 6700 Series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_6700_series)<br><br>'
-markdown_short: '[category_hardware_bearing_6700_series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_6700_series)<br><br>'
+markdown_full: '[category_hardware_bearing_6700_series](none)<br>[](none)<br>[Category
+    Hardware Bearing 6700 Series](none)<br><br>'
+markdown_short: '[category_hardware_bearing_6700_series](none)<br><br>'
 md5: 11399065eb304003e2805448a596f6a7
 md5_10: 11399065eb
 md5_10_upper: 11399065EB

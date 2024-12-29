@@ -26,23 +26,22 @@ directory: parts/project_github_oomlout_dlsb_driverboard_v1
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_dlsb_driverboard_v1
 id: project_github_oomlout_dlsb_driverboard_v1
 id_no_class: github_oomlout_dlsb_driverboard_v1
 id_no_size: dlsb_driverboard_v1
 id_no_type: oomlout_dlsb_driverboard_v1
-link_github: https://github.com/oomlout/DLSB-DRIVERBOARD-V1
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_dlsb_driverboard_v1
-link_redirect: https://github.com/oomlout/DLSB-DRIVERBOARD-V1
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_dlsb_driverboard_v1
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_dlsb_driverboard_v1
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_dlsb_driverboard_v1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_dlsb_driverboard_v1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_dlsb_driverboard_v1)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_dlsb_driverboard_v1)<br>[Project
-    Github Oomlout Dlsb Driverboard V1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_dlsb_driverboard_v1)<br><br>'
-markdown_short: '[project_github_oomlout_dlsb_driverboard_v1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_dlsb_driverboard_v1)<br><br>'
+markdown_full: '[project_github_oomlout_dlsb_driverboard_v1](none)<br>[](none)<br>[Project
+    Github Oomlout Dlsb Driverboard V1](none)<br><br>'
+markdown_short: '[project_github_oomlout_dlsb_driverboard_v1](none)<br><br>'
 md5: bc9b71695dbfd6d5c55cd9a61347ec29
 md5_10: bc9b71695d
 md5_10_upper: BC9B71695D

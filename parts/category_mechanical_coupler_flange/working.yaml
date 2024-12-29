@@ -27,21 +27,22 @@ directory: parts/category_mechanical_coupler_flange
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler_flange
 id: category_mechanical_coupler_flange
 id_no_class: mechanical_coupler_flange
 id_no_size: flange
 id_no_type: coupler_flange
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler_flange
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_flange
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_flange
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_flange
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_mechanical_coupler_flange](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler_flange)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler_flange)<br>[Category
-    Mechanical Coupler Flange](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler_flange)<br><br>'
-markdown_short: '[category_mechanical_coupler_flange](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler_flange)<br><br>'
+markdown_full: '[category_mechanical_coupler_flange](none)<br>[](none)<br>[Category
+    Mechanical Coupler Flange](none)<br><br>'
+markdown_short: '[category_mechanical_coupler_flange](none)<br><br>'
 md5: c245064bc8056510fcf6ce504b80e8ce
 md5_10: c245064bc8
 md5_10_upper: C245064BC8

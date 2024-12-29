@@ -24,21 +24,22 @@ description_or_color: 2k
 description_or_color_upper: 2K
 directory: parts/mechanical_solenoid_12_volt_20_mm_diameter_15_mm_depth_3000_gram_capacity
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_20_mm_diameter_15_mm_depth_3000_gram_capacity
 id: mechanical_solenoid_12_volt_20_mm_diameter_15_mm_depth_3000_gram_capacity
 id_no_class: solenoid_12_volt_20_mm_diameter_15_mm_depth_3000_gram_capacity
 id_no_size: 20_mm_diameter_15_mm_depth_3000_gram_capacity
 id_no_type: 12_volt_20_mm_diameter_15_mm_depth_3000_gram_capacity
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_20_mm_diameter_15_mm_depth_3000_gram_capacity
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_20_mm_diameter_15_mm_depth_3000_gram_capacity
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_20_mm_diameter_15_mm_depth_3000_gram_capacity
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_20_mm_diameter_15_mm_depth_3000_gram_capacity
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[mechanical_solenoid_12_volt_20_mm_diameter_15_mm_depth_3000_gram_capacity](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_20_mm_diameter_15_mm_depth_3000_gram_capacity)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_20_mm_diameter_15_mm_depth_3000_gram_capacity)<br>[Mechanical
-    Solenoid 12 Volt 20 Mm Diameter 15 Mm Depth 3000 Gram Capacity](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_20_mm_diameter_15_mm_depth_3000_gram_capacity)<br><br>'
-markdown_short: '[mechanical_solenoid_12_volt_20_mm_diameter_15_mm_depth_3000_gram_capacity](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_20_mm_diameter_15_mm_depth_3000_gram_capacity)<br><br>'
+markdown_full: '[mechanical_solenoid_12_volt_20_mm_diameter_15_mm_depth_3000_gram_capacity](none)<br>[](none)<br>[Mechanical
+    Solenoid 12 Volt 20 Mm Diameter 15 Mm Depth 3000 Gram Capacity](none)<br><br>'
+markdown_short: '[mechanical_solenoid_12_volt_20_mm_diameter_15_mm_depth_3000_gram_capacity](none)<br><br>'
 md5: 345b25e03f0b09eeb3afc80467cc88d5
 md5_10: 345b25e03f
 md5_10_upper: 345B25E03F

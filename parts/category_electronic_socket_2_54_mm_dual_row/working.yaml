@@ -27,21 +27,22 @@ directory: parts/category_electronic_socket_2_54_mm_dual_row
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_2_54_mm_dual_row
 id: category_electronic_socket_2_54_mm_dual_row
 id_no_class: electronic_socket_2_54_mm_dual_row
 id_no_size: 2_54_mm_dual_row
 id_no_type: socket_2_54_mm_dual_row
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_2_54_mm_dual_row
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_2_54_mm_dual_row
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_2_54_mm_dual_row
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_2_54_mm_dual_row
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_socket_2_54_mm_dual_row](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_2_54_mm_dual_row)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_2_54_mm_dual_row)<br>[Category
-    Electronic Socket 2 54 Mm Dual Row](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_2_54_mm_dual_row)<br><br>'
-markdown_short: '[category_electronic_socket_2_54_mm_dual_row](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_2_54_mm_dual_row)<br><br>'
+markdown_full: '[category_electronic_socket_2_54_mm_dual_row](none)<br>[](none)<br>[Category
+    Electronic Socket 2 54 Mm Dual Row](none)<br><br>'
+markdown_short: '[category_electronic_socket_2_54_mm_dual_row](none)<br><br>'
 md5: 0f0e72dff5af28d7fcdebd9471fdcb15
 md5_10: 0f0e72dff5
 md5_10_upper: 0F0E72DFF5

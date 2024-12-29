@@ -27,21 +27,22 @@ directory: parts/category_electronic_led
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led
 id: category_electronic_led
 id_no_class: electronic_led
 id_no_size: led
 id_no_type: led
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_led](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led)<br>[Category
-    Electronic Led](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led)<br><br>'
-markdown_short: '[category_electronic_led](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led)<br><br>'
+markdown_full: '[category_electronic_led](none)<br>[](none)<br>[Category Electronic
+    Led](none)<br><br>'
+markdown_short: '[category_electronic_led](none)<br><br>'
 md5: 640c22dadeb7995f441e20ffdd4dae16
 md5_10: 640c22dade
 md5_10_upper: 640C22DADE

@@ -27,21 +27,22 @@ directory: parts/category_electronic_prototyping_breadboard
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard
 id: category_electronic_prototyping_breadboard
 id_no_class: electronic_prototyping_breadboard
 id_no_size: prototyping_breadboard
 id_no_type: prototyping_breadboard
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_breadboard
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_breadboard
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_breadboard
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_prototyping_breadboard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard)<br>[Category
-    Electronic Prototyping Breadboard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard)<br><br>'
-markdown_short: '[category_electronic_prototyping_breadboard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard)<br><br>'
+markdown_full: '[category_electronic_prototyping_breadboard](none)<br>[](none)<br>[Category
+    Electronic Prototyping Breadboard](none)<br><br>'
+markdown_short: '[category_electronic_prototyping_breadboard](none)<br><br>'
 md5: 1a72920c78a5e4f2cbf94a533f67fac1
 md5_10: 1a72920c78
 md5_10_upper: 1A72920C78

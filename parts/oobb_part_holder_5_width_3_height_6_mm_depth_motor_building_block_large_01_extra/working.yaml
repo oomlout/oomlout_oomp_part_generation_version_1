@@ -1,0 +1,88 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: motor_building_block_large_01_extra
+description_extra_capital: Motor Building Block Large 01 Extra
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: MOTOR_BUILDING_BLOCK_LARGE_01_EXTRA
+description_main: 5_width_3_height_6_mm_depth
+description_main_capital: 5 Width 3 Height 6 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5_WIDTH_3_HEIGHT_6_MM_DEPTH
+description_only_numbers: '536'
+description_only_numbers_short: '536'
+description_or_color: '536'
+description_or_color_upper: '536'
+directory: parts/oobb_part_holder_5_width_3_height_6_mm_depth_motor_building_block_large_01_extra
+distributors: []
+id: oobb_part_holder_5_width_3_height_6_mm_depth_motor_building_block_large_01_extra
+id_no_class: part_holder_5_width_3_height_6_mm_depth_motor_building_block_large_01_extra
+id_no_size: 5_width_3_height_6_mm_depth_motor_building_block_large_01_extra
+id_no_type: holder_5_width_3_height_6_mm_depth_motor_building_block_large_01_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_5_width_3_height_6_mm_depth_motor_building_block_large_01_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_5_width_3_height_6_mm_depth_motor_building_block_large_01_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_5_width_3_height_6_mm_depth_motor_building_block_large_01_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_holder_5_width_3_height_6_mm_depth_motor_building_block_large_01_extra](none)<br>[](none)<br>[Oobb
+    Part Holder 5 Width 3 Height 6 Mm Depth Motor Building Block Large 01 Extra](none)<br><br>'
+markdown_short: '[oobb_part_holder_5_width_3_height_6_mm_depth_motor_building_block_large_01_extra](none)<br><br>'
+md5: 2096116ea3989989ddc36c3db9ffec81
+md5_10: 2096116ea3
+md5_10_upper: 2096116EA3
+md5_5: '20961'
+md5_5_upper: '20961'
+md5_6: '209611'
+md5_6_alpha: 19rtd
+md5_6_alpha_upper: 19RTD
+md5_6_upper: '209611'
+name: Oobb Part Holder 5 Width 3 Height 6 Mm Depth Motor Building Block Large 01 Extra
+name_no_class: Part Holder 5 Width 3 Height 6 Mm Depth Motor Building Block Large
+    01 Extra
+name_no_size: 5 Width 3 Height 6 Mm Depth Motor Building Block Large 01 Extra
+name_no_size_short: 5 Width 3 Height 6 Mm Depth Motor Building Block Large 01 Extra
+name_no_type: Holder 5 Width 3 Height 6 Mm Depth Motor Building Block Large 01 Extra
+oomp_key: oomp_oobb_part_holder_5_width_3_height_6_mm_depth_motor_building_block_large_01_extra
+oomp_word: skull basketball dizzy
+oomp_word_emoji: ':skull: :basketball: :dizzy:'
+oomp_word_emoji_list:
+- ':skull:'
+- ':basketball:'
+- ':dizzy:'
+oomp_word_list:
+- skull
+- basketball
+- dizzy
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: holder
+size_capital: Holder
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOLDER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

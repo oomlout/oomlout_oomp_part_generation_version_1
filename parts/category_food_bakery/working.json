@@ -50,8 +50,9 @@
     "id_no_type": "bakery",
     "id_no_size": "bakery",
     "oomp_key": "oomp_category_food_bakery",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bakery",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bakery",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_bakery",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_bakery",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_bakery",
     "directory": "parts/category_food_bakery",
     "name": "Category Food Bakery",
     "name_no_class": "Food Bakery",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Bakery",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_food_bakery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bakery)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bakery)<br>[Category Food Bakery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bakery)<br><br>",
-    "markdown_short": "[category_food_bakery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bakery)<br><br>"
+    "markdown_full": "[category_food_bakery](none)<br>[](none)<br>[Category Food Bakery](none)<br><br>",
+    "markdown_short": "[category_food_bakery](none)<br><br>"
 }

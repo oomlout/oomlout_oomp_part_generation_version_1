@@ -50,8 +50,9 @@
     "id_no_type": "company_oomlout",
     "id_no_size": "companyoomlout",
     "oomp_key": "oomp_category_company_oomlout",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout",
     "directory": "parts/category_company_oomlout",
     "name": "Category Company Oomlout",
     "name_no_class": "Company Oomlout",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Companyoomlout",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_company_oomlout](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout)<br>[Category Company Oomlout](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout)<br><br>",
-    "markdown_short": "[category_company_oomlout](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout)<br><br>"
+    "markdown_full": "[category_company_oomlout](none)<br>[](none)<br>[Category Company Oomlout](none)<br><br>",
+    "markdown_short": "[category_company_oomlout](none)<br><br>"
 }

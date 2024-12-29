@@ -50,8 +50,9 @@
     "id_no_type": "solenoid",
     "id_no_size": "solenoid",
     "oomp_key": "oomp_category_mechanical_solenoid",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid",
     "directory": "parts/category_mechanical_solenoid",
     "name": "Category Mechanical Solenoid",
     "name_no_class": "Mechanical Solenoid",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Solenoid",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_mechanical_solenoid](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid)<br>[Category Mechanical Solenoid](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid)<br><br>",
-    "markdown_short": "[category_mechanical_solenoid](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid)<br><br>"
+    "markdown_full": "[category_mechanical_solenoid](none)<br>[](none)<br>[Category Mechanical Solenoid](none)<br><br>",
+    "markdown_short": "[category_mechanical_solenoid](none)<br><br>"
 }

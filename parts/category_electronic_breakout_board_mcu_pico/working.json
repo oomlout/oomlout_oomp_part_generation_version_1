@@ -50,8 +50,9 @@
     "id_no_type": "breakout_board_mcu_pico",
     "id_no_size": "pico",
     "oomp_key": "oomp_category_electronic_breakout_board_mcu_pico",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico",
     "directory": "parts/category_electronic_breakout_board_mcu_pico",
     "name": "Category Electronic Breakout Board Mcu Pico",
     "name_no_class": "Electronic Breakout Board Mcu Pico",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Pico",
     "description_or_color": "P ",
     "description_or_color_upper": "P ",
-    "markdown_full": "[category_electronic_breakout_board_mcu_pico](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico)<br>[Category Electronic Breakout Board Mcu Pico](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico)<br><br>",
-    "markdown_short": "[category_electronic_breakout_board_mcu_pico](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico)<br><br>"
+    "markdown_full": "[category_electronic_breakout_board_mcu_pico](none)<br>[](none)<br>[Category Electronic Breakout Board Mcu Pico](none)<br><br>",
+    "markdown_short": "[category_electronic_breakout_board_mcu_pico](none)<br><br>"
 }

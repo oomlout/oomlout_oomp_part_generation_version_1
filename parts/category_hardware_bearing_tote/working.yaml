@@ -27,21 +27,22 @@ directory: parts/category_hardware_bearing_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_tote
 id: category_hardware_bearing_tote
 id_no_class: hardware_bearing_tote
 id_no_size: tote
 id_no_type: bearing_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_bearing_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_tote)<br>[Category
-    Hardware Bearing Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_tote)<br><br>'
-markdown_short: '[category_hardware_bearing_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_tote)<br><br>'
+markdown_full: '[category_hardware_bearing_tote](none)<br>[](none)<br>[Category Hardware
+    Bearing Tote](none)<br><br>'
+markdown_short: '[category_hardware_bearing_tote](none)<br><br>'
 md5: dee8b87cc094d0a02129a807bc19993a
 md5_10: dee8b87cc0
 md5_10_upper: DEE8B87CC0

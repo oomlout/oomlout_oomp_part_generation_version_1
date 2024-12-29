@@ -24,21 +24,22 @@ description_or_color: 6142k
 description_or_color_upper: 6142K
 directory: parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_142_teeth_284_mm_circumference
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_142_teeth_284_mm_circumference
 id: mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_142_teeth_284_mm_circumference
 id_no_class: timing_belt_2gt_2_mm_pitch_6_mm_belt_width_142_teeth_284_mm_circumference
 id_no_size: 6_mm_belt_width_142_teeth_284_mm_circumference
 id_no_type: 2gt_2_mm_pitch_6_mm_belt_width_142_teeth_284_mm_circumference
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_142_teeth_284_mm_circumference
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_142_teeth_284_mm_circumference
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_142_teeth_284_mm_circumference
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_142_teeth_284_mm_circumference
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_142_teeth_284_mm_circumference](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_142_teeth_284_mm_circumference)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_142_teeth_284_mm_circumference)<br>[Mechanical
-    Timing Belt 2Gt 2 Mm Pitch 6 Mm Belt Width 142 Teeth 284 Mm Circumference](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_142_teeth_284_mm_circumference)<br><br>'
-markdown_short: '[mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_142_teeth_284_mm_circumference](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_142_teeth_284_mm_circumference)<br><br>'
+markdown_full: '[mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_142_teeth_284_mm_circumference](none)<br>[](none)<br>[Mechanical
+    Timing Belt 2Gt 2 Mm Pitch 6 Mm Belt Width 142 Teeth 284 Mm Circumference](none)<br><br>'
+markdown_short: '[mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_142_teeth_284_mm_circumference](none)<br><br>'
 md5: 450e9346114e352806b86f3bfbeb0941
 md5_10: 450e934611
 md5_10_upper: 450E934611

@@ -50,8 +50,9 @@
     "id_no_type": "socket_usb_micro",
     "id_no_size": "usb_micro",
     "oomp_key": "oomp_category_electronic_socket_usb_micro",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_micro",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_micro",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_micro",
     "directory": "parts/category_electronic_socket_usb_micro",
     "name": "Category Electronic Socket Usb Micro",
     "name_no_class": "Electronic Socket Usb Micro",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Usb Micro",
     "description_or_color": "U ",
     "description_or_color_upper": "U ",
-    "markdown_full": "[category_electronic_socket_usb_micro](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro)<br>[Category Electronic Socket Usb Micro](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro)<br><br>",
-    "markdown_short": "[category_electronic_socket_usb_micro](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_micro)<br><br>"
+    "markdown_full": "[category_electronic_socket_usb_micro](none)<br>[](none)<br>[Category Electronic Socket Usb Micro](none)<br><br>",
+    "markdown_short": "[category_electronic_socket_usb_micro](none)<br><br>"
 }

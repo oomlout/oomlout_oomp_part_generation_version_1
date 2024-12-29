@@ -26,23 +26,22 @@ directory: parts/project_github_oomlout_oomlout_decorative_wall_mount_poster_bra
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_poster_bracket
 id: project_github_oomlout_oomlout_decorative_wall_mount_poster_bracket
 id_no_class: github_oomlout_oomlout_decorative_wall_mount_poster_bracket
 id_no_size: decorative_wall_mount_poster_bracket
 id_no_type: oomlout_oomlout_decorative_wall_mount_poster_bracket
-link_github: https://github.com/oomlout/oomlout_decorative_wall_mount_poster_bracket
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_poster_bracket
-link_redirect: https://github.com/oomlout/oomlout_decorative_wall_mount_poster_bracket
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_poster_bracket
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_poster_bracket
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_poster_bracket
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_oomlout_decorative_wall_mount_poster_bracket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_poster_bracket)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_poster_bracket)<br>[Project
-    Github Oomlout Oomlout Decorative Wall Mount Poster Bracket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_poster_bracket)<br><br>'
-markdown_short: '[project_github_oomlout_oomlout_decorative_wall_mount_poster_bracket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_poster_bracket)<br><br>'
+markdown_full: '[project_github_oomlout_oomlout_decorative_wall_mount_poster_bracket](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Decorative Wall Mount Poster Bracket](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_decorative_wall_mount_poster_bracket](none)<br><br>'
 md5: 54747b090f67225cf0a71a93d96de4fa
 md5_10: 54747b090f
 md5_10_upper: 54747B090F

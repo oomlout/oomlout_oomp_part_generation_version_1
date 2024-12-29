@@ -27,21 +27,21 @@ directory: parts/category_camera
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera
 id: category_camera
 id_no_class: camera
 id_no_size: camera
 id_no_type: camera
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_camera](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera)<br>[Category
-    Camera](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera)<br><br>'
-markdown_short: '[category_camera](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera)<br><br>'
+markdown_full: '[category_camera](none)<br>[](none)<br>[Category Camera](none)<br><br>'
+markdown_short: '[category_camera](none)<br><br>'
 md5: 902fcc4488496a26c3223d9cc6e88d5e
 md5_10: 902fcc4488
 md5_10_upper: 902FCC4488

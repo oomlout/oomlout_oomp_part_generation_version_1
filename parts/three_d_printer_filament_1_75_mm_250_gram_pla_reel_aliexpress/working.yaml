@@ -24,21 +24,22 @@ description_or_color: 'P '
 description_or_color_upper: 'P '
 directory: parts/three_d_printer_filament_1_75_mm_250_gram_pla_reel_aliexpress
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_250_gram_pla_reel_aliexpress
 id: three_d_printer_filament_1_75_mm_250_gram_pla_reel_aliexpress
 id_no_class: filament_1_75_mm_250_gram_pla_reel_aliexpress
 id_no_size: pla_reel_aliexpress
 id_no_type: 1_75_mm_250_gram_pla_reel_aliexpress
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_250_gram_pla_reel_aliexpress
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_250_gram_pla_reel_aliexpress
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_250_gram_pla_reel_aliexpress
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_250_gram_pla_reel_aliexpress
 manufacturer: aliexpress
 manufacturer_capital: Aliexpress
 manufacturer_first_letter: a
 manufacturer_first_letter_upper: A
 manufacturer_upper: ALIEXPRESS
 manufacturers: []
-markdown_full: '[three_d_printer_filament_1_75_mm_250_gram_pla_reel_aliexpress](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_250_gram_pla_reel_aliexpress)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_250_gram_pla_reel_aliexpress)<br>[Three
-    D Printer Filament 1 75 Mm 250 Gram Pla Reel Aliexpress](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_250_gram_pla_reel_aliexpress)<br><br>'
-markdown_short: '[three_d_printer_filament_1_75_mm_250_gram_pla_reel_aliexpress](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_250_gram_pla_reel_aliexpress)<br><br>'
+markdown_full: '[three_d_printer_filament_1_75_mm_250_gram_pla_reel_aliexpress](none)<br>[](none)<br>[Three
+    D Printer Filament 1 75 Mm 250 Gram Pla Reel Aliexpress](none)<br><br>'
+markdown_short: '[three_d_printer_filament_1_75_mm_250_gram_pla_reel_aliexpress](none)<br><br>'
 md5: 3ec76d203817c2889421c7543661d7a0
 md5_10: 3ec76d2038
 md5_10_upper: 3EC76D2038

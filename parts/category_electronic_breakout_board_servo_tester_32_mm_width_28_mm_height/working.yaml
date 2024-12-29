@@ -27,21 +27,22 @@ directory: parts/category_electronic_breakout_board_servo_tester_32_mm_width_28_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height
 id: category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height
 id_no_class: electronic_breakout_board_servo_tester_32_mm_width_28_mm_height
 id_no_size: 32_mm_width_28_mm_height
 id_no_type: breakout_board_servo_tester_32_mm_width_28_mm_height
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height)<br>[Category
-    Electronic Breakout Board Servo Tester 32 Mm Width 28 Mm Height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height)<br><br>'
-markdown_short: '[category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height)<br><br>'
+markdown_full: '[category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height](none)<br>[](none)<br>[Category
+    Electronic Breakout Board Servo Tester 32 Mm Width 28 Mm Height](none)<br><br>'
+markdown_short: '[category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height](none)<br><br>'
 md5: 4018cad741feed2242ca5961491bdbc5
 md5_10: 4018cad741
 md5_10_upper: 4018CAD741

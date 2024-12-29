@@ -50,8 +50,9 @@
     "id_no_type": "cabinet_ikea_havsta",
     "id_no_size": "ikea_havsta",
     "oomp_key": "oomp_category_furniture_cabinet_ikea_havsta",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta",
     "directory": "parts/category_furniture_cabinet_ikea_havsta",
     "name": "Category Furniture Cabinet Ikea Havsta",
     "name_no_class": "Furniture Cabinet Ikea Havsta",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Ikea Havsta",
     "description_or_color": "I ",
     "description_or_color_upper": "I ",
-    "markdown_full": "[category_furniture_cabinet_ikea_havsta](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta)<br>[Category Furniture Cabinet Ikea Havsta](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta)<br><br>",
-    "markdown_short": "[category_furniture_cabinet_ikea_havsta](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta)<br><br>"
+    "markdown_full": "[category_furniture_cabinet_ikea_havsta](none)<br>[](none)<br>[Category Furniture Cabinet Ikea Havsta](none)<br><br>",
+    "markdown_short": "[category_furniture_cabinet_ikea_havsta](none)<br><br>"
 }

@@ -11,6 +11,7 @@
     "make_files": true,
     "filter": "",
     "kicad_reference": "",
+    "link_buy": "https://www.aluminium-profile.co.uk/20x20-aluminium-profile-kjn992888",
     "classification_upper": "ALUMINIUM_EXTRUSION",
     "classification_capital": "Aluminium Extrusion",
     "classification_first_letter": "a",
@@ -48,8 +49,9 @@
     "id_no_type": "2020",
     "id_no_size": "2020",
     "oomp_key": "oomp_aluminium_extrusion_2020",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/aluminium_extrusion_2020",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/aluminium_extrusion_2020",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/aluminium_extrusion_2020",
     "directory": "parts/aluminium_extrusion_2020",
     "name": "Aluminium Extrusion 2020",
     "name_no_class": "2020",
@@ -87,6 +89,6 @@
     "name_no_size_short": "2020",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[aluminium_extrusion_2020](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020)<br>[Aluminium Extrusion 2020](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020)<br><br>",
-    "markdown_short": "[aluminium_extrusion_2020](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020)<br><br>"
+    "markdown_full": "[aluminium_extrusion_2020](none)<br>[](none)<br>[Aluminium Extrusion 2020](none)<br><br>",
+    "markdown_short": "[aluminium_extrusion_2020](none)<br><br>"
 }

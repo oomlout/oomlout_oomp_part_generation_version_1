@@ -24,21 +24,22 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
 id: printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
 id_no_class: inkjet_a4_hewlett_packard_officejet_1000_mobile
 id_no_size: hewlett_packard_officejet_1000_mobile
 id_no_type: a4_hewlett_packard_officejet_1000_mobile
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
 manufacturer: hewlett_packard
 manufacturer_capital: Hewlett Packard
 manufacturer_first_letter: h
 manufacturer_first_letter_upper: H
 manufacturer_upper: HEWLETT_PACKARD
 manufacturers: []
-markdown_full: '[printer_inkjet_a4_hewlett_packard_officejet_1000_mobile](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile)<br>[Printer
-    Inkjet A4 Hewlett Packard Officejet 1000 Mobile](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile)<br><br>'
-markdown_short: '[printer_inkjet_a4_hewlett_packard_officejet_1000_mobile](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile)<br><br>'
+markdown_full: '[printer_inkjet_a4_hewlett_packard_officejet_1000_mobile](none)<br>[](none)<br>[Printer
+    Inkjet A4 Hewlett Packard Officejet 1000 Mobile](none)<br><br>'
+markdown_short: '[printer_inkjet_a4_hewlett_packard_officejet_1000_mobile](none)<br><br>'
 md5: 4b808c4592473c6908455cd4cb1b4809
 md5_10: 4b808c4592
 md5_10_upper: 4B808C4592

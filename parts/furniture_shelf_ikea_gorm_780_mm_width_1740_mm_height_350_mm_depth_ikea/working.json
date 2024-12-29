@@ -50,8 +50,9 @@
     "id_no_type": "ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea",
     "id_no_size": "780_mm_width_1740_mm_height_350_mm_depth_ikea",
     "oomp_key": "oomp_furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea",
     "directory": "parts/furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea",
     "name": "Furniture Shelf Ikea Gorm 780 Mm Width 1740 Mm Height 350 Mm Depth Ikea",
     "name_no_class": "Shelf Ikea Gorm 780 Mm Width 1740 Mm Height 350 Mm Depth Ikea",
@@ -89,6 +90,6 @@
     "name_no_size_short": "780 Mm Width 1740 Mm Height 350 Mm Depth Ikea",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea)<br>[Furniture Shelf Ikea Gorm 780 Mm Width 1740 Mm Height 350 Mm Depth Ikea](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea)<br><br>",
-    "markdown_short": "[furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea)<br><br>"
+    "markdown_full": "[furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea](none)<br>[](none)<br>[Furniture Shelf Ikea Gorm 780 Mm Width 1740 Mm Height 350 Mm Depth Ikea](none)<br><br>",
+    "markdown_short": "[furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea](none)<br><br>"
 }

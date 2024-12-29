@@ -46,8 +46,9 @@
     "id_no_type": "roomba530",
     "id_no_size": "roomba530",
     "oomp_key": "oomp_robot_vacuum_roomba_530",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_530",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_530",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_530",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_530",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_530",
     "directory": "parts/robot_vacuum_roomba_530",
     "name": "Robot Vacuum Roomba 530",
     "name_no_class": "Roomba 530",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Roomba530",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[robot_vacuum_roomba_530](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_530)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_530)<br>[Robot Vacuum Roomba 530](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_530)<br><br>",
-    "markdown_short": "[robot_vacuum_roomba_530](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_530)<br><br>"
+    "markdown_full": "[robot_vacuum_roomba_530](none)<br>[](none)<br>[Robot Vacuum Roomba 530](none)<br><br>",
+    "markdown_short": "[robot_vacuum_roomba_530](none)<br><br>"
 }

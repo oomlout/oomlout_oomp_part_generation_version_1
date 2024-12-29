@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 11_width_5_height_3_mm_depth
+description_main_capital: 11 Width 5 Height 3 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 11_WIDTH_5_HEIGHT_3_MM_DEPTH
+description_only_numbers: '1153'
+description_only_numbers_short: 1k1
+description_or_color: 1k1
+description_or_color_upper: 1K1
+directory: parts/oobb_part_plate_11_width_5_height_3_mm_depth
+distributors: []
+id: oobb_part_plate_11_width_5_height_3_mm_depth
+id_no_class: part_plate_11_width_5_height_3_mm_depth
+id_no_size: 11_width_5_height_3_mm_depth
+id_no_type: plate_11_width_5_height_3_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_11_width_5_height_3_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_11_width_5_height_3_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_11_width_5_height_3_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_11_width_5_height_3_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Plate 11 Width 5 Height 3 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_plate_11_width_5_height_3_mm_depth](none)<br><br>'
+md5: 624934926c982e604f3cc601b3a84487
+md5_10: 624934926c
+md5_10_upper: 624934926C
+md5_5: '62493'
+md5_5_upper: '62493'
+md5_6: '624934'
+md5_6_alpha: 3u244
+md5_6_alpha_upper: 3U244
+md5_6_upper: '624934'
+name: Oobb Part Plate 11 Width 5 Height 3 Mm Depth
+name_no_class: Part Plate 11 Width 5 Height 3 Mm Depth
+name_no_size: 11 Width 5 Height 3 Mm Depth
+name_no_size_short: 11 Width 5 Height 3 Mm Depth
+name_no_type: Plate 11 Width 5 Height 3 Mm Depth
+oomp_key: oomp_oobb_part_plate_11_width_5_height_3_mm_depth
+oomp_word: tulip hatching_chick mouse
+oomp_word_emoji: ':tulip: :hatching_chick: :mouse:'
+oomp_word_emoji_list:
+- ':tulip:'
+- ':hatching_chick:'
+- ':mouse:'
+oomp_word_list:
+- tulip
+- hatching_chick
+- mouse
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

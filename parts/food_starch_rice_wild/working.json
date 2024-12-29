@@ -49,8 +49,9 @@
     "id_no_type": "rice_wild",
     "id_no_size": "wild",
     "oomp_key": "oomp_food_starch_rice_wild",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_wild",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_wild",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_wild",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_wild",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_wild",
     "directory": "parts/food_starch_rice_wild",
     "name": "Food Starch Rice Wild",
     "name_no_class": "Starch Rice Wild",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Wild",
     "description_or_color": "W ",
     "description_or_color_upper": "W ",
-    "markdown_full": "[food_starch_rice_wild](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_wild)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_wild)<br>[Food Starch Rice Wild](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_wild)<br><br>",
-    "markdown_short": "[food_starch_rice_wild](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_wild)<br><br>"
+    "markdown_full": "[food_starch_rice_wild](none)<br>[](none)<br>[Food Starch Rice Wild](none)<br><br>",
+    "markdown_short": "[food_starch_rice_wild](none)<br><br>"
 }

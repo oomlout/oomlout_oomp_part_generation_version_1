@@ -50,8 +50,9 @@
     "id_no_type": "doll_baby",
     "id_no_size": "doll_baby",
     "oomp_key": "oomp_category_household_toy_doll_baby",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_baby",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_baby",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_baby",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_baby",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_baby",
     "directory": "parts/category_household_toy_doll_baby",
     "name": "Category Household Toy Doll Baby",
     "name_no_class": "Household Toy Doll Baby",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Doll Baby",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_household_toy_doll_baby](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_baby)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_baby)<br>[Category Household Toy Doll Baby](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_baby)<br><br>",
-    "markdown_short": "[category_household_toy_doll_baby](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_baby)<br><br>"
+    "markdown_full": "[category_household_toy_doll_baby](none)<br>[](none)<br>[Category Household Toy Doll Baby](none)<br><br>",
+    "markdown_short": "[category_household_toy_doll_baby](none)<br><br>"
 }

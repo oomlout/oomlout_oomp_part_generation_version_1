@@ -26,21 +26,22 @@ directory: parts/dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39
 id: dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39
 id_no_class: ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39
 id_no_size: ikeaoftastwhiteplate190mmdiameterikea60318939
 id_no_type: ikeaoftastwhiteplate190mmdiameterikea60318939
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39
 manufacturer: ikea
 manufacturer_capital: Ikea
 manufacturer_first_letter: i
 manufacturer_first_letter_upper: I
 manufacturer_upper: IKEA
 manufacturers: []
-markdown_full: '[dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39)<br>[w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39)<br>[Dish
-    Ikea Oftast White Plate 190 Mm Diameter Ikea 603 189 39](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39)<br><br>'
-markdown_short: '[dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39)<br><br>'
+markdown_full: '[dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39](none)<br>[w](none)<br>[Dish
+    Ikea Oftast White Plate 190 Mm Diameter Ikea 603 189 39](none)<br><br>'
+markdown_short: '[dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39](none)<br><br>'
 md5: b1f1c2977732e9df96831405c9ba6114
 md5_10: b1f1c29777
 md5_10_upper: B1F1C29777

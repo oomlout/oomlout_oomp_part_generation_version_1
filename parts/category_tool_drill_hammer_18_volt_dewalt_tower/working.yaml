@@ -27,21 +27,22 @@ directory: parts/category_tool_drill_hammer_18_volt_dewalt_tower
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower
 id: category_tool_drill_hammer_18_volt_dewalt_tower
 id_no_class: tool_drill_hammer_18_volt_dewalt_tower
 id_no_size: 18_volt_dewalt_tower
 id_no_type: drill_hammer_18_volt_dewalt_tower
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_tool_drill_hammer_18_volt_dewalt_tower](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower)<br>[Category
-    Tool Drill Hammer 18 Volt Dewalt Tower](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower)<br><br>'
-markdown_short: '[category_tool_drill_hammer_18_volt_dewalt_tower](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_tower)<br><br>'
+markdown_full: '[category_tool_drill_hammer_18_volt_dewalt_tower](none)<br>[](none)<br>[Category
+    Tool Drill Hammer 18 Volt Dewalt Tower](none)<br><br>'
+markdown_short: '[category_tool_drill_hammer_18_volt_dewalt_tower](none)<br><br>'
 md5: 052a2a6cc28eddd6da33fbed451041cc
 md5_10: 052a2a6cc2
 md5_10_upper: 052A2A6CC2

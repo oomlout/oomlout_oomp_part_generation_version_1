@@ -27,21 +27,22 @@ directory: parts/category_printer_all_in_one_inkjet_a4
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4
 id: category_printer_all_in_one_inkjet_a4
 id_no_class: printer_all_in_one_inkjet_a4
 id_no_size: a4
 id_no_type: all_in_one_inkjet_a4
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_printer_all_in_one_inkjet_a4](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4)<br>[Category
-    Printer All In One Inkjet A4](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4)<br><br>'
-markdown_short: '[category_printer_all_in_one_inkjet_a4](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4)<br><br>'
+markdown_full: '[category_printer_all_in_one_inkjet_a4](none)<br>[](none)<br>[Category
+    Printer All In One Inkjet A4](none)<br><br>'
+markdown_short: '[category_printer_all_in_one_inkjet_a4](none)<br><br>'
 md5: 222a004ed098f662a8af3f4c1e90f4bb
 md5_10: 222a004ed0
 md5_10_upper: 222A004ED0

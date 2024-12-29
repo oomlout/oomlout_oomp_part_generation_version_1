@@ -24,21 +24,22 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/appliance_vacuum_cleaner_dyson_v10_dyson_v10
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v10_dyson_v10
 id: appliance_vacuum_cleaner_dyson_v10_dyson_v10
 id_no_class: vacuum_cleaner_dyson_v10_dyson_v10
 id_no_size: dyson_v10
 id_no_type: dyson_v10_dyson_v10
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v10_dyson_v10
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v10_dyson_v10
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v10_dyson_v10
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v10_dyson_v10
 manufacturer: dyson
 manufacturer_capital: Dyson
 manufacturer_first_letter: d
 manufacturer_first_letter_upper: D
 manufacturer_upper: DYSON
 manufacturers: []
-markdown_full: '[appliance_vacuum_cleaner_dyson_v10_dyson_v10](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v10_dyson_v10)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v10_dyson_v10)<br>[Appliance
-    Vacuum Cleaner Dyson V10 Dyson V10](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v10_dyson_v10)<br><br>'
-markdown_short: '[appliance_vacuum_cleaner_dyson_v10_dyson_v10](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v10_dyson_v10)<br><br>'
+markdown_full: '[appliance_vacuum_cleaner_dyson_v10_dyson_v10](none)<br>[](none)<br>[Appliance
+    Vacuum Cleaner Dyson V10 Dyson V10](none)<br><br>'
+markdown_short: '[appliance_vacuum_cleaner_dyson_v10_dyson_v10](none)<br><br>'
 md5: 0aa8fb12e00272ced9dcaf02ef70b65d
 md5_10: 0aa8fb12e0
 md5_10_upper: 0AA8FB12E0

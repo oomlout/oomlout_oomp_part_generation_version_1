@@ -27,21 +27,22 @@ directory: parts/category_three_d_printer
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer
 id: category_three_d_printer
 id_no_class: three_d_printer
 id_no_size: threedprinter
 id_no_type: three_d_printer
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_three_d_printer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer)<br>[Category
-    Three D Printer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer)<br><br>'
-markdown_short: '[category_three_d_printer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer)<br><br>'
+markdown_full: '[category_three_d_printer](none)<br>[](none)<br>[Category Three D
+    Printer](none)<br><br>'
+markdown_short: '[category_three_d_printer](none)<br><br>'
 md5: 5d923416606b58fadbf8a0d6f1306f45
 md5_10: 5d92341660
 md5_10_upper: 5D92341660

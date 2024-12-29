@@ -50,8 +50,9 @@
     "id_no_type": "avocado",
     "id_no_size": "avocado",
     "oomp_key": "oomp_food_vegetable_avocado",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_avocado",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_avocado",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_avocado",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_avocado",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_avocado",
     "directory": "parts/food_vegetable_avocado",
     "name": "Food Vegetable Avocado",
     "name_no_class": "Vegetable Avocado",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Avocado",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[food_vegetable_avocado](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_avocado)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_avocado)<br>[Food Vegetable Avocado](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_avocado)<br><br>",
-    "markdown_short": "[food_vegetable_avocado](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_avocado)<br><br>"
+    "markdown_full": "[food_vegetable_avocado](none)<br>[](none)<br>[Food Vegetable Avocado](none)<br><br>",
+    "markdown_short": "[food_vegetable_avocado](none)<br><br>"
 }

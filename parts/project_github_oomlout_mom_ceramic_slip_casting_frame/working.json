@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/mom_ceramic_slip_casting_frame",
-    "link_github": "https://github.com/oomlout/mom_ceramic_slip_casting_frame",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_mom_ceramic_slip_casting_frame",
     "id_no_size": "mom_ceramic_slip_casting_frame",
     "oomp_key": "oomp_project_github_oomlout_mom_ceramic_slip_casting_frame",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame",
     "directory": "parts/project_github_oomlout_mom_ceramic_slip_casting_frame",
     "name": "Project Github Oomlout Mom Ceramic Slip Casting Frame",
     "name_no_class": "Github Oomlout Mom Ceramic Slip Casting Frame",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Mom Ceramic Slip Casting Frame",
     "description_or_color": "M ",
     "description_or_color_upper": "M ",
-    "markdown_full": "[project_github_oomlout_mom_ceramic_slip_casting_frame](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame)<br>[Project Github Oomlout Mom Ceramic Slip Casting Frame](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame)<br><br>",
-    "markdown_short": "[project_github_oomlout_mom_ceramic_slip_casting_frame](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mom_ceramic_slip_casting_frame)<br><br>"
+    "markdown_full": "[project_github_oomlout_mom_ceramic_slip_casting_frame](none)<br>[](none)<br>[Project Github Oomlout Mom Ceramic Slip Casting Frame](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_mom_ceramic_slip_casting_frame](none)<br><br>"
 }

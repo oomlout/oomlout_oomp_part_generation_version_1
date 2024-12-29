@@ -49,8 +49,9 @@
     "id_no_type": "cucumber",
     "id_no_size": "cucumber",
     "oomp_key": "oomp_food_vegetable_cucumber",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_cucumber",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_cucumber",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_cucumber",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_cucumber",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_cucumber",
     "directory": "parts/food_vegetable_cucumber",
     "name": "Food Vegetable Cucumber",
     "name_no_class": "Vegetable Cucumber",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Cucumber",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[food_vegetable_cucumber](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_cucumber)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_cucumber)<br>[Food Vegetable Cucumber](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_cucumber)<br><br>",
-    "markdown_short": "[food_vegetable_cucumber](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_cucumber)<br><br>"
+    "markdown_full": "[food_vegetable_cucumber](none)<br>[](none)<br>[Food Vegetable Cucumber](none)<br><br>",
+    "markdown_short": "[food_vegetable_cucumber](none)<br><br>"
 }

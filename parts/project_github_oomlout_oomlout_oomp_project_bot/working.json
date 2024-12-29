@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/oomlout_oomp_project_bot",
-    "link_github": "https://github.com/oomlout/oomlout_oomp_project_bot",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_bot",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_bot",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_oomlout_oomp_bot",
     "id_no_size": "oomp_bot",
     "oomp_key": "oomp_project_github_oomlout_oomlout_oomp_project_bot",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_bot",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_bot",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_bot",
     "directory": "parts/project_github_oomlout_oomlout_oomp_project_bot",
     "name": "Project Github Oomlout Oomlout Oomp Project Bot",
     "name_no_class": "Github Oomlout Oomlout Oomp Bot",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Oomp Bot",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[project_github_oomlout_oomlout_oomp_project_bot](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_bot)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_bot)<br>[Project Github Oomlout Oomlout Oomp Project Bot](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_bot)<br><br>",
-    "markdown_short": "[project_github_oomlout_oomlout_oomp_project_bot](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_bot)<br><br>"
+    "markdown_full": "[project_github_oomlout_oomlout_oomp_project_bot](none)<br>[](none)<br>[Project Github Oomlout Oomlout Oomp Project Bot](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_oomlout_oomp_project_bot](none)<br><br>"
 }

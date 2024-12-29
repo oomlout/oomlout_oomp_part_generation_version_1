@@ -46,8 +46,9 @@
     "id_no_type": "2_54_mm_20_pin_through_hole",
     "id_no_size": "20_pin_through_hole",
     "oomp_key": "oomp_electronic_socket_2_54_mm_20_pin_through_hole",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole",
     "directory": "parts/electronic_socket_2_54_mm_20_pin_through_hole",
     "name": "Electronic Socket 2 54 Mm 20 Pin Through Hole",
     "name_no_class": "Socket 2 54 Mm 20 Pin Through Hole",
@@ -85,6 +86,6 @@
     "name_no_size_short": "20 Pin Through Hole",
     "description_or_color": "20",
     "description_or_color_upper": "20",
-    "markdown_full": "[electronic_socket_2_54_mm_20_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole)<br>[sci120pth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole)<br>[Electronic Socket 2 54 Mm 20 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole)<br><br>",
-    "markdown_short": "[electronic_socket_2_54_mm_20_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole)<br><br>"
+    "markdown_full": "[electronic_socket_2_54_mm_20_pin_through_hole](none)<br>[sci120pth](none)<br>[Electronic Socket 2 54 Mm 20 Pin Through Hole](none)<br><br>",
+    "markdown_short": "[electronic_socket_2_54_mm_20_pin_through_hole](none)<br><br>"
 }

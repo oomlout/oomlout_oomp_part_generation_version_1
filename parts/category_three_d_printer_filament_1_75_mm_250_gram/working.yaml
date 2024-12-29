@@ -27,21 +27,22 @@ directory: parts/category_three_d_printer_filament_1_75_mm_250_gram
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_250_gram
 id: category_three_d_printer_filament_1_75_mm_250_gram
 id_no_class: three_d_printer_filament_1_75_mm_250_gram
 id_no_size: 1_75_mm_250_gram
 id_no_type: filament_1_75_mm_250_gram
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_250_gram
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_250_gram
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_250_gram
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_250_gram
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_three_d_printer_filament_1_75_mm_250_gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_250_gram)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_250_gram)<br>[Category
-    Three D Printer Filament 1 75 Mm 250 Gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_250_gram)<br><br>'
-markdown_short: '[category_three_d_printer_filament_1_75_mm_250_gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_250_gram)<br><br>'
+markdown_full: '[category_three_d_printer_filament_1_75_mm_250_gram](none)<br>[](none)<br>[Category
+    Three D Printer Filament 1 75 Mm 250 Gram](none)<br><br>'
+markdown_short: '[category_three_d_printer_filament_1_75_mm_250_gram](none)<br><br>'
 md5: 98b214e89b32609aef4f0772d275ced0
 md5_10: 98b214e89b
 md5_10_upper: 98B214E89B

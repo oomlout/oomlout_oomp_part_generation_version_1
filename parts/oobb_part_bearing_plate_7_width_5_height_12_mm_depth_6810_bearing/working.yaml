@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 6810_bearing
+description_extra_capital: 6810 Bearing
+description_extra_first_letter: '6'
+description_extra_first_letter_upper: '6'
+description_extra_upper: 6810_BEARING
+description_main: 7_width_5_height_12_mm_depth
+description_main_capital: 7 Width 5 Height 12 mm Depth
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 7_WIDTH_5_HEIGHT_12_MM_DEPTH
+description_only_numbers: '7512'
+description_only_numbers_short: 7k5
+description_or_color: 7k5
+description_or_color_upper: 7K5
+directory: parts/oobb_part_bearing_plate_7_width_5_height_12_mm_depth_6810_bearing
+distributors: []
+id: oobb_part_bearing_plate_7_width_5_height_12_mm_depth_6810_bearing
+id_no_class: part_bearing_plate_7_width_5_height_12_mm_depth_6810_bearing
+id_no_size: 7_width_5_height_12_mm_depth_6810_bearing
+id_no_type: bearing_plate_7_width_5_height_12_mm_depth_6810_bearing
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_7_width_5_height_12_mm_depth_6810_bearing
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_7_width_5_height_12_mm_depth_6810_bearing
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_7_width_5_height_12_mm_depth_6810_bearing
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bearing_plate_7_width_5_height_12_mm_depth_6810_bearing](none)<br>[](none)<br>[Oobb
+    Part Bearing Plate 7 Width 5 Height 12 Mm Depth 6810 Bearing](none)<br><br>'
+markdown_short: '[oobb_part_bearing_plate_7_width_5_height_12_mm_depth_6810_bearing](none)<br><br>'
+md5: 6de31c3aba466c2981a3fcb3c78d8daa
+md5_10: 6de31c3aba
+md5_10_upper: 6DE31C3ABA
+md5_5: 6de31
+md5_5_upper: 6DE31
+md5_6: 6de31c
+md5_6_alpha: 4acrg
+md5_6_alpha_upper: 4ACRG
+md5_6_upper: 6DE31C
+name: Oobb Part Bearing Plate 7 Width 5 Height 12 Mm Depth 6810 Bearing
+name_no_class: Part Bearing Plate 7 Width 5 Height 12 Mm Depth 6810 Bearing
+name_no_size: 7 Width 5 Height 12 Mm Depth 6810 Bearing
+name_no_size_short: 7 Width 5 Height 12 Mm Depth 6810 Bearing
+name_no_type: Bearing Plate 7 Width 5 Height 12 Mm Depth 6810 Bearing
+oomp_key: oomp_oobb_part_bearing_plate_7_width_5_height_12_mm_depth_6810_bearing
+oomp_word: shell rowboat dancer
+oomp_word_emoji: ':shell: :rowboat: :dancer:'
+oomp_word_emoji_list:
+- ':shell:'
+- ':rowboat:'
+- ':dancer:'
+oomp_word_list:
+- shell
+- rowboat
+- dancer
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bearing_plate
+size_capital: Bearing Plate
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING_PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

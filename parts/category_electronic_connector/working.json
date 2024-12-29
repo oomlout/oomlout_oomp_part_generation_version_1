@@ -50,8 +50,9 @@
     "id_no_type": "connector",
     "id_no_size": "connector",
     "oomp_key": "oomp_category_electronic_connector",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector",
     "directory": "parts/category_electronic_connector",
     "name": "Category Electronic Connector",
     "name_no_class": "Electronic Connector",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Connector",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_connector](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector)<br>[Category Electronic Connector](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector)<br><br>",
-    "markdown_short": "[category_electronic_connector](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector)<br><br>"
+    "markdown_full": "[category_electronic_connector](none)<br>[](none)<br>[Category Electronic Connector](none)<br><br>",
+    "markdown_short": "[category_electronic_connector](none)<br><br>"
 }

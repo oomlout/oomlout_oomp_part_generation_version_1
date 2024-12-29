@@ -24,22 +24,23 @@ description_or_color: O8
 description_or_color_upper: O8
 directory: parts/electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_orange_8_mm_length
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_orange_8_mm_length
 id: electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_orange_8_mm_length
 id_no_class: crimp_bootlace_ferrule_0_55_mm_diameter_wire_orange_8_mm_length
 id_no_size: orange_8_mm_length
 id_no_type: 0_55_mm_diameter_wire_orange_8_mm_length
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_orange_8_mm_length
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_orange_8_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_orange_8_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_orange_8_mm_length
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_orange_8_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_orange_8_mm_length)<br>[o8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_orange_8_mm_length)<br>[Electronic
-    Crimp Bootlace Ferrule 0 55 Mm Diameter Wire Orange 8 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_orange_8_mm_length)<br><br>'
-markdown_short: '[electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_orange_8_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_orange_8_mm_length)<br><br>'
+markdown_full: '[electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_orange_8_mm_length](none)<br>[o8](none)<br>[Electronic
+    Crimp Bootlace Ferrule 0 55 Mm Diameter Wire Orange 8 Mm Length](none)<br><br>'
+markdown_short: '[electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_orange_8_mm_length](none)<br><br>'
 md5: 94e66d450ef417df51a9d2b1dd063366
 md5_10: 94e66d450e
 md5_10_upper: 94E66D450E

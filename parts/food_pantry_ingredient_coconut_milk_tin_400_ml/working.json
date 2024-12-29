@@ -47,8 +47,9 @@
     "id_no_type": "ingredient_coconut_milk_tin_400_ml",
     "id_no_size": "ingredientcoconutmilktin400ml",
     "oomp_key": "oomp_food_pantry_ingredient_coconut_milk_tin_400_ml",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml",
     "directory": "parts/food_pantry_ingredient_coconut_milk_tin_400_ml",
     "name": "Food Pantry Ingredient Coconut Milk Tin 400 Ml",
     "name_no_class": "Pantry Ingredient Coconut Milk Tin 400 Ml",
@@ -86,6 +87,6 @@
     "name_no_size_short": "Ingredientcoconutmilktin400Ml",
     "description_or_color": "I ",
     "description_or_color_upper": "I ",
-    "markdown_full": "[food_pantry_ingredient_coconut_milk_tin_400_ml](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml)<br>[Food Pantry Ingredient Coconut Milk Tin 400 Ml](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml)<br><br>",
-    "markdown_short": "[food_pantry_ingredient_coconut_milk_tin_400_ml](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml)<br><br>"
+    "markdown_full": "[food_pantry_ingredient_coconut_milk_tin_400_ml](none)<br>[](none)<br>[Food Pantry Ingredient Coconut Milk Tin 400 Ml](none)<br><br>",
+    "markdown_short": "[food_pantry_ingredient_coconut_milk_tin_400_ml](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_household_kitchen
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen
 id: category_household_kitchen
 id_no_class: household_kitchen
 id_no_size: householdkitchen
 id_no_type: household_kitchen
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_household_kitchen](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen)<br>[Category
-    Household Kitchen](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen)<br><br>'
-markdown_short: '[category_household_kitchen](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen)<br><br>'
+markdown_full: '[category_household_kitchen](none)<br>[](none)<br>[Category Household
+    Kitchen](none)<br><br>'
+markdown_short: '[category_household_kitchen](none)<br><br>'
 md5: 77d60b46dbad20cf971cdb19be3c6115
 md5_10: 77d60b46db
 md5_10_upper: 77D60B46DB

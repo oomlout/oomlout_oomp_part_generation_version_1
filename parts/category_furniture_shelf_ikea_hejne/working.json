@@ -50,8 +50,9 @@
     "id_no_type": "shelf_ikea_hejne",
     "id_no_size": "ikea_hejne",
     "oomp_key": "oomp_category_furniture_shelf_ikea_hejne",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_hejne",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_hejne",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_hejne",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_hejne",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_hejne",
     "directory": "parts/category_furniture_shelf_ikea_hejne",
     "name": "Category Furniture Shelf Ikea Hejne",
     "name_no_class": "Furniture Shelf Ikea Hejne",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Ikea Hejne",
     "description_or_color": "I ",
     "description_or_color_upper": "I ",
-    "markdown_full": "[category_furniture_shelf_ikea_hejne](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_hejne)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_hejne)<br>[Category Furniture Shelf Ikea Hejne](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_hejne)<br><br>",
-    "markdown_short": "[category_furniture_shelf_ikea_hejne](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_hejne)<br><br>"
+    "markdown_full": "[category_furniture_shelf_ikea_hejne](none)<br>[](none)<br>[Category Furniture Shelf Ikea Hejne](none)<br><br>",
+    "markdown_short": "[category_furniture_shelf_ikea_hejne](none)<br><br>"
 }

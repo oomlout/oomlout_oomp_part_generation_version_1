@@ -27,21 +27,22 @@ directory: parts/category_food_seasoning_spice
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_spice
 id: category_food_seasoning_spice
 id_no_class: food_seasoning_spice
 id_no_size: spice
 id_no_type: seasoning_spice
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_spice
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_spice
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_spice
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_spice
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food_seasoning_spice](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_spice)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_spice)<br>[Category
-    Food Seasoning Spice](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_spice)<br><br>'
-markdown_short: '[category_food_seasoning_spice](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_spice)<br><br>'
+markdown_full: '[category_food_seasoning_spice](none)<br>[](none)<br>[Category Food
+    Seasoning Spice](none)<br><br>'
+markdown_short: '[category_food_seasoning_spice](none)<br><br>'
 md5: 78a1fd297f9ee4f7c9afb1f964ddf2fe
 md5_10: 78a1fd297f
 md5_10_upper: 78A1FD297F

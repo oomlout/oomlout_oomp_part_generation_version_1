@@ -49,8 +49,9 @@
     "id_no_type": "rice_baldo",
     "id_no_size": "baldo",
     "oomp_key": "oomp_food_starch_rice_baldo",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_baldo",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_baldo",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_baldo",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_baldo",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_baldo",
     "directory": "parts/food_starch_rice_baldo",
     "name": "Food Starch Rice Baldo",
     "name_no_class": "Starch Rice Baldo",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Baldo",
     "description_or_color": "B ",
     "description_or_color_upper": "B ",
-    "markdown_full": "[food_starch_rice_baldo](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_baldo)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_baldo)<br>[Food Starch Rice Baldo](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_baldo)<br><br>",
-    "markdown_short": "[food_starch_rice_baldo](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_baldo)<br><br>"
+    "markdown_full": "[food_starch_rice_baldo](none)<br>[](none)<br>[Food Starch Rice Baldo](none)<br><br>",
+    "markdown_short": "[food_starch_rice_baldo](none)<br><br>"
 }

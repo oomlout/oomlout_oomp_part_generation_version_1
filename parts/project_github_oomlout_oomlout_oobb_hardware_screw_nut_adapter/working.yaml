@@ -26,23 +26,22 @@ directory: parts/project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter
 id: project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter
 id_no_class: github_oomlout_oomlout_oobb_hardware_screw_nut_adapter
 id_no_size: oobb_hardware_screw_nut_adapter
 id_no_type: oomlout_oomlout_oobb_hardware_screw_nut_adapter
-link_github: https://github.com/oomlout/oomlout_oobb_hardware_screw_nut_adapter
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter
-link_redirect: https://github.com/oomlout/oomlout_oobb_hardware_screw_nut_adapter
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter)<br>[Project
-    Github Oomlout Oomlout Oobb Hardware Screw Nut Adapter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter)<br><br>'
-markdown_short: '[project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter)<br><br>'
+markdown_full: '[project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Oobb Hardware Screw Nut Adapter](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter](none)<br><br>'
 md5: 4d7b852e57ec76d7d1f40bedca72e8b5
 md5_10: 4d7b852e57
 md5_10_upper: 4D7B852E57

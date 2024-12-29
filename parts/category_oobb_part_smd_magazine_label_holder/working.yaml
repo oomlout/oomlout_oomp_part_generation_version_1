@@ -27,21 +27,22 @@ directory: parts/category_oobb_part_smd_magazine_label_holder
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder
 id: category_oobb_part_smd_magazine_label_holder
 id_no_class: oobb_part_smd_magazine_label_holder
 id_no_size: smd_magazine_label_holder
 id_no_type: part_smd_magazine_label_holder
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part_smd_magazine_label_holder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder)<br>[Category
-    Oobb Part Smd Magazine Label Holder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder)<br><br>'
-markdown_short: '[category_oobb_part_smd_magazine_label_holder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder)<br><br>'
+markdown_full: '[category_oobb_part_smd_magazine_label_holder](none)<br>[](none)<br>[Category
+    Oobb Part Smd Magazine Label Holder](none)<br><br>'
+markdown_short: '[category_oobb_part_smd_magazine_label_holder](none)<br><br>'
 md5: 213d82042af631317f1efbcaad9088c3
 md5_10: 213d82042a
 md5_10_upper: 213D82042A

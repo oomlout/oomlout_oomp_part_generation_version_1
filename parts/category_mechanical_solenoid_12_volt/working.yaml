@@ -27,21 +27,22 @@ directory: parts/category_mechanical_solenoid_12_volt
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_12_volt
 id: category_mechanical_solenoid_12_volt
 id_no_class: mechanical_solenoid_12_volt
 id_no_size: 12_volt
 id_no_type: solenoid_12_volt
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_12_volt
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_12_volt
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_12_volt
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_12_volt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_mechanical_solenoid_12_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_12_volt)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_12_volt)<br>[Category
-    Mechanical Solenoid 12 Volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_12_volt)<br><br>'
-markdown_short: '[category_mechanical_solenoid_12_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_12_volt)<br><br>'
+markdown_full: '[category_mechanical_solenoid_12_volt](none)<br>[](none)<br>[Category
+    Mechanical Solenoid 12 Volt](none)<br><br>'
+markdown_short: '[category_mechanical_solenoid_12_volt](none)<br><br>'
 md5: 45d1f271612e54b1b04be2b28a082c73
 md5_10: 45d1f27161
 md5_10_upper: 45D1F27161

@@ -50,8 +50,9 @@
     "id_no_type": "pretend_pet",
     "id_no_size": "pretend_pet",
     "oomp_key": "oomp_category_household_toy_pretend_pet",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_pet",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_pet",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_pet",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_pet",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_pet",
     "directory": "parts/category_household_toy_pretend_pet",
     "name": "Category Household Toy Pretend Pet",
     "name_no_class": "Household Toy Pretend Pet",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Pretend Pet",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_household_toy_pretend_pet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_pet)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_pet)<br>[Category Household Toy Pretend Pet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_pet)<br><br>",
-    "markdown_short": "[category_household_toy_pretend_pet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_pet)<br><br>"
+    "markdown_full": "[category_household_toy_pretend_pet](none)<br>[](none)<br>[Category Household Toy Pretend Pet](none)<br><br>",
+    "markdown_short": "[category_household_toy_pretend_pet](none)<br><br>"
 }

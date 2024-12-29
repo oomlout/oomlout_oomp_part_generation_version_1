@@ -27,21 +27,22 @@ directory: parts/category_electronic_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_tote
 id: category_electronic_tote
 id_no_class: electronic_tote
 id_no_size: tote
 id_no_type: tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_tote)<br>[Category
-    Electronic Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_tote)<br><br>'
-markdown_short: '[category_electronic_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_tote)<br><br>'
+markdown_full: '[category_electronic_tote](none)<br>[](none)<br>[Category Electronic
+    Tote](none)<br><br>'
+markdown_short: '[category_electronic_tote](none)<br><br>'
 md5: 3822d7283b6d087ca70742074e0e17b8
 md5_10: 3822d7283b
 md5_10_upper: 3822D7283B

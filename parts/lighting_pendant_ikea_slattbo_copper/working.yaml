@@ -26,21 +26,22 @@ directory: parts/lighting_pendant_ikea_slattbo_copper
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper
 id: lighting_pendant_ikea_slattbo_copper
 id_no_class: pendant_ikea_slattbo_copper
 id_no_size: copper
 id_no_type: ikea_slattbo_copper
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[lighting_pendant_ikea_slattbo_copper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper)<br>[Lighting
-    Pendant Ikea Slattbo Copper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper)<br><br>'
-markdown_short: '[lighting_pendant_ikea_slattbo_copper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper)<br><br>'
+markdown_full: '[lighting_pendant_ikea_slattbo_copper](none)<br>[](none)<br>[Lighting
+    Pendant Ikea Slattbo Copper](none)<br><br>'
+markdown_short: '[lighting_pendant_ikea_slattbo_copper](none)<br><br>'
 md5: 0133acdc9d9248da44e03e5f6e3f107a
 md5_10: 0133acdc9d
 md5_10_upper: 0133ACDC9D

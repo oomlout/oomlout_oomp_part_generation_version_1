@@ -27,21 +27,21 @@ directory: parts/category_food_condiment
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment
 id: category_food_condiment
 id_no_class: food_condiment
 id_no_size: condiment
 id_no_type: condiment
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_condiment
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_condiment
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_condiment
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food_condiment](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment)<br>[Category
-    Food Condiment](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment)<br><br>'
-markdown_short: '[category_food_condiment](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment)<br><br>'
+markdown_full: '[category_food_condiment](none)<br>[](none)<br>[Category Food Condiment](none)<br><br>'
+markdown_short: '[category_food_condiment](none)<br><br>'
 md5: 654eb5a1067198448c2f1da21bbe3093
 md5_10: 654eb5a106
 md5_10_upper: 654EB5A106

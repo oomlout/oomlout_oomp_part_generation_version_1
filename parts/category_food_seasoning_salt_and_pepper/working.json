@@ -50,8 +50,9 @@
     "id_no_type": "seasoning_salt_and_pepper",
     "id_no_size": "salt_and_pepper",
     "oomp_key": "oomp_category_food_seasoning_salt_and_pepper",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_salt_and_pepper",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_salt_and_pepper",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_salt_and_pepper",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_salt_and_pepper",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_salt_and_pepper",
     "directory": "parts/category_food_seasoning_salt_and_pepper",
     "name": "Category Food Seasoning Salt And Pepper",
     "name_no_class": "Food Seasoning Salt And Pepper",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Salt And Pepper",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_food_seasoning_salt_and_pepper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_salt_and_pepper)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_salt_and_pepper)<br>[Category Food Seasoning Salt And Pepper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_salt_and_pepper)<br><br>",
-    "markdown_short": "[category_food_seasoning_salt_and_pepper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_salt_and_pepper)<br><br>"
+    "markdown_full": "[category_food_seasoning_salt_and_pepper](none)<br>[](none)<br>[Category Food Seasoning Salt And Pepper](none)<br><br>",
+    "markdown_short": "[category_food_seasoning_salt_and_pepper](none)<br><br>"
 }

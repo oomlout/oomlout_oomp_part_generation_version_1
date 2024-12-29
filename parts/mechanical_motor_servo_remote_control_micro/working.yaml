@@ -24,21 +24,22 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/mechanical_motor_servo_remote_control_micro
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro
 id: mechanical_motor_servo_remote_control_micro
 id_no_class: motor_servo_remote_control_micro
 id_no_size: micro
 id_no_type: micro
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[mechanical_motor_servo_remote_control_micro](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro)<br>[Mechanical
-    Motor Servo Remote Control Micro](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro)<br><br>'
-markdown_short: '[mechanical_motor_servo_remote_control_micro](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro)<br><br>'
+markdown_full: '[mechanical_motor_servo_remote_control_micro](none)<br>[](none)<br>[Mechanical
+    Motor Servo Remote Control Micro](none)<br><br>'
+markdown_short: '[mechanical_motor_servo_remote_control_micro](none)<br><br>'
 md5: 7bcf64a8b2582a9b34af59e3f848573e
 md5_10: 7bcf64a8b2
 md5_10_upper: 7BCF64A8B2

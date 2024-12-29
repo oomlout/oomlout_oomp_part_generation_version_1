@@ -26,23 +26,22 @@ directory: parts/project_github_oomlout_oate
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oate
 id: project_github_oomlout_oate
 id_no_class: github_oomlout_oate
 id_no_size: oate
 id_no_type: oomlout_oate
-link_github: https://github.com/oomlout/OATE
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oate
-link_redirect: https://github.com/oomlout/OATE
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oate
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oate
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oate
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_oate](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oate)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oate)<br>[Project
-    Github Oomlout Oate](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oate)<br><br>'
-markdown_short: '[project_github_oomlout_oate](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oate)<br><br>'
+markdown_full: '[project_github_oomlout_oate](none)<br>[](none)<br>[Project Github
+    Oomlout Oate](none)<br><br>'
+markdown_short: '[project_github_oomlout_oate](none)<br><br>'
 md5: 3458a321b293c8b4092bcf237f8ba080
 md5_10: 3458a321b2
 md5_10_upper: 3458A321B2

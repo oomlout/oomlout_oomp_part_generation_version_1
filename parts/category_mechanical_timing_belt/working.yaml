@@ -27,21 +27,22 @@ directory: parts/category_mechanical_timing_belt
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt
 id: category_mechanical_timing_belt
 id_no_class: mechanical_timing_belt
 id_no_size: timing_belt
 id_no_type: timing_belt
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_belt
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_belt
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_belt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_mechanical_timing_belt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt)<br>[Category
-    Mechanical Timing Belt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt)<br><br>'
-markdown_short: '[category_mechanical_timing_belt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt)<br><br>'
+markdown_full: '[category_mechanical_timing_belt](none)<br>[](none)<br>[Category Mechanical
+    Timing Belt](none)<br><br>'
+markdown_short: '[category_mechanical_timing_belt](none)<br><br>'
 md5: 8ce4268c509017df943f0d31f34c3850
 md5_10: 8ce4268c50
 md5_10_upper: 8CE4268C50

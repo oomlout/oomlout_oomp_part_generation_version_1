@@ -24,21 +24,22 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/three_d_printer_spare_part_anycubic_vyper_hotend
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_spare_part_anycubic_vyper_hotend
 id: three_d_printer_spare_part_anycubic_vyper_hotend
 id_no_class: spare_part_anycubic_vyper_hotend
 id_no_size: hotend
 id_no_type: anycubic_vyper_hotend
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_spare_part_anycubic_vyper_hotend
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_spare_part_anycubic_vyper_hotend
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_spare_part_anycubic_vyper_hotend
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_spare_part_anycubic_vyper_hotend
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[three_d_printer_spare_part_anycubic_vyper_hotend](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_spare_part_anycubic_vyper_hotend)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_spare_part_anycubic_vyper_hotend)<br>[Three
-    D Printer Spare Part Anycubic Vyper Hotend](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_spare_part_anycubic_vyper_hotend)<br><br>'
-markdown_short: '[three_d_printer_spare_part_anycubic_vyper_hotend](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_spare_part_anycubic_vyper_hotend)<br><br>'
+markdown_full: '[three_d_printer_spare_part_anycubic_vyper_hotend](none)<br>[](none)<br>[Three
+    D Printer Spare Part Anycubic Vyper Hotend](none)<br><br>'
+markdown_short: '[three_d_printer_spare_part_anycubic_vyper_hotend](none)<br><br>'
 md5: eff11793d0ec0a84acc360de42f9207c
 md5_10: eff11793d0
 md5_10_upper: EFF11793D0

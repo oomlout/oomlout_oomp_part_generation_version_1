@@ -50,8 +50,9 @@
     "id_no_type": "part_nut",
     "id_no_size": "nut",
     "oomp_key": "oomp_category_oobb_part_nut",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_nut",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_nut",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_nut",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_nut",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_nut",
     "directory": "parts/category_oobb_part_nut",
     "name": "Category Oobb Part Nut",
     "name_no_class": "Oobb Part Nut",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Nut",
     "description_or_color": "N ",
     "description_or_color_upper": "N ",
-    "markdown_full": "[category_oobb_part_nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_nut)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_nut)<br>[Category Oobb Part Nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_nut)<br><br>",
-    "markdown_short": "[category_oobb_part_nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_nut)<br><br>"
+    "markdown_full": "[category_oobb_part_nut](none)<br>[](none)<br>[Category Oobb Part Nut](none)<br><br>",
+    "markdown_short": "[category_oobb_part_nut](none)<br><br>"
 }

@@ -50,8 +50,9 @@
     "id_no_type": "light_panel",
     "id_no_size": "light_panel",
     "oomp_key": "oomp_category_electrical_light_panel",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_panel",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_panel",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_panel",
     "directory": "parts/category_electrical_light_panel",
     "name": "Category Electrical Light Panel",
     "name_no_class": "Electrical Light Panel",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Light Panel",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electrical_light_panel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel)<br>[Category Electrical Light Panel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel)<br><br>",
-    "markdown_short": "[category_electrical_light_panel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel)<br><br>"
+    "markdown_full": "[category_electrical_light_panel](none)<br>[](none)<br>[Category Electrical Light Panel](none)<br><br>",
+    "markdown_short": "[category_electrical_light_panel](none)<br><br>"
 }

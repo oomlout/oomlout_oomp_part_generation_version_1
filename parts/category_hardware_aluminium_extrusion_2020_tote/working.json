@@ -50,8 +50,9 @@
     "id_no_type": "aluminium_extrusion_2020_tote",
     "id_no_size": "2020_tote",
     "oomp_key": "oomp_category_hardware_aluminium_extrusion_2020_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_aluminium_extrusion_2020_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_aluminium_extrusion_2020_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_aluminium_extrusion_2020_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_aluminium_extrusion_2020_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_aluminium_extrusion_2020_tote",
     "directory": "parts/category_hardware_aluminium_extrusion_2020_tote",
     "name": "Category Hardware Aluminium Extrusion 2020 Tote",
     "name_no_class": "Hardware Aluminium Extrusion 2020 Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "2020 Tote",
     "description_or_color": "2 ",
     "description_or_color_upper": "2 ",
-    "markdown_full": "[category_hardware_aluminium_extrusion_2020_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_aluminium_extrusion_2020_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_aluminium_extrusion_2020_tote)<br>[Category Hardware Aluminium Extrusion 2020 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_aluminium_extrusion_2020_tote)<br><br>",
-    "markdown_short": "[category_hardware_aluminium_extrusion_2020_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_aluminium_extrusion_2020_tote)<br><br>"
+    "markdown_full": "[category_hardware_aluminium_extrusion_2020_tote](none)<br>[](none)<br>[Category Hardware Aluminium Extrusion 2020 Tote](none)<br><br>",
+    "markdown_short": "[category_hardware_aluminium_extrusion_2020_tote](none)<br><br>"
 }

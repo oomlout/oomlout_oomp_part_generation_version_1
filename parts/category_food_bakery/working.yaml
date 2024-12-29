@@ -27,21 +27,21 @@ directory: parts/category_food_bakery
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bakery
 id: category_food_bakery
 id_no_class: food_bakery
 id_no_size: bakery
 id_no_type: bakery
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bakery
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_bakery
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_bakery
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_bakery
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food_bakery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bakery)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bakery)<br>[Category
-    Food Bakery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bakery)<br><br>'
-markdown_short: '[category_food_bakery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bakery)<br><br>'
+markdown_full: '[category_food_bakery](none)<br>[](none)<br>[Category Food Bakery](none)<br><br>'
+markdown_short: '[category_food_bakery](none)<br><br>'
 md5: be49fab3648ee88758ad81982a069fab
 md5_10: be49fab364
 md5_10_upper: BE49FAB364

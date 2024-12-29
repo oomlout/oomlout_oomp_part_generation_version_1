@@ -50,8 +50,9 @@
     "id_no_type": "part_screw_self_tapping",
     "id_no_size": "screw_self_tapping",
     "oomp_key": "oomp_category_oobb_part_screw_self_tapping",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_self_tapping",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_self_tapping",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_self_tapping",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_self_tapping",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_self_tapping",
     "directory": "parts/category_oobb_part_screw_self_tapping",
     "name": "Category Oobb Part Screw Self Tapping",
     "name_no_class": "Oobb Part Screw Self Tapping",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Screw Self Tapping",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_oobb_part_screw_self_tapping](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_self_tapping)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_self_tapping)<br>[Category Oobb Part Screw Self Tapping](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_self_tapping)<br><br>",
-    "markdown_short": "[category_oobb_part_screw_self_tapping](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_self_tapping)<br><br>"
+    "markdown_full": "[category_oobb_part_screw_self_tapping](none)<br>[](none)<br>[Category Oobb Part Screw Self Tapping](none)<br><br>",
+    "markdown_short": "[category_oobb_part_screw_self_tapping](none)<br><br>"
 }

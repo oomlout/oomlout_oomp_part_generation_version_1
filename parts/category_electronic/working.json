@@ -50,8 +50,9 @@
     "id_no_type": "electronic",
     "id_no_size": "electronic",
     "oomp_key": "oomp_category_electronic",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic",
     "directory": "parts/category_electronic",
     "name": "Category Electronic",
     "name_no_class": "Electronic",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Electronic",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic)<br>[Category Electronic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic)<br><br>",
-    "markdown_short": "[category_electronic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic)<br><br>"
+    "markdown_full": "[category_electronic](none)<br>[](none)<br>[Category Electronic](none)<br><br>",
+    "markdown_short": "[category_electronic](none)<br><br>"
 }

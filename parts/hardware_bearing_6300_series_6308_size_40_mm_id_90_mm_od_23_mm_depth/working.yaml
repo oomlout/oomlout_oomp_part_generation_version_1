@@ -26,21 +26,22 @@ directory: parts/hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth
 id: hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth
 id_no_class: bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth
 id_no_size: 6308_size_40_mm_id_90_mm_od_23_mm_depth
 id_no_type: 6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth)<br>[Hardware
-    Bearing 6300 Series 6308 Size 40 Mm Id 90 Mm Od 23 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth)<br><br>'
-markdown_short: '[hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth)<br><br>'
+markdown_full: '[hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth](none)<br>[](none)<br>[Hardware
+    Bearing 6300 Series 6308 Size 40 Mm Id 90 Mm Od 23 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_bearing_6300_series_6308_size_40_mm_id_90_mm_od_23_mm_depth](none)<br><br>'
 md5: 87ccb76a4054f62e65aa300575080976
 md5_10: 87ccb76a40
 md5_10_upper: 87CCB76A40

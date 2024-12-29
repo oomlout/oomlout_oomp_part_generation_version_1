@@ -47,8 +47,9 @@
     "id_no_type": "d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable",
     "id_no_size": "alkaline_1_5_volt_non_rechargable",
     "oomp_key": "oomp_electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable",
     "directory": "parts/electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable",
     "name": "Electronic Battery D Size 34 Mm Diameter 61 Mm Depth Alkaline 1 5 Volt Non Rechargable",
     "name_no_class": "Battery D Size 34 Mm Diameter 61 Mm Depth Alkaline 1 5 Volt Non Rechargable",
@@ -86,6 +87,6 @@
     "name_no_size_short": "Alkaline 1 5 Volt Non Rechargable",
     "description_or_color": "A ",
     "description_or_color_upper": "A ",
-    "markdown_full": "[electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable)<br>[Electronic Battery D Size 34 Mm Diameter 61 Mm Depth Alkaline 1 5 Volt Non Rechargable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable)<br><br>",
-    "markdown_short": "[electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable)<br><br>"
+    "markdown_full": "[electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable](none)<br>[](none)<br>[Electronic Battery D Size 34 Mm Diameter 61 Mm Depth Alkaline 1 5 Volt Non Rechargable](none)<br><br>",
+    "markdown_short": "[electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable](none)<br><br>"
 }

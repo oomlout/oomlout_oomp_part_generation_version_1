@@ -47,8 +47,9 @@
     "id_no_type": "oomlout_2440_mm_width_1220_mm_height",
     "id_no_size": "2440_mm_width_1220_mm_height",
     "oomp_key": "oomp_furniture_table_oomlout_2440_mm_width_1220_mm_height",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_table_oomlout_2440_mm_width_1220_mm_height",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_table_oomlout_2440_mm_width_1220_mm_height",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_table_oomlout_2440_mm_width_1220_mm_height",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_table_oomlout_2440_mm_width_1220_mm_height",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_table_oomlout_2440_mm_width_1220_mm_height",
     "directory": "parts/furniture_table_oomlout_2440_mm_width_1220_mm_height",
     "name": "Furniture Table Oomlout 2440 Mm Width 1220 Mm Height",
     "name_no_class": "Table Oomlout 2440 Mm Width 1220 Mm Height",
@@ -86,6 +87,6 @@
     "name_no_size_short": "2440 Mm Width 1220 Mm Height",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[furniture_table_oomlout_2440_mm_width_1220_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_table_oomlout_2440_mm_width_1220_mm_height)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_table_oomlout_2440_mm_width_1220_mm_height)<br>[Furniture Table Oomlout 2440 Mm Width 1220 Mm Height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_table_oomlout_2440_mm_width_1220_mm_height)<br><br>",
-    "markdown_short": "[furniture_table_oomlout_2440_mm_width_1220_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_table_oomlout_2440_mm_width_1220_mm_height)<br><br>"
+    "markdown_full": "[furniture_table_oomlout_2440_mm_width_1220_mm_height](none)<br>[](none)<br>[Furniture Table Oomlout 2440 Mm Width 1220 Mm Height](none)<br><br>",
+    "markdown_short": "[furniture_table_oomlout_2440_mm_width_1220_mm_height](none)<br><br>"
 }

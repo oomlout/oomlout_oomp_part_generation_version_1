@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 1.5_extra
+description_extra_capital: 1.5 Extra
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 1.5_EXTRA
+description_main: 3_width_3_height_18_mm_depth
+description_main_capital: 3 Width 3 Height 18 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_3_HEIGHT_18_MM_DEPTH
+description_only_numbers: '3318'
+description_only_numbers_short: 3k3
+description_or_color: 3k3
+description_or_color_upper: 3K3
+directory: parts/oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+distributors: []
+id: oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+id_no_class: part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+id_no_size: 3_width_3_height_18_mm_depth_1.5_extra
+id_no_type: smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra](none)<br>[](none)<br>[Oobb
+    Part Smd Magazine 3 Width 3 Height 18 Mm Depth 1.5 Extra](none)<br><br>'
+markdown_short: '[oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra](none)<br><br>'
+md5: 7e056bf89dd8d4139e958aa58c090d02
+md5_10: 7e056bf89d
+md5_10_upper: 7E056BF89D
+md5_5: 7e056
+md5_5_upper: 7E056
+md5_6: 7e056b
+md5_6_alpha: 4x0mj
+md5_6_alpha_upper: 4X0MJ
+md5_6_upper: 7E056B
+name: Oobb Part Smd Magazine 3 Width 3 Height 18 Mm Depth 1.5 Extra
+name_no_class: Part Smd Magazine 3 Width 3 Height 18 Mm Depth 1.5 Extra
+name_no_size: 3 Width 3 Height 18 Mm Depth 1.5 Extra
+name_no_size_short: 3 Width 3 Height 18 Mm Depth 1.5 Extra
+name_no_type: Smd Magazine 3 Width 3 Height 18 Mm Depth 1.5 Extra
+oomp_key: oomp_oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+oomp_word: fax kissing chestnut
+oomp_word_emoji: ':fax: :kissing: :chestnut:'
+oomp_word_emoji_list:
+- ':fax:'
+- ':kissing:'
+- ':chestnut:'
+oomp_word_list:
+- fax
+- kissing
+- chestnut
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: smd_magazine
+size_capital: Smd Magazine
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SMD_MAGAZINE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

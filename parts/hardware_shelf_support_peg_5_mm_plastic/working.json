@@ -50,8 +50,9 @@
     "id_no_type": "5_mm_plastic",
     "id_no_size": "plastic",
     "oomp_key": "oomp_hardware_shelf_support_peg_5_mm_plastic",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic",
     "directory": "parts/hardware_shelf_support_peg_5_mm_plastic",
     "name": "Hardware Shelf Support Peg 5 Mm Plastic",
     "name_no_class": "Shelf Support Peg 5 Mm Plastic",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Plastic",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_shelf_support_peg_5_mm_plastic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic)<br>[5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic)<br>[Hardware Shelf Support Peg 5 Mm Plastic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic)<br><br>",
-    "markdown_short": "[hardware_shelf_support_peg_5_mm_plastic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic)<br><br>"
+    "markdown_full": "[hardware_shelf_support_peg_5_mm_plastic](none)<br>[5](none)<br>[Hardware Shelf Support Peg 5 Mm Plastic](none)<br><br>",
+    "markdown_short": "[hardware_shelf_support_peg_5_mm_plastic](none)<br><br>"
 }

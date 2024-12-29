@@ -27,21 +27,22 @@ directory: parts/category_storage_box_warehouse
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse
 id: category_storage_box_warehouse
 id_no_class: storage_box_warehouse
 id_no_size: box_warehouse
 id_no_type: box_warehouse
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_box_warehouse
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_box_warehouse
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_box_warehouse
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_storage_box_warehouse](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse)<br>[Category
-    Storage Box Warehouse](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse)<br><br>'
-markdown_short: '[category_storage_box_warehouse](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_box_warehouse)<br><br>'
+markdown_full: '[category_storage_box_warehouse](none)<br>[](none)<br>[Category Storage
+    Box Warehouse](none)<br><br>'
+markdown_short: '[category_storage_box_warehouse](none)<br><br>'
 md5: 42058c838dacfe5556a049b91a273c7c
 md5_10: 42058c838d
 md5_10_upper: 42058C838D

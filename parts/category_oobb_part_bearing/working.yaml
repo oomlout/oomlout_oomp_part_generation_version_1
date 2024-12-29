@@ -27,21 +27,22 @@ directory: parts/category_oobb_part_bearing
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing
 id: category_oobb_part_bearing
 id_no_class: oobb_part_bearing
 id_no_size: bearing
 id_no_type: part_bearing
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part_bearing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing)<br>[Category
-    Oobb Part Bearing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing)<br><br>'
-markdown_short: '[category_oobb_part_bearing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing)<br><br>'
+markdown_full: '[category_oobb_part_bearing](none)<br>[](none)<br>[Category Oobb Part
+    Bearing](none)<br><br>'
+markdown_short: '[category_oobb_part_bearing](none)<br><br>'
 md5: 913b27e95d1623376ae62c982ae10f18
 md5_10: 913b27e95d
 md5_10_upper: 913B27E95D

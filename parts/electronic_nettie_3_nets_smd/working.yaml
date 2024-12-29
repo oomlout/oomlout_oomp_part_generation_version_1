@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_nt3_electronic_nettie_3_nets_smd
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_3_nets_smd
 id: electronic_nettie_3_nets_smd
 id_no_class: nettie_3_nets_smd
 id_no_size: smd
 id_no_type: 3_nets_smd
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_3_nets_smd
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_3_nets_smd
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_3_nets_smd
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_3_nets_smd
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_nettie_3_nets_smd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_3_nets_smd)<br>[nt3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_3_nets_smd)<br>[Electronic
-    Nettie 3 Nets Smd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_3_nets_smd)<br><br>'
-markdown_short: '[electronic_nettie_3_nets_smd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_3_nets_smd)<br><br>'
+markdown_full: '[electronic_nettie_3_nets_smd](none)<br>[nt3](none)<br>[Electronic
+    Nettie 3 Nets Smd](none)<br><br>'
+markdown_short: '[electronic_nettie_3_nets_smd](none)<br><br>'
 md5: 494314f1c04b845b745ce0bd6ae8e357
 md5_10: 494314f1c0
 md5_10_upper: 494314F1C0

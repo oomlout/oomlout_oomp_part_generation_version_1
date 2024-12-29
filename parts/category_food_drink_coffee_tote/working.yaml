@@ -27,21 +27,22 @@ directory: parts/category_food_drink_coffee_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink_coffee_tote
 id: category_food_drink_coffee_tote
 id_no_class: food_drink_coffee_tote
 id_no_size: coffee_tote
 id_no_type: drink_coffee_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink_coffee_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_drink_coffee_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_drink_coffee_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_drink_coffee_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food_drink_coffee_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink_coffee_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink_coffee_tote)<br>[Category
-    Food Drink Coffee Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink_coffee_tote)<br><br>'
-markdown_short: '[category_food_drink_coffee_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink_coffee_tote)<br><br>'
+markdown_full: '[category_food_drink_coffee_tote](none)<br>[](none)<br>[Category Food
+    Drink Coffee Tote](none)<br><br>'
+markdown_short: '[category_food_drink_coffee_tote](none)<br><br>'
 md5: a5df8d34f30b4f336fb5e866e65c6b75
 md5_10: a5df8d34f3
 md5_10_upper: A5DF8D34F3

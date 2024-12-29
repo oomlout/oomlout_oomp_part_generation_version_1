@@ -50,8 +50,9 @@
     "id_no_type": "starch_oats_tote",
     "id_no_size": "oats_tote",
     "oomp_key": "oomp_category_food_starch_oats_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_oats_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_oats_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_oats_tote",
     "directory": "parts/category_food_starch_oats_tote",
     "name": "Category Food Starch Oats Tote",
     "name_no_class": "Food Starch Oats Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Oats Tote",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[category_food_starch_oats_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats_tote)<br>[Category Food Starch Oats Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats_tote)<br><br>",
-    "markdown_short": "[category_food_starch_oats_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats_tote)<br><br>"
+    "markdown_full": "[category_food_starch_oats_tote](none)<br>[](none)<br>[Category Food Starch Oats Tote](none)<br><br>",
+    "markdown_short": "[category_food_starch_oats_tote](none)<br><br>"
 }

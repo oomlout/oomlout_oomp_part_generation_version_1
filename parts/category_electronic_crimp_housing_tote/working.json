@@ -50,8 +50,9 @@
     "id_no_type": "crimp_housing_tote",
     "id_no_size": "tote",
     "oomp_key": "oomp_category_electronic_crimp_housing_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_tote",
     "directory": "parts/category_electronic_crimp_housing_tote",
     "name": "Category Electronic Crimp Housing Tote",
     "name_no_class": "Electronic Crimp Housing Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Tote",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_crimp_housing_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_tote)<br>[Category Electronic Crimp Housing Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_tote)<br><br>",
-    "markdown_short": "[category_electronic_crimp_housing_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_tote)<br><br>"
+    "markdown_full": "[category_electronic_crimp_housing_tote](none)<br>[](none)<br>[Category Electronic Crimp Housing Tote](none)<br><br>",
+    "markdown_short": "[category_electronic_crimp_housing_tote](none)<br><br>"
 }

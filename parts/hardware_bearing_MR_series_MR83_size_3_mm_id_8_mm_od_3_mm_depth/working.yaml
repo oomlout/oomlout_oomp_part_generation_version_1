@@ -26,21 +26,22 @@ directory: parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth
 id: hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth
 id_no_class: bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth
 id_no_size: MR83_size_3_mm_id_8_mm_od_3_mm_depth
 id_no_type: MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth)<br>[Hardware
-    Bearing Mr Series Mr83 Size 3 Mm Id 8 Mm Od 3 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth)<br><br>'
-markdown_short: '[hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth)<br><br>'
+markdown_full: '[hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth](none)<br>[](none)<br>[Hardware
+    Bearing Mr Series Mr83 Size 3 Mm Id 8 Mm Od 3 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_bearing_MR_series_MR83_size_3_mm_id_8_mm_od_3_mm_depth](none)<br><br>'
 md5: 1218c1d1451d68f7b7516fb195043e05
 md5_10: 1218c1d145
 md5_10_upper: 1218C1D145

@@ -27,21 +27,22 @@ directory: parts/category_electronic_nettie
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie
 id: category_electronic_nettie
 id_no_class: electronic_nettie
 id_no_size: nettie
 id_no_type: nettie
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_nettie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie)<br>[Category
-    Electronic Nettie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie)<br><br>'
-markdown_short: '[category_electronic_nettie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie)<br><br>'
+markdown_full: '[category_electronic_nettie](none)<br>[](none)<br>[Category Electronic
+    Nettie](none)<br><br>'
+markdown_short: '[category_electronic_nettie](none)<br><br>'
 md5: 9633d9d6bd2cc9583006f79ddaac6053
 md5_10: 9633d9d6bd
 md5_10_upper: 9633D9D6BD

@@ -27,21 +27,22 @@ directory: parts/category_electronic_ic_mlf_32_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_mlf_32_tote
 id: category_electronic_ic_mlf_32_tote
 id_no_class: electronic_ic_mlf_32_tote
 id_no_size: mlf_32_tote
 id_no_type: ic_mlf_32_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_mlf_32_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_mlf_32_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_mlf_32_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_mlf_32_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_ic_mlf_32_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_mlf_32_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_mlf_32_tote)<br>[Category
-    Electronic Ic Mlf 32 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_mlf_32_tote)<br><br>'
-markdown_short: '[category_electronic_ic_mlf_32_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_mlf_32_tote)<br><br>'
+markdown_full: '[category_electronic_ic_mlf_32_tote](none)<br>[](none)<br>[Category
+    Electronic Ic Mlf 32 Tote](none)<br><br>'
+markdown_short: '[category_electronic_ic_mlf_32_tote](none)<br><br>'
 md5: 47fa72c85f3caed0570f67b57202c1cd
 md5_10: 47fa72c85f
 md5_10_upper: 47FA72C85F

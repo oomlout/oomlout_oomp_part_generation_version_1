@@ -27,21 +27,22 @@ directory: parts/category_food_fruit_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit_tote
 id: category_food_fruit_tote
 id_no_class: food_fruit_tote
 id_no_size: tote
 id_no_type: fruit_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_fruit_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_fruit_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_fruit_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food_fruit_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit_tote)<br>[Category
-    Food Fruit Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit_tote)<br><br>'
-markdown_short: '[category_food_fruit_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit_tote)<br><br>'
+markdown_full: '[category_food_fruit_tote](none)<br>[](none)<br>[Category Food Fruit
+    Tote](none)<br><br>'
+markdown_short: '[category_food_fruit_tote](none)<br><br>'
 md5: 1cb5aa254f0d80e610c0d03d80160843
 md5_10: 1cb5aa254f
 md5_10_upper: 1CB5AA254F

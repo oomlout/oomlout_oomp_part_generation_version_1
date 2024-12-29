@@ -50,8 +50,9 @@
     "id_no_type": "resistor_quarter_watt_through_hole",
     "id_no_size": "quarter_watt_through_hole",
     "oomp_key": "oomp_category_electronic_resistor_quarter_watt_through_hole",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole",
     "directory": "parts/category_electronic_resistor_quarter_watt_through_hole",
     "name": "Category Electronic Resistor Quarter Watt Through Hole",
     "name_no_class": "Electronic Resistor Quarter Watt Through Hole",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Quarter Watt Through Hole",
     "description_or_color": "Q ",
     "description_or_color_upper": "Q ",
-    "markdown_full": "[category_electronic_resistor_quarter_watt_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole)<br>[Category Electronic Resistor Quarter Watt Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole)<br><br>",
-    "markdown_short": "[category_electronic_resistor_quarter_watt_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole)<br><br>"
+    "markdown_full": "[category_electronic_resistor_quarter_watt_through_hole](none)<br>[](none)<br>[Category Electronic Resistor Quarter Watt Through Hole](none)<br><br>",
+    "markdown_short": "[category_electronic_resistor_quarter_watt_through_hole](none)<br><br>"
 }

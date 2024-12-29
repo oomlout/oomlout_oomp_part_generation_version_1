@@ -50,8 +50,9 @@
     "id_no_type": "knife_utility_blade_disposal_can",
     "id_no_size": "knife_utility_blade_disposal_can",
     "oomp_key": "oomp_category_tool_knife_utility_blade_disposal_can",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_knife_utility_blade_disposal_can",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_knife_utility_blade_disposal_can",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_knife_utility_blade_disposal_can",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_knife_utility_blade_disposal_can",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_knife_utility_blade_disposal_can",
     "directory": "parts/category_tool_knife_utility_blade_disposal_can",
     "name": "Category Tool Knife Utility Blade Disposal Can",
     "name_no_class": "Tool Knife Utility Blade Disposal Can",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Knife Utility Blade Disposal Can",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_tool_knife_utility_blade_disposal_can](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_knife_utility_blade_disposal_can)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_knife_utility_blade_disposal_can)<br>[Category Tool Knife Utility Blade Disposal Can](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_knife_utility_blade_disposal_can)<br><br>",
-    "markdown_short": "[category_tool_knife_utility_blade_disposal_can](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_knife_utility_blade_disposal_can)<br><br>"
+    "markdown_full": "[category_tool_knife_utility_blade_disposal_can](none)<br>[](none)<br>[Category Tool Knife Utility Blade Disposal Can](none)<br><br>",
+    "markdown_short": "[category_tool_knife_utility_blade_disposal_can](none)<br><br>"
 }

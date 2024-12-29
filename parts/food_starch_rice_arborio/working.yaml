@@ -27,21 +27,22 @@ directory: parts/food_starch_rice_arborio
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_arborio
 id: food_starch_rice_arborio
 id_no_class: starch_rice_arborio
 id_no_size: arborio
 id_no_type: rice_arborio
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_arborio
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_arborio
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_arborio
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_arborio
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_starch_rice_arborio](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_arborio)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_arborio)<br>[Food
-    Starch Rice Arborio](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_arborio)<br><br>'
-markdown_short: '[food_starch_rice_arborio](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_arborio)<br><br>'
+markdown_full: '[food_starch_rice_arborio](none)<br>[](none)<br>[Food Starch Rice
+    Arborio](none)<br><br>'
+markdown_short: '[food_starch_rice_arborio](none)<br><br>'
 md5: d000cd4967e838263945fdeefb08db06
 md5_10: d000cd4967
 md5_10_upper: D000CD4967

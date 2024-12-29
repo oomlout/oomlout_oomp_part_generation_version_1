@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 12_width_8_height_12_mm_depth
+description_main_capital: 12 Width 8 Height 12 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 12_WIDTH_8_HEIGHT_12_MM_DEPTH
+description_only_numbers: '12812'
+description_only_numbers_short: 13k
+description_or_color: 13k
+description_or_color_upper: 13K
+directory: parts/oobb_part_tray_vertical_12_width_8_height_12_mm_depth
+distributors: []
+id: oobb_part_tray_vertical_12_width_8_height_12_mm_depth
+id_no_class: part_tray_vertical_12_width_8_height_12_mm_depth
+id_no_size: 12_width_8_height_12_mm_depth
+id_no_type: tray_vertical_12_width_8_height_12_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_12_width_8_height_12_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_12_width_8_height_12_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_12_width_8_height_12_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_12_width_8_height_12_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray Vertical 12 Width 8 Height 12 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_12_width_8_height_12_mm_depth](none)<br><br>'
+md5: 71dcceb6fd111d443927300c4c8d2a11
+md5_10: 71dcceb6fd
+md5_10_upper: 71DCCEB6FD
+md5_5: 71dcc
+md5_5_upper: 71DCC
+md5_6: 71dcce
+md5_6_alpha: 4fxse
+md5_6_alpha_upper: 4FXSE
+md5_6_upper: 71DCCE
+name: Oobb Part Tray Vertical 12 Width 8 Height 12 Mm Depth
+name_no_class: Part Tray Vertical 12 Width 8 Height 12 Mm Depth
+name_no_size: 12 Width 8 Height 12 Mm Depth
+name_no_size_short: 12 Width 8 Height 12 Mm Depth
+name_no_type: Tray Vertical 12 Width 8 Height 12 Mm Depth
+oomp_key: oomp_oobb_part_tray_vertical_12_width_8_height_12_mm_depth
+oomp_word: bamboo factory peach
+oomp_word_emoji: ':bamboo: :factory: :peach:'
+oomp_word_emoji_list:
+- ':bamboo:'
+- ':factory:'
+- ':peach:'
+oomp_word_list:
+- bamboo
+- factory
+- peach
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

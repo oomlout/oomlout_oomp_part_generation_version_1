@@ -27,21 +27,22 @@ directory: parts/category_hardware_washer
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer
 id: category_hardware_washer
 id_no_class: hardware_washer
 id_no_size: washer
 id_no_type: washer
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_washer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer)<br>[Category
-    Hardware Washer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer)<br><br>'
-markdown_short: '[category_hardware_washer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_washer)<br><br>'
+markdown_full: '[category_hardware_washer](none)<br>[](none)<br>[Category Hardware
+    Washer](none)<br><br>'
+markdown_short: '[category_hardware_washer](none)<br><br>'
 md5: ac5bd4689c3cd1dec4278c8aa1e5622f
 md5_10: ac5bd4689c
 md5_10_upper: AC5BD4689C

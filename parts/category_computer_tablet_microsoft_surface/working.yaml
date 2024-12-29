@@ -27,21 +27,22 @@ directory: parts/category_computer_tablet_microsoft_surface
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_microsoft_surface
 id: category_computer_tablet_microsoft_surface
 id_no_class: computer_tablet_microsoft_surface
 id_no_size: microsoft_surface
 id_no_type: tablet_microsoft_surface
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_microsoft_surface
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_microsoft_surface
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_microsoft_surface
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_microsoft_surface
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_computer_tablet_microsoft_surface](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_microsoft_surface)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_microsoft_surface)<br>[Category
-    Computer Tablet Microsoft Surface](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_microsoft_surface)<br><br>'
-markdown_short: '[category_computer_tablet_microsoft_surface](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_microsoft_surface)<br><br>'
+markdown_full: '[category_computer_tablet_microsoft_surface](none)<br>[](none)<br>[Category
+    Computer Tablet Microsoft Surface](none)<br><br>'
+markdown_short: '[category_computer_tablet_microsoft_surface](none)<br><br>'
 md5: d1445d147b7dbdbdd832fce99f0928d6
 md5_10: d1445d147b
 md5_10_upper: D1445D147B

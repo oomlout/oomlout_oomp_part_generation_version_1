@@ -27,21 +27,22 @@ directory: parts/category_mechanical_motor_stepper_nema_17_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17_tote
 id: category_mechanical_motor_stepper_nema_17_tote
 id_no_class: mechanical_motor_stepper_nema_17_tote
 id_no_size: nema_17_tote
 id_no_type: motor_stepper_nema_17_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_mechanical_motor_stepper_nema_17_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17_tote)<br>[Category
-    Mechanical Motor Stepper Nema 17 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17_tote)<br><br>'
-markdown_short: '[category_mechanical_motor_stepper_nema_17_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17_tote)<br><br>'
+markdown_full: '[category_mechanical_motor_stepper_nema_17_tote](none)<br>[](none)<br>[Category
+    Mechanical Motor Stepper Nema 17 Tote](none)<br><br>'
+markdown_short: '[category_mechanical_motor_stepper_nema_17_tote](none)<br><br>'
 md5: d4e7da4c14e4f51b3a239e05b21af1e8
 md5_10: d4e7da4c14
 md5_10_upper: D4E7DA4C14

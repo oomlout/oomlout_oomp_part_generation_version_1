@@ -50,8 +50,9 @@
     "id_no_type": "timing_belt_2gt_2_mm_pitch",
     "id_no_size": "2gt_2_mm_pitch",
     "oomp_key": "oomp_category_mechanical_timing_belt_2gt_2_mm_pitch",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch",
     "directory": "parts/category_mechanical_timing_belt_2gt_2_mm_pitch",
     "name": "Category Mechanical Timing Belt 2Gt 2 Mm Pitch",
     "name_no_class": "Mechanical Timing Belt 2Gt 2 Mm Pitch",
@@ -89,6 +90,6 @@
     "name_no_size_short": "2Gt 2 Mm Pitch",
     "description_or_color": "2 ",
     "description_or_color_upper": "2 ",
-    "markdown_full": "[category_mechanical_timing_belt_2gt_2_mm_pitch](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch)<br>[Category Mechanical Timing Belt 2Gt 2 Mm Pitch](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch)<br><br>",
-    "markdown_short": "[category_mechanical_timing_belt_2gt_2_mm_pitch](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch)<br><br>"
+    "markdown_full": "[category_mechanical_timing_belt_2gt_2_mm_pitch](none)<br>[](none)<br>[Category Mechanical Timing Belt 2Gt 2 Mm Pitch](none)<br><br>",
+    "markdown_short": "[category_mechanical_timing_belt_2gt_2_mm_pitch](none)<br><br>"
 }

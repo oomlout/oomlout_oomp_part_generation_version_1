@@ -27,21 +27,22 @@ directory: parts/category_electronic_joystick_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick_tote
 id: category_electronic_joystick_tote
 id_no_class: electronic_joystick_tote
 id_no_size: tote
 id_no_type: joystick_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_joystick_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_joystick_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_joystick_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_joystick_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick_tote)<br>[Category
-    Electronic Joystick Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick_tote)<br><br>'
-markdown_short: '[category_electronic_joystick_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_joystick_tote)<br><br>'
+markdown_full: '[category_electronic_joystick_tote](none)<br>[](none)<br>[Category
+    Electronic Joystick Tote](none)<br><br>'
+markdown_short: '[category_electronic_joystick_tote](none)<br><br>'
 md5: d1f7a9c723c24778e5843359056b55eb
 md5_10: d1f7a9c723
 md5_10_upper: D1F7A9C723

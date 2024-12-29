@@ -49,8 +49,9 @@
     "id_no_type": "rice_long_grain_quick_cook",
     "id_no_size": "long_grain_quick_cook",
     "oomp_key": "oomp_food_starch_rice_long_grain_quick_cook",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook",
     "directory": "parts/food_starch_rice_long_grain_quick_cook",
     "name": "Food Starch Rice Long Grain Quick Cook",
     "name_no_class": "Starch Rice Long Grain Quick Cook",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Long Grain Quick Cook",
     "description_or_color": "L ",
     "description_or_color_upper": "L ",
-    "markdown_full": "[food_starch_rice_long_grain_quick_cook](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook)<br>[Food Starch Rice Long Grain Quick Cook](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook)<br><br>",
-    "markdown_short": "[food_starch_rice_long_grain_quick_cook](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook)<br><br>"
+    "markdown_full": "[food_starch_rice_long_grain_quick_cook](none)<br>[](none)<br>[Food Starch Rice Long Grain Quick Cook](none)<br><br>",
+    "markdown_short": "[food_starch_rice_long_grain_quick_cook](none)<br><br>"
 }

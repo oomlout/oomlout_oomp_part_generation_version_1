@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ro820_electronic_resistor_quarter_watt_through_hole_82_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_82_ohm
 id: electronic_resistor_quarter_watt_through_hole_82_ohm
 id_no_class: resistor_quarter_watt_through_hole_82_ohm
 id_no_size: 82_ohm
 id_no_type: quarter_watt_through_hole_82_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_82_ohm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_82_ohm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_82_ohm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_82_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_quarter_watt_through_hole_82_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_82_ohm)<br>[ro820](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_82_ohm)<br>[Electronic
-    Resistor Quarter Watt Through Hole 82 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_82_ohm)<br><br>'
-markdown_short: '[electronic_resistor_quarter_watt_through_hole_82_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_82_ohm)<br><br>'
+markdown_full: '[electronic_resistor_quarter_watt_through_hole_82_ohm](none)<br>[ro820](none)<br>[Electronic
+    Resistor Quarter Watt Through Hole 82 Ohm](none)<br><br>'
+markdown_short: '[electronic_resistor_quarter_watt_through_hole_82_ohm](none)<br><br>'
 md5: 3450d47bdad2075fb644b08427010a8f
 md5_10: 3450d47bda
 md5_10_upper: 3450D47BDA

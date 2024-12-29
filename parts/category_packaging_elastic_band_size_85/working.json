@@ -50,8 +50,9 @@
     "id_no_type": "elastic_band_size_85",
     "id_no_size": "size_85",
     "oomp_key": "oomp_category_packaging_elastic_band_size_85",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band_size_85",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band_size_85",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_elastic_band_size_85",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_elastic_band_size_85",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_elastic_band_size_85",
     "directory": "parts/category_packaging_elastic_band_size_85",
     "name": "Category Packaging Elastic Band Size 85",
     "name_no_class": "Packaging Elastic Band Size 85",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Size 85",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_packaging_elastic_band_size_85](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band_size_85)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band_size_85)<br>[Category Packaging Elastic Band Size 85](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band_size_85)<br><br>",
-    "markdown_short": "[category_packaging_elastic_band_size_85](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band_size_85)<br><br>"
+    "markdown_full": "[category_packaging_elastic_band_size_85](none)<br>[](none)<br>[Category Packaging Elastic Band Size 85](none)<br><br>",
+    "markdown_short": "[category_packaging_elastic_band_size_85](none)<br><br>"
 }

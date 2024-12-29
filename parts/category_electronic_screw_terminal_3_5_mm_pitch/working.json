@@ -50,8 +50,9 @@
     "id_no_type": "screw_terminal_3_5_mm_pitch",
     "id_no_size": "3_5_mm_pitch",
     "oomp_key": "oomp_category_electronic_screw_terminal_3_5_mm_pitch",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch",
     "directory": "parts/category_electronic_screw_terminal_3_5_mm_pitch",
     "name": "Category Electronic Screw Terminal 3 5 Mm Pitch",
     "name_no_class": "Electronic Screw Terminal 3 5 Mm Pitch",
@@ -89,6 +90,6 @@
     "name_no_size_short": "3 5 Mm Pitch",
     "description_or_color": "3 ",
     "description_or_color_upper": "3 ",
-    "markdown_full": "[category_electronic_screw_terminal_3_5_mm_pitch](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch)<br>[Category Electronic Screw Terminal 3 5 Mm Pitch](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch)<br><br>",
-    "markdown_short": "[category_electronic_screw_terminal_3_5_mm_pitch](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch)<br><br>"
+    "markdown_full": "[category_electronic_screw_terminal_3_5_mm_pitch](none)<br>[](none)<br>[Category Electronic Screw Terminal 3 5 Mm Pitch](none)<br><br>",
+    "markdown_short": "[category_electronic_screw_terminal_3_5_mm_pitch](none)<br><br>"
 }

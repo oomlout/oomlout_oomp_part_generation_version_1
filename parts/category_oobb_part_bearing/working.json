@@ -50,8 +50,9 @@
     "id_no_type": "part_bearing",
     "id_no_size": "bearing",
     "oomp_key": "oomp_category_oobb_part_bearing",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing",
     "directory": "parts/category_oobb_part_bearing",
     "name": "Category Oobb Part Bearing",
     "name_no_class": "Oobb Part Bearing",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Bearing",
     "description_or_color": "B ",
     "description_or_color_upper": "B ",
-    "markdown_full": "[category_oobb_part_bearing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing)<br>[Category Oobb Part Bearing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing)<br><br>",
-    "markdown_short": "[category_oobb_part_bearing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing)<br><br>"
+    "markdown_full": "[category_oobb_part_bearing](none)<br>[](none)<br>[Category Oobb Part Bearing](none)<br><br>",
+    "markdown_short": "[category_oobb_part_bearing](none)<br><br>"
 }

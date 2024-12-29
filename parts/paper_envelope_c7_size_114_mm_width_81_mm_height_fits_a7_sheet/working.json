@@ -50,8 +50,9 @@
     "id_no_type": "c7_size_114_mm_width_81_mm_height_fits_a7_sheet",
     "id_no_size": "c7_size_114_mm_width_81_mm_height_fits_a7_sheet",
     "oomp_key": "oomp_paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet",
     "directory": "parts/paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet",
     "name": "Paper Envelope C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet",
     "name_no_class": "Envelope C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet",
@@ -89,6 +90,6 @@
     "name_no_size_short": "C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet)<br>[Paper Envelope C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet)<br><br>",
-    "markdown_short": "[paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet)<br><br>"
+    "markdown_full": "[paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet](none)<br>[](none)<br>[Paper Envelope C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet](none)<br><br>",
+    "markdown_short": "[paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet](none)<br><br>"
 }

@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/ORFJ",
-    "link_github": "https://github.com/oomlout/ORFJ",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_orfj",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_orfj",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_orfj",
     "id_no_size": "orfj",
     "oomp_key": "oomp_project_github_oomlout_orfj",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_orfj",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_orfj",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_orfj",
     "directory": "parts/project_github_oomlout_orfj",
     "name": "Project Github Oomlout Orfj",
     "name_no_class": "Github Oomlout Orfj",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Orfj",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[project_github_oomlout_orfj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_orfj)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_orfj)<br>[Project Github Oomlout Orfj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_orfj)<br><br>",
-    "markdown_short": "[project_github_oomlout_orfj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_orfj)<br><br>"
+    "markdown_full": "[project_github_oomlout_orfj](none)<br>[](none)<br>[Project Github Oomlout Orfj](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_orfj](none)<br><br>"
 }

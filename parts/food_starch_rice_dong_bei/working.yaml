@@ -27,21 +27,22 @@ directory: parts/food_starch_rice_dong_bei
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei
 id: food_starch_rice_dong_bei
 id_no_class: starch_rice_dong_bei
 id_no_size: dong_bei
 id_no_type: rice_dong_bei
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_dong_bei
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_dong_bei
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_dong_bei
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_starch_rice_dong_bei](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei)<br>[Food
-    Starch Rice Dong Bei](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei)<br><br>'
-markdown_short: '[food_starch_rice_dong_bei](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei)<br><br>'
+markdown_full: '[food_starch_rice_dong_bei](none)<br>[](none)<br>[Food Starch Rice
+    Dong Bei](none)<br><br>'
+markdown_short: '[food_starch_rice_dong_bei](none)<br><br>'
 md5: e496dae776c63bd49d1d6475f3e3fd55
 md5_10: e496dae776
 md5_10_upper: E496DAE776

@@ -27,21 +27,22 @@ directory: parts/category_furniture_table
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_table
 id: category_furniture_table
 id_no_class: furniture_table
 id_no_size: table
 id_no_type: table
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_table
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_table
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_table
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_table
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_furniture_table](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_table)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_table)<br>[Category
-    Furniture Table](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_table)<br><br>'
-markdown_short: '[category_furniture_table](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_table)<br><br>'
+markdown_full: '[category_furniture_table](none)<br>[](none)<br>[Category Furniture
+    Table](none)<br><br>'
+markdown_short: '[category_furniture_table](none)<br><br>'
 md5: 5789b54f71672abb1928a59855c96f64
 md5_10: 5789b54f71
 md5_10_upper: 5789B54F71

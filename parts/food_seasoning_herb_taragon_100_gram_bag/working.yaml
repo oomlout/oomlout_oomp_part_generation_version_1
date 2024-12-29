@@ -27,21 +27,22 @@ directory: parts/food_seasoning_herb_taragon_100_gram_bag
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_herb_taragon_100_gram_bag
 id: food_seasoning_herb_taragon_100_gram_bag
 id_no_class: seasoning_herb_taragon_100_gram_bag
 id_no_size: taragon_100_gram_bag
 id_no_type: herb_taragon_100_gram_bag
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_herb_taragon_100_gram_bag
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_taragon_100_gram_bag
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_taragon_100_gram_bag
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_taragon_100_gram_bag
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_seasoning_herb_taragon_100_gram_bag](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_herb_taragon_100_gram_bag)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_herb_taragon_100_gram_bag)<br>[Food
-    Seasoning Herb Taragon 100 Gram Bag](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_herb_taragon_100_gram_bag)<br><br>'
-markdown_short: '[food_seasoning_herb_taragon_100_gram_bag](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_herb_taragon_100_gram_bag)<br><br>'
+markdown_full: '[food_seasoning_herb_taragon_100_gram_bag](none)<br>[](none)<br>[Food
+    Seasoning Herb Taragon 100 Gram Bag](none)<br><br>'
+markdown_short: '[food_seasoning_herb_taragon_100_gram_bag](none)<br><br>'
 md5: 671be6889584a2a02f28d97f0ab719dc
 md5_10: 671be68895
 md5_10_upper: 671BE68895

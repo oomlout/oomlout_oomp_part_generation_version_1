@@ -24,21 +24,22 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/appliance_vacuum_cleaner_dyson_v8_dyson_v8
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v8_dyson_v8
 id: appliance_vacuum_cleaner_dyson_v8_dyson_v8
 id_no_class: vacuum_cleaner_dyson_v8_dyson_v8
 id_no_size: dyson_v8
 id_no_type: dyson_v8_dyson_v8
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v8_dyson_v8
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v8_dyson_v8
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v8_dyson_v8
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v8_dyson_v8
 manufacturer: dyson
 manufacturer_capital: Dyson
 manufacturer_first_letter: d
 manufacturer_first_letter_upper: D
 manufacturer_upper: DYSON
 manufacturers: []
-markdown_full: '[appliance_vacuum_cleaner_dyson_v8_dyson_v8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v8_dyson_v8)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v8_dyson_v8)<br>[Appliance
-    Vacuum Cleaner Dyson V8 Dyson V8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v8_dyson_v8)<br><br>'
-markdown_short: '[appliance_vacuum_cleaner_dyson_v8_dyson_v8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v8_dyson_v8)<br><br>'
+markdown_full: '[appliance_vacuum_cleaner_dyson_v8_dyson_v8](none)<br>[](none)<br>[Appliance
+    Vacuum Cleaner Dyson V8 Dyson V8](none)<br><br>'
+markdown_short: '[appliance_vacuum_cleaner_dyson_v8_dyson_v8](none)<br><br>'
 md5: 282409eb21855e0add5f5393f61a2c55
 md5_10: 282409eb21
 md5_10_upper: 282409EB21

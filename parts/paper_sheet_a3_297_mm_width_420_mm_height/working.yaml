@@ -26,22 +26,23 @@ directory: parts/paper_sheet_a3_297_mm_width_420_mm_height
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height
 height: 420 mm
 id: paper_sheet_a3_297_mm_width_420_mm_height
 id_no_class: sheet_a3_297_mm_width_420_mm_height
 id_no_size: a3_297_mm_width_420_mm_height
 id_no_type: a3_297_mm_width_420_mm_height
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[paper_sheet_a3_297_mm_width_420_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height)<br>[Paper
-    Sheet A3 297 Mm Width 420 Mm Height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height)<br><br>'
-markdown_short: '[paper_sheet_a3_297_mm_width_420_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height)<br><br>'
+markdown_full: '[paper_sheet_a3_297_mm_width_420_mm_height](none)<br>[](none)<br>[Paper
+    Sheet A3 297 Mm Width 420 Mm Height](none)<br><br>'
+markdown_short: '[paper_sheet_a3_297_mm_width_420_mm_height](none)<br><br>'
 md5: 6eb8fc790ec1b12c9746b35980c4ba74
 md5_10: 6eb8fc790e
 md5_10_upper: 6EB8FC790E

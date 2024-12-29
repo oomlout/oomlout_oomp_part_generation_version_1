@@ -50,8 +50,9 @@
     "id_no_type": "three_d_printer",
     "id_no_size": "threedprinter",
     "oomp_key": "oomp_category_three_d_printer",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer",
     "directory": "parts/category_three_d_printer",
     "name": "Category Three D Printer",
     "name_no_class": "Three D Printer",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Threedprinter",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_three_d_printer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer)<br>[Category Three D Printer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer)<br><br>",
-    "markdown_short": "[category_three_d_printer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer)<br><br>"
+    "markdown_full": "[category_three_d_printer](none)<br>[](none)<br>[Category Three D Printer](none)<br><br>",
+    "markdown_short": "[category_three_d_printer](none)<br><br>"
 }

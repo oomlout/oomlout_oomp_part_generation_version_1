@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 7_width_1_height_30_mm_depth
+description_main_capital: 7 Width 1 Height 30 mm Depth
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 7_WIDTH_1_HEIGHT_30_MM_DEPTH
+description_only_numbers: '7130'
+description_only_numbers_short: 7k1
+description_or_color: 7k1
+description_or_color_upper: 7K1
+directory: parts/oobb_part_tray_thin_7_width_1_height_30_mm_depth
+distributors: []
+id: oobb_part_tray_thin_7_width_1_height_30_mm_depth
+id_no_class: part_tray_thin_7_width_1_height_30_mm_depth
+id_no_size: 7_width_1_height_30_mm_depth
+id_no_type: tray_thin_7_width_1_height_30_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_7_width_1_height_30_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_7_width_1_height_30_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_7_width_1_height_30_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_thin_7_width_1_height_30_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray Thin 7 Width 1 Height 30 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_thin_7_width_1_height_30_mm_depth](none)<br><br>'
+md5: caefc3f6656a964024a5bdfa625e9dc5
+md5_10: caefc3f665
+md5_10_upper: CAEFC3F665
+md5_5: caefc
+md5_5_upper: CAEFC
+md5_6: caefc3
+md5_6_alpha: 7x22r
+md5_6_alpha_upper: 7X22R
+md5_6_upper: CAEFC3
+name: Oobb Part Tray Thin 7 Width 1 Height 30 Mm Depth
+name_no_class: Part Tray Thin 7 Width 1 Height 30 Mm Depth
+name_no_size: 7 Width 1 Height 30 Mm Depth
+name_no_size_short: 7 Width 1 Height 30 Mm Depth
+name_no_type: Tray Thin 7 Width 1 Height 30 Mm Depth
+oomp_key: oomp_oobb_part_tray_thin_7_width_1_height_30_mm_depth
+oomp_word: cherries truck cake
+oomp_word_emoji: ':cherries: :truck: :cake:'
+oomp_word_emoji_list:
+- ':cherries:'
+- ':truck:'
+- ':cake:'
+oomp_word_list:
+- cherries
+- truck
+- cake
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_thin
+size_capital: Tray Thin
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_THIN
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -48,8 +48,9 @@
     "id_no_type": "0603_white_tint",
     "id_no_size": "white_tint",
     "oomp_key": "oomp_electronic_led_0603_white_tint",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_white_tint",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_white_tint",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_white_tint",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_white_tint",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_white_tint",
     "directory": "parts/electronic_led_0603_white_tint",
     "name": "Electronic Led 0603 White Tint",
     "name_no_class": "Led 0603 White Tint",
@@ -106,6 +107,6 @@
     "name_no_size_short": "White Tint",
     "description_or_color": "W ",
     "description_or_color_upper": "W ",
-    "markdown_full": "[electronic_led_0603_white_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_white_tint)<br>[l6w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_white_tint)<br>[Electronic Led 0603 White Tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_white_tint)<br>[LCSC - C965808<br>](https://lcsc.com/product-detail/C965808.html)<br>[XINGLIGHT - XL-1608UWC-04]() [(L)  ](https://www.lcsc.com/search?q=XL-1608UWC-04)[(D)  ](https://www.digikey.com/en/products?keywords=XL-1608UWC-04)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608UWC-04)[(N)  ](https://www.newark.com/search?st=XL-1608UWC-04)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608UWC-04)<br>",
-    "markdown_short": "[electronic_led_0603_white_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_white_tint)<br>[LCSC - C965808<br>](https://lcsc.com/product-detail/C965808.html)<br>[XINGLIGHT - XL-1608UWC-04]()"
+    "markdown_full": "[electronic_led_0603_white_tint](none)<br>[l6w](none)<br>[Electronic Led 0603 White Tint](none)<br>[LCSC - C965808<br>](https://lcsc.com/product-detail/C965808.html)<br>[XINGLIGHT - XL-1608UWC-04]() [(L)  ](https://www.lcsc.com/search?q=XL-1608UWC-04)[(D)  ](https://www.digikey.com/en/products?keywords=XL-1608UWC-04)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608UWC-04)[(N)  ](https://www.newark.com/search?st=XL-1608UWC-04)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608UWC-04)<br>",
+    "markdown_short": "[electronic_led_0603_white_tint](none)<br>[LCSC - C965808<br>](https://lcsc.com/product-detail/C965808.html)<br>[XINGLIGHT - XL-1608UWC-04]()"
 }

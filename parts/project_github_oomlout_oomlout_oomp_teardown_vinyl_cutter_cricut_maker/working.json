@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/oomlout_oomp_teardown_vinyl_cutter_cricut_maker",
-    "link_github": "https://github.com/oomlout/oomlout_oomp_teardown_vinyl_cutter_cricut_maker",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_vinyl_cutter_cricut_maker",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_vinyl_cutter_cricut_maker",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_oomlout_oomp_teardown_vinyl_cutter_cricut_maker",
     "id_no_size": "oomp_teardown_vinyl_cutter_cricut_maker",
     "oomp_key": "oomp_project_github_oomlout_oomlout_oomp_teardown_vinyl_cutter_cricut_maker",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_vinyl_cutter_cricut_maker",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_vinyl_cutter_cricut_maker",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_vinyl_cutter_cricut_maker",
     "directory": "parts/project_github_oomlout_oomlout_oomp_teardown_vinyl_cutter_cricut_maker",
     "name": "Project Github Oomlout Oomlout Oomp Teardown Vinyl Cutter Cricut Maker",
     "name_no_class": "Github Oomlout Oomlout Oomp Teardown Vinyl Cutter Cricut Maker",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Oomp Teardown Vinyl Cutter Cricut Maker",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[project_github_oomlout_oomlout_oomp_teardown_vinyl_cutter_cricut_maker](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_vinyl_cutter_cricut_maker)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_vinyl_cutter_cricut_maker)<br>[Project Github Oomlout Oomlout Oomp Teardown Vinyl Cutter Cricut Maker](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_vinyl_cutter_cricut_maker)<br><br>",
-    "markdown_short": "[project_github_oomlout_oomlout_oomp_teardown_vinyl_cutter_cricut_maker](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_vinyl_cutter_cricut_maker)<br><br>"
+    "markdown_full": "[project_github_oomlout_oomlout_oomp_teardown_vinyl_cutter_cricut_maker](none)<br>[](none)<br>[Project Github Oomlout Oomlout Oomp Teardown Vinyl Cutter Cricut Maker](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_oomlout_oomp_teardown_vinyl_cutter_cricut_maker](none)<br><br>"
 }

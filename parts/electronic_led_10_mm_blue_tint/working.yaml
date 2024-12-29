@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l10l_electronic_led_10_mm_blue_tint
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_blue_tint
 id: electronic_led_10_mm_blue_tint
 id_no_class: led_10_mm_blue_tint
 id_no_size: blue_tint
 id_no_type: 10_mm_blue_tint
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_blue_tint
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_blue_tint
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_blue_tint
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_blue_tint
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_10_mm_blue_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_blue_tint)<br>[l10l](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_blue_tint)<br>[Electronic
-    Led 10 Mm Blue Tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_blue_tint)<br><br>'
-markdown_short: '[electronic_led_10_mm_blue_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_blue_tint)<br><br>'
+markdown_full: '[electronic_led_10_mm_blue_tint](none)<br>[l10l](none)<br>[Electronic
+    Led 10 Mm Blue Tint](none)<br><br>'
+markdown_short: '[electronic_led_10_mm_blue_tint](none)<br><br>'
 md5: ccfc03f16f3f41d8e6121d11903c1e82
 md5_10: ccfc03f16f
 md5_10_upper: CCFC03F16F

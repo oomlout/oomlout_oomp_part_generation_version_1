@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 6808_bearing_name
+description_extra_capital: 6808 Bearing Name
+description_extra_first_letter: '6'
+description_extra_first_letter_upper: '6'
+description_extra_upper: 6808_BEARING_NAME
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_bearing_6808_bearing_name
+distributors: []
+id: oobb_part_bearing_6808_bearing_name
+id_no_class: part_bearing_6808_bearing_name
+id_no_size: 6808_name
+id_no_type: bearing_6808_bearing_name
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6808_bearing_name
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6808_bearing_name
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6808_bearing_name
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bearing_6808_bearing_name](none)<br>[](none)<br>[Oobb Part
+    Bearing 6808 Bearing Name](none)<br><br>'
+markdown_short: '[oobb_part_bearing_6808_bearing_name](none)<br><br>'
+md5: 0b6575d9dcc6fe112bfa92672c0198eb
+md5_10: 0b6575d9dc
+md5_10_upper: 0B6575D9DC
+md5_5: 0b657
+md5_5_upper: 0B657
+md5_6: 0b6575
+md5_6_alpha: g0ad
+md5_6_alpha_upper: G0AD
+md5_6_upper: 0B6575
+name: Oobb Part Bearing 6808 Bearing Name
+name_no_class: Part Bearing 6808 Bearing Name
+name_no_size: 6808 Name
+name_no_size_short: 6808 Name
+name_no_type: Bearing 6808 Bearing Name
+oomp_key: oomp_oobb_part_bearing_6808_bearing_name
+oomp_word: sunglasses maple_leaf ghost
+oomp_word_emoji: ':sunglasses: :maple_leaf: :ghost:'
+oomp_word_emoji_list:
+- ':sunglasses:'
+- ':maple_leaf:'
+- ':ghost:'
+oomp_word_list:
+- sunglasses
+- maple_leaf
+- ghost
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bearing
+size_capital: Bearing
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

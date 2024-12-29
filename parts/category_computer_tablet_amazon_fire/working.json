@@ -50,8 +50,9 @@
     "id_no_type": "tablet_amazon_fire",
     "id_no_size": "amazon_fire",
     "oomp_key": "oomp_category_computer_tablet_amazon_fire",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_amazon_fire",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_amazon_fire",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_amazon_fire",
     "directory": "parts/category_computer_tablet_amazon_fire",
     "name": "Category Computer Tablet Amazon Fire",
     "name_no_class": "Computer Tablet Amazon Fire",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Amazon Fire",
     "description_or_color": "A ",
     "description_or_color_upper": "A ",
-    "markdown_full": "[category_computer_tablet_amazon_fire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire)<br>[Category Computer Tablet Amazon Fire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire)<br><br>",
-    "markdown_short": "[category_computer_tablet_amazon_fire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire)<br><br>"
+    "markdown_full": "[category_computer_tablet_amazon_fire](none)<br>[](none)<br>[Category Computer Tablet Amazon Fire](none)<br><br>",
+    "markdown_short": "[category_computer_tablet_amazon_fire](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_hardware_screw_self_tapping_m1
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_self_tapping_m1
 id: category_hardware_screw_self_tapping_m1
 id_no_class: hardware_screw_self_tapping_m1
 id_no_size: m1
 id_no_type: screw_self_tapping_m1
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_self_tapping_m1
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_self_tapping_m1
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_self_tapping_m1
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_self_tapping_m1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_screw_self_tapping_m1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_self_tapping_m1)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_self_tapping_m1)<br>[Category
-    Hardware Screw Self Tapping M1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_self_tapping_m1)<br><br>'
-markdown_short: '[category_hardware_screw_self_tapping_m1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_screw_self_tapping_m1)<br><br>'
+markdown_full: '[category_hardware_screw_self_tapping_m1](none)<br>[](none)<br>[Category
+    Hardware Screw Self Tapping M1](none)<br><br>'
+markdown_short: '[category_hardware_screw_self_tapping_m1](none)<br><br>'
 md5: b3e0ff963099b209b347e4c02ba18b4d
 md5_10: b3e0ff9630
 md5_10_upper: B3E0FF9630

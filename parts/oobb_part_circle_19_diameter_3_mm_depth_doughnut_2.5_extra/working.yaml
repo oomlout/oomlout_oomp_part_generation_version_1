@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: doughnut_2.5_extra
+description_extra_capital: Doughnut 2.5 Extra
+description_extra_first_letter: d
+description_extra_first_letter_upper: D
+description_extra_upper: DOUGHNUT_2.5_EXTRA
+description_main: 19_diameter_3_mm_depth
+description_main_capital: 19 Diameter 3 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 19_DIAMETER_3_MM_DEPTH
+description_only_numbers: '193'
+description_only_numbers_short: '193'
+description_or_color: '193'
+description_or_color_upper: '193'
+directory: parts/oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+distributors: []
+id: oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+id_no_class: part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+id_no_size: 19_diameter_3_mm_depth_doughnut_2.5_extra
+id_no_type: circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra](none)<br>[](none)<br>[Oobb
+    Part Circle 19 Diameter 3 Mm Depth Doughnut 2.5 Extra](none)<br><br>'
+markdown_short: '[oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra](none)<br><br>'
+md5: e7f5a0738e7084fba2fc12b09902d287
+md5_10: e7f5a0738e
+md5_10_upper: E7F5A0738E
+md5_5: e7f5a
+md5_5_upper: E7F5A
+md5_6: e7f5a0
+md5_6_alpha: 91tpc
+md5_6_alpha_upper: 91TPC
+md5_6_upper: E7F5A0
+name: Oobb Part Circle 19 Diameter 3 Mm Depth Doughnut 2.5 Extra
+name_no_class: Part Circle 19 Diameter 3 Mm Depth Doughnut 2.5 Extra
+name_no_size: 19 Diameter 3 Mm Depth Doughnut 2.5 Extra
+name_no_size_short: 19 Diameter 3 Mm Depth Doughnut 2.5 Extra
+name_no_type: Circle 19 Diameter 3 Mm Depth Doughnut 2.5 Extra
+oomp_key: oomp_oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+oomp_word: helicopter four ring
+oomp_word_emoji: ':helicopter: :four: :ring:'
+oomp_word_emoji_list:
+- ':helicopter:'
+- ':four:'
+- ':ring:'
+oomp_word_list:
+- helicopter
+- four
+- ring
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: circle
+size_capital: Circle
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CIRCLE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

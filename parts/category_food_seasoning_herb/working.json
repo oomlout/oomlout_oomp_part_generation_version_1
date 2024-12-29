@@ -50,8 +50,9 @@
     "id_no_type": "seasoning_herb",
     "id_no_size": "herb",
     "oomp_key": "oomp_category_food_seasoning_herb",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_herb",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_herb",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_herb",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_herb",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_herb",
     "directory": "parts/category_food_seasoning_herb",
     "name": "Category Food Seasoning Herb",
     "name_no_class": "Food Seasoning Herb",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Herb",
     "description_or_color": "H ",
     "description_or_color_upper": "H ",
-    "markdown_full": "[category_food_seasoning_herb](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_herb)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_herb)<br>[Category Food Seasoning Herb](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_herb)<br><br>",
-    "markdown_short": "[category_food_seasoning_herb](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_herb)<br><br>"
+    "markdown_full": "[category_food_seasoning_herb](none)<br>[](none)<br>[Category Food Seasoning Herb](none)<br><br>",
+    "markdown_short": "[category_food_seasoning_herb](none)<br><br>"
 }

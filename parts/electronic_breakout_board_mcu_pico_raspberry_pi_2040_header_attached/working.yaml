@@ -36,22 +36,23 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_pcrp2040_electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_pcrp2040_electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached
 id: electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached
 id_no_class: breakout_board_mcu_pico_raspberry_pi_2040_header_attached
 id_no_size: raspberry_pi_2040_header_attached
 id_no_type: pico_raspberry_pi_2040_header_attached
 kicad_reference: BB
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached)<br>[pcrp2040](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached)<br>[Electronic
-    Breakout Board Mcu Pico Raspberry Pi 2040 Header Attached](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached)<br><br>'
-markdown_short: '[electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached)<br><br>'
+markdown_full: '[electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached](none)<br>[pcrp2040](none)<br>[Electronic
+    Breakout Board Mcu Pico Raspberry Pi 2040 Header Attached](none)<br><br>'
+markdown_short: '[electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached](none)<br><br>'
 md5: b044fbc19ce75915d1a9f8bae698b84a
 md5_10: b044fbc19c
 md5_10_upper: B044FBC19C

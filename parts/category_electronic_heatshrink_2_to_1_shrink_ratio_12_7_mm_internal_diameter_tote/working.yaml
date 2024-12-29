@@ -27,21 +27,22 @@ directory: parts/category_electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_inte
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_tote
 id: category_electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_tote
 id_no_class: electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_tote
 id_no_size: 12_7_mm_internal_diameter_tote
 id_no_type: heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_tote)<br>[Category
-    Electronic Heatshrink 2 To 1 Shrink Ratio 12 7 Mm Internal Diameter Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_tote)<br><br>'
-markdown_short: '[category_electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_tote)<br><br>'
+markdown_full: '[category_electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_tote](none)<br>[](none)<br>[Category
+    Electronic Heatshrink 2 To 1 Shrink Ratio 12 7 Mm Internal Diameter Tote](none)<br><br>'
+markdown_short: '[category_electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_tote](none)<br><br>'
 md5: cec732817e9861de790f363adbf13056
 md5_10: cec732817e
 md5_10_upper: CEC732817E

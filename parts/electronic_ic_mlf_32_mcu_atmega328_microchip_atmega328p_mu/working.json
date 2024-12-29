@@ -46,8 +46,9 @@
     "id_no_type": "mlf_32_mcu_atmega328_microchip_atmega328p_mu",
     "id_no_size": "mcu_atmega328_microchip_atmega328p_mu",
     "oomp_key": "oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu",
     "directory": "parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu",
     "name": "Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu",
     "name_no_class": "Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Mcu Atmega328 Microchip Atmega328P Mu",
     "description_or_color": "M328",
     "description_or_color_upper": "M328",
-    "markdown_full": "[electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu)<br>[imlf32mcuat328](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu)<br>[Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu)<br><br>",
-    "markdown_short": "[electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu)<br><br>"
+    "markdown_full": "[electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](none)<br>[imlf32mcuat328](none)<br>[Electronic Ic Mlf 32 Mcu Atmega328 Microchip Atmega328P Mu](none)<br><br>",
+    "markdown_short": "[electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu](none)<br><br>"
 }

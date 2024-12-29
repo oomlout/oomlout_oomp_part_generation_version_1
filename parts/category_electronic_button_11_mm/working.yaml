@@ -27,21 +27,22 @@ directory: parts/category_electronic_button_11_mm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_button_11_mm
 id: category_electronic_button_11_mm
 id_no_class: electronic_button_11_mm
 id_no_size: 11_mm
 id_no_type: button_11_mm
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_button_11_mm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_button_11_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_button_11_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_button_11_mm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_button_11_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_button_11_mm)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_button_11_mm)<br>[Category
-    Electronic Button 11 Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_button_11_mm)<br><br>'
-markdown_short: '[category_electronic_button_11_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_button_11_mm)<br><br>'
+markdown_full: '[category_electronic_button_11_mm](none)<br>[](none)<br>[Category
+    Electronic Button 11 Mm](none)<br><br>'
+markdown_short: '[category_electronic_button_11_mm](none)<br><br>'
 md5: 890c2b58bc713ac5e4badb216a16699e
 md5_10: 890c2b58bc
 md5_10_upper: 890C2B58BC

@@ -27,21 +27,21 @@ directory: parts/category_stationery
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery
 id: category_stationery
 id_no_class: stationery
 id_no_size: stationery
 id_no_type: stationery
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_stationery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery)<br>[Category
-    Stationery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery)<br><br>'
-markdown_short: '[category_stationery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery)<br><br>'
+markdown_full: '[category_stationery](none)<br>[](none)<br>[Category Stationery](none)<br><br>'
+markdown_short: '[category_stationery](none)<br><br>'
 md5: a0b313b5c60a35d395b34cbb459168b5
 md5_10: a0b313b5c6
 md5_10_upper: A0B313B5C6

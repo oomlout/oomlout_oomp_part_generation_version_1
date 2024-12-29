@@ -50,8 +50,9 @@
     "id_no_type": "pretend_job",
     "id_no_size": "pretend_job",
     "oomp_key": "oomp_category_household_toy_pretend_job",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_job",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_job",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_job",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_job",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_job",
     "directory": "parts/category_household_toy_pretend_job",
     "name": "Category Household Toy Pretend Job",
     "name_no_class": "Household Toy Pretend Job",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Pretend Job",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_household_toy_pretend_job](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_job)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_job)<br>[Category Household Toy Pretend Job](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_job)<br><br>",
-    "markdown_short": "[category_household_toy_pretend_job](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_job)<br><br>"
+    "markdown_full": "[category_household_toy_pretend_job](none)<br>[](none)<br>[Category Household Toy Pretend Job](none)<br><br>",
+    "markdown_short": "[category_household_toy_pretend_job](none)<br><br>"
 }

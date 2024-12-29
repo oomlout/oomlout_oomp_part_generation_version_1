@@ -26,21 +26,22 @@ directory: parts/hardware_nut_m5_2020_t_nut
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_2020_t_nut
 id: hardware_nut_m5_2020_t_nut
 id_no_class: nut_m5_2020_t_nut
 id_no_size: 2020_t_nut
 id_no_type: m5_2020_t_nut
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_2020_t_nut
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m5_2020_t_nut
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m5_2020_t_nut
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m5_2020_t_nut
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m5_2020_t_nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_2020_t_nut)<br>[nu5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_2020_t_nut)<br>[Hardware
-    Nut M5 2020 T Nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_2020_t_nut)<br><br>'
-markdown_short: '[hardware_nut_m5_2020_t_nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_2020_t_nut)<br><br>'
+markdown_full: '[hardware_nut_m5_2020_t_nut](none)<br>[nu5](none)<br>[Hardware Nut
+    M5 2020 T Nut](none)<br><br>'
+markdown_short: '[hardware_nut_m5_2020_t_nut](none)<br><br>'
 md5: df600821c5487c7a328a45eaae9f03a4
 md5_10: df600821c5
 md5_10_upper: DF600821C5

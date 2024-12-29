@@ -46,8 +46,9 @@
     "id_no_type": "240_volt_input_uk_socket_9_volt_0_6_amp_output_2_1_mm_barrel_plug_center_positive",
     "id_no_size": "uk_socket_9_volt_0_6_amp_output_2_1_mm_barrel_plug_center_positive",
     "oomp_key": "oomp_electrical_wall_wart_240_volt_input_uk_socket_9_volt_0_6_amp_output_2_1_mm_barrel_plug_center_positive",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_wall_wart_240_volt_input_uk_socket_9_volt_0_6_amp_output_2_1_mm_barrel_plug_center_positive",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_wall_wart_240_volt_input_uk_socket_9_volt_0_6_amp_output_2_1_mm_barrel_plug_center_positive",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_wall_wart_240_volt_input_uk_socket_9_volt_0_6_amp_output_2_1_mm_barrel_plug_center_positive",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_wall_wart_240_volt_input_uk_socket_9_volt_0_6_amp_output_2_1_mm_barrel_plug_center_positive",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_wall_wart_240_volt_input_uk_socket_9_volt_0_6_amp_output_2_1_mm_barrel_plug_center_positive",
     "directory": "parts/electrical_wall_wart_240_volt_input_uk_socket_9_volt_0_6_amp_output_2_1_mm_barrel_plug_center_positive",
     "name": "Electrical Wall Wart 240 Volt Input Uk Socket 9 Volt 0 6 Amp Output 2 1 Mm Barrel Plug Center Positive",
     "name_no_class": "Wall Wart 240 Volt Input Uk Socket 9 Volt 0 6 Amp Output 2 1 Mm Barrel Plug Center Positive",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Uk Socket 9 Volt 0 6 Amp Output 2 1 Mm Barrel Plug Center Positive",
     "description_or_color": "U906",
     "description_or_color_upper": "U906",
-    "markdown_full": "[electrical_wall_wart_240_volt_input_uk_socket_9_volt_0_6_amp_output_2_1_mm_barrel_plug_center_positive](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_wall_wart_240_volt_input_uk_socket_9_volt_0_6_amp_output_2_1_mm_barrel_plug_center_positive)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_wall_wart_240_volt_input_uk_socket_9_volt_0_6_amp_output_2_1_mm_barrel_plug_center_positive)<br>[Electrical Wall Wart 240 Volt Input Uk Socket 9 Volt 0 6 Amp Output 2 1 Mm Barrel Plug Center Positive](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_wall_wart_240_volt_input_uk_socket_9_volt_0_6_amp_output_2_1_mm_barrel_plug_center_positive)<br><br>",
-    "markdown_short": "[electrical_wall_wart_240_volt_input_uk_socket_9_volt_0_6_amp_output_2_1_mm_barrel_plug_center_positive](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_wall_wart_240_volt_input_uk_socket_9_volt_0_6_amp_output_2_1_mm_barrel_plug_center_positive)<br><br>"
+    "markdown_full": "[electrical_wall_wart_240_volt_input_uk_socket_9_volt_0_6_amp_output_2_1_mm_barrel_plug_center_positive](none)<br>[](none)<br>[Electrical Wall Wart 240 Volt Input Uk Socket 9 Volt 0 6 Amp Output 2 1 Mm Barrel Plug Center Positive](none)<br><br>",
+    "markdown_short": "[electrical_wall_wart_240_volt_input_uk_socket_9_volt_0_6_amp_output_2_1_mm_barrel_plug_center_positive](none)<br><br>"
 }

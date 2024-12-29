@@ -27,21 +27,22 @@ directory: parts/category_electronic_breakout_board_mcu_esp32_30_pin_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_30_pin_tote
 id: category_electronic_breakout_board_mcu_esp32_30_pin_tote
 id_no_class: electronic_breakout_board_mcu_esp32_30_pin_tote
 id_no_size: esp32_30_pin_tote
 id_no_type: breakout_board_mcu_esp32_30_pin_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_30_pin_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_30_pin_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_30_pin_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_30_pin_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_breakout_board_mcu_esp32_30_pin_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_30_pin_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_30_pin_tote)<br>[Category
-    Electronic Breakout Board Mcu Esp32 30 Pin Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_30_pin_tote)<br><br>'
-markdown_short: '[category_electronic_breakout_board_mcu_esp32_30_pin_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_30_pin_tote)<br><br>'
+markdown_full: '[category_electronic_breakout_board_mcu_esp32_30_pin_tote](none)<br>[](none)<br>[Category
+    Electronic Breakout Board Mcu Esp32 30 Pin Tote](none)<br><br>'
+markdown_short: '[category_electronic_breakout_board_mcu_esp32_30_pin_tote](none)<br><br>'
 md5: 70c3a9e3674d4904e7de2e1070408f0e
 md5_10: 70c3a9e367
 md5_10_upper: 70C3A9E367

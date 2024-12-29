@@ -27,21 +27,22 @@ directory: parts/category_dish_baking_pyrex
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_baking_pyrex
 id: category_dish_baking_pyrex
 id_no_class: dish_baking_pyrex
 id_no_size: pyrex
 id_no_type: baking_pyrex
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_baking_pyrex
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_baking_pyrex
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_baking_pyrex
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_baking_pyrex
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_dish_baking_pyrex](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_baking_pyrex)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_baking_pyrex)<br>[Category
-    Dish Baking Pyrex](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_baking_pyrex)<br><br>'
-markdown_short: '[category_dish_baking_pyrex](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_baking_pyrex)<br><br>'
+markdown_full: '[category_dish_baking_pyrex](none)<br>[](none)<br>[Category Dish Baking
+    Pyrex](none)<br><br>'
+markdown_short: '[category_dish_baking_pyrex](none)<br><br>'
 md5: 42060bb8807c84ebe6e89a5974561281
 md5_10: 42060bb880
 md5_10_upper: 42060BB880

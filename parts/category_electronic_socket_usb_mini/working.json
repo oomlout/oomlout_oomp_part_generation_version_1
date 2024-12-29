@@ -50,8 +50,9 @@
     "id_no_type": "socket_usb_mini",
     "id_no_size": "usb_mini",
     "oomp_key": "oomp_category_electronic_socket_usb_mini",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_mini",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_mini",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_mini",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_mini",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_mini",
     "directory": "parts/category_electronic_socket_usb_mini",
     "name": "Category Electronic Socket Usb Mini",
     "name_no_class": "Electronic Socket Usb Mini",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Usb Mini",
     "description_or_color": "U ",
     "description_or_color_upper": "U ",
-    "markdown_full": "[category_electronic_socket_usb_mini](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_mini)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_mini)<br>[Category Electronic Socket Usb Mini](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_mini)<br><br>",
-    "markdown_short": "[category_electronic_socket_usb_mini](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_mini)<br><br>"
+    "markdown_full": "[category_electronic_socket_usb_mini](none)<br>[](none)<br>[Category Electronic Socket Usb Mini](none)<br><br>",
+    "markdown_short": "[category_electronic_socket_usb_mini](none)<br><br>"
 }

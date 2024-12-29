@@ -27,21 +27,22 @@ directory: parts/category_electronic_potentiometer_17_mm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer_17_mm
 id: category_electronic_potentiometer_17_mm
 id_no_class: electronic_potentiometer_17_mm
 id_no_size: 17_mm
 id_no_type: potentiometer_17_mm
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer_17_mm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_potentiometer_17_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_potentiometer_17_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_potentiometer_17_mm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_potentiometer_17_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer_17_mm)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer_17_mm)<br>[Category
-    Electronic Potentiometer 17 Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer_17_mm)<br><br>'
-markdown_short: '[category_electronic_potentiometer_17_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer_17_mm)<br><br>'
+markdown_full: '[category_electronic_potentiometer_17_mm](none)<br>[](none)<br>[Category
+    Electronic Potentiometer 17 Mm](none)<br><br>'
+markdown_short: '[category_electronic_potentiometer_17_mm](none)<br><br>'
 md5: 23fc339649818407d88ee924412a3484
 md5_10: 23fc339649
 md5_10_upper: 23FC339649

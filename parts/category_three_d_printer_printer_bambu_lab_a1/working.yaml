@@ -27,21 +27,22 @@ directory: parts/category_three_d_printer_printer_bambu_lab_a1
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1
 id: category_three_d_printer_printer_bambu_lab_a1
 id_no_class: three_d_printer_printer_bambu_lab_a1
 id_no_size: bambu_lab_a1
 id_no_type: printer_bambu_lab_a1
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_three_d_printer_printer_bambu_lab_a1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1)<br>[Category
-    Three D Printer Printer Bambu Lab A1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1)<br><br>'
-markdown_short: '[category_three_d_printer_printer_bambu_lab_a1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1)<br><br>'
+markdown_full: '[category_three_d_printer_printer_bambu_lab_a1](none)<br>[](none)<br>[Category
+    Three D Printer Printer Bambu Lab A1](none)<br><br>'
+markdown_short: '[category_three_d_printer_printer_bambu_lab_a1](none)<br><br>'
 md5: 822a76e2d0dde06a5de8695daa34297b
 md5_10: 822a76e2d0
 md5_10_upper: 822A76E2D0

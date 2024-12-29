@@ -27,21 +27,22 @@ directory: parts/category_warehouse_storage_location_home_site_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_location_home_site_tote
 id: category_warehouse_storage_location_home_site_tote
 id_no_class: warehouse_storage_location_home_site_tote
 id_no_size: home_site_tote
 id_no_type: storage_location_home_site_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_location_home_site_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_location_home_site_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_location_home_site_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_location_home_site_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_warehouse_storage_location_home_site_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_location_home_site_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_location_home_site_tote)<br>[Category
-    Warehouse Storage Location Home Site Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_location_home_site_tote)<br><br>'
-markdown_short: '[category_warehouse_storage_location_home_site_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_location_home_site_tote)<br><br>'
+markdown_full: '[category_warehouse_storage_location_home_site_tote](none)<br>[](none)<br>[Category
+    Warehouse Storage Location Home Site Tote](none)<br><br>'
+markdown_short: '[category_warehouse_storage_location_home_site_tote](none)<br><br>'
 md5: 70dca6e4c21f29867f6678675700b8b6
 md5_10: 70dca6e4c2
 md5_10_upper: 70DCA6E4C2

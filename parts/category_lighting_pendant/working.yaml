@@ -27,21 +27,22 @@ directory: parts/category_lighting_pendant
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant
 id: category_lighting_pendant
 id_no_class: lighting_pendant
 id_no_size: pendant
 id_no_type: pendant
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_lighting_pendant](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant)<br>[Category
-    Lighting Pendant](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant)<br><br>'
-markdown_short: '[category_lighting_pendant](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant)<br><br>'
+markdown_full: '[category_lighting_pendant](none)<br>[](none)<br>[Category Lighting
+    Pendant](none)<br><br>'
+markdown_short: '[category_lighting_pendant](none)<br><br>'
 md5: 3ca331ac0c0c3ba16de1db21dba2b6d4
 md5_10: 3ca331ac0c
 md5_10_upper: 3CA331AC0C

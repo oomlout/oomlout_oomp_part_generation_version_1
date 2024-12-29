@@ -50,8 +50,9 @@
     "id_no_type": "part_shaft",
     "id_no_size": "shaft",
     "oomp_key": "oomp_category_oobb_part_shaft",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_shaft",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_shaft",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_shaft",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_shaft",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_shaft",
     "directory": "parts/category_oobb_part_shaft",
     "name": "Category Oobb Part Shaft",
     "name_no_class": "Oobb Part Shaft",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Shaft",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_oobb_part_shaft](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_shaft)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_shaft)<br>[Category Oobb Part Shaft](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_shaft)<br><br>",
-    "markdown_short": "[category_oobb_part_shaft](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_shaft)<br><br>"
+    "markdown_full": "[category_oobb_part_shaft](none)<br>[](none)<br>[Category Oobb Part Shaft](none)<br><br>",
+    "markdown_short": "[category_oobb_part_shaft](none)<br><br>"
 }

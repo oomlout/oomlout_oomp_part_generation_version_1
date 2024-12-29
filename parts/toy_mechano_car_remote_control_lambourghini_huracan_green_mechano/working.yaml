@@ -24,21 +24,22 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/toy_mechano_car_remote_control_lambourghini_huracan_green_mechano
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/toy_mechano_car_remote_control_lambourghini_huracan_green_mechano
 id: toy_mechano_car_remote_control_lambourghini_huracan_green_mechano
 id_no_class: mechano_car_remote_control_lambourghini_huracan_green_mechano
 id_no_size: lambourghini_huracan_green_mechano
 id_no_type: car_remote_control_lambourghini_huracan_green_mechano
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/toy_mechano_car_remote_control_lambourghini_huracan_green_mechano
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_mechano_car_remote_control_lambourghini_huracan_green_mechano
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_mechano_car_remote_control_lambourghini_huracan_green_mechano
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_mechano_car_remote_control_lambourghini_huracan_green_mechano
 manufacturer: mechano
 manufacturer_capital: Mechano
 manufacturer_first_letter: m
 manufacturer_first_letter_upper: M
 manufacturer_upper: MECHANO
 manufacturers: []
-markdown_full: '[toy_mechano_car_remote_control_lambourghini_huracan_green_mechano](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/toy_mechano_car_remote_control_lambourghini_huracan_green_mechano)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/toy_mechano_car_remote_control_lambourghini_huracan_green_mechano)<br>[Toy
-    Mechano Car Remote Control Lambourghini Huracan Green Mechano](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/toy_mechano_car_remote_control_lambourghini_huracan_green_mechano)<br><br>'
-markdown_short: '[toy_mechano_car_remote_control_lambourghini_huracan_green_mechano](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/toy_mechano_car_remote_control_lambourghini_huracan_green_mechano)<br><br>'
+markdown_full: '[toy_mechano_car_remote_control_lambourghini_huracan_green_mechano](none)<br>[](none)<br>[Toy
+    Mechano Car Remote Control Lambourghini Huracan Green Mechano](none)<br><br>'
+markdown_short: '[toy_mechano_car_remote_control_lambourghini_huracan_green_mechano](none)<br><br>'
 md5: bdd33e879dd40b87e3c792202e3e4ccd
 md5_10: bdd33e879d
 md5_10_upper: BDD33E879D

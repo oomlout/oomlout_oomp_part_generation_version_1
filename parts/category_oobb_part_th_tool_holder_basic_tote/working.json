@@ -50,8 +50,9 @@
     "id_no_type": "part_th_tool_holder_basic_tote",
     "id_no_size": "th_tool_holder_basic_tote",
     "oomp_key": "oomp_category_oobb_part_th_tool_holder_basic_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic_tote",
     "directory": "parts/category_oobb_part_th_tool_holder_basic_tote",
     "name": "Category Oobb Part Th Tool Holder Basic Tote",
     "name_no_class": "Oobb Part Th Tool Holder Basic Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Th Tool Holder Basic Tote",
     "description_or_color": "T ",
     "description_or_color_upper": "T ",
-    "markdown_full": "[category_oobb_part_th_tool_holder_basic_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic_tote)<br>[Category Oobb Part Th Tool Holder Basic Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic_tote)<br><br>",
-    "markdown_short": "[category_oobb_part_th_tool_holder_basic_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_th_tool_holder_basic_tote)<br><br>"
+    "markdown_full": "[category_oobb_part_th_tool_holder_basic_tote](none)<br>[](none)<br>[Category Oobb Part Th Tool Holder Basic Tote](none)<br><br>",
+    "markdown_short": "[category_oobb_part_th_tool_holder_basic_tote](none)<br><br>"
 }

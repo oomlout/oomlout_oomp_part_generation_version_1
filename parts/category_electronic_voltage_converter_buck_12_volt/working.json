@@ -50,8 +50,9 @@
     "id_no_type": "voltage_converter_buck_12_volt",
     "id_no_size": "12_volt",
     "oomp_key": "oomp_category_electronic_voltage_converter_buck_12_volt",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt",
     "directory": "parts/category_electronic_voltage_converter_buck_12_volt",
     "name": "Category Electronic Voltage Converter Buck 12 Volt",
     "name_no_class": "Electronic Voltage Converter Buck 12 Volt",
@@ -89,6 +90,6 @@
     "name_no_size_short": "12 Volt",
     "description_or_color": "1 ",
     "description_or_color_upper": "1 ",
-    "markdown_full": "[category_electronic_voltage_converter_buck_12_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt)<br>[Category Electronic Voltage Converter Buck 12 Volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt)<br><br>",
-    "markdown_short": "[category_electronic_voltage_converter_buck_12_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt)<br><br>"
+    "markdown_full": "[category_electronic_voltage_converter_buck_12_volt](none)<br>[](none)<br>[Category Electronic Voltage Converter Buck 12 Volt](none)<br><br>",
+    "markdown_short": "[category_electronic_voltage_converter_buck_12_volt](none)<br><br>"
 }

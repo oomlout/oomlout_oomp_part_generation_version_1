@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: m3_shaft_72_teeth_extra
+description_extra_capital: M3 Shaft 72 Teeth Extra
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: M3_SHAFT_72_TEETH_EXTRA
+description_main: 9_diameter_3_mm_depth
+description_main_capital: 9 Diameter 3 mm Depth
+description_main_first_letter: '9'
+description_main_first_letter_upper: '9'
+description_main_upper: 9_DIAMETER_3_MM_DEPTH
+description_only_numbers: '93'
+description_only_numbers_short: '93'
+description_or_color: '93'
+description_or_color_upper: '93'
+directory: parts/oobb_part_gear_9_diameter_3_mm_depth_m3_shaft_72_teeth_extra
+distributors: []
+id: oobb_part_gear_9_diameter_3_mm_depth_m3_shaft_72_teeth_extra
+id_no_class: part_gear_9_diameter_3_mm_depth_m3_shaft_72_teeth_extra
+id_no_size: 9_diameter_3_mm_depth_m3_shaft_72_teeth_extra
+id_no_type: gear_9_diameter_3_mm_depth_m3_shaft_72_teeth_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_9_diameter_3_mm_depth_m3_shaft_72_teeth_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_9_diameter_3_mm_depth_m3_shaft_72_teeth_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_9_diameter_3_mm_depth_m3_shaft_72_teeth_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_gear_9_diameter_3_mm_depth_m3_shaft_72_teeth_extra](none)<br>[](none)<br>[Oobb
+    Part Gear 9 Diameter 3 Mm Depth M3 Shaft 72 Teeth Extra](none)<br><br>'
+markdown_short: '[oobb_part_gear_9_diameter_3_mm_depth_m3_shaft_72_teeth_extra](none)<br><br>'
+md5: a26e09fbb96e071f74b6ef80ead731be
+md5_10: a26e09fbb9
+md5_10_upper: A26E09FBB9
+md5_5: a26e0
+md5_5_upper: A26E0
+md5_6: a26e09
+md5_6_alpha: 6c5qh
+md5_6_alpha_upper: 6C5QH
+md5_6_upper: A26E09
+name: Oobb Part Gear 9 Diameter 3 Mm Depth M3 Shaft 72 Teeth Extra
+name_no_class: Part Gear 9 Diameter 3 Mm Depth M3 Shaft 72 Teeth Extra
+name_no_size: 9 Diameter 3 Mm Depth M3 Shaft 72 Teeth Extra
+name_no_size_short: 9 Diameter 3 Mm Depth M3 Shaft 72 Teeth Extra
+name_no_type: Gear 9 Diameter 3 Mm Depth M3 Shaft 72 Teeth Extra
+oomp_key: oomp_oobb_part_gear_9_diameter_3_mm_depth_m3_shaft_72_teeth_extra
+oomp_word: violin new_moon angry
+oomp_word_emoji: ':violin: :new_moon: :angry:'
+oomp_word_emoji_list:
+- ':violin:'
+- ':new_moon:'
+- ':angry:'
+oomp_word_list:
+- violin
+- new_moon
+- angry
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: gear
+size_capital: Gear
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GEAR
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

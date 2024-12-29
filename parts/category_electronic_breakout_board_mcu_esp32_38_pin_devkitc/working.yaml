@@ -27,21 +27,22 @@ directory: parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc
 id: category_electronic_breakout_board_mcu_esp32_38_pin_devkitc
 id_no_class: electronic_breakout_board_mcu_esp32_38_pin_devkitc
 id_no_size: esp32_38_pin_devkitc
 id_no_type: breakout_board_mcu_esp32_38_pin_devkitc
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_breakout_board_mcu_esp32_38_pin_devkitc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc)<br>[Category
-    Electronic Breakout Board Mcu Esp32 38 Pin Devkitc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc)<br><br>'
-markdown_short: '[category_electronic_breakout_board_mcu_esp32_38_pin_devkitc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_esp32_38_pin_devkitc)<br><br>'
+markdown_full: '[category_electronic_breakout_board_mcu_esp32_38_pin_devkitc](none)<br>[](none)<br>[Category
+    Electronic Breakout Board Mcu Esp32 38 Pin Devkitc](none)<br><br>'
+markdown_short: '[category_electronic_breakout_board_mcu_esp32_38_pin_devkitc](none)<br><br>'
 md5: 8f3a76af14fff7c1aa7d3f9b62f386c8
 md5_10: 8f3a76af14
 md5_10_upper: 8F3A76AF14

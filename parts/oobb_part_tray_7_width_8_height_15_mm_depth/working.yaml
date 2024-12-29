@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 7_width_8_height_15_mm_depth
+description_main_capital: 7 Width 8 Height 15 mm Depth
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 7_WIDTH_8_HEIGHT_15_MM_DEPTH
+description_only_numbers: '7815'
+description_only_numbers_short: 7k8
+description_or_color: 7k8
+description_or_color_upper: 7K8
+directory: parts/oobb_part_tray_7_width_8_height_15_mm_depth
+distributors: []
+id: oobb_part_tray_7_width_8_height_15_mm_depth
+id_no_class: part_tray_7_width_8_height_15_mm_depth
+id_no_size: 7_width_8_height_15_mm_depth
+id_no_type: tray_7_width_8_height_15_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_7_width_8_height_15_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_7_width_8_height_15_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_7_width_8_height_15_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_7_width_8_height_15_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray 7 Width 8 Height 15 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_7_width_8_height_15_mm_depth](none)<br><br>'
+md5: 0e721b79dbcfb2cd3c3373e82f0a9a04
+md5_10: 0e721b79db
+md5_10_upper: 0E721B79DB
+md5_5: 0e721
+md5_5_upper: 0E721
+md5_6: 0e721b
+md5_6_alpha: kahn
+md5_6_alpha_upper: KAHN
+md5_6_upper: 0E721B
+name: Oobb Part Tray 7 Width 8 Height 15 Mm Depth
+name_no_class: Part Tray 7 Width 8 Height 15 Mm Depth
+name_no_size: 7 Width 8 Height 15 Mm Depth
+name_no_size_short: 7 Width 8 Height 15 Mm Depth
+name_no_type: Tray 7 Width 8 Height 15 Mm Depth
+oomp_key: oomp_oobb_part_tray_7_width_8_height_15_mm_depth
+oomp_word: cupid dolls muscle
+oomp_word_emoji: ':cupid: :dolls: :muscle:'
+oomp_word_emoji_list:
+- ':cupid:'
+- ':dolls:'
+- ':muscle:'
+oomp_word_list:
+- cupid
+- dolls
+- muscle
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

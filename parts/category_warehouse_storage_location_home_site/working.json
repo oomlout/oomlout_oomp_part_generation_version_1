@@ -50,8 +50,9 @@
     "id_no_type": "storage_location_home_site",
     "id_no_size": "home_site",
     "oomp_key": "oomp_category_warehouse_storage_location_home_site",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_location_home_site",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_location_home_site",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_location_home_site",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_location_home_site",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_location_home_site",
     "directory": "parts/category_warehouse_storage_location_home_site",
     "name": "Category Warehouse Storage Location Home Site",
     "name_no_class": "Warehouse Storage Location Home Site",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Home Site",
     "description_or_color": "H ",
     "description_or_color_upper": "H ",
-    "markdown_full": "[category_warehouse_storage_location_home_site](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_location_home_site)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_location_home_site)<br>[Category Warehouse Storage Location Home Site](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_location_home_site)<br><br>",
-    "markdown_short": "[category_warehouse_storage_location_home_site](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_location_home_site)<br><br>"
+    "markdown_full": "[category_warehouse_storage_location_home_site](none)<br>[](none)<br>[Category Warehouse Storage Location Home Site](none)<br><br>",
+    "markdown_short": "[category_warehouse_storage_location_home_site](none)<br><br>"
 }

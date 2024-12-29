@@ -50,8 +50,9 @@
     "id_no_type": "power_supply",
     "id_no_size": "power_supply",
     "oomp_key": "oomp_category_computer_power_supply",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_power_supply",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_power_supply",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_power_supply",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_power_supply",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_power_supply",
     "directory": "parts/category_computer_power_supply",
     "name": "Category Computer Power Supply",
     "name_no_class": "Computer Power Supply",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Power Supply",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_computer_power_supply](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_power_supply)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_power_supply)<br>[Category Computer Power Supply](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_power_supply)<br><br>",
-    "markdown_short": "[category_computer_power_supply](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_power_supply)<br><br>"
+    "markdown_full": "[category_computer_power_supply](none)<br>[](none)<br>[Category Computer Power Supply](none)<br><br>",
+    "markdown_short": "[category_computer_power_supply](none)<br><br>"
 }

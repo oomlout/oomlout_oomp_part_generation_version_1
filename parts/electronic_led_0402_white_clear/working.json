@@ -48,8 +48,9 @@
     "id_no_type": "0402_white_clear",
     "id_no_size": "white_clear",
     "oomp_key": "oomp_electronic_led_0402_white_clear",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_white_clear",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_white_clear",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0402_white_clear",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0402_white_clear",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0402_white_clear",
     "directory": "parts/electronic_led_0402_white_clear",
     "name": "Electronic Led 0402 White Clear",
     "name_no_class": "Led 0402 White Clear",
@@ -92,6 +93,6 @@
     "name_no_size_short": "White Clear",
     "description_or_color": "W ",
     "description_or_color_upper": "W ",
-    "markdown_full": "[electronic_led_0402_white_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_white_clear)<br>[l4w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_white_clear)<br>[Electronic Led 0402 White Clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_white_clear)<br><br>",
-    "markdown_short": "[electronic_led_0402_white_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_white_clear)<br><br>"
+    "markdown_full": "[electronic_led_0402_white_clear](none)<br>[l4w](none)<br>[Electronic Led 0402 White Clear](none)<br><br>",
+    "markdown_short": "[electronic_led_0402_white_clear](none)<br><br>"
 }

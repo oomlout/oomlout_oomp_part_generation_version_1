@@ -24,21 +24,22 @@ description_or_color: 4k
 description_or_color_upper: 4K
 directory: parts/mechanical_solenoid_12_volt_40_mm_diameter_20_mm_depth_30000_gram_capacity
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_40_mm_diameter_20_mm_depth_30000_gram_capacity
 id: mechanical_solenoid_12_volt_40_mm_diameter_20_mm_depth_30000_gram_capacity
 id_no_class: solenoid_12_volt_40_mm_diameter_20_mm_depth_30000_gram_capacity
 id_no_size: 40_mm_diameter_20_mm_depth_30000_gram_capacity
 id_no_type: 12_volt_40_mm_diameter_20_mm_depth_30000_gram_capacity
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_40_mm_diameter_20_mm_depth_30000_gram_capacity
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_40_mm_diameter_20_mm_depth_30000_gram_capacity
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_40_mm_diameter_20_mm_depth_30000_gram_capacity
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_40_mm_diameter_20_mm_depth_30000_gram_capacity
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[mechanical_solenoid_12_volt_40_mm_diameter_20_mm_depth_30000_gram_capacity](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_40_mm_diameter_20_mm_depth_30000_gram_capacity)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_40_mm_diameter_20_mm_depth_30000_gram_capacity)<br>[Mechanical
-    Solenoid 12 Volt 40 Mm Diameter 20 Mm Depth 30000 Gram Capacity](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_40_mm_diameter_20_mm_depth_30000_gram_capacity)<br><br>'
-markdown_short: '[mechanical_solenoid_12_volt_40_mm_diameter_20_mm_depth_30000_gram_capacity](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_40_mm_diameter_20_mm_depth_30000_gram_capacity)<br><br>'
+markdown_full: '[mechanical_solenoid_12_volt_40_mm_diameter_20_mm_depth_30000_gram_capacity](none)<br>[](none)<br>[Mechanical
+    Solenoid 12 Volt 40 Mm Diameter 20 Mm Depth 30000 Gram Capacity](none)<br><br>'
+markdown_short: '[mechanical_solenoid_12_volt_40_mm_diameter_20_mm_depth_30000_gram_capacity](none)<br><br>'
 md5: 247fa4af855b60e8af3e08d9e9135c42
 md5_10: 247fa4af85
 md5_10_upper: 247FA4AF85

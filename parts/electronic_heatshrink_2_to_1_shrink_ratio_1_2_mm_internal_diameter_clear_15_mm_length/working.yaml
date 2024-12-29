@@ -24,22 +24,23 @@ description_or_color: C15
 description_or_color_upper: C15
 directory: parts/electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_clear_15_mm_length
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_clear_15_mm_length
 id: electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_clear_15_mm_length
 id_no_class: heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_clear_15_mm_length
 id_no_size: clear_15_mm_length
 id_no_type: 1_2_mm_internal_diameter_clear_15_mm_length
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_clear_15_mm_length
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_clear_15_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_clear_15_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_clear_15_mm_length
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_clear_15_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_clear_15_mm_length)<br>[c15](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_clear_15_mm_length)<br>[Electronic
-    Heatshrink 2 To 1 Shrink Ratio 1 2 Mm Internal Diameter Clear 15 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_clear_15_mm_length)<br><br>'
-markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_clear_15_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_clear_15_mm_length)<br><br>'
+markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_clear_15_mm_length](none)<br>[c15](none)<br>[Electronic
+    Heatshrink 2 To 1 Shrink Ratio 1 2 Mm Internal Diameter Clear 15 Mm Length](none)<br><br>'
+markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_clear_15_mm_length](none)<br><br>'
 md5: 3bdcd5d8444bf41067fa7c7f1b4c97c2
 md5_10: 3bdcd5d844
 md5_10_upper: 3BDCD5D844

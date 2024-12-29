@@ -50,8 +50,9 @@
     "id_no_type": "transmitter_receiver_kit_2_4_ghz_4_channel",
     "id_no_size": "2_4_ghz_4_channel",
     "oomp_key": "oomp_category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel",
     "directory": "parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel",
     "name": "Category Remote Control Transmitter Receiver Kit 2 4 Ghz 4 Channel",
     "name_no_class": "Remote Control Transmitter Receiver Kit 2 4 Ghz 4 Channel",
@@ -89,6 +90,6 @@
     "name_no_size_short": "2 4 Ghz 4 Channel",
     "description_or_color": "2 ",
     "description_or_color_upper": "2 ",
-    "markdown_full": "[category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel)<br>[Category Remote Control Transmitter Receiver Kit 2 4 Ghz 4 Channel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel)<br><br>",
-    "markdown_short": "[category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel)<br><br>"
+    "markdown_full": "[category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel](none)<br>[](none)<br>[Category Remote Control Transmitter Receiver Kit 2 4 Ghz 4 Channel](none)<br><br>",
+    "markdown_short": "[category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel](none)<br><br>"
 }

@@ -50,8 +50,9 @@
     "id_no_type": "all_in_one_inkjet_a4_cubby_box",
     "id_no_size": "a4_cubby_box",
     "oomp_key": "oomp_category_printer_all_in_one_inkjet_a4_cubby_box",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box",
     "directory": "parts/category_printer_all_in_one_inkjet_a4_cubby_box",
     "name": "Category Printer All In One Inkjet A4 Cubby Box",
     "name_no_class": "Printer All In One Inkjet A4 Cubby Box",
@@ -89,6 +90,6 @@
     "name_no_size_short": "A4 Cubby Box",
     "description_or_color": "A ",
     "description_or_color_upper": "A ",
-    "markdown_full": "[category_printer_all_in_one_inkjet_a4_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box)<br>[Category Printer All In One Inkjet A4 Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box)<br><br>",
-    "markdown_short": "[category_printer_all_in_one_inkjet_a4_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box)<br><br>"
+    "markdown_full": "[category_printer_all_in_one_inkjet_a4_cubby_box](none)<br>[](none)<br>[Category Printer All In One Inkjet A4 Cubby Box](none)<br><br>",
+    "markdown_short": "[category_printer_all_in_one_inkjet_a4_cubby_box](none)<br><br>"
 }

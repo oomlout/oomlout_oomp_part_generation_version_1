@@ -27,21 +27,22 @@ directory: parts/category_electrical_light_panel
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel
 id: category_electrical_light_panel
 id_no_class: electrical_light_panel
 id_no_size: light_panel
 id_no_type: light_panel
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_panel
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_panel
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_panel
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electrical_light_panel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel)<br>[Category
-    Electrical Light Panel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel)<br><br>'
-markdown_short: '[category_electrical_light_panel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_light_panel)<br><br>'
+markdown_full: '[category_electrical_light_panel](none)<br>[](none)<br>[Category Electrical
+    Light Panel](none)<br><br>'
+markdown_short: '[category_electrical_light_panel](none)<br><br>'
 md5: f191c110a1e5917bcf57bbfb1be67442
 md5_10: f191c110a1
 md5_10_upper: F191C110A1

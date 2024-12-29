@@ -50,8 +50,9 @@
     "id_no_type": "part_threaded_insert",
     "id_no_size": "threaded_insert",
     "oomp_key": "oomp_category_oobb_part_threaded_insert",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_threaded_insert",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_threaded_insert",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_threaded_insert",
     "directory": "parts/category_oobb_part_threaded_insert",
     "name": "Category Oobb Part Threaded Insert",
     "name_no_class": "Oobb Part Threaded Insert",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Threaded Insert",
     "description_or_color": "T ",
     "description_or_color_upper": "T ",
-    "markdown_full": "[category_oobb_part_threaded_insert](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert)<br>[Category Oobb Part Threaded Insert](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert)<br><br>",
-    "markdown_short": "[category_oobb_part_threaded_insert](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert)<br><br>"
+    "markdown_full": "[category_oobb_part_threaded_insert](none)<br>[](none)<br>[Category Oobb Part Threaded Insert](none)<br><br>",
+    "markdown_short": "[category_oobb_part_threaded_insert](none)<br><br>"
 }

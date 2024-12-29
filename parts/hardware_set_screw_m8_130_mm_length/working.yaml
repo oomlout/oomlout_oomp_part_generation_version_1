@@ -26,22 +26,23 @@ directory: parts/hardware_set_screw_m8_130_mm_length
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m8_130_mm_length
 id: hardware_set_screw_m8_130_mm_length
 id_no_class: set_screw_m8_130_mm_length
 id_no_size: 130_mm_length
 id_no_type: m8_130_mm_length
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m8_130_mm_length
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m8_130_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m8_130_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m8_130_mm_length
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_set_screw_m8_130_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m8_130_mm_length)<br>[ss8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m8_130_mm_length)<br>[Hardware
-    Set Screw M8 130 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m8_130_mm_length)<br><br>'
-markdown_short: '[hardware_set_screw_m8_130_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m8_130_mm_length)<br><br>'
+markdown_full: '[hardware_set_screw_m8_130_mm_length](none)<br>[ss8](none)<br>[Hardware
+    Set Screw M8 130 Mm Length](none)<br><br>'
+markdown_short: '[hardware_set_screw_m8_130_mm_length](none)<br><br>'
 md5: 989357ec2a332d7912670bf2e65a53af
 md5_10: 989357ec2a
 md5_10_upper: 989357EC2A

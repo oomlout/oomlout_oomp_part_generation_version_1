@@ -27,21 +27,21 @@ directory: parts/category_electrical
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical
 id: category_electrical
 id_no_class: electrical
 id_no_size: electrical
 id_no_type: electrical
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electrical](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical)<br>[Category
-    Electrical](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical)<br><br>'
-markdown_short: '[category_electrical](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical)<br><br>'
+markdown_full: '[category_electrical](none)<br>[](none)<br>[Category Electrical](none)<br><br>'
+markdown_short: '[category_electrical](none)<br><br>'
 md5: 834cc2cad22eb4b0a67297ade1a1d509
 md5_10: 834cc2cad2
 md5_10_upper: 834CC2CAD2

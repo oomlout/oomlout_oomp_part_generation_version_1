@@ -46,8 +46,9 @@
     "id_no_type": "2_54_mm_triple_row_3x31_93_pin_through_hole_right_angle",
     "id_no_size": "3x31_93_pin_through_hole_right_angle",
     "oomp_key": "oomp_electronic_header_2_54_mm_triple_row_3x31_93_pin_through_hole_right_angle",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x31_93_pin_through_hole_right_angle",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x31_93_pin_through_hole_right_angle",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x31_93_pin_through_hole_right_angle",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x31_93_pin_through_hole_right_angle",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x31_93_pin_through_hole_right_angle",
     "directory": "parts/electronic_header_2_54_mm_triple_row_3x31_93_pin_through_hole_right_angle",
     "name": "Electronic Header 2 54 Mm Triple Row 3X31 93 Pin Through Hole Right Angle",
     "name_no_class": "Header 2 54 Mm Triple Row 3X31 93 Pin Through Hole Right Angle",
@@ -85,6 +86,6 @@
     "name_no_size_short": "3X31 93 Pin Through Hole Right Angle",
     "description_or_color": "33k",
     "description_or_color_upper": "33K",
-    "markdown_full": "[electronic_header_2_54_mm_triple_row_3x31_93_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x31_93_pin_through_hole_right_angle)<br>[hthra](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x31_93_pin_through_hole_right_angle)<br>[Electronic Header 2 54 Mm Triple Row 3X31 93 Pin Through Hole Right Angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x31_93_pin_through_hole_right_angle)<br><br>",
-    "markdown_short": "[electronic_header_2_54_mm_triple_row_3x31_93_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x31_93_pin_through_hole_right_angle)<br><br>"
+    "markdown_full": "[electronic_header_2_54_mm_triple_row_3x31_93_pin_through_hole_right_angle](none)<br>[hthra](none)<br>[Electronic Header 2 54 Mm Triple Row 3X31 93 Pin Through Hole Right Angle](none)<br><br>",
+    "markdown_short": "[electronic_header_2_54_mm_triple_row_3x31_93_pin_through_hole_right_angle](none)<br><br>"
 }

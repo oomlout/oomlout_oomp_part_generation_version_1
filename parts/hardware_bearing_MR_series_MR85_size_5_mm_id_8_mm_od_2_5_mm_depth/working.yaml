@@ -26,21 +26,22 @@ directory: parts/hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2_5_mm_dep
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2_5_mm_depth
 id: hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2_5_mm_depth
 id_no_class: bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2_5_mm_depth
 id_no_size: MR85_size_5_mm_id_8_mm_od_2_5_mm_depth
 id_no_type: MR_series_MR85_size_5_mm_id_8_mm_od_2_5_mm_depth
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2_5_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2_5_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2_5_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2_5_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2_5_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2_5_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2_5_mm_depth)<br>[Hardware
-    Bearing Mr Series Mr85 Size 5 Mm Id 8 Mm Od 2 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2_5_mm_depth)<br><br>'
-markdown_short: '[hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2_5_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2_5_mm_depth)<br><br>'
+markdown_full: '[hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2_5_mm_depth](none)<br>[](none)<br>[Hardware
+    Bearing Mr Series Mr85 Size 5 Mm Id 8 Mm Od 2 5 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_bearing_MR_series_MR85_size_5_mm_id_8_mm_od_2_5_mm_depth](none)<br><br>'
 md5: a085132125916e0a70e4918cc0454653
 md5_10: a085132125
 md5_10_upper: A085132125

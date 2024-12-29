@@ -27,21 +27,22 @@ directory: parts/food_baking_flour_self_raising
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_self_raising
 id: food_baking_flour_self_raising
 id_no_class: baking_flour_self_raising
 id_no_size: self_raising
 id_no_type: flour_self_raising
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_self_raising
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_self_raising
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_self_raising
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_self_raising
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_baking_flour_self_raising](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_self_raising)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_self_raising)<br>[Food
-    Baking Flour Self Raising](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_self_raising)<br><br>'
-markdown_short: '[food_baking_flour_self_raising](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_self_raising)<br><br>'
+markdown_full: '[food_baking_flour_self_raising](none)<br>[](none)<br>[Food Baking
+    Flour Self Raising](none)<br><br>'
+markdown_short: '[food_baking_flour_self_raising](none)<br><br>'
 md5: 90321ae20e393e1c83bb8f69b1d33791
 md5_10: 90321ae20e
 md5_10_upper: 90321AE20E

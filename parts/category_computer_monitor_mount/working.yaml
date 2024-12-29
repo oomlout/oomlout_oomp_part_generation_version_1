@@ -27,21 +27,22 @@ directory: parts/category_computer_monitor_mount
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_mount
 id: category_computer_monitor_mount
 id_no_class: computer_monitor_mount
 id_no_size: monitor_mount
 id_no_type: monitor_mount
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_mount
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_mount
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_mount
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_mount
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_computer_monitor_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_mount)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_mount)<br>[Category
-    Computer Monitor Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_mount)<br><br>'
-markdown_short: '[category_computer_monitor_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_mount)<br><br>'
+markdown_full: '[category_computer_monitor_mount](none)<br>[](none)<br>[Category Computer
+    Monitor Mount](none)<br><br>'
+markdown_short: '[category_computer_monitor_mount](none)<br><br>'
 md5: ee9f2e007aae332aa8b15a1231363739
 md5_10: ee9f2e007a
 md5_10_upper: EE9F2E007A

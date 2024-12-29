@@ -24,22 +24,23 @@ description_or_color: B12
 description_or_color_upper: B12
 directory: parts/electronic_crimp_housing_2_54_mm_black_12_pin_dupont
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_12_pin_dupont
 id: electronic_crimp_housing_2_54_mm_black_12_pin_dupont
 id_no_class: crimp_housing_2_54_mm_black_12_pin_dupont
 id_no_size: black_12_pin_dupont
 id_no_type: 2_54_mm_black_12_pin_dupont
 kicad_reference: CRHO
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_12_pin_dupont
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_12_pin_dupont
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_12_pin_dupont
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_12_pin_dupont
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_crimp_housing_2_54_mm_black_12_pin_dupont](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_12_pin_dupont)<br>[chi1b12pd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_12_pin_dupont)<br>[Electronic
-    Crimp Housing 2 54 Mm Black 12 Pin Dupont](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_12_pin_dupont)<br><br>'
-markdown_short: '[electronic_crimp_housing_2_54_mm_black_12_pin_dupont](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_12_pin_dupont)<br><br>'
+markdown_full: '[electronic_crimp_housing_2_54_mm_black_12_pin_dupont](none)<br>[chi1b12pd](none)<br>[Electronic
+    Crimp Housing 2 54 Mm Black 12 Pin Dupont](none)<br><br>'
+markdown_short: '[electronic_crimp_housing_2_54_mm_black_12_pin_dupont](none)<br><br>'
 md5: c1fe87b8af1455730b2d3bb41084b05c
 md5_10: c1fe87b8af
 md5_10_upper: C1FE87B8AF

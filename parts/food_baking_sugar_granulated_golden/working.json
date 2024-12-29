@@ -49,8 +49,9 @@
     "id_no_type": "sugar_granulated_golden",
     "id_no_size": "granulated_golden",
     "oomp_key": "oomp_food_baking_sugar_granulated_golden",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated_golden",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated_golden",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_granulated_golden",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_granulated_golden",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_granulated_golden",
     "directory": "parts/food_baking_sugar_granulated_golden",
     "name": "Food Baking Sugar Granulated Golden",
     "name_no_class": "Baking Sugar Granulated Golden",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Granulated Golden",
     "description_or_color": "G ",
     "description_or_color_upper": "G ",
-    "markdown_full": "[food_baking_sugar_granulated_golden](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated_golden)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated_golden)<br>[Food Baking Sugar Granulated Golden](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated_golden)<br><br>",
-    "markdown_short": "[food_baking_sugar_granulated_golden](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated_golden)<br><br>"
+    "markdown_full": "[food_baking_sugar_granulated_golden](none)<br>[](none)<br>[Food Baking Sugar Granulated Golden](none)<br><br>",
+    "markdown_short": "[food_baking_sugar_granulated_golden](none)<br><br>"
 }

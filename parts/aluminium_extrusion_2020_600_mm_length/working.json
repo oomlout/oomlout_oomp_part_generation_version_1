@@ -48,8 +48,9 @@
     "id_no_type": "600_mm_length",
     "id_no_size": "600mmlength",
     "oomp_key": "oomp_aluminium_extrusion_2020_600_mm_length",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020_600_mm_length",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020_600_mm_length",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/aluminium_extrusion_2020_600_mm_length",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/aluminium_extrusion_2020_600_mm_length",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/aluminium_extrusion_2020_600_mm_length",
     "directory": "parts/aluminium_extrusion_2020_600_mm_length",
     "name": "Aluminium Extrusion 2020 600 Mm Length",
     "name_no_class": "2020 600 Mm Length",
@@ -87,6 +88,6 @@
     "name_no_size_short": "600Mmlength",
     "description_or_color": "600",
     "description_or_color_upper": "600",
-    "markdown_full": "[aluminium_extrusion_2020_600_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020_600_mm_length)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020_600_mm_length)<br>[Aluminium Extrusion 2020 600 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020_600_mm_length)<br><br>",
-    "markdown_short": "[aluminium_extrusion_2020_600_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020_600_mm_length)<br><br>"
+    "markdown_full": "[aluminium_extrusion_2020_600_mm_length](none)<br>[](none)<br>[Aluminium Extrusion 2020 600 Mm Length](none)<br><br>",
+    "markdown_short": "[aluminium_extrusion_2020_600_mm_length](none)<br><br>"
 }

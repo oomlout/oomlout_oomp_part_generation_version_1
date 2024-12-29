@@ -26,21 +26,22 @@ directory: parts/hardware_bearing_F600_series_F635_size_5_mm_id_19_mm_od_6_mm_de
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F635_size_5_mm_id_19_mm_od_6_mm_depth
 id: hardware_bearing_F600_series_F635_size_5_mm_id_19_mm_od_6_mm_depth
 id_no_class: bearing_F600_series_F635_size_5_mm_id_19_mm_od_6_mm_depth
 id_no_size: F635_size_5_mm_id_19_mm_od_6_mm_depth
 id_no_type: F600_series_F635_size_5_mm_id_19_mm_od_6_mm_depth
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F635_size_5_mm_id_19_mm_od_6_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_F600_series_F635_size_5_mm_id_19_mm_od_6_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_F600_series_F635_size_5_mm_id_19_mm_od_6_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_F600_series_F635_size_5_mm_id_19_mm_od_6_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_F600_series_F635_size_5_mm_id_19_mm_od_6_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F635_size_5_mm_id_19_mm_od_6_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F635_size_5_mm_id_19_mm_od_6_mm_depth)<br>[Hardware
-    Bearing F600 Series F635 Size 5 Mm Id 19 Mm Od 6 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F635_size_5_mm_id_19_mm_od_6_mm_depth)<br><br>'
-markdown_short: '[hardware_bearing_F600_series_F635_size_5_mm_id_19_mm_od_6_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F635_size_5_mm_id_19_mm_od_6_mm_depth)<br><br>'
+markdown_full: '[hardware_bearing_F600_series_F635_size_5_mm_id_19_mm_od_6_mm_depth](none)<br>[](none)<br>[Hardware
+    Bearing F600 Series F635 Size 5 Mm Id 19 Mm Od 6 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_bearing_F600_series_F635_size_5_mm_id_19_mm_od_6_mm_depth](none)<br><br>'
 md5: 088adcec58da65e76e6f40028846ed76
 md5_10: 088adcec58
 md5_10_upper: 088ADCEC58

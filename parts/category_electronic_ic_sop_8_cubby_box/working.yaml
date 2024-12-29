@@ -27,21 +27,22 @@ directory: parts/category_electronic_ic_sop_8_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_sop_8_cubby_box
 id: category_electronic_ic_sop_8_cubby_box
 id_no_class: electronic_ic_sop_8_cubby_box
 id_no_size: sop_8_cubby_box
 id_no_type: ic_sop_8_cubby_box
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_sop_8_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_sop_8_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_sop_8_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_sop_8_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_ic_sop_8_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_sop_8_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_sop_8_cubby_box)<br>[Category
-    Electronic Ic Sop 8 Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_sop_8_cubby_box)<br><br>'
-markdown_short: '[category_electronic_ic_sop_8_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_sop_8_cubby_box)<br><br>'
+markdown_full: '[category_electronic_ic_sop_8_cubby_box](none)<br>[](none)<br>[Category
+    Electronic Ic Sop 8 Cubby Box](none)<br><br>'
+markdown_short: '[category_electronic_ic_sop_8_cubby_box](none)<br><br>'
 md5: 31b114201443116bc5c9aac1e1f837a6
 md5_10: 31b1142014
 md5_10_upper: 31B1142014

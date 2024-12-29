@@ -27,21 +27,22 @@ directory: parts/category_mechanical_wheel
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_wheel
 id: category_mechanical_wheel
 id_no_class: mechanical_wheel
 id_no_size: wheel
 id_no_type: wheel
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_wheel
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_wheel
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_wheel
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_wheel
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_mechanical_wheel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_wheel)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_wheel)<br>[Category
-    Mechanical Wheel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_wheel)<br><br>'
-markdown_short: '[category_mechanical_wheel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_wheel)<br><br>'
+markdown_full: '[category_mechanical_wheel](none)<br>[](none)<br>[Category Mechanical
+    Wheel](none)<br><br>'
+markdown_short: '[category_mechanical_wheel](none)<br><br>'
 md5: e162f471614851adfb77c86fe95a6e16
 md5_10: e162f47161
 md5_10_upper: E162F47161

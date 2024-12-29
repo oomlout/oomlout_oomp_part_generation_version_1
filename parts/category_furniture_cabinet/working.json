@@ -50,8 +50,9 @@
     "id_no_type": "cabinet",
     "id_no_size": "cabinet",
     "oomp_key": "oomp_category_furniture_cabinet",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet",
     "directory": "parts/category_furniture_cabinet",
     "name": "Category Furniture Cabinet",
     "name_no_class": "Furniture Cabinet",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Cabinet",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_furniture_cabinet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet)<br>[Category Furniture Cabinet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet)<br><br>",
-    "markdown_short": "[category_furniture_cabinet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet)<br><br>"
+    "markdown_full": "[category_furniture_cabinet](none)<br>[](none)<br>[Category Furniture Cabinet](none)<br><br>",
+    "markdown_short": "[category_furniture_cabinet](none)<br><br>"
 }

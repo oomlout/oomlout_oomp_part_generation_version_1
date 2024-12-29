@@ -24,22 +24,23 @@ description_or_color: '5'
 description_or_color_upper: '5'
 directory: parts/electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket
 id: electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket
 id_no_class: crimp_housing_2_5_mm_jst_xh_5_pin_socket
 id_no_size: 5_pin_socket
 id_no_type: 2_5_mm_jst_xh_5_pin_socket
 kicad_reference: CONN
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket)<br>[chjxh5p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket)<br>[Electronic
-    Crimp Housing 2 5 Mm Jst Xh 5 Pin Socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket)<br><br>'
-markdown_short: '[electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket)<br><br>'
+markdown_full: '[electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket](none)<br>[chjxh5p](none)<br>[Electronic
+    Crimp Housing 2 5 Mm Jst Xh 5 Pin Socket](none)<br><br>'
+markdown_short: '[electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket](none)<br><br>'
 md5: 0495bf55f1313fda049d72fa3a3167a4
 md5_10: 0495bf55f1
 md5_10_upper: 0495BF55F1

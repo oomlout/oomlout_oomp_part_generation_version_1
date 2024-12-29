@@ -26,23 +26,22 @@ directory: parts/project_github_oomlout_oomlout_three_d_printing_tooth_pick_orb_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_three_d_printing_tooth_pick_orb_archimedian_solids
 id: project_github_oomlout_oomlout_three_d_printing_tooth_pick_orb_archimedian_solids
 id_no_class: github_oomlout_oomlout_three_d_printing_tooth_pick_orb_archimedian_solids
 id_no_size: three_d_printing_tooth_pick_orb_archimedian_solids
 id_no_type: oomlout_oomlout_three_d_printing_tooth_pick_orb_archimedian_solids
-link_github: https://github.com/oomlout/oomlout_three_d_printing_tooth_pick_orb_archimedian_solids
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_three_d_printing_tooth_pick_orb_archimedian_solids
-link_redirect: https://github.com/oomlout/oomlout_three_d_printing_tooth_pick_orb_archimedian_solids
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_three_d_printing_tooth_pick_orb_archimedian_solids
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_three_d_printing_tooth_pick_orb_archimedian_solids
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_three_d_printing_tooth_pick_orb_archimedian_solids
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_oomlout_three_d_printing_tooth_pick_orb_archimedian_solids](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_three_d_printing_tooth_pick_orb_archimedian_solids)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_three_d_printing_tooth_pick_orb_archimedian_solids)<br>[Project
-    Github Oomlout Oomlout Three D Printing Tooth Pick Orb Archimedian Solids](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_three_d_printing_tooth_pick_orb_archimedian_solids)<br><br>'
-markdown_short: '[project_github_oomlout_oomlout_three_d_printing_tooth_pick_orb_archimedian_solids](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_three_d_printing_tooth_pick_orb_archimedian_solids)<br><br>'
+markdown_full: '[project_github_oomlout_oomlout_three_d_printing_tooth_pick_orb_archimedian_solids](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Three D Printing Tooth Pick Orb Archimedian Solids](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_three_d_printing_tooth_pick_orb_archimedian_solids](none)<br><br>'
 md5: 05425f5f620c63d0db8c2c3f8c93e841
 md5_10: 05425f5f62
 md5_10_upper: 05425F5F62

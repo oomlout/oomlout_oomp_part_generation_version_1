@@ -24,22 +24,23 @@ description_or_color: '4'
 description_or_color_upper: '4'
 directory: parts/electronic_socket_2_54_mm_4_pin_through_hole
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole
 id: electronic_socket_2_54_mm_4_pin_through_hole
 id_no_class: socket_2_54_mm_4_pin_through_hole
 id_no_size: 4_pin_through_hole
 id_no_type: 2_54_mm_4_pin_through_hole
 kicad_reference: CONN
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_socket_2_54_mm_4_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole)<br>[sci14pth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole)<br>[Electronic
-    Socket 2 54 Mm 4 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole)<br><br>'
-markdown_short: '[electronic_socket_2_54_mm_4_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_4_pin_through_hole)<br><br>'
+markdown_full: '[electronic_socket_2_54_mm_4_pin_through_hole](none)<br>[sci14pth](none)<br>[Electronic
+    Socket 2 54 Mm 4 Pin Through Hole](none)<br><br>'
+markdown_short: '[electronic_socket_2_54_mm_4_pin_through_hole](none)<br><br>'
 md5: ae06a3ae9ef3d4815be335541909990d
 md5_10: ae06a3ae9e
 md5_10_upper: AE06A3AE9E

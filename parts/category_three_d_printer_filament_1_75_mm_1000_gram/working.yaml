@@ -27,21 +27,22 @@ directory: parts/category_three_d_printer_filament_1_75_mm_1000_gram
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram
 id: category_three_d_printer_filament_1_75_mm_1000_gram
 id_no_class: three_d_printer_filament_1_75_mm_1000_gram
 id_no_size: 1_75_mm_1000_gram
 id_no_type: filament_1_75_mm_1000_gram
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_three_d_printer_filament_1_75_mm_1000_gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram)<br>[Category
-    Three D Printer Filament 1 75 Mm 1000 Gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram)<br><br>'
-markdown_short: '[category_three_d_printer_filament_1_75_mm_1000_gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_1_75_mm_1000_gram)<br><br>'
+markdown_full: '[category_three_d_printer_filament_1_75_mm_1000_gram](none)<br>[](none)<br>[Category
+    Three D Printer Filament 1 75 Mm 1000 Gram](none)<br><br>'
+markdown_short: '[category_three_d_printer_filament_1_75_mm_1000_gram](none)<br><br>'
 md5: 6fdb3ae93224faa41d7496f998441d75
 md5_10: 6fdb3ae932
 md5_10_upper: 6FDB3AE932

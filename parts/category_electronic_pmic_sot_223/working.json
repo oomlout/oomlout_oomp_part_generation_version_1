@@ -50,8 +50,9 @@
     "id_no_type": "pmic_sot_223",
     "id_no_size": "sot_223",
     "oomp_key": "oomp_category_electronic_pmic_sot_223",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic_sot_223",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic_sot_223",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_pmic_sot_223",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_pmic_sot_223",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_pmic_sot_223",
     "directory": "parts/category_electronic_pmic_sot_223",
     "name": "Category Electronic Pmic Sot 223",
     "name_no_class": "Electronic Pmic Sot 223",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Sot 223",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_electronic_pmic_sot_223](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic_sot_223)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic_sot_223)<br>[Category Electronic Pmic Sot 223](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic_sot_223)<br><br>",
-    "markdown_short": "[category_electronic_pmic_sot_223](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic_sot_223)<br><br>"
+    "markdown_full": "[category_electronic_pmic_sot_223](none)<br>[](none)<br>[Category Electronic Pmic Sot 223](none)<br><br>",
+    "markdown_short": "[category_electronic_pmic_sot_223](none)<br><br>"
 }

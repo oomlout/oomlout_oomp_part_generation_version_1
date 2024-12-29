@@ -27,21 +27,22 @@ directory: parts/category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_tote
 id: category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_tote
 id_no_class: electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_tote
 id_no_size: 9_volt_15_mm_width_16_mm_height_48_mm_depth_tote
 id_no_type: battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_tote)<br>[Category
-    Electronic Battery 9 Volt 15 Mm Width 16 Mm Height 48 Mm Depth Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_tote)<br><br>'
-markdown_short: '[category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_tote)<br><br>'
+markdown_full: '[category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_tote](none)<br>[](none)<br>[Category
+    Electronic Battery 9 Volt 15 Mm Width 16 Mm Height 48 Mm Depth Tote](none)<br><br>'
+markdown_short: '[category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_tote](none)<br><br>'
 md5: 22cfc01f71c83bf3920b98c939752047
 md5_10: 22cfc01f71
 md5_10_upper: 22CFC01F71

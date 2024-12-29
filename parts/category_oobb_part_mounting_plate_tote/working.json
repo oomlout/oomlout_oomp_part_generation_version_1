@@ -50,8 +50,9 @@
     "id_no_type": "part_mounting_plate_tote",
     "id_no_size": "mounting_plate_tote",
     "oomp_key": "oomp_category_oobb_part_mounting_plate_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate_tote",
     "directory": "parts/category_oobb_part_mounting_plate_tote",
     "name": "Category Oobb Part Mounting Plate Tote",
     "name_no_class": "Oobb Part Mounting Plate Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Mounting Plate Tote",
     "description_or_color": "M ",
     "description_or_color_upper": "M ",
-    "markdown_full": "[category_oobb_part_mounting_plate_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_tote)<br>[Category Oobb Part Mounting Plate Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_tote)<br><br>",
-    "markdown_short": "[category_oobb_part_mounting_plate_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_tote)<br><br>"
+    "markdown_full": "[category_oobb_part_mounting_plate_tote](none)<br>[](none)<br>[Category Oobb Part Mounting Plate Tote](none)<br><br>",
+    "markdown_short": "[category_oobb_part_mounting_plate_tote](none)<br><br>"
 }

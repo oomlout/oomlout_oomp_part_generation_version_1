@@ -1,0 +1,93 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: tool_timer_80_mm_diameter_30_mm_depth_black_extra
+description_extra_capital: Tool Timer 80 mm Diameter 30 mm Depth Black Extra
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOOL_TIMER_80_MM_DIAMETER_30_MM_DEPTH_BLACK_EXTRA
+description_main: 7_width_3_height_34_mm_depth
+description_main_capital: 7 Width 3 Height 34 mm Depth
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 7_WIDTH_3_HEIGHT_34_MM_DEPTH
+description_only_numbers: '7334'
+description_only_numbers_short: 7k3
+description_or_color: 7k3
+description_or_color_upper: 7K3
+directory: parts/oobb_part_tool_holder_vertical_7_width_3_height_34_mm_depth_tool_timer_80_mm_diameter_30_mm_depth_black_extra
+distributors: []
+id: oobb_part_tool_holder_vertical_7_width_3_height_34_mm_depth_tool_timer_80_mm_diameter_30_mm_depth_black_extra
+id_no_class: part_tool_holder_vertical_7_width_3_height_34_mm_depth_tool_timer_80_mm_diameter_30_mm_depth_black_extra
+id_no_size: 7_width_3_height_34_mm_depth_tool_timer_80_mm_diameter_30_mm_depth_black_extra
+id_no_type: tool_holder_vertical_7_width_3_height_34_mm_depth_tool_timer_80_mm_diameter_30_mm_depth_black_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_7_width_3_height_34_mm_depth_tool_timer_80_mm_diameter_30_mm_depth_black_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_7_width_3_height_34_mm_depth_tool_timer_80_mm_diameter_30_mm_depth_black_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_7_width_3_height_34_mm_depth_tool_timer_80_mm_diameter_30_mm_depth_black_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tool_holder_vertical_7_width_3_height_34_mm_depth_tool_timer_80_mm_diameter_30_mm_depth_black_extra](none)<br>[](none)<br>[Oobb
+    Part Tool Holder Vertical 7 Width 3 Height 34 Mm Depth Tool Timer 80 Mm Diameter
+    30 Mm Depth Black Extra](none)<br><br>'
+markdown_short: '[oobb_part_tool_holder_vertical_7_width_3_height_34_mm_depth_tool_timer_80_mm_diameter_30_mm_depth_black_extra](none)<br><br>'
+md5: f1438393419747b2f9ef1b72f94a8732
+md5_10: f143839341
+md5_10_upper: F143839341
+md5_5: f1438
+md5_5_upper: F1438
+md5_6: f14383
+md5_6_alpha: 9ew77
+md5_6_alpha_upper: 9EW77
+md5_6_upper: F14383
+name: Oobb Part Tool Holder Vertical 7 Width 3 Height 34 Mm Depth Tool Timer 80 Mm
+    Diameter 30 Mm Depth Black Extra
+name_no_class: Part Tool Holder Vertical 7 Width 3 Height 34 Mm Depth Tool Timer 80
+    Mm Diameter 30 Mm Depth Black Extra
+name_no_size: 7 Width 3 Height 34 Mm Depth Tool Timer 80 Mm Diameter 30 Mm Depth Black
+    Extra
+name_no_size_short: 7 Width 3 Height 34 Mm Depth Tool Timer 80 Mm Diameter 30 Mm Depth
+    Black Extra
+name_no_type: Tool Holder Vertical 7 Width 3 Height 34 Mm Depth Tool Timer 80 Mm Diameter
+    30 Mm Depth Black Extra
+oomp_key: oomp_oobb_part_tool_holder_vertical_7_width_3_height_34_mm_depth_tool_timer_80_mm_diameter_30_mm_depth_black_extra
+oomp_word: ticket elephant lock
+oomp_word_emoji: ':ticket: :elephant: :lock:'
+oomp_word_emoji_list:
+- ':ticket:'
+- ':elephant:'
+- ':lock:'
+oomp_word_list:
+- ticket
+- elephant
+- lock
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tool_holder_vertical
+size_capital: Tool Holder Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TOOL_HOLDER_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -27,21 +27,22 @@ directory: parts/category_electronic_crimp_housing_2_54_mm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm
 id: category_electronic_crimp_housing_2_54_mm
 id_no_class: electronic_crimp_housing_2_54_mm
 id_no_size: 2_54_mm
 id_no_type: crimp_housing_2_54_mm
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_crimp_housing_2_54_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm)<br>[Category
-    Electronic Crimp Housing 2 54 Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm)<br><br>'
-markdown_short: '[category_electronic_crimp_housing_2_54_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_54_mm)<br><br>'
+markdown_full: '[category_electronic_crimp_housing_2_54_mm](none)<br>[](none)<br>[Category
+    Electronic Crimp Housing 2 54 Mm](none)<br><br>'
+markdown_short: '[category_electronic_crimp_housing_2_54_mm](none)<br><br>'
 md5: 550774c440884357f24a054cc0490fa8
 md5_10: 550774c440
 md5_10_upper: 550774C440

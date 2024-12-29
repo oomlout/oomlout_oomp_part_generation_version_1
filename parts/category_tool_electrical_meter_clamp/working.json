@@ -50,8 +50,9 @@
     "id_no_type": "electrical_meter_clamp",
     "id_no_size": "electrical_meter_clamp",
     "oomp_key": "oomp_category_tool_electrical_meter_clamp",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_electrical_meter_clamp",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_electrical_meter_clamp",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_electrical_meter_clamp",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_electrical_meter_clamp",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_electrical_meter_clamp",
     "directory": "parts/category_tool_electrical_meter_clamp",
     "name": "Category Tool Electrical Meter Clamp",
     "name_no_class": "Tool Electrical Meter Clamp",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Electrical Meter Clamp",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_tool_electrical_meter_clamp](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_electrical_meter_clamp)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_electrical_meter_clamp)<br>[Category Tool Electrical Meter Clamp](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_electrical_meter_clamp)<br><br>",
-    "markdown_short": "[category_tool_electrical_meter_clamp](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_electrical_meter_clamp)<br><br>"
+    "markdown_full": "[category_tool_electrical_meter_clamp](none)<br>[](none)<br>[Category Tool Electrical Meter Clamp](none)<br><br>",
+    "markdown_short": "[category_tool_electrical_meter_clamp](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_mechanical_motor_stepper_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_tote
 id: category_mechanical_motor_stepper_tote
 id_no_class: mechanical_motor_stepper_tote
 id_no_size: tote
 id_no_type: motor_stepper_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_mechanical_motor_stepper_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_tote)<br>[Category
-    Mechanical Motor Stepper Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_tote)<br><br>'
-markdown_short: '[category_mechanical_motor_stepper_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_stepper_tote)<br><br>'
+markdown_full: '[category_mechanical_motor_stepper_tote](none)<br>[](none)<br>[Category
+    Mechanical Motor Stepper Tote](none)<br><br>'
+markdown_short: '[category_mechanical_motor_stepper_tote](none)<br><br>'
 md5: ee31e218eed920702b6378e8cd9b2a42
 md5_10: ee31e218ee
 md5_10_upper: EE31E218EE

@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 8_width_6_height_18_mm_depth
+description_main_capital: 8 Width 6 Height 18 mm Depth
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_upper: 8_WIDTH_6_HEIGHT_18_MM_DEPTH
+description_only_numbers: '8618'
+description_only_numbers_short: 8k6
+description_or_color: 8k6
+description_or_color_upper: 8K6
+directory: parts/oobb_part_tray_vertical_8_width_6_height_18_mm_depth
+distributors: []
+id: oobb_part_tray_vertical_8_width_6_height_18_mm_depth
+id_no_class: part_tray_vertical_8_width_6_height_18_mm_depth
+id_no_size: 8_width_6_height_18_mm_depth
+id_no_type: tray_vertical_8_width_6_height_18_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_8_width_6_height_18_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_8_width_6_height_18_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_8_width_6_height_18_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_8_width_6_height_18_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray Vertical 8 Width 6 Height 18 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_8_width_6_height_18_mm_depth](none)<br><br>'
+md5: c838e751df6c4e4839121ba657f11e94
+md5_10: c838e751df
+md5_10_upper: C838E751DF
+md5_5: c838e
+md5_5_upper: C838E
+md5_6: c838e7
+md5_6_alpha: 7t8tj
+md5_6_alpha_upper: 7T8TJ
+md5_6_upper: C838E7
+name: Oobb Part Tray Vertical 8 Width 6 Height 18 Mm Depth
+name_no_class: Part Tray Vertical 8 Width 6 Height 18 Mm Depth
+name_no_size: 8 Width 6 Height 18 Mm Depth
+name_no_size_short: 8 Width 6 Height 18 Mm Depth
+name_no_type: Tray Vertical 8 Width 6 Height 18 Mm Depth
+oomp_key: oomp_oobb_part_tray_vertical_8_width_6_height_18_mm_depth
+oomp_word: apple frog helicopter
+oomp_word_emoji: ':apple: :frog: :helicopter:'
+oomp_word_emoji_list:
+- ':apple:'
+- ':frog:'
+- ':helicopter:'
+oomp_word_list:
+- apple
+- frog
+- helicopter
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

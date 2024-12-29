@@ -26,21 +26,22 @@ directory: parts/dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_58
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16
 id: dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16
 id_no_class: ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16
 id_no_size: ikeaoftastwhitebowlserving230mmdiameterikea70258916
 id_no_type: ikeaoftastwhitebowlserving230mmdiameterikea70258916
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16
 manufacturer: ikea
 manufacturer_capital: Ikea
 manufacturer_first_letter: i
 manufacturer_first_letter_upper: I
 manufacturer_upper: IKEA
 manufacturers: []
-markdown_full: '[dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16)<br>[w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16)<br>[Dish
-    Ikea Oftast White Bowl Serving 230 Mm Diameter Ikea 702 589 16](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16)<br><br>'
-markdown_short: '[dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16)<br><br>'
+markdown_full: '[dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16](none)<br>[w](none)<br>[Dish
+    Ikea Oftast White Bowl Serving 230 Mm Diameter Ikea 702 589 16](none)<br><br>'
+markdown_short: '[dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16](none)<br><br>'
 md5: 232904590ae178f0a85f3d038d67918c
 md5_10: 232904590a
 md5_10_upper: 232904590A

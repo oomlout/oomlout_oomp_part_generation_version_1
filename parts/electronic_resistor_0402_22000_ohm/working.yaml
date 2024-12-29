@@ -26,13 +26,14 @@ directory: parts/electronic_resistor_0402_22000_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_22000_ohm
 id: electronic_resistor_0402_22000_ohm
 id_no_class: resistor_0402_22000_ohm
 id_no_size: 22000_ohm
 id_no_type: 0402_22000_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_22000_ohm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_22000_ohm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_22000_ohm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_22000_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -61,15 +62,15 @@ manufacturers:
         reason: yageo is a commonly cross referenced part number
         reason_short: available everywhere
     part_number: RC0402JR-0722KL
-markdown_full: '[electronic_resistor_0402_22000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_22000_ohm)<br>[r4o223](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_22000_ohm)<br>[Electronic
-    Resistor 0402 22000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_22000_ohm)<br><br>[Uniroyal
-    - 0402WGJ0223TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0223TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0223TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0223TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0223TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0223TCE)<br>[Uniroyal
+markdown_full: '[electronic_resistor_0402_22000_ohm](none)<br>[r4o223](none)<br>[Electronic
+    Resistor 0402 22000 Ohm](none)<br><br>[Uniroyal - 0402WGJ0223TCE- not in jlc basic
+    parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0223TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0223TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0223TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0223TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0223TCE)<br>[Uniroyal
     - 0402WGF2202TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF2202TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF2202TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF2202TCE)[(N)  ](https://www.newark.com/search?st=0402WGF2202TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF2202TCE)<br>[Yageo
     - RC0402JR-0722KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0722KL)
     [(L)  ](https://www.lcsc.com/search?q=RC0402JR-0722KL)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-0722KL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-0722KL)[(N)  ](https://www.newark.com/search?st=RC0402JR-0722KL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-0722KL)<br>'
-markdown_short: '[electronic_resistor_0402_22000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_22000_ohm)<br><br>[Uniroyal
-    - 0402WGJ0223TCE- not in jlc basic parts]()[Uniroyal - 0402WGF2202TCE- jlc basic
-    part]()[Yageo - RC0402JR-0722KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0722KL)'
+markdown_short: '[electronic_resistor_0402_22000_ohm](none)<br><br>[Uniroyal - 0402WGJ0223TCE-
+    not in jlc basic parts]()[Uniroyal - 0402WGF2202TCE- jlc basic part]()[Yageo -
+    RC0402JR-0722KL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-0722KL)'
 md5: 74ff819e3dbb5c9d5b36eac9b1607055
 md5_10: 74ff819e3d
 md5_10_upper: 74FF819E3D

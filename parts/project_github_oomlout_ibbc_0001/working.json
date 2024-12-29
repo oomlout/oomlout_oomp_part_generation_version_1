@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/IBBC_0001",
-    "link_github": "https://github.com/oomlout/IBBC_0001",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_ibbc_0001",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_ibbc_0001",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_ibbc_0001",
     "id_no_size": "ibbc_0001",
     "oomp_key": "oomp_project_github_oomlout_ibbc_0001",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_ibbc_0001",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_ibbc_0001",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_ibbc_0001",
     "directory": "parts/project_github_oomlout_ibbc_0001",
     "name": "Project Github Oomlout Ibbc 0001",
     "name_no_class": "Github Oomlout Ibbc 0001",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Ibbc 0001",
     "description_or_color": "I ",
     "description_or_color_upper": "I ",
-    "markdown_full": "[project_github_oomlout_ibbc_0001](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_ibbc_0001)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_ibbc_0001)<br>[Project Github Oomlout Ibbc 0001](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_ibbc_0001)<br><br>",
-    "markdown_short": "[project_github_oomlout_ibbc_0001](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_ibbc_0001)<br><br>"
+    "markdown_full": "[project_github_oomlout_ibbc_0001](none)<br>[](none)<br>[Project Github Oomlout Ibbc 0001](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_ibbc_0001](none)<br><br>"
 }

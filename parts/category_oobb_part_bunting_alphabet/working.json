@@ -50,8 +50,9 @@
     "id_no_type": "part_bunting_alphabet",
     "id_no_size": "bunting_alphabet",
     "oomp_key": "oomp_category_oobb_part_bunting_alphabet",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bunting_alphabet",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bunting_alphabet",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bunting_alphabet",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bunting_alphabet",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bunting_alphabet",
     "directory": "parts/category_oobb_part_bunting_alphabet",
     "name": "Category Oobb Part Bunting Alphabet",
     "name_no_class": "Oobb Part Bunting Alphabet",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Bunting Alphabet",
     "description_or_color": "B ",
     "description_or_color_upper": "B ",
-    "markdown_full": "[category_oobb_part_bunting_alphabet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bunting_alphabet)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bunting_alphabet)<br>[Category Oobb Part Bunting Alphabet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bunting_alphabet)<br><br>",
-    "markdown_short": "[category_oobb_part_bunting_alphabet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bunting_alphabet)<br><br>"
+    "markdown_full": "[category_oobb_part_bunting_alphabet](none)<br>[](none)<br>[Category Oobb Part Bunting Alphabet](none)<br><br>",
+    "markdown_short": "[category_oobb_part_bunting_alphabet](none)<br><br>"
 }

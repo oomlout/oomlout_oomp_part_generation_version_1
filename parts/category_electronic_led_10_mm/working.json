@@ -50,8 +50,9 @@
     "id_no_type": "led_10_mm",
     "id_no_size": "10_mm",
     "oomp_key": "oomp_category_electronic_led_10_mm",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_10_mm",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_10_mm",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_10_mm",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_10_mm",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_10_mm",
     "directory": "parts/category_electronic_led_10_mm",
     "name": "Category Electronic Led 10 Mm",
     "name_no_class": "Electronic Led 10 Mm",
@@ -89,6 +90,6 @@
     "name_no_size_short": "10 Mm",
     "description_or_color": "1 ",
     "description_or_color_upper": "1 ",
-    "markdown_full": "[category_electronic_led_10_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_10_mm)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_10_mm)<br>[Category Electronic Led 10 Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_10_mm)<br><br>",
-    "markdown_short": "[category_electronic_led_10_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_10_mm)<br><br>"
+    "markdown_full": "[category_electronic_led_10_mm](none)<br>[](none)<br>[Category Electronic Led 10 Mm](none)<br><br>",
+    "markdown_short": "[category_electronic_led_10_mm](none)<br><br>"
 }

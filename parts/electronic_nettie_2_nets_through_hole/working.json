@@ -48,8 +48,9 @@
     "id_no_type": "2_nets_through_hole",
     "id_no_size": "through_hole",
     "oomp_key": "oomp_electronic_nettie_2_nets_through_hole",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_through_hole",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_through_hole",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_2_nets_through_hole",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_2_nets_through_hole",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_2_nets_through_hole",
     "directory": "parts/electronic_nettie_2_nets_through_hole",
     "name": "Electronic Nettie 2 Nets Through Hole",
     "name_no_class": "Nettie 2 Nets Through Hole",
@@ -87,6 +88,6 @@
     "name_no_size_short": "Through Hole",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[electronic_nettie_2_nets_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_through_hole)<br>[nt2th](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_through_hole)<br>[Electronic Nettie 2 Nets Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_through_hole)<br><br>",
-    "markdown_short": "[electronic_nettie_2_nets_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_2_nets_through_hole)<br><br>"
+    "markdown_full": "[electronic_nettie_2_nets_through_hole](none)<br>[nt2th](none)<br>[Electronic Nettie 2 Nets Through Hole](none)<br><br>",
+    "markdown_short": "[electronic_nettie_2_nets_through_hole](none)<br><br>"
 }

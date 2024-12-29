@@ -27,21 +27,21 @@ directory: parts/category_camera_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_tote
 id: category_camera_tote
 id_no_class: camera_tote
 id_no_size: tote
 id_no_type: tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_camera_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_tote)<br>[Category
-    Camera Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_tote)<br><br>'
-markdown_short: '[category_camera_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_tote)<br><br>'
+markdown_full: '[category_camera_tote](none)<br>[](none)<br>[Category Camera Tote](none)<br><br>'
+markdown_short: '[category_camera_tote](none)<br><br>'
 md5: 8f9f46e5194df99f752a3dded8532f1e
 md5_10: 8f9f46e519
 md5_10_upper: 8F9F46E519

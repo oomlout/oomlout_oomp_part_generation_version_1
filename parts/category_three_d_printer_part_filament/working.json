@@ -50,8 +50,9 @@
     "id_no_type": "part_filament",
     "id_no_size": "filament",
     "oomp_key": "oomp_category_three_d_printer_part_filament",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_part_filament",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_part_filament",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_part_filament",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_part_filament",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_part_filament",
     "directory": "parts/category_three_d_printer_part_filament",
     "name": "Category Three D Printer Part Filament",
     "name_no_class": "Three D Printer Part Filament",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Filament",
     "description_or_color": "F ",
     "description_or_color_upper": "F ",
-    "markdown_full": "[category_three_d_printer_part_filament](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_part_filament)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_part_filament)<br>[Category Three D Printer Part Filament](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_part_filament)<br><br>",
-    "markdown_short": "[category_three_d_printer_part_filament](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_part_filament)<br><br>"
+    "markdown_full": "[category_three_d_printer_part_filament](none)<br>[](none)<br>[Category Three D Printer Part Filament](none)<br><br>",
+    "markdown_short": "[category_three_d_printer_part_filament](none)<br><br>"
 }

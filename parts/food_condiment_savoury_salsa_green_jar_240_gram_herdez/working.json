@@ -48,8 +48,9 @@
     "id_no_type": "savoury_salsa_green_jar_240_gram_herdez",
     "id_no_size": "savourysalsagreenjar240gramherdez",
     "oomp_key": "oomp_food_condiment_savoury_salsa_green_jar_240_gram_herdez",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez",
     "directory": "parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez",
     "name": "Food Condiment Savoury Salsa Green Jar 240 Gram Herdez",
     "name_no_class": "Condiment Savoury Salsa Green Jar 240 Gram Herdez",
@@ -87,6 +88,6 @@
     "name_no_size_short": "Savourysalsagreenjar240Gramherdez",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[food_condiment_savoury_salsa_green_jar_240_gram_herdez](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez)<br>[Food Condiment Savoury Salsa Green Jar 240 Gram Herdez](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez)<br><br>",
-    "markdown_short": "[food_condiment_savoury_salsa_green_jar_240_gram_herdez](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez)<br><br>"
+    "markdown_full": "[food_condiment_savoury_salsa_green_jar_240_gram_herdez](none)<br>[](none)<br>[Food Condiment Savoury Salsa Green Jar 240 Gram Herdez](none)<br><br>",
+    "markdown_short": "[food_condiment_savoury_salsa_green_jar_240_gram_herdez](none)<br><br>"
 }

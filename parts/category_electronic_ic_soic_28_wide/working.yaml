@@ -27,21 +27,22 @@ directory: parts/category_electronic_ic_soic_28_wide
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_soic_28_wide
 id: category_electronic_ic_soic_28_wide
 id_no_class: electronic_ic_soic_28_wide
 id_no_size: so28_wide
 id_no_type: ic_soic_28_wide
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_soic_28_wide
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_soic_28_wide
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_soic_28_wide
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_soic_28_wide
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_ic_soic_28_wide](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_soic_28_wide)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_soic_28_wide)<br>[Category
-    Electronic Ic Soic 28 Wide](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_soic_28_wide)<br><br>'
-markdown_short: '[category_electronic_ic_soic_28_wide](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_soic_28_wide)<br><br>'
+markdown_full: '[category_electronic_ic_soic_28_wide](none)<br>[](none)<br>[Category
+    Electronic Ic Soic 28 Wide](none)<br><br>'
+markdown_short: '[category_electronic_ic_soic_28_wide](none)<br><br>'
 md5: 21d9da8ccf074a674d07190f5e3384f3
 md5_10: 21d9da8ccf
 md5_10_upper: 21D9DA8CCF

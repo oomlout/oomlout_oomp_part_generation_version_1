@@ -24,21 +24,22 @@ description_or_color: '5'
 description_or_color_upper: '5'
 directory: parts/mechanical_coupler_flange_5_mm_bore
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_coupler_flange_5_mm_bore
 id: mechanical_coupler_flange_5_mm_bore
 id_no_class: coupler_flange_5_mm_bore
 id_no_size: 5_mm_bore
 id_no_type: flange_5_mm_bore
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_coupler_flange_5_mm_bore
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_coupler_flange_5_mm_bore
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_coupler_flange_5_mm_bore
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_coupler_flange_5_mm_bore
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[mechanical_coupler_flange_5_mm_bore](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_coupler_flange_5_mm_bore)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_coupler_flange_5_mm_bore)<br>[Mechanical
-    Coupler Flange 5 Mm Bore](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_coupler_flange_5_mm_bore)<br><br>'
-markdown_short: '[mechanical_coupler_flange_5_mm_bore](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_coupler_flange_5_mm_bore)<br><br>'
+markdown_full: '[mechanical_coupler_flange_5_mm_bore](none)<br>[](none)<br>[Mechanical
+    Coupler Flange 5 Mm Bore](none)<br><br>'
+markdown_short: '[mechanical_coupler_flange_5_mm_bore](none)<br><br>'
 md5: 0057af120ad73b06acd94f61c4a1957a
 md5_10: 0057af120a
 md5_10_upper: 0057AF120A

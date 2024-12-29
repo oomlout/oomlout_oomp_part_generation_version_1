@@ -27,21 +27,22 @@ directory: parts/category_electronic_header_oobb_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_oobb_tote
 id: category_electronic_header_oobb_tote
 id_no_class: electronic_header_oobb_tote
 id_no_size: oobb_tote
 id_no_type: header_oobb_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_oobb_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_oobb_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_oobb_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_oobb_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_header_oobb_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_oobb_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_oobb_tote)<br>[Category
-    Electronic Header Oobb Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_oobb_tote)<br><br>'
-markdown_short: '[category_electronic_header_oobb_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_oobb_tote)<br><br>'
+markdown_full: '[category_electronic_header_oobb_tote](none)<br>[](none)<br>[Category
+    Electronic Header Oobb Tote](none)<br><br>'
+markdown_short: '[category_electronic_header_oobb_tote](none)<br><br>'
 md5: 5ef212327635eee7f18e08a6b5b70b39
 md5_10: 5ef2123276
 md5_10_upper: 5EF2123276

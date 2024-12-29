@@ -50,8 +50,9 @@
     "id_no_type": "screw_terminal_3_5_mm_pitch_cubby_box",
     "id_no_size": "3_5_mm_pitch_cubby_box",
     "oomp_key": "oomp_category_electronic_screw_terminal_3_5_mm_pitch_cubby_box",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_cubby_box",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_cubby_box",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_cubby_box",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_cubby_box",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_cubby_box",
     "directory": "parts/category_electronic_screw_terminal_3_5_mm_pitch_cubby_box",
     "name": "Category Electronic Screw Terminal 3 5 Mm Pitch Cubby Box",
     "name_no_class": "Electronic Screw Terminal 3 5 Mm Pitch Cubby Box",
@@ -89,6 +90,6 @@
     "name_no_size_short": "3 5 Mm Pitch Cubby Box",
     "description_or_color": "3 ",
     "description_or_color_upper": "3 ",
-    "markdown_full": "[category_electronic_screw_terminal_3_5_mm_pitch_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_cubby_box)<br>[Category Electronic Screw Terminal 3 5 Mm Pitch Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_cubby_box)<br><br>",
-    "markdown_short": "[category_electronic_screw_terminal_3_5_mm_pitch_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_cubby_box)<br><br>"
+    "markdown_full": "[category_electronic_screw_terminal_3_5_mm_pitch_cubby_box](none)<br>[](none)<br>[Category Electronic Screw Terminal 3 5 Mm Pitch Cubby Box](none)<br><br>",
+    "markdown_short": "[category_electronic_screw_terminal_3_5_mm_pitch_cubby_box](none)<br><br>"
 }

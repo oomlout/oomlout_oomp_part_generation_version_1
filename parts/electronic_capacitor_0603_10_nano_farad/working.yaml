@@ -37,13 +37,14 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_c6nf10_electronic_capacitor_0603_10_nano_farad
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_10_nano_farad
 id: electronic_capacitor_0603_10_nano_farad
 id_no_class: capacitor_0603_10_nano_farad
 id_no_size: 10_nano_farad
 id_no_type: 0603_10_nano_farad
 kicad_reference: C
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_10_nano_farad
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_10_nano_farad
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_10_nano_farad
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_10_nano_farad
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -54,12 +55,10 @@ manufacturers:
     link: https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103
     name: Yageo
     part_number: CC0603KRX7R9BB103
-markdown_full: '[electronic_capacitor_0603_10_nano_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_10_nano_farad)<br>[c6nf10](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_10_nano_farad)<br>[Electronic
-    Capacitor 0603 10 Nano Farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_10_nano_farad)<br><br>[Yageo
-    - CC0603KRX7R9BB103](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103)
+markdown_full: '[electronic_capacitor_0603_10_nano_farad](none)<br>[c6nf10](none)<br>[Electronic
+    Capacitor 0603 10 Nano Farad](none)<br><br>[Yageo - CC0603KRX7R9BB103](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103)
     [(L)  ](https://www.lcsc.com/search?q=CC0603KRX7R9BB103)[(D)  ](https://www.digikey.com/en/products?keywords=CC0603KRX7R9BB103)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CC0603KRX7R9BB103)[(N)  ](https://www.newark.com/search?st=CC0603KRX7R9BB103)[(SZ)  ](https://so.szlcsc.com/global.html?k=CC0603KRX7R9BB103)<br>'
-markdown_short: '[electronic_capacitor_0603_10_nano_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_10_nano_farad)<br><br>[Yageo
-    - CC0603KRX7R9BB103](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103)'
+markdown_short: '[electronic_capacitor_0603_10_nano_farad](none)<br><br>[Yageo - CC0603KRX7R9BB103](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103)'
 md5: 33c290430a925ac7c87bd31db1d1a8b7
 md5_10: 33c290430a
 md5_10_upper: 33C290430A

@@ -50,8 +50,9 @@
     "id_no_type": "part_screw_socket_cap",
     "id_no_size": "screw_socket_cap",
     "oomp_key": "oomp_category_oobb_part_screw_socket_cap",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_socket_cap",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_socket_cap",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_socket_cap",
     "directory": "parts/category_oobb_part_screw_socket_cap",
     "name": "Category Oobb Part Screw Socket Cap",
     "name_no_class": "Oobb Part Screw Socket Cap",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Screw Socket Cap",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_oobb_part_screw_socket_cap](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap)<br>[Category Oobb Part Screw Socket Cap](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap)<br><br>",
-    "markdown_short": "[category_oobb_part_screw_socket_cap](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap)<br><br>"
+    "markdown_full": "[category_oobb_part_screw_socket_cap](none)<br>[](none)<br>[Category Oobb Part Screw Socket Cap](none)<br><br>",
+    "markdown_short": "[category_oobb_part_screw_socket_cap](none)<br><br>"
 }

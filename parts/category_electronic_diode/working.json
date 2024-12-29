@@ -50,8 +50,9 @@
     "id_no_type": "diode",
     "id_no_size": "diode",
     "oomp_key": "oomp_category_electronic_diode",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode",
     "directory": "parts/category_electronic_diode",
     "name": "Category Electronic Diode",
     "name_no_class": "Electronic Diode",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Diode",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_diode](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode)<br>[Category Electronic Diode](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode)<br><br>",
-    "markdown_short": "[category_electronic_diode](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode)<br><br>"
+    "markdown_full": "[category_electronic_diode](none)<br>[](none)<br>[Category Electronic Diode](none)<br><br>",
+    "markdown_short": "[category_electronic_diode](none)<br><br>"
 }

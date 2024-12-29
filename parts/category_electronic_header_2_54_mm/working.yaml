@@ -27,21 +27,22 @@ directory: parts/category_electronic_header_2_54_mm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm
 id: category_electronic_header_2_54_mm
 id_no_class: electronic_header_2_54_mm
 id_no_size: 2_54_mm
 id_no_type: header_2_54_mm
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_header_2_54_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm)<br>[Category
-    Electronic Header 2 54 Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm)<br><br>'
-markdown_short: '[category_electronic_header_2_54_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm)<br><br>'
+markdown_full: '[category_electronic_header_2_54_mm](none)<br>[](none)<br>[Category
+    Electronic Header 2 54 Mm](none)<br><br>'
+markdown_short: '[category_electronic_header_2_54_mm](none)<br><br>'
 md5: 5ae0f624ca7ad7d2d2f068a2b0ae855d
 md5_10: 5ae0f624ca
 md5_10_upper: 5AE0F624CA

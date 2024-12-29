@@ -24,21 +24,21 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/mechanical_gear
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_gear
 id: mechanical_gear
 id_no_class: gear
 id_no_size: gear
 id_no_type: gear
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_gear
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_gear
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_gear
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_gear
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[mechanical_gear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_gear)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_gear)<br>[Mechanical
-    Gear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_gear)<br><br>'
-markdown_short: '[mechanical_gear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_gear)<br><br>'
+markdown_full: '[mechanical_gear](none)<br>[](none)<br>[Mechanical Gear](none)<br><br>'
+markdown_short: '[mechanical_gear](none)<br><br>'
 md5: 7f14c92f0ed90fdbd36c637377f9cd5e
 md5_10: 7f14c92f0e
 md5_10_upper: 7F14C92F0E

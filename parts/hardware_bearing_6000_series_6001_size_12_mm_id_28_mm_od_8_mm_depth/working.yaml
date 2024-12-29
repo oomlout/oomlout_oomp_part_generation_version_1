@@ -26,21 +26,22 @@ directory: parts/hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_d
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
 id: hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
 id_no_class: bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
 id_no_size: 6001_size_12_mm_id_28_mm_od_8_mm_depth
 id_no_type: 6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth)<br>[Hardware
-    Bearing 6000 Series 6001 Size 12 Mm Id 28 Mm Od 8 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth)<br><br>'
-markdown_short: '[hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth)<br><br>'
+markdown_full: '[hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth](none)<br>[](none)<br>[Hardware
+    Bearing 6000 Series 6001 Size 12 Mm Id 28 Mm Od 8 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth](none)<br><br>'
 md5: e7e32d6594d7d177b56e2934f226f539
 md5_10: e7e32d6594
 md5_10_upper: E7E32D6594

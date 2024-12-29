@@ -24,21 +24,22 @@ description_or_color: '48'
 description_or_color_upper: '48'
 directory: parts/mechanical_motor_stepper_nema_17_48_1_7_amp_drive_current
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_stepper_nema_17_48_1_7_amp_drive_current
 id: mechanical_motor_stepper_nema_17_48_1_7_amp_drive_current
 id_no_class: motor_stepper_nema_17_48_1_7_amp_drive_current
 id_no_size: 48_1_7_amp_drive_current
 id_no_type: nema_17_48_1_7_amp_drive_current
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_stepper_nema_17_48_1_7_amp_drive_current
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_stepper_nema_17_48_1_7_amp_drive_current
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_stepper_nema_17_48_1_7_amp_drive_current
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_stepper_nema_17_48_1_7_amp_drive_current
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[mechanical_motor_stepper_nema_17_48_1_7_amp_drive_current](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_stepper_nema_17_48_1_7_amp_drive_current)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_stepper_nema_17_48_1_7_amp_drive_current)<br>[Mechanical
-    Motor Stepper Nema 17 48 1 7 Amp Drive Current](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_stepper_nema_17_48_1_7_amp_drive_current)<br><br>'
-markdown_short: '[mechanical_motor_stepper_nema_17_48_1_7_amp_drive_current](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_stepper_nema_17_48_1_7_amp_drive_current)<br><br>'
+markdown_full: '[mechanical_motor_stepper_nema_17_48_1_7_amp_drive_current](none)<br>[](none)<br>[Mechanical
+    Motor Stepper Nema 17 48 1 7 Amp Drive Current](none)<br><br>'
+markdown_short: '[mechanical_motor_stepper_nema_17_48_1_7_amp_drive_current](none)<br><br>'
 md5: 6560d9dc72d8f4167946134de036e7eb
 md5_10: 6560d9dc72
 md5_10_upper: 6560D9DC72

@@ -27,21 +27,22 @@ directory: parts/category_electronic_ic
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic
 id: category_electronic_ic
 id_no_class: electronic_ic
 id_no_size: ic
 id_no_type: ic
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_ic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic)<br>[Category
-    Electronic Ic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic)<br><br>'
-markdown_short: '[category_electronic_ic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic)<br><br>'
+markdown_full: '[category_electronic_ic](none)<br>[](none)<br>[Category Electronic
+    Ic](none)<br><br>'
+markdown_short: '[category_electronic_ic](none)<br><br>'
 md5: a70b34023013d606430c7075a5647576
 md5_10: a70b340230
 md5_10_upper: A70B340230

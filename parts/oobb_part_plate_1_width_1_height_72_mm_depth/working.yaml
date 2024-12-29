@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 1_width_1_height_72_mm_depth
+description_main_capital: 1 Width 1 Height 72 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 1_WIDTH_1_HEIGHT_72_MM_DEPTH
+description_only_numbers: '1172'
+description_only_numbers_short: 1k1
+description_or_color: 1k1
+description_or_color_upper: 1K1
+directory: parts/oobb_part_plate_1_width_1_height_72_mm_depth
+distributors: []
+id: oobb_part_plate_1_width_1_height_72_mm_depth
+id_no_class: part_plate_1_width_1_height_72_mm_depth
+id_no_size: 1_width_1_height_72_mm_depth
+id_no_type: plate_1_width_1_height_72_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_1_width_1_height_72_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_1_width_1_height_72_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_1_width_1_height_72_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_1_width_1_height_72_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Plate 1 Width 1 Height 72 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_plate_1_width_1_height_72_mm_depth](none)<br><br>'
+md5: d8381d6871d32d80c69e529bd000c1e8
+md5_10: d8381d6871
+md5_10_upper: D8381D6871
+md5_5: d8381
+md5_5_upper: D8381
+md5_6: d8381d
+md5_6_alpha: 8fpr1
+md5_6_alpha_upper: 8FPR1
+md5_6_upper: D8381D
+name: Oobb Part Plate 1 Width 1 Height 72 Mm Depth
+name_no_class: Part Plate 1 Width 1 Height 72 Mm Depth
+name_no_size: 1 Width 1 Height 72 Mm Depth
+name_no_size_short: 1 Width 1 Height 72 Mm Depth
+name_no_type: Plate 1 Width 1 Height 72 Mm Depth
+oomp_key: oomp_oobb_part_plate_1_width_1_height_72_mm_depth
+oomp_word: hospital frog baby
+oomp_word_emoji: ':hospital: :frog: :baby:'
+oomp_word_emoji_list:
+- ':hospital:'
+- ':frog:'
+- ':baby:'
+oomp_word_list:
+- hospital
+- frog
+- baby
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

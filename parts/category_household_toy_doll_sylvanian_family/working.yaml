@@ -27,21 +27,22 @@ directory: parts/category_household_toy_doll_sylvanian_family
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family
 id: category_household_toy_doll_sylvanian_family
 id_no_class: household_toy_doll_sylvanian_family
 id_no_size: doll_sylvanian_family
 id_no_type: doll_sylvanian_family
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_sylvanian_family
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_sylvanian_family
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_sylvanian_family
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_household_toy_doll_sylvanian_family](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family)<br>[Category
-    Household Toy Doll Sylvanian Family](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family)<br><br>'
-markdown_short: '[category_household_toy_doll_sylvanian_family](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family)<br><br>'
+markdown_full: '[category_household_toy_doll_sylvanian_family](none)<br>[](none)<br>[Category
+    Household Toy Doll Sylvanian Family](none)<br><br>'
+markdown_short: '[category_household_toy_doll_sylvanian_family](none)<br><br>'
 md5: a3eb2624244d363676f6665f6a8c5dca
 md5_10: a3eb262424
 md5_10_upper: A3EB262424

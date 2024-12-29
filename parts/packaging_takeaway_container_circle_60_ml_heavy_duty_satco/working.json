@@ -47,8 +47,9 @@
     "id_no_type": "60_ml_heavy_duty_satco",
     "id_no_size": "heavy_duty_satco",
     "oomp_key": "oomp_packaging_takeaway_container_circle_60_ml_heavy_duty_satco",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco",
     "directory": "parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco",
     "name": "Packaging Takeaway Container Circle 60 Ml Heavy Duty Satco",
     "name_no_class": "Takeaway Container Circle 60 Ml Heavy Duty Satco",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Heavy Duty Satco",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[packaging_takeaway_container_circle_60_ml_heavy_duty_satco](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco)<br>[Packaging Takeaway Container Circle 60 Ml Heavy Duty Satco](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco)<br><br>",
-    "markdown_short": "[packaging_takeaway_container_circle_60_ml_heavy_duty_satco](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco)<br><br>"
+    "markdown_full": "[packaging_takeaway_container_circle_60_ml_heavy_duty_satco](none)<br>[](none)<br>[Packaging Takeaway Container Circle 60 Ml Heavy Duty Satco](none)<br><br>",
+    "markdown_short": "[packaging_takeaway_container_circle_60_ml_heavy_duty_satco](none)<br><br>"
 }

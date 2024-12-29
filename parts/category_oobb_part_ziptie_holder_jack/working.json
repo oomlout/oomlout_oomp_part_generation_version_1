@@ -50,8 +50,9 @@
     "id_no_type": "part_ziptie_holder_jack",
     "id_no_size": "ziptie_holder_jack",
     "oomp_key": "oomp_category_oobb_part_ziptie_holder_jack",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack",
     "directory": "parts/category_oobb_part_ziptie_holder_jack",
     "name": "Category Oobb Part Ziptie Holder Jack",
     "name_no_class": "Oobb Part Ziptie Holder Jack",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Ziptie Holder Jack",
     "description_or_color": "Z ",
     "description_or_color_upper": "Z ",
-    "markdown_full": "[category_oobb_part_ziptie_holder_jack](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack)<br>[Category Oobb Part Ziptie Holder Jack](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack)<br><br>",
-    "markdown_short": "[category_oobb_part_ziptie_holder_jack](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack)<br><br>"
+    "markdown_full": "[category_oobb_part_ziptie_holder_jack](none)<br>[](none)<br>[Category Oobb Part Ziptie Holder Jack](none)<br><br>",
+    "markdown_short": "[category_oobb_part_ziptie_holder_jack](none)<br><br>"
 }

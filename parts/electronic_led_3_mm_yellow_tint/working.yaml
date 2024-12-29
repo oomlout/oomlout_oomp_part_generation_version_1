@@ -26,22 +26,23 @@ directory: parts/electronic_led_3_mm_yellow_tint
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_yellow_tint
 id: electronic_led_3_mm_yellow_tint
 id_no_class: led_3_mm_yellow_tint
 id_no_size: yellow_tint
 id_no_type: 3_mm_yellow_tint
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_yellow_tint
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_yellow_tint
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_yellow_tint
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_yellow_tint
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_3_mm_yellow_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_yellow_tint)<br>[l3y](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_yellow_tint)<br>[Electronic
-    Led 3 Mm Yellow Tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_yellow_tint)<br><br>'
-markdown_short: '[electronic_led_3_mm_yellow_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_yellow_tint)<br><br>'
+markdown_full: '[electronic_led_3_mm_yellow_tint](none)<br>[l3y](none)<br>[Electronic
+    Led 3 Mm Yellow Tint](none)<br><br>'
+markdown_short: '[electronic_led_3_mm_yellow_tint](none)<br><br>'
 md5: 36700c95a8ec2069094f658af694494a
 md5_10: 36700c95a8
 md5_10_upper: 36700C95A8

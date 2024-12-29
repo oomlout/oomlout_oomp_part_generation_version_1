@@ -27,21 +27,22 @@ directory: parts/category_toy_remote_control_2_4_ghz_controller
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller
 id: category_toy_remote_control_2_4_ghz_controller
 id_no_class: toy_remote_control_2_4_ghz_controller
 id_no_size: 2_4_ghz_controller
 id_no_type: remote_control_2_4_ghz_controller
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_toy_remote_control_2_4_ghz_controller](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller)<br>[Category
-    Toy Remote Control 2 4 Ghz Controller](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller)<br><br>'
-markdown_short: '[category_toy_remote_control_2_4_ghz_controller](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller)<br><br>'
+markdown_full: '[category_toy_remote_control_2_4_ghz_controller](none)<br>[](none)<br>[Category
+    Toy Remote Control 2 4 Ghz Controller](none)<br><br>'
+markdown_short: '[category_toy_remote_control_2_4_ghz_controller](none)<br><br>'
 md5: 23989bcc1328d107234723630afea70d
 md5_10: 23989bcc13
 md5_10_upper: 23989BCC13

@@ -47,8 +47,9 @@
     "id_no_type": "61800_series_61802_size_15_mm_id_24_mm_od_5_mm_depth",
     "id_no_size": "61802_size_15_mm_id_24_mm_od_5_mm_depth",
     "oomp_key": "oomp_hardware_bearing_61800_series_61802_size_15_mm_id_24_mm_od_5_mm_depth",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61802_size_15_mm_id_24_mm_od_5_mm_depth",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61802_size_15_mm_id_24_mm_od_5_mm_depth",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_61800_series_61802_size_15_mm_id_24_mm_od_5_mm_depth",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_61800_series_61802_size_15_mm_id_24_mm_od_5_mm_depth",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_61800_series_61802_size_15_mm_id_24_mm_od_5_mm_depth",
     "directory": "parts/hardware_bearing_61800_series_61802_size_15_mm_id_24_mm_od_5_mm_depth",
     "name": "Hardware Bearing 61800 Series 61802 Size 15 Mm Id 24 Mm Od 5 Mm Depth",
     "name_no_class": "Bearing 61800 Series 61802 Size 15 Mm Id 24 Mm Od 5 Mm Depth",
@@ -86,6 +87,6 @@
     "name_no_size_short": "61802 Size 15 Mm Id 24 Mm Od 5 Mm Depth",
     "description_or_color": "615k",
     "description_or_color_upper": "615K",
-    "markdown_full": "[hardware_bearing_61800_series_61802_size_15_mm_id_24_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61802_size_15_mm_id_24_mm_od_5_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61802_size_15_mm_id_24_mm_od_5_mm_depth)<br>[Hardware Bearing 61800 Series 61802 Size 15 Mm Id 24 Mm Od 5 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61802_size_15_mm_id_24_mm_od_5_mm_depth)<br><br>",
-    "markdown_short": "[hardware_bearing_61800_series_61802_size_15_mm_id_24_mm_od_5_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61802_size_15_mm_id_24_mm_od_5_mm_depth)<br><br>"
+    "markdown_full": "[hardware_bearing_61800_series_61802_size_15_mm_id_24_mm_od_5_mm_depth](none)<br>[](none)<br>[Hardware Bearing 61800 Series 61802 Size 15 Mm Id 24 Mm Od 5 Mm Depth](none)<br><br>",
+    "markdown_short": "[hardware_bearing_61800_series_61802_size_15_mm_id_24_mm_od_5_mm_depth](none)<br><br>"
 }

@@ -251,8 +251,9 @@
     "id_no_type": "pico_raspberry_pi_2350_wifi",
     "id_no_size": "raspberry_pi_2350_wifi",
     "oomp_key": "oomp_electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi",
     "directory": "parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi",
     "name": "Electronic Breakout Board Mcu Pico Raspberry Pi 2350 Wifi",
     "name_no_class": "Breakout Board Mcu Pico Raspberry Pi 2350 Wifi",
@@ -290,6 +291,6 @@
     "name_no_size_short": "Raspberry Pi 2k3 Wifi",
     "description_or_color": "2k3",
     "description_or_color_upper": "2K3",
-    "markdown_full": "[electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi)<br>[pc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi)<br>[Electronic Breakout Board Mcu Pico Raspberry Pi 2350 Wifi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi)<br><br>",
-    "markdown_short": "[electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi)<br><br>"
+    "markdown_full": "[electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi](none)<br>[pc](none)<br>[Electronic Breakout Board Mcu Pico Raspberry Pi 2350 Wifi](none)<br><br>",
+    "markdown_short": "[electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi](none)<br><br>"
 }

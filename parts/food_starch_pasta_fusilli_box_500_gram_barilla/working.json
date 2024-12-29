@@ -49,8 +49,9 @@
     "id_no_type": "pasta_fusilli_box_500_gram_barilla",
     "id_no_size": "fusilli_box_500_gram_barilla",
     "oomp_key": "oomp_food_starch_pasta_fusilli_box_500_gram_barilla",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla",
     "directory": "parts/food_starch_pasta_fusilli_box_500_gram_barilla",
     "name": "Food Starch Pasta Fusilli Box 500 Gram Barilla",
     "name_no_class": "Starch Pasta Fusilli Box 500 Gram Barilla",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Fusilli Box 500 Gram Barilla",
     "description_or_color": "F ",
     "description_or_color_upper": "F ",
-    "markdown_full": "[food_starch_pasta_fusilli_box_500_gram_barilla](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla)<br>[Food Starch Pasta Fusilli Box 500 Gram Barilla](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla)<br><br>",
-    "markdown_short": "[food_starch_pasta_fusilli_box_500_gram_barilla](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla)<br><br>"
+    "markdown_full": "[food_starch_pasta_fusilli_box_500_gram_barilla](none)<br>[](none)<br>[Food Starch Pasta Fusilli Box 500 Gram Barilla](none)<br><br>",
+    "markdown_short": "[food_starch_pasta_fusilli_box_500_gram_barilla](none)<br><br>"
 }

@@ -50,8 +50,9 @@
     "id_no_type": "crimp_bootlace_ferrule",
     "id_no_size": "crimp_bootlace_ferrule",
     "oomp_key": "oomp_category_electronic_crimp_bootlace_ferrule",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule",
     "directory": "parts/category_electronic_crimp_bootlace_ferrule",
     "name": "Category Electronic Crimp Bootlace Ferrule",
     "name_no_class": "Electronic Crimp Bootlace Ferrule",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Crimp Bootlace Ferrule",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_crimp_bootlace_ferrule](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule)<br>[Category Electronic Crimp Bootlace Ferrule](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule)<br><br>",
-    "markdown_short": "[category_electronic_crimp_bootlace_ferrule](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule)<br><br>"
+    "markdown_full": "[category_electronic_crimp_bootlace_ferrule](none)<br>[](none)<br>[Category Electronic Crimp Bootlace Ferrule](none)<br><br>",
+    "markdown_short": "[category_electronic_crimp_bootlace_ferrule](none)<br><br>"
 }

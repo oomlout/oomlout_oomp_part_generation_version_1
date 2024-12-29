@@ -27,21 +27,22 @@ directory: parts/category_computer_webcam_external
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external
 id: category_computer_webcam_external
 id_no_class: computer_webcam_external
 id_no_size: external
 id_no_type: webcam_external
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_webcam_external
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_webcam_external
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_webcam_external
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_computer_webcam_external](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external)<br>[Category
-    Computer Webcam External](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external)<br><br>'
-markdown_short: '[category_computer_webcam_external](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external)<br><br>'
+markdown_full: '[category_computer_webcam_external](none)<br>[](none)<br>[Category
+    Computer Webcam External](none)<br><br>'
+markdown_short: '[category_computer_webcam_external](none)<br><br>'
 md5: 4dfd130e45b8137cb182216d22213377
 md5_10: 4dfd130e45
 md5_10_upper: 4DFD130E45

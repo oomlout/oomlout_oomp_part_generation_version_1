@@ -27,21 +27,22 @@ directory: parts/category_dish_ikea_oftast
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_ikea_oftast
 id: category_dish_ikea_oftast
 id_no_class: dish_ikea_oftast
 id_no_size: ikeaoftast
 id_no_type: ikea_oftast
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_ikea_oftast
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_ikea_oftast
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_ikea_oftast
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_ikea_oftast
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_dish_ikea_oftast](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_ikea_oftast)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_ikea_oftast)<br>[Category
-    Dish Ikea Oftast](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_ikea_oftast)<br><br>'
-markdown_short: '[category_dish_ikea_oftast](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_ikea_oftast)<br><br>'
+markdown_full: '[category_dish_ikea_oftast](none)<br>[](none)<br>[Category Dish Ikea
+    Oftast](none)<br><br>'
+markdown_short: '[category_dish_ikea_oftast](none)<br><br>'
 md5: b6a66871575f5e8fa39235f05b5d3e8f
 md5_10: b6a6687157
 md5_10_upper: B6A6687157

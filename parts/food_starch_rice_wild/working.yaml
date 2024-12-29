@@ -27,21 +27,21 @@ directory: parts/food_starch_rice_wild
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_wild
 id: food_starch_rice_wild
 id_no_class: starch_rice_wild
 id_no_size: wild
 id_no_type: rice_wild
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_wild
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_wild
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_wild
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_wild
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_starch_rice_wild](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_wild)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_wild)<br>[Food
-    Starch Rice Wild](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_wild)<br><br>'
-markdown_short: '[food_starch_rice_wild](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_wild)<br><br>'
+markdown_full: '[food_starch_rice_wild](none)<br>[](none)<br>[Food Starch Rice Wild](none)<br><br>'
+markdown_short: '[food_starch_rice_wild](none)<br><br>'
 md5: 1d8ef3f2d87164033b381d1e1889e50f
 md5_10: 1d8ef3f2d8
 md5_10_upper: 1D8EF3F2D8

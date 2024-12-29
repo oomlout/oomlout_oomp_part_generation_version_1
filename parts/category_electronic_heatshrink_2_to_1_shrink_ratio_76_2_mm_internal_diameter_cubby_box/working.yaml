@@ -27,21 +27,22 @@ directory: parts/category_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_inte
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_cubby_box
 id: category_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_cubby_box
 id_no_class: electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_cubby_box
 id_no_size: 76_2_mm_internal_diameter_cubby_box
 id_no_type: heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_cubby_box
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_cubby_box)<br>[Category
-    Electronic Heatshrink 2 To 1 Shrink Ratio 76 2 Mm Internal Diameter Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_cubby_box)<br><br>'
-markdown_short: '[category_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_cubby_box)<br><br>'
+markdown_full: '[category_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_cubby_box](none)<br>[](none)<br>[Category
+    Electronic Heatshrink 2 To 1 Shrink Ratio 76 2 Mm Internal Diameter Cubby Box](none)<br><br>'
+markdown_short: '[category_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_cubby_box](none)<br><br>'
 md5: 5b19e8e549bf49af8d6cd70e60ee5d6e
 md5_10: 5b19e8e549
 md5_10_upper: 5B19E8E549

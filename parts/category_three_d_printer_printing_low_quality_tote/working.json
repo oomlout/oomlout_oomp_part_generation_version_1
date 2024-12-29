@@ -50,8 +50,9 @@
     "id_no_type": "printing_low_quality_tote",
     "id_no_size": "low_quality_tote",
     "oomp_key": "oomp_category_three_d_printer_printing_low_quality_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_low_quality_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_low_quality_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_low_quality_tote",
     "directory": "parts/category_three_d_printer_printing_low_quality_tote",
     "name": "Category Three D Printer Printing Low Quality Tote",
     "name_no_class": "Three D Printer Printing Low Quality Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Low Quality Tote",
     "description_or_color": "L ",
     "description_or_color_upper": "L ",
-    "markdown_full": "[category_three_d_printer_printing_low_quality_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality_tote)<br>[Category Three D Printer Printing Low Quality Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality_tote)<br><br>",
-    "markdown_short": "[category_three_d_printer_printing_low_quality_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printing_low_quality_tote)<br><br>"
+    "markdown_full": "[category_three_d_printer_printing_low_quality_tote](none)<br>[](none)<br>[Category Three D Printer Printing Low Quality Tote](none)<br><br>",
+    "markdown_short": "[category_three_d_printer_printing_low_quality_tote](none)<br><br>"
 }

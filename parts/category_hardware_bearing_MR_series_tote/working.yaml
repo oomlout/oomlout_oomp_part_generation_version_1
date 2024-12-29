@@ -27,21 +27,22 @@ directory: parts/category_hardware_bearing_MR_series_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_MR_series_tote
 id: category_hardware_bearing_MR_series_tote
 id_no_class: hardware_bearing_MR_series_tote
 id_no_size: MR_series_tote
 id_no_type: bearing_MR_series_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_MR_series_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_MR_series_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_MR_series_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_MR_series_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_bearing_MR_series_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_MR_series_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_MR_series_tote)<br>[Category
-    Hardware Bearing Mr Series Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_MR_series_tote)<br><br>'
-markdown_short: '[category_hardware_bearing_MR_series_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_MR_series_tote)<br><br>'
+markdown_full: '[category_hardware_bearing_MR_series_tote](none)<br>[](none)<br>[Category
+    Hardware Bearing Mr Series Tote](none)<br><br>'
+markdown_short: '[category_hardware_bearing_MR_series_tote](none)<br><br>'
 md5: 5bc0e1312925da35723f0c8a13ebba77
 md5_10: 5bc0e13129
 md5_10_upper: 5BC0E13129

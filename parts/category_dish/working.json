@@ -50,8 +50,9 @@
     "id_no_type": "dish",
     "id_no_size": "dish",
     "oomp_key": "oomp_category_dish",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish",
     "directory": "parts/category_dish",
     "name": "Category Dish",
     "name_no_class": "Dish",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Dish",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_dish](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish)<br>[Category Dish](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish)<br><br>",
-    "markdown_short": "[category_dish](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish)<br><br>"
+    "markdown_full": "[category_dish](none)<br>[](none)<br>[Category Dish](none)<br><br>",
+    "markdown_short": "[category_dish](none)<br><br>"
 }

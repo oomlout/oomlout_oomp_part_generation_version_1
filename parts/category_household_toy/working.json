@@ -50,8 +50,9 @@
     "id_no_type": "household_toy",
     "id_no_size": "householdtoy",
     "oomp_key": "oomp_category_household_toy",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy",
     "directory": "parts/category_household_toy",
     "name": "Category Household Toy",
     "name_no_class": "Household Toy",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Householdtoy",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_household_toy](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy)<br>[Category Household Toy](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy)<br><br>",
-    "markdown_short": "[category_household_toy](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy)<br><br>"
+    "markdown_full": "[category_household_toy](none)<br>[](none)<br>[Category Household Toy](none)<br><br>",
+    "markdown_short": "[category_household_toy](none)<br><br>"
 }

@@ -50,8 +50,9 @@
     "id_no_type": "docking_station_microsoft_surface",
     "id_no_size": "microsoft_surface",
     "oomp_key": "oomp_category_computer_docking_station_microsoft_surface",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station_microsoft_surface",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station_microsoft_surface",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station_microsoft_surface",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station_microsoft_surface",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station_microsoft_surface",
     "directory": "parts/category_computer_docking_station_microsoft_surface",
     "name": "Category Computer Docking Station Microsoft Surface",
     "name_no_class": "Computer Docking Station Microsoft Surface",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Microsoft Surface",
     "description_or_color": "M ",
     "description_or_color_upper": "M ",
-    "markdown_full": "[category_computer_docking_station_microsoft_surface](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station_microsoft_surface)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station_microsoft_surface)<br>[Category Computer Docking Station Microsoft Surface](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station_microsoft_surface)<br><br>",
-    "markdown_short": "[category_computer_docking_station_microsoft_surface](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_docking_station_microsoft_surface)<br><br>"
+    "markdown_full": "[category_computer_docking_station_microsoft_surface](none)<br>[](none)<br>[Category Computer Docking Station Microsoft Surface](none)<br><br>",
+    "markdown_short": "[category_computer_docking_station_microsoft_surface](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_computer_webcam_external_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external_tote
 id: category_computer_webcam_external_tote
 id_no_class: computer_webcam_external_tote
 id_no_size: external_tote
 id_no_type: webcam_external_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_webcam_external_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_webcam_external_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_webcam_external_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_computer_webcam_external_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external_tote)<br>[Category
-    Computer Webcam External Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external_tote)<br><br>'
-markdown_short: '[category_computer_webcam_external_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external_tote)<br><br>'
+markdown_full: '[category_computer_webcam_external_tote](none)<br>[](none)<br>[Category
+    Computer Webcam External Tote](none)<br><br>'
+markdown_short: '[category_computer_webcam_external_tote](none)<br><br>'
 md5: d9e4b03dc90064c71f6c14b7d6ebeab3
 md5_10: d9e4b03dc9
 md5_10_upper: D9E4B03DC9

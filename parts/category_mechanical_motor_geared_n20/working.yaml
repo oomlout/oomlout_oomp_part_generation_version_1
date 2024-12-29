@@ -27,21 +27,22 @@ directory: parts/category_mechanical_motor_geared_n20
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_geared_n20
 id: category_mechanical_motor_geared_n20
 id_no_class: mechanical_motor_geared_n20
 id_no_size: n20
 id_no_type: motor_geared_n20
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_geared_n20
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_geared_n20
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_geared_n20
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_geared_n20
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_mechanical_motor_geared_n20](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_geared_n20)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_geared_n20)<br>[Category
-    Mechanical Motor Geared N20](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_geared_n20)<br><br>'
-markdown_short: '[category_mechanical_motor_geared_n20](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_geared_n20)<br><br>'
+markdown_full: '[category_mechanical_motor_geared_n20](none)<br>[](none)<br>[Category
+    Mechanical Motor Geared N20](none)<br><br>'
+markdown_short: '[category_mechanical_motor_geared_n20](none)<br><br>'
 md5: 359b692b0d6bc873938bc6cc07964743
 md5_10: 359b692b0d
 md5_10_upper: 359B692B0D

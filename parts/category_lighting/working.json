@@ -50,8 +50,9 @@
     "id_no_type": "lighting",
     "id_no_size": "lighting",
     "oomp_key": "oomp_category_lighting",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting",
     "directory": "parts/category_lighting",
     "name": "Category Lighting",
     "name_no_class": "Lighting",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Lighting",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_lighting](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting)<br>[Category Lighting](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting)<br><br>",
-    "markdown_short": "[category_lighting](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting)<br><br>"
+    "markdown_full": "[category_lighting](none)<br>[](none)<br>[Category Lighting](none)<br><br>",
+    "markdown_short": "[category_lighting](none)<br><br>"
 }

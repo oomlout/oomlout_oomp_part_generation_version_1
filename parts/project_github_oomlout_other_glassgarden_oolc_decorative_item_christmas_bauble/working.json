@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/other_glassgarden_oolc_decorative_item_christmas_bauble",
-    "link_github": "https://github.com/oomlout/other_glassgarden_oolc_decorative_item_christmas_bauble",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble",
     "id_no_size": "other_glassgarden_oolc_decorative_item_christmas_bauble",
     "oomp_key": "oomp_project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble",
     "directory": "parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble",
     "name": "Project Github Oomlout Other Glassgarden Oolc Decorative Item Christmas Bauble",
     "name_no_class": "Github Oomlout Other Glassgarden Oolc Decorative Item Christmas Bauble",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Other Glassgarden Oolc Decorative Item Christmas Bauble",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble)<br>[Project Github Oomlout Other Glassgarden Oolc Decorative Item Christmas Bauble](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble)<br><br>",
-    "markdown_short": "[project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble)<br><br>"
+    "markdown_full": "[project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble](none)<br>[](none)<br>[Project Github Oomlout Other Glassgarden Oolc Decorative Item Christmas Bauble](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble](none)<br><br>"
 }

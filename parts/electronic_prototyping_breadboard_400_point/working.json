@@ -48,8 +48,9 @@
     "id_no_type": "400_point",
     "id_no_size": "400_point",
     "oomp_key": "oomp_electronic_prototyping_breadboard_400_point",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_400_point",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_400_point",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_prototyping_breadboard_400_point",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_prototyping_breadboard_400_point",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_prototyping_breadboard_400_point",
     "directory": "parts/electronic_prototyping_breadboard_400_point",
     "name": "Electronic Prototyping Breadboard 400 Point",
     "name_no_class": "Prototyping Breadboard 400 Point",
@@ -87,6 +88,6 @@
     "name_no_size_short": "400 Point",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[electronic_prototyping_breadboard_400_point](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_400_point)<br>[400p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_400_point)<br>[Electronic Prototyping Breadboard 400 Point](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_400_point)<br><br>",
-    "markdown_short": "[electronic_prototyping_breadboard_400_point](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_400_point)<br><br>"
+    "markdown_full": "[electronic_prototyping_breadboard_400_point](none)<br>[400p](none)<br>[Electronic Prototyping Breadboard 400 Point](none)<br><br>",
+    "markdown_short": "[electronic_prototyping_breadboard_400_point](none)<br><br>"
 }

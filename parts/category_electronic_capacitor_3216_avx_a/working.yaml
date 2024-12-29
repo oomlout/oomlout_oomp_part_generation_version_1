@@ -27,21 +27,22 @@ directory: parts/category_electronic_capacitor_3216_avx_a
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_3216_avx_a
 id: category_electronic_capacitor_3216_avx_a
 id_no_class: electronic_capacitor_3216_avx_a
 id_no_size: 3216_avx_a
 id_no_type: capacitor_3216_avx_a
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_3216_avx_a
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_3216_avx_a
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_3216_avx_a
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_3216_avx_a
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_capacitor_3216_avx_a](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_3216_avx_a)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_3216_avx_a)<br>[Category
-    Electronic Capacitor 3216 Avx A](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_3216_avx_a)<br><br>'
-markdown_short: '[category_electronic_capacitor_3216_avx_a](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_3216_avx_a)<br><br>'
+markdown_full: '[category_electronic_capacitor_3216_avx_a](none)<br>[](none)<br>[Category
+    Electronic Capacitor 3216 Avx A](none)<br><br>'
+markdown_short: '[category_electronic_capacitor_3216_avx_a](none)<br><br>'
 md5: 513a520ded9b1c23b642d567d1f2b21d
 md5_10: 513a520ded
 md5_10_upper: 513A520DED

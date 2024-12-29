@@ -43,24 +43,25 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hi121pth_electronic_header_2_54_mm_21_pin_through_hole
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_hi121pth_electronic_header_2_54_mm_21_pin_through_hole
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole
 id: electronic_header_2_54_mm_21_pin_through_hole
 id_no_class: header_2_54_mm_21_pin_through_hole
 id_no_size: 21_pin_through_hole
 id_no_type: 2_54_mm_21_pin_through_hole
 kicad_reference: CONN
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_header_2_54_mm_21_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole)<br>[hi121pth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole)<br>[Electronic
-    Header 2 54 Mm 21 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole)<br>[LCSC
-    - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>'
-markdown_short: '[electronic_header_2_54_mm_21_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_21_pin_through_hole)<br>[LCSC
-    - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>'
+markdown_full: '[electronic_header_2_54_mm_21_pin_through_hole](none)<br>[hi121pth](none)<br>[Electronic
+    Header 2 54 Mm 21 Pin Through Hole](none)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC
+    - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>'
+markdown_short: '[electronic_header_2_54_mm_21_pin_through_hole](none)<br>[LCSC -
+    C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>'
 md5: 9433054128c0a15c70a06269e163f646
 md5_10: '9433054128'
 md5_10_upper: '9433054128'

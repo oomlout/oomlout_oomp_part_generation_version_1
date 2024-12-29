@@ -50,8 +50,9 @@
     "id_no_type": "scale",
     "id_no_size": "scale",
     "oomp_key": "oomp_category_tool_scale",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_scale",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_scale",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_scale",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_scale",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_scale",
     "directory": "parts/category_tool_scale",
     "name": "Category Tool Scale",
     "name_no_class": "Tool Scale",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Scale",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_tool_scale](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_scale)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_scale)<br>[Category Tool Scale](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_scale)<br><br>",
-    "markdown_short": "[category_tool_scale](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_scale)<br><br>"
+    "markdown_full": "[category_tool_scale](none)<br>[](none)<br>[Category Tool Scale](none)<br><br>",
+    "markdown_short": "[category_tool_scale](none)<br><br>"
 }

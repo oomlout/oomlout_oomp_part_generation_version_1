@@ -46,8 +46,9 @@
     "id_no_type": "a4_canon_pixma_ts5350",
     "id_no_size": "canon_pixma_ts5350",
     "oomp_key": "oomp_printer_all_in_one_inkjet_a4_canon_pixma_ts5350",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350",
     "directory": "parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350",
     "name": "Printer All In One Inkjet A4 Canon Pixma Ts5350",
     "name_no_class": "All In One Inkjet A4 Canon Pixma Ts5350",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Canon Pixma Ts5350",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[printer_all_in_one_inkjet_a4_canon_pixma_ts5350](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350)<br>[Printer All In One Inkjet A4 Canon Pixma Ts5350](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350)<br><br>",
-    "markdown_short": "[printer_all_in_one_inkjet_a4_canon_pixma_ts5350](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350)<br><br>"
+    "markdown_full": "[printer_all_in_one_inkjet_a4_canon_pixma_ts5350](none)<br>[](none)<br>[Printer All In One Inkjet A4 Canon Pixma Ts5350](none)<br><br>",
+    "markdown_short": "[printer_all_in_one_inkjet_a4_canon_pixma_ts5350](none)<br><br>"
 }

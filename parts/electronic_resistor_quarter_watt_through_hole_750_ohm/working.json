@@ -48,8 +48,9 @@
     "id_no_type": "quarter_watt_through_hole_750_ohm",
     "id_no_size": "750_ohm",
     "oomp_key": "oomp_electronic_resistor_quarter_watt_through_hole_750_ohm",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_750_ohm",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_750_ohm",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_750_ohm",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_750_ohm",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_750_ohm",
     "directory": "parts/electronic_resistor_quarter_watt_through_hole_750_ohm",
     "name": "Electronic Resistor Quarter Watt Through Hole 750 Ohm",
     "name_no_class": "Resistor Quarter Watt Through Hole 750 Ohm",
@@ -87,6 +88,6 @@
     "name_no_size_short": "750 Ohm",
     "description_or_color": "750",
     "description_or_color_upper": "750",
-    "markdown_full": "[electronic_resistor_quarter_watt_through_hole_750_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_750_ohm)<br>[ro751](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_750_ohm)<br>[Electronic Resistor Quarter Watt Through Hole 750 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_750_ohm)<br><br>",
-    "markdown_short": "[electronic_resistor_quarter_watt_through_hole_750_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_750_ohm)<br><br>"
+    "markdown_full": "[electronic_resistor_quarter_watt_through_hole_750_ohm](none)<br>[ro751](none)<br>[Electronic Resistor Quarter Watt Through Hole 750 Ohm](none)<br><br>",
+    "markdown_short": "[electronic_resistor_quarter_watt_through_hole_750_ohm](none)<br><br>"
 }

@@ -24,21 +24,22 @@ description_or_color: 'L '
 description_or_color_upper: 'L '
 directory: parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable
 id: electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable
 id_no_class: battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable
 id_no_size: lithium_3_7_volt_rechargable
 id_no_type: 18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable)<br>[Electronic
-    Battery 18650 Size 18 Mm Diameter 65 Mm Depth Lithium 3 7 Volt Rechargable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable)<br><br>'
-markdown_short: '[electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable)<br><br>'
+markdown_full: '[electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable](none)<br>[](none)<br>[Electronic
+    Battery 18650 Size 18 Mm Diameter 65 Mm Depth Lithium 3 7 Volt Rechargable](none)<br><br>'
+markdown_short: '[electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable](none)<br><br>'
 md5: 1ba19a6dd3849540108d19b382580732
 md5_10: 1ba19a6dd3
 md5_10_upper: 1BA19A6DD3

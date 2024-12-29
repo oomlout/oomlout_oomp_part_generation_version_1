@@ -27,21 +27,22 @@ directory: parts/food_starch_rice_basmati
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_basmati
 id: food_starch_rice_basmati
 id_no_class: starch_rice_basmati
 id_no_size: basmati
 id_no_type: rice_basmati
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_basmati
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_basmati
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_basmati
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_basmati
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_starch_rice_basmati](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_basmati)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_basmati)<br>[Food
-    Starch Rice Basmati](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_basmati)<br><br>'
-markdown_short: '[food_starch_rice_basmati](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_basmati)<br><br>'
+markdown_full: '[food_starch_rice_basmati](none)<br>[](none)<br>[Food Starch Rice
+    Basmati](none)<br><br>'
+markdown_short: '[food_starch_rice_basmati](none)<br><br>'
 md5: 355d755a18d3c4bc55c183c9a294e60d
 md5_10: 355d755a18
 md5_10_upper: 355D755A18

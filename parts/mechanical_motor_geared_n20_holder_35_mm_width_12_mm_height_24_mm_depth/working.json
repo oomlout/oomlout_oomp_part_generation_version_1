@@ -46,8 +46,9 @@
     "id_no_type": "n20_holder_35_mm_width_12_mm_height_24_mm_depth",
     "id_no_size": "35_mm_width_12_mm_height_24_mm_depth",
     "oomp_key": "oomp_mechanical_motor_geared_n20_holder_35_mm_width_12_mm_height_24_mm_depth",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_n20_holder_35_mm_width_12_mm_height_24_mm_depth",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_n20_holder_35_mm_width_12_mm_height_24_mm_depth",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_geared_n20_holder_35_mm_width_12_mm_height_24_mm_depth",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_geared_n20_holder_35_mm_width_12_mm_height_24_mm_depth",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_geared_n20_holder_35_mm_width_12_mm_height_24_mm_depth",
     "directory": "parts/mechanical_motor_geared_n20_holder_35_mm_width_12_mm_height_24_mm_depth",
     "name": "Mechanical Motor Geared N20 Holder 35 Mm Width 12 Mm Height 24 Mm Depth",
     "name_no_class": "Motor Geared N20 Holder 35 Mm Width 12 Mm Height 24 Mm Depth",
@@ -85,6 +86,6 @@
     "name_no_size_short": "35 Mm Width 12 Mm Height 24 Mm Depth",
     "description_or_color": "351k",
     "description_or_color_upper": "351K",
-    "markdown_full": "[mechanical_motor_geared_n20_holder_35_mm_width_12_mm_height_24_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_n20_holder_35_mm_width_12_mm_height_24_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_n20_holder_35_mm_width_12_mm_height_24_mm_depth)<br>[Mechanical Motor Geared N20 Holder 35 Mm Width 12 Mm Height 24 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_n20_holder_35_mm_width_12_mm_height_24_mm_depth)<br><br>",
-    "markdown_short": "[mechanical_motor_geared_n20_holder_35_mm_width_12_mm_height_24_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_n20_holder_35_mm_width_12_mm_height_24_mm_depth)<br><br>"
+    "markdown_full": "[mechanical_motor_geared_n20_holder_35_mm_width_12_mm_height_24_mm_depth](none)<br>[](none)<br>[Mechanical Motor Geared N20 Holder 35 Mm Width 12 Mm Height 24 Mm Depth](none)<br><br>",
+    "markdown_short": "[mechanical_motor_geared_n20_holder_35_mm_width_12_mm_height_24_mm_depth](none)<br><br>"
 }

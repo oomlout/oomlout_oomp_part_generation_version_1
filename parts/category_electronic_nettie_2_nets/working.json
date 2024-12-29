@@ -50,8 +50,9 @@
     "id_no_type": "nettie_2_nets",
     "id_no_size": "2_nets",
     "oomp_key": "oomp_category_electronic_nettie_2_nets",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie_2_nets",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie_2_nets",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie_2_nets",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie_2_nets",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie_2_nets",
     "directory": "parts/category_electronic_nettie_2_nets",
     "name": "Category Electronic Nettie 2 Nets",
     "name_no_class": "Electronic Nettie 2 Nets",
@@ -89,6 +90,6 @@
     "name_no_size_short": "2 Nets",
     "description_or_color": "2 ",
     "description_or_color_upper": "2 ",
-    "markdown_full": "[category_electronic_nettie_2_nets](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie_2_nets)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie_2_nets)<br>[Category Electronic Nettie 2 Nets](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie_2_nets)<br><br>",
-    "markdown_short": "[category_electronic_nettie_2_nets](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_nettie_2_nets)<br><br>"
+    "markdown_full": "[category_electronic_nettie_2_nets](none)<br>[](none)<br>[Category Electronic Nettie 2 Nets](none)<br><br>",
+    "markdown_short": "[category_electronic_nettie_2_nets](none)<br><br>"
 }

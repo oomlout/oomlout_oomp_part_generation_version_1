@@ -27,21 +27,22 @@ directory: parts/category_wood_timber_cls
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_wood_timber_cls
 id: category_wood_timber_cls
 id_no_class: wood_timber_cls
 id_no_size: timber_cls
 id_no_type: timber_cls
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_wood_timber_cls
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_wood_timber_cls
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_wood_timber_cls
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_wood_timber_cls
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_wood_timber_cls](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_wood_timber_cls)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_wood_timber_cls)<br>[Category
-    Wood Timber Cls](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_wood_timber_cls)<br><br>'
-markdown_short: '[category_wood_timber_cls](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_wood_timber_cls)<br><br>'
+markdown_full: '[category_wood_timber_cls](none)<br>[](none)<br>[Category Wood Timber
+    Cls](none)<br><br>'
+markdown_short: '[category_wood_timber_cls](none)<br><br>'
 md5: aedeb52363aca5b318098a0fe91e212e
 md5_10: aedeb52363
 md5_10_upper: AEDEB52363

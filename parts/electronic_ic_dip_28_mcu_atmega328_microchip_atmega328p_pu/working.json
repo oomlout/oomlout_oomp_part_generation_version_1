@@ -46,8 +46,9 @@
     "id_no_type": "dip_28_mcu_atmega328_microchip_atmega328p_pu",
     "id_no_size": "mcu_atmega328_microchip_atmega328p_pu",
     "oomp_key": "oomp_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu",
     "directory": "parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu",
     "name": "Electronic Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu",
     "name_no_class": "Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Mcu Atmega328 Microchip Atmega328P Pu",
     "description_or_color": "M328",
     "description_or_color_upper": "M328",
-    "markdown_full": "[electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu)<br>[id28mcuat328](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu)<br>[Electronic Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu)<br><br>",
-    "markdown_short": "[electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu)<br><br>"
+    "markdown_full": "[electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu](none)<br>[id28mcuat328](none)<br>[Electronic Ic Dip 28 Mcu Atmega328 Microchip Atmega328P Pu](none)<br><br>",
+    "markdown_short": "[electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu](none)<br><br>"
 }

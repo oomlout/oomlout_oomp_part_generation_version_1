@@ -50,8 +50,9 @@
     "id_no_type": "sheet",
     "id_no_size": "sheet",
     "oomp_key": "oomp_category_paper_sheet",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet",
     "directory": "parts/category_paper_sheet",
     "name": "Category Paper Sheet",
     "name_no_class": "Paper Sheet",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Sheet",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_paper_sheet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet)<br>[Category Paper Sheet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet)<br><br>",
-    "markdown_short": "[category_paper_sheet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet)<br><br>"
+    "markdown_full": "[category_paper_sheet](none)<br>[](none)<br>[Category Paper Sheet](none)<br><br>",
+    "markdown_short": "[category_paper_sheet](none)<br><br>"
 }

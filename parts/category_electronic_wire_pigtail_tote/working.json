@@ -50,8 +50,9 @@
     "id_no_type": "wire_pigtail_tote",
     "id_no_size": "tote",
     "oomp_key": "oomp_category_electronic_wire_pigtail_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_tote",
     "directory": "parts/category_electronic_wire_pigtail_tote",
     "name": "Category Electronic Wire Pigtail Tote",
     "name_no_class": "Electronic Wire Pigtail Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Tote",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_wire_pigtail_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_tote)<br>[Category Electronic Wire Pigtail Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_tote)<br><br>",
-    "markdown_short": "[category_electronic_wire_pigtail_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_tote)<br><br>"
+    "markdown_full": "[category_electronic_wire_pigtail_tote](none)<br>[](none)<br>[Category Electronic Wire Pigtail Tote](none)<br><br>",
+    "markdown_short": "[category_electronic_wire_pigtail_tote](none)<br><br>"
 }

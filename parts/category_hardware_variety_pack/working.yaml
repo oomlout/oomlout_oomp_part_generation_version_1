@@ -27,21 +27,22 @@ directory: parts/category_hardware_variety_pack
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack
 id: category_hardware_variety_pack
 id_no_class: hardware_variety_pack
 id_no_size: variety_pack
 id_no_type: variety_pack
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_variety_pack
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_variety_pack
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_variety_pack
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_variety_pack](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack)<br>[Category
-    Hardware Variety Pack](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack)<br><br>'
-markdown_short: '[category_hardware_variety_pack](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack)<br><br>'
+markdown_full: '[category_hardware_variety_pack](none)<br>[](none)<br>[Category Hardware
+    Variety Pack](none)<br><br>'
+markdown_short: '[category_hardware_variety_pack](none)<br><br>'
 md5: b467f3616ef956a80929cd6400537d34
 md5_10: b467f3616e
 md5_10_upper: B467F3616E

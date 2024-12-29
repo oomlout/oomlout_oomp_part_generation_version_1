@@ -47,8 +47,9 @@
     "id_no_type": "m3_2020_t_nut",
     "id_no_size": "2020_t_nut",
     "oomp_key": "oomp_hardware_nut_m3_2020_t_nut",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_2020_t_nut",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_2020_t_nut",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_2020_t_nut",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_2020_t_nut",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_2020_t_nut",
     "directory": "parts/hardware_nut_m3_2020_t_nut",
     "name": "Hardware Nut M3 2020 T Nut",
     "name_no_class": "Nut M3 2020 T Nut",
@@ -86,6 +87,6 @@
     "name_no_size_short": "2k T Nut",
     "description_or_color": "2k",
     "description_or_color_upper": "2K",
-    "markdown_full": "[hardware_nut_m3_2020_t_nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_2020_t_nut)<br>[nu3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_2020_t_nut)<br>[Hardware Nut M3 2020 T Nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_2020_t_nut)<br><br>",
-    "markdown_short": "[hardware_nut_m3_2020_t_nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_2020_t_nut)<br><br>"
+    "markdown_full": "[hardware_nut_m3_2020_t_nut](none)<br>[nu3](none)<br>[Hardware Nut M3 2020 T Nut](none)<br><br>",
+    "markdown_short": "[hardware_nut_m3_2020_t_nut](none)<br><br>"
 }

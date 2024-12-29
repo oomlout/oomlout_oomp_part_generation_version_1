@@ -50,8 +50,9 @@
     "id_no_type": "capacitor_8_mm_diameter_6_5_mm_tall_tote",
     "id_no_size": "8_mm_diameter_6_5_mm_tall_tote",
     "oomp_key": "oomp_category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_tote",
     "directory": "parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_tote",
     "name": "Category Electronic Capacitor 8 Mm Diameter 6 5 Mm Tall Tote",
     "name_no_class": "Electronic Capacitor 8 Mm Diameter 6 5 Mm Tall Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "8 Mm Diameter 6 5 Mm Tall Tote",
     "description_or_color": "8 ",
     "description_or_color_upper": "8 ",
-    "markdown_full": "[category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_tote)<br>[Category Electronic Capacitor 8 Mm Diameter 6 5 Mm Tall Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_tote)<br><br>",
-    "markdown_short": "[category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_tote)<br><br>"
+    "markdown_full": "[category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_tote](none)<br>[](none)<br>[Category Electronic Capacitor 8 Mm Diameter 6 5 Mm Tall Tote](none)<br><br>",
+    "markdown_short": "[category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_tote](none)<br><br>"
 }

@@ -50,8 +50,9 @@
     "id_no_type": "part_wheel",
     "id_no_size": "wheel",
     "oomp_key": "oomp_category_oobb_part_wheel",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wheel",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wheel",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_wheel",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_wheel",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_wheel",
     "directory": "parts/category_oobb_part_wheel",
     "name": "Category Oobb Part Wheel",
     "name_no_class": "Oobb Part Wheel",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Wheel",
     "description_or_color": "W ",
     "description_or_color_upper": "W ",
-    "markdown_full": "[category_oobb_part_wheel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wheel)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wheel)<br>[Category Oobb Part Wheel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wheel)<br><br>",
-    "markdown_short": "[category_oobb_part_wheel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wheel)<br><br>"
+    "markdown_full": "[category_oobb_part_wheel](none)<br>[](none)<br>[Category Oobb Part Wheel](none)<br><br>",
+    "markdown_short": "[category_oobb_part_wheel](none)<br><br>"
 }

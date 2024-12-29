@@ -27,21 +27,22 @@ directory: parts/category_packaging_bag_grip_seal_45_micron_thickness_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness_tote
 id: category_packaging_bag_grip_seal_45_micron_thickness_tote
 id_no_class: packaging_bag_grip_seal_45_micron_thickness_tote
 id_no_size: 45_micron_thickness_tote
 id_no_type: bag_grip_seal_45_micron_thickness_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_packaging_bag_grip_seal_45_micron_thickness_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness_tote)<br>[Category
-    Packaging Bag Grip Seal 45 Micron Thickness Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness_tote)<br><br>'
-markdown_short: '[category_packaging_bag_grip_seal_45_micron_thickness_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness_tote)<br><br>'
+markdown_full: '[category_packaging_bag_grip_seal_45_micron_thickness_tote](none)<br>[](none)<br>[Category
+    Packaging Bag Grip Seal 45 Micron Thickness Tote](none)<br><br>'
+markdown_short: '[category_packaging_bag_grip_seal_45_micron_thickness_tote](none)<br><br>'
 md5: 6b51777430dba7c90318692c1a99acb8
 md5_10: 6b51777430
 md5_10_upper: 6B51777430

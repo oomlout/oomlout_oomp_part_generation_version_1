@@ -50,8 +50,9 @@
     "id_no_type": "cob_led",
     "id_no_size": "cobled",
     "oomp_key": "oomp_category_flashlight_cob_led",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_flashlight_cob_led",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_flashlight_cob_led",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_flashlight_cob_led",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_flashlight_cob_led",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_flashlight_cob_led",
     "directory": "parts/category_flashlight_cob_led",
     "name": "Category Flashlight Cob Led",
     "name_no_class": "Flashlight Cob Led",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Cobled",
     "description_or_color": "C ",
     "description_or_color_upper": "C ",
-    "markdown_full": "[category_flashlight_cob_led](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_flashlight_cob_led)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_flashlight_cob_led)<br>[Category Flashlight Cob Led](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_flashlight_cob_led)<br><br>",
-    "markdown_short": "[category_flashlight_cob_led](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_flashlight_cob_led)<br><br>"
+    "markdown_full": "[category_flashlight_cob_led](none)<br>[](none)<br>[Category Flashlight Cob Led](none)<br><br>",
+    "markdown_short": "[category_flashlight_cob_led](none)<br><br>"
 }

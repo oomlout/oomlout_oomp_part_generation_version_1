@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/personal_oomp_household_kitchen_pantry",
-    "link_github": "https://github.com/oomlout/personal_oomp_household_kitchen_pantry",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_personal_oomp_household_kitchen_pantry",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_personal_oomp_household_kitchen_pantry",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_personal_oomp_household_kitchen_pantry",
     "id_no_size": "personal_oomp_household_kitchen_pantry",
     "oomp_key": "oomp_project_github_oomlout_personal_oomp_household_kitchen_pantry",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_oomp_household_kitchen_pantry",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_oomp_household_kitchen_pantry",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_personal_oomp_household_kitchen_pantry",
     "directory": "parts/project_github_oomlout_personal_oomp_household_kitchen_pantry",
     "name": "Project Github Oomlout Personal Oomp Household Kitchen Pantry",
     "name_no_class": "Github Oomlout Personal Oomp Household Kitchen Pantry",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Personal Oomp Household Kitchen Pantry",
     "description_or_color": "P ",
     "description_or_color_upper": "P ",
-    "markdown_full": "[project_github_oomlout_personal_oomp_household_kitchen_pantry](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_oomp_household_kitchen_pantry)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_oomp_household_kitchen_pantry)<br>[Project Github Oomlout Personal Oomp Household Kitchen Pantry](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_oomp_household_kitchen_pantry)<br><br>",
-    "markdown_short": "[project_github_oomlout_personal_oomp_household_kitchen_pantry](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_oomp_household_kitchen_pantry)<br><br>"
+    "markdown_full": "[project_github_oomlout_personal_oomp_household_kitchen_pantry](none)<br>[](none)<br>[Project Github Oomlout Personal Oomp Household Kitchen Pantry](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_personal_oomp_household_kitchen_pantry](none)<br><br>"
 }

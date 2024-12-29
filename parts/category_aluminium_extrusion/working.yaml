@@ -27,21 +27,22 @@ directory: parts/category_aluminium_extrusion
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion
 id: category_aluminium_extrusion
 id_no_class: aluminium_extrusion
 id_no_size: aluminiumextrusion
 id_no_type: aluminium_extrusion
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_aluminium_extrusion
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_aluminium_extrusion
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_aluminium_extrusion
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_aluminium_extrusion](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion)<br>[Category
-    Aluminium Extrusion](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion)<br><br>'
-markdown_short: '[category_aluminium_extrusion](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_aluminium_extrusion)<br><br>'
+markdown_full: '[category_aluminium_extrusion](none)<br>[](none)<br>[Category Aluminium
+    Extrusion](none)<br><br>'
+markdown_short: '[category_aluminium_extrusion](none)<br><br>'
 md5: 2b97899386ad9bf9453a56f6775f0c92
 md5_10: 2b97899386
 md5_10_upper: 2B97899386

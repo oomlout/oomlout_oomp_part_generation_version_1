@@ -27,21 +27,21 @@ directory: parts/category_wood
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_wood
 id: category_wood
 id_no_class: wood
 id_no_size: wood
 id_no_type: wood
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_wood
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_wood
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_wood
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_wood
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_wood](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_wood)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_wood)<br>[Category
-    Wood](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_wood)<br><br>'
-markdown_short: '[category_wood](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_wood)<br><br>'
+markdown_full: '[category_wood](none)<br>[](none)<br>[Category Wood](none)<br><br>'
+markdown_short: '[category_wood](none)<br><br>'
 md5: f8a842bb3f29e72eca47f170d1fef55f
 md5_10: f8a842bb3f
 md5_10_upper: F8A842BB3F

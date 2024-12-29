@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/oomlout_packaging_experiments",
-    "link_github": "https://github.com/oomlout/oomlout_packaging_experiments",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_packaging_experiments",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_packaging_experiments",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_oomlout_packaging_experiments",
     "id_no_size": "packaging_experiments",
     "oomp_key": "oomp_project_github_oomlout_oomlout_packaging_experiments",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_packaging_experiments",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_packaging_experiments",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_packaging_experiments",
     "directory": "parts/project_github_oomlout_oomlout_packaging_experiments",
     "name": "Project Github Oomlout Oomlout Packaging Experiments",
     "name_no_class": "Github Oomlout Oomlout Packaging Experiments",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Packaging Experiments",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[project_github_oomlout_oomlout_packaging_experiments](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_packaging_experiments)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_packaging_experiments)<br>[Project Github Oomlout Oomlout Packaging Experiments](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_packaging_experiments)<br><br>",
-    "markdown_short": "[project_github_oomlout_oomlout_packaging_experiments](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_packaging_experiments)<br><br>"
+    "markdown_full": "[project_github_oomlout_oomlout_packaging_experiments](none)<br>[](none)<br>[Project Github Oomlout Oomlout Packaging Experiments](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_oomlout_packaging_experiments](none)<br><br>"
 }

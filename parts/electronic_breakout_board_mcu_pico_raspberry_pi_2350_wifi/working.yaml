@@ -25,22 +25,23 @@ description_or_color: 2k3
 description_or_color_upper: 2K3
 directory: parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi
 id: electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi
 id_no_class: breakout_board_mcu_pico_raspberry_pi_2350_wifi
 id_no_size: raspberry_pi_2350_wifi
 id_no_type: pico_raspberry_pi_2350_wifi
 kicad_reference: BB
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi)<br>[pc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi)<br>[Electronic
-    Breakout Board Mcu Pico Raspberry Pi 2350 Wifi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi)<br><br>'
-markdown_short: '[electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi)<br><br>'
+markdown_full: '[electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi](none)<br>[pc](none)<br>[Electronic
+    Breakout Board Mcu Pico Raspberry Pi 2350 Wifi](none)<br><br>'
+markdown_short: '[electronic_breakout_board_mcu_pico_raspberry_pi_2350_wifi](none)<br><br>'
 md5: ebbff4b0db4d794ba8d5660b3a78b36c
 md5_10: ebbff4b0db
 md5_10_upper: EBBFF4B0DB

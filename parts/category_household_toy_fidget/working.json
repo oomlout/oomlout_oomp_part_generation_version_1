@@ -50,8 +50,9 @@
     "id_no_type": "fidget",
     "id_no_size": "fidget",
     "oomp_key": "oomp_category_household_toy_fidget",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_fidget",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_fidget",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_fidget",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_fidget",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_fidget",
     "directory": "parts/category_household_toy_fidget",
     "name": "Category Household Toy Fidget",
     "name_no_class": "Household Toy Fidget",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Fidget",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_household_toy_fidget](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_fidget)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_fidget)<br>[Category Household Toy Fidget](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_fidget)<br><br>",
-    "markdown_short": "[category_household_toy_fidget](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_fidget)<br><br>"
+    "markdown_full": "[category_household_toy_fidget](none)<br>[](none)<br>[Category Household Toy Fidget](none)<br><br>",
+    "markdown_short": "[category_household_toy_fidget](none)<br><br>"
 }

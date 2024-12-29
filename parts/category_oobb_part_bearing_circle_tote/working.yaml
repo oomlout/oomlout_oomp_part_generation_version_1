@@ -27,21 +27,22 @@ directory: parts/category_oobb_part_bearing_circle_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_circle_tote
 id: category_oobb_part_bearing_circle_tote
 id_no_class: oobb_part_bearing_circle_tote
 id_no_size: bearing_circle_tote
 id_no_type: part_bearing_circle_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_circle_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing_circle_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing_circle_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing_circle_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part_bearing_circle_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_circle_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_circle_tote)<br>[Category
-    Oobb Part Bearing Circle Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_circle_tote)<br><br>'
-markdown_short: '[category_oobb_part_bearing_circle_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_circle_tote)<br><br>'
+markdown_full: '[category_oobb_part_bearing_circle_tote](none)<br>[](none)<br>[Category
+    Oobb Part Bearing Circle Tote](none)<br><br>'
+markdown_short: '[category_oobb_part_bearing_circle_tote](none)<br><br>'
 md5: 295236e066b363e9e41a440664afd5c4
 md5_10: 295236e066
 md5_10_upper: 295236E066

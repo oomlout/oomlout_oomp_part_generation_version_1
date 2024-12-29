@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: l_extra
+description_extra_capital: L Extra
+description_extra_first_letter: l
+description_extra_first_letter_upper: L
+description_extra_upper: L_EXTRA
+description_main: 7_width_1_mm_depth
+description_main_capital: 7 Width 1 mm Depth
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 7_WIDTH_1_MM_DEPTH
+description_only_numbers: '71'
+description_only_numbers_short: '71'
+description_or_color: '71'
+description_or_color_upper: '71'
+directory: parts/oobb_part_bunting_alphabet_7_width_1_mm_depth_l_extra
+distributors: []
+id: oobb_part_bunting_alphabet_7_width_1_mm_depth_l_extra
+id_no_class: part_bunting_alphabet_7_width_1_mm_depth_l_extra
+id_no_size: 7_width_1_mm_depth_l_extra
+id_no_type: bunting_alphabet_7_width_1_mm_depth_l_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_7_width_1_mm_depth_l_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_7_width_1_mm_depth_l_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_7_width_1_mm_depth_l_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bunting_alphabet_7_width_1_mm_depth_l_extra](none)<br>[](none)<br>[Oobb
+    Part Bunting Alphabet 7 Width 1 Mm Depth L Extra](none)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_7_width_1_mm_depth_l_extra](none)<br><br>'
+md5: 84e6d79e0014c08ca8715e1313b3f006
+md5_10: 84e6d79e00
+md5_10_upper: 84E6D79E00
+md5_5: 84e6d
+md5_5_upper: 84E6D
+md5_6: 84e6d7
+md5_6_alpha: 56ok7
+md5_6_alpha_upper: 56OK7
+md5_6_upper: 84E6D7
+name: Oobb Part Bunting Alphabet 7 Width 1 Mm Depth L Extra
+name_no_class: Part Bunting Alphabet 7 Width 1 Mm Depth L Extra
+name_no_size: 7 Width 1 Mm Depth L Extra
+name_no_size_short: 7 Width 1 Mm Depth L Extra
+name_no_type: Bunting Alphabet 7 Width 1 Mm Depth L Extra
+oomp_key: oomp_oobb_part_bunting_alphabet_7_width_1_mm_depth_l_extra
+oomp_word: key airplane office
+oomp_word_emoji: ':key: :airplane: :office:'
+oomp_word_emoji_list:
+- ':key:'
+- ':airplane:'
+- ':office:'
+oomp_word_list:
+- key
+- airplane
+- office
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bunting_alphabet
+size_capital: Bunting Alphabet
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNTING_ALPHABET
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

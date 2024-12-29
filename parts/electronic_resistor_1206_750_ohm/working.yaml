@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r12o751_electronic_resistor_1206_750_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_750_ohm
 id: electronic_resistor_1206_750_ohm
 id_no_class: resistor_1206_750_ohm
 id_no_size: 750_ohm
 id_no_type: 1206_750_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_750_ohm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_750_ohm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_750_ohm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_750_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_1206_750_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_750_ohm)<br>[r12o751](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_750_ohm)<br>[Electronic
-    Resistor 1206 750 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_750_ohm)<br><br>'
-markdown_short: '[electronic_resistor_1206_750_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_750_ohm)<br><br>'
+markdown_full: '[electronic_resistor_1206_750_ohm](none)<br>[r12o751](none)<br>[Electronic
+    Resistor 1206 750 Ohm](none)<br><br>'
+markdown_short: '[electronic_resistor_1206_750_ohm](none)<br><br>'
 md5: 166ee3186eb6d6a37a290de5aa16e2a3
 md5_10: 166ee3186e
 md5_10_upper: 166EE3186E

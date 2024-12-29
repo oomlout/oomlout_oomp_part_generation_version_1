@@ -50,8 +50,9 @@
     "id_no_type": "cabinet_ikea_havsta_tote",
     "id_no_size": "ikea_havsta_tote",
     "oomp_key": "oomp_category_furniture_cabinet_ikea_havsta_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta_tote",
     "directory": "parts/category_furniture_cabinet_ikea_havsta_tote",
     "name": "Category Furniture Cabinet Ikea Havsta Tote",
     "name_no_class": "Furniture Cabinet Ikea Havsta Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Ikea Havsta Tote",
     "description_or_color": "I ",
     "description_or_color_upper": "I ",
-    "markdown_full": "[category_furniture_cabinet_ikea_havsta_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta_tote)<br>[Category Furniture Cabinet Ikea Havsta Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta_tote)<br><br>",
-    "markdown_short": "[category_furniture_cabinet_ikea_havsta_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta_tote)<br><br>"
+    "markdown_full": "[category_furniture_cabinet_ikea_havsta_tote](none)<br>[](none)<br>[Category Furniture Cabinet Ikea Havsta Tote](none)<br><br>",
+    "markdown_short": "[category_furniture_cabinet_ikea_havsta_tote](none)<br><br>"
 }

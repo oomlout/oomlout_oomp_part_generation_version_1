@@ -48,8 +48,9 @@
     "id_no_type": "screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_socket_L",
     "id_no_size": "2_1_mm_barrel_socket_L",
     "oomp_key": "oomp_electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_socket_L",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_socket_L",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_socket_L",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_socket_L",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_socket_L",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_socket_L",
     "directory": "parts/electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_socket_L",
     "name": "Electronic Connector Screw Terminal 5 Mm Pitch 2 Pin 2 1 Mm Barrel Socket L",
     "name_no_class": "Connector Screw Terminal 5 Mm Pitch 2 Pin 2 1 Mm Barrel Socket L",
@@ -87,6 +88,6 @@
     "name_no_size_short": "2 1 Mm Barrel Socket L",
     "description_or_color": "21",
     "description_or_color_upper": "21",
-    "markdown_full": "[electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_socket_L](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_socket_L)<br>[con](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_socket_L)<br>[Electronic Connector Screw Terminal 5 Mm Pitch 2 Pin 2 1 Mm Barrel Socket L](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_socket_L)<br><br>",
-    "markdown_short": "[electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_socket_L](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_socket_L)<br><br>"
+    "markdown_full": "[electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_socket_L](none)<br>[con](none)<br>[Electronic Connector Screw Terminal 5 Mm Pitch 2 Pin 2 1 Mm Barrel Socket L](none)<br><br>",
+    "markdown_short": "[electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_socket_L](none)<br><br>"
 }

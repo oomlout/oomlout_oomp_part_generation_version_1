@@ -27,21 +27,22 @@ directory: parts/category_electronic_potentiometer
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer
 id: category_electronic_potentiometer
 id_no_class: electronic_potentiometer
 id_no_size: potentiometer
 id_no_type: potentiometer
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_potentiometer
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_potentiometer
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_potentiometer
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_potentiometer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer)<br>[Category
-    Electronic Potentiometer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer)<br><br>'
-markdown_short: '[category_electronic_potentiometer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer)<br><br>'
+markdown_full: '[category_electronic_potentiometer](none)<br>[](none)<br>[Category
+    Electronic Potentiometer](none)<br><br>'
+markdown_short: '[category_electronic_potentiometer](none)<br><br>'
 md5: ef68a5a7fc8ecd50712c9f98d0ec65f9
 md5_10: ef68a5a7fc
 md5_10_upper: EF68A5A7FC

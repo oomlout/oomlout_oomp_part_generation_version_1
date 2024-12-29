@@ -50,8 +50,9 @@
     "id_no_type": "bunch_banana",
     "id_no_size": "banana",
     "oomp_key": "oomp_food_fruit_bunch_banana",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_bunch_banana",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_bunch_banana",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_fruit_bunch_banana",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_fruit_bunch_banana",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_fruit_bunch_banana",
     "directory": "parts/food_fruit_bunch_banana",
     "name": "Food Fruit Bunch Banana",
     "name_no_class": "Fruit Bunch Banana",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Banana",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[food_fruit_bunch_banana](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_bunch_banana)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_bunch_banana)<br>[Food Fruit Bunch Banana](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_bunch_banana)<br><br>",
-    "markdown_short": "[food_fruit_bunch_banana](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_bunch_banana)<br><br>"
+    "markdown_full": "[food_fruit_bunch_banana](none)<br>[](none)<br>[Food Fruit Bunch Banana](none)<br><br>",
+    "markdown_short": "[food_fruit_bunch_banana](none)<br><br>"
 }

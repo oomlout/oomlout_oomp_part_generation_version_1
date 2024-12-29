@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: nut_extra
+description_extra_capital: Nut Extra
+description_extra_first_letter: n
+description_extra_first_letter_upper: N
+description_extra_upper: NUT_EXTRA
+description_main: 6_mm_depth
+description_main_capital: 6 mm Depth
+description_main_first_letter: '6'
+description_main_first_letter_upper: '6'
+description_main_upper: 6_MM_DEPTH
+description_only_numbers: '6'
+description_only_numbers_short: '6'
+description_or_color: '6'
+description_or_color_upper: '6'
+directory: parts/oobb_part_shaft_6_mm_depth_nut_extra
+distributors: []
+id: oobb_part_shaft_6_mm_depth_nut_extra
+id_no_class: part_shaft_6_mm_depth_nut_extra
+id_no_size: 6_mm_depth_nut_extra
+id_no_type: shaft_6_mm_depth_nut_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_6_mm_depth_nut_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_6_mm_depth_nut_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_6_mm_depth_nut_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_shaft_6_mm_depth_nut_extra](none)<br>[](none)<br>[Oobb
+    Part Shaft 6 Mm Depth Nut Extra](none)<br><br>'
+markdown_short: '[oobb_part_shaft_6_mm_depth_nut_extra](none)<br><br>'
+md5: 078ef8f6e780a72244289320743098fe
+md5_10: 078ef8f6e7
+md5_10_upper: 078EF8F6E7
+md5_5: 078ef
+md5_5_upper: 078EF
+md5_6: 078ef8
+md5_6_alpha: am7s
+md5_6_alpha_upper: AM7S
+md5_6_upper: 078EF8
+name: Oobb Part Shaft 6 Mm Depth Nut Extra
+name_no_class: Part Shaft 6 Mm Depth Nut Extra
+name_no_size: 6 Mm Depth Nut Extra
+name_no_size_short: 6 Mm Depth Nut Extra
+name_no_type: Shaft 6 Mm Depth Nut Extra
+oomp_key: oomp_oobb_part_shaft_6_mm_depth_nut_extra
+oomp_word: cry clipboard seven
+oomp_word_emoji: ':cry: :clipboard: :seven:'
+oomp_word_emoji_list:
+- ':cry:'
+- ':clipboard:'
+- ':seven:'
+oomp_word_list:
+- cry
+- clipboard
+- seven
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: shaft
+size_capital: Shaft
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHAFT
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

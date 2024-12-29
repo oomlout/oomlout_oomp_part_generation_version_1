@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/oomlout-PROJ",
-    "link_github": "https://github.com/oomlout/oomlout-PROJ",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_proj",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_proj",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_oomlout_proj",
     "id_no_size": "proj",
     "oomp_key": "oomp_project_github_oomlout_oomlout_proj",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_proj",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_proj",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_proj",
     "directory": "parts/project_github_oomlout_oomlout_proj",
     "name": "Project Github Oomlout Oomlout Proj",
     "name_no_class": "Github Oomlout Oomlout Proj",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Proj",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[project_github_oomlout_oomlout_proj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_proj)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_proj)<br>[Project Github Oomlout Oomlout Proj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_proj)<br><br>",
-    "markdown_short": "[project_github_oomlout_oomlout_proj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_proj)<br><br>"
+    "markdown_full": "[project_github_oomlout_oomlout_proj](none)<br>[](none)<br>[Project Github Oomlout Oomlout Proj](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_oomlout_proj](none)<br><br>"
 }

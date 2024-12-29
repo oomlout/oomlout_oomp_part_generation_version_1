@@ -27,21 +27,22 @@ directory: parts/category_hardware_shelf_support_peg
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_shelf_support_peg
 id: category_hardware_shelf_support_peg
 id_no_class: hardware_shelf_support_peg
 id_no_size: shelf_support_peg
 id_no_type: shelf_support_peg
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_shelf_support_peg
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_shelf_support_peg
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_shelf_support_peg
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_shelf_support_peg
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_shelf_support_peg](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_shelf_support_peg)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_shelf_support_peg)<br>[Category
-    Hardware Shelf Support Peg](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_shelf_support_peg)<br><br>'
-markdown_short: '[category_hardware_shelf_support_peg](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_shelf_support_peg)<br><br>'
+markdown_full: '[category_hardware_shelf_support_peg](none)<br>[](none)<br>[Category
+    Hardware Shelf Support Peg](none)<br><br>'
+markdown_short: '[category_hardware_shelf_support_peg](none)<br><br>'
 md5: 0a22853e7d71663d8a9516c1008ae96d
 md5_10: 0a22853e7d
 md5_10_upper: 0A22853E7D

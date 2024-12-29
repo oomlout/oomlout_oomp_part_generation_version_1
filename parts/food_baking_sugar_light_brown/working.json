@@ -49,8 +49,9 @@
     "id_no_type": "sugar_light_brown",
     "id_no_size": "light_brown",
     "oomp_key": "oomp_food_baking_sugar_light_brown",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_light_brown",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_light_brown",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_light_brown",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_light_brown",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_light_brown",
     "directory": "parts/food_baking_sugar_light_brown",
     "name": "Food Baking Sugar Light Brown",
     "name_no_class": "Baking Sugar Light Brown",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Light Brown",
     "description_or_color": "L ",
     "description_or_color_upper": "L ",
-    "markdown_full": "[food_baking_sugar_light_brown](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_light_brown)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_light_brown)<br>[Food Baking Sugar Light Brown](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_light_brown)<br><br>",
-    "markdown_short": "[food_baking_sugar_light_brown](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_light_brown)<br><br>"
+    "markdown_full": "[food_baking_sugar_light_brown](none)<br>[](none)<br>[Food Baking Sugar Light Brown](none)<br><br>",
+    "markdown_short": "[food_baking_sugar_light_brown](none)<br><br>"
 }

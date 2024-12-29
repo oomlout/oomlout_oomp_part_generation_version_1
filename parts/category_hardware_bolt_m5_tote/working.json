@@ -50,8 +50,9 @@
     "id_no_type": "bolt_m5_tote",
     "id_no_size": "m5_tote",
     "oomp_key": "oomp_category_hardware_bolt_m5_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt_m5_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt_m5_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt_m5_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt_m5_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt_m5_tote",
     "directory": "parts/category_hardware_bolt_m5_tote",
     "name": "Category Hardware Bolt M5 Tote",
     "name_no_class": "Hardware Bolt M5 Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "M5 Tote",
     "description_or_color": "M ",
     "description_or_color_upper": "M ",
-    "markdown_full": "[category_hardware_bolt_m5_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt_m5_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt_m5_tote)<br>[Category Hardware Bolt M5 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt_m5_tote)<br><br>",
-    "markdown_short": "[category_hardware_bolt_m5_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt_m5_tote)<br><br>"
+    "markdown_full": "[category_hardware_bolt_m5_tote](none)<br>[](none)<br>[Category Hardware Bolt M5 Tote](none)<br><br>",
+    "markdown_short": "[category_hardware_bolt_m5_tote](none)<br><br>"
 }

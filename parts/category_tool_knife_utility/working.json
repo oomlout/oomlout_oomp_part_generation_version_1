@@ -50,8 +50,9 @@
     "id_no_type": "knife_utility",
     "id_no_size": "knife_utility",
     "oomp_key": "oomp_category_tool_knife_utility",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_knife_utility",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_knife_utility",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_knife_utility",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_knife_utility",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_knife_utility",
     "directory": "parts/category_tool_knife_utility",
     "name": "Category Tool Knife Utility",
     "name_no_class": "Tool Knife Utility",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Knife Utility",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_tool_knife_utility](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_knife_utility)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_knife_utility)<br>[Category Tool Knife Utility](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_knife_utility)<br><br>",
-    "markdown_short": "[category_tool_knife_utility](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_knife_utility)<br><br>"
+    "markdown_full": "[category_tool_knife_utility](none)<br>[](none)<br>[Category Tool Knife Utility](none)<br><br>",
+    "markdown_short": "[category_tool_knife_utility](none)<br><br>"
 }

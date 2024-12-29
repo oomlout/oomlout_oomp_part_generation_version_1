@@ -48,8 +48,9 @@
     "id_no_type": "m3_25_mm_length",
     "id_no_size": "25_mm_length",
     "oomp_key": "oomp_hardware_set_screw_m3_25_mm_length",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m3_25_mm_length",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m3_25_mm_length",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m3_25_mm_length",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m3_25_mm_length",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m3_25_mm_length",
     "directory": "parts/hardware_set_screw_m3_25_mm_length",
     "name": "Hardware Set Screw M3 25 Mm Length",
     "name_no_class": "Set Screw M3 25 Mm Length",
@@ -87,6 +88,6 @@
     "name_no_size_short": "25 Mm Length",
     "description_or_color": "25",
     "description_or_color_upper": "25",
-    "markdown_full": "[hardware_set_screw_m3_25_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m3_25_mm_length)<br>[ss325](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m3_25_mm_length)<br>[Hardware Set Screw M3 25 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m3_25_mm_length)<br><br>",
-    "markdown_short": "[hardware_set_screw_m3_25_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m3_25_mm_length)<br><br>"
+    "markdown_full": "[hardware_set_screw_m3_25_mm_length](none)<br>[ss325](none)<br>[Hardware Set Screw M3 25 Mm Length](none)<br><br>",
+    "markdown_short": "[hardware_set_screw_m3_25_mm_length](none)<br><br>"
 }

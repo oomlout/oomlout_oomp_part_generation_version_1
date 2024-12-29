@@ -26,23 +26,22 @@ directory: parts/project_github_oomlout_oomlout_oobb_lighting_project_light_pane
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket
 id: project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket
 id_no_class: github_oomlout_oomlout_oobb_lighting_light_panel_bracket
 id_no_size: oobb_lighting_light_panel_bracket
 id_no_type: oomlout_oomlout_oobb_lighting_light_panel_bracket
-link_github: https://github.com/oomlout/oomlout_oobb_lighting_project_light_panel_bracket
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket
-link_redirect: https://github.com/oomlout/oomlout_oobb_lighting_project_light_panel_bracket
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket)<br>[Project
-    Github Oomlout Oomlout Oobb Lighting Project Light Panel Bracket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket)<br><br>'
-markdown_short: '[project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket)<br><br>'
+markdown_full: '[project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Oobb Lighting Project Light Panel Bracket](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oobb_lighting_project_light_panel_bracket](none)<br><br>'
 md5: d36754a578c868e68981b65400efffed
 md5_10: d36754a578
 md5_10_upper: D36754A578

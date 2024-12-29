@@ -27,21 +27,22 @@ directory: parts/food_starch_pasta_fusilli
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli
 id: food_starch_pasta_fusilli
 id_no_class: starch_pasta_fusilli
 id_no_size: fusilli
 id_no_type: pasta_fusilli
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_fusilli
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_fusilli
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_fusilli
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_starch_pasta_fusilli](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli)<br>[Food
-    Starch Pasta Fusilli](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli)<br><br>'
-markdown_short: '[food_starch_pasta_fusilli](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli)<br><br>'
+markdown_full: '[food_starch_pasta_fusilli](none)<br>[](none)<br>[Food Starch Pasta
+    Fusilli](none)<br><br>'
+markdown_short: '[food_starch_pasta_fusilli](none)<br><br>'
 md5: a82542e2965f8e98bcd706aa5b0437cf
 md5_10: a82542e296
 md5_10_upper: A82542E296

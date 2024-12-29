@@ -26,21 +26,22 @@ directory: parts/hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_d
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
 id: hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
 id_no_class: bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
 id_no_size: 6702_size_15_mm_id_21_mm_od_4_mm_depth
 id_no_type: 6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth)<br>[Hardware
-    Bearing 6700 Series 6702 Size 15 Mm Id 21 Mm Od 4 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth)<br><br>'
-markdown_short: '[hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth)<br><br>'
+markdown_full: '[hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth](none)<br>[](none)<br>[Hardware
+    Bearing 6700 Series 6702 Size 15 Mm Id 21 Mm Od 4 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth](none)<br><br>'
 md5: 28eef1c8dba70c432aafe4584fae71fc
 md5_10: 28eef1c8db
 md5_10_upper: 28EEF1C8DB

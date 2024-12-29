@@ -50,8 +50,9 @@
     "id_no_type": "appliance",
     "id_no_size": "appliance",
     "oomp_key": "oomp_category_appliance",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance",
     "directory": "parts/category_appliance",
     "name": "Category Appliance",
     "name_no_class": "Appliance",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Appliance",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_appliance](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance)<br>[Category Appliance](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance)<br><br>",
-    "markdown_short": "[category_appliance](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance)<br><br>"
+    "markdown_full": "[category_appliance](none)<br>[](none)<br>[Category Appliance](none)<br><br>",
+    "markdown_short": "[category_appliance](none)<br><br>"
 }

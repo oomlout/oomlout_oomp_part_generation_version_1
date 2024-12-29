@@ -46,8 +46,9 @@
     "id_no_type": "2_54_mm_1_pin_through_hole_short",
     "id_no_size": "1_pin_through_hole_short",
     "oomp_key": "oomp_electronic_header_2_54_mm_1_pin_through_hole_short",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_short",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_short",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_short",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_short",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_short",
     "directory": "parts/electronic_header_2_54_mm_1_pin_through_hole_short",
     "name": "Electronic Header 2 54 Mm 1 Pin Through Hole Short",
     "name_no_class": "Header 2 54 Mm 1 Pin Through Hole Short",
@@ -85,6 +86,6 @@
     "name_no_size_short": "1 Pin Through Hole Short",
     "description_or_color": "1",
     "description_or_color_upper": "1",
-    "markdown_full": "[electronic_header_2_54_mm_1_pin_through_hole_short](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_short)<br>[hi11pths](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_short)<br>[Electronic Header 2 54 Mm 1 Pin Through Hole Short](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_short)<br><br>",
-    "markdown_short": "[electronic_header_2_54_mm_1_pin_through_hole_short](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_through_hole_short)<br><br>"
+    "markdown_full": "[electronic_header_2_54_mm_1_pin_through_hole_short](none)<br>[hi11pths](none)<br>[Electronic Header 2 54 Mm 1 Pin Through Hole Short](none)<br><br>",
+    "markdown_short": "[electronic_header_2_54_mm_1_pin_through_hole_short](none)<br><br>"
 }

@@ -27,21 +27,21 @@ directory: parts/category_food_fruit
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit
 id: category_food_fruit
 id_no_class: food_fruit
 id_no_size: fruit
 id_no_type: fruit
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_fruit
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_fruit
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_fruit
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food_fruit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit)<br>[Category
-    Food Fruit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit)<br><br>'
-markdown_short: '[category_food_fruit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit)<br><br>'
+markdown_full: '[category_food_fruit](none)<br>[](none)<br>[Category Food Fruit](none)<br><br>'
+markdown_short: '[category_food_fruit](none)<br><br>'
 md5: ec69431555b0c1be445504860a9c3d06
 md5_10: ec69431555
 md5_10_upper: EC69431555

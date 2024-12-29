@@ -50,8 +50,9 @@
     "id_no_type": "oobb",
     "id_no_size": "oobb",
     "oomp_key": "oomp_category_oobb",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb",
     "directory": "parts/category_oobb",
     "name": "Category Oobb",
     "name_no_class": "Oobb",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Oobb",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_oobb](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb)<br>[Category Oobb](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb)<br><br>",
-    "markdown_short": "[category_oobb](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb)<br><br>"
+    "markdown_full": "[category_oobb](none)<br>[](none)<br>[Category Oobb](none)<br><br>",
+    "markdown_short": "[category_oobb](none)<br><br>"
 }

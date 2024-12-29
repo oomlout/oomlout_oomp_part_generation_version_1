@@ -26,22 +26,23 @@ directory: parts/electronic_resistor_0402_75_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_75_ohm
 id: electronic_resistor_0402_75_ohm
 id_no_class: resistor_0402_75_ohm
 id_no_size: 75_ohm
 id_no_type: 0402_75_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_75_ohm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_75_ohm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_75_ohm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_75_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_0402_75_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_75_ohm)<br>[r4o750](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_75_ohm)<br>[Electronic
-    Resistor 0402 75 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_75_ohm)<br><br>'
-markdown_short: '[electronic_resistor_0402_75_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_75_ohm)<br><br>'
+markdown_full: '[electronic_resistor_0402_75_ohm](none)<br>[r4o750](none)<br>[Electronic
+    Resistor 0402 75 Ohm](none)<br><br>'
+markdown_short: '[electronic_resistor_0402_75_ohm](none)<br><br>'
 md5: 6ef9e88646c466af03ad96d3ffc10523
 md5_10: 6ef9e88646
 md5_10_upper: 6EF9E88646

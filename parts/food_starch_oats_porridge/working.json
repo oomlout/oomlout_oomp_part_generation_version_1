@@ -49,8 +49,9 @@
     "id_no_type": "oats_porridge",
     "id_no_size": "porridge",
     "oomp_key": "oomp_food_starch_oats_porridge",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_oats_porridge",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_oats_porridge",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_oats_porridge",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_oats_porridge",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_oats_porridge",
     "directory": "parts/food_starch_oats_porridge",
     "name": "Food Starch Oats Porridge",
     "name_no_class": "Starch Oats Porridge",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Porridge",
     "description_or_color": "P ",
     "description_or_color_upper": "P ",
-    "markdown_full": "[food_starch_oats_porridge](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_oats_porridge)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_oats_porridge)<br>[Food Starch Oats Porridge](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_oats_porridge)<br><br>",
-    "markdown_short": "[food_starch_oats_porridge](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_oats_porridge)<br><br>"
+    "markdown_full": "[food_starch_oats_porridge](none)<br>[](none)<br>[Food Starch Oats Porridge](none)<br><br>",
+    "markdown_short": "[food_starch_oats_porridge](none)<br><br>"
 }

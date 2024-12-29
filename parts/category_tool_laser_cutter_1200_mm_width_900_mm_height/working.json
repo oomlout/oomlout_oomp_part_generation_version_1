@@ -50,8 +50,9 @@
     "id_no_type": "laser_cutter_1200_mm_width_900_mm_height",
     "id_no_size": "1200_mm_width_900_mm_height",
     "oomp_key": "oomp_category_tool_laser_cutter_1200_mm_width_900_mm_height",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter_1200_mm_width_900_mm_height",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter_1200_mm_width_900_mm_height",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_laser_cutter_1200_mm_width_900_mm_height",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_laser_cutter_1200_mm_width_900_mm_height",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_laser_cutter_1200_mm_width_900_mm_height",
     "directory": "parts/category_tool_laser_cutter_1200_mm_width_900_mm_height",
     "name": "Category Tool Laser Cutter 1200 Mm Width 900 Mm Height",
     "name_no_class": "Tool Laser Cutter 1200 Mm Width 900 Mm Height",
@@ -89,6 +90,6 @@
     "name_no_size_short": "1200 Mm Width 900 Mm Height",
     "description_or_color": "1 ",
     "description_or_color_upper": "1 ",
-    "markdown_full": "[category_tool_laser_cutter_1200_mm_width_900_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter_1200_mm_width_900_mm_height)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter_1200_mm_width_900_mm_height)<br>[Category Tool Laser Cutter 1200 Mm Width 900 Mm Height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter_1200_mm_width_900_mm_height)<br><br>",
-    "markdown_short": "[category_tool_laser_cutter_1200_mm_width_900_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter_1200_mm_width_900_mm_height)<br><br>"
+    "markdown_full": "[category_tool_laser_cutter_1200_mm_width_900_mm_height](none)<br>[](none)<br>[Category Tool Laser Cutter 1200 Mm Width 900 Mm Height](none)<br><br>",
+    "markdown_short": "[category_tool_laser_cutter_1200_mm_width_900_mm_height](none)<br><br>"
 }

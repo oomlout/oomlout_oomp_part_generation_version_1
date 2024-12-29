@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: spacer_extra
+description_extra_capital: Spacer Extra
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SPACER_EXTRA
+description_main: 3_width_2_height_9_mm_depth
+description_main_capital: 3 Width 2 Height 9 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_2_HEIGHT_9_MM_DEPTH
+description_only_numbers: '329'
+description_only_numbers_short: '329'
+description_or_color: '329'
+description_or_color_upper: '329'
+directory: parts/oobb_part_wire_3_width_2_height_9_mm_depth_spacer_extra
+distributors: []
+id: oobb_part_wire_3_width_2_height_9_mm_depth_spacer_extra
+id_no_class: part_wire_3_width_2_height_9_mm_depth_spacer_extra
+id_no_size: 3_width_2_height_9_mm_depth_spacer_extra
+id_no_type: wire_3_width_2_height_9_mm_depth_spacer_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_wire_3_width_2_height_9_mm_depth_spacer_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_wire_3_width_2_height_9_mm_depth_spacer_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_wire_3_width_2_height_9_mm_depth_spacer_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_wire_3_width_2_height_9_mm_depth_spacer_extra](none)<br>[](none)<br>[Oobb
+    Part Wire 3 Width 2 Height 9 Mm Depth Spacer Extra](none)<br><br>'
+markdown_short: '[oobb_part_wire_3_width_2_height_9_mm_depth_spacer_extra](none)<br><br>'
+md5: 3829b308e5d017ad790c2ebf4c2bc4db
+md5_10: 3829b308e5
+md5_10_upper: 3829B308E5
+md5_5: 3829b
+md5_5_upper: 3829B
+md5_6: 3829b3
+md5_6_alpha: 26w1f
+md5_6_alpha_upper: 26W1F
+md5_6_upper: 3829B3
+name: Oobb Part Wire 3 Width 2 Height 9 Mm Depth Spacer Extra
+name_no_class: Part Wire 3 Width 2 Height 9 Mm Depth Spacer Extra
+name_no_size: 3 Width 2 Height 9 Mm Depth Spacer Extra
+name_no_size_short: 3 Width 2 Height 9 Mm Depth Spacer Extra
+name_no_type: Wire 3 Width 2 Height 9 Mm Depth Spacer Extra
+oomp_key: oomp_oobb_part_wire_3_width_2_height_9_mm_depth_spacer_extra
+oomp_word: frog sunny eyeglasses
+oomp_word_emoji: ':frog: :sunny: :eyeglasses:'
+oomp_word_emoji_list:
+- ':frog:'
+- ':sunny:'
+- ':eyeglasses:'
+oomp_word_list:
+- frog
+- sunny
+- eyeglasses
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: wire
+size_capital: Wire
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WIRE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

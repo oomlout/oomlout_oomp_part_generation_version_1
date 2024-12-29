@@ -27,21 +27,22 @@ directory: parts/category_printer_all_in_one_inkjet_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_tote
 id: category_printer_all_in_one_inkjet_tote
 id_no_class: printer_all_in_one_inkjet_tote
 id_no_size: tote
 id_no_type: all_in_one_inkjet_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_all_in_one_inkjet_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_all_in_one_inkjet_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_all_in_one_inkjet_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_printer_all_in_one_inkjet_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_tote)<br>[Category
-    Printer All In One Inkjet Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_tote)<br><br>'
-markdown_short: '[category_printer_all_in_one_inkjet_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_tote)<br><br>'
+markdown_full: '[category_printer_all_in_one_inkjet_tote](none)<br>[](none)<br>[Category
+    Printer All In One Inkjet Tote](none)<br><br>'
+markdown_short: '[category_printer_all_in_one_inkjet_tote](none)<br><br>'
 md5: 29633dc2144e8b8d2e806f4a3005169c
 md5_10: 29633dc214
 md5_10_upper: 29633DC214

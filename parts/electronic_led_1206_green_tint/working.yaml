@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l12g_electronic_led_1206_green_tint
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_green_tint
 id: electronic_led_1206_green_tint
 id_no_class: led_1206_green_tint
 id_no_size: green_tint
 id_no_type: 1206_green_tint
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_green_tint
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_green_tint
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_green_tint
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_green_tint
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_1206_green_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_green_tint)<br>[l12g](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_green_tint)<br>[Electronic
-    Led 1206 Green Tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_green_tint)<br><br>'
-markdown_short: '[electronic_led_1206_green_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_green_tint)<br><br>'
+markdown_full: '[electronic_led_1206_green_tint](none)<br>[l12g](none)<br>[Electronic
+    Led 1206 Green Tint](none)<br><br>'
+markdown_short: '[electronic_led_1206_green_tint](none)<br><br>'
 md5: 04d02961a2bae6d2535343fa37276f9e
 md5_10: 04d02961a2
 md5_10_upper: 04D02961A2

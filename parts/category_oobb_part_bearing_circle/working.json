@@ -50,8 +50,9 @@
     "id_no_type": "part_bearing_circle",
     "id_no_size": "bearing_circle",
     "oomp_key": "oomp_category_oobb_part_bearing_circle",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_circle",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_circle",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing_circle",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing_circle",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing_circle",
     "directory": "parts/category_oobb_part_bearing_circle",
     "name": "Category Oobb Part Bearing Circle",
     "name_no_class": "Oobb Part Bearing Circle",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Bearing Circle",
     "description_or_color": "B ",
     "description_or_color_upper": "B ",
-    "markdown_full": "[category_oobb_part_bearing_circle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_circle)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_circle)<br>[Category Oobb Part Bearing Circle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_circle)<br><br>",
-    "markdown_short": "[category_oobb_part_bearing_circle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_circle)<br><br>"
+    "markdown_full": "[category_oobb_part_bearing_circle](none)<br>[](none)<br>[Category Oobb Part Bearing Circle](none)<br><br>",
+    "markdown_short": "[category_oobb_part_bearing_circle](none)<br><br>"
 }

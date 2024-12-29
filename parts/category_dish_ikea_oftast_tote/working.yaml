@@ -27,21 +27,22 @@ directory: parts/category_dish_ikea_oftast_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_ikea_oftast_tote
 id: category_dish_ikea_oftast_tote
 id_no_class: dish_ikea_oftast_tote
 id_no_size: ikeaoftasttote
 id_no_type: ikea_oftast_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_ikea_oftast_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_ikea_oftast_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_ikea_oftast_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_ikea_oftast_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_dish_ikea_oftast_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_ikea_oftast_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_ikea_oftast_tote)<br>[Category
-    Dish Ikea Oftast Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_ikea_oftast_tote)<br><br>'
-markdown_short: '[category_dish_ikea_oftast_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_ikea_oftast_tote)<br><br>'
+markdown_full: '[category_dish_ikea_oftast_tote](none)<br>[](none)<br>[Category Dish
+    Ikea Oftast Tote](none)<br><br>'
+markdown_short: '[category_dish_ikea_oftast_tote](none)<br><br>'
 md5: 3a9f4827312068f9e8bf08f6282d23ee
 md5_10: 3a9f482731
 md5_10_upper: 3A9F482731

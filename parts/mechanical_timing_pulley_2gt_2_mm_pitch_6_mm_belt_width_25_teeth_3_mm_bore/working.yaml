@@ -24,21 +24,22 @@ description_or_color: '625'
 description_or_color_upper: '625'
 directory: parts/mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore
 id: mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore
 id_no_class: timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore
 id_no_size: 6_mm_belt_width_25_teeth_3_mm_bore
 id_no_type: 2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore)<br>[Mechanical
-    Timing Pulley 2Gt 2 Mm Pitch 6 Mm Belt Width 25 Teeth 3 Mm Bore](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore)<br><br>'
-markdown_short: '[mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore)<br><br>'
+markdown_full: '[mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore](none)<br>[](none)<br>[Mechanical
+    Timing Pulley 2Gt 2 Mm Pitch 6 Mm Belt Width 25 Teeth 3 Mm Bore](none)<br><br>'
+markdown_short: '[mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore](none)<br><br>'
 md5: 87081e15699e69a6026066ef43863aa6
 md5_10: 87081e1569
 md5_10_upper: 87081E1569

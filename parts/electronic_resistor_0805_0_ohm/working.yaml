@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r8o0_electronic_resistor_0805_0_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_0_ohm
 id: electronic_resistor_0805_0_ohm
 id_no_class: resistor_0805_0_ohm
 id_no_size: 0_ohm
 id_no_type: 0805_0_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_0_ohm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0805_0_ohm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0805_0_ohm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0805_0_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_0805_0_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_0_ohm)<br>[r8o0](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_0_ohm)<br>[Electronic
-    Resistor 0805 0 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_0_ohm)<br><br>'
-markdown_short: '[electronic_resistor_0805_0_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_0_ohm)<br><br>'
+markdown_full: '[electronic_resistor_0805_0_ohm](none)<br>[r8o0](none)<br>[Electronic
+    Resistor 0805 0 Ohm](none)<br><br>'
+markdown_short: '[electronic_resistor_0805_0_ohm](none)<br><br>'
 md5: d2570626ac07fac4667a2946a70a904d
 md5_10: d2570626ac
 md5_10_upper: D2570626AC

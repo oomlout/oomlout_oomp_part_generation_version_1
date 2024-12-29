@@ -50,8 +50,9 @@
     "id_no_type": "printer_bambu_lab_p1p",
     "id_no_size": "bambu_lab_p1p",
     "oomp_key": "oomp_category_three_d_printer_printer_bambu_lab_p1p",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p",
     "directory": "parts/category_three_d_printer_printer_bambu_lab_p1p",
     "name": "Category Three D Printer Printer Bambu Lab P1P",
     "name_no_class": "Three D Printer Printer Bambu Lab P1P",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Bambu Lab P1P",
     "description_or_color": "B ",
     "description_or_color_upper": "B ",
-    "markdown_full": "[category_three_d_printer_printer_bambu_lab_p1p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p)<br>[Category Three D Printer Printer Bambu Lab P1P](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p)<br><br>",
-    "markdown_short": "[category_three_d_printer_printer_bambu_lab_p1p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p)<br><br>"
+    "markdown_full": "[category_three_d_printer_printer_bambu_lab_p1p](none)<br>[](none)<br>[Category Three D Printer Printer Bambu Lab P1P](none)<br><br>",
+    "markdown_short": "[category_three_d_printer_printer_bambu_lab_p1p](none)<br><br>"
 }

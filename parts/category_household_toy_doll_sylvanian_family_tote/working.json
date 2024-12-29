@@ -50,8 +50,9 @@
     "id_no_type": "doll_sylvanian_family_tote",
     "id_no_size": "tote",
     "oomp_key": "oomp_category_household_toy_doll_sylvanian_family_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_sylvanian_family_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_sylvanian_family_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_sylvanian_family_tote",
     "directory": "parts/category_household_toy_doll_sylvanian_family_tote",
     "name": "Category Household Toy Doll Sylvanian Family Tote",
     "name_no_class": "Household Toy Doll Sylvanian Family Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Tote",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_household_toy_doll_sylvanian_family_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family_tote)<br>[Category Household Toy Doll Sylvanian Family Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family_tote)<br><br>",
-    "markdown_short": "[category_household_toy_doll_sylvanian_family_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family_tote)<br><br>"
+    "markdown_full": "[category_household_toy_doll_sylvanian_family_tote](none)<br>[](none)<br>[Category Household Toy Doll Sylvanian Family Tote](none)<br><br>",
+    "markdown_short": "[category_household_toy_doll_sylvanian_family_tote](none)<br><br>"
 }

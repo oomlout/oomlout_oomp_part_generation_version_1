@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/tdpb_stamps",
-    "link_github": "https://github.com/oomlout/tdpb_stamps",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_tdpb_stamps",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_tdpb_stamps",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_tdpb_stamps",
     "id_no_size": "tdpb_stamps",
     "oomp_key": "oomp_project_github_oomlout_tdpb_stamps",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_tdpb_stamps",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_tdpb_stamps",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_tdpb_stamps",
     "directory": "parts/project_github_oomlout_tdpb_stamps",
     "name": "Project Github Oomlout Tdpb Stamps",
     "name_no_class": "Github Oomlout Tdpb Stamps",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Tdpb Stamps",
     "description_or_color": "T ",
     "description_or_color_upper": "T ",
-    "markdown_full": "[project_github_oomlout_tdpb_stamps](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_tdpb_stamps)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_tdpb_stamps)<br>[Project Github Oomlout Tdpb Stamps](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_tdpb_stamps)<br><br>",
-    "markdown_short": "[project_github_oomlout_tdpb_stamps](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_tdpb_stamps)<br><br>"
+    "markdown_full": "[project_github_oomlout_tdpb_stamps](none)<br>[](none)<br>[Project Github Oomlout Tdpb Stamps](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_tdpb_stamps](none)<br><br>"
 }

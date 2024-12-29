@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/oomlout_oomp_footprint_src",
-    "link_github": "https://github.com/oomlout/oomlout_oomp_footprint_src",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_src",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_src",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_oomlout_oomp_footprint_src",
     "id_no_size": "oomp_footprint_src",
     "oomp_key": "oomp_project_github_oomlout_oomlout_oomp_footprint_src",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_src",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_src",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_src",
     "directory": "parts/project_github_oomlout_oomlout_oomp_footprint_src",
     "name": "Project Github Oomlout Oomlout Oomp Footprint Src",
     "name_no_class": "Github Oomlout Oomlout Oomp Footprint Src",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Oomp Footprint Src",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[project_github_oomlout_oomlout_oomp_footprint_src](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_src)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_src)<br>[Project Github Oomlout Oomlout Oomp Footprint Src](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_src)<br><br>",
-    "markdown_short": "[project_github_oomlout_oomlout_oomp_footprint_src](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_src)<br><br>"
+    "markdown_full": "[project_github_oomlout_oomlout_oomp_footprint_src](none)<br>[](none)<br>[Project Github Oomlout Oomlout Oomp Footprint Src](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_oomlout_oomp_footprint_src](none)<br><br>"
 }

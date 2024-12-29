@@ -48,8 +48,9 @@
     "id_no_type": "savoury_ketchup_bottle_squeeze_910_gram_heinz",
     "id_no_size": "savouryketchupbottlesqueeze910gramheinz",
     "oomp_key": "oomp_food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz",
     "directory": "parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz",
     "name": "Food Condiment Savoury Ketchup Bottle Squeeze 910 Gram Heinz",
     "name_no_class": "Condiment Savoury Ketchup Bottle Squeeze 910 Gram Heinz",
@@ -87,6 +88,6 @@
     "name_no_size_short": "Savouryketchupbottlesqueeze910Gramheinz",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz)<br>[Food Condiment Savoury Ketchup Bottle Squeeze 910 Gram Heinz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz)<br><br>",
-    "markdown_short": "[food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz)<br><br>"
+    "markdown_full": "[food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz](none)<br>[](none)<br>[Food Condiment Savoury Ketchup Bottle Squeeze 910 Gram Heinz](none)<br><br>",
+    "markdown_short": "[food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz](none)<br><br>"
 }

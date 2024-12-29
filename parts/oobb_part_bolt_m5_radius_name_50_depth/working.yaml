@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: m5_radius_name_50_depth
+description_extra_capital: M5 Radius Name 50 Depth
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: M5_RADIUS_NAME_50_DEPTH
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_bolt_m5_radius_name_50_depth
+distributors: []
+id: oobb_part_bolt_m5_radius_name_50_depth
+id_no_class: part_bolt_m5_radius_name_50_depth
+id_no_size: m5_radius_name_50_depth
+id_no_type: bolt_m5_radius_name_50_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bolt_m5_radius_name_50_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bolt_m5_radius_name_50_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bolt_m5_radius_name_50_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bolt_m5_radius_name_50_depth](none)<br>[](none)<br>[Oobb
+    Part Bolt M5 Radius Name 50 Depth](none)<br><br>'
+markdown_short: '[oobb_part_bolt_m5_radius_name_50_depth](none)<br><br>'
+md5: ff6bec2a52f326ed4389c6624dcb9d9c
+md5_10: ff6bec2a52
+md5_10_upper: FF6BEC2A52
+md5_5: ff6be
+md5_5_upper: FF6BE
+md5_6: ff6bec
+md5_6_alpha: 9ys4s
+md5_6_alpha_upper: 9YS4S
+md5_6_upper: FF6BEC
+name: Oobb Part Bolt M5 Radius Name 50 Depth
+name_no_class: Part Bolt M5 Radius Name 50 Depth
+name_no_size: M5 Radius Name 50 Depth
+name_no_size_short: M5 Radius Name 50 Depth
+name_no_type: Bolt M5 Radius Name 50 Depth
+oomp_key: oomp_oobb_part_bolt_m5_radius_name_50_depth
+oomp_word: trident chestnut taxi
+oomp_word_emoji: ':trident: :chestnut: :taxi:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':chestnut:'
+- ':taxi:'
+oomp_word_list:
+- trident
+- chestnut
+- taxi
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bolt
+size_capital: Bolt
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BOLT
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

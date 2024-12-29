@@ -49,8 +49,9 @@
     "id_no_type": "pasta_spaghetti",
     "id_no_size": "spaghetti",
     "oomp_key": "oomp_food_starch_pasta_spaghetti",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_spaghetti",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_spaghetti",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_spaghetti",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_spaghetti",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_spaghetti",
     "directory": "parts/food_starch_pasta_spaghetti",
     "name": "Food Starch Pasta Spaghetti",
     "name_no_class": "Starch Pasta Spaghetti",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Spaghetti",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[food_starch_pasta_spaghetti](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_spaghetti)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_spaghetti)<br>[Food Starch Pasta Spaghetti](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_spaghetti)<br><br>",
-    "markdown_short": "[food_starch_pasta_spaghetti](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_spaghetti)<br><br>"
+    "markdown_full": "[food_starch_pasta_spaghetti](none)<br>[](none)<br>[Food Starch Pasta Spaghetti](none)<br><br>",
+    "markdown_short": "[food_starch_pasta_spaghetti](none)<br><br>"
 }

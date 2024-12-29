@@ -48,8 +48,9 @@
     "id_no_type": "0805_yellow",
     "id_no_size": "yellow",
     "oomp_key": "oomp_electronic_led_0805_yellow",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0805_yellow",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0805_yellow",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0805_yellow",
     "directory": "parts/electronic_led_0805_yellow",
     "name": "Electronic Led 0805 Yellow",
     "name_no_class": "Led 0805 Yellow",
@@ -92,6 +93,6 @@
     "name_no_size_short": "Yellow",
     "description_or_color": "Y ",
     "description_or_color_upper": "Y ",
-    "markdown_full": "[electronic_led_0805_yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow)<br>[l8y](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow)<br>[Electronic Led 0805 Yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow)<br><br>",
-    "markdown_short": "[electronic_led_0805_yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow)<br><br>"
+    "markdown_full": "[electronic_led_0805_yellow](none)<br>[l8y](none)<br>[Electronic Led 0805 Yellow](none)<br><br>",
+    "markdown_short": "[electronic_led_0805_yellow](none)<br><br>"
 }

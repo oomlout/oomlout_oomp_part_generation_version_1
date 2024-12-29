@@ -50,8 +50,9 @@
     "id_no_type": "lettuce_iceberg",
     "id_no_size": "lettuceiceberg",
     "oomp_key": "oomp_food_vegetable_lettuce_iceberg",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_lettuce_iceberg",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_lettuce_iceberg",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_lettuce_iceberg",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_lettuce_iceberg",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_lettuce_iceberg",
     "directory": "parts/food_vegetable_lettuce_iceberg",
     "name": "Food Vegetable Lettuce Iceberg",
     "name_no_class": "Vegetable Lettuce Iceberg",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Lettuceiceberg",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[food_vegetable_lettuce_iceberg](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_lettuce_iceberg)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_lettuce_iceberg)<br>[Food Vegetable Lettuce Iceberg](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_lettuce_iceberg)<br><br>",
-    "markdown_short": "[food_vegetable_lettuce_iceberg](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_lettuce_iceberg)<br><br>"
+    "markdown_full": "[food_vegetable_lettuce_iceberg](none)<br>[](none)<br>[Food Vegetable Lettuce Iceberg](none)<br><br>",
+    "markdown_short": "[food_vegetable_lettuce_iceberg](none)<br><br>"
 }

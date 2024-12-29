@@ -50,8 +50,9 @@
     "id_no_type": "part_plate",
     "id_no_size": "plate",
     "oomp_key": "oomp_category_oobb_part_plate",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_plate",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_plate",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_plate",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_plate",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_plate",
     "directory": "parts/category_oobb_part_plate",
     "name": "Category Oobb Part Plate",
     "name_no_class": "Oobb Part Plate",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Plate",
     "description_or_color": "P ",
     "description_or_color_upper": "P ",
-    "markdown_full": "[category_oobb_part_plate](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_plate)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_plate)<br>[Category Oobb Part Plate](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_plate)<br><br>",
-    "markdown_short": "[category_oobb_part_plate](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_plate)<br><br>"
+    "markdown_full": "[category_oobb_part_plate](none)<br>[](none)<br>[Category Oobb Part Plate](none)<br><br>",
+    "markdown_short": "[category_oobb_part_plate](none)<br><br>"
 }

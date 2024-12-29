@@ -27,22 +27,22 @@ directory: parts/food_vegetable_avocado
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_avocado
 id: food_vegetable_avocado
 id_no_class: vegetable_avocado
 id_no_size: avocado
 id_no_type: avocado
 link_distributor_ocado: https://www.ocado.com/search?entry=517789011
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_avocado
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_avocado
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_avocado
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_avocado
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_vegetable_avocado](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_avocado)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_avocado)<br>[Food
-    Vegetable Avocado](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_avocado)<br><br>'
-markdown_short: '[food_vegetable_avocado](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_avocado)<br><br>'
+markdown_full: '[food_vegetable_avocado](none)<br>[](none)<br>[Food Vegetable Avocado](none)<br><br>'
+markdown_short: '[food_vegetable_avocado](none)<br><br>'
 md5: dc17badb565fe45ec0d49575d1d89784
 md5_10: dc17badb56
 md5_10_upper: DC17BADB56

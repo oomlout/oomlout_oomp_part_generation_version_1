@@ -50,8 +50,9 @@
     "id_no_type": "timing_belt",
     "id_no_size": "timing_belt",
     "oomp_key": "oomp_category_mechanical_timing_belt",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_belt",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_belt",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_belt",
     "directory": "parts/category_mechanical_timing_belt",
     "name": "Category Mechanical Timing Belt",
     "name_no_class": "Mechanical Timing Belt",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Timing Belt",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_mechanical_timing_belt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt)<br>[Category Mechanical Timing Belt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt)<br><br>",
-    "markdown_short": "[category_mechanical_timing_belt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt)<br><br>"
+    "markdown_full": "[category_mechanical_timing_belt](none)<br>[](none)<br>[Category Mechanical Timing Belt](none)<br><br>",
+    "markdown_short": "[category_mechanical_timing_belt](none)<br><br>"
 }

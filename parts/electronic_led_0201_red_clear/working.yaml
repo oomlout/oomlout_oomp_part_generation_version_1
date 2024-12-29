@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_lr_electronic_led_0201_red_clear
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_red_clear
 id: electronic_led_0201_red_clear
 id_no_class: led_0201_red_clear
 id_no_size: red_clear
 id_no_type: 0201_red_clear
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_red_clear
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_red_clear
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_red_clear
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_red_clear
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_0201_red_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_red_clear)<br>[lr](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_red_clear)<br>[Electronic
-    Led 0201 Red Clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_red_clear)<br><br>'
-markdown_short: '[electronic_led_0201_red_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_red_clear)<br><br>'
+markdown_full: '[electronic_led_0201_red_clear](none)<br>[lr](none)<br>[Electronic
+    Led 0201 Red Clear](none)<br><br>'
+markdown_short: '[electronic_led_0201_red_clear](none)<br><br>'
 md5: 37d259c48090afce39e402834222bc83
 md5_10: 37d259c480
 md5_10_upper: 37D259C480

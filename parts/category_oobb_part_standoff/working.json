@@ -50,8 +50,9 @@
     "id_no_type": "part_standoff",
     "id_no_size": "standoff",
     "oomp_key": "oomp_category_oobb_part_standoff",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_standoff",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_standoff",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_standoff",
     "directory": "parts/category_oobb_part_standoff",
     "name": "Category Oobb Part Standoff",
     "name_no_class": "Oobb Part Standoff",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Standoff",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_oobb_part_standoff](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff)<br>[Category Oobb Part Standoff](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff)<br><br>",
-    "markdown_short": "[category_oobb_part_standoff](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff)<br><br>"
+    "markdown_full": "[category_oobb_part_standoff](none)<br>[](none)<br>[Category Oobb Part Standoff](none)<br><br>",
+    "markdown_short": "[category_oobb_part_standoff](none)<br><br>"
 }

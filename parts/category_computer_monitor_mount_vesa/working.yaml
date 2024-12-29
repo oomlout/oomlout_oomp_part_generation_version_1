@@ -27,21 +27,22 @@ directory: parts/category_computer_monitor_mount_vesa
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_mount_vesa
 id: category_computer_monitor_mount_vesa
 id_no_class: computer_monitor_mount_vesa
 id_no_size: vesa
 id_no_type: monitor_mount_vesa
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_mount_vesa
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_mount_vesa
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_mount_vesa
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_mount_vesa
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_computer_monitor_mount_vesa](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_mount_vesa)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_mount_vesa)<br>[Category
-    Computer Monitor Mount Vesa](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_mount_vesa)<br><br>'
-markdown_short: '[category_computer_monitor_mount_vesa](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_mount_vesa)<br><br>'
+markdown_full: '[category_computer_monitor_mount_vesa](none)<br>[](none)<br>[Category
+    Computer Monitor Mount Vesa](none)<br><br>'
+markdown_short: '[category_computer_monitor_mount_vesa](none)<br><br>'
 md5: cebdbe8c3c017b08df2993e8d311f8b0
 md5_10: cebdbe8c3c
 md5_10_upper: CEBDBE8C3C

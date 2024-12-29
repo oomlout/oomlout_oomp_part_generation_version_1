@@ -47,8 +47,9 @@
     "id_no_type": "6000_series_6019_size_95_mm_id_145_mm_od_24_mm_depth",
     "id_no_size": "6019_size_95_mm_id_145_mm_od_24_mm_depth",
     "oomp_key": "oomp_hardware_bearing_6000_series_6019_size_95_mm_id_145_mm_od_24_mm_depth",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6019_size_95_mm_id_145_mm_od_24_mm_depth",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6019_size_95_mm_id_145_mm_od_24_mm_depth",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6000_series_6019_size_95_mm_id_145_mm_od_24_mm_depth",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6000_series_6019_size_95_mm_id_145_mm_od_24_mm_depth",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6000_series_6019_size_95_mm_id_145_mm_od_24_mm_depth",
     "directory": "parts/hardware_bearing_6000_series_6019_size_95_mm_id_145_mm_od_24_mm_depth",
     "name": "Hardware Bearing 6000 Series 6019 Size 95 Mm Id 145 Mm Od 24 Mm Depth",
     "name_no_class": "Bearing 6000 Series 6019 Size 95 Mm Id 145 Mm Od 24 Mm Depth",
@@ -86,6 +87,6 @@
     "name_no_size_short": "6019 Size 95 Mm Id 145 Mm Od 24 Mm Depth",
     "description_or_color": "69M5",
     "description_or_color_upper": "69M5",
-    "markdown_full": "[hardware_bearing_6000_series_6019_size_95_mm_id_145_mm_od_24_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6019_size_95_mm_id_145_mm_od_24_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6019_size_95_mm_id_145_mm_od_24_mm_depth)<br>[Hardware Bearing 6000 Series 6019 Size 95 Mm Id 145 Mm Od 24 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6019_size_95_mm_id_145_mm_od_24_mm_depth)<br><br>",
-    "markdown_short": "[hardware_bearing_6000_series_6019_size_95_mm_id_145_mm_od_24_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6019_size_95_mm_id_145_mm_od_24_mm_depth)<br><br>"
+    "markdown_full": "[hardware_bearing_6000_series_6019_size_95_mm_id_145_mm_od_24_mm_depth](none)<br>[](none)<br>[Hardware Bearing 6000 Series 6019 Size 95 Mm Id 145 Mm Od 24 Mm Depth](none)<br><br>",
+    "markdown_short": "[hardware_bearing_6000_series_6019_size_95_mm_id_145_mm_od_24_mm_depth](none)<br><br>"
 }

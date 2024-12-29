@@ -50,8 +50,9 @@
     "id_no_type": "webcam_external",
     "id_no_size": "external",
     "oomp_key": "oomp_category_computer_webcam_external",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_webcam_external",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_webcam_external",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_webcam_external",
     "directory": "parts/category_computer_webcam_external",
     "name": "Category Computer Webcam External",
     "name_no_class": "Computer Webcam External",
@@ -89,6 +90,6 @@
     "name_no_size_short": "External",
     "description_or_color": "E ",
     "description_or_color_upper": "E ",
-    "markdown_full": "[category_computer_webcam_external](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external)<br>[Category Computer Webcam External](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external)<br><br>",
-    "markdown_short": "[category_computer_webcam_external](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external)<br><br>"
+    "markdown_full": "[category_computer_webcam_external](none)<br>[](none)<br>[Category Computer Webcam External](none)<br><br>",
+    "markdown_short": "[category_computer_webcam_external](none)<br><br>"
 }

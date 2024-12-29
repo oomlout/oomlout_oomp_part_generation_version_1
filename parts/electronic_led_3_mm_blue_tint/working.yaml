@@ -26,22 +26,23 @@ directory: parts/electronic_led_3_mm_blue_tint
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_blue_tint
 id: electronic_led_3_mm_blue_tint
 id_no_class: led_3_mm_blue_tint
 id_no_size: blue_tint
 id_no_type: 3_mm_blue_tint
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_blue_tint
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_blue_tint
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_blue_tint
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_blue_tint
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_3_mm_blue_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_blue_tint)<br>[l3l](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_blue_tint)<br>[Electronic
-    Led 3 Mm Blue Tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_blue_tint)<br><br>'
-markdown_short: '[electronic_led_3_mm_blue_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_blue_tint)<br><br>'
+markdown_full: '[electronic_led_3_mm_blue_tint](none)<br>[l3l](none)<br>[Electronic
+    Led 3 Mm Blue Tint](none)<br><br>'
+markdown_short: '[electronic_led_3_mm_blue_tint](none)<br><br>'
 md5: 89f236bf3542b3d51cae07b06d8d7c9b
 md5_10: 89f236bf35
 md5_10_upper: 89F236BF35

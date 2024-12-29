@@ -48,8 +48,9 @@
     "id_no_type": "m8_cage",
     "id_no_size": "cage",
     "oomp_key": "oomp_hardware_nut_m8_cage",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_cage",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_cage",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m8_cage",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m8_cage",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m8_cage",
     "directory": "parts/hardware_nut_m8_cage",
     "name": "Hardware Nut M8 Cage",
     "name_no_class": "Nut M8 Cage",
@@ -87,6 +88,6 @@
     "name_no_size_short": "Cage",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_nut_m8_cage](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_cage)<br>[nu8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_cage)<br>[Hardware Nut M8 Cage](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_cage)<br><br>",
-    "markdown_short": "[hardware_nut_m8_cage](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_cage)<br><br>"
+    "markdown_full": "[hardware_nut_m8_cage](none)<br>[nu8](none)<br>[Hardware Nut M8 Cage](none)<br><br>",
+    "markdown_short": "[hardware_nut_m8_cage](none)<br><br>"
 }

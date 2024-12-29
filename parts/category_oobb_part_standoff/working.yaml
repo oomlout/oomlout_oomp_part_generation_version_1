@@ -27,21 +27,22 @@ directory: parts/category_oobb_part_standoff
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff
 id: category_oobb_part_standoff
 id_no_class: oobb_part_standoff
 id_no_size: standoff
 id_no_type: part_standoff
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_standoff
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_standoff
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_standoff
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part_standoff](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff)<br>[Category
-    Oobb Part Standoff](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff)<br><br>'
-markdown_short: '[category_oobb_part_standoff](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff)<br><br>'
+markdown_full: '[category_oobb_part_standoff](none)<br>[](none)<br>[Category Oobb
+    Part Standoff](none)<br><br>'
+markdown_short: '[category_oobb_part_standoff](none)<br><br>'
 md5: ddd9b9d0ec979960b2dc3c95af7c7867
 md5_10: ddd9b9d0ec
 md5_10_upper: DDD9B9D0EC

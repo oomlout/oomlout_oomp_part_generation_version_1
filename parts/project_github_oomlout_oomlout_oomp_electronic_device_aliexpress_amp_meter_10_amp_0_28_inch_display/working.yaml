@@ -27,24 +27,23 @@ directory: parts/project_github_oomlout_oomlout_oomp_electronic_device_aliexpres
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display
 id: project_github_oomlout_oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display
 id_no_class: github_oomlout_oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display
 id_no_size: oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display
 id_no_type: oomlout_oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display
-link_github: https://github.com/oomlout/oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display
-link_redirect: https://github.com/oomlout/oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display)<br>[Project
+markdown_full: '[project_github_oomlout_oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display](none)<br>[](none)<br>[Project
     Github Oomlout Oomlout Oomp Electronic Device Aliexpress Amp Meter 10 Amp 0 28
-    Inch Display](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display)<br><br>'
-markdown_short: '[project_github_oomlout_oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display)<br><br>'
+    Inch Display](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oomp_electronic_device_aliexpress_amp_meter_10_amp_0_28_inch_display](none)<br><br>'
 md5: aa08ada379f24a44fab5d9e3e87e0421
 md5_10: aa08ada379
 md5_10_upper: AA08ADA379

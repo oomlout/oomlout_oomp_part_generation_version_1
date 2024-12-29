@@ -50,8 +50,9 @@
     "id_no_type": "nut_m2_5",
     "id_no_size": "m2_5",
     "oomp_key": "oomp_category_hardware_nut_m2_5",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_nut_m2_5",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_nut_m2_5",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_nut_m2_5",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_nut_m2_5",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_nut_m2_5",
     "directory": "parts/category_hardware_nut_m2_5",
     "name": "Category Hardware Nut M2 5",
     "name_no_class": "Hardware Nut M2 5",
@@ -89,6 +90,6 @@
     "name_no_size_short": "M2 5",
     "description_or_color": "M ",
     "description_or_color_upper": "M ",
-    "markdown_full": "[category_hardware_nut_m2_5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_nut_m2_5)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_nut_m2_5)<br>[Category Hardware Nut M2 5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_nut_m2_5)<br><br>",
-    "markdown_short": "[category_hardware_nut_m2_5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_nut_m2_5)<br><br>"
+    "markdown_full": "[category_hardware_nut_m2_5](none)<br>[](none)<br>[Category Hardware Nut M2 5](none)<br><br>",
+    "markdown_short": "[category_hardware_nut_m2_5](none)<br><br>"
 }

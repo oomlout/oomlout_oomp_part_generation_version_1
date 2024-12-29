@@ -50,8 +50,9 @@
     "id_no_type": "coupler_flange_tote",
     "id_no_size": "flange_tote",
     "oomp_key": "oomp_category_mechanical_coupler_flange_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler_flange_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler_flange_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_flange_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_flange_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_flange_tote",
     "directory": "parts/category_mechanical_coupler_flange_tote",
     "name": "Category Mechanical Coupler Flange Tote",
     "name_no_class": "Mechanical Coupler Flange Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Flange Tote",
     "description_or_color": "F ",
     "description_or_color_upper": "F ",
-    "markdown_full": "[category_mechanical_coupler_flange_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler_flange_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler_flange_tote)<br>[Category Mechanical Coupler Flange Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler_flange_tote)<br><br>",
-    "markdown_short": "[category_mechanical_coupler_flange_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler_flange_tote)<br><br>"
+    "markdown_full": "[category_mechanical_coupler_flange_tote](none)<br>[](none)<br>[Category Mechanical Coupler Flange Tote](none)<br><br>",
+    "markdown_short": "[category_mechanical_coupler_flange_tote](none)<br><br>"
 }

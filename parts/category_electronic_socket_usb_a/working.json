@@ -50,8 +50,9 @@
     "id_no_type": "socket_usb_a",
     "id_no_size": "usb_a",
     "oomp_key": "oomp_category_electronic_socket_usb_a",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_a",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_a",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_a",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_a",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_a",
     "directory": "parts/category_electronic_socket_usb_a",
     "name": "Category Electronic Socket Usb A",
     "name_no_class": "Electronic Socket Usb A",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Usb A",
     "description_or_color": "U ",
     "description_or_color_upper": "U ",
-    "markdown_full": "[category_electronic_socket_usb_a](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_a)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_a)<br>[Category Electronic Socket Usb A](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_a)<br><br>",
-    "markdown_short": "[category_electronic_socket_usb_a](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_a)<br><br>"
+    "markdown_full": "[category_electronic_socket_usb_a](none)<br>[](none)<br>[Category Electronic Socket Usb A](none)<br><br>",
+    "markdown_short": "[category_electronic_socket_usb_a](none)<br><br>"
 }

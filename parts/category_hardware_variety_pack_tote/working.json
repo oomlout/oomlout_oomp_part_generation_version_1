@@ -50,8 +50,9 @@
     "id_no_type": "variety_pack_tote",
     "id_no_size": "tote",
     "oomp_key": "oomp_category_hardware_variety_pack_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_variety_pack_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_variety_pack_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_variety_pack_tote",
     "directory": "parts/category_hardware_variety_pack_tote",
     "name": "Category Hardware Variety Pack Tote",
     "name_no_class": "Hardware Variety Pack Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Tote",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_hardware_variety_pack_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack_tote)<br>[Category Hardware Variety Pack Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack_tote)<br><br>",
-    "markdown_short": "[category_hardware_variety_pack_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_variety_pack_tote)<br><br>"
+    "markdown_full": "[category_hardware_variety_pack_tote](none)<br>[](none)<br>[Category Hardware Variety Pack Tote](none)<br><br>",
+    "markdown_short": "[category_hardware_variety_pack_tote](none)<br><br>"
 }

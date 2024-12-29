@@ -27,21 +27,22 @@ directory: parts/category_electronic_crimp_bootlace_ferrule_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_tote
 id: category_electronic_crimp_bootlace_ferrule_tote
 id_no_class: electronic_crimp_bootlace_ferrule_tote
 id_no_size: tote
 id_no_type: crimp_bootlace_ferrule_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_crimp_bootlace_ferrule_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_tote)<br>[Category
-    Electronic Crimp Bootlace Ferrule Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_tote)<br><br>'
-markdown_short: '[category_electronic_crimp_bootlace_ferrule_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_tote)<br><br>'
+markdown_full: '[category_electronic_crimp_bootlace_ferrule_tote](none)<br>[](none)<br>[Category
+    Electronic Crimp Bootlace Ferrule Tote](none)<br><br>'
+markdown_short: '[category_electronic_crimp_bootlace_ferrule_tote](none)<br><br>'
 md5: f6fc67765cb6d132e16547e3d28b1683
 md5_10: f6fc67765c
 md5_10_upper: F6FC67765C

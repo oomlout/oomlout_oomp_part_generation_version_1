@@ -24,21 +24,22 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/three_d_printer_printing_low_quality_minute
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printing_low_quality_minute
 id: three_d_printer_printing_low_quality_minute
 id_no_class: printing_low_quality_minute
 id_no_size: minute
 id_no_type: low_quality_minute
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printing_low_quality_minute
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printing_low_quality_minute
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printing_low_quality_minute
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printing_low_quality_minute
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[three_d_printer_printing_low_quality_minute](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printing_low_quality_minute)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printing_low_quality_minute)<br>[Three
-    D Printer Printing Low Quality Minute](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printing_low_quality_minute)<br><br>'
-markdown_short: '[three_d_printer_printing_low_quality_minute](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printing_low_quality_minute)<br><br>'
+markdown_full: '[three_d_printer_printing_low_quality_minute](none)<br>[](none)<br>[Three
+    D Printer Printing Low Quality Minute](none)<br><br>'
+markdown_short: '[three_d_printer_printing_low_quality_minute](none)<br><br>'
 md5: 8e50a8f3f06d5f2e5bab7f48de913d1f
 md5_10: 8e50a8f3f0
 md5_10_upper: 8E50A8F3F0

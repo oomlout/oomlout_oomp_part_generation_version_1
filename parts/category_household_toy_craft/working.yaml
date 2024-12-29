@@ -27,21 +27,22 @@ directory: parts/category_household_toy_craft
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_craft
 id: category_household_toy_craft
 id_no_class: household_toy_craft
 id_no_size: craft
 id_no_type: craft
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_craft
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_craft
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_craft
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_craft
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_household_toy_craft](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_craft)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_craft)<br>[Category
-    Household Toy Craft](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_craft)<br><br>'
-markdown_short: '[category_household_toy_craft](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_craft)<br><br>'
+markdown_full: '[category_household_toy_craft](none)<br>[](none)<br>[Category Household
+    Toy Craft](none)<br><br>'
+markdown_short: '[category_household_toy_craft](none)<br><br>'
 md5: f7059f18eea32508d1a10fe3cef42f32
 md5_10: f7059f18ee
 md5_10_upper: F7059F18EE

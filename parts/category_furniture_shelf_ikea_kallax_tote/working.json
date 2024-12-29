@@ -50,8 +50,9 @@
     "id_no_type": "shelf_ikea_kallax_tote",
     "id_no_size": "ikea_kallax_tote",
     "oomp_key": "oomp_category_furniture_shelf_ikea_kallax_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_kallax_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_kallax_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_kallax_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_kallax_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_kallax_tote",
     "directory": "parts/category_furniture_shelf_ikea_kallax_tote",
     "name": "Category Furniture Shelf Ikea Kallax Tote",
     "name_no_class": "Furniture Shelf Ikea Kallax Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Ikea Kallax Tote",
     "description_or_color": "I ",
     "description_or_color_upper": "I ",
-    "markdown_full": "[category_furniture_shelf_ikea_kallax_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_kallax_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_kallax_tote)<br>[Category Furniture Shelf Ikea Kallax Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_kallax_tote)<br><br>",
-    "markdown_short": "[category_furniture_shelf_ikea_kallax_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_ikea_kallax_tote)<br><br>"
+    "markdown_full": "[category_furniture_shelf_ikea_kallax_tote](none)<br>[](none)<br>[Category Furniture Shelf Ikea Kallax Tote](none)<br><br>",
+    "markdown_short": "[category_furniture_shelf_ikea_kallax_tote](none)<br><br>"
 }

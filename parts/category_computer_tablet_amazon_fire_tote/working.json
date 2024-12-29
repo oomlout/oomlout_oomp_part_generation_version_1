@@ -50,8 +50,9 @@
     "id_no_type": "tablet_amazon_fire_tote",
     "id_no_size": "amazon_fire_tote",
     "oomp_key": "oomp_category_computer_tablet_amazon_fire_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_amazon_fire_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_amazon_fire_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_amazon_fire_tote",
     "directory": "parts/category_computer_tablet_amazon_fire_tote",
     "name": "Category Computer Tablet Amazon Fire Tote",
     "name_no_class": "Computer Tablet Amazon Fire Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Amazon Fire Tote",
     "description_or_color": "A ",
     "description_or_color_upper": "A ",
-    "markdown_full": "[category_computer_tablet_amazon_fire_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire_tote)<br>[Category Computer Tablet Amazon Fire Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire_tote)<br><br>",
-    "markdown_short": "[category_computer_tablet_amazon_fire_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire_tote)<br><br>"
+    "markdown_full": "[category_computer_tablet_amazon_fire_tote](none)<br>[](none)<br>[Category Computer Tablet Amazon Fire Tote](none)<br><br>",
+    "markdown_short": "[category_computer_tablet_amazon_fire_tote](none)<br><br>"
 }

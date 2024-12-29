@@ -50,8 +50,9 @@
     "id_no_type": "starch_popcorn_tote",
     "id_no_size": "popcorn_tote",
     "oomp_key": "oomp_category_food_starch_popcorn_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_popcorn_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_popcorn_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_popcorn_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_popcorn_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_popcorn_tote",
     "directory": "parts/category_food_starch_popcorn_tote",
     "name": "Category Food Starch Popcorn Tote",
     "name_no_class": "Food Starch Popcorn Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Popcorn Tote",
     "description_or_color": "P ",
     "description_or_color_upper": "P ",
-    "markdown_full": "[category_food_starch_popcorn_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_popcorn_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_popcorn_tote)<br>[Category Food Starch Popcorn Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_popcorn_tote)<br><br>",
-    "markdown_short": "[category_food_starch_popcorn_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_popcorn_tote)<br><br>"
+    "markdown_full": "[category_food_starch_popcorn_tote](none)<br>[](none)<br>[Category Food Starch Popcorn Tote](none)<br><br>",
+    "markdown_short": "[category_food_starch_popcorn_tote](none)<br><br>"
 }

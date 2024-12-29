@@ -50,8 +50,9 @@
     "id_no_type": "vacuum_cleaner_dyson_v8_cubby_box",
     "id_no_size": "dyson_v8_cubby_box",
     "oomp_key": "oomp_category_appliance_vacuum_cleaner_dyson_v8_cubby_box",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v8_cubby_box",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v8_cubby_box",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v8_cubby_box",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v8_cubby_box",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v8_cubby_box",
     "directory": "parts/category_appliance_vacuum_cleaner_dyson_v8_cubby_box",
     "name": "Category Appliance Vacuum Cleaner Dyson V8 Cubby Box",
     "name_no_class": "Appliance Vacuum Cleaner Dyson V8 Cubby Box",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Dyson V8 Cubby Box",
     "description_or_color": "D ",
     "description_or_color_upper": "D ",
-    "markdown_full": "[category_appliance_vacuum_cleaner_dyson_v8_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v8_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v8_cubby_box)<br>[Category Appliance Vacuum Cleaner Dyson V8 Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v8_cubby_box)<br><br>",
-    "markdown_short": "[category_appliance_vacuum_cleaner_dyson_v8_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v8_cubby_box)<br><br>"
+    "markdown_full": "[category_appliance_vacuum_cleaner_dyson_v8_cubby_box](none)<br>[](none)<br>[Category Appliance Vacuum Cleaner Dyson V8 Cubby Box](none)<br><br>",
+    "markdown_short": "[category_appliance_vacuum_cleaner_dyson_v8_cubby_box](none)<br><br>"
 }

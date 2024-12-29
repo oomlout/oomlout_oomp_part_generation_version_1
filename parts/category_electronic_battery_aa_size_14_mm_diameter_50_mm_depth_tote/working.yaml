@@ -27,21 +27,22 @@ directory: parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_tote
 id: category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_tote
 id_no_class: electronic_battery_aa_size_14_mm_diameter_50_mm_depth_tote
 id_no_size: aa_size_14_mm_diameter_50_mm_depth_tote
 id_no_type: battery_aa_size_14_mm_diameter_50_mm_depth_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_tote)<br>[Category
-    Electronic Battery Aa Size 14 Mm Diameter 50 Mm Depth Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_tote)<br><br>'
-markdown_short: '[category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_tote)<br><br>'
+markdown_full: '[category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_tote](none)<br>[](none)<br>[Category
+    Electronic Battery Aa Size 14 Mm Diameter 50 Mm Depth Tote](none)<br><br>'
+markdown_short: '[category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_tote](none)<br><br>'
 md5: a4e825097f71d74eba1cfdb382c8c206
 md5_10: a4e825097f
 md5_10_upper: A4E825097F

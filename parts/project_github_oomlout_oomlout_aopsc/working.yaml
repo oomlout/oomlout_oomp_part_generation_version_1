@@ -26,23 +26,22 @@ directory: parts/project_github_oomlout_oomlout_aopsc
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_aopsc
 id: project_github_oomlout_oomlout_aopsc
 id_no_class: github_oomlout_oomlout_aopsc
 id_no_size: aopsc
 id_no_type: oomlout_oomlout_aopsc
-link_github: https://github.com/oomlout/oomlout-AOPSC
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_aopsc
-link_redirect: https://github.com/oomlout/oomlout-AOPSC
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_aopsc
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_aopsc
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_aopsc
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_oomlout_aopsc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_aopsc)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_aopsc)<br>[Project
-    Github Oomlout Oomlout Aopsc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_aopsc)<br><br>'
-markdown_short: '[project_github_oomlout_oomlout_aopsc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_aopsc)<br><br>'
+markdown_full: '[project_github_oomlout_oomlout_aopsc](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Aopsc](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_aopsc](none)<br><br>'
 md5: 9181cb190100719aa95c801b5396a1c1
 md5_10: 9181cb1901
 md5_10_upper: 9181CB1901

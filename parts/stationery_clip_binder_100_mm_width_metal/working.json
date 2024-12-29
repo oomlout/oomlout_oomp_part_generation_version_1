@@ -49,8 +49,9 @@
     "id_no_type": "100_mm_width_metal",
     "id_no_size": "metal",
     "oomp_key": "oomp_stationery_clip_binder_100_mm_width_metal",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal",
     "directory": "parts/stationery_clip_binder_100_mm_width_metal",
     "name": "Stationery Clip Binder 100 Mm Width Metal",
     "name_no_class": "Clip Binder 100 Mm Width Metal",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Metal",
     "description_or_color": "M ",
     "description_or_color_upper": "M ",
-    "markdown_full": "[stationery_clip_binder_100_mm_width_metal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal)<br>[Stationery Clip Binder 100 Mm Width Metal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal)<br><br>",
-    "markdown_short": "[stationery_clip_binder_100_mm_width_metal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal)<br><br>"
+    "markdown_full": "[stationery_clip_binder_100_mm_width_metal](none)<br>[](none)<br>[Stationery Clip Binder 100 Mm Width Metal](none)<br><br>",
+    "markdown_short": "[stationery_clip_binder_100_mm_width_metal](none)<br><br>"
 }

@@ -50,8 +50,9 @@
     "id_no_type": "pendant",
     "id_no_size": "pendant",
     "oomp_key": "oomp_category_lighting_pendant",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant",
     "directory": "parts/category_lighting_pendant",
     "name": "Category Lighting Pendant",
     "name_no_class": "Lighting Pendant",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Pendant",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_lighting_pendant](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant)<br>[Category Lighting Pendant](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant)<br><br>",
-    "markdown_short": "[category_lighting_pendant](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant)<br><br>"
+    "markdown_full": "[category_lighting_pendant](none)<br>[](none)<br>[Category Lighting Pendant](none)<br><br>",
+    "markdown_short": "[category_lighting_pendant](none)<br><br>"
 }

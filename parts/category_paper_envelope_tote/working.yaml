@@ -27,21 +27,22 @@ directory: parts/category_paper_envelope_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_envelope_tote
 id: category_paper_envelope_tote
 id_no_class: paper_envelope_tote
 id_no_size: tote
 id_no_type: envelope_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_envelope_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_paper_envelope_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_envelope_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_envelope_tote)<br>[Category
-    Paper Envelope Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_envelope_tote)<br><br>'
-markdown_short: '[category_paper_envelope_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_envelope_tote)<br><br>'
+markdown_full: '[category_paper_envelope_tote](none)<br>[](none)<br>[Category Paper
+    Envelope Tote](none)<br><br>'
+markdown_short: '[category_paper_envelope_tote](none)<br><br>'
 md5: b025af1aa16a2a54f1ef1c7eeac66392
 md5_10: b025af1aa1
 md5_10_upper: B025AF1AA1

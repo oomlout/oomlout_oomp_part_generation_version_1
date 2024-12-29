@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: m3_radius_name
+description_extra_capital: M3 Radius Name
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: M3_RADIUS_NAME
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_threaded_insert_m3_radius_name
+distributors: []
+id: oobb_part_threaded_insert_m3_radius_name
+id_no_class: part_threaded_insert_m3_radius_name
+id_no_size: m3_radius_name
+id_no_type: threaded_insert_m3_radius_name
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_threaded_insert_m3_radius_name
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_threaded_insert_m3_radius_name
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_threaded_insert_m3_radius_name
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_threaded_insert_m3_radius_name](none)<br>[](none)<br>[Oobb
+    Part Threaded Insert M3 Radius Name](none)<br><br>'
+markdown_short: '[oobb_part_threaded_insert_m3_radius_name](none)<br><br>'
+md5: 043f754cf16236e17f18d51813c7cd12
+md5_10: 043f754cf1
+md5_10_upper: 043F754CF1
+md5_5: 043f7
+md5_5_upper: 043F7
+md5_6: 043f75
+md5_6_alpha: 5yt1
+md5_6_alpha_upper: 5YT1
+md5_6_upper: 043F75
+name: Oobb Part Threaded Insert M3 Radius Name
+name_no_class: Part Threaded Insert M3 Radius Name
+name_no_size: M3 Radius Name
+name_no_size_short: M3 Radius Name
+name_no_type: Threaded Insert M3 Radius Name
+oomp_key: oomp_oobb_part_threaded_insert_m3_radius_name
+oomp_word: wink horse ghost
+oomp_word_emoji: ':wink: :horse: :ghost:'
+oomp_word_emoji_list:
+- ':wink:'
+- ':horse:'
+- ':ghost:'
+oomp_word_list:
+- wink
+- horse
+- ghost
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: threaded_insert
+size_capital: Threaded Insert
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: THREADED_INSERT
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

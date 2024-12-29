@@ -1,0 +1,93 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: electronic_potentiometer_stick_single_axis_16_mm_arm_extra
+description_extra_capital: Electronic Potentiometer Stick Single Axis 16 mm Arm Extra
+description_extra_first_letter: e
+description_extra_first_letter_upper: E
+description_extra_upper: ELECTRONIC_POTENTIOMETER_STICK_SINGLE_AXIS_16_MM_ARM_EXTRA
+description_main: 3_width_1_height_9_mm_depth
+description_main_capital: 3 Width 1 Height 9 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_1_HEIGHT_9_MM_DEPTH
+description_only_numbers: '319'
+description_only_numbers_short: '319'
+description_or_color: '319'
+description_or_color_upper: '319'
+directory: parts/oobb_part_holder_3_width_1_height_9_mm_depth_electronic_potentiometer_stick_single_axis_16_mm_arm_extra
+distributors: []
+id: oobb_part_holder_3_width_1_height_9_mm_depth_electronic_potentiometer_stick_single_axis_16_mm_arm_extra
+id_no_class: part_holder_3_width_1_height_9_mm_depth_electronic_potentiometer_stick_single_axis_16_mm_arm_extra
+id_no_size: 3_width_1_height_9_mm_depth_electronic_potentiometer_stick_single_axis_16_mm_arm_extra
+id_no_type: holder_3_width_1_height_9_mm_depth_electronic_potentiometer_stick_single_axis_16_mm_arm_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_3_width_1_height_9_mm_depth_electronic_potentiometer_stick_single_axis_16_mm_arm_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_3_width_1_height_9_mm_depth_electronic_potentiometer_stick_single_axis_16_mm_arm_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_3_width_1_height_9_mm_depth_electronic_potentiometer_stick_single_axis_16_mm_arm_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_holder_3_width_1_height_9_mm_depth_electronic_potentiometer_stick_single_axis_16_mm_arm_extra](none)<br>[](none)<br>[Oobb
+    Part Holder 3 Width 1 Height 9 Mm Depth Electronic Potentiometer Stick Single
+    Axis 16 Mm Arm Extra](none)<br><br>'
+markdown_short: '[oobb_part_holder_3_width_1_height_9_mm_depth_electronic_potentiometer_stick_single_axis_16_mm_arm_extra](none)<br><br>'
+md5: 4ba2c8c962db4f800d087eb6f071a167
+md5_10: 4ba2c8c962
+md5_10_upper: 4BA2C8C962
+md5_5: 4ba2c
+md5_5_upper: 4BA2C
+md5_6: 4ba2c8
+md5_6_alpha: 2y8qw
+md5_6_alpha_upper: 2Y8QW
+md5_6_upper: 4BA2C8
+name: Oobb Part Holder 3 Width 1 Height 9 Mm Depth Electronic Potentiometer Stick
+    Single Axis 16 Mm Arm Extra
+name_no_class: Part Holder 3 Width 1 Height 9 Mm Depth Electronic Potentiometer Stick
+    Single Axis 16 Mm Arm Extra
+name_no_size: 3 Width 1 Height 9 Mm Depth Electronic Potentiometer Stick Single Axis
+    16 Mm Arm Extra
+name_no_size_short: 3 Width 1 Height 9 Mm Depth Electronic Potentiometer Stick Single
+    Axis 16 Mm Arm Extra
+name_no_type: Holder 3 Width 1 Height 9 Mm Depth Electronic Potentiometer Stick Single
+    Axis 16 Mm Arm Extra
+oomp_key: oomp_oobb_part_holder_3_width_1_height_9_mm_depth_electronic_potentiometer_stick_single_axis_16_mm_arm_extra
+oomp_word: penguin violin apple
+oomp_word_emoji: ':penguin: :violin: :apple:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':violin:'
+- ':apple:'
+oomp_word_list:
+- penguin
+- violin
+- apple
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: holder
+size_capital: Holder
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOLDER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

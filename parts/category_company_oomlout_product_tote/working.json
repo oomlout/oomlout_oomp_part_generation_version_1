@@ -50,8 +50,9 @@
     "id_no_type": "product_tote",
     "id_no_size": "tote",
     "oomp_key": "oomp_category_company_oomlout_product_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product_tote",
     "directory": "parts/category_company_oomlout_product_tote",
     "name": "Category Company Oomlout Product Tote",
     "name_no_class": "Company Oomlout Product Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Tote",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_company_oomlout_product_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product_tote)<br>[Category Company Oomlout Product Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product_tote)<br><br>",
-    "markdown_short": "[category_company_oomlout_product_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product_tote)<br><br>"
+    "markdown_full": "[category_company_oomlout_product_tote](none)<br>[](none)<br>[Category Company Oomlout Product Tote](none)<br><br>",
+    "markdown_short": "[category_company_oomlout_product_tote](none)<br><br>"
 }

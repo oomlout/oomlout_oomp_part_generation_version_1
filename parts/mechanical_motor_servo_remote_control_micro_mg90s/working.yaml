@@ -24,21 +24,22 @@ description_or_color: '90'
 description_or_color_upper: '90'
 directory: parts/mechanical_motor_servo_remote_control_micro_mg90s
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_mg90s
 id: mechanical_motor_servo_remote_control_micro_mg90s
 id_no_class: motor_servo_remote_control_micro_mg90s
 id_no_size: mg90s
 id_no_type: micro_mg90s
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_mg90s
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_mg90s
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_mg90s
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_mg90s
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[mechanical_motor_servo_remote_control_micro_mg90s](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_mg90s)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_mg90s)<br>[Mechanical
-    Motor Servo Remote Control Micro Mg90S](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_mg90s)<br><br>'
-markdown_short: '[mechanical_motor_servo_remote_control_micro_mg90s](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_mg90s)<br><br>'
+markdown_full: '[mechanical_motor_servo_remote_control_micro_mg90s](none)<br>[](none)<br>[Mechanical
+    Motor Servo Remote Control Micro Mg90S](none)<br><br>'
+markdown_short: '[mechanical_motor_servo_remote_control_micro_mg90s](none)<br><br>'
 md5: 07abb3e612634fb783a7feecb1ec0c98
 md5_10: 07abb3e612
 md5_10_upper: 07ABB3E612

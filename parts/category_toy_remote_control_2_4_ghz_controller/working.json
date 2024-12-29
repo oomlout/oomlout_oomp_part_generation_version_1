@@ -50,8 +50,9 @@
     "id_no_type": "remote_control_2_4_ghz_controller",
     "id_no_size": "2_4_ghz_controller",
     "oomp_key": "oomp_category_toy_remote_control_2_4_ghz_controller",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller",
     "directory": "parts/category_toy_remote_control_2_4_ghz_controller",
     "name": "Category Toy Remote Control 2 4 Ghz Controller",
     "name_no_class": "Toy Remote Control 2 4 Ghz Controller",
@@ -89,6 +90,6 @@
     "name_no_size_short": "2 4 Ghz Controller",
     "description_or_color": "2 ",
     "description_or_color_upper": "2 ",
-    "markdown_full": "[category_toy_remote_control_2_4_ghz_controller](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller)<br>[Category Toy Remote Control 2 4 Ghz Controller](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller)<br><br>",
-    "markdown_short": "[category_toy_remote_control_2_4_ghz_controller](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller)<br><br>"
+    "markdown_full": "[category_toy_remote_control_2_4_ghz_controller](none)<br>[](none)<br>[Category Toy Remote Control 2 4 Ghz Controller](none)<br><br>",
+    "markdown_short": "[category_toy_remote_control_2_4_ghz_controller](none)<br><br>"
 }

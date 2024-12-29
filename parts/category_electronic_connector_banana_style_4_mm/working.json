@@ -50,8 +50,9 @@
     "id_no_type": "connector_banana_style_4_mm",
     "id_no_size": "banana_style_4_mm",
     "oomp_key": "oomp_category_electronic_connector_banana_style_4_mm",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_banana_style_4_mm",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_banana_style_4_mm",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_banana_style_4_mm",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_banana_style_4_mm",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_banana_style_4_mm",
     "directory": "parts/category_electronic_connector_banana_style_4_mm",
     "name": "Category Electronic Connector Banana Style 4 Mm",
     "name_no_class": "Electronic Connector Banana Style 4 Mm",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Banana Style 4 Mm",
     "description_or_color": "B ",
     "description_or_color_upper": "B ",
-    "markdown_full": "[category_electronic_connector_banana_style_4_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_banana_style_4_mm)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_banana_style_4_mm)<br>[Category Electronic Connector Banana Style 4 Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_banana_style_4_mm)<br><br>",
-    "markdown_short": "[category_electronic_connector_banana_style_4_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_banana_style_4_mm)<br><br>"
+    "markdown_full": "[category_electronic_connector_banana_style_4_mm](none)<br>[](none)<br>[Category Electronic Connector Banana Style 4 Mm](none)<br><br>",
+    "markdown_short": "[category_electronic_connector_banana_style_4_mm](none)<br><br>"
 }

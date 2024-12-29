@@ -46,8 +46,9 @@
     "id_no_type": "filament_generic_ptfe_tube",
     "id_no_size": "generic_ptfe_tube",
     "oomp_key": "oomp_three_d_printer_part_filament_generic_ptfe_tube",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube",
     "directory": "parts/three_d_printer_part_filament_generic_ptfe_tube",
     "name": "Three D Printer Part Filament Generic Ptfe Tube",
     "name_no_class": "Part Filament Generic Ptfe Tube",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Generic Ptfe Tube",
     "description_or_color": "G ",
     "description_or_color_upper": "G ",
-    "markdown_full": "[three_d_printer_part_filament_generic_ptfe_tube](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube)<br>[Three D Printer Part Filament Generic Ptfe Tube](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube)<br><br>",
-    "markdown_short": "[three_d_printer_part_filament_generic_ptfe_tube](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube)<br><br>"
+    "markdown_full": "[three_d_printer_part_filament_generic_ptfe_tube](none)<br>[](none)<br>[Three D Printer Part Filament Generic Ptfe Tube](none)<br><br>",
+    "markdown_short": "[three_d_printer_part_filament_generic_ptfe_tube](none)<br><br>"
 }

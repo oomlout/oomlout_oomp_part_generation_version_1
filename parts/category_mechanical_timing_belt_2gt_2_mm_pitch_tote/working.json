@@ -50,8 +50,9 @@
     "id_no_type": "timing_belt_2gt_2_mm_pitch_tote",
     "id_no_size": "2gt_2_mm_pitch_tote",
     "oomp_key": "oomp_category_mechanical_timing_belt_2gt_2_mm_pitch_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch_tote",
     "directory": "parts/category_mechanical_timing_belt_2gt_2_mm_pitch_tote",
     "name": "Category Mechanical Timing Belt 2Gt 2 Mm Pitch Tote",
     "name_no_class": "Mechanical Timing Belt 2Gt 2 Mm Pitch Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "2Gt 2 Mm Pitch Tote",
     "description_or_color": "2 ",
     "description_or_color_upper": "2 ",
-    "markdown_full": "[category_mechanical_timing_belt_2gt_2_mm_pitch_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch_tote)<br>[Category Mechanical Timing Belt 2Gt 2 Mm Pitch Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch_tote)<br><br>",
-    "markdown_short": "[category_mechanical_timing_belt_2gt_2_mm_pitch_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_timing_belt_2gt_2_mm_pitch_tote)<br><br>"
+    "markdown_full": "[category_mechanical_timing_belt_2gt_2_mm_pitch_tote](none)<br>[](none)<br>[Category Mechanical Timing Belt 2Gt 2 Mm Pitch Tote](none)<br><br>",
+    "markdown_short": "[category_mechanical_timing_belt_2gt_2_mm_pitch_tote](none)<br><br>"
 }

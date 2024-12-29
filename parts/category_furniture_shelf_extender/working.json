@@ -50,8 +50,9 @@
     "id_no_type": "shelf_extender",
     "id_no_size": "shelf_extender",
     "oomp_key": "oomp_category_furniture_shelf_extender",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_extender",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_extender",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_extender",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_extender",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_extender",
     "directory": "parts/category_furniture_shelf_extender",
     "name": "Category Furniture Shelf Extender",
     "name_no_class": "Furniture Shelf Extender",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Shelf Extender",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_furniture_shelf_extender](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_extender)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_extender)<br>[Category Furniture Shelf Extender](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_extender)<br><br>",
-    "markdown_short": "[category_furniture_shelf_extender](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_shelf_extender)<br><br>"
+    "markdown_full": "[category_furniture_shelf_extender](none)<br>[](none)<br>[Category Furniture Shelf Extender](none)<br><br>",
+    "markdown_short": "[category_furniture_shelf_extender](none)<br><br>"
 }

@@ -50,8 +50,9 @@
     "id_no_type": "resistor_quarter_watt_through_hole_tote",
     "id_no_size": "quarter_watt_through_hole_tote",
     "oomp_key": "oomp_category_electronic_resistor_quarter_watt_through_hole_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_tote",
     "directory": "parts/category_electronic_resistor_quarter_watt_through_hole_tote",
     "name": "Category Electronic Resistor Quarter Watt Through Hole Tote",
     "name_no_class": "Electronic Resistor Quarter Watt Through Hole Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Quarter Watt Through Hole Tote",
     "description_or_color": "Q ",
     "description_or_color_upper": "Q ",
-    "markdown_full": "[category_electronic_resistor_quarter_watt_through_hole_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_tote)<br>[Category Electronic Resistor Quarter Watt Through Hole Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_tote)<br><br>",
-    "markdown_short": "[category_electronic_resistor_quarter_watt_through_hole_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_tote)<br><br>"
+    "markdown_full": "[category_electronic_resistor_quarter_watt_through_hole_tote](none)<br>[](none)<br>[Category Electronic Resistor Quarter Watt Through Hole Tote](none)<br><br>",
+    "markdown_short": "[category_electronic_resistor_quarter_watt_through_hole_tote](none)<br><br>"
 }

@@ -50,8 +50,9 @@
     "id_no_type": "bin_bag_50_micron_thickness",
     "id_no_size": "50_micron_thickness",
     "oomp_key": "oomp_category_storage_bin_bag_50_micron_thickness",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_bin_bag_50_micron_thickness",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_bin_bag_50_micron_thickness",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_bin_bag_50_micron_thickness",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_bin_bag_50_micron_thickness",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_bin_bag_50_micron_thickness",
     "directory": "parts/category_storage_bin_bag_50_micron_thickness",
     "name": "Category Storage Bin Bag 50 Micron Thickness",
     "name_no_class": "Storage Bin Bag 50 Micron Thickness",
@@ -89,6 +90,6 @@
     "name_no_size_short": "50 Micron Thickness",
     "description_or_color": "5 ",
     "description_or_color_upper": "5 ",
-    "markdown_full": "[category_storage_bin_bag_50_micron_thickness](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_bin_bag_50_micron_thickness)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_bin_bag_50_micron_thickness)<br>[Category Storage Bin Bag 50 Micron Thickness](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_bin_bag_50_micron_thickness)<br><br>",
-    "markdown_short": "[category_storage_bin_bag_50_micron_thickness](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_storage_bin_bag_50_micron_thickness)<br><br>"
+    "markdown_full": "[category_storage_bin_bag_50_micron_thickness](none)<br>[](none)<br>[Category Storage Bin Bag 50 Micron Thickness](none)<br><br>",
+    "markdown_short": "[category_storage_bin_bag_50_micron_thickness](none)<br><br>"
 }

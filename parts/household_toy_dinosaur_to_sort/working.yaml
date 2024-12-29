@@ -26,21 +26,22 @@ directory: parts/household_toy_dinosaur_to_sort
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_dinosaur_to_sort
 id: household_toy_dinosaur_to_sort
 id_no_class: dinosaur_to_sort
 id_no_size: tosort
 id_no_type: to_sort
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_dinosaur_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/household_toy_dinosaur_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/household_toy_dinosaur_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/household_toy_dinosaur_to_sort
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[household_toy_dinosaur_to_sort](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_dinosaur_to_sort)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_dinosaur_to_sort)<br>[Household
-    Toy Dinosaur To Sort](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_dinosaur_to_sort)<br><br>'
-markdown_short: '[household_toy_dinosaur_to_sort](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_dinosaur_to_sort)<br><br>'
+markdown_full: '[household_toy_dinosaur_to_sort](none)<br>[](none)<br>[Household Toy
+    Dinosaur To Sort](none)<br><br>'
+markdown_short: '[household_toy_dinosaur_to_sort](none)<br><br>'
 md5: 405d9624f3cb61cf024f2f057e2b82b7
 md5_10: 405d9624f3
 md5_10_upper: 405D9624F3

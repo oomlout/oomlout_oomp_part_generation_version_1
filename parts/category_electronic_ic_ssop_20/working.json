@@ -50,8 +50,9 @@
     "id_no_type": "ic_ssop_20",
     "id_no_size": "ssop_20",
     "oomp_key": "oomp_category_electronic_ic_ssop_20",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_ssop_20",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_ssop_20",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_ssop_20",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_ssop_20",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_ssop_20",
     "directory": "parts/category_electronic_ic_ssop_20",
     "name": "Category Electronic Ic Ssop 20",
     "name_no_class": "Electronic Ic Ssop 20",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Ssop 20",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_electronic_ic_ssop_20](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_ssop_20)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_ssop_20)<br>[Category Electronic Ic Ssop 20](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_ssop_20)<br><br>",
-    "markdown_short": "[category_electronic_ic_ssop_20](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_ssop_20)<br><br>"
+    "markdown_full": "[category_electronic_ic_ssop_20](none)<br>[](none)<br>[Category Electronic Ic Ssop 20](none)<br><br>",
+    "markdown_short": "[category_electronic_ic_ssop_20](none)<br><br>"
 }

@@ -51,8 +51,9 @@
     "id_no_type": "wago_221_3_pole_wago_221_413",
     "id_no_size": "3_pole_413",
     "oomp_key": "oomp_electronic_connector_wago_221_3_pole_wago_221_413",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413",
     "directory": "parts/electronic_connector_wago_221_3_pole_wago_221_413",
     "name": "Electronic Connector Wago 221 3 Pole Wago 221 413",
     "name_no_class": "Connector Wago 221 3 Pole Wago 221 413",
@@ -90,6 +91,6 @@
     "name_no_size_short": "3 Pole 413",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[electronic_connector_wago_221_3_pole_wago_221_413](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413)<br>[conw221](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413)<br>[Electronic Connector Wago 221 3 Pole Wago 221 413](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413)<br><br>",
-    "markdown_short": "[electronic_connector_wago_221_3_pole_wago_221_413](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413)<br><br>"
+    "markdown_full": "[electronic_connector_wago_221_3_pole_wago_221_413](none)<br>[conw221](none)<br>[Electronic Connector Wago 221 3 Pole Wago 221 413](none)<br><br>",
+    "markdown_short": "[electronic_connector_wago_221_3_pole_wago_221_413](none)<br><br>"
 }

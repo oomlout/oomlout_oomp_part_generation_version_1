@@ -27,21 +27,22 @@ directory: parts/category_food_condiment_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment_tote
 id: category_food_condiment_tote
 id_no_class: food_condiment_tote
 id_no_size: tote
 id_no_type: condiment_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_condiment_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_condiment_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_condiment_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food_condiment_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment_tote)<br>[Category
-    Food Condiment Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment_tote)<br><br>'
-markdown_short: '[category_food_condiment_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment_tote)<br><br>'
+markdown_full: '[category_food_condiment_tote](none)<br>[](none)<br>[Category Food
+    Condiment Tote](none)<br><br>'
+markdown_short: '[category_food_condiment_tote](none)<br><br>'
 md5: 2c93b812f97f7ce43a9b7ecaf492b189
 md5_10: 2c93b812f9
 md5_10_upper: 2C93B812F9

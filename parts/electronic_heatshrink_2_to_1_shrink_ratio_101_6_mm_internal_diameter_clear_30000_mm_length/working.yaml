@@ -24,22 +24,23 @@ description_or_color: C30k
 description_or_color_upper: C30K
 directory: parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_clear_30000_mm_length
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_clear_30000_mm_length
 id: electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_clear_30000_mm_length
 id_no_class: heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_clear_30000_mm_length
 id_no_size: clear_30000_mm_length
 id_no_type: 101_6_mm_internal_diameter_clear_30000_mm_length
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_clear_30000_mm_length
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_clear_30000_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_clear_30000_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_clear_30000_mm_length
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_clear_30000_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_clear_30000_mm_length)<br>[c](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_clear_30000_mm_length)<br>[Electronic
-    Heatshrink 2 To 1 Shrink Ratio 101 6 Mm Internal Diameter Clear 30000 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_clear_30000_mm_length)<br><br>'
-markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_clear_30000_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_clear_30000_mm_length)<br><br>'
+markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_clear_30000_mm_length](none)<br>[c](none)<br>[Electronic
+    Heatshrink 2 To 1 Shrink Ratio 101 6 Mm Internal Diameter Clear 30000 Mm Length](none)<br><br>'
+markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_clear_30000_mm_length](none)<br><br>'
 md5: 5d5d79cd5caac69b9f69af4712c1ccf5
 md5_10: 5d5d79cd5c
 md5_10_upper: 5D5D79CD5C

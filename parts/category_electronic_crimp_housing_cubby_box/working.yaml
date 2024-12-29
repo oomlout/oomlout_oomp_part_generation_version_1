@@ -27,21 +27,22 @@ directory: parts/category_electronic_crimp_housing_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_cubby_box
 id: category_electronic_crimp_housing_cubby_box
 id_no_class: electronic_crimp_housing_cubby_box
 id_no_size: cubby_box
 id_no_type: crimp_housing_cubby_box
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_crimp_housing_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_cubby_box)<br>[Category
-    Electronic Crimp Housing Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_cubby_box)<br><br>'
-markdown_short: '[category_electronic_crimp_housing_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_cubby_box)<br><br>'
+markdown_full: '[category_electronic_crimp_housing_cubby_box](none)<br>[](none)<br>[Category
+    Electronic Crimp Housing Cubby Box](none)<br><br>'
+markdown_short: '[category_electronic_crimp_housing_cubby_box](none)<br><br>'
 md5: a39c4f97841996eca8ac6b124b4317a1
 md5_10: a39c4f9784
 md5_10_upper: A39C4F9784

@@ -27,21 +27,22 @@ directory: parts/category_tool_vibratory_bowl_tabletop
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop
 id: category_tool_vibratory_bowl_tabletop
 id_no_class: tool_vibratory_bowl_tabletop
 id_no_size: tabletop
 id_no_type: vibratory_bowl_tabletop
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_tool_vibratory_bowl_tabletop](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop)<br>[Category
-    Tool Vibratory Bowl Tabletop](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop)<br><br>'
-markdown_short: '[category_tool_vibratory_bowl_tabletop](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop)<br><br>'
+markdown_full: '[category_tool_vibratory_bowl_tabletop](none)<br>[](none)<br>[Category
+    Tool Vibratory Bowl Tabletop](none)<br><br>'
+markdown_short: '[category_tool_vibratory_bowl_tabletop](none)<br><br>'
 md5: 79b47b345d9a6cc6a237741e3d4d4003
 md5_10: 79b47b345d
 md5_10_upper: 79B47B345D

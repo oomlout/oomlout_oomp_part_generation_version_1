@@ -27,21 +27,22 @@ directory: parts/category_oobb_part_bearing_plate
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_plate
 id: category_oobb_part_bearing_plate
 id_no_class: oobb_part_bearing_plate
 id_no_size: bearing_plate
 id_no_type: part_bearing_plate
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_plate
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing_plate
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing_plate
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing_plate
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part_bearing_plate](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_plate)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_plate)<br>[Category
-    Oobb Part Bearing Plate](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_plate)<br><br>'
-markdown_short: '[category_oobb_part_bearing_plate](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bearing_plate)<br><br>'
+markdown_full: '[category_oobb_part_bearing_plate](none)<br>[](none)<br>[Category
+    Oobb Part Bearing Plate](none)<br><br>'
+markdown_short: '[category_oobb_part_bearing_plate](none)<br><br>'
 md5: ed26f1df66ba9d6f762f7de5bd528b87
 md5_10: ed26f1df66
 md5_10_upper: ED26F1DF66

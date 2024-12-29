@@ -27,21 +27,22 @@ directory: parts/category_toy_mechano_car_remote_control
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control
 id: category_toy_mechano_car_remote_control
 id_no_class: toy_mechano_car_remote_control
 id_no_size: car_remote_control
 id_no_type: mechano_car_remote_control
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_mechano_car_remote_control
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_mechano_car_remote_control
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_mechano_car_remote_control
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_toy_mechano_car_remote_control](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control)<br>[Category
-    Toy Mechano Car Remote Control](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control)<br><br>'
-markdown_short: '[category_toy_mechano_car_remote_control](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control)<br><br>'
+markdown_full: '[category_toy_mechano_car_remote_control](none)<br>[](none)<br>[Category
+    Toy Mechano Car Remote Control](none)<br><br>'
+markdown_short: '[category_toy_mechano_car_remote_control](none)<br><br>'
 md5: 820ff6931844b6394e03874a1ca77150
 md5_10: 820ff69318
 md5_10_upper: 820FF69318

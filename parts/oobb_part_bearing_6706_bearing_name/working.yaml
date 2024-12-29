@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 6706_bearing_name
+description_extra_capital: 6706 Bearing Name
+description_extra_first_letter: '6'
+description_extra_first_letter_upper: '6'
+description_extra_upper: 6706_BEARING_NAME
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_bearing_6706_bearing_name
+distributors: []
+id: oobb_part_bearing_6706_bearing_name
+id_no_class: part_bearing_6706_bearing_name
+id_no_size: 6706_name
+id_no_type: bearing_6706_bearing_name
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6706_bearing_name
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6706_bearing_name
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6706_bearing_name
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bearing_6706_bearing_name](none)<br>[](none)<br>[Oobb Part
+    Bearing 6706 Bearing Name](none)<br><br>'
+markdown_short: '[oobb_part_bearing_6706_bearing_name](none)<br><br>'
+md5: bf0b306b255d20cc12cf834f07c61ef6
+md5_10: bf0b306b25
+md5_10_upper: BF0B306B25
+md5_5: bf0b3
+md5_5_upper: BF0B3
+md5_6: bf0b30
+md5_6_alpha: 7gcog
+md5_6_alpha_upper: 7GCOG
+md5_6_upper: BF0B30
+name: Oobb Part Bearing 6706 Bearing Name
+name_no_class: Part Bearing 6706 Bearing Name
+name_no_size: 6706 Name
+name_no_size_short: 6706 Name
+name_no_type: Bearing 6706 Bearing Name
+oomp_key: oomp_oobb_part_bearing_6706_bearing_name
+oomp_word: egg sunglasses foggy
+oomp_word_emoji: ':egg: :sunglasses: :foggy:'
+oomp_word_emoji_list:
+- ':egg:'
+- ':sunglasses:'
+- ':foggy:'
+oomp_word_list:
+- egg
+- sunglasses
+- foggy
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bearing
+size_capital: Bearing
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -47,8 +47,9 @@
     "id_no_type": "microsoft_surface_pro_5_microsoft_model_1796",
     "id_no_size": "pro_5_microsoft_model_1796",
     "oomp_key": "oomp_computer_tablet_microsoft_surface_pro_5_microsoft_model_1796",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_5_microsoft_model_1796",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_5_microsoft_model_1796",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_5_microsoft_model_1796",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_5_microsoft_model_1796",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_5_microsoft_model_1796",
     "directory": "parts/computer_tablet_microsoft_surface_pro_5_microsoft_model_1796",
     "name": "Computer Tablet Microsoft Surface Pro 5 Microsoft Model 1796",
     "name_no_class": "Tablet Microsoft Surface Pro 5 Microsoft Model 1796",
@@ -86,6 +87,6 @@
     "name_no_size_short": "Pro 5 Microsoft Model 1796",
     "description_or_color": "5",
     "description_or_color_upper": "5",
-    "markdown_full": "[computer_tablet_microsoft_surface_pro_5_microsoft_model_1796](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_5_microsoft_model_1796)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_5_microsoft_model_1796)<br>[Computer Tablet Microsoft Surface Pro 5 Microsoft Model 1796](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_5_microsoft_model_1796)<br><br>",
-    "markdown_short": "[computer_tablet_microsoft_surface_pro_5_microsoft_model_1796](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_5_microsoft_model_1796)<br><br>"
+    "markdown_full": "[computer_tablet_microsoft_surface_pro_5_microsoft_model_1796](none)<br>[](none)<br>[Computer Tablet Microsoft Surface Pro 5 Microsoft Model 1796](none)<br><br>",
+    "markdown_short": "[computer_tablet_microsoft_surface_pro_5_microsoft_model_1796](none)<br><br>"
 }

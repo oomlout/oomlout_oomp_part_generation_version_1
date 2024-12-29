@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r8o124_electronic_resistor_0805_120000_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_120000_ohm
 id: electronic_resistor_0805_120000_ohm
 id_no_class: resistor_0805_120000_ohm
 id_no_size: 120000_ohm
 id_no_type: 0805_120000_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_120000_ohm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0805_120000_ohm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0805_120000_ohm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0805_120000_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_0805_120000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_120000_ohm)<br>[r8o124](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_120000_ohm)<br>[Electronic
-    Resistor 0805 120000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_120000_ohm)<br><br>'
-markdown_short: '[electronic_resistor_0805_120000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_120000_ohm)<br><br>'
+markdown_full: '[electronic_resistor_0805_120000_ohm](none)<br>[r8o124](none)<br>[Electronic
+    Resistor 0805 120000 Ohm](none)<br><br>'
+markdown_short: '[electronic_resistor_0805_120000_ohm](none)<br><br>'
 md5: a8217eb7afb94523c0640bb68d8eb1ba
 md5_10: a8217eb7af
 md5_10_upper: A8217EB7AF

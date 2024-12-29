@@ -26,22 +26,23 @@ directory: parts/electronic_prototyping_breadboard_400_point
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_400_point
 id: electronic_prototyping_breadboard_400_point
 id_no_class: prototyping_breadboard_400_point
 id_no_size: 400_point
 id_no_type: 400_point
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_400_point
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_prototyping_breadboard_400_point
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_prototyping_breadboard_400_point
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_prototyping_breadboard_400_point
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_prototyping_breadboard_400_point](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_400_point)<br>[400p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_400_point)<br>[Electronic
-    Prototyping Breadboard 400 Point](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_400_point)<br><br>'
-markdown_short: '[electronic_prototyping_breadboard_400_point](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_400_point)<br><br>'
+markdown_full: '[electronic_prototyping_breadboard_400_point](none)<br>[400p](none)<br>[Electronic
+    Prototyping Breadboard 400 Point](none)<br><br>'
+markdown_short: '[electronic_prototyping_breadboard_400_point](none)<br><br>'
 md5: 1ca26a7e99d503bd9dfb7c5add23faa1
 md5_10: 1ca26a7e99
 md5_10_upper: 1CA26A7E99

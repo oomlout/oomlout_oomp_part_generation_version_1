@@ -24,21 +24,22 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/three_d_printer_printer_bambu_lab_p1s
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s
 id: three_d_printer_printer_bambu_lab_p1s
 id_no_class: printer_bambu_lab_p1s
 id_no_size: bambu_lab_p1s
 id_no_type: bambu_lab_p1s
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[three_d_printer_printer_bambu_lab_p1s](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s)<br>[Three
-    D Printer Printer Bambu Lab P1S](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s)<br><br>'
-markdown_short: '[three_d_printer_printer_bambu_lab_p1s](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s)<br><br>'
+markdown_full: '[three_d_printer_printer_bambu_lab_p1s](none)<br>[](none)<br>[Three
+    D Printer Printer Bambu Lab P1S](none)<br><br>'
+markdown_short: '[three_d_printer_printer_bambu_lab_p1s](none)<br><br>'
 md5: cb313c82b7d57847197f5b5bdbf36548
 md5_10: cb313c82b7
 md5_10_upper: CB313C82B7

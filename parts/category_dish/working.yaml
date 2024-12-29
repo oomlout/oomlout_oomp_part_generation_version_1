@@ -27,21 +27,21 @@ directory: parts/category_dish
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish
 id: category_dish
 id_no_class: dish
 id_no_size: dish
 id_no_type: dish
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_dish](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish)<br>[Category
-    Dish](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish)<br><br>'
-markdown_short: '[category_dish](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish)<br><br>'
+markdown_full: '[category_dish](none)<br>[](none)<br>[Category Dish](none)<br><br>'
+markdown_short: '[category_dish](none)<br><br>'
 md5: 1a31d7711f78d9084cfd39ccd067b646
 md5_10: 1a31d7711f
 md5_10_upper: 1A31D7711F

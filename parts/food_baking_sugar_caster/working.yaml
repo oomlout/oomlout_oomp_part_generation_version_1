@@ -27,21 +27,22 @@ directory: parts/food_baking_sugar_caster
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_caster
 id: food_baking_sugar_caster
 id_no_class: baking_sugar_caster
 id_no_size: caster
 id_no_type: sugar_caster
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_caster
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_caster
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_caster
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_caster
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_baking_sugar_caster](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_caster)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_caster)<br>[Food
-    Baking Sugar Caster](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_caster)<br><br>'
-markdown_short: '[food_baking_sugar_caster](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_caster)<br><br>'
+markdown_full: '[food_baking_sugar_caster](none)<br>[](none)<br>[Food Baking Sugar
+    Caster](none)<br><br>'
+markdown_short: '[food_baking_sugar_caster](none)<br><br>'
 md5: f60caca9740369f906bb12c583b1fe47
 md5_10: f60caca974
 md5_10_upper: F60CACA974

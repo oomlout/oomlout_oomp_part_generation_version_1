@@ -50,8 +50,9 @@
     "id_no_type": "part_threaded_insert_tote",
     "id_no_size": "threaded_insert_tote",
     "oomp_key": "oomp_category_oobb_part_threaded_insert_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_threaded_insert_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_threaded_insert_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_threaded_insert_tote",
     "directory": "parts/category_oobb_part_threaded_insert_tote",
     "name": "Category Oobb Part Threaded Insert Tote",
     "name_no_class": "Oobb Part Threaded Insert Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Threaded Insert Tote",
     "description_or_color": "T ",
     "description_or_color_upper": "T ",
-    "markdown_full": "[category_oobb_part_threaded_insert_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert_tote)<br>[Category Oobb Part Threaded Insert Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert_tote)<br><br>",
-    "markdown_short": "[category_oobb_part_threaded_insert_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert_tote)<br><br>"
+    "markdown_full": "[category_oobb_part_threaded_insert_tote](none)<br>[](none)<br>[Category Oobb Part Threaded Insert Tote](none)<br><br>",
+    "markdown_short": "[category_oobb_part_threaded_insert_tote](none)<br><br>"
 }

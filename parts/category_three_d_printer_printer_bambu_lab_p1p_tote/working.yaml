@@ -27,21 +27,22 @@ directory: parts/category_three_d_printer_printer_bambu_lab_p1p_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p_tote
 id: category_three_d_printer_printer_bambu_lab_p1p_tote
 id_no_class: three_d_printer_printer_bambu_lab_p1p_tote
 id_no_size: bambu_lab_p1p_tote
 id_no_type: printer_bambu_lab_p1p_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_three_d_printer_printer_bambu_lab_p1p_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p_tote)<br>[Category
-    Three D Printer Printer Bambu Lab P1P Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p_tote)<br><br>'
-markdown_short: '[category_three_d_printer_printer_bambu_lab_p1p_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p_tote)<br><br>'
+markdown_full: '[category_three_d_printer_printer_bambu_lab_p1p_tote](none)<br>[](none)<br>[Category
+    Three D Printer Printer Bambu Lab P1P Tote](none)<br><br>'
+markdown_short: '[category_three_d_printer_printer_bambu_lab_p1p_tote](none)<br><br>'
 md5: 4a8a163b2e1b7f539651e4c2a4e846cc
 md5_10: 4a8a163b2e
 md5_10_upper: 4A8A163B2E

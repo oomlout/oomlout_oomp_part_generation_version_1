@@ -50,8 +50,9 @@
     "id_no_type": "dairy_2000_ml",
     "id_no_size": "2000_ml",
     "oomp_key": "oomp_category_food_dairy_2000_ml",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_dairy_2000_ml",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_dairy_2000_ml",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_dairy_2000_ml",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_dairy_2000_ml",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_dairy_2000_ml",
     "directory": "parts/category_food_dairy_2000_ml",
     "name": "Category Food Dairy 2000 Ml",
     "name_no_class": "Food Dairy 2000 Ml",
@@ -89,6 +90,6 @@
     "name_no_size_short": "2000 Ml",
     "description_or_color": "2 ",
     "description_or_color_upper": "2 ",
-    "markdown_full": "[category_food_dairy_2000_ml](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_dairy_2000_ml)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_dairy_2000_ml)<br>[Category Food Dairy 2000 Ml](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_dairy_2000_ml)<br><br>",
-    "markdown_short": "[category_food_dairy_2000_ml](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_dairy_2000_ml)<br><br>"
+    "markdown_full": "[category_food_dairy_2000_ml](none)<br>[](none)<br>[Category Food Dairy 2000 Ml](none)<br><br>",
+    "markdown_short": "[category_food_dairy_2000_ml](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_appliance_vacuum_cleaner_dyson_v11
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11
 id: category_appliance_vacuum_cleaner_dyson_v11
 id_no_class: appliance_vacuum_cleaner_dyson_v11
 id_no_size: dyson_v11
 id_no_type: vacuum_cleaner_dyson_v11
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_appliance_vacuum_cleaner_dyson_v11](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11)<br>[Category
-    Appliance Vacuum Cleaner Dyson V11](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11)<br><br>'
-markdown_short: '[category_appliance_vacuum_cleaner_dyson_v11](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11)<br><br>'
+markdown_full: '[category_appliance_vacuum_cleaner_dyson_v11](none)<br>[](none)<br>[Category
+    Appliance Vacuum Cleaner Dyson V11](none)<br><br>'
+markdown_short: '[category_appliance_vacuum_cleaner_dyson_v11](none)<br><br>'
 md5: 059885163459e81312005ed6decefae4
 md5_10: 0598851634
 md5_10_upper: 0598851634

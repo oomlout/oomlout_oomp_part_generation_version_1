@@ -48,8 +48,9 @@
     "id_no_type": "1206_tint",
     "id_no_size": "tint",
     "oomp_key": "oomp_electronic_led_1206_tint",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_tint",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_tint",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_tint",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_tint",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_tint",
     "directory": "parts/electronic_led_1206_tint",
     "name": "Electronic Led 1206 Tint",
     "name_no_class": "Led 1206 Tint",
@@ -92,6 +93,6 @@
     "name_no_size_short": "Tint",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[electronic_led_1206_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_tint)<br>[l12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_tint)<br>[Electronic Led 1206 Tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_tint)<br><br>",
-    "markdown_short": "[electronic_led_1206_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_tint)<br><br>"
+    "markdown_full": "[electronic_led_1206_tint](none)<br>[l12](none)<br>[Electronic Led 1206 Tint](none)<br><br>",
+    "markdown_short": "[electronic_led_1206_tint](none)<br><br>"
 }

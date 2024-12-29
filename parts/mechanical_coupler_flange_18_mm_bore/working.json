@@ -46,8 +46,9 @@
     "id_no_type": "flange_18_mm_bore",
     "id_no_size": "18_mm_bore",
     "oomp_key": "oomp_mechanical_coupler_flange_18_mm_bore",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_coupler_flange_18_mm_bore",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_coupler_flange_18_mm_bore",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_coupler_flange_18_mm_bore",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_coupler_flange_18_mm_bore",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_coupler_flange_18_mm_bore",
     "directory": "parts/mechanical_coupler_flange_18_mm_bore",
     "name": "Mechanical Coupler Flange 18 Mm Bore",
     "name_no_class": "Coupler Flange 18 Mm Bore",
@@ -85,6 +86,6 @@
     "name_no_size_short": "18 Mm Bore",
     "description_or_color": "18",
     "description_or_color_upper": "18",
-    "markdown_full": "[mechanical_coupler_flange_18_mm_bore](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_coupler_flange_18_mm_bore)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_coupler_flange_18_mm_bore)<br>[Mechanical Coupler Flange 18 Mm Bore](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_coupler_flange_18_mm_bore)<br><br>",
-    "markdown_short": "[mechanical_coupler_flange_18_mm_bore](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_coupler_flange_18_mm_bore)<br><br>"
+    "markdown_full": "[mechanical_coupler_flange_18_mm_bore](none)<br>[](none)<br>[Mechanical Coupler Flange 18 Mm Bore](none)<br><br>",
+    "markdown_short": "[mechanical_coupler_flange_18_mm_bore](none)<br><br>"
 }

@@ -24,21 +24,22 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/robot_vacuum_roomba_520
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_520
 id: robot_vacuum_roomba_520
 id_no_class: roomba_520
 id_no_size: roomba520
 id_no_type: roomba520
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_520
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_520
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_520
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_520
 manufacturer: roomba
 manufacturer_capital: Roomba
 manufacturer_first_letter: r
 manufacturer_first_letter_upper: R
 manufacturer_upper: ROOMBA
 manufacturers: []
-markdown_full: '[robot_vacuum_roomba_520](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_520)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_520)<br>[Robot
-    Vacuum Roomba 520](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_520)<br><br>'
-markdown_short: '[robot_vacuum_roomba_520](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/robot_vacuum_roomba_520)<br><br>'
+markdown_full: '[robot_vacuum_roomba_520](none)<br>[](none)<br>[Robot Vacuum Roomba
+    520](none)<br><br>'
+markdown_short: '[robot_vacuum_roomba_520](none)<br><br>'
 md5: 4ca52d5f42b0547f717675142e296dc4
 md5_10: 4ca52d5f42
 md5_10_upper: 4CA52D5F42

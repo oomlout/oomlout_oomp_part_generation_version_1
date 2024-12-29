@@ -1,0 +1,93 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: electronic_prototyping_breadboard_400_point_extra
+description_extra_capital: Electronic Prototyping Breadboard 400 Point Extra
+description_extra_first_letter: e
+description_extra_first_letter_upper: E
+description_extra_upper: ELECTRONIC_PROTOTYPING_BREADBOARD_400_POINT_EXTRA
+description_main: 6_width_8_height_3_mm_depth
+description_main_capital: 6 Width 8 Height 3 mm Depth
+description_main_first_letter: '6'
+description_main_first_letter_upper: '6'
+description_main_upper: 6_WIDTH_8_HEIGHT_3_MM_DEPTH
+description_only_numbers: '683'
+description_only_numbers_short: '683'
+description_or_color: '683'
+description_or_color_upper: '683'
+directory: parts/oobb_part_holder_6_width_8_height_3_mm_depth_electronic_prototyping_breadboard_400_point_extra
+distributors: []
+id: oobb_part_holder_6_width_8_height_3_mm_depth_electronic_prototyping_breadboard_400_point_extra
+id_no_class: part_holder_6_width_8_height_3_mm_depth_electronic_prototyping_breadboard_400_point_extra
+id_no_size: 6_width_8_height_3_mm_depth_electronic_prototyping_breadboard_400_point_extra
+id_no_type: holder_6_width_8_height_3_mm_depth_electronic_prototyping_breadboard_400_point_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_6_width_8_height_3_mm_depth_electronic_prototyping_breadboard_400_point_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_6_width_8_height_3_mm_depth_electronic_prototyping_breadboard_400_point_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_6_width_8_height_3_mm_depth_electronic_prototyping_breadboard_400_point_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_holder_6_width_8_height_3_mm_depth_electronic_prototyping_breadboard_400_point_extra](none)<br>[](none)<br>[Oobb
+    Part Holder 6 Width 8 Height 3 Mm Depth Electronic Prototyping Breadboard 400
+    Point Extra](none)<br><br>'
+markdown_short: '[oobb_part_holder_6_width_8_height_3_mm_depth_electronic_prototyping_breadboard_400_point_extra](none)<br><br>'
+md5: 51a114823213deb2a1dc4521ad02b5b0
+md5_10: 51a1148232
+md5_10_upper: 51A1148232
+md5_5: 51a11
+md5_5_upper: 51A11
+md5_6: 51a114
+md5_6_alpha: 36ntg
+md5_6_alpha_upper: 36NTG
+md5_6_upper: 51A114
+name: Oobb Part Holder 6 Width 8 Height 3 Mm Depth Electronic Prototyping Breadboard
+    400 Point Extra
+name_no_class: Part Holder 6 Width 8 Height 3 Mm Depth Electronic Prototyping Breadboard
+    400 Point Extra
+name_no_size: 6 Width 8 Height 3 Mm Depth Electronic Prototyping Breadboard 400 Point
+    Extra
+name_no_size_short: 6 Width 8 Height 3 Mm Depth Electronic Prototyping Breadboard
+    400 Point Extra
+name_no_type: Holder 6 Width 8 Height 3 Mm Depth Electronic Prototyping Breadboard
+    400 Point Extra
+oomp_key: oomp_oobb_part_holder_6_width_8_height_3_mm_depth_electronic_prototyping_breadboard_400_point_extra
+oomp_word: snail trophy fire
+oomp_word_emoji: ':snail: :trophy: :fire:'
+oomp_word_emoji_list:
+- ':snail:'
+- ':trophy:'
+- ':fire:'
+oomp_word_list:
+- snail
+- trophy
+- fire
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: holder
+size_capital: Holder
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOLDER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

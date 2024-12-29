@@ -27,21 +27,22 @@ directory: parts/category_stationery_clip_binder_38_mm_width
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder_38_mm_width
 id: category_stationery_clip_binder_38_mm_width
 id_no_class: stationery_clip_binder_38_mm_width
 id_no_size: 38_mm_width
 id_no_type: clip_binder_38_mm_width
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder_38_mm_width
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_clip_binder_38_mm_width
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_clip_binder_38_mm_width
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_clip_binder_38_mm_width
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_stationery_clip_binder_38_mm_width](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder_38_mm_width)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder_38_mm_width)<br>[Category
-    Stationery Clip Binder 38 Mm Width](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder_38_mm_width)<br><br>'
-markdown_short: '[category_stationery_clip_binder_38_mm_width](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder_38_mm_width)<br><br>'
+markdown_full: '[category_stationery_clip_binder_38_mm_width](none)<br>[](none)<br>[Category
+    Stationery Clip Binder 38 Mm Width](none)<br><br>'
+markdown_short: '[category_stationery_clip_binder_38_mm_width](none)<br><br>'
 md5: 6853379ab5f4cbb067e9fc56cdfaf6ad
 md5_10: 6853379ab5
 md5_10_upper: 6853379AB5

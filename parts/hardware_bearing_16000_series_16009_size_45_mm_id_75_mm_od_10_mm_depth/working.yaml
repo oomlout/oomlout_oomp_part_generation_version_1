@@ -26,21 +26,22 @@ directory: parts/hardware_bearing_16000_series_16009_size_45_mm_id_75_mm_od_10_m
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16009_size_45_mm_id_75_mm_od_10_mm_depth
 id: hardware_bearing_16000_series_16009_size_45_mm_id_75_mm_od_10_mm_depth
 id_no_class: bearing_16000_series_16009_size_45_mm_id_75_mm_od_10_mm_depth
 id_no_size: 16009_size_45_mm_id_75_mm_od_10_mm_depth
 id_no_type: 16000_series_16009_size_45_mm_id_75_mm_od_10_mm_depth
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16009_size_45_mm_id_75_mm_od_10_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_16000_series_16009_size_45_mm_id_75_mm_od_10_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_16000_series_16009_size_45_mm_id_75_mm_od_10_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_16000_series_16009_size_45_mm_id_75_mm_od_10_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_16000_series_16009_size_45_mm_id_75_mm_od_10_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16009_size_45_mm_id_75_mm_od_10_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16009_size_45_mm_id_75_mm_od_10_mm_depth)<br>[Hardware
-    Bearing 16000 Series 16009 Size 45 Mm Id 75 Mm Od 10 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16009_size_45_mm_id_75_mm_od_10_mm_depth)<br><br>'
-markdown_short: '[hardware_bearing_16000_series_16009_size_45_mm_id_75_mm_od_10_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16009_size_45_mm_id_75_mm_od_10_mm_depth)<br><br>'
+markdown_full: '[hardware_bearing_16000_series_16009_size_45_mm_id_75_mm_od_10_mm_depth](none)<br>[](none)<br>[Hardware
+    Bearing 16000 Series 16009 Size 45 Mm Id 75 Mm Od 10 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_bearing_16000_series_16009_size_45_mm_id_75_mm_od_10_mm_depth](none)<br><br>'
 md5: 570bcdc5c875d765abb235c091cee8d9
 md5_10: 570bcdc5c8
 md5_10_upper: 570BCDC5C8

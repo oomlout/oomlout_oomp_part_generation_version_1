@@ -27,21 +27,22 @@ directory: parts/category_electronic_connector_wago_221_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_wago_221_tote
 id: category_electronic_connector_wago_221_tote
 id_no_class: electronic_connector_wago_221_tote
 id_no_size: wago_221_tote
 id_no_type: connector_wago_221_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_wago_221_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_wago_221_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_wago_221_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_wago_221_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_connector_wago_221_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_wago_221_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_wago_221_tote)<br>[Category
-    Electronic Connector Wago 221 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_wago_221_tote)<br><br>'
-markdown_short: '[category_electronic_connector_wago_221_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_wago_221_tote)<br><br>'
+markdown_full: '[category_electronic_connector_wago_221_tote](none)<br>[](none)<br>[Category
+    Electronic Connector Wago 221 Tote](none)<br><br>'
+markdown_short: '[category_electronic_connector_wago_221_tote](none)<br><br>'
 md5: 89596ffeacd0e5465446a28e3860ab78
 md5_10: 89596ffeac
 md5_10_upper: 89596FFEAC

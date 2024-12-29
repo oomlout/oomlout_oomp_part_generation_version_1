@@ -27,21 +27,22 @@ directory: parts/category_electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_inter
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter
 id: category_electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter
 id_no_class: electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter
 id_no_size: 6_4_mm_internal_diameter
 id_no_type: heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter)<br>[Category
-    Electronic Heatshrink 2 To 1 Shrink Ratio 6 4 Mm Internal Diameter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter)<br><br>'
-markdown_short: '[category_electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter)<br><br>'
+markdown_full: '[category_electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter](none)<br>[](none)<br>[Category
+    Electronic Heatshrink 2 To 1 Shrink Ratio 6 4 Mm Internal Diameter](none)<br><br>'
+markdown_short: '[category_electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter](none)<br><br>'
 md5: ab2f6315e746b4c4b5b745719e272b0b
 md5_10: ab2f6315e7
 md5_10_upper: AB2F6315E7

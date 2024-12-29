@@ -24,21 +24,22 @@ description_or_color: '7'
 description_or_color_upper: '7'
 directory: parts/electronic_screw_terminal_5_mm_pitch_7_pin
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_7_pin
 id: electronic_screw_terminal_5_mm_pitch_7_pin
 id_no_class: screw_terminal_5_mm_pitch_7_pin
 id_no_size: 7_pin
 id_no_type: 5_mm_pitch_7_pin
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_7_pin
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_7_pin
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_7_pin
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_7_pin
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_screw_terminal_5_mm_pitch_7_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_7_pin)<br>[7p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_7_pin)<br>[Electronic
-    Screw Terminal 5 Mm Pitch 7 Pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_7_pin)<br><br>'
-markdown_short: '[electronic_screw_terminal_5_mm_pitch_7_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_7_pin)<br><br>'
+markdown_full: '[electronic_screw_terminal_5_mm_pitch_7_pin](none)<br>[7p](none)<br>[Electronic
+    Screw Terminal 5 Mm Pitch 7 Pin](none)<br><br>'
+markdown_short: '[electronic_screw_terminal_5_mm_pitch_7_pin](none)<br><br>'
 md5: 3237d1862bf7f9a42277558baa86a652
 md5_10: 3237d1862b
 md5_10_upper: 3237D1862B

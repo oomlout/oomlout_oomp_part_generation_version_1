@@ -27,21 +27,22 @@ directory: parts/category_electronic_socket_usb_a
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_a
 id: category_electronic_socket_usb_a
 id_no_class: electronic_socket_usb_a
 id_no_size: usb_a
 id_no_type: socket_usb_a
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_a
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_a
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_a
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_a
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_socket_usb_a](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_a)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_a)<br>[Category
-    Electronic Socket Usb A](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_a)<br><br>'
-markdown_short: '[category_electronic_socket_usb_a](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_socket_usb_a)<br><br>'
+markdown_full: '[category_electronic_socket_usb_a](none)<br>[](none)<br>[Category
+    Electronic Socket Usb A](none)<br><br>'
+markdown_short: '[category_electronic_socket_usb_a](none)<br><br>'
 md5: 8f52e8ad2c29e9319312fd54b42a3b25
 md5_10: 8f52e8ad2c
 md5_10_upper: 8F52E8AD2C

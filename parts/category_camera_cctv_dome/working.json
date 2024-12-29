@@ -50,8 +50,9 @@
     "id_no_type": "cctv_dome",
     "id_no_size": "cctv_dome",
     "oomp_key": "oomp_category_camera_cctv_dome",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_cctv_dome",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_cctv_dome",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera_cctv_dome",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera_cctv_dome",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera_cctv_dome",
     "directory": "parts/category_camera_cctv_dome",
     "name": "Category Camera Cctv Dome",
     "name_no_class": "Camera Cctv Dome",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Cctv Dome",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_camera_cctv_dome](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_cctv_dome)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_cctv_dome)<br>[Category Camera Cctv Dome](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_cctv_dome)<br><br>",
-    "markdown_short": "[category_camera_cctv_dome](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_cctv_dome)<br><br>"
+    "markdown_full": "[category_camera_cctv_dome](none)<br>[](none)<br>[Category Camera Cctv Dome](none)<br><br>",
+    "markdown_short": "[category_camera_cctv_dome](none)<br><br>"
 }

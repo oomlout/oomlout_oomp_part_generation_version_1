@@ -50,8 +50,9 @@
     "id_no_type": "button_keypad",
     "id_no_size": "button_keypad",
     "oomp_key": "oomp_category_electronic_button_keypad",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_button_keypad",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_button_keypad",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_button_keypad",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_button_keypad",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_button_keypad",
     "directory": "parts/category_electronic_button_keypad",
     "name": "Category Electronic Button Keypad",
     "name_no_class": "Electronic Button Keypad",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Button Keypad",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_button_keypad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_button_keypad)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_button_keypad)<br>[Category Electronic Button Keypad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_button_keypad)<br><br>",
-    "markdown_short": "[category_electronic_button_keypad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_button_keypad)<br><br>"
+    "markdown_full": "[category_electronic_button_keypad](none)<br>[](none)<br>[Category Electronic Button Keypad](none)<br><br>",
+    "markdown_short": "[category_electronic_button_keypad](none)<br><br>"
 }

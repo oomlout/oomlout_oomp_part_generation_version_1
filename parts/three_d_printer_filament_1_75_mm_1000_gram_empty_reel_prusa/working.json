@@ -46,8 +46,9 @@
     "id_no_type": "1_75_mm_1000_gram_empty_reel_prusa",
     "id_no_size": "empty_reel_prusa",
     "oomp_key": "oomp_three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa",
     "directory": "parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa",
     "name": "Three D Printer Filament 1 75 Mm 1000 Gram Empty Reel Prusa",
     "name_no_class": "Filament 1 75 Mm 1000 Gram Empty Reel Prusa",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Empty Reel Prusa",
     "description_or_color": "E ",
     "description_or_color_upper": "E ",
-    "markdown_full": "[three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa)<br>[Three D Printer Filament 1 75 Mm 1000 Gram Empty Reel Prusa](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa)<br><br>",
-    "markdown_short": "[three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa)<br><br>"
+    "markdown_full": "[three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa](none)<br>[](none)<br>[Three D Printer Filament 1 75 Mm 1000 Gram Empty Reel Prusa](none)<br><br>",
+    "markdown_short": "[three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa](none)<br><br>"
 }

@@ -49,8 +49,9 @@
     "id_no_type": "rice_arborio",
     "id_no_size": "arborio",
     "oomp_key": "oomp_food_starch_rice_arborio",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_arborio",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_arborio",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_arborio",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_arborio",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_arborio",
     "directory": "parts/food_starch_rice_arborio",
     "name": "Food Starch Rice Arborio",
     "name_no_class": "Starch Rice Arborio",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Arborio",
     "description_or_color": "A ",
     "description_or_color_upper": "A ",
-    "markdown_full": "[food_starch_rice_arborio](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_arborio)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_arborio)<br>[Food Starch Rice Arborio](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_arborio)<br><br>",
-    "markdown_short": "[food_starch_rice_arborio](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_arborio)<br><br>"
+    "markdown_full": "[food_starch_rice_arborio](none)<br>[](none)<br>[Food Starch Rice Arborio](none)<br><br>",
+    "markdown_short": "[food_starch_rice_arborio](none)<br><br>"
 }

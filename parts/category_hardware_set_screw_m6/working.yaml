@@ -27,21 +27,22 @@ directory: parts/category_hardware_set_screw_m6
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m6
 id: category_hardware_set_screw_m6
 id_no_class: hardware_set_screw_m6
 id_no_size: m6
 id_no_type: set_screw_m6
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m6
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_m6
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_m6
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_m6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_set_screw_m6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m6)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m6)<br>[Category
-    Hardware Set Screw M6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m6)<br><br>'
-markdown_short: '[category_hardware_set_screw_m6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m6)<br><br>'
+markdown_full: '[category_hardware_set_screw_m6](none)<br>[](none)<br>[Category Hardware
+    Set Screw M6](none)<br><br>'
+markdown_short: '[category_hardware_set_screw_m6](none)<br><br>'
 md5: 612f28839f33b479e70885322744ee19
 md5_10: 612f28839f
 md5_10_upper: 612F28839F

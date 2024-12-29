@@ -50,8 +50,9 @@
     "id_no_type": "timer",
     "id_no_size": "timer",
     "oomp_key": "oomp_category_tool_timer",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_timer",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_timer",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_timer",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_timer",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_timer",
     "directory": "parts/category_tool_timer",
     "name": "Category Tool Timer",
     "name_no_class": "Tool Timer",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Timer",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_tool_timer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_timer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_timer)<br>[Category Tool Timer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_timer)<br><br>",
-    "markdown_short": "[category_tool_timer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_timer)<br><br>"
+    "markdown_full": "[category_tool_timer](none)<br>[](none)<br>[Category Tool Timer](none)<br><br>",
+    "markdown_short": "[category_tool_timer](none)<br><br>"
 }

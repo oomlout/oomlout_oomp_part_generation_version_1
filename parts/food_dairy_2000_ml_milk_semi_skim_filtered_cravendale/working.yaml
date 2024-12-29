@@ -26,22 +26,23 @@ directory: parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
 id: food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
 id_no_class: dairy_2000_ml_milk_semi_skim_filtered_cravendale
 id_no_size: milk_semi_skim_filtered_cravendale
 id_no_type: 2000_ml_milk_semi_skim_filtered_cravendale
 link_distributor_ocado: https://www.ocado.com/search?entry=24581011
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
 manufacturer: cravendale
 manufacturer_capital: Cravendale
 manufacturer_first_letter: c
 manufacturer_first_letter_upper: C
 manufacturer_upper: CRAVENDALE
 manufacturers: []
-markdown_full: '[food_dairy_2000_ml_milk_semi_skim_filtered_cravendale](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale)<br>[Food
-    Dairy 2000 Ml Milk Semi Skim Filtered Cravendale](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale)<br><br>'
-markdown_short: '[food_dairy_2000_ml_milk_semi_skim_filtered_cravendale](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale)<br><br>'
+markdown_full: '[food_dairy_2000_ml_milk_semi_skim_filtered_cravendale](none)<br>[](none)<br>[Food
+    Dairy 2000 Ml Milk Semi Skim Filtered Cravendale](none)<br><br>'
+markdown_short: '[food_dairy_2000_ml_milk_semi_skim_filtered_cravendale](none)<br><br>'
 md5: 2323a69ecb6755d8b28c4061b8cffec4
 md5_10: 2323a69ecb
 md5_10_upper: 2323A69ECB

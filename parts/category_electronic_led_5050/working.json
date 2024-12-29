@@ -50,8 +50,9 @@
     "id_no_type": "led_5050",
     "id_no_size": "5050",
     "oomp_key": "oomp_category_electronic_led_5050",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_5050",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_5050",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_5050",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_5050",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_5050",
     "directory": "parts/category_electronic_led_5050",
     "name": "Category Electronic Led 5050",
     "name_no_class": "Electronic Led 5050",
@@ -89,6 +90,6 @@
     "name_no_size_short": "5050",
     "description_or_color": "5 ",
     "description_or_color_upper": "5 ",
-    "markdown_full": "[category_electronic_led_5050](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_5050)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_5050)<br>[Category Electronic Led 5050](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_5050)<br><br>",
-    "markdown_short": "[category_electronic_led_5050](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_led_5050)<br><br>"
+    "markdown_full": "[category_electronic_led_5050](none)<br>[](none)<br>[Category Electronic Led 5050](none)<br><br>",
+    "markdown_short": "[category_electronic_led_5050](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_electronic_wire_pigtail
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail
 id: category_electronic_wire_pigtail
 id_no_class: electronic_wire_pigtail
 id_no_size: wire_pigtail
 id_no_type: wire_pigtail
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_wire_pigtail](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail)<br>[Category
-    Electronic Wire Pigtail](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail)<br><br>'
-markdown_short: '[category_electronic_wire_pigtail](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail)<br><br>'
+markdown_full: '[category_electronic_wire_pigtail](none)<br>[](none)<br>[Category
+    Electronic Wire Pigtail](none)<br><br>'
+markdown_short: '[category_electronic_wire_pigtail](none)<br><br>'
 md5: 5c182686f07379f57df9254c9bbc0a7b
 md5_10: 5c182686f0
 md5_10_upper: 5C182686F0

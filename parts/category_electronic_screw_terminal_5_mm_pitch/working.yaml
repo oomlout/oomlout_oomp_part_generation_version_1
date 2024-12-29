@@ -27,21 +27,22 @@ directory: parts/category_electronic_screw_terminal_5_mm_pitch
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_5_mm_pitch
 id: category_electronic_screw_terminal_5_mm_pitch
 id_no_class: electronic_screw_terminal_5_mm_pitch
 id_no_size: 5_mm_pitch
 id_no_type: screw_terminal_5_mm_pitch
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_5_mm_pitch
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_5_mm_pitch
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_5_mm_pitch
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_5_mm_pitch
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_screw_terminal_5_mm_pitch](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_5_mm_pitch)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_5_mm_pitch)<br>[Category
-    Electronic Screw Terminal 5 Mm Pitch](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_5_mm_pitch)<br><br>'
-markdown_short: '[category_electronic_screw_terminal_5_mm_pitch](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_screw_terminal_5_mm_pitch)<br><br>'
+markdown_full: '[category_electronic_screw_terminal_5_mm_pitch](none)<br>[](none)<br>[Category
+    Electronic Screw Terminal 5 Mm Pitch](none)<br><br>'
+markdown_short: '[category_electronic_screw_terminal_5_mm_pitch](none)<br><br>'
 md5: 366eff3d7e3ecc65055b5097d65182ec
 md5_10: 366eff3d7e
 md5_10_upper: 366EFF3D7E

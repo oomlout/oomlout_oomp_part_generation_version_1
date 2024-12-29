@@ -50,8 +50,9 @@
     "id_no_type": "starch_rice",
     "id_no_size": "rice",
     "oomp_key": "oomp_category_food_starch_rice",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_rice",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_rice",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_rice",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_rice",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_rice",
     "directory": "parts/category_food_starch_rice",
     "name": "Category Food Starch Rice",
     "name_no_class": "Food Starch Rice",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Rice",
     "description_or_color": "R ",
     "description_or_color_upper": "R ",
-    "markdown_full": "[category_food_starch_rice](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_rice)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_rice)<br>[Category Food Starch Rice](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_rice)<br><br>",
-    "markdown_short": "[category_food_starch_rice](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_rice)<br><br>"
+    "markdown_full": "[category_food_starch_rice](none)<br>[](none)<br>[Category Food Starch Rice](none)<br><br>",
+    "markdown_short": "[category_food_starch_rice](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_hardware_bearing_16000_series_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_16000_series_tote
 id: category_hardware_bearing_16000_series_tote
 id_no_class: hardware_bearing_16000_series_tote
 id_no_size: 16000_series_tote
 id_no_type: bearing_16000_series_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_16000_series_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_16000_series_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_16000_series_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_16000_series_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_bearing_16000_series_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_16000_series_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_16000_series_tote)<br>[Category
-    Hardware Bearing 16000 Series Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_16000_series_tote)<br><br>'
-markdown_short: '[category_hardware_bearing_16000_series_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_16000_series_tote)<br><br>'
+markdown_full: '[category_hardware_bearing_16000_series_tote](none)<br>[](none)<br>[Category
+    Hardware Bearing 16000 Series Tote](none)<br><br>'
+markdown_short: '[category_hardware_bearing_16000_series_tote](none)<br><br>'
 md5: 3db236614d43cede9f71e01f67626274
 md5_10: 3db236614d
 md5_10_upper: 3DB236614D

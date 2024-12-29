@@ -26,23 +26,22 @@ directory: parts/project_github_oomlout_oomlout_oobb_holder_electronic_breakout_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_electronic_breakout_board_mcu_esp32
 id: project_github_oomlout_oomlout_oobb_holder_electronic_breakout_board_mcu_esp32
 id_no_class: github_oomlout_oomlout_oobb_holder_electronic_breakout_board_mcu_esp32
 id_no_size: oobb_holder_electronic_breakout_board_mcu_esp32
 id_no_type: oomlout_oomlout_oobb_holder_electronic_breakout_board_mcu_esp32
-link_github: https://github.com/oomlout/oomlout_oobb_holder_electronic_breakout_board_mcu_esp32
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_electronic_breakout_board_mcu_esp32
-link_redirect: https://github.com/oomlout/oomlout_oobb_holder_electronic_breakout_board_mcu_esp32
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_electronic_breakout_board_mcu_esp32
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_electronic_breakout_board_mcu_esp32
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_electronic_breakout_board_mcu_esp32
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_oomlout_oobb_holder_electronic_breakout_board_mcu_esp32](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_electronic_breakout_board_mcu_esp32)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_electronic_breakout_board_mcu_esp32)<br>[Project
-    Github Oomlout Oomlout Oobb Holder Electronic Breakout Board Mcu Esp32](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_electronic_breakout_board_mcu_esp32)<br><br>'
-markdown_short: '[project_github_oomlout_oomlout_oobb_holder_electronic_breakout_board_mcu_esp32](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_electronic_breakout_board_mcu_esp32)<br><br>'
+markdown_full: '[project_github_oomlout_oomlout_oobb_holder_electronic_breakout_board_mcu_esp32](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Oobb Holder Electronic Breakout Board Mcu Esp32](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oobb_holder_electronic_breakout_board_mcu_esp32](none)<br><br>'
 md5: 00332e19cdf66c8cf2f539b83b605183
 md5_10: 00332e19cd
 md5_10_upper: 00332E19CD

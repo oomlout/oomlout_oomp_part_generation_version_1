@@ -46,8 +46,9 @@
     "id_no_type": "photo_epson_picturemate_personal_photo_lab",
     "id_no_size": "epson_picturemate_personal_lab",
     "oomp_key": "oomp_printer_inkjet_photo_epson_picturemate_personal_photo_lab",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_photo_epson_picturemate_personal_photo_lab",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_photo_epson_picturemate_personal_photo_lab",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_photo_epson_picturemate_personal_photo_lab",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_photo_epson_picturemate_personal_photo_lab",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_photo_epson_picturemate_personal_photo_lab",
     "directory": "parts/printer_inkjet_photo_epson_picturemate_personal_photo_lab",
     "name": "Printer Inkjet Photo Epson Picturemate Personal Photo Lab",
     "name_no_class": "Inkjet Photo Epson Picturemate Personal Photo Lab",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Epson Picturemate Personal Lab",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[printer_inkjet_photo_epson_picturemate_personal_photo_lab](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_photo_epson_picturemate_personal_photo_lab)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_photo_epson_picturemate_personal_photo_lab)<br>[Printer Inkjet Photo Epson Picturemate Personal Photo Lab](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_photo_epson_picturemate_personal_photo_lab)<br><br>",
-    "markdown_short": "[printer_inkjet_photo_epson_picturemate_personal_photo_lab](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/printer_inkjet_photo_epson_picturemate_personal_photo_lab)<br><br>"
+    "markdown_full": "[printer_inkjet_photo_epson_picturemate_personal_photo_lab](none)<br>[](none)<br>[Printer Inkjet Photo Epson Picturemate Personal Photo Lab](none)<br><br>",
+    "markdown_short": "[printer_inkjet_photo_epson_picturemate_personal_photo_lab](none)<br><br>"
 }

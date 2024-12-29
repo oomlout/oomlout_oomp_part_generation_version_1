@@ -50,8 +50,9 @@
     "id_no_type": "part_tray_vertical",
     "id_no_size": "tray_vertical",
     "oomp_key": "oomp_category_oobb_part_tray_vertical",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_tray_vertical",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_tray_vertical",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_tray_vertical",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_tray_vertical",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_tray_vertical",
     "directory": "parts/category_oobb_part_tray_vertical",
     "name": "Category Oobb Part Tray Vertical",
     "name_no_class": "Oobb Part Tray Vertical",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Tray Vertical",
     "description_or_color": "T ",
     "description_or_color_upper": "T ",
-    "markdown_full": "[category_oobb_part_tray_vertical](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_tray_vertical)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_tray_vertical)<br>[Category Oobb Part Tray Vertical](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_tray_vertical)<br><br>",
-    "markdown_short": "[category_oobb_part_tray_vertical](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_tray_vertical)<br><br>"
+    "markdown_full": "[category_oobb_part_tray_vertical](none)<br>[](none)<br>[Category Oobb Part Tray Vertical](none)<br><br>",
+    "markdown_short": "[category_oobb_part_tray_vertical](none)<br><br>"
 }

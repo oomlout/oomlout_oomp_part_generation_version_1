@@ -48,8 +48,9 @@
     "id_no_type": "0402_75000_ohm",
     "id_no_size": "75000_ohm",
     "oomp_key": "oomp_electronic_resistor_0402_75000_ohm",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_75000_ohm",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_75000_ohm",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_75000_ohm",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_75000_ohm",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_75000_ohm",
     "directory": "parts/electronic_resistor_0402_75000_ohm",
     "name": "Electronic Resistor 0402 75000 Ohm",
     "name_no_class": "Resistor 0402 75000 Ohm",
@@ -91,6 +92,6 @@
     "name_no_size_short": "75k Ohm",
     "description_or_color": "75k",
     "description_or_color_upper": "75K",
-    "markdown_full": "[electronic_resistor_0402_75000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_75000_ohm)<br>[r4o753](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_75000_ohm)<br>[Electronic Resistor 0402 75000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_75000_ohm)<br><br>",
-    "markdown_short": "[electronic_resistor_0402_75000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_75000_ohm)<br><br>"
+    "markdown_full": "[electronic_resistor_0402_75000_ohm](none)<br>[r4o753](none)<br>[Electronic Resistor 0402 75000 Ohm](none)<br><br>",
+    "markdown_short": "[electronic_resistor_0402_75000_ohm](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_electronic_resistor_0201_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0201_tote
 id: category_electronic_resistor_0201_tote
 id_no_class: electronic_resistor_0201_tote
 id_no_size: 0201_tote
 id_no_type: resistor_0201_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0201_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_0201_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_0201_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_0201_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_resistor_0201_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0201_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0201_tote)<br>[Category
-    Electronic Resistor 0201 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0201_tote)<br><br>'
-markdown_short: '[category_electronic_resistor_0201_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0201_tote)<br><br>'
+markdown_full: '[category_electronic_resistor_0201_tote](none)<br>[](none)<br>[Category
+    Electronic Resistor 0201 Tote](none)<br><br>'
+markdown_short: '[category_electronic_resistor_0201_tote](none)<br><br>'
 md5: 285f446d03bac0472c912b69c566af04
 md5_10: 285f446d03
 md5_10_upper: 285F446D03

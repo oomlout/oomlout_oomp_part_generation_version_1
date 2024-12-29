@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 7_width_13_height_15_mm_depth
+description_main_capital: 7 Width 13 Height 15 mm Depth
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 7_WIDTH_13_HEIGHT_15_MM_DEPTH
+description_only_numbers: '71315'
+description_only_numbers_short: 71k
+description_or_color: 71k
+description_or_color_upper: 71K
+directory: parts/oobb_part_tray_7_width_13_height_15_mm_depth
+distributors: []
+id: oobb_part_tray_7_width_13_height_15_mm_depth
+id_no_class: part_tray_7_width_13_height_15_mm_depth
+id_no_size: 7_width_13_height_15_mm_depth
+id_no_type: tray_7_width_13_height_15_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_7_width_13_height_15_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_7_width_13_height_15_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_7_width_13_height_15_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_7_width_13_height_15_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray 7 Width 13 Height 15 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_7_width_13_height_15_mm_depth](none)<br><br>'
+md5: 8f18053cec49258b2ce75acdb19f2daa
+md5_10: 8f18053cec
+md5_10_upper: 8F18053CEC
+md5_5: 8f180
+md5_5_upper: 8F180
+md5_6: 8f1805
+md5_6_alpha: 5kzyd
+md5_6_alpha_upper: 5KZYD
+md5_6_upper: 8F1805
+name: Oobb Part Tray 7 Width 13 Height 15 Mm Depth
+name_no_class: Part Tray 7 Width 13 Height 15 Mm Depth
+name_no_size: 7 Width 13 Height 15 Mm Depth
+name_no_size_short: 7 Width 13 Height 15 Mm Depth
+name_no_type: Tray 7 Width 13 Height 15 Mm Depth
+oomp_key: oomp_oobb_part_tray_7_width_13_height_15_mm_depth
+oomp_word: calendar hand kissing
+oomp_word_emoji: ':calendar: :hand: :kissing:'
+oomp_word_emoji_list:
+- ':calendar:'
+- ':hand:'
+- ':kissing:'
+oomp_word_list:
+- calendar
+- hand
+- kissing
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

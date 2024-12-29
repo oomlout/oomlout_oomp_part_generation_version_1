@@ -26,21 +26,22 @@ directory: parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
 id: dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
 id_no_class: ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
 id_no_size: ikeaoftastwhiteplatedeep200mmdiameterikea00318942
 id_no_type: ikeaoftastwhiteplatedeep200mmdiameterikea00318942
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
 manufacturer: ikea
 manufacturer_capital: Ikea
 manufacturer_first_letter: i
 manufacturer_first_letter_upper: I
 manufacturer_upper: IKEA
 manufacturers: []
-markdown_full: '[dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42)<br>[w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42)<br>[Dish
-    Ikea Oftast White Plate Deep 200 Mm Diameter Ikea 003 189 42](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42)<br><br>'
-markdown_short: '[dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42)<br><br>'
+markdown_full: '[dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42](none)<br>[w](none)<br>[Dish
+    Ikea Oftast White Plate Deep 200 Mm Diameter Ikea 003 189 42](none)<br><br>'
+markdown_short: '[dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42](none)<br><br>'
 md5: b953f4721262ba5cdc203b3b81b56a95
 md5_10: b953f47212
 md5_10_upper: B953F47212

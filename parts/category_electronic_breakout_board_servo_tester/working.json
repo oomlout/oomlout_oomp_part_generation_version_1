@@ -50,8 +50,9 @@
     "id_no_type": "breakout_board_servo_tester",
     "id_no_size": "breakout_board_servo_tester",
     "oomp_key": "oomp_category_electronic_breakout_board_servo_tester",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_servo_tester",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_servo_tester",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_servo_tester",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_servo_tester",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_servo_tester",
     "directory": "parts/category_electronic_breakout_board_servo_tester",
     "name": "Category Electronic Breakout Board Servo Tester",
     "name_no_class": "Electronic Breakout Board Servo Tester",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Breakout Board Servo Tester",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_breakout_board_servo_tester](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_servo_tester)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_servo_tester)<br>[Category Electronic Breakout Board Servo Tester](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_servo_tester)<br><br>",
-    "markdown_short": "[category_electronic_breakout_board_servo_tester](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_servo_tester)<br><br>"
+    "markdown_full": "[category_electronic_breakout_board_servo_tester](none)<br>[](none)<br>[Category Electronic Breakout Board Servo Tester](none)<br><br>",
+    "markdown_short": "[category_electronic_breakout_board_servo_tester](none)<br><br>"
 }

@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: u_extra
+description_extra_capital: U Extra
+description_extra_first_letter: u
+description_extra_first_letter_upper: U
+description_extra_upper: U_EXTRA
+description_main: 5_width_5_height_9_mm_depth
+description_main_capital: 5 Width 5 Height 9 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5_WIDTH_5_HEIGHT_9_MM_DEPTH
+description_only_numbers: '559'
+description_only_numbers_short: '559'
+description_or_color: '559'
+description_or_color_upper: '559'
+directory: parts/oobb_part_plate_5_width_5_height_9_mm_depth_u_extra
+distributors: []
+id: oobb_part_plate_5_width_5_height_9_mm_depth_u_extra
+id_no_class: part_plate_5_width_5_height_9_mm_depth_u_extra
+id_no_size: 5_width_5_height_9_mm_depth_u_extra
+id_no_type: plate_5_width_5_height_9_mm_depth_u_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_5_width_5_height_9_mm_depth_u_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_5_width_5_height_9_mm_depth_u_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_5_width_5_height_9_mm_depth_u_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_5_width_5_height_9_mm_depth_u_extra](none)<br>[](none)<br>[Oobb
+    Part Plate 5 Width 5 Height 9 Mm Depth U Extra](none)<br><br>'
+markdown_short: '[oobb_part_plate_5_width_5_height_9_mm_depth_u_extra](none)<br><br>'
+md5: 62729e5b7e660e8a60b4ffb3894813b4
+md5_10: 62729e5b7e
+md5_10_upper: 62729E5B7E
+md5_5: '62729'
+md5_5_upper: '62729'
+md5_6: 62729e
+md5_6_alpha: 3uaam
+md5_6_alpha_upper: 3UAAM
+md5_6_upper: 62729E
+name: Oobb Part Plate 5 Width 5 Height 9 Mm Depth U Extra
+name_no_class: Part Plate 5 Width 5 Height 9 Mm Depth U Extra
+name_no_size: 5 Width 5 Height 9 Mm Depth U Extra
+name_no_size_short: 5 Width 5 Height 9 Mm Depth U Extra
+name_no_type: Plate 5 Width 5 Height 9 Mm Depth U Extra
+oomp_key: oomp_oobb_part_plate_5_width_5_height_9_mm_depth_u_extra
+oomp_word: tulip dolls clubs
+oomp_word_emoji: ':tulip: :dolls: :clubs:'
+oomp_word_emoji_list:
+- ':tulip:'
+- ':dolls:'
+- ':clubs:'
+oomp_word_list:
+- tulip
+- dolls
+- clubs
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

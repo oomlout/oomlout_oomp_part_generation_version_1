@@ -24,22 +24,23 @@ description_or_color: G30k
 description_or_color_upper: G30K
 directory: parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_30000_mm_length
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_30000_mm_length
 id: electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_30000_mm_length
 id_no_class: heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_30000_mm_length
 id_no_size: green_30000_mm_length
 id_no_type: 76_2_mm_internal_diameter_green_30000_mm_length
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_30000_mm_length
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_30000_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_30000_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_30000_mm_length
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_30000_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_30000_mm_length)<br>[g](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_30000_mm_length)<br>[Electronic
-    Heatshrink 2 To 1 Shrink Ratio 76 2 Mm Internal Diameter Green 30000 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_30000_mm_length)<br><br>'
-markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_30000_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_30000_mm_length)<br><br>'
+markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_30000_mm_length](none)<br>[g](none)<br>[Electronic
+    Heatshrink 2 To 1 Shrink Ratio 76 2 Mm Internal Diameter Green 30000 Mm Length](none)<br><br>'
+markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_30000_mm_length](none)<br><br>'
 md5: 3d4463f94bcac1c5404ef5ebb87c865a
 md5_10: 3d4463f94b
 md5_10_upper: 3D4463F94B

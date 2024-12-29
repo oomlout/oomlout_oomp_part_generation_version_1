@@ -27,21 +27,21 @@ directory: parts/category_packaging
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging
 id: category_packaging
 id_no_class: packaging
 id_no_size: packaging
 id_no_type: packaging
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_packaging](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging)<br>[Category
-    Packaging](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging)<br><br>'
-markdown_short: '[category_packaging](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging)<br><br>'
+markdown_full: '[category_packaging](none)<br>[](none)<br>[Category Packaging](none)<br><br>'
+markdown_short: '[category_packaging](none)<br><br>'
 md5: 8f63d9c69c47f6e68a3c83a964a2d944
 md5_10: 8f63d9c69c
 md5_10_upper: 8F63D9C69C

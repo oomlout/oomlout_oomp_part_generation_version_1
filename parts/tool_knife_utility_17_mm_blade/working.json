@@ -47,8 +47,9 @@
     "id_no_type": "17_mm_blade",
     "id_no_size": "17mmblade",
     "oomp_key": "oomp_tool_knife_utility_17_mm_blade",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_knife_utility_17_mm_blade",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_knife_utility_17_mm_blade",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_knife_utility_17_mm_blade",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_knife_utility_17_mm_blade",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_knife_utility_17_mm_blade",
     "directory": "parts/tool_knife_utility_17_mm_blade",
     "name": "Tool Knife Utility 17 Mm Blade",
     "name_no_class": "Knife Utility 17 Mm Blade",
@@ -86,6 +87,6 @@
     "name_no_size_short": "17Mmblade",
     "description_or_color": "17",
     "description_or_color_upper": "17",
-    "markdown_full": "[tool_knife_utility_17_mm_blade](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_knife_utility_17_mm_blade)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_knife_utility_17_mm_blade)<br>[Tool Knife Utility 17 Mm Blade](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_knife_utility_17_mm_blade)<br><br>",
-    "markdown_short": "[tool_knife_utility_17_mm_blade](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_knife_utility_17_mm_blade)<br><br>"
+    "markdown_full": "[tool_knife_utility_17_mm_blade](none)<br>[](none)<br>[Tool Knife Utility 17 Mm Blade](none)<br><br>",
+    "markdown_short": "[tool_knife_utility_17_mm_blade](none)<br><br>"
 }

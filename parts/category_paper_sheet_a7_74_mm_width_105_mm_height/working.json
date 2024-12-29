@@ -50,8 +50,9 @@
     "id_no_type": "sheet_a7_74_mm_width_105_mm_height",
     "id_no_size": "a7_74_mm_width_105_mm_height",
     "oomp_key": "oomp_category_paper_sheet_a7_74_mm_width_105_mm_height",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_a7_74_mm_width_105_mm_height",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_a7_74_mm_width_105_mm_height",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a7_74_mm_width_105_mm_height",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a7_74_mm_width_105_mm_height",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a7_74_mm_width_105_mm_height",
     "directory": "parts/category_paper_sheet_a7_74_mm_width_105_mm_height",
     "name": "Category Paper Sheet A7 74 Mm Width 105 Mm Height",
     "name_no_class": "Paper Sheet A7 74 Mm Width 105 Mm Height",
@@ -89,6 +90,6 @@
     "name_no_size_short": "A7 74 Mm Width 105 Mm Height",
     "description_or_color": "A ",
     "description_or_color_upper": "A ",
-    "markdown_full": "[category_paper_sheet_a7_74_mm_width_105_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_a7_74_mm_width_105_mm_height)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_a7_74_mm_width_105_mm_height)<br>[Category Paper Sheet A7 74 Mm Width 105 Mm Height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_a7_74_mm_width_105_mm_height)<br><br>",
-    "markdown_short": "[category_paper_sheet_a7_74_mm_width_105_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_a7_74_mm_width_105_mm_height)<br><br>"
+    "markdown_full": "[category_paper_sheet_a7_74_mm_width_105_mm_height](none)<br>[](none)<br>[Category Paper Sheet A7 74 Mm Width 105 Mm Height](none)<br><br>",
+    "markdown_short": "[category_paper_sheet_a7_74_mm_width_105_mm_height](none)<br><br>"
 }

@@ -24,21 +24,22 @@ description_or_color: '90'
 description_or_color_upper: '90'
 directory: parts/mechanical_motor_servo_remote_control_micro_sg90_pcb
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90_pcb
 id: mechanical_motor_servo_remote_control_micro_sg90_pcb
 id_no_class: motor_servo_remote_control_micro_sg90_pcb
 id_no_size: sg90_pcb
 id_no_type: micro_sg90_pcb
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90_pcb
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90_pcb
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90_pcb
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90_pcb
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[mechanical_motor_servo_remote_control_micro_sg90_pcb](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90_pcb)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90_pcb)<br>[Mechanical
-    Motor Servo Remote Control Micro Sg90 Pcb](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90_pcb)<br><br>'
-markdown_short: '[mechanical_motor_servo_remote_control_micro_sg90_pcb](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90_pcb)<br><br>'
+markdown_full: '[mechanical_motor_servo_remote_control_micro_sg90_pcb](none)<br>[](none)<br>[Mechanical
+    Motor Servo Remote Control Micro Sg90 Pcb](none)<br><br>'
+markdown_short: '[mechanical_motor_servo_remote_control_micro_sg90_pcb](none)<br><br>'
 md5: 4b4b58f85586191ff921c5024527b5ce
 md5_10: 4b4b58f855
 md5_10_upper: 4B4B58F855

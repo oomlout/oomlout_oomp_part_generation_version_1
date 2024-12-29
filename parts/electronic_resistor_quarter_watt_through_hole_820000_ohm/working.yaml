@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ro824_electronic_resistor_quarter_watt_through_hole_820000_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820000_ohm
 id: electronic_resistor_quarter_watt_through_hole_820000_ohm
 id_no_class: resistor_quarter_watt_through_hole_820000_ohm
 id_no_size: 820000_ohm
 id_no_type: quarter_watt_through_hole_820000_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820000_ohm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820000_ohm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820000_ohm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820000_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_quarter_watt_through_hole_820000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820000_ohm)<br>[ro824](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820000_ohm)<br>[Electronic
-    Resistor Quarter Watt Through Hole 820000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820000_ohm)<br><br>'
-markdown_short: '[electronic_resistor_quarter_watt_through_hole_820000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820000_ohm)<br><br>'
+markdown_full: '[electronic_resistor_quarter_watt_through_hole_820000_ohm](none)<br>[ro824](none)<br>[Electronic
+    Resistor Quarter Watt Through Hole 820000 Ohm](none)<br><br>'
+markdown_short: '[electronic_resistor_quarter_watt_through_hole_820000_ohm](none)<br><br>'
 md5: 538d0d67c0db0492a60c86b18e635c47
 md5_10: 538d0d67c0
 md5_10_upper: 538D0D67C0

@@ -26,21 +26,22 @@ directory: parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth
 id: hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth
 id_no_class: bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth
 id_no_size: 6314_size_70_mm_id_150_mm_od_35_mm_depth
 id_no_type: 6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth)<br>[Hardware
-    Bearing 6300 Series 6314 Size 70 Mm Id 150 Mm Od 35 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth)<br><br>'
-markdown_short: '[hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth)<br><br>'
+markdown_full: '[hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth](none)<br>[](none)<br>[Hardware
+    Bearing 6300 Series 6314 Size 70 Mm Id 150 Mm Od 35 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_bearing_6300_series_6314_size_70_mm_id_150_mm_od_35_mm_depth](none)<br><br>'
 md5: 2a508a42cc1c93c3134c889c96c0bd56
 md5_10: 2a508a42cc
 md5_10_upper: 2A508A42CC

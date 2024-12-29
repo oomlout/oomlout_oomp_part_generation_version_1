@@ -50,8 +50,9 @@
     "id_no_type": "spare_part_anycubic_vyper",
     "id_no_size": "anycubic_vyper",
     "oomp_key": "oomp_category_three_d_printer_spare_part_anycubic_vyper",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_spare_part_anycubic_vyper",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_spare_part_anycubic_vyper",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_spare_part_anycubic_vyper",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_spare_part_anycubic_vyper",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_spare_part_anycubic_vyper",
     "directory": "parts/category_three_d_printer_spare_part_anycubic_vyper",
     "name": "Category Three D Printer Spare Part Anycubic Vyper",
     "name_no_class": "Three D Printer Spare Part Anycubic Vyper",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Anycubic Vyper",
     "description_or_color": "A ",
     "description_or_color_upper": "A ",
-    "markdown_full": "[category_three_d_printer_spare_part_anycubic_vyper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_spare_part_anycubic_vyper)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_spare_part_anycubic_vyper)<br>[Category Three D Printer Spare Part Anycubic Vyper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_spare_part_anycubic_vyper)<br><br>",
-    "markdown_short": "[category_three_d_printer_spare_part_anycubic_vyper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_spare_part_anycubic_vyper)<br><br>"
+    "markdown_full": "[category_three_d_printer_spare_part_anycubic_vyper](none)<br>[](none)<br>[Category Three D Printer Spare Part Anycubic Vyper](none)<br><br>",
+    "markdown_short": "[category_three_d_printer_spare_part_anycubic_vyper](none)<br><br>"
 }

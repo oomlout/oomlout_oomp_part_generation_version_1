@@ -27,21 +27,22 @@ directory: parts/category_electronic_voltage_converter_buck
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck
 id: category_electronic_voltage_converter_buck
 id_no_class: electronic_voltage_converter_buck
 id_no_size: voltage_converter_buck
 id_no_type: voltage_converter_buck
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_voltage_converter_buck](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck)<br>[Category
-    Electronic Voltage Converter Buck](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck)<br><br>'
-markdown_short: '[category_electronic_voltage_converter_buck](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck)<br><br>'
+markdown_full: '[category_electronic_voltage_converter_buck](none)<br>[](none)<br>[Category
+    Electronic Voltage Converter Buck](none)<br><br>'
+markdown_short: '[category_electronic_voltage_converter_buck](none)<br><br>'
 md5: 112d806ec904e5cca03fe4080106dec7
 md5_10: 112d806ec9
 md5_10_upper: 112D806EC9

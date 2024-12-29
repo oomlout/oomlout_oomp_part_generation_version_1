@@ -27,21 +27,22 @@ directory: parts/category_mechanical_motor_with_encoder_30_mm_diameter
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter
 id: category_mechanical_motor_with_encoder_30_mm_diameter
 id_no_class: mechanical_motor_with_encoder_30_mm_diameter
 id_no_size: 30_mm_diameter
 id_no_type: motor_with_encoder_30_mm_diameter
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_mechanical_motor_with_encoder_30_mm_diameter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter)<br>[Category
-    Mechanical Motor With Encoder 30 Mm Diameter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter)<br><br>'
-markdown_short: '[category_mechanical_motor_with_encoder_30_mm_diameter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter)<br><br>'
+markdown_full: '[category_mechanical_motor_with_encoder_30_mm_diameter](none)<br>[](none)<br>[Category
+    Mechanical Motor With Encoder 30 Mm Diameter](none)<br><br>'
+markdown_short: '[category_mechanical_motor_with_encoder_30_mm_diameter](none)<br><br>'
 md5: bd3b9e593a7332467766b05ce79bcfff
 md5_10: bd3b9e593a
 md5_10_upper: BD3B9E593A

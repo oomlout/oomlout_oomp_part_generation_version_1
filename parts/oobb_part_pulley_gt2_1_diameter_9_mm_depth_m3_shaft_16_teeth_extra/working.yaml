@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: m3_shaft_16_teeth_extra
+description_extra_capital: M3 Shaft 16 Teeth Extra
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: M3_SHAFT_16_TEETH_EXTRA
+description_main: 1_diameter_9_mm_depth
+description_main_capital: 1 Diameter 9 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 1_DIAMETER_9_MM_DEPTH
+description_only_numbers: '19'
+description_only_numbers_short: '19'
+description_or_color: '19'
+description_or_color_upper: '19'
+directory: parts/oobb_part_pulley_gt2_1_diameter_9_mm_depth_m3_shaft_16_teeth_extra
+distributors: []
+id: oobb_part_pulley_gt2_1_diameter_9_mm_depth_m3_shaft_16_teeth_extra
+id_no_class: part_pulley_gt2_1_diameter_9_mm_depth_m3_shaft_16_teeth_extra
+id_no_size: 1_diameter_9_mm_depth_m3_shaft_16_teeth_extra
+id_no_type: pulley_gt2_1_diameter_9_mm_depth_m3_shaft_16_teeth_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_1_diameter_9_mm_depth_m3_shaft_16_teeth_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_1_diameter_9_mm_depth_m3_shaft_16_teeth_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_1_diameter_9_mm_depth_m3_shaft_16_teeth_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_pulley_gt2_1_diameter_9_mm_depth_m3_shaft_16_teeth_extra](none)<br>[](none)<br>[Oobb
+    Part Pulley Gt2 1 Diameter 9 Mm Depth M3 Shaft 16 Teeth Extra](none)<br><br>'
+markdown_short: '[oobb_part_pulley_gt2_1_diameter_9_mm_depth_m3_shaft_16_teeth_extra](none)<br><br>'
+md5: db323f168e3094d24efb6450dd1f856d
+md5_10: db323f168e
+md5_10_upper: DB323F168E
+md5_5: db323
+md5_5_upper: DB323
+md5_6: db323f
+md5_6_alpha: 8jwan
+md5_6_alpha_upper: 8JWAN
+md5_6_upper: DB323F
+name: Oobb Part Pulley Gt2 1 Diameter 9 Mm Depth M3 Shaft 16 Teeth Extra
+name_no_class: Part Pulley Gt2 1 Diameter 9 Mm Depth M3 Shaft 16 Teeth Extra
+name_no_size: 1 Diameter 9 Mm Depth M3 Shaft 16 Teeth Extra
+name_no_size_short: 1 Diameter 9 Mm Depth M3 Shaft 16 Teeth Extra
+name_no_type: Pulley Gt2 1 Diameter 9 Mm Depth M3 Shaft 16 Teeth Extra
+oomp_key: oomp_oobb_part_pulley_gt2_1_diameter_9_mm_depth_m3_shaft_16_teeth_extra
+oomp_word: tent cat horse
+oomp_word_emoji: ':tent: :cat: :horse:'
+oomp_word_emoji_list:
+- ':tent:'
+- ':cat:'
+- ':horse:'
+oomp_word_list:
+- tent
+- cat
+- horse
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: pulley_gt2
+size_capital: Pulley Gt2
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: '2'
+size_only_numbers_no_zeros: '2'
+size_upper: PULLEY_GT2
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

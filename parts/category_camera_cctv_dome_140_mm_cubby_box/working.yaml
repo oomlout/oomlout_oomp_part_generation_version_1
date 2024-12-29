@@ -27,21 +27,22 @@ directory: parts/category_camera_cctv_dome_140_mm_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_cctv_dome_140_mm_cubby_box
 id: category_camera_cctv_dome_140_mm_cubby_box
 id_no_class: camera_cctv_dome_140_mm_cubby_box
 id_no_size: 140_mm_cubby_box
 id_no_type: cctv_dome_140_mm_cubby_box
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_cctv_dome_140_mm_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera_cctv_dome_140_mm_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera_cctv_dome_140_mm_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera_cctv_dome_140_mm_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_camera_cctv_dome_140_mm_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_cctv_dome_140_mm_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_cctv_dome_140_mm_cubby_box)<br>[Category
-    Camera Cctv Dome 140 Mm Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_cctv_dome_140_mm_cubby_box)<br><br>'
-markdown_short: '[category_camera_cctv_dome_140_mm_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera_cctv_dome_140_mm_cubby_box)<br><br>'
+markdown_full: '[category_camera_cctv_dome_140_mm_cubby_box](none)<br>[](none)<br>[Category
+    Camera Cctv Dome 140 Mm Cubby Box](none)<br><br>'
+markdown_short: '[category_camera_cctv_dome_140_mm_cubby_box](none)<br><br>'
 md5: 775f448791e49fb86a88c171e97ac58f
 md5_10: 775f448791
 md5_10_upper: 775F448791

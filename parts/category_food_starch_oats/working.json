@@ -50,8 +50,9 @@
     "id_no_type": "starch_oats",
     "id_no_size": "oats",
     "oomp_key": "oomp_category_food_starch_oats",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_oats",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_oats",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_oats",
     "directory": "parts/category_food_starch_oats",
     "name": "Category Food Starch Oats",
     "name_no_class": "Food Starch Oats",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Oats",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[category_food_starch_oats](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats)<br>[Category Food Starch Oats](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats)<br><br>",
-    "markdown_short": "[category_food_starch_oats](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats)<br><br>"
+    "markdown_full": "[category_food_starch_oats](none)<br>[](none)<br>[Category Food Starch Oats](none)<br><br>",
+    "markdown_short": "[category_food_starch_oats](none)<br><br>"
 }

@@ -27,22 +27,23 @@ directory: parts/food_dairy_cheese_mature_cheddar_cathedral_city
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city
 id: food_dairy_cheese_mature_cheddar_cathedral_city
 id_no_class: dairy_cheese_mature_cheddar_cathedral_city
 id_no_size: cheesematurecheddarcathedralcity
 id_no_type: cheese_mature_cheddar_cathedral_city
 link_distributor_ocado: https://www.ocado.com/search?entry=31833011
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city
 manufacturer: cathedral_city
 manufacturer_capital: Cathedral City
 manufacturer_first_letter: c
 manufacturer_first_letter_upper: C
 manufacturer_upper: CATHEDRAL_CITY
 manufacturers: []
-markdown_full: '[food_dairy_cheese_mature_cheddar_cathedral_city](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city)<br>[Food
-    Dairy Cheese Mature Cheddar Cathedral City](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city)<br><br>'
-markdown_short: '[food_dairy_cheese_mature_cheddar_cathedral_city](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city)<br><br>'
+markdown_full: '[food_dairy_cheese_mature_cheddar_cathedral_city](none)<br>[](none)<br>[Food
+    Dairy Cheese Mature Cheddar Cathedral City](none)<br><br>'
+markdown_short: '[food_dairy_cheese_mature_cheddar_cathedral_city](none)<br><br>'
 md5: 6b1737005ce25ec243ae05caaeb6fd43
 md5_10: 6b1737005c
 md5_10_upper: 6B1737005C

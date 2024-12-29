@@ -48,8 +48,9 @@
     "id_no_type": "m3_nylon_white",
     "id_no_size": "nylon_white",
     "oomp_key": "oomp_hardware_nut_m3_nylon_white",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_nylon_white",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_nylon_white",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_nylon_white",
     "directory": "parts/hardware_nut_m3_nylon_white",
     "name": "Hardware Nut M3 Nylon White",
     "name_no_class": "Nut M3 Nylon White",
@@ -87,6 +88,6 @@
     "name_no_size_short": "Nylon White",
     "description_or_color": "N ",
     "description_or_color_upper": "N ",
-    "markdown_full": "[hardware_nut_m3_nylon_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white)<br>[nu3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white)<br>[Hardware Nut M3 Nylon White](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white)<br><br>",
-    "markdown_short": "[hardware_nut_m3_nylon_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white)<br><br>"
+    "markdown_full": "[hardware_nut_m3_nylon_white](none)<br>[nu3](none)<br>[Hardware Nut M3 Nylon White](none)<br><br>",
+    "markdown_short": "[hardware_nut_m3_nylon_white](none)<br><br>"
 }

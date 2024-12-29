@@ -26,21 +26,22 @@ directory: parts/hardware_bearing_61800_series_61814_size_70_mm_id_90_mm_od_10_m
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61814_size_70_mm_id_90_mm_od_10_mm_depth
 id: hardware_bearing_61800_series_61814_size_70_mm_id_90_mm_od_10_mm_depth
 id_no_class: bearing_61800_series_61814_size_70_mm_id_90_mm_od_10_mm_depth
 id_no_size: 61814_size_70_mm_id_90_mm_od_10_mm_depth
 id_no_type: 61800_series_61814_size_70_mm_id_90_mm_od_10_mm_depth
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61814_size_70_mm_id_90_mm_od_10_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_61800_series_61814_size_70_mm_id_90_mm_od_10_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_61800_series_61814_size_70_mm_id_90_mm_od_10_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_61800_series_61814_size_70_mm_id_90_mm_od_10_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_61800_series_61814_size_70_mm_id_90_mm_od_10_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61814_size_70_mm_id_90_mm_od_10_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61814_size_70_mm_id_90_mm_od_10_mm_depth)<br>[Hardware
-    Bearing 61800 Series 61814 Size 70 Mm Id 90 Mm Od 10 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61814_size_70_mm_id_90_mm_od_10_mm_depth)<br><br>'
-markdown_short: '[hardware_bearing_61800_series_61814_size_70_mm_id_90_mm_od_10_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61814_size_70_mm_id_90_mm_od_10_mm_depth)<br><br>'
+markdown_full: '[hardware_bearing_61800_series_61814_size_70_mm_id_90_mm_od_10_mm_depth](none)<br>[](none)<br>[Hardware
+    Bearing 61800 Series 61814 Size 70 Mm Id 90 Mm Od 10 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_bearing_61800_series_61814_size_70_mm_id_90_mm_od_10_mm_depth](none)<br><br>'
 md5: def4cfe10a6e7f50cc4f0dbe37671254
 md5_10: def4cfe10a
 md5_10_upper: DEF4CFE10A

@@ -24,21 +24,22 @@ description_or_color: 7k
 description_or_color_upper: 7K
 directory: parts/mechanical_solenoid_24_volt_70_mm_diameter_10_mm_depth_25000_gram_capacity
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_24_volt_70_mm_diameter_10_mm_depth_25000_gram_capacity
 id: mechanical_solenoid_24_volt_70_mm_diameter_10_mm_depth_25000_gram_capacity
 id_no_class: solenoid_24_volt_70_mm_diameter_10_mm_depth_25000_gram_capacity
 id_no_size: 70_mm_diameter_10_mm_depth_25000_gram_capacity
 id_no_type: 24_volt_70_mm_diameter_10_mm_depth_25000_gram_capacity
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_24_volt_70_mm_diameter_10_mm_depth_25000_gram_capacity
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_24_volt_70_mm_diameter_10_mm_depth_25000_gram_capacity
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_24_volt_70_mm_diameter_10_mm_depth_25000_gram_capacity
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_24_volt_70_mm_diameter_10_mm_depth_25000_gram_capacity
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[mechanical_solenoid_24_volt_70_mm_diameter_10_mm_depth_25000_gram_capacity](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_24_volt_70_mm_diameter_10_mm_depth_25000_gram_capacity)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_24_volt_70_mm_diameter_10_mm_depth_25000_gram_capacity)<br>[Mechanical
-    Solenoid 24 Volt 70 Mm Diameter 10 Mm Depth 25000 Gram Capacity](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_24_volt_70_mm_diameter_10_mm_depth_25000_gram_capacity)<br><br>'
-markdown_short: '[mechanical_solenoid_24_volt_70_mm_diameter_10_mm_depth_25000_gram_capacity](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_24_volt_70_mm_diameter_10_mm_depth_25000_gram_capacity)<br><br>'
+markdown_full: '[mechanical_solenoid_24_volt_70_mm_diameter_10_mm_depth_25000_gram_capacity](none)<br>[](none)<br>[Mechanical
+    Solenoid 24 Volt 70 Mm Diameter 10 Mm Depth 25000 Gram Capacity](none)<br><br>'
+markdown_short: '[mechanical_solenoid_24_volt_70_mm_diameter_10_mm_depth_25000_gram_capacity](none)<br><br>'
 md5: 1a87553757ffec3844bc3fe7b3bc3646
 md5_10: 1a87553757
 md5_10_upper: 1A87553757

@@ -26,21 +26,22 @@ directory: parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own
 id: food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own
 id_no_class: condiment_salad_dressing_ranch_bottle_250_ml_newmans_own
 id_no_size: saladdressingranchbottle250mlnewmansown
 id_no_type: salad_dressing_ranch_bottle_250_ml_newmans_own
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own
 manufacturer: newmans_own
 manufacturer_capital: Newmans Own
 manufacturer_first_letter: n
 manufacturer_first_letter_upper: N
 manufacturer_upper: NEWMANS_OWN
 manufacturers: []
-markdown_full: '[food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own)<br>[Food
-    Condiment Salad Dressing Ranch Bottle 250 Ml Newmans Own](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own)<br><br>'
-markdown_short: '[food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own)<br><br>'
+markdown_full: '[food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own](none)<br>[](none)<br>[Food
+    Condiment Salad Dressing Ranch Bottle 250 Ml Newmans Own](none)<br><br>'
+markdown_short: '[food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own](none)<br><br>'
 md5: ec76360f4f0ca668da5c859c3cb69bf1
 md5_10: ec76360f4f
 md5_10_upper: EC76360F4F

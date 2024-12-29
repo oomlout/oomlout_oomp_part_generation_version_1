@@ -26,23 +26,22 @@ directory: parts/project_github_oomlout_oomlout_oomp_part_kicad_footprints
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_part_kicad_footprints
 id: project_github_oomlout_oomlout_oomp_part_kicad_footprints
 id_no_class: github_oomlout_oomlout_oomp_part_kicad_footprints
 id_no_size: oomp_part_kicad_footprints
 id_no_type: oomlout_oomlout_oomp_part_kicad_footprints
-link_github: https://github.com/oomlout/oomlout_oomp_part_kicad_footprints
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_part_kicad_footprints
-link_redirect: https://github.com/oomlout/oomlout_oomp_part_kicad_footprints
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_part_kicad_footprints
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_part_kicad_footprints
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_part_kicad_footprints
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_oomlout_oomp_part_kicad_footprints](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_part_kicad_footprints)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_part_kicad_footprints)<br>[Project
-    Github Oomlout Oomlout Oomp Part Kicad Footprints](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_part_kicad_footprints)<br><br>'
-markdown_short: '[project_github_oomlout_oomlout_oomp_part_kicad_footprints](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_part_kicad_footprints)<br><br>'
+markdown_full: '[project_github_oomlout_oomlout_oomp_part_kicad_footprints](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Oomp Part Kicad Footprints](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oomp_part_kicad_footprints](none)<br><br>'
 md5: c98dc8597a4677a58683e018b2ae51d7
 md5_10: c98dc8597a
 md5_10_upper: C98DC8597A

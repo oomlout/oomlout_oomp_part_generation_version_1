@@ -26,22 +26,23 @@ directory: parts/hardware_nut_m3_locking
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_locking
 id: hardware_nut_m3_locking
 id_no_class: nut_m3_locking
 id_no_size: locking
 id_no_type: m3_locking
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_locking
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_locking
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_locking
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_locking
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m3_locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_locking)<br>[nu3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_locking)<br>[Hardware
-    Nut M3 Locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_locking)<br><br>'
-markdown_short: '[hardware_nut_m3_locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_locking)<br><br>'
+markdown_full: '[hardware_nut_m3_locking](none)<br>[nu3](none)<br>[Hardware Nut M3
+    Locking](none)<br><br>'
+markdown_short: '[hardware_nut_m3_locking](none)<br><br>'
 md5: 34e363adfcbd4479cc7d31ffe52e3426
 md5_10: 34e363adfc
 md5_10_upper: 34E363ADFC

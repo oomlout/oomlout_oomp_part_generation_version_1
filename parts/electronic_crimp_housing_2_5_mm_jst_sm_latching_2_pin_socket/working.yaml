@@ -24,22 +24,23 @@ description_or_color: '2'
 description_or_color_upper: '2'
 directory: parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
 id: electronic_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
 id_no_class: crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
 id_no_size: 2_pin_socket
 id_no_type: 2_5_mm_jst_sm_latching_2_pin_socket
 kicad_reference: CONN
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket)<br>[ch2p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket)<br>[Electronic
-    Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket)<br><br>'
-markdown_short: '[electronic_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket)<br><br>'
+markdown_full: '[electronic_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket](none)<br>[ch2p](none)<br>[Electronic
+    Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Socket](none)<br><br>'
+markdown_short: '[electronic_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket](none)<br><br>'
 md5: 49fdd0c08c747680fef4ad65bbeeedcd
 md5_10: 49fdd0c08c
 md5_10_upper: 49FDD0C08C

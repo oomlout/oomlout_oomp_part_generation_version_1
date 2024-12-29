@@ -50,8 +50,9 @@
     "id_no_type": "remote_control",
     "id_no_size": "remotecontrol",
     "oomp_key": "oomp_category_remote_control",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control",
     "directory": "parts/category_remote_control",
     "name": "Category Remote Control",
     "name_no_class": "Remote Control",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Remotecontrol",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_remote_control](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control)<br>[Category Remote Control](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control)<br><br>",
-    "markdown_short": "[category_remote_control](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control)<br><br>"
+    "markdown_full": "[category_remote_control](none)<br>[](none)<br>[Category Remote Control](none)<br><br>",
+    "markdown_short": "[category_remote_control](none)<br><br>"
 }

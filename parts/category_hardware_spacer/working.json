@@ -50,8 +50,9 @@
     "id_no_type": "spacer",
     "id_no_size": "spacer",
     "oomp_key": "oomp_category_hardware_spacer",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_spacer",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_spacer",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_spacer",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_spacer",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_spacer",
     "directory": "parts/category_hardware_spacer",
     "name": "Category Hardware Spacer",
     "name_no_class": "Hardware Spacer",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Spacer",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_hardware_spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_spacer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_spacer)<br>[Category Hardware Spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_spacer)<br><br>",
-    "markdown_short": "[category_hardware_spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_spacer)<br><br>"
+    "markdown_full": "[category_hardware_spacer](none)<br>[](none)<br>[Category Hardware Spacer](none)<br><br>",
+    "markdown_short": "[category_hardware_spacer](none)<br><br>"
 }

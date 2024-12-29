@@ -24,21 +24,22 @@ description_or_color: '2'
 description_or_color_upper: '2'
 directory: parts/electronic_screw_terminal_5_mm_pitch_2_pin
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_2_pin
 id: electronic_screw_terminal_5_mm_pitch_2_pin
 id_no_class: screw_terminal_5_mm_pitch_2_pin
 id_no_size: 2_pin
 id_no_type: 5_mm_pitch_2_pin
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_2_pin
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_2_pin
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_2_pin
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_2_pin
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_screw_terminal_5_mm_pitch_2_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_2_pin)<br>[2p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_2_pin)<br>[Electronic
-    Screw Terminal 5 Mm Pitch 2 Pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_2_pin)<br><br>'
-markdown_short: '[electronic_screw_terminal_5_mm_pitch_2_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_2_pin)<br><br>'
+markdown_full: '[electronic_screw_terminal_5_mm_pitch_2_pin](none)<br>[2p](none)<br>[Electronic
+    Screw Terminal 5 Mm Pitch 2 Pin](none)<br><br>'
+markdown_short: '[electronic_screw_terminal_5_mm_pitch_2_pin](none)<br><br>'
 md5: a2b82c62af6560e01e44a9582d4a2da6
 md5_10: a2b82c62af
 md5_10_upper: A2B82C62AF

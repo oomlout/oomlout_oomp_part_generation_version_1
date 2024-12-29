@@ -27,21 +27,22 @@ directory: parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wir
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire
 id: category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire
 id_no_class: electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire
 id_no_size: 0_55_mm_diameter_wire
 id_no_type: crimp_bootlace_ferrule_0_55_mm_diameter_wire
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire)<br>[Category
-    Electronic Crimp Bootlace Ferrule 0 55 Mm Diameter Wire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire)<br><br>'
-markdown_short: '[category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire)<br><br>'
+markdown_full: '[category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire](none)<br>[](none)<br>[Category
+    Electronic Crimp Bootlace Ferrule 0 55 Mm Diameter Wire](none)<br><br>'
+markdown_short: '[category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire](none)<br><br>'
 md5: c1f222df3bf45c10d442f692f9a67f8d
 md5_10: c1f222df3b
 md5_10_upper: C1F222DF3B

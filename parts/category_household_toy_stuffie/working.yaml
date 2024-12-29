@@ -27,21 +27,22 @@ directory: parts/category_household_toy_stuffie
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_stuffie
 id: category_household_toy_stuffie
 id_no_class: household_toy_stuffie
 id_no_size: stuffie
 id_no_type: stuffie
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_stuffie
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_stuffie
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_stuffie
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_stuffie
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_household_toy_stuffie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_stuffie)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_stuffie)<br>[Category
-    Household Toy Stuffie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_stuffie)<br><br>'
-markdown_short: '[category_household_toy_stuffie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_stuffie)<br><br>'
+markdown_full: '[category_household_toy_stuffie](none)<br>[](none)<br>[Category Household
+    Toy Stuffie](none)<br><br>'
+markdown_short: '[category_household_toy_stuffie](none)<br><br>'
 md5: aea19568ce6866b735be5a977697b6b1
 md5_10: aea19568ce
 md5_10_upper: AEA19568CE

@@ -48,8 +48,9 @@
     "id_no_type": "quarter_watt_through_hole_1200_ohm",
     "id_no_size": "1200_ohm",
     "oomp_key": "oomp_electronic_resistor_quarter_watt_through_hole_1200_ohm",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1200_ohm",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1200_ohm",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1200_ohm",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1200_ohm",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1200_ohm",
     "directory": "parts/electronic_resistor_quarter_watt_through_hole_1200_ohm",
     "name": "Electronic Resistor Quarter Watt Through Hole 1200 Ohm",
     "name_no_class": "Resistor Quarter Watt Through Hole 1200 Ohm",
@@ -87,6 +88,6 @@
     "name_no_size_short": "1k2 Ohm",
     "description_or_color": "1k2",
     "description_or_color_upper": "1K2",
-    "markdown_full": "[electronic_resistor_quarter_watt_through_hole_1200_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1200_ohm)<br>[ro122](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1200_ohm)<br>[Electronic Resistor Quarter Watt Through Hole 1200 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1200_ohm)<br><br>",
-    "markdown_short": "[electronic_resistor_quarter_watt_through_hole_1200_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1200_ohm)<br><br>"
+    "markdown_full": "[electronic_resistor_quarter_watt_through_hole_1200_ohm](none)<br>[ro122](none)<br>[Electronic Resistor Quarter Watt Through Hole 1200 Ohm](none)<br><br>",
+    "markdown_short": "[electronic_resistor_quarter_watt_through_hole_1200_ohm](none)<br><br>"
 }

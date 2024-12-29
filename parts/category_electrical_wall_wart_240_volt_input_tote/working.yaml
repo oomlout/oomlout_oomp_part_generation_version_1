@@ -27,21 +27,22 @@ directory: parts/category_electrical_wall_wart_240_volt_input_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote
 id: category_electrical_wall_wart_240_volt_input_tote
 id_no_class: electrical_wall_wart_240_volt_input_tote
 id_no_size: 240_volt_input_tote
 id_no_type: wall_wart_240_volt_input_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electrical_wall_wart_240_volt_input_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote)<br>[Category
-    Electrical Wall Wart 240 Volt Input Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote)<br><br>'
-markdown_short: '[category_electrical_wall_wart_240_volt_input_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote)<br><br>'
+markdown_full: '[category_electrical_wall_wart_240_volt_input_tote](none)<br>[](none)<br>[Category
+    Electrical Wall Wart 240 Volt Input Tote](none)<br><br>'
+markdown_short: '[category_electrical_wall_wart_240_volt_input_tote](none)<br><br>'
 md5: 0d8e98db44057015335bb84a024997a6
 md5_10: 0d8e98db44
 md5_10_upper: 0D8E98DB44

@@ -48,8 +48,9 @@
     "id_no_type": "6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt",
     "id_no_size": "electrolytic_220_micro_farad_10_volt",
     "oomp_key": "oomp_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt",
     "directory": "parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt",
     "name": "Electronic Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt",
     "name_no_class": "Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt",
@@ -94,6 +95,6 @@
     "name_no_size_short": "Electrolytic 220uf Micro Farad 10 Volt",
     "description_or_color": "E220uf",
     "description_or_color_upper": "E220UF",
-    "markdown_full": "[electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt)<br>[c63d54tuf220v10](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt)<br>[Electronic Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt)<br>[LCSC - C2833309<br>](https://lcsc.com/product-detail/C2833309.html)<br>",
-    "markdown_short": "[electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt)<br>[LCSC - C2833309<br>](https://lcsc.com/product-detail/C2833309.html)<br>"
+    "markdown_full": "[electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](none)<br>[c63d54tuf220v10](none)<br>[Electronic Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt](none)<br>[LCSC - C2833309<br>](https://lcsc.com/product-detail/C2833309.html)<br>",
+    "markdown_short": "[electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](none)<br>[LCSC - C2833309<br>](https://lcsc.com/product-detail/C2833309.html)<br>"
 }

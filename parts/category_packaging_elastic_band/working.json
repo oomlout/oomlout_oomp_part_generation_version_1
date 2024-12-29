@@ -50,8 +50,9 @@
     "id_no_type": "elastic_band",
     "id_no_size": "elastic_band",
     "oomp_key": "oomp_category_packaging_elastic_band",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_elastic_band",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_elastic_band",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_elastic_band",
     "directory": "parts/category_packaging_elastic_band",
     "name": "Category Packaging Elastic Band",
     "name_no_class": "Packaging Elastic Band",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Elastic Band",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_packaging_elastic_band](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band)<br>[Category Packaging Elastic Band](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band)<br><br>",
-    "markdown_short": "[category_packaging_elastic_band](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_elastic_band)<br><br>"
+    "markdown_full": "[category_packaging_elastic_band](none)<br>[](none)<br>[Category Packaging Elastic Band](none)<br><br>",
+    "markdown_short": "[category_packaging_elastic_band](none)<br><br>"
 }

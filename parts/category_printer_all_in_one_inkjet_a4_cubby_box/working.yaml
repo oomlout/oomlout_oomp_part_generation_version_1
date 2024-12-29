@@ -27,21 +27,22 @@ directory: parts/category_printer_all_in_one_inkjet_a4_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box
 id: category_printer_all_in_one_inkjet_a4_cubby_box
 id_no_class: printer_all_in_one_inkjet_a4_cubby_box
 id_no_size: a4_cubby_box
 id_no_type: all_in_one_inkjet_a4_cubby_box
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_printer_all_in_one_inkjet_a4_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box)<br>[Category
-    Printer All In One Inkjet A4 Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box)<br><br>'
-markdown_short: '[category_printer_all_in_one_inkjet_a4_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_cubby_box)<br><br>'
+markdown_full: '[category_printer_all_in_one_inkjet_a4_cubby_box](none)<br>[](none)<br>[Category
+    Printer All In One Inkjet A4 Cubby Box](none)<br><br>'
+markdown_short: '[category_printer_all_in_one_inkjet_a4_cubby_box](none)<br><br>'
 md5: 5e717cd00790e6d9830762fd41ff50ec
 md5_10: 5e717cd007
 md5_10_upper: 5E717CD007

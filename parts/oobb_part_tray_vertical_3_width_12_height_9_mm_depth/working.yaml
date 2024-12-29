@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 3_width_12_height_9_mm_depth
+description_main_capital: 3 Width 12 Height 9 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_12_HEIGHT_9_MM_DEPTH
+description_only_numbers: '3129'
+description_only_numbers_short: 3k1
+description_or_color: 3k1
+description_or_color_upper: 3K1
+directory: parts/oobb_part_tray_vertical_3_width_12_height_9_mm_depth
+distributors: []
+id: oobb_part_tray_vertical_3_width_12_height_9_mm_depth
+id_no_class: part_tray_vertical_3_width_12_height_9_mm_depth
+id_no_size: 3_width_12_height_9_mm_depth
+id_no_type: tray_vertical_3_width_12_height_9_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_3_width_12_height_9_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_3_width_12_height_9_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_3_width_12_height_9_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_3_width_12_height_9_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray Vertical 3 Width 12 Height 9 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_3_width_12_height_9_mm_depth](none)<br><br>'
+md5: fd8a6131357bc929ef38e3d23b05f48c
+md5_10: fd8a613135
+md5_10_upper: FD8A613135
+md5_5: fd8a6
+md5_5_upper: FD8A6
+md5_6: fd8a61
+md5_6_alpha: 9w50h
+md5_6_alpha_upper: 9W50H
+md5_6_upper: FD8A61
+name: Oobb Part Tray Vertical 3 Width 12 Height 9 Mm Depth
+name_no_class: Part Tray Vertical 3 Width 12 Height 9 Mm Depth
+name_no_size: 3 Width 12 Height 9 Mm Depth
+name_no_size_short: 3 Width 12 Height 9 Mm Depth
+name_no_type: Tray Vertical 3 Width 12 Height 9 Mm Depth
+oomp_key: oomp_oobb_part_tray_vertical_3_width_12_height_9_mm_depth
+oomp_word: parking envelope bouquet
+oomp_word_emoji: ':parking: :envelope: :bouquet:'
+oomp_word_emoji_list:
+- ':parking:'
+- ':envelope:'
+- ':bouquet:'
+oomp_word_list:
+- parking
+- envelope
+- bouquet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

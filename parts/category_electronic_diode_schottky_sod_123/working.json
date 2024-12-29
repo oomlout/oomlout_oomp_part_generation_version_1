@@ -50,8 +50,9 @@
     "id_no_type": "diode_schottky_sod_123",
     "id_no_size": "sod_123",
     "oomp_key": "oomp_category_electronic_diode_schottky_sod_123",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_schottky_sod_123",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_schottky_sod_123",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_schottky_sod_123",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_schottky_sod_123",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_schottky_sod_123",
     "directory": "parts/category_electronic_diode_schottky_sod_123",
     "name": "Category Electronic Diode Schottky Sod 123",
     "name_no_class": "Electronic Diode Schottky Sod 123",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Sod 123",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_electronic_diode_schottky_sod_123](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_schottky_sod_123)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_schottky_sod_123)<br>[Category Electronic Diode Schottky Sod 123](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_schottky_sod_123)<br><br>",
-    "markdown_short": "[category_electronic_diode_schottky_sod_123](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_schottky_sod_123)<br><br>"
+    "markdown_full": "[category_electronic_diode_schottky_sod_123](none)<br>[](none)<br>[Category Electronic Diode Schottky Sod 123](none)<br><br>",
+    "markdown_short": "[category_electronic_diode_schottky_sod_123](none)<br><br>"
 }

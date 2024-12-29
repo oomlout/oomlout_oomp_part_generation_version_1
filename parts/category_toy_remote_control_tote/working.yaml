@@ -27,21 +27,22 @@ directory: parts/category_toy_remote_control_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_tote
 id: category_toy_remote_control_tote
 id_no_class: toy_remote_control_tote
 id_no_size: tote
 id_no_type: remote_control_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_toy_remote_control_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_tote)<br>[Category
-    Toy Remote Control Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_tote)<br><br>'
-markdown_short: '[category_toy_remote_control_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_remote_control_tote)<br><br>'
+markdown_full: '[category_toy_remote_control_tote](none)<br>[](none)<br>[Category
+    Toy Remote Control Tote](none)<br><br>'
+markdown_short: '[category_toy_remote_control_tote](none)<br><br>'
 md5: c9ddbc763a3a131e45eee64ac012052b
 md5_10: c9ddbc763a
 md5_10_upper: C9DDBC763A

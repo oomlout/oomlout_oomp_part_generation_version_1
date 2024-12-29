@@ -47,8 +47,9 @@
     "id_no_type": "microsoft_surface_microsoft_1661",
     "id_no_size": "microsoft_1661",
     "oomp_key": "oomp_computer_docking_station_microsoft_surface_microsoft_1661",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661",
     "directory": "parts/computer_docking_station_microsoft_surface_microsoft_1661",
     "name": "Computer Docking Station Microsoft Surface Microsoft 1661",
     "name_no_class": "Docking Station Microsoft Surface Microsoft 1661",
@@ -86,6 +87,6 @@
     "name_no_size_short": "Microsoft 1661",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[computer_docking_station_microsoft_surface_microsoft_1661](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661)<br>[Computer Docking Station Microsoft Surface Microsoft 1661](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661)<br><br>",
-    "markdown_short": "[computer_docking_station_microsoft_surface_microsoft_1661](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661)<br><br>"
+    "markdown_full": "[computer_docking_station_microsoft_surface_microsoft_1661](none)<br>[](none)<br>[Computer Docking Station Microsoft Surface Microsoft 1661](none)<br><br>",
+    "markdown_short": "[computer_docking_station_microsoft_surface_microsoft_1661](none)<br><br>"
 }

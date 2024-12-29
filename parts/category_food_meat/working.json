@@ -50,8 +50,9 @@
     "id_no_type": "meat",
     "id_no_size": "meat",
     "oomp_key": "oomp_category_food_meat",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_meat",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_meat",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_meat",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_meat",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_meat",
     "directory": "parts/category_food_meat",
     "name": "Category Food Meat",
     "name_no_class": "Food Meat",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Meat",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_food_meat](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_meat)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_meat)<br>[Category Food Meat](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_meat)<br><br>",
-    "markdown_short": "[category_food_meat](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_meat)<br><br>"
+    "markdown_full": "[category_food_meat](none)<br>[](none)<br>[Category Food Meat](none)<br><br>",
+    "markdown_short": "[category_food_meat](none)<br><br>"
 }

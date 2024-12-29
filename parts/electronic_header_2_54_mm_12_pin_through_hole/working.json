@@ -46,8 +46,9 @@
     "id_no_type": "2_54_mm_12_pin_through_hole",
     "id_no_size": "12_pin_through_hole",
     "oomp_key": "oomp_electronic_header_2_54_mm_12_pin_through_hole",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole",
     "directory": "parts/electronic_header_2_54_mm_12_pin_through_hole",
     "name": "Electronic Header 2 54 Mm 12 Pin Through Hole",
     "name_no_class": "Header 2 54 Mm 12 Pin Through Hole",
@@ -98,6 +99,6 @@
     "name_no_size_short": "12 Pin Through Hole",
     "description_or_color": "12",
     "description_or_color_upper": "12",
-    "markdown_full": "[electronic_header_2_54_mm_12_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole)<br>[hi112pth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole)<br>[Electronic Header 2 54 Mm 12 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>",
-    "markdown_short": "[electronic_header_2_54_mm_12_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>"
+    "markdown_full": "[electronic_header_2_54_mm_12_pin_through_hole](none)<br>[hi112pth](none)<br>[Electronic Header 2 54 Mm 12 Pin Through Hole](none)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>",
+    "markdown_short": "[electronic_header_2_54_mm_12_pin_through_hole](none)<br>[LCSC - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>"
 }

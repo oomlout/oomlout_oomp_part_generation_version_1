@@ -50,8 +50,9 @@
     "id_no_type": "battery_holder_16340",
     "id_no_size": "16340",
     "oomp_key": "oomp_category_electronic_battery_holder_16340",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_holder_16340",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_holder_16340",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_holder_16340",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_holder_16340",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_holder_16340",
     "directory": "parts/category_electronic_battery_holder_16340",
     "name": "Category Electronic Battery Holder 16340",
     "name_no_class": "Electronic Battery Holder 16340",
@@ -89,6 +90,6 @@
     "name_no_size_short": "16340",
     "description_or_color": "1 ",
     "description_or_color_upper": "1 ",
-    "markdown_full": "[category_electronic_battery_holder_16340](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_holder_16340)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_holder_16340)<br>[Category Electronic Battery Holder 16340](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_holder_16340)<br><br>",
-    "markdown_short": "[category_electronic_battery_holder_16340](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_holder_16340)<br><br>"
+    "markdown_full": "[category_electronic_battery_holder_16340](none)<br>[](none)<br>[Category Electronic Battery Holder 16340](none)<br><br>",
+    "markdown_short": "[category_electronic_battery_holder_16340](none)<br><br>"
 }

@@ -50,8 +50,9 @@
     "id_no_type": "webcam_external_tote",
     "id_no_size": "external_tote",
     "oomp_key": "oomp_category_computer_webcam_external_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_webcam_external_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_webcam_external_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_webcam_external_tote",
     "directory": "parts/category_computer_webcam_external_tote",
     "name": "Category Computer Webcam External Tote",
     "name_no_class": "Computer Webcam External Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "External Tote",
     "description_or_color": "E ",
     "description_or_color_upper": "E ",
-    "markdown_full": "[category_computer_webcam_external_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external_tote)<br>[Category Computer Webcam External Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external_tote)<br><br>",
-    "markdown_short": "[category_computer_webcam_external_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam_external_tote)<br><br>"
+    "markdown_full": "[category_computer_webcam_external_tote](none)<br>[](none)<br>[Category Computer Webcam External Tote](none)<br><br>",
+    "markdown_short": "[category_computer_webcam_external_tote](none)<br><br>"
 }

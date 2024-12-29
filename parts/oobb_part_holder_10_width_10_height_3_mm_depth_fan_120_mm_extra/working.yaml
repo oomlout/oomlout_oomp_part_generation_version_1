@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: fan_120_mm_extra
+description_extra_capital: Fan 120 mm Extra
+description_extra_first_letter: f
+description_extra_first_letter_upper: F
+description_extra_upper: FAN_120_MM_EXTRA
+description_main: 10_width_10_height_3_mm_depth
+description_main_capital: 10 Width 10 Height 3 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 10_WIDTH_10_HEIGHT_3_MM_DEPTH
+description_only_numbers: '10103'
+description_only_numbers_short: 10k
+description_or_color: 10k
+description_or_color_upper: 10K
+directory: parts/oobb_part_holder_10_width_10_height_3_mm_depth_fan_120_mm_extra
+distributors: []
+id: oobb_part_holder_10_width_10_height_3_mm_depth_fan_120_mm_extra
+id_no_class: part_holder_10_width_10_height_3_mm_depth_fan_120_mm_extra
+id_no_size: 10_width_10_height_3_mm_depth_fan_120_mm_extra
+id_no_type: holder_10_width_10_height_3_mm_depth_fan_120_mm_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_10_width_10_height_3_mm_depth_fan_120_mm_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_10_width_10_height_3_mm_depth_fan_120_mm_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_10_width_10_height_3_mm_depth_fan_120_mm_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_holder_10_width_10_height_3_mm_depth_fan_120_mm_extra](none)<br>[](none)<br>[Oobb
+    Part Holder 10 Width 10 Height 3 Mm Depth Fan 120 Mm Extra](none)<br><br>'
+markdown_short: '[oobb_part_holder_10_width_10_height_3_mm_depth_fan_120_mm_extra](none)<br><br>'
+md5: c65959492c98b3aa64ebf92481705cf0
+md5_10: c65959492c
+md5_10_upper: C65959492C
+md5_5: c6595
+md5_5_upper: C6595
+md5_6: c65959
+md5_6_alpha: 7qm3d
+md5_6_alpha_upper: 7QM3D
+md5_6_upper: C65959
+name: Oobb Part Holder 10 Width 10 Height 3 Mm Depth Fan 120 Mm Extra
+name_no_class: Part Holder 10 Width 10 Height 3 Mm Depth Fan 120 Mm Extra
+name_no_size: 10 Width 10 Height 3 Mm Depth Fan 120 Mm Extra
+name_no_size_short: 10 Width 10 Height 3 Mm Depth Fan 120 Mm Extra
+name_no_type: Holder 10 Width 10 Height 3 Mm Depth Fan 120 Mm Extra
+oomp_key: oomp_oobb_part_holder_10_width_10_height_3_mm_depth_fan_120_mm_extra
+oomp_word: lollipop dragon dragon
+oomp_word_emoji: ':lollipop: :dragon: :dragon:'
+oomp_word_emoji_list:
+- ':lollipop:'
+- ':dragon:'
+- ':dragon:'
+oomp_word_list:
+- lollipop
+- dragon
+- dragon
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: holder
+size_capital: Holder
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOLDER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

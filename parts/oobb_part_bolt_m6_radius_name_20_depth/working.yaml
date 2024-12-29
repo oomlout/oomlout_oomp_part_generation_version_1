@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: m6_radius_name_20_depth
+description_extra_capital: M6 Radius Name 20 Depth
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: M6_RADIUS_NAME_20_DEPTH
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_bolt_m6_radius_name_20_depth
+distributors: []
+id: oobb_part_bolt_m6_radius_name_20_depth
+id_no_class: part_bolt_m6_radius_name_20_depth
+id_no_size: m6_radius_name_20_depth
+id_no_type: bolt_m6_radius_name_20_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bolt_m6_radius_name_20_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bolt_m6_radius_name_20_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bolt_m6_radius_name_20_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bolt_m6_radius_name_20_depth](none)<br>[](none)<br>[Oobb
+    Part Bolt M6 Radius Name 20 Depth](none)<br><br>'
+markdown_short: '[oobb_part_bolt_m6_radius_name_20_depth](none)<br><br>'
+md5: 9c76b2a7655f95b136ad072eb0013881
+md5_10: 9c76b2a765
+md5_10_upper: 9C76B2A765
+md5_5: 9c76b
+md5_5_upper: 9C76B
+md5_6: 9c76b2
+md5_6_alpha: 63s1e
+md5_6_alpha_upper: 63S1E
+md5_6_upper: 9C76B2
+name: Oobb Part Bolt M6 Radius Name 20 Depth
+name_no_class: Part Bolt M6 Radius Name 20 Depth
+name_no_size: M6 Radius Name 20 Depth
+name_no_size_short: M6 Radius Name 20 Depth
+name_no_type: Bolt M6 Radius Name 20 Depth
+oomp_key: oomp_oobb_part_bolt_m6_radius_name_20_depth
+oomp_word: spades santa handbag
+oomp_word_emoji: ':spades: :santa: :handbag:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':santa:'
+- ':handbag:'
+oomp_word_list:
+- spades
+- santa
+- handbag
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bolt
+size_capital: Bolt
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BOLT
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

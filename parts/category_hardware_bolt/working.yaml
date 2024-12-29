@@ -27,21 +27,21 @@ directory: parts/category_hardware_bolt
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt
 id: category_hardware_bolt
 id_no_class: hardware_bolt
 id_no_size: bolt
 id_no_type: bolt
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_bolt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt)<br>[Category
-    Hardware Bolt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt)<br><br>'
-markdown_short: '[category_hardware_bolt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bolt)<br><br>'
+markdown_full: '[category_hardware_bolt](none)<br>[](none)<br>[Category Hardware Bolt](none)<br><br>'
+markdown_short: '[category_hardware_bolt](none)<br><br>'
 md5: d093519b090e7f5a0a1d2d8dcc479469
 md5_10: d093519b09
 md5_10_upper: D093519B09

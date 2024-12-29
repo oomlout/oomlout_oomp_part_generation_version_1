@@ -27,21 +27,22 @@ directory: parts/category_household_cleaning
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_cleaning
 id: category_household_cleaning
 id_no_class: household_cleaning
 id_no_size: householdcleaning
 id_no_type: household_cleaning
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_cleaning
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_cleaning
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_cleaning
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_cleaning
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_household_cleaning](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_cleaning)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_cleaning)<br>[Category
-    Household Cleaning](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_cleaning)<br><br>'
-markdown_short: '[category_household_cleaning](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_cleaning)<br><br>'
+markdown_full: '[category_household_cleaning](none)<br>[](none)<br>[Category Household
+    Cleaning](none)<br><br>'
+markdown_short: '[category_household_cleaning](none)<br><br>'
 md5: 6db0655b0e4508c8ac5cfaa80ddbe7ec
 md5_10: 6db0655b0e
 md5_10_upper: 6DB0655B0E

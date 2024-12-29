@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: v_extra
+description_extra_capital: V Extra
+description_extra_first_letter: v
+description_extra_first_letter_upper: V
+description_extra_upper: V_EXTRA
+description_main: 5_width_1_mm_depth
+description_main_capital: 5 Width 1 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5_WIDTH_1_MM_DEPTH
+description_only_numbers: '51'
+description_only_numbers_short: '51'
+description_or_color: '51'
+description_or_color_upper: '51'
+directory: parts/oobb_part_bunting_alphabet_5_width_1_mm_depth_v_extra
+distributors: []
+id: oobb_part_bunting_alphabet_5_width_1_mm_depth_v_extra
+id_no_class: part_bunting_alphabet_5_width_1_mm_depth_v_extra
+id_no_size: 5_width_1_mm_depth_v_extra
+id_no_type: bunting_alphabet_5_width_1_mm_depth_v_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_5_width_1_mm_depth_v_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_5_width_1_mm_depth_v_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_5_width_1_mm_depth_v_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bunting_alphabet_5_width_1_mm_depth_v_extra](none)<br>[](none)<br>[Oobb
+    Part Bunting Alphabet 5 Width 1 Mm Depth V Extra](none)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_5_width_1_mm_depth_v_extra](none)<br><br>'
+md5: ba1c19866ca5edb9aacd8d276f54a0d2
+md5_10: ba1c19866c
+md5_10_upper: BA1C19866C
+md5_5: ba1c1
+md5_5_upper: BA1C1
+md5_6: ba1c19
+md5_6_alpha: 79f6h
+md5_6_alpha_upper: 79F6H
+md5_6_upper: BA1C19
+name: Oobb Part Bunting Alphabet 5 Width 1 Mm Depth V Extra
+name_no_class: Part Bunting Alphabet 5 Width 1 Mm Depth V Extra
+name_no_size: 5 Width 1 Mm Depth V Extra
+name_no_size_short: 5 Width 1 Mm Depth V Extra
+name_no_type: Bunting Alphabet 5 Width 1 Mm Depth V Extra
+oomp_key: oomp_oobb_part_bunting_alphabet_5_width_1_mm_depth_v_extra
+oomp_word: spaghetti dancer pray
+oomp_word_emoji: ':spaghetti: :dancer: :pray:'
+oomp_word_emoji_list:
+- ':spaghetti:'
+- ':dancer:'
+- ':pray:'
+oomp_word_list:
+- spaghetti
+- dancer
+- pray
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bunting_alphabet
+size_capital: Bunting Alphabet
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNTING_ALPHABET
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

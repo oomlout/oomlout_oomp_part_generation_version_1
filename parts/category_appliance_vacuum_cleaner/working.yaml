@@ -27,21 +27,22 @@ directory: parts/category_appliance_vacuum_cleaner
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner
 id: category_appliance_vacuum_cleaner
 id_no_class: appliance_vacuum_cleaner
 id_no_size: vacuum_cleaner
 id_no_type: vacuum_cleaner
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_appliance_vacuum_cleaner](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner)<br>[Category
-    Appliance Vacuum Cleaner](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner)<br><br>'
-markdown_short: '[category_appliance_vacuum_cleaner](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner)<br><br>'
+markdown_full: '[category_appliance_vacuum_cleaner](none)<br>[](none)<br>[Category
+    Appliance Vacuum Cleaner](none)<br><br>'
+markdown_short: '[category_appliance_vacuum_cleaner](none)<br><br>'
 md5: 635b739b35e37d1ca71de760e5a39431
 md5_10: 635b739b35
 md5_10_upper: 635B739B35

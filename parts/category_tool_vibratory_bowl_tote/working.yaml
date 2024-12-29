@@ -27,21 +27,22 @@ directory: parts/category_tool_vibratory_bowl_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tote
 id: category_tool_vibratory_bowl_tote
 id_no_class: tool_vibratory_bowl_tote
 id_no_size: tote
 id_no_type: vibratory_bowl_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_tool_vibratory_bowl_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tote)<br>[Category
-    Tool Vibratory Bowl Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tote)<br><br>'
-markdown_short: '[category_tool_vibratory_bowl_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tote)<br><br>'
+markdown_full: '[category_tool_vibratory_bowl_tote](none)<br>[](none)<br>[Category
+    Tool Vibratory Bowl Tote](none)<br><br>'
+markdown_short: '[category_tool_vibratory_bowl_tote](none)<br><br>'
 md5: ecb9caa7a3ded27da5171ef1bd3b8c5c
 md5_10: ecb9caa7a3
 md5_10_upper: ECB9CAA7A3

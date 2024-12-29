@@ -37,13 +37,14 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r12o390_electronic_resistor_1206_39_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_39_ohm
 id: electronic_resistor_1206_39_ohm
 id_no_class: resistor_1206_39_ohm
 id_no_size: 39_ohm
 id_no_type: 1206_39_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_39_ohm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_39_ohm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_39_ohm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_39_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -72,15 +73,15 @@ manufacturers:
         reason: yageo is a commonly cross referenced part number
         reason_short: available everywhere
     part_number: RC1206JR-0739RL
-markdown_full: '[electronic_resistor_1206_39_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_39_ohm)<br>[r12o390](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_39_ohm)<br>[Electronic
-    Resistor 1206 39 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_39_ohm)<br><br>[Uniroyal
-    - 1206W4J0390T5E- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0390T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0390T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0390T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0390T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0390T5E)<br>[Uniroyal
+markdown_full: '[electronic_resistor_1206_39_ohm](none)<br>[r12o390](none)<br>[Electronic
+    Resistor 1206 39 Ohm](none)<br><br>[Uniroyal - 1206W4J0390T5E- not in jlc basic
+    parts]() [(L)  ](https://www.lcsc.com/search?q=1206W4J0390T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4J0390T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4J0390T5E)[(N)  ](https://www.newark.com/search?st=1206W4J0390T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4J0390T5E)<br>[Uniroyal
     - 1206W4F039-1T5E- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=1206W4F039-1T5E)[(D)  ](https://www.digikey.com/en/products?keywords=1206W4F039-1T5E)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=1206W4F039-1T5E)[(N)  ](https://www.newark.com/search?st=1206W4F039-1T5E)[(SZ)  ](https://so.szlcsc.com/global.html?k=1206W4F039-1T5E)<br>[Yageo
     - RC1206JR-0739RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0739RL)
     [(L)  ](https://www.lcsc.com/search?q=RC1206JR-0739RL)[(D)  ](https://www.digikey.com/en/products?keywords=RC1206JR-0739RL)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC1206JR-0739RL)[(N)  ](https://www.newark.com/search?st=RC1206JR-0739RL)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC1206JR-0739RL)<br>'
-markdown_short: '[electronic_resistor_1206_39_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_39_ohm)<br><br>[Uniroyal
-    - 1206W4J0390T5E- not in jlc basic parts]()[Uniroyal - 1206W4F039-1T5E- jlc basic
-    part]()[Yageo - RC1206JR-0739RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0739RL)'
+markdown_short: '[electronic_resistor_1206_39_ohm](none)<br><br>[Uniroyal - 1206W4J0390T5E-
+    not in jlc basic parts]()[Uniroyal - 1206W4F039-1T5E- jlc basic part]()[Yageo
+    - RC1206JR-0739RL- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC1206JR-0739RL)'
 md5: 44df20dd61bbf857544c2f9a22cfef8b
 md5_10: 44df20dd61
 md5_10_upper: 44DF20DD61

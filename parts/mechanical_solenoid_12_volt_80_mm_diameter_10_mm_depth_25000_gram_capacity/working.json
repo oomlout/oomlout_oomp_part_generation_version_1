@@ -46,8 +46,9 @@
     "id_no_type": "12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity",
     "id_no_size": "80_mm_diameter_10_mm_depth_25000_gram_capacity",
     "oomp_key": "oomp_mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity",
     "directory": "parts/mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity",
     "name": "Mechanical Solenoid 12 Volt 80 Mm Diameter 10 Mm Depth 25000 Gram Capacity",
     "name_no_class": "Solenoid 12 Volt 80 Mm Diameter 10 Mm Depth 25000 Gram Capacity",
@@ -85,6 +86,6 @@
     "name_no_size_short": "80 Mm Diameter 10 Mm Depth 25000 Gram Capacity",
     "description_or_color": "8k",
     "description_or_color_upper": "8K",
-    "markdown_full": "[mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity)<br>[Mechanical Solenoid 12 Volt 80 Mm Diameter 10 Mm Depth 25000 Gram Capacity](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity)<br><br>",
-    "markdown_short": "[mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity)<br><br>"
+    "markdown_full": "[mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity](none)<br>[](none)<br>[Mechanical Solenoid 12 Volt 80 Mm Diameter 10 Mm Depth 25000 Gram Capacity](none)<br><br>",
+    "markdown_short": "[mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity](none)<br><br>"
 }

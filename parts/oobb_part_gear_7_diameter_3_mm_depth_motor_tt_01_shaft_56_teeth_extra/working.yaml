@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: motor_tt_01_shaft_56_teeth_extra
+description_extra_capital: Motor Tt 01 Shaft 56 Teeth Extra
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: MOTOR_TT_01_SHAFT_56_TEETH_EXTRA
+description_main: 7_diameter_3_mm_depth
+description_main_capital: 7 Diameter 3 mm Depth
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 7_DIAMETER_3_MM_DEPTH
+description_only_numbers: '73'
+description_only_numbers_short: '73'
+description_or_color: '73'
+description_or_color_upper: '73'
+directory: parts/oobb_part_gear_7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra
+distributors: []
+id: oobb_part_gear_7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra
+id_no_class: part_gear_7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra
+id_no_size: 7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra
+id_no_type: gear_7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_gear_7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra](none)<br>[](none)<br>[Oobb
+    Part Gear 7 Diameter 3 Mm Depth Motor Tt 01 Shaft 56 Teeth Extra](none)<br><br>'
+markdown_short: '[oobb_part_gear_7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra](none)<br><br>'
+md5: 160df0265b6706d6ec24d50f117cf457
+md5_10: 160df0265b
+md5_10_upper: 160DF0265B
+md5_5: 160df
+md5_5_upper: 160DF
+md5_6: 160df0
+md5_6_alpha: uz8w
+md5_6_alpha_upper: UZ8W
+md5_6_upper: 160DF0
+name: Oobb Part Gear 7 Diameter 3 Mm Depth Motor Tt 01 Shaft 56 Teeth Extra
+name_no_class: Part Gear 7 Diameter 3 Mm Depth Motor Tt 01 Shaft 56 Teeth Extra
+name_no_size: 7 Diameter 3 Mm Depth Motor Tt 01 Shaft 56 Teeth Extra
+name_no_size_short: 7 Diameter 3 Mm Depth Motor Tt 01 Shaft 56 Teeth Extra
+name_no_type: Gear 7 Diameter 3 Mm Depth Motor Tt 01 Shaft 56 Teeth Extra
+oomp_key: oomp_oobb_part_gear_7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra
+oomp_word: thumbsup heart train
+oomp_word_emoji: ':thumbsup: :heart: :train:'
+oomp_word_emoji_list:
+- ':thumbsup:'
+- ':heart:'
+- ':train:'
+oomp_word_list:
+- thumbsup
+- heart
+- train
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: gear
+size_capital: Gear
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GEAR
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

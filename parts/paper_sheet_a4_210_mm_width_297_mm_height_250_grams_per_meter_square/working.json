@@ -56,8 +56,9 @@
     "id_no_type": "a4_210_mm_width_297_mm_height_250_grams_per_meter_square",
     "id_no_size": "250_grams_per_meter_square",
     "oomp_key": "oomp_paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square",
     "directory": "parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square",
     "name": "Paper Sheet A4 210 Mm Width 297 Mm Height 250 Grams Per Meter Square",
     "name_no_class": "Sheet A4 210 Mm Width 297 Mm Height 250 Grams Per Meter Square",
@@ -95,6 +96,6 @@
     "name_no_size_short": "250 Grams Per Meter Square",
     "description_or_color": "250",
     "description_or_color_upper": "250",
-    "markdown_full": "[paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square)<br>[Paper Sheet A4 210 Mm Width 297 Mm Height 250 Grams Per Meter Square](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square)<br><br>",
-    "markdown_short": "[paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square)<br><br>"
+    "markdown_full": "[paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square](none)<br>[](none)<br>[Paper Sheet A4 210 Mm Width 297 Mm Height 250 Grams Per Meter Square](none)<br><br>",
+    "markdown_short": "[paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square](none)<br><br>"
 }

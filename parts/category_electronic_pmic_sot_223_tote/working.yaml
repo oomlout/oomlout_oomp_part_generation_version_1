@@ -27,21 +27,22 @@ directory: parts/category_electronic_pmic_sot_223_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic_sot_223_tote
 id: category_electronic_pmic_sot_223_tote
 id_no_class: electronic_pmic_sot_223_tote
 id_no_size: sot_223_tote
 id_no_type: pmic_sot_223_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic_sot_223_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_pmic_sot_223_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_pmic_sot_223_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_pmic_sot_223_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_pmic_sot_223_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic_sot_223_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic_sot_223_tote)<br>[Category
-    Electronic Pmic Sot 223 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic_sot_223_tote)<br><br>'
-markdown_short: '[category_electronic_pmic_sot_223_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_pmic_sot_223_tote)<br><br>'
+markdown_full: '[category_electronic_pmic_sot_223_tote](none)<br>[](none)<br>[Category
+    Electronic Pmic Sot 223 Tote](none)<br><br>'
+markdown_short: '[category_electronic_pmic_sot_223_tote](none)<br><br>'
 md5: 1f09e5f91065121f0edbd32ced0b3cc0
 md5_10: 1f09e5f910
 md5_10_upper: 1F09E5F910

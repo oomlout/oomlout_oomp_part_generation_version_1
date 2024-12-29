@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/MECD",
-    "link_github": "https://github.com/oomlout/MECD",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_mecd",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_mecd",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_mecd",
     "id_no_size": "mecd",
     "oomp_key": "oomp_project_github_oomlout_mecd",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mecd",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mecd",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_mecd",
     "directory": "parts/project_github_oomlout_mecd",
     "name": "Project Github Oomlout Mecd",
     "name_no_class": "Github Oomlout Mecd",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Mecd",
     "description_or_color": "M ",
     "description_or_color_upper": "M ",
-    "markdown_full": "[project_github_oomlout_mecd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mecd)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mecd)<br>[Project Github Oomlout Mecd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mecd)<br><br>",
-    "markdown_short": "[project_github_oomlout_mecd](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mecd)<br><br>"
+    "markdown_full": "[project_github_oomlout_mecd](none)<br>[](none)<br>[Project Github Oomlout Mecd](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_mecd](none)<br><br>"
 }

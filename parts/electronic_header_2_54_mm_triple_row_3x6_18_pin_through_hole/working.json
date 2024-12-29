@@ -46,8 +46,9 @@
     "id_no_type": "2_54_mm_triple_row_3x6_18_pin_through_hole",
     "id_no_size": "3x6_18_pin_through_hole",
     "oomp_key": "oomp_electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole",
     "directory": "parts/electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole",
     "name": "Electronic Header 2 54 Mm Triple Row 3X6 18 Pin Through Hole",
     "name_no_class": "Header 2 54 Mm Triple Row 3X6 18 Pin Through Hole",
@@ -92,6 +93,6 @@
     "name_no_size_short": "3X6 18 Pin Through Hole",
     "description_or_color": "3k6",
     "description_or_color_upper": "3K6",
-    "markdown_full": "[electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole)<br>[hth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole)<br>[Electronic Header 2 54 Mm Triple Row 3X6 18 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole)<br>[LCSC - C920773<br>](https://lcsc.com/product-detail/C920773.html)<br>",
-    "markdown_short": "[electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole)<br>[LCSC - C920773<br>](https://lcsc.com/product-detail/C920773.html)<br>"
+    "markdown_full": "[electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole](none)<br>[hth](none)<br>[Electronic Header 2 54 Mm Triple Row 3X6 18 Pin Through Hole](none)<br>[LCSC - C920773<br>](https://lcsc.com/product-detail/C920773.html)<br>",
+    "markdown_short": "[electronic_header_2_54_mm_triple_row_3x6_18_pin_through_hole](none)<br>[LCSC - C920773<br>](https://lcsc.com/product-detail/C920773.html)<br>"
 }

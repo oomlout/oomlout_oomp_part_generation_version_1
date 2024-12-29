@@ -1,0 +1,93 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+description_extra_capital: 606 Bearing Bearing Twenty Twenty Aluminium Extrusion Extra
+description_extra_first_letter: '6'
+description_extra_first_letter_upper: '6'
+description_extra_upper: 606_BEARING_BEARING_TWENTY_TWENTY_ALUMINIUM_EXTRUSION_EXTRA
+description_main: 24_diameter_15_mm_depth
+description_main_capital: 24 Diameter 15 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 24_DIAMETER_15_MM_DEPTH
+description_only_numbers: '2415'
+description_only_numbers_short: 2k4
+description_or_color: 2k4
+description_or_color_upper: 2K4
+directory: parts/oobb_part_wheel_24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+distributors: []
+id: oobb_part_wheel_24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+id_no_class: part_wheel_24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+id_no_size: 24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+id_no_type: wheel_24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_wheel_24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_wheel_24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_wheel_24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_wheel_24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra](none)<br>[](none)<br>[Oobb
+    Part Wheel 24 Diameter 15 Mm Depth 606 Bearing Bearing Twenty Twenty Aluminium
+    Extrusion Extra](none)<br><br>'
+markdown_short: '[oobb_part_wheel_24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra](none)<br><br>'
+md5: 9ed1c14e2ad031139ee2e4775fea1ac9
+md5_10: 9ed1c14e2a
+md5_10_upper: 9ED1C14E2A
+md5_5: 9ed1c
+md5_5_upper: 9ED1C
+md5_6: 9ed1c1
+md5_6_alpha: 6735t
+md5_6_alpha_upper: 6735T
+md5_6_upper: 9ED1C1
+name: Oobb Part Wheel 24 Diameter 15 Mm Depth 606 Bearing Bearing Twenty Twenty Aluminium
+    Extrusion Extra
+name_no_class: Part Wheel 24 Diameter 15 Mm Depth 606 Bearing Bearing Twenty Twenty
+    Aluminium Extrusion Extra
+name_no_size: 24 Diameter 15 Mm Depth 606 Bearing Bearing Twenty Twenty Aluminium
+    Extrusion Extra
+name_no_size_short: 24 Diameter 15 Mm Depth 606 Bearing Bearing Twenty Twenty Aluminium
+    Extrusion Extra
+name_no_type: Wheel 24 Diameter 15 Mm Depth 606 Bearing Bearing Twenty Twenty Aluminium
+    Extrusion Extra
+oomp_key: oomp_oobb_part_wheel_24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+oomp_word: clubs pear doughnut
+oomp_word_emoji: ':clubs: :pear: :doughnut:'
+oomp_word_emoji_list:
+- ':clubs:'
+- ':pear:'
+- ':doughnut:'
+oomp_word_list:
+- clubs
+- pear
+- doughnut
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: wheel
+size_capital: Wheel
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WHEEL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

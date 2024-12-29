@@ -27,21 +27,22 @@ directory: parts/category_electronic_breakout_board_motor_driver_l298n
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n
 id: category_electronic_breakout_board_motor_driver_l298n
 id_no_class: electronic_breakout_board_motor_driver_l298n
 id_no_size: l298n
 id_no_type: breakout_board_motor_driver_l298n
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_breakout_board_motor_driver_l298n](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n)<br>[Category
-    Electronic Breakout Board Motor Driver L298N](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n)<br><br>'
-markdown_short: '[category_electronic_breakout_board_motor_driver_l298n](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n)<br><br>'
+markdown_full: '[category_electronic_breakout_board_motor_driver_l298n](none)<br>[](none)<br>[Category
+    Electronic Breakout Board Motor Driver L298N](none)<br><br>'
+markdown_short: '[category_electronic_breakout_board_motor_driver_l298n](none)<br><br>'
 md5: da39554c95fb88bb5e74aaca1e487d96
 md5_10: da39554c95
 md5_10_upper: DA39554C95

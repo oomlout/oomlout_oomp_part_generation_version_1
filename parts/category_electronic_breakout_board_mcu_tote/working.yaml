@@ -27,21 +27,22 @@ directory: parts/category_electronic_breakout_board_mcu_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_tote
 id: category_electronic_breakout_board_mcu_tote
 id_no_class: electronic_breakout_board_mcu_tote
 id_no_size: tote
 id_no_type: breakout_board_mcu_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_breakout_board_mcu_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_tote)<br>[Category
-    Electronic Breakout Board Mcu Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_tote)<br><br>'
-markdown_short: '[category_electronic_breakout_board_mcu_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_tote)<br><br>'
+markdown_full: '[category_electronic_breakout_board_mcu_tote](none)<br>[](none)<br>[Category
+    Electronic Breakout Board Mcu Tote](none)<br><br>'
+markdown_short: '[category_electronic_breakout_board_mcu_tote](none)<br><br>'
 md5: e640624166bd32e11701cfe3a81509df
 md5_10: e640624166
 md5_10_upper: E640624166

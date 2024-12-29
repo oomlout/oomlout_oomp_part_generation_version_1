@@ -27,21 +27,22 @@ directory: parts/category_electronic_connector_screw_terminal_5_mm_pitch_2_pin
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_screw_terminal_5_mm_pitch_2_pin
 id: category_electronic_connector_screw_terminal_5_mm_pitch_2_pin
 id_no_class: electronic_connector_screw_terminal_5_mm_pitch_2_pin
 id_no_size: screw_terminal_5_mm_pitch_2_pin
 id_no_type: connector_screw_terminal_5_mm_pitch_2_pin
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_screw_terminal_5_mm_pitch_2_pin
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_screw_terminal_5_mm_pitch_2_pin
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_screw_terminal_5_mm_pitch_2_pin
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_screw_terminal_5_mm_pitch_2_pin
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_connector_screw_terminal_5_mm_pitch_2_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_screw_terminal_5_mm_pitch_2_pin)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_screw_terminal_5_mm_pitch_2_pin)<br>[Category
-    Electronic Connector Screw Terminal 5 Mm Pitch 2 Pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_screw_terminal_5_mm_pitch_2_pin)<br><br>'
-markdown_short: '[category_electronic_connector_screw_terminal_5_mm_pitch_2_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_screw_terminal_5_mm_pitch_2_pin)<br><br>'
+markdown_full: '[category_electronic_connector_screw_terminal_5_mm_pitch_2_pin](none)<br>[](none)<br>[Category
+    Electronic Connector Screw Terminal 5 Mm Pitch 2 Pin](none)<br><br>'
+markdown_short: '[category_electronic_connector_screw_terminal_5_mm_pitch_2_pin](none)<br><br>'
 md5: 15c4d1b4606b96efc7cdc06184ea79b0
 md5_10: 15c4d1b460
 md5_10_upper: 15C4D1B460

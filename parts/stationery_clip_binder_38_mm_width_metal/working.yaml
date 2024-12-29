@@ -25,22 +25,23 @@ description_or_color_upper: 'M '
 directory: parts/stationery_clip_binder_38_mm_width_metal
 distributor_amazon: B07VHPV47Q
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal
 id: stationery_clip_binder_38_mm_width_metal
 id_no_class: clip_binder_38_mm_width_metal
 id_no_size: metal
 id_no_type: 38_mm_width_metal
 link_distributor_amazon: https://www.amazon.co.uk/dp/B07VHPV47Q
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[stationery_clip_binder_38_mm_width_metal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal)<br>[Stationery
-    Clip Binder 38 Mm Width Metal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal)<br><br>'
-markdown_short: '[stationery_clip_binder_38_mm_width_metal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal)<br><br>'
+markdown_full: '[stationery_clip_binder_38_mm_width_metal](none)<br>[](none)<br>[Stationery
+    Clip Binder 38 Mm Width Metal](none)<br><br>'
+markdown_short: '[stationery_clip_binder_38_mm_width_metal](none)<br><br>'
 md5: 402b05d0907c80538ec9dc286f46c79e
 md5_10: 402b05d090
 md5_10_upper: 402B05D090

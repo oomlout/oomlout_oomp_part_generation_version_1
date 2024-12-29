@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l5w_electronic_led_5_mm_white
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_white
 id: electronic_led_5_mm_white
 id_no_class: led_5_mm_white
 id_no_size: white
 id_no_type: 5_mm_white
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_white
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_white
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_white
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_white
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_5_mm_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_white)<br>[l5w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_white)<br>[Electronic
-    Led 5 Mm White](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_white)<br><br>'
-markdown_short: '[electronic_led_5_mm_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_white)<br><br>'
+markdown_full: '[electronic_led_5_mm_white](none)<br>[l5w](none)<br>[Electronic Led
+    5 Mm White](none)<br><br>'
+markdown_short: '[electronic_led_5_mm_white](none)<br><br>'
 md5: 7b0fa8663be769586716f0b94bbcc67d
 md5_10: 7b0fa8663b
 md5_10_upper: 7B0FA8663B

@@ -46,8 +46,9 @@
     "id_no_type": "2_5_mm_jst_xh_6_pin_socket",
     "id_no_size": "6_pin_socket",
     "oomp_key": "oomp_electronic_crimp_housing_2_5_mm_jst_xh_6_pin_socket",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_6_pin_socket",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_6_pin_socket",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_6_pin_socket",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_6_pin_socket",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_6_pin_socket",
     "directory": "parts/electronic_crimp_housing_2_5_mm_jst_xh_6_pin_socket",
     "name": "Electronic Crimp Housing 2 5 Mm Jst Xh 6 Pin Socket",
     "name_no_class": "Crimp Housing 2 5 Mm Jst Xh 6 Pin Socket",
@@ -85,6 +86,6 @@
     "name_no_size_short": "6 Pin Socket",
     "description_or_color": "6",
     "description_or_color_upper": "6",
-    "markdown_full": "[electronic_crimp_housing_2_5_mm_jst_xh_6_pin_socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_6_pin_socket)<br>[chjxh6p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_6_pin_socket)<br>[Electronic Crimp Housing 2 5 Mm Jst Xh 6 Pin Socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_6_pin_socket)<br><br>",
-    "markdown_short": "[electronic_crimp_housing_2_5_mm_jst_xh_6_pin_socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_6_pin_socket)<br><br>"
+    "markdown_full": "[electronic_crimp_housing_2_5_mm_jst_xh_6_pin_socket](none)<br>[chjxh6p](none)<br>[Electronic Crimp Housing 2 5 Mm Jst Xh 6 Pin Socket](none)<br><br>",
+    "markdown_short": "[electronic_crimp_housing_2_5_mm_jst_xh_6_pin_socket](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_oobb_part_wire
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire
 id: category_oobb_part_wire
 id_no_class: oobb_part_wire
 id_no_size: wire
 id_no_type: part_wire
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_wire
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_wire
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_wire
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part_wire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire)<br>[Category
-    Oobb Part Wire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire)<br><br>'
-markdown_short: '[category_oobb_part_wire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_wire)<br><br>'
+markdown_full: '[category_oobb_part_wire](none)<br>[](none)<br>[Category Oobb Part
+    Wire](none)<br><br>'
+markdown_short: '[category_oobb_part_wire](none)<br><br>'
 md5: e7ca6a3e25a9c328b9923ced2c7f48b9
 md5_10: e7ca6a3e25
 md5_10_upper: E7CA6A3E25

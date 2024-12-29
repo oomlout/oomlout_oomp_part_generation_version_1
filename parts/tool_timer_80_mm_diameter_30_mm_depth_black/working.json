@@ -49,8 +49,9 @@
     "id_no_type": "80_mm_diameter_30_mm_depth_black",
     "id_no_size": "80mmdiameter30mmdepthblack",
     "oomp_key": "oomp_tool_timer_80_mm_diameter_30_mm_depth_black",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_timer_80_mm_diameter_30_mm_depth_black",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_timer_80_mm_diameter_30_mm_depth_black",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_timer_80_mm_diameter_30_mm_depth_black",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_timer_80_mm_diameter_30_mm_depth_black",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_timer_80_mm_diameter_30_mm_depth_black",
     "directory": "parts/tool_timer_80_mm_diameter_30_mm_depth_black",
     "name": "Tool Timer 80 Mm Diameter 30 Mm Depth Black",
     "name_no_class": "Timer 80 Mm Diameter 30 Mm Depth Black",
@@ -88,6 +89,6 @@
     "name_no_size_short": "80Mmdiameter30Mmdepthblack",
     "description_or_color": "8k",
     "description_or_color_upper": "8K",
-    "markdown_full": "[tool_timer_80_mm_diameter_30_mm_depth_black](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_timer_80_mm_diameter_30_mm_depth_black)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_timer_80_mm_diameter_30_mm_depth_black)<br>[Tool Timer 80 Mm Diameter 30 Mm Depth Black](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_timer_80_mm_diameter_30_mm_depth_black)<br><br>",
-    "markdown_short": "[tool_timer_80_mm_diameter_30_mm_depth_black](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_timer_80_mm_diameter_30_mm_depth_black)<br><br>"
+    "markdown_full": "[tool_timer_80_mm_diameter_30_mm_depth_black](none)<br>[](none)<br>[Tool Timer 80 Mm Diameter 30 Mm Depth Black](none)<br><br>",
+    "markdown_short": "[tool_timer_80_mm_diameter_30_mm_depth_black](none)<br><br>"
 }

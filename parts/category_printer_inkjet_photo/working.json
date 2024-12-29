@@ -50,8 +50,9 @@
     "id_no_type": "inkjet_photo",
     "id_no_size": "photo",
     "oomp_key": "oomp_category_printer_inkjet_photo",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_photo",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_photo",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_photo",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_photo",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_photo",
     "directory": "parts/category_printer_inkjet_photo",
     "name": "Category Printer Inkjet Photo",
     "name_no_class": "Printer Inkjet Photo",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Photo",
     "description_or_color": "P ",
     "description_or_color_upper": "P ",
-    "markdown_full": "[category_printer_inkjet_photo](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_photo)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_photo)<br>[Category Printer Inkjet Photo](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_photo)<br><br>",
-    "markdown_short": "[category_printer_inkjet_photo](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_photo)<br><br>"
+    "markdown_full": "[category_printer_inkjet_photo](none)<br>[](none)<br>[Category Printer Inkjet Photo](none)<br><br>",
+    "markdown_short": "[category_printer_inkjet_photo](none)<br><br>"
 }

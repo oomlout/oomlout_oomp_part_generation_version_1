@@ -26,22 +26,23 @@ directory: parts/aluminium_extrusion_2020
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020
 id: aluminium_extrusion_2020
 id_no_class: '2020'
 id_no_size: '2020'
 id_no_type: '2020'
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/aluminium_extrusion_2020
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/aluminium_extrusion_2020
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/aluminium_extrusion_2020
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[aluminium_extrusion_2020](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020)<br>[Aluminium
-    Extrusion 2020](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020)<br><br>'
-markdown_short: '[aluminium_extrusion_2020](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020)<br><br>'
+markdown_full: '[aluminium_extrusion_2020](none)<br>[](none)<br>[Aluminium Extrusion
+    2020](none)<br><br>'
+markdown_short: '[aluminium_extrusion_2020](none)<br><br>'
 md5: caec1539233a5a1cfc9a0fc064603070
 md5_10: caec153923
 md5_10_upper: CAEC153923

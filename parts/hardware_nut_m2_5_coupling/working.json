@@ -48,8 +48,9 @@
     "id_no_type": "m2_5_coupling",
     "id_no_size": "coupling",
     "oomp_key": "oomp_hardware_nut_m2_5_coupling",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_5_coupling",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_5_coupling",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_5_coupling",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_5_coupling",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_5_coupling",
     "directory": "parts/hardware_nut_m2_5_coupling",
     "name": "Hardware Nut M2 5 Coupling",
     "name_no_class": "Nut M2 5 Coupling",
@@ -87,6 +88,6 @@
     "name_no_size_short": "Coupling",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_nut_m2_5_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_5_coupling)<br>[nu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_5_coupling)<br>[Hardware Nut M2 5 Coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_5_coupling)<br><br>",
-    "markdown_short": "[hardware_nut_m2_5_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_5_coupling)<br><br>"
+    "markdown_full": "[hardware_nut_m2_5_coupling](none)<br>[nu](none)<br>[Hardware Nut M2 5 Coupling](none)<br><br>",
+    "markdown_short": "[hardware_nut_m2_5_coupling](none)<br><br>"
 }

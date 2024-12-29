@@ -27,21 +27,22 @@ directory: parts/category_toy_mechano_car_remote_control_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_cubby_box
 id: category_toy_mechano_car_remote_control_cubby_box
 id_no_class: toy_mechano_car_remote_control_cubby_box
 id_no_size: car_remote_control_cubby_box
 id_no_type: mechano_car_remote_control_cubby_box
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_mechano_car_remote_control_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_mechano_car_remote_control_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_mechano_car_remote_control_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_toy_mechano_car_remote_control_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_cubby_box)<br>[Category
-    Toy Mechano Car Remote Control Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_cubby_box)<br><br>'
-markdown_short: '[category_toy_mechano_car_remote_control_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano_car_remote_control_cubby_box)<br><br>'
+markdown_full: '[category_toy_mechano_car_remote_control_cubby_box](none)<br>[](none)<br>[Category
+    Toy Mechano Car Remote Control Cubby Box](none)<br><br>'
+markdown_short: '[category_toy_mechano_car_remote_control_cubby_box](none)<br><br>'
 md5: 1aaef59701c03092d89c73f80ffe871b
 md5_10: 1aaef59701
 md5_10_upper: 1AAEF59701

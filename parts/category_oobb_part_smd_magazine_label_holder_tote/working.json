@@ -50,8 +50,9 @@
     "id_no_type": "part_smd_magazine_label_holder_tote",
     "id_no_size": "smd_magazine_label_holder_tote",
     "oomp_key": "oomp_category_oobb_part_smd_magazine_label_holder_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder_tote",
     "directory": "parts/category_oobb_part_smd_magazine_label_holder_tote",
     "name": "Category Oobb Part Smd Magazine Label Holder Tote",
     "name_no_class": "Oobb Part Smd Magazine Label Holder Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Smd Magazine Label Holder Tote",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_oobb_part_smd_magazine_label_holder_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder_tote)<br>[Category Oobb Part Smd Magazine Label Holder Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder_tote)<br><br>",
-    "markdown_short": "[category_oobb_part_smd_magazine_label_holder_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_label_holder_tote)<br><br>"
+    "markdown_full": "[category_oobb_part_smd_magazine_label_holder_tote](none)<br>[](none)<br>[Category Oobb Part Smd Magazine Label Holder Tote](none)<br><br>",
+    "markdown_short": "[category_oobb_part_smd_magazine_label_holder_tote](none)<br><br>"
 }

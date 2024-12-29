@@ -50,8 +50,9 @@
     "id_no_type": "ceramic_resonator",
     "id_no_size": "ceramic_resonator",
     "oomp_key": "oomp_category_electronic_ceramic_resonator",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ceramic_resonator",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ceramic_resonator",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ceramic_resonator",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ceramic_resonator",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ceramic_resonator",
     "directory": "parts/category_electronic_ceramic_resonator",
     "name": "Category Electronic Ceramic Resonator",
     "name_no_class": "Electronic Ceramic Resonator",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Ceramic Resonator",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_ceramic_resonator](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ceramic_resonator)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ceramic_resonator)<br>[Category Electronic Ceramic Resonator](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ceramic_resonator)<br><br>",
-    "markdown_short": "[category_electronic_ceramic_resonator](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ceramic_resonator)<br><br>"
+    "markdown_full": "[category_electronic_ceramic_resonator](none)<br>[](none)<br>[Category Electronic Ceramic Resonator](none)<br><br>",
+    "markdown_short": "[category_electronic_ceramic_resonator](none)<br><br>"
 }

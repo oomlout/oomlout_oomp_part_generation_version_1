@@ -27,21 +27,21 @@ directory: parts/category_printer
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer
 id: category_printer
 id_no_class: printer
 id_no_size: printer
 id_no_type: printer
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_printer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer)<br>[Category
-    Printer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer)<br><br>'
-markdown_short: '[category_printer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer)<br><br>'
+markdown_full: '[category_printer](none)<br>[](none)<br>[Category Printer](none)<br><br>'
+markdown_short: '[category_printer](none)<br><br>'
 md5: a96d85bfba6773d6077c36f1d2c902e7
 md5_10: a96d85bfba
 md5_10_upper: A96D85BFBA

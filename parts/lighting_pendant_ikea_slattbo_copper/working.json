@@ -47,8 +47,9 @@
     "id_no_type": "ikea_slattbo_copper",
     "id_no_size": "copper",
     "oomp_key": "oomp_lighting_pendant_ikea_slattbo_copper",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper",
     "directory": "parts/lighting_pendant_ikea_slattbo_copper",
     "name": "Lighting Pendant Ikea Slattbo Copper",
     "name_no_class": "Pendant Ikea Slattbo Copper",
@@ -86,6 +87,6 @@
     "name_no_size_short": "Copper",
     "description_or_color": "C ",
     "description_or_color_upper": "C ",
-    "markdown_full": "[lighting_pendant_ikea_slattbo_copper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper)<br>[Lighting Pendant Ikea Slattbo Copper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper)<br><br>",
-    "markdown_short": "[lighting_pendant_ikea_slattbo_copper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper)<br><br>"
+    "markdown_full": "[lighting_pendant_ikea_slattbo_copper](none)<br>[](none)<br>[Lighting Pendant Ikea Slattbo Copper](none)<br><br>",
+    "markdown_short": "[lighting_pendant_ikea_slattbo_copper](none)<br><br>"
 }

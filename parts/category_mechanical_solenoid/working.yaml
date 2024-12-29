@@ -27,21 +27,22 @@ directory: parts/category_mechanical_solenoid
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid
 id: category_mechanical_solenoid
 id_no_class: mechanical_solenoid
 id_no_size: solenoid
 id_no_type: solenoid
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_mechanical_solenoid](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid)<br>[Category
-    Mechanical Solenoid](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid)<br><br>'
-markdown_short: '[category_mechanical_solenoid](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid)<br><br>'
+markdown_full: '[category_mechanical_solenoid](none)<br>[](none)<br>[Category Mechanical
+    Solenoid](none)<br><br>'
+markdown_short: '[category_mechanical_solenoid](none)<br><br>'
 md5: bc977e2ed0aac1f3e4432a3a4ba9a69f
 md5_10: bc977e2ed0
 md5_10_upper: BC977E2ED0

@@ -1,0 +1,89 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: electronic_potentiometer_17_mm_extra
+description_extra_capital: Electronic Potentiometer 17 mm Extra
+description_extra_first_letter: e
+description_extra_first_letter_upper: E
+description_extra_upper: ELECTRONIC_POTENTIOMETER_17_MM_EXTRA
+description_main: 3_width_3_height_12_mm_depth
+description_main_capital: 3 Width 3 Height 12 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_3_HEIGHT_12_MM_DEPTH
+description_only_numbers: '3312'
+description_only_numbers_short: 3k3
+description_or_color: 3k3
+description_or_color_upper: 3K3
+directory: parts/oobb_part_holder_3_width_3_height_12_mm_depth_electronic_potentiometer_17_mm_extra
+distributors: []
+id: oobb_part_holder_3_width_3_height_12_mm_depth_electronic_potentiometer_17_mm_extra
+id_no_class: part_holder_3_width_3_height_12_mm_depth_electronic_potentiometer_17_mm_extra
+id_no_size: 3_width_3_height_12_mm_depth_electronic_potentiometer_17_mm_extra
+id_no_type: holder_3_width_3_height_12_mm_depth_electronic_potentiometer_17_mm_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_3_width_3_height_12_mm_depth_electronic_potentiometer_17_mm_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_3_width_3_height_12_mm_depth_electronic_potentiometer_17_mm_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_3_width_3_height_12_mm_depth_electronic_potentiometer_17_mm_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_holder_3_width_3_height_12_mm_depth_electronic_potentiometer_17_mm_extra](none)<br>[](none)<br>[Oobb
+    Part Holder 3 Width 3 Height 12 Mm Depth Electronic Potentiometer 17 Mm Extra](none)<br><br>'
+markdown_short: '[oobb_part_holder_3_width_3_height_12_mm_depth_electronic_potentiometer_17_mm_extra](none)<br><br>'
+md5: 98158a804cb8cc01c5e0fdc8a8ec8c7a
+md5_10: 98158a804c
+md5_10_upper: 98158A804C
+md5_5: '98158'
+md5_5_upper: '98158'
+md5_6: 98158a
+md5_6_alpha: 5xmkq
+md5_6_alpha_upper: 5XMKQ
+md5_6_upper: 98158A
+name: Oobb Part Holder 3 Width 3 Height 12 Mm Depth Electronic Potentiometer 17 Mm
+    Extra
+name_no_class: Part Holder 3 Width 3 Height 12 Mm Depth Electronic Potentiometer 17
+    Mm Extra
+name_no_size: 3 Width 3 Height 12 Mm Depth Electronic Potentiometer 17 Mm Extra
+name_no_size_short: 3 Width 3 Height 12 Mm Depth Electronic Potentiometer 17 Mm Extra
+name_no_type: Holder 3 Width 3 Height 12 Mm Depth Electronic Potentiometer 17 Mm Extra
+oomp_key: oomp_oobb_part_holder_3_width_3_height_12_mm_depth_electronic_potentiometer_17_mm_extra
+oomp_word: tennis poop envelope
+oomp_word_emoji: ':tennis: :poop: :envelope:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':poop:'
+- ':envelope:'
+oomp_word_list:
+- tennis
+- poop
+- envelope
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: holder
+size_capital: Holder
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOLDER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

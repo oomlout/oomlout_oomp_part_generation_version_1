@@ -26,21 +26,22 @@ directory: parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13
 id: dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13
 id_no_class: ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13
 id_no_size: ikeaoftastwhiteplate250mmdiameterikea30258913
 id_no_type: ikeaoftastwhiteplate250mmdiameterikea30258913
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13
 manufacturer: ikea
 manufacturer_capital: Ikea
 manufacturer_first_letter: i
 manufacturer_first_letter_upper: I
 manufacturer_upper: IKEA
 manufacturers: []
-markdown_full: '[dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13)<br>[w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13)<br>[Dish
-    Ikea Oftast White Plate 250 Mm Diameter Ikea 302 589 13](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13)<br><br>'
-markdown_short: '[dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13)<br><br>'
+markdown_full: '[dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13](none)<br>[w](none)<br>[Dish
+    Ikea Oftast White Plate 250 Mm Diameter Ikea 302 589 13](none)<br><br>'
+markdown_short: '[dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13](none)<br><br>'
 md5: ef01e7b68bf3f9f73d4d220bd43d69a6
 md5_10: ef01e7b68b
 md5_10_upper: EF01E7B68B

@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 7_width_15_height_90_mm_depth
+description_main_capital: 7 Width 15 Height 90 mm Depth
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 7_WIDTH_15_HEIGHT_90_MM_DEPTH
+description_only_numbers: '71590'
+description_only_numbers_short: 72k
+description_or_color: 72k
+description_or_color_upper: 72K
+directory: parts/oobb_part_tray_vertical_7_width_15_height_90_mm_depth
+distributors: []
+id: oobb_part_tray_vertical_7_width_15_height_90_mm_depth
+id_no_class: part_tray_vertical_7_width_15_height_90_mm_depth
+id_no_size: 7_width_15_height_90_mm_depth
+id_no_type: tray_vertical_7_width_15_height_90_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_7_width_15_height_90_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_7_width_15_height_90_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_7_width_15_height_90_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_7_width_15_height_90_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray Vertical 7 Width 15 Height 90 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_7_width_15_height_90_mm_depth](none)<br><br>'
+md5: 44a6f8b4fbf139ae995a8730ba70897a
+md5_10: 44a6f8b4fb
+md5_10_upper: 44A6F8B4FB
+md5_5: 44a6f
+md5_5_upper: 44A6F
+md5_6: 44a6f8
+md5_6_alpha: 2oflk
+md5_6_alpha_upper: 2OFLK
+md5_6_upper: 44A6F8
+name: Oobb Part Tray Vertical 7 Width 15 Height 90 Mm Depth
+name_no_class: Part Tray Vertical 7 Width 15 Height 90 Mm Depth
+name_no_size: 7 Width 15 Height 90 Mm Depth
+name_no_size_short: 7 Width 15 Height 90 Mm Depth
+name_no_type: Tray Vertical 7 Width 15 Height 90 Mm Depth
+oomp_key: oomp_oobb_part_tray_vertical_7_width_15_height_90_mm_depth
+oomp_word: panda_face trumpet seven
+oomp_word_emoji: ':panda_face: :trumpet: :seven:'
+oomp_word_emoji_list:
+- ':panda_face:'
+- ':trumpet:'
+- ':seven:'
+oomp_word_list:
+- panda_face
+- trumpet
+- seven
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

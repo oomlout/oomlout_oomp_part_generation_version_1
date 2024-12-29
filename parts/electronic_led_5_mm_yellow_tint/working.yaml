@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l5y_electronic_led_5_mm_yellow_tint
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_yellow_tint
 id: electronic_led_5_mm_yellow_tint
 id_no_class: led_5_mm_yellow_tint
 id_no_size: yellow_tint
 id_no_type: 5_mm_yellow_tint
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_yellow_tint
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_yellow_tint
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_yellow_tint
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_yellow_tint
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_5_mm_yellow_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_yellow_tint)<br>[l5y](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_yellow_tint)<br>[Electronic
-    Led 5 Mm Yellow Tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_yellow_tint)<br><br>'
-markdown_short: '[electronic_led_5_mm_yellow_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_yellow_tint)<br><br>'
+markdown_full: '[electronic_led_5_mm_yellow_tint](none)<br>[l5y](none)<br>[Electronic
+    Led 5 Mm Yellow Tint](none)<br><br>'
+markdown_short: '[electronic_led_5_mm_yellow_tint](none)<br><br>'
 md5: e1de1385e1e4210f0e5e50ea421390c4
 md5_10: e1de1385e1
 md5_10_upper: E1DE1385E1

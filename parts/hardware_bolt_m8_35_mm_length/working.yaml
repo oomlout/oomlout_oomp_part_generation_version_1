@@ -26,22 +26,23 @@ directory: parts/hardware_bolt_m8_35_mm_length
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m8_35_mm_length
 id: hardware_bolt_m8_35_mm_length
 id_no_class: bolt_m8_35_mm_length
 id_no_size: 35_mm_length
 id_no_type: m8_35_mm_length
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m8_35_mm_length
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bolt_m8_35_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bolt_m8_35_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bolt_m8_35_mm_length
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bolt_m8_35_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m8_35_mm_length)<br>[b835](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m8_35_mm_length)<br>[Hardware
-    Bolt M8 35 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m8_35_mm_length)<br><br>'
-markdown_short: '[hardware_bolt_m8_35_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m8_35_mm_length)<br><br>'
+markdown_full: '[hardware_bolt_m8_35_mm_length](none)<br>[b835](none)<br>[Hardware
+    Bolt M8 35 Mm Length](none)<br><br>'
+markdown_short: '[hardware_bolt_m8_35_mm_length](none)<br><br>'
 md5: 1b83d4aa00dd17650e993b9e4f964d84
 md5_10: 1b83d4aa00
 md5_10_upper: 1B83D4AA00

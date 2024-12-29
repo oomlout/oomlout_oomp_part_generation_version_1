@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/oomlout-HQBS",
-    "link_github": "https://github.com/oomlout/oomlout-HQBS",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_hqbs",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_hqbs",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_oomlout_hqbs",
     "id_no_size": "hqbs",
     "oomp_key": "oomp_project_github_oomlout_oomlout_hqbs",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_hqbs",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_hqbs",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_hqbs",
     "directory": "parts/project_github_oomlout_oomlout_hqbs",
     "name": "Project Github Oomlout Oomlout Hqbs",
     "name_no_class": "Github Oomlout Oomlout Hqbs",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Hqbs",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[project_github_oomlout_oomlout_hqbs](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_hqbs)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_hqbs)<br>[Project Github Oomlout Oomlout Hqbs](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_hqbs)<br><br>",
-    "markdown_short": "[project_github_oomlout_oomlout_hqbs](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_hqbs)<br><br>"
+    "markdown_full": "[project_github_oomlout_oomlout_hqbs](none)<br>[](none)<br>[Project Github Oomlout Oomlout Hqbs](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_oomlout_hqbs](none)<br><br>"
 }

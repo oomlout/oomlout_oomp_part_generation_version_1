@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: u_extra
+description_extra_capital: U Extra
+description_extra_first_letter: u
+description_extra_first_letter_upper: U
+description_extra_upper: U_EXTRA
+description_main: 5_width_3_height_15_mm_depth
+description_main_capital: 5 Width 3 Height 15 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5_WIDTH_3_HEIGHT_15_MM_DEPTH
+description_only_numbers: '5315'
+description_only_numbers_short: 5k3
+description_or_color: 5k3
+description_or_color_upper: 5K3
+directory: parts/oobb_part_plate_5_width_3_height_15_mm_depth_u_extra
+distributors: []
+id: oobb_part_plate_5_width_3_height_15_mm_depth_u_extra
+id_no_class: part_plate_5_width_3_height_15_mm_depth_u_extra
+id_no_size: 5_width_3_height_15_mm_depth_u_extra
+id_no_type: plate_5_width_3_height_15_mm_depth_u_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_5_width_3_height_15_mm_depth_u_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_5_width_3_height_15_mm_depth_u_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_5_width_3_height_15_mm_depth_u_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_5_width_3_height_15_mm_depth_u_extra](none)<br>[](none)<br>[Oobb
+    Part Plate 5 Width 3 Height 15 Mm Depth U Extra](none)<br><br>'
+markdown_short: '[oobb_part_plate_5_width_3_height_15_mm_depth_u_extra](none)<br><br>'
+md5: 6f27d2458c7288255d6f64f74f079c8f
+md5_10: 6f27d2458c
+md5_10_upper: 6F27D2458C
+md5_5: 6f27d
+md5_5_upper: 6F27D
+md5_6: 6f27d2
+md5_6_alpha: 4c4wi
+md5_6_alpha_upper: 4C4WI
+md5_6_upper: 6F27D2
+name: Oobb Part Plate 5 Width 3 Height 15 Mm Depth U Extra
+name_no_class: Part Plate 5 Width 3 Height 15 Mm Depth U Extra
+name_no_size: 5 Width 3 Height 15 Mm Depth U Extra
+name_no_size_short: 5 Width 3 Height 15 Mm Depth U Extra
+name_no_type: Plate 5 Width 3 Height 15 Mm Depth U Extra
+oomp_key: oomp_oobb_part_plate_5_width_3_height_15_mm_depth_u_extra
+oomp_word: moon nose pineapple
+oomp_word_emoji: ':moon: :nose: :pineapple:'
+oomp_word_emoji_list:
+- ':moon:'
+- ':nose:'
+- ':pineapple:'
+oomp_word_list:
+- moon
+- nose
+- pineapple
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -50,8 +50,9 @@
     "id_no_type": "resistor_0402",
     "id_no_size": "0402",
     "oomp_key": "oomp_category_electronic_resistor_0402",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0402",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0402",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_0402",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_0402",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_0402",
     "directory": "parts/category_electronic_resistor_0402",
     "name": "Category Electronic Resistor 0402",
     "name_no_class": "Electronic Resistor 0402",
@@ -89,6 +90,6 @@
     "name_no_size_short": "0402",
     "description_or_color": "0 ",
     "description_or_color_upper": "0 ",
-    "markdown_full": "[category_electronic_resistor_0402](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0402)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0402)<br>[Category Electronic Resistor 0402](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0402)<br><br>",
-    "markdown_short": "[category_electronic_resistor_0402](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_resistor_0402)<br><br>"
+    "markdown_full": "[category_electronic_resistor_0402](none)<br>[](none)<br>[Category Electronic Resistor 0402](none)<br><br>",
+    "markdown_short": "[category_electronic_resistor_0402](none)<br><br>"
 }

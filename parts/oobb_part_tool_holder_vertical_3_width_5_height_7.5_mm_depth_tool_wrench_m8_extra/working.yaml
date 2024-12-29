@@ -1,0 +1,89 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: tool_wrench_m8_extra
+description_extra_capital: Tool Wrench M8 Extra
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOOL_WRENCH_M8_EXTRA
+description_main: 3_width_5_height_7.5_mm_depth
+description_main_capital: 3 Width 5 Height 7.5 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_5_HEIGHT_7.5_MM_DEPTH
+description_only_numbers: '3575'
+description_only_numbers_short: 3k5
+description_or_color: 3k5
+description_or_color_upper: 3K5
+directory: parts/oobb_part_tool_holder_vertical_3_width_5_height_7.5_mm_depth_tool_wrench_m8_extra
+distributors: []
+id: oobb_part_tool_holder_vertical_3_width_5_height_7.5_mm_depth_tool_wrench_m8_extra
+id_no_class: part_tool_holder_vertical_3_width_5_height_7.5_mm_depth_tool_wrench_m8_extra
+id_no_size: 3_width_5_height_7.5_mm_depth_tool_wrench_m8_extra
+id_no_type: tool_holder_vertical_3_width_5_height_7.5_mm_depth_tool_wrench_m8_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_3_width_5_height_7.5_mm_depth_tool_wrench_m8_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_3_width_5_height_7.5_mm_depth_tool_wrench_m8_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_3_width_5_height_7.5_mm_depth_tool_wrench_m8_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tool_holder_vertical_3_width_5_height_7.5_mm_depth_tool_wrench_m8_extra](none)<br>[](none)<br>[Oobb
+    Part Tool Holder Vertical 3 Width 5 Height 7.5 Mm Depth Tool Wrench M8 Extra](none)<br><br>'
+markdown_short: '[oobb_part_tool_holder_vertical_3_width_5_height_7.5_mm_depth_tool_wrench_m8_extra](none)<br><br>'
+md5: e3379f268291f06d4750f65f4f187eaa
+md5_10: e3379f2682
+md5_10_upper: E3379F2682
+md5_5: e3379
+md5_5_upper: E3379
+md5_6: e3379f
+md5_6_alpha: 8v5wf
+md5_6_alpha_upper: 8V5WF
+md5_6_upper: E3379F
+name: Oobb Part Tool Holder Vertical 3 Width 5 Height 7.5 Mm Depth Tool Wrench M8
+    Extra
+name_no_class: Part Tool Holder Vertical 3 Width 5 Height 7.5 Mm Depth Tool Wrench
+    M8 Extra
+name_no_size: 3 Width 5 Height 7.5 Mm Depth Tool Wrench M8 Extra
+name_no_size_short: 3 Width 5 Height 7.5 Mm Depth Tool Wrench M8 Extra
+name_no_type: Tool Holder Vertical 3 Width 5 Height 7.5 Mm Depth Tool Wrench M8 Extra
+oomp_key: oomp_oobb_part_tool_holder_vertical_3_width_5_height_7.5_mm_depth_tool_wrench_m8_extra
+oomp_word: rowboat wolf diamonds
+oomp_word_emoji: ':rowboat: :wolf: :diamonds:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':wolf:'
+- ':diamonds:'
+oomp_word_list:
+- rowboat
+- wolf
+- diamonds
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tool_holder_vertical
+size_capital: Tool Holder Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TOOL_HOLDER_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

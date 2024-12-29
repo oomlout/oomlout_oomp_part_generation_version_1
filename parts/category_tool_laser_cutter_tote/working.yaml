@@ -27,21 +27,22 @@ directory: parts/category_tool_laser_cutter_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter_tote
 id: category_tool_laser_cutter_tote
 id_no_class: tool_laser_cutter_tote
 id_no_size: tote
 id_no_type: laser_cutter_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_laser_cutter_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_laser_cutter_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_laser_cutter_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_tool_laser_cutter_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter_tote)<br>[Category
-    Tool Laser Cutter Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter_tote)<br><br>'
-markdown_short: '[category_tool_laser_cutter_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_laser_cutter_tote)<br><br>'
+markdown_full: '[category_tool_laser_cutter_tote](none)<br>[](none)<br>[Category Tool
+    Laser Cutter Tote](none)<br><br>'
+markdown_short: '[category_tool_laser_cutter_tote](none)<br><br>'
 md5: 47133dc9fb181745209d608cf803b2ca
 md5_10: 47133dc9fb
 md5_10_upper: 47133DC9FB

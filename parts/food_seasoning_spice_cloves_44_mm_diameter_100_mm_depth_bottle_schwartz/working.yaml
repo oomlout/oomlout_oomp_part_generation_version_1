@@ -27,21 +27,22 @@ directory: parts/food_seasoning_spice_cloves_44_mm_diameter_100_mm_depth_bottle_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_spice_cloves_44_mm_diameter_100_mm_depth_bottle_schwartz
 id: food_seasoning_spice_cloves_44_mm_diameter_100_mm_depth_bottle_schwartz
 id_no_class: seasoning_spice_cloves_44_mm_diameter_100_mm_depth_bottle_schwartz
 id_no_size: cloves_44_mm_diameter_100_mm_depth_bottle_schwartz
 id_no_type: spice_cloves_44_mm_diameter_100_mm_depth_bottle_schwartz
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_spice_cloves_44_mm_diameter_100_mm_depth_bottle_schwartz
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_cloves_44_mm_diameter_100_mm_depth_bottle_schwartz
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_cloves_44_mm_diameter_100_mm_depth_bottle_schwartz
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_cloves_44_mm_diameter_100_mm_depth_bottle_schwartz
 manufacturer: schwartz
 manufacturer_capital: Schwartz
 manufacturer_first_letter: s
 manufacturer_first_letter_upper: S
 manufacturer_upper: SCHWARTZ
 manufacturers: []
-markdown_full: '[food_seasoning_spice_cloves_44_mm_diameter_100_mm_depth_bottle_schwartz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_spice_cloves_44_mm_diameter_100_mm_depth_bottle_schwartz)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_spice_cloves_44_mm_diameter_100_mm_depth_bottle_schwartz)<br>[Food
-    Seasoning Spice Cloves 44 Mm Diameter 100 Mm Depth Bottle Schwartz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_spice_cloves_44_mm_diameter_100_mm_depth_bottle_schwartz)<br><br>'
-markdown_short: '[food_seasoning_spice_cloves_44_mm_diameter_100_mm_depth_bottle_schwartz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_spice_cloves_44_mm_diameter_100_mm_depth_bottle_schwartz)<br><br>'
+markdown_full: '[food_seasoning_spice_cloves_44_mm_diameter_100_mm_depth_bottle_schwartz](none)<br>[](none)<br>[Food
+    Seasoning Spice Cloves 44 Mm Diameter 100 Mm Depth Bottle Schwartz](none)<br><br>'
+markdown_short: '[food_seasoning_spice_cloves_44_mm_diameter_100_mm_depth_bottle_schwartz](none)<br><br>'
 md5: 4a3e2c056c02d61826d0368ea24be419
 md5_10: 4a3e2c056c
 md5_10_upper: 4A3E2C056C

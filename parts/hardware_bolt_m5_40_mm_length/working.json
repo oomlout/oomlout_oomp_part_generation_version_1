@@ -48,8 +48,9 @@
     "id_no_type": "m5_40_mm_length",
     "id_no_size": "40_mm_length",
     "oomp_key": "oomp_hardware_bolt_m5_40_mm_length",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m5_40_mm_length",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m5_40_mm_length",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bolt_m5_40_mm_length",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bolt_m5_40_mm_length",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bolt_m5_40_mm_length",
     "directory": "parts/hardware_bolt_m5_40_mm_length",
     "name": "Hardware Bolt M5 40 Mm Length",
     "name_no_class": "Bolt M5 40 Mm Length",
@@ -87,6 +88,6 @@
     "name_no_size_short": "40 Mm Length",
     "description_or_color": "40",
     "description_or_color_upper": "40",
-    "markdown_full": "[hardware_bolt_m5_40_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m5_40_mm_length)<br>[b540](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m5_40_mm_length)<br>[Hardware Bolt M5 40 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m5_40_mm_length)<br><br>",
-    "markdown_short": "[hardware_bolt_m5_40_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m5_40_mm_length)<br><br>"
+    "markdown_full": "[hardware_bolt_m5_40_mm_length](none)<br>[b540](none)<br>[Hardware Bolt M5 40 Mm Length](none)<br><br>",
+    "markdown_short": "[hardware_bolt_m5_40_mm_length](none)<br><br>"
 }

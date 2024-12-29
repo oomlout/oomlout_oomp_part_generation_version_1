@@ -26,21 +26,22 @@ directory: parts/computer_webcam_external_microsoft_hd_3000_model_1492
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492
 id: computer_webcam_external_microsoft_hd_3000_model_1492
 id_no_class: webcam_external_microsoft_hd_3000_model_1492
 id_no_size: microsoft_hd_3000_model_1492
 id_no_type: external_microsoft_hd_3000_model_1492
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492
 manufacturer: microsoft
 manufacturer_capital: Microsoft
 manufacturer_first_letter: m
 manufacturer_first_letter_upper: M
 manufacturer_upper: MICROSOFT
 manufacturers: []
-markdown_full: '[computer_webcam_external_microsoft_hd_3000_model_1492](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492)<br>[Computer
-    Webcam External Microsoft Hd 3000 Model 1492](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492)<br><br>'
-markdown_short: '[computer_webcam_external_microsoft_hd_3000_model_1492](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492)<br><br>'
+markdown_full: '[computer_webcam_external_microsoft_hd_3000_model_1492](none)<br>[](none)<br>[Computer
+    Webcam External Microsoft Hd 3000 Model 1492](none)<br><br>'
+markdown_short: '[computer_webcam_external_microsoft_hd_3000_model_1492](none)<br><br>'
 md5: 7334a5f24922415cca18757a5421df25
 md5_10: 7334a5f249
 md5_10_upper: 7334A5F249

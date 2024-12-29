@@ -50,8 +50,9 @@
     "id_no_type": "switch_slide",
     "id_no_size": "switch_slide",
     "oomp_key": "oomp_category_electronic_switch_slide",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_switch_slide",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_switch_slide",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_switch_slide",
     "directory": "parts/category_electronic_switch_slide",
     "name": "Category Electronic Switch Slide",
     "name_no_class": "Electronic Switch Slide",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Switch Slide",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_switch_slide](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide)<br>[Category Electronic Switch Slide](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide)<br><br>",
-    "markdown_short": "[category_electronic_switch_slide](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide)<br><br>"
+    "markdown_full": "[category_electronic_switch_slide](none)<br>[](none)<br>[Category Electronic Switch Slide](none)<br><br>",
+    "markdown_short": "[category_electronic_switch_slide](none)<br><br>"
 }

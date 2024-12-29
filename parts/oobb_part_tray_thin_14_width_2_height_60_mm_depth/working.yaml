@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 14_width_2_height_60_mm_depth
+description_main_capital: 14 Width 2 Height 60 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 14_WIDTH_2_HEIGHT_60_MM_DEPTH
+description_only_numbers: '14260'
+description_only_numbers_short: 14k
+description_or_color: 14k
+description_or_color_upper: 14K
+directory: parts/oobb_part_tray_thin_14_width_2_height_60_mm_depth
+distributors: []
+id: oobb_part_tray_thin_14_width_2_height_60_mm_depth
+id_no_class: part_tray_thin_14_width_2_height_60_mm_depth
+id_no_size: 14_width_2_height_60_mm_depth
+id_no_type: tray_thin_14_width_2_height_60_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_14_width_2_height_60_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_14_width_2_height_60_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_14_width_2_height_60_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_thin_14_width_2_height_60_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray Thin 14 Width 2 Height 60 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_thin_14_width_2_height_60_mm_depth](none)<br><br>'
+md5: aa50e0c156a3da3b07ff369dfdf8e319
+md5_10: aa50e0c156
+md5_10_upper: AA50E0C156
+md5_5: aa50e
+md5_5_upper: AA50E
+md5_6: aa50e0
+md5_6_alpha: 6n8io
+md5_6_alpha_upper: 6N8IO
+md5_6_upper: AA50E0
+name: Oobb Part Tray Thin 14 Width 2 Height 60 Mm Depth
+name_no_class: Part Tray Thin 14 Width 2 Height 60 Mm Depth
+name_no_size: 14 Width 2 Height 60 Mm Depth
+name_no_size_short: 14 Width 2 Height 60 Mm Depth
+name_no_type: Tray Thin 14 Width 2 Height 60 Mm Depth
+oomp_key: oomp_oobb_part_tray_thin_14_width_2_height_60_mm_depth
+oomp_word: lipstick beetle ship
+oomp_word_emoji: ':lipstick: :beetle: :ship:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':beetle:'
+- ':ship:'
+oomp_word_list:
+- lipstick
+- beetle
+- ship
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_thin
+size_capital: Tray Thin
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_THIN
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

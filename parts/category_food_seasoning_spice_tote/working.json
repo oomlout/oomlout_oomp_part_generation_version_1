@@ -50,8 +50,9 @@
     "id_no_type": "seasoning_spice_tote",
     "id_no_size": "spice_tote",
     "oomp_key": "oomp_category_food_seasoning_spice_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_spice_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_spice_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_spice_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_spice_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_spice_tote",
     "directory": "parts/category_food_seasoning_spice_tote",
     "name": "Category Food Seasoning Spice Tote",
     "name_no_class": "Food Seasoning Spice Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Spice Tote",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_food_seasoning_spice_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_spice_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_spice_tote)<br>[Category Food Seasoning Spice Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_spice_tote)<br><br>",
-    "markdown_short": "[category_food_seasoning_spice_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_spice_tote)<br><br>"
+    "markdown_full": "[category_food_seasoning_spice_tote](none)<br>[](none)<br>[Category Food Seasoning Spice Tote](none)<br><br>",
+    "markdown_short": "[category_food_seasoning_spice_tote](none)<br><br>"
 }

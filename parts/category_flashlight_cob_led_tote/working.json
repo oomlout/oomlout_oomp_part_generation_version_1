@@ -50,8 +50,9 @@
     "id_no_type": "cob_led_tote",
     "id_no_size": "cobledtote",
     "oomp_key": "oomp_category_flashlight_cob_led_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_flashlight_cob_led_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_flashlight_cob_led_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_flashlight_cob_led_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_flashlight_cob_led_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_flashlight_cob_led_tote",
     "directory": "parts/category_flashlight_cob_led_tote",
     "name": "Category Flashlight Cob Led Tote",
     "name_no_class": "Flashlight Cob Led Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Cobledtote",
     "description_or_color": "C ",
     "description_or_color_upper": "C ",
-    "markdown_full": "[category_flashlight_cob_led_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_flashlight_cob_led_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_flashlight_cob_led_tote)<br>[Category Flashlight Cob Led Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_flashlight_cob_led_tote)<br><br>",
-    "markdown_short": "[category_flashlight_cob_led_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_flashlight_cob_led_tote)<br><br>"
+    "markdown_full": "[category_flashlight_cob_led_tote](none)<br>[](none)<br>[Category Flashlight Cob Led Tote](none)<br><br>",
+    "markdown_short": "[category_flashlight_cob_led_tote](none)<br><br>"
 }

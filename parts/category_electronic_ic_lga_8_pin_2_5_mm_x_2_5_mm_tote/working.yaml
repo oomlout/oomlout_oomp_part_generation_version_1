@@ -27,21 +27,22 @@ directory: parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_tote
 id: category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_tote
 id_no_class: electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_tote
 id_no_size: lga_8_pin_2_5_mm_x_2_5_mm_tote
 id_no_type: ic_lga_8_pin_2_5_mm_x_2_5_mm_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_tote)<br>[Category
-    Electronic Ic Lga 8 Pin 2 5 Mm X 2 5 Mm Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_tote)<br><br>'
-markdown_short: '[category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_tote)<br><br>'
+markdown_full: '[category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_tote](none)<br>[](none)<br>[Category
+    Electronic Ic Lga 8 Pin 2 5 Mm X 2 5 Mm Tote](none)<br><br>'
+markdown_short: '[category_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_tote](none)<br><br>'
 md5: 70b4fe318d3ce9e821e003a0b7e74da6
 md5_10: 70b4fe318d
 md5_10_upper: 70B4FE318D

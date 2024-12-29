@@ -27,21 +27,22 @@ directory: parts/category_electronic_connector_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_tote
 id: category_electronic_connector_tote
 id_no_class: electronic_connector_tote
 id_no_size: tote
 id_no_type: connector_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_connector_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_tote)<br>[Category
-    Electronic Connector Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_tote)<br><br>'
-markdown_short: '[category_electronic_connector_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_connector_tote)<br><br>'
+markdown_full: '[category_electronic_connector_tote](none)<br>[](none)<br>[Category
+    Electronic Connector Tote](none)<br><br>'
+markdown_short: '[category_electronic_connector_tote](none)<br><br>'
 md5: e528366e2b56b8339b1004560e677941
 md5_10: e528366e2b
 md5_10_upper: E528366E2B

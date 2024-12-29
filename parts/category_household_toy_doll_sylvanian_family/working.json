@@ -50,8 +50,9 @@
     "id_no_type": "doll_sylvanian_family",
     "id_no_size": "doll_sylvanian_family",
     "oomp_key": "oomp_category_household_toy_doll_sylvanian_family",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_sylvanian_family",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_sylvanian_family",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_sylvanian_family",
     "directory": "parts/category_household_toy_doll_sylvanian_family",
     "name": "Category Household Toy Doll Sylvanian Family",
     "name_no_class": "Household Toy Doll Sylvanian Family",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Doll Sylvanian Family",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_household_toy_doll_sylvanian_family](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family)<br>[Category Household Toy Doll Sylvanian Family](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family)<br><br>",
-    "markdown_short": "[category_household_toy_doll_sylvanian_family](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_sylvanian_family)<br><br>"
+    "markdown_full": "[category_household_toy_doll_sylvanian_family](none)<br>[](none)<br>[Category Household Toy Doll Sylvanian Family](none)<br><br>",
+    "markdown_short": "[category_household_toy_doll_sylvanian_family](none)<br><br>"
 }

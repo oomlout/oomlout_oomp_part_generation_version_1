@@ -50,8 +50,9 @@
     "id_no_type": "tool",
     "id_no_size": "tool",
     "oomp_key": "oomp_category_tool",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool",
     "directory": "parts/category_tool",
     "name": "Category Tool",
     "name_no_class": "Tool",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Tool",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_tool](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool)<br>[Category Tool](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool)<br><br>",
-    "markdown_short": "[category_tool](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool)<br><br>"
+    "markdown_full": "[category_tool](none)<br>[](none)<br>[Category Tool](none)<br><br>",
+    "markdown_short": "[category_tool](none)<br><br>"
 }

@@ -25,22 +25,23 @@ description_or_color_upper: 'M '
 directory: parts/stationery_clip_binder_100_mm_width_metal
 distributor_amazon: B075YQ93CC
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal
 id: stationery_clip_binder_100_mm_width_metal
 id_no_class: clip_binder_100_mm_width_metal
 id_no_size: metal
 id_no_type: 100_mm_width_metal
 link_distributor_amazon: https://www.amazon.co.uk/dp/B075YQ93CC
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[stationery_clip_binder_100_mm_width_metal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal)<br>[Stationery
-    Clip Binder 100 Mm Width Metal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal)<br><br>'
-markdown_short: '[stationery_clip_binder_100_mm_width_metal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal)<br><br>'
+markdown_full: '[stationery_clip_binder_100_mm_width_metal](none)<br>[](none)<br>[Stationery
+    Clip Binder 100 Mm Width Metal](none)<br><br>'
+markdown_short: '[stationery_clip_binder_100_mm_width_metal](none)<br><br>'
 md5: 947ac6e5bd178b93e1aa8bacac2f0860
 md5_10: 947ac6e5bd
 md5_10_upper: 947AC6E5BD

@@ -50,8 +50,9 @@
     "id_no_type": "ic_mlf_32",
     "id_no_size": "mlf_32",
     "oomp_key": "oomp_category_electronic_ic_mlf_32",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_mlf_32",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_mlf_32",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_mlf_32",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_mlf_32",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_mlf_32",
     "directory": "parts/category_electronic_ic_mlf_32",
     "name": "Category Electronic Ic Mlf 32",
     "name_no_class": "Electronic Ic Mlf 32",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Mlf 32",
     "description_or_color": "M ",
     "description_or_color_upper": "M ",
-    "markdown_full": "[category_electronic_ic_mlf_32](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_mlf_32)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_mlf_32)<br>[Category Electronic Ic Mlf 32](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_mlf_32)<br><br>",
-    "markdown_short": "[category_electronic_ic_mlf_32](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_mlf_32)<br><br>"
+    "markdown_full": "[category_electronic_ic_mlf_32](none)<br>[](none)<br>[Category Electronic Ic Mlf 32](none)<br><br>",
+    "markdown_short": "[category_electronic_ic_mlf_32](none)<br><br>"
 }

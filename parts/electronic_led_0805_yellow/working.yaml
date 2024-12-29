@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l8y_electronic_led_0805_yellow
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow
 id: electronic_led_0805_yellow
 id_no_class: led_0805_yellow
 id_no_size: yellow
 id_no_type: 0805_yellow
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0805_yellow
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0805_yellow
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0805_yellow
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_0805_yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow)<br>[l8y](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow)<br>[Electronic
-    Led 0805 Yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow)<br><br>'
-markdown_short: '[electronic_led_0805_yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow)<br><br>'
+markdown_full: '[electronic_led_0805_yellow](none)<br>[l8y](none)<br>[Electronic Led
+    0805 Yellow](none)<br><br>'
+markdown_short: '[electronic_led_0805_yellow](none)<br><br>'
 md5: 5c87ad5a4f3215668066a822e24d75cf
 md5_10: 5c87ad5a4f
 md5_10_upper: 5C87AD5A4F

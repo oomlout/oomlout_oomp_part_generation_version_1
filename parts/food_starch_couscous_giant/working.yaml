@@ -27,21 +27,22 @@ directory: parts/food_starch_couscous_giant
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_couscous_giant
 id: food_starch_couscous_giant
 id_no_class: starch_couscous_giant
 id_no_size: giant
 id_no_type: couscous_giant
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_couscous_giant
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_couscous_giant
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_couscous_giant
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_couscous_giant
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_starch_couscous_giant](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_couscous_giant)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_couscous_giant)<br>[Food
-    Starch Couscous Giant](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_couscous_giant)<br><br>'
-markdown_short: '[food_starch_couscous_giant](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_couscous_giant)<br><br>'
+markdown_full: '[food_starch_couscous_giant](none)<br>[](none)<br>[Food Starch Couscous
+    Giant](none)<br><br>'
+markdown_short: '[food_starch_couscous_giant](none)<br><br>'
 md5: dae4fcb5b50090be3e8733c25be87b95
 md5_10: dae4fcb5b5
 md5_10_upper: DAE4FCB5B5

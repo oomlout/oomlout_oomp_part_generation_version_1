@@ -48,8 +48,9 @@
     "id_no_type": "quarter_watt_through_hole_10_ohm",
     "id_no_size": "10_ohm",
     "oomp_key": "oomp_electronic_resistor_quarter_watt_through_hole_10_ohm",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_10_ohm",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_10_ohm",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_10_ohm",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_10_ohm",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_10_ohm",
     "directory": "parts/electronic_resistor_quarter_watt_through_hole_10_ohm",
     "name": "Electronic Resistor Quarter Watt Through Hole 10 Ohm",
     "name_no_class": "Resistor Quarter Watt Through Hole 10 Ohm",
@@ -87,6 +88,6 @@
     "name_no_size_short": "10 Ohm",
     "description_or_color": "10",
     "description_or_color_upper": "10",
-    "markdown_full": "[electronic_resistor_quarter_watt_through_hole_10_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_10_ohm)<br>[ro100](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_10_ohm)<br>[Electronic Resistor Quarter Watt Through Hole 10 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_10_ohm)<br><br>",
-    "markdown_short": "[electronic_resistor_quarter_watt_through_hole_10_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_10_ohm)<br><br>"
+    "markdown_full": "[electronic_resistor_quarter_watt_through_hole_10_ohm](none)<br>[ro100](none)<br>[Electronic Resistor Quarter Watt Through Hole 10 Ohm](none)<br><br>",
+    "markdown_short": "[electronic_resistor_quarter_watt_through_hole_10_ohm](none)<br><br>"
 }

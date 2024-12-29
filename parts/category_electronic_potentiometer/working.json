@@ -50,8 +50,9 @@
     "id_no_type": "potentiometer",
     "id_no_size": "potentiometer",
     "oomp_key": "oomp_category_electronic_potentiometer",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_potentiometer",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_potentiometer",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_potentiometer",
     "directory": "parts/category_electronic_potentiometer",
     "name": "Category Electronic Potentiometer",
     "name_no_class": "Electronic Potentiometer",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Potentiometer",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_potentiometer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer)<br>[Category Electronic Potentiometer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer)<br><br>",
-    "markdown_short": "[category_electronic_potentiometer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer)<br><br>"
+    "markdown_full": "[category_electronic_potentiometer](none)<br>[](none)<br>[Category Electronic Potentiometer](none)<br><br>",
+    "markdown_short": "[category_electronic_potentiometer](none)<br><br>"
 }

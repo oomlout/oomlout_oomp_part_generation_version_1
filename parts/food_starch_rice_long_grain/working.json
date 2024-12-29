@@ -49,8 +49,9 @@
     "id_no_type": "rice_long_grain",
     "id_no_size": "long_grain",
     "oomp_key": "oomp_food_starch_rice_long_grain",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain",
     "directory": "parts/food_starch_rice_long_grain",
     "name": "Food Starch Rice Long Grain",
     "name_no_class": "Starch Rice Long Grain",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Long Grain",
     "description_or_color": "L ",
     "description_or_color_upper": "L ",
-    "markdown_full": "[food_starch_rice_long_grain](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain)<br>[Food Starch Rice Long Grain](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain)<br><br>",
-    "markdown_short": "[food_starch_rice_long_grain](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain)<br><br>"
+    "markdown_full": "[food_starch_rice_long_grain](none)<br>[](none)<br>[Food Starch Rice Long Grain](none)<br><br>",
+    "markdown_short": "[food_starch_rice_long_grain](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_computer_tablet
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet
 id: category_computer_tablet
 id_no_class: computer_tablet
 id_no_size: tablet
 id_no_type: tablet
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_computer_tablet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet)<br>[Category
-    Computer Tablet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet)<br><br>'
-markdown_short: '[category_computer_tablet](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet)<br><br>'
+markdown_full: '[category_computer_tablet](none)<br>[](none)<br>[Category Computer
+    Tablet](none)<br><br>'
+markdown_short: '[category_computer_tablet](none)<br><br>'
 md5: 9b14e4ee7a5aa277a21e447c9c52217f
 md5_10: 9b14e4ee7a
 md5_10_upper: 9B14E4EE7A

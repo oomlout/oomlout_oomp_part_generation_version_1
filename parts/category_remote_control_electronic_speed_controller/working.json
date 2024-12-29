@@ -50,8 +50,9 @@
     "id_no_type": "electronic_speed_controller",
     "id_no_size": "electronic_speed_controller",
     "oomp_key": "oomp_category_remote_control_electronic_speed_controller",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_electronic_speed_controller",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_electronic_speed_controller",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_electronic_speed_controller",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_electronic_speed_controller",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_electronic_speed_controller",
     "directory": "parts/category_remote_control_electronic_speed_controller",
     "name": "Category Remote Control Electronic Speed Controller",
     "name_no_class": "Remote Control Electronic Speed Controller",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Electronic Speed Controller",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_remote_control_electronic_speed_controller](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_electronic_speed_controller)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_electronic_speed_controller)<br>[Category Remote Control Electronic Speed Controller](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_electronic_speed_controller)<br><br>",
-    "markdown_short": "[category_remote_control_electronic_speed_controller](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_electronic_speed_controller)<br><br>"
+    "markdown_full": "[category_remote_control_electronic_speed_controller](none)<br>[](none)<br>[Category Remote Control Electronic Speed Controller](none)<br><br>",
+    "markdown_short": "[category_remote_control_electronic_speed_controller](none)<br><br>"
 }

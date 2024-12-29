@@ -26,23 +26,22 @@ directory: parts/project_github_oomlout_oomp_base_electronic_three_d_model
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_electronic_three_d_model
 id: project_github_oomlout_oomp_base_electronic_three_d_model
 id_no_class: github_oomlout_oomp_base_electronic_three_d_model
 id_no_size: oomp_base_electronic_three_d_model
 id_no_type: oomlout_oomp_base_electronic_three_d_model
-link_github: https://github.com/oomlout/oomp_base_electronic_three_d_model
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_electronic_three_d_model
-link_redirect: https://github.com/oomlout/oomp_base_electronic_three_d_model
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_electronic_three_d_model
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_electronic_three_d_model
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_electronic_three_d_model
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_oomp_base_electronic_three_d_model](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_electronic_three_d_model)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_electronic_three_d_model)<br>[Project
-    Github Oomlout Oomp Base Electronic Three D Model](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_electronic_three_d_model)<br><br>'
-markdown_short: '[project_github_oomlout_oomp_base_electronic_three_d_model](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_electronic_three_d_model)<br><br>'
+markdown_full: '[project_github_oomlout_oomp_base_electronic_three_d_model](none)<br>[](none)<br>[Project
+    Github Oomlout Oomp Base Electronic Three D Model](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomp_base_electronic_three_d_model](none)<br><br>'
 md5: 331b791ebc3af4472904ae12c324e35a
 md5_10: 331b791ebc
 md5_10_upper: 331B791EBC

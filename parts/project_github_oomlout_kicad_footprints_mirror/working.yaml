@@ -26,23 +26,22 @@ directory: parts/project_github_oomlout_kicad_footprints_mirror
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror
 id: project_github_oomlout_kicad_footprints_mirror
 id_no_class: github_oomlout_kicad_footprints_mirror
 id_no_size: kicad_footprints_mirror
 id_no_type: oomlout_kicad_footprints_mirror
-link_github: https://github.com/oomlout/kicad-footprints-mirror
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror
-link_redirect: https://github.com/oomlout/kicad-footprints-mirror
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_kicad_footprints_mirror](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror)<br>[Project
-    Github Oomlout Kicad Footprints Mirror](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror)<br><br>'
-markdown_short: '[project_github_oomlout_kicad_footprints_mirror](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror)<br><br>'
+markdown_full: '[project_github_oomlout_kicad_footprints_mirror](none)<br>[](none)<br>[Project
+    Github Oomlout Kicad Footprints Mirror](none)<br><br>'
+markdown_short: '[project_github_oomlout_kicad_footprints_mirror](none)<br><br>'
 md5: 538b28dad36fb46ee7e4255db6198108
 md5_10: 538b28dad3
 md5_10_upper: 538B28DAD3

@@ -27,22 +27,23 @@ directory: parts/food_vegetable_sweetcorn_tin_198_gram
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_sweetcorn_tin_198_gram
 id: food_vegetable_sweetcorn_tin_198_gram
 id_no_class: vegetable_sweetcorn_tin_198_gram
 id_no_size: sweetcorntin198gram
 id_no_type: sweetcorn_tin_198_gram
 link_distributor_ocado: https://www.ocado.com/search?entry=518655011
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_sweetcorn_tin_198_gram
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_sweetcorn_tin_198_gram
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_sweetcorn_tin_198_gram
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_sweetcorn_tin_198_gram
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_vegetable_sweetcorn_tin_198_gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_sweetcorn_tin_198_gram)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_sweetcorn_tin_198_gram)<br>[Food
-    Vegetable Sweetcorn Tin 198 Gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_sweetcorn_tin_198_gram)<br><br>'
-markdown_short: '[food_vegetable_sweetcorn_tin_198_gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_sweetcorn_tin_198_gram)<br><br>'
+markdown_full: '[food_vegetable_sweetcorn_tin_198_gram](none)<br>[](none)<br>[Food
+    Vegetable Sweetcorn Tin 198 Gram](none)<br><br>'
+markdown_short: '[food_vegetable_sweetcorn_tin_198_gram](none)<br><br>'
 md5: d66b7d6860e1e11056cd10fc830aaa04
 md5_10: d66b7d6860
 md5_10_upper: D66B7D6860

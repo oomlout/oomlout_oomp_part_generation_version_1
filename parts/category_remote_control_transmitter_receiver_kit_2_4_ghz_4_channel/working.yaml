@@ -27,21 +27,22 @@ directory: parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_chan
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel
 id: category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel
 id_no_class: remote_control_transmitter_receiver_kit_2_4_ghz_4_channel
 id_no_size: 2_4_ghz_4_channel
 id_no_type: transmitter_receiver_kit_2_4_ghz_4_channel
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel)<br>[Category
-    Remote Control Transmitter Receiver Kit 2 4 Ghz 4 Channel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel)<br><br>'
-markdown_short: '[category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel)<br><br>'
+markdown_full: '[category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel](none)<br>[](none)<br>[Category
+    Remote Control Transmitter Receiver Kit 2 4 Ghz 4 Channel](none)<br><br>'
+markdown_short: '[category_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel](none)<br><br>'
 md5: 43fced067cb9eec453c04c4e5889d987
 md5_10: 43fced067c
 md5_10_upper: 43FCED067C

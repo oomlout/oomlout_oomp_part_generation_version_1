@@ -27,21 +27,22 @@ directory: parts/food_baking_sugar_granulated_golden
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated_golden
 id: food_baking_sugar_granulated_golden
 id_no_class: baking_sugar_granulated_golden
 id_no_size: granulated_golden
 id_no_type: sugar_granulated_golden
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated_golden
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_granulated_golden
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_granulated_golden
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_granulated_golden
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_baking_sugar_granulated_golden](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated_golden)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated_golden)<br>[Food
-    Baking Sugar Granulated Golden](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated_golden)<br><br>'
-markdown_short: '[food_baking_sugar_granulated_golden](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated_golden)<br><br>'
+markdown_full: '[food_baking_sugar_granulated_golden](none)<br>[](none)<br>[Food Baking
+    Sugar Granulated Golden](none)<br><br>'
+markdown_short: '[food_baking_sugar_granulated_golden](none)<br><br>'
 md5: 107c354da7602477a76d4619bd0b7ff2
 md5_10: 107c354da7
 md5_10_upper: 107C354DA7

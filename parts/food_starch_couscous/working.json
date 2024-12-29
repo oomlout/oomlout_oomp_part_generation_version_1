@@ -49,8 +49,9 @@
     "id_no_type": "couscous",
     "id_no_size": "couscous",
     "oomp_key": "oomp_food_starch_couscous",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_couscous",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_couscous",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_couscous",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_couscous",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_couscous",
     "directory": "parts/food_starch_couscous",
     "name": "Food Starch Couscous",
     "name_no_class": "Starch Couscous",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Couscous",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[food_starch_couscous](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_couscous)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_couscous)<br>[Food Starch Couscous](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_couscous)<br><br>",
-    "markdown_short": "[food_starch_couscous](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_couscous)<br><br>"
+    "markdown_full": "[food_starch_couscous](none)<br>[](none)<br>[Food Starch Couscous](none)<br><br>",
+    "markdown_short": "[food_starch_couscous](none)<br><br>"
 }

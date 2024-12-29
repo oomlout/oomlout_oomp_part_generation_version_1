@@ -26,21 +26,22 @@ directory: parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe
 id: food_drink_coffee_instant_espresso_jar_95_gram_nescafe
 id_no_class: drink_coffee_instant_espresso_jar_95_gram_nescafe
 id_no_size: instant_espresso_jar_95_gram_nescafe
 id_no_type: coffee_instant_espresso_jar_95_gram_nescafe
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe
 manufacturer: nescafe
 manufacturer_capital: Nescafe
 manufacturer_first_letter: n
 manufacturer_first_letter_upper: N
 manufacturer_upper: NESCAFE
 manufacturers: []
-markdown_full: '[food_drink_coffee_instant_espresso_jar_95_gram_nescafe](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe)<br>[Food
-    Drink Coffee Instant Espresso Jar 95 Gram Nescafe](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe)<br><br>'
-markdown_short: '[food_drink_coffee_instant_espresso_jar_95_gram_nescafe](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe)<br><br>'
+markdown_full: '[food_drink_coffee_instant_espresso_jar_95_gram_nescafe](none)<br>[](none)<br>[Food
+    Drink Coffee Instant Espresso Jar 95 Gram Nescafe](none)<br><br>'
+markdown_short: '[food_drink_coffee_instant_espresso_jar_95_gram_nescafe](none)<br><br>'
 md5: a8bfc84ea03e01a835901074d773e473
 md5_10: a8bfc84ea0
 md5_10_upper: A8BFC84EA0

@@ -50,8 +50,9 @@
     "id_no_type": "prototyping_breadboard_800_point",
     "id_no_size": "800_point",
     "oomp_key": "oomp_category_electronic_prototyping_breadboard_800_point",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point",
     "directory": "parts/category_electronic_prototyping_breadboard_800_point",
     "name": "Category Electronic Prototyping Breadboard 800 Point",
     "name_no_class": "Electronic Prototyping Breadboard 800 Point",
@@ -89,6 +90,6 @@
     "name_no_size_short": "800 Point",
     "description_or_color": "8 ",
     "description_or_color_upper": "8 ",
-    "markdown_full": "[category_electronic_prototyping_breadboard_800_point](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point)<br>[Category Electronic Prototyping Breadboard 800 Point](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point)<br><br>",
-    "markdown_short": "[category_electronic_prototyping_breadboard_800_point](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_prototyping_breadboard_800_point)<br><br>"
+    "markdown_full": "[category_electronic_prototyping_breadboard_800_point](none)<br>[](none)<br>[Category Electronic Prototyping Breadboard 800 Point](none)<br><br>",
+    "markdown_short": "[category_electronic_prototyping_breadboard_800_point](none)<br><br>"
 }

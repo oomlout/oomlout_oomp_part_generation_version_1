@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: big_extra
+description_extra_capital: Big Extra
+description_extra_first_letter: b
+description_extra_first_letter_upper: B
+description_extra_upper: BIG_EXTRA
+description_main: 3_width
+description_main_capital: 3 Width
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH
+description_only_numbers: '3'
+description_only_numbers_short: '3'
+description_or_color: '3'
+description_or_color_upper: '3'
+directory: parts/oobb_part_smd_magazine_refiller_3_width_big_extra
+distributors: []
+id: oobb_part_smd_magazine_refiller_3_width_big_extra
+id_no_class: part_smd_magazine_refiller_3_width_big_extra
+id_no_size: 3_width_big_extra
+id_no_type: smd_magazine_refiller_3_width_big_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_refiller_3_width_big_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_refiller_3_width_big_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_refiller_3_width_big_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_smd_magazine_refiller_3_width_big_extra](none)<br>[](none)<br>[Oobb
+    Part Smd Magazine Refiller 3 Width Big Extra](none)<br><br>'
+markdown_short: '[oobb_part_smd_magazine_refiller_3_width_big_extra](none)<br><br>'
+md5: b66ff9d39d32ac128490b9081614f2b7
+md5_10: b66ff9d39d
+md5_10_upper: B66FF9D39D
+md5_5: b66ff
+md5_5_upper: B66FF
+md5_6: b66ff9
+md5_6_alpha: 749h5
+md5_6_alpha_upper: 749H5
+md5_6_upper: B66FF9
+name: Oobb Part Smd Magazine Refiller 3 Width Big Extra
+name_no_class: Part Smd Magazine Refiller 3 Width Big Extra
+name_no_size: 3 Width Big Extra
+name_no_size_short: 3 Width Big Extra
+name_no_type: Smd Magazine Refiller 3 Width Big Extra
+oomp_key: oomp_oobb_part_smd_magazine_refiller_3_width_big_extra
+oomp_word: beer moon eight
+oomp_word_emoji: ':beer: :moon: :eight:'
+oomp_word_emoji_list:
+- ':beer:'
+- ':moon:'
+- ':eight:'
+oomp_word_list:
+- beer
+- moon
+- eight
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: smd_magazine_refiller
+size_capital: Smd Magazine Refiller
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SMD_MAGAZINE_REFILLER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

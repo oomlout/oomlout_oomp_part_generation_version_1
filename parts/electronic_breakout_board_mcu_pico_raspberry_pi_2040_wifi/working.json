@@ -251,8 +251,9 @@
     "id_no_type": "pico_raspberry_pi_2040_wifi",
     "id_no_size": "raspberry_pi_2040_wifi",
     "oomp_key": "oomp_electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi",
     "directory": "parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi",
     "name": "Electronic Breakout Board Mcu Pico Raspberry Pi 2040 Wifi",
     "name_no_class": "Breakout Board Mcu Pico Raspberry Pi 2040 Wifi",
@@ -290,6 +291,6 @@
     "name_no_size_short": "Raspberry Pi 2k Wifi",
     "description_or_color": "2k",
     "description_or_color_upper": "2K",
-    "markdown_full": "[electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi)<br>[pcrp2040](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi)<br>[Electronic Breakout Board Mcu Pico Raspberry Pi 2040 Wifi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi)<br><br>",
-    "markdown_short": "[electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi)<br><br>"
+    "markdown_full": "[electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi](none)<br>[pcrp2040](none)<br>[Electronic Breakout Board Mcu Pico Raspberry Pi 2040 Wifi](none)<br><br>",
+    "markdown_short": "[electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi](none)<br><br>"
 }

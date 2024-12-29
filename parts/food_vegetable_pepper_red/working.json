@@ -50,8 +50,9 @@
     "id_no_type": "pepper_red",
     "id_no_size": "pepperred",
     "oomp_key": "oomp_food_vegetable_pepper_red",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_pepper_red",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_pepper_red",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_pepper_red",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_pepper_red",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_pepper_red",
     "directory": "parts/food_vegetable_pepper_red",
     "name": "Food Vegetable Pepper Red",
     "name_no_class": "Vegetable Pepper Red",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Pepperred",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[food_vegetable_pepper_red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_pepper_red)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_pepper_red)<br>[Food Vegetable Pepper Red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_pepper_red)<br><br>",
-    "markdown_short": "[food_vegetable_pepper_red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_pepper_red)<br><br>"
+    "markdown_full": "[food_vegetable_pepper_red](none)<br>[](none)<br>[Food Vegetable Pepper Red](none)<br><br>",
+    "markdown_short": "[food_vegetable_pepper_red](none)<br><br>"
 }

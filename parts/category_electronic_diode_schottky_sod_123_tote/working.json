@@ -50,8 +50,9 @@
     "id_no_type": "diode_schottky_sod_123_tote",
     "id_no_size": "sod_123_tote",
     "oomp_key": "oomp_category_electronic_diode_schottky_sod_123_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_schottky_sod_123_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_schottky_sod_123_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_schottky_sod_123_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_schottky_sod_123_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_schottky_sod_123_tote",
     "directory": "parts/category_electronic_diode_schottky_sod_123_tote",
     "name": "Category Electronic Diode Schottky Sod 123 Tote",
     "name_no_class": "Electronic Diode Schottky Sod 123 Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Sod 123 Tote",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_electronic_diode_schottky_sod_123_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_schottky_sod_123_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_schottky_sod_123_tote)<br>[Category Electronic Diode Schottky Sod 123 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_schottky_sod_123_tote)<br><br>",
-    "markdown_short": "[category_electronic_diode_schottky_sod_123_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_schottky_sod_123_tote)<br><br>"
+    "markdown_full": "[category_electronic_diode_schottky_sod_123_tote](none)<br>[](none)<br>[Category Electronic Diode Schottky Sod 123 Tote](none)<br><br>",
+    "markdown_short": "[category_electronic_diode_schottky_sod_123_tote](none)<br><br>"
 }

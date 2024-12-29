@@ -48,8 +48,9 @@
     "id_no_type": "3_mm_yellow_clear",
     "id_no_size": "yellow_clear",
     "oomp_key": "oomp_electronic_led_3_mm_yellow_clear",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_yellow_clear",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_yellow_clear",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_yellow_clear",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_yellow_clear",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_yellow_clear",
     "directory": "parts/electronic_led_3_mm_yellow_clear",
     "name": "Electronic Led 3 Mm Yellow Clear",
     "name_no_class": "Led 3 Mm Yellow Clear",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Yellow Clear",
     "description_or_color": "Y ",
     "description_or_color_upper": "Y ",
-    "markdown_full": "[electronic_led_3_mm_yellow_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_yellow_clear)<br>[l3y](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_yellow_clear)<br>[Electronic Led 3 Mm Yellow Clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_yellow_clear)<br><br>",
-    "markdown_short": "[electronic_led_3_mm_yellow_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_yellow_clear)<br><br>"
+    "markdown_full": "[electronic_led_3_mm_yellow_clear](none)<br>[l3y](none)<br>[Electronic Led 3 Mm Yellow Clear](none)<br><br>",
+    "markdown_short": "[electronic_led_3_mm_yellow_clear](none)<br><br>"
 }

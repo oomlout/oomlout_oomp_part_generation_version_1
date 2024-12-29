@@ -24,21 +24,22 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/mechanical_motor_servo_remote_control_standard
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard
 id: mechanical_motor_servo_remote_control_standard
 id_no_class: motor_servo_remote_control_standard
 id_no_size: standard
 id_no_type: standard
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[mechanical_motor_servo_remote_control_standard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard)<br>[Mechanical
-    Motor Servo Remote Control Standard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard)<br><br>'
-markdown_short: '[mechanical_motor_servo_remote_control_standard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard)<br><br>'
+markdown_full: '[mechanical_motor_servo_remote_control_standard](none)<br>[](none)<br>[Mechanical
+    Motor Servo Remote Control Standard](none)<br><br>'
+markdown_short: '[mechanical_motor_servo_remote_control_standard](none)<br><br>'
 md5: f2aa4c78cda6e41e8907237af645fe86
 md5_10: f2aa4c78cd
 md5_10_upper: F2AA4C78CD

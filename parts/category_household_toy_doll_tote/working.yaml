@@ -27,21 +27,22 @@ directory: parts/category_household_toy_doll_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_tote
 id: category_household_toy_doll_tote
 id_no_class: household_toy_doll_tote
 id_no_size: tote
 id_no_type: doll_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_household_toy_doll_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_tote)<br>[Category
-    Household Toy Doll Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_tote)<br><br>'
-markdown_short: '[category_household_toy_doll_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_doll_tote)<br><br>'
+markdown_full: '[category_household_toy_doll_tote](none)<br>[](none)<br>[Category
+    Household Toy Doll Tote](none)<br><br>'
+markdown_short: '[category_household_toy_doll_tote](none)<br><br>'
 md5: ba4084c1727f1b2fb802ff8b434521dd
 md5_10: ba4084c172
 md5_10_upper: BA4084C172

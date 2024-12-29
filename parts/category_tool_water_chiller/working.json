@@ -50,8 +50,9 @@
     "id_no_type": "water_chiller",
     "id_no_size": "water_chiller",
     "oomp_key": "oomp_category_tool_water_chiller",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_water_chiller",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_water_chiller",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_water_chiller",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_water_chiller",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_water_chiller",
     "directory": "parts/category_tool_water_chiller",
     "name": "Category Tool Water Chiller",
     "name_no_class": "Tool Water Chiller",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Water Chiller",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_tool_water_chiller](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_water_chiller)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_water_chiller)<br>[Category Tool Water Chiller](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_water_chiller)<br><br>",
-    "markdown_short": "[category_tool_water_chiller](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_water_chiller)<br><br>"
+    "markdown_full": "[category_tool_water_chiller](none)<br>[](none)<br>[Category Tool Water Chiller](none)<br><br>",
+    "markdown_short": "[category_tool_water_chiller](none)<br><br>"
 }

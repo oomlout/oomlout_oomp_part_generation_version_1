@@ -46,8 +46,9 @@
     "id_no_type": "1_75_mm_1000_gram_empty_reel_bambu_lab",
     "id_no_size": "empty_reel_bambu_lab",
     "oomp_key": "oomp_three_d_printer_filament_1_75_mm_1000_gram_empty_reel_bambu_lab",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_bambu_lab",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_bambu_lab",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_bambu_lab",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_bambu_lab",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_bambu_lab",
     "directory": "parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_bambu_lab",
     "name": "Three D Printer Filament 1 75 Mm 1000 Gram Empty Reel Bambu Lab",
     "name_no_class": "Filament 1 75 Mm 1000 Gram Empty Reel Bambu Lab",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Empty Reel Bambu Lab",
     "description_or_color": "E ",
     "description_or_color_upper": "E ",
-    "markdown_full": "[three_d_printer_filament_1_75_mm_1000_gram_empty_reel_bambu_lab](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_bambu_lab)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_bambu_lab)<br>[Three D Printer Filament 1 75 Mm 1000 Gram Empty Reel Bambu Lab](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_bambu_lab)<br><br>",
-    "markdown_short": "[three_d_printer_filament_1_75_mm_1000_gram_empty_reel_bambu_lab](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_bambu_lab)<br><br>"
+    "markdown_full": "[three_d_printer_filament_1_75_mm_1000_gram_empty_reel_bambu_lab](none)<br>[](none)<br>[Three D Printer Filament 1 75 Mm 1000 Gram Empty Reel Bambu Lab](none)<br><br>",
+    "markdown_short": "[three_d_printer_filament_1_75_mm_1000_gram_empty_reel_bambu_lab](none)<br><br>"
 }

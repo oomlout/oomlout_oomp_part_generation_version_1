@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: bolt_stacker_extra
+description_extra_capital: Bolt Stacker Extra
+description_extra_first_letter: b
+description_extra_first_letter_upper: B
+description_extra_upper: BOLT_STACKER_EXTRA
+description_main: 1.5_diameter_24_mm_depth
+description_main_capital: 1.5 Diameter 24 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 1.5_DIAMETER_24_MM_DEPTH
+description_only_numbers: '1524'
+description_only_numbers_short: 1k5
+description_or_color: 1k5
+description_or_color_upper: 1K5
+directory: parts/oobb_part_other_1.5_diameter_24_mm_depth_bolt_stacker_extra
+distributors: []
+id: oobb_part_other_1.5_diameter_24_mm_depth_bolt_stacker_extra
+id_no_class: part_other_1.5_diameter_24_mm_depth_bolt_stacker_extra
+id_no_size: 1.5_diameter_24_mm_depth_bolt_stacker_extra
+id_no_type: other_1.5_diameter_24_mm_depth_bolt_stacker_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_other_1.5_diameter_24_mm_depth_bolt_stacker_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_other_1.5_diameter_24_mm_depth_bolt_stacker_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_other_1.5_diameter_24_mm_depth_bolt_stacker_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_other_1.5_diameter_24_mm_depth_bolt_stacker_extra](none)<br>[](none)<br>[Oobb
+    Part Other 1.5 Diameter 24 Mm Depth Bolt Stacker Extra](none)<br><br>'
+markdown_short: '[oobb_part_other_1.5_diameter_24_mm_depth_bolt_stacker_extra](none)<br><br>'
+md5: a666e3e748fc5c50c5405e8ad835df0b
+md5_10: a666e3e748
+md5_10_upper: A666E3E748
+md5_5: a666e
+md5_5_upper: A666E
+md5_6: a666e3
+md5_6_alpha: 6hqlf
+md5_6_alpha_upper: 6HQLF
+md5_6_upper: A666E3
+name: Oobb Part Other 1.5 Diameter 24 Mm Depth Bolt Stacker Extra
+name_no_class: Part Other 1.5 Diameter 24 Mm Depth Bolt Stacker Extra
+name_no_size: 1.5 Diameter 24 Mm Depth Bolt Stacker Extra
+name_no_size_short: 1.5 Diameter 24 Mm Depth Bolt Stacker Extra
+name_no_type: Other 1.5 Diameter 24 Mm Depth Bolt Stacker Extra
+oomp_key: oomp_oobb_part_other_1.5_diameter_24_mm_depth_bolt_stacker_extra
+oomp_word: trumpet leaves rowboat
+oomp_word_emoji: ':trumpet: :leaves: :rowboat:'
+oomp_word_emoji_list:
+- ':trumpet:'
+- ':leaves:'
+- ':rowboat:'
+oomp_word_list:
+- trumpet
+- leaves
+- rowboat
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: other
+size_capital: Other
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OTHER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

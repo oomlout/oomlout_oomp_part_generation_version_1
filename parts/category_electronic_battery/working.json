@@ -50,8 +50,9 @@
     "id_no_type": "battery",
     "id_no_size": "battery",
     "oomp_key": "oomp_category_electronic_battery",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery",
     "directory": "parts/category_electronic_battery",
     "name": "Category Electronic Battery",
     "name_no_class": "Electronic Battery",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Battery",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_battery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery)<br>[Category Electronic Battery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery)<br><br>",
-    "markdown_short": "[category_electronic_battery](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery)<br><br>"
+    "markdown_full": "[category_electronic_battery](none)<br>[](none)<br>[Category Electronic Battery](none)<br><br>",
+    "markdown_short": "[category_electronic_battery](none)<br><br>"
 }

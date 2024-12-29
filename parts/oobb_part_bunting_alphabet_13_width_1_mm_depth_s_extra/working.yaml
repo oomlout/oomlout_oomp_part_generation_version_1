@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: s_extra
+description_extra_capital: S Extra
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: S_EXTRA
+description_main: 13_width_1_mm_depth
+description_main_capital: 13 Width 1 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 13_WIDTH_1_MM_DEPTH
+description_only_numbers: '131'
+description_only_numbers_short: '131'
+description_or_color: '131'
+description_or_color_upper: '131'
+directory: parts/oobb_part_bunting_alphabet_13_width_1_mm_depth_s_extra
+distributors: []
+id: oobb_part_bunting_alphabet_13_width_1_mm_depth_s_extra
+id_no_class: part_bunting_alphabet_13_width_1_mm_depth_s_extra
+id_no_size: 13_width_1_mm_depth_s_extra
+id_no_type: bunting_alphabet_13_width_1_mm_depth_s_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_13_width_1_mm_depth_s_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_13_width_1_mm_depth_s_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_13_width_1_mm_depth_s_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bunting_alphabet_13_width_1_mm_depth_s_extra](none)<br>[](none)<br>[Oobb
+    Part Bunting Alphabet 13 Width 1 Mm Depth S Extra](none)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_13_width_1_mm_depth_s_extra](none)<br><br>'
+md5: 1fb21bf28409045875bea3226a4ca39f
+md5_10: 1fb21bf284
+md5_10_upper: 1FB21BF284
+md5_5: 1fb21
+md5_5_upper: 1FB21
+md5_6: 1fb21b
+md5_6_alpha: 18isb
+md5_6_alpha_upper: 18ISB
+md5_6_upper: 1FB21B
+name: Oobb Part Bunting Alphabet 13 Width 1 Mm Depth S Extra
+name_no_class: Part Bunting Alphabet 13 Width 1 Mm Depth S Extra
+name_no_size: 13 Width 1 Mm Depth S Extra
+name_no_size_short: 13 Width 1 Mm Depth S Extra
+name_no_type: Bunting Alphabet 13 Width 1 Mm Depth S Extra
+oomp_key: oomp_oobb_part_bunting_alphabet_13_width_1_mm_depth_s_extra
+oomp_word: princess handbag muscle
+oomp_word_emoji: ':princess: :handbag: :muscle:'
+oomp_word_emoji_list:
+- ':princess:'
+- ':handbag:'
+- ':muscle:'
+oomp_word_list:
+- princess
+- handbag
+- muscle
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bunting_alphabet
+size_capital: Bunting Alphabet
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNTING_ALPHABET
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

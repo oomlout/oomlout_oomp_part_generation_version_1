@@ -27,21 +27,22 @@ directory: parts/category_lighting_pendant_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_tote
 id: category_lighting_pendant_tote
 id_no_class: lighting_pendant_tote
 id_no_size: tote
 id_no_type: pendant_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_lighting_pendant_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_tote)<br>[Category
-    Lighting Pendant Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_tote)<br><br>'
-markdown_short: '[category_lighting_pendant_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_lighting_pendant_tote)<br><br>'
+markdown_full: '[category_lighting_pendant_tote](none)<br>[](none)<br>[Category Lighting
+    Pendant Tote](none)<br><br>'
+markdown_short: '[category_lighting_pendant_tote](none)<br><br>'
 md5: 122e57aeae0cc144b11b63be09ad7caa
 md5_10: 122e57aeae
 md5_10_upper: 122E57AEAE

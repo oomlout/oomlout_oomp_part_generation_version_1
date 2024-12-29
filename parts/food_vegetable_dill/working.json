@@ -50,8 +50,9 @@
     "id_no_type": "dill",
     "id_no_size": "dill",
     "oomp_key": "oomp_food_vegetable_dill",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_dill",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_dill",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_dill",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_dill",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_dill",
     "directory": "parts/food_vegetable_dill",
     "name": "Food Vegetable Dill",
     "name_no_class": "Vegetable Dill",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Dill",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[food_vegetable_dill](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_dill)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_dill)<br>[Food Vegetable Dill](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_dill)<br><br>",
-    "markdown_short": "[food_vegetable_dill](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_dill)<br><br>"
+    "markdown_full": "[food_vegetable_dill](none)<br>[](none)<br>[Food Vegetable Dill](none)<br><br>",
+    "markdown_short": "[food_vegetable_dill](none)<br><br>"
 }

@@ -50,8 +50,9 @@
     "id_no_type": "mounting_hole_m3_tote",
     "id_no_size": "m3_tote",
     "oomp_key": "oomp_category_electronic_mounting_hole_m3_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_mounting_hole_m3_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_mounting_hole_m3_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_mounting_hole_m3_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_mounting_hole_m3_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_mounting_hole_m3_tote",
     "directory": "parts/category_electronic_mounting_hole_m3_tote",
     "name": "Category Electronic Mounting Hole M3 Tote",
     "name_no_class": "Electronic Mounting Hole M3 Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "M3 Tote",
     "description_or_color": "M ",
     "description_or_color_upper": "M ",
-    "markdown_full": "[category_electronic_mounting_hole_m3_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_mounting_hole_m3_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_mounting_hole_m3_tote)<br>[Category Electronic Mounting Hole M3 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_mounting_hole_m3_tote)<br><br>",
-    "markdown_short": "[category_electronic_mounting_hole_m3_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_mounting_hole_m3_tote)<br><br>"
+    "markdown_full": "[category_electronic_mounting_hole_m3_tote](none)<br>[](none)<br>[Category Electronic Mounting Hole M3 Tote](none)<br><br>",
+    "markdown_short": "[category_electronic_mounting_hole_m3_tote](none)<br><br>"
 }

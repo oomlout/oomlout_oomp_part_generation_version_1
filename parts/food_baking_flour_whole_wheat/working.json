@@ -49,8 +49,9 @@
     "id_no_type": "flour_whole_wheat",
     "id_no_size": "whole_wheat",
     "oomp_key": "oomp_food_baking_flour_whole_wheat",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_whole_wheat",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_whole_wheat",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_whole_wheat",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_whole_wheat",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_whole_wheat",
     "directory": "parts/food_baking_flour_whole_wheat",
     "name": "Food Baking Flour Whole Wheat",
     "name_no_class": "Baking Flour Whole Wheat",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Whole Wheat",
     "description_or_color": "W ",
     "description_or_color_upper": "W ",
-    "markdown_full": "[food_baking_flour_whole_wheat](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_whole_wheat)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_whole_wheat)<br>[Food Baking Flour Whole Wheat](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_whole_wheat)<br><br>",
-    "markdown_short": "[food_baking_flour_whole_wheat](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_whole_wheat)<br><br>"
+    "markdown_full": "[food_baking_flour_whole_wheat](none)<br>[](none)<br>[Food Baking Flour Whole Wheat](none)<br><br>",
+    "markdown_short": "[food_baking_flour_whole_wheat](none)<br><br>"
 }

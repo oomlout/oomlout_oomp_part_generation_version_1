@@ -27,21 +27,22 @@ directory: parts/category_furniture_cabinet_ikea_havsta
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta
 id: category_furniture_cabinet_ikea_havsta
 id_no_class: furniture_cabinet_ikea_havsta
 id_no_size: ikea_havsta
 id_no_type: cabinet_ikea_havsta
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_furniture_cabinet_ikea_havsta](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta)<br>[Category
-    Furniture Cabinet Ikea Havsta](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta)<br><br>'
-markdown_short: '[category_furniture_cabinet_ikea_havsta](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta)<br><br>'
+markdown_full: '[category_furniture_cabinet_ikea_havsta](none)<br>[](none)<br>[Category
+    Furniture Cabinet Ikea Havsta](none)<br><br>'
+markdown_short: '[category_furniture_cabinet_ikea_havsta](none)<br><br>'
 md5: 01535fa7726d3977993f528ee678db7b
 md5_10: 01535fa772
 md5_10_upper: 01535FA772

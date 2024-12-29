@@ -27,21 +27,22 @@ directory: parts/category_electronic_heatshrink_2_to_1_shrink_ratio
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio
 id: category_electronic_heatshrink_2_to_1_shrink_ratio
 id_no_class: electronic_heatshrink_2_to_1_shrink_ratio
 id_no_size: heatshrink_2_to_1_shrink_ratio
 id_no_type: heatshrink_2_to_1_shrink_ratio
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_heatshrink_2_to_1_shrink_ratio](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio)<br>[Category
-    Electronic Heatshrink 2 To 1 Shrink Ratio](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio)<br><br>'
-markdown_short: '[category_electronic_heatshrink_2_to_1_shrink_ratio](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio)<br><br>'
+markdown_full: '[category_electronic_heatshrink_2_to_1_shrink_ratio](none)<br>[](none)<br>[Category
+    Electronic Heatshrink 2 To 1 Shrink Ratio](none)<br><br>'
+markdown_short: '[category_electronic_heatshrink_2_to_1_shrink_ratio](none)<br><br>'
 md5: 19fcb2469e2758ad275ef5a4685ba917
 md5_10: 19fcb2469e
 md5_10_upper: 19FCB2469E

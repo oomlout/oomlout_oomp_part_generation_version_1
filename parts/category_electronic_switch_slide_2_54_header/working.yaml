@@ -27,21 +27,22 @@ directory: parts/category_electronic_switch_slide_2_54_header
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide_2_54_header
 id: category_electronic_switch_slide_2_54_header
 id_no_class: electronic_switch_slide_2_54_header
 id_no_size: 2_54_header
 id_no_type: switch_slide_2_54_header
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide_2_54_header
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_switch_slide_2_54_header
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_switch_slide_2_54_header
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_switch_slide_2_54_header
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_switch_slide_2_54_header](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide_2_54_header)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide_2_54_header)<br>[Category
-    Electronic Switch Slide 2 54 Header](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide_2_54_header)<br><br>'
-markdown_short: '[category_electronic_switch_slide_2_54_header](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_switch_slide_2_54_header)<br><br>'
+markdown_full: '[category_electronic_switch_slide_2_54_header](none)<br>[](none)<br>[Category
+    Electronic Switch Slide 2 54 Header](none)<br><br>'
+markdown_short: '[category_electronic_switch_slide_2_54_header](none)<br><br>'
 md5: a5db1b37b69b6ae4650a988fe91e2803
 md5_10: a5db1b37b6
 md5_10_upper: A5DB1B37B6

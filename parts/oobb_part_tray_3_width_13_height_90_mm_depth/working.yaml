@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 3_width_13_height_90_mm_depth
+description_main_capital: 3 Width 13 Height 90 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_13_HEIGHT_90_MM_DEPTH
+description_only_numbers: '31390'
+description_only_numbers_short: 31k
+description_or_color: 31k
+description_or_color_upper: 31K
+directory: parts/oobb_part_tray_3_width_13_height_90_mm_depth
+distributors: []
+id: oobb_part_tray_3_width_13_height_90_mm_depth
+id_no_class: part_tray_3_width_13_height_90_mm_depth
+id_no_size: 3_width_13_height_90_mm_depth
+id_no_type: tray_3_width_13_height_90_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_3_width_13_height_90_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_3_width_13_height_90_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_3_width_13_height_90_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_3_width_13_height_90_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray 3 Width 13 Height 90 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_3_width_13_height_90_mm_depth](none)<br><br>'
+md5: e6e973f134d6f646108c53aaa70d822e
+md5_10: e6e973f134
+md5_10_upper: E6E973F134
+md5_5: e6e97
+md5_5_upper: E6E97
+md5_6: e6e973
+md5_6_alpha: 90cqb
+md5_6_alpha_upper: 90CQB
+md5_6_upper: E6E973
+name: Oobb Part Tray 3 Width 13 Height 90 Mm Depth
+name_no_class: Part Tray 3 Width 13 Height 90 Mm Depth
+name_no_size: 3 Width 13 Height 90 Mm Depth
+name_no_size_short: 3 Width 13 Height 90 Mm Depth
+name_no_type: Tray 3 Width 13 Height 90 Mm Depth
+oomp_key: oomp_oobb_part_tray_3_width_13_height_90_mm_depth
+oomp_word: airplane bike flags
+oomp_word_emoji: ':airplane: :bike: :flags:'
+oomp_word_emoji_list:
+- ':airplane:'
+- ':bike:'
+- ':flags:'
+oomp_word_list:
+- airplane
+- bike
+- flags
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,4 +1,5 @@
 import oomp
+import copy
 
 def load_parts(**kwargs):
     make_files = kwargs.get("make_files", True)
@@ -138,6 +139,36 @@ def load_parts(**kwargs):
         part_details["part_number"] = "jewelry_scale"
         parts.append(part_details)
 
+
+    # screwdriver
+    #define a part 
+    if True:
+        part_details = {}
+        part_details["classification"] = "tool"
+        part_details["type"] = "screw_driver_precision_powered"
+        part_details["size"] = "17_mm_diameter_160_mm_depth"
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "xiaomi"
+        part_details["part_number"] = ""
+
+        default_current = copy.deepcopy(part_details)
+
+        part_details = copy.deepcopy(default_current)
+        part_details["diameter"] = 17
+        part_details["depth"] = 160
+        parts.append(part_details)
+
+        part_details = copy.deepcopy(default_current)
+        part_details["description_main"] = "set"
+        part_details["width"] = 75
+        part_details["height"] = 202
+        part_details["depth"] = 26
+        
+        parts.append(part_details)
+        
+    
 
     # screwdriver bits
     #define a part 

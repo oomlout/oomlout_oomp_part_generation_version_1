@@ -50,8 +50,9 @@
     "id_no_type": "voltage_converter_buck_variable_output_voltage_tote",
     "id_no_size": "variable_output_voltage_tote",
     "oomp_key": "oomp_category_electronic_voltage_converter_buck_variable_output_voltage_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_variable_output_voltage_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_variable_output_voltage_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck_variable_output_voltage_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck_variable_output_voltage_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck_variable_output_voltage_tote",
     "directory": "parts/category_electronic_voltage_converter_buck_variable_output_voltage_tote",
     "name": "Category Electronic Voltage Converter Buck Variable Output Voltage Tote",
     "name_no_class": "Electronic Voltage Converter Buck Variable Output Voltage Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Variable Output Voltage Tote",
     "description_or_color": "V ",
     "description_or_color_upper": "V ",
-    "markdown_full": "[category_electronic_voltage_converter_buck_variable_output_voltage_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_variable_output_voltage_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_variable_output_voltage_tote)<br>[Category Electronic Voltage Converter Buck Variable Output Voltage Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_variable_output_voltage_tote)<br><br>",
-    "markdown_short": "[category_electronic_voltage_converter_buck_variable_output_voltage_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_variable_output_voltage_tote)<br><br>"
+    "markdown_full": "[category_electronic_voltage_converter_buck_variable_output_voltage_tote](none)<br>[](none)<br>[Category Electronic Voltage Converter Buck Variable Output Voltage Tote](none)<br><br>",
+    "markdown_short": "[category_electronic_voltage_converter_buck_variable_output_voltage_tote](none)<br><br>"
 }

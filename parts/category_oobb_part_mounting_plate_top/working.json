@@ -50,8 +50,9 @@
     "id_no_type": "part_mounting_plate_top",
     "id_no_size": "mounting_plate_top",
     "oomp_key": "oomp_category_oobb_part_mounting_plate_top",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_top",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_top",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate_top",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate_top",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate_top",
     "directory": "parts/category_oobb_part_mounting_plate_top",
     "name": "Category Oobb Part Mounting Plate Top",
     "name_no_class": "Oobb Part Mounting Plate Top",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Mounting Plate Top",
     "description_or_color": "M ",
     "description_or_color_upper": "M ",
-    "markdown_full": "[category_oobb_part_mounting_plate_top](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_top)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_top)<br>[Category Oobb Part Mounting Plate Top](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_top)<br><br>",
-    "markdown_short": "[category_oobb_part_mounting_plate_top](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_mounting_plate_top)<br><br>"
+    "markdown_full": "[category_oobb_part_mounting_plate_top](none)<br>[](none)<br>[Category Oobb Part Mounting Plate Top](none)<br><br>",
+    "markdown_short": "[category_oobb_part_mounting_plate_top](none)<br><br>"
 }

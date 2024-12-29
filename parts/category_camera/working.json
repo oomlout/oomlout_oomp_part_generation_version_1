@@ -50,8 +50,9 @@
     "id_no_type": "camera",
     "id_no_size": "camera",
     "oomp_key": "oomp_category_camera",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera",
     "directory": "parts/category_camera",
     "name": "Category Camera",
     "name_no_class": "Camera",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Camera",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_camera](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera)<br>[Category Camera](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera)<br><br>",
-    "markdown_short": "[category_camera](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_camera)<br><br>"
+    "markdown_full": "[category_camera](none)<br>[](none)<br>[Category Camera](none)<br><br>",
+    "markdown_short": "[category_camera](none)<br><br>"
 }

@@ -50,8 +50,9 @@
     "id_no_type": "toy",
     "id_no_size": "toy",
     "oomp_key": "oomp_category_toy",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy",
     "directory": "parts/category_toy",
     "name": "Category Toy",
     "name_no_class": "Toy",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Toy",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_toy](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy)<br>[Category Toy](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy)<br><br>",
-    "markdown_short": "[category_toy](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy)<br><br>"
+    "markdown_full": "[category_toy](none)<br>[](none)<br>[Category Toy](none)<br><br>",
+    "markdown_short": "[category_toy](none)<br><br>"
 }

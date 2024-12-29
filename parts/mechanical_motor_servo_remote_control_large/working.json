@@ -46,8 +46,9 @@
     "id_no_type": "large",
     "id_no_size": "large",
     "oomp_key": "oomp_mechanical_motor_servo_remote_control_large",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_large",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_large",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_large",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_large",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_large",
     "directory": "parts/mechanical_motor_servo_remote_control_large",
     "name": "Mechanical Motor Servo Remote Control Large",
     "name_no_class": "Motor Servo Remote Control Large",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Large",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[mechanical_motor_servo_remote_control_large](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_large)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_large)<br>[Mechanical Motor Servo Remote Control Large](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_large)<br><br>",
-    "markdown_short": "[mechanical_motor_servo_remote_control_large](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_large)<br><br>"
+    "markdown_full": "[mechanical_motor_servo_remote_control_large](none)<br>[](none)<br>[Mechanical Motor Servo Remote Control Large](none)<br><br>",
+    "markdown_short": "[mechanical_motor_servo_remote_control_large](none)<br><br>"
 }

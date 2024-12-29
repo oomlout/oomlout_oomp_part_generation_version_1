@@ -50,8 +50,9 @@
     "id_no_type": "header_2_54_mm",
     "id_no_size": "2_54_mm",
     "oomp_key": "oomp_category_electronic_header_2_54_mm",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm",
     "directory": "parts/category_electronic_header_2_54_mm",
     "name": "Category Electronic Header 2 54 Mm",
     "name_no_class": "Electronic Header 2 54 Mm",
@@ -89,6 +90,6 @@
     "name_no_size_short": "2 54 Mm",
     "description_or_color": "2 ",
     "description_or_color_upper": "2 ",
-    "markdown_full": "[category_electronic_header_2_54_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm)<br>[Category Electronic Header 2 54 Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm)<br><br>",
-    "markdown_short": "[category_electronic_header_2_54_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm)<br><br>"
+    "markdown_full": "[category_electronic_header_2_54_mm](none)<br>[](none)<br>[Category Electronic Header 2 54 Mm](none)<br><br>",
+    "markdown_short": "[category_electronic_header_2_54_mm](none)<br><br>"
 }

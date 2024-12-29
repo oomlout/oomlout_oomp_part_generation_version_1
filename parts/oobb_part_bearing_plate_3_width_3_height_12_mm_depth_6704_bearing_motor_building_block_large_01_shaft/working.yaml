@@ -1,0 +1,93 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 6704_bearing_motor_building_block_large_01_shaft
+description_extra_capital: 6704 Bearing Motor Building Block Large 01 Shaft
+description_extra_first_letter: '6'
+description_extra_first_letter_upper: '6'
+description_extra_upper: 6704_BEARING_MOTOR_BUILDING_BLOCK_LARGE_01_SHAFT
+description_main: 3_width_3_height_12_mm_depth
+description_main_capital: 3 Width 3 Height 12 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_3_HEIGHT_12_MM_DEPTH
+description_only_numbers: '3312'
+description_only_numbers_short: 3k3
+description_or_color: 3k3
+description_or_color_upper: 3K3
+directory: parts/oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_building_block_large_01_shaft
+distributors: []
+id: oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_building_block_large_01_shaft
+id_no_class: part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_building_block_large_01_shaft
+id_no_size: 3_width_3_height_12_mm_depth_6704_bearing_motor_building_block_large_01_shaft
+id_no_type: bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_building_block_large_01_shaft
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_building_block_large_01_shaft
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_building_block_large_01_shaft
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_building_block_large_01_shaft
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_building_block_large_01_shaft](none)<br>[](none)<br>[Oobb
+    Part Bearing Plate 3 Width 3 Height 12 Mm Depth 6704 Bearing Motor Building Block
+    Large 01 Shaft](none)<br><br>'
+markdown_short: '[oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_building_block_large_01_shaft](none)<br><br>'
+md5: 0d66dbc79401328bdd120e914c70bad2
+md5_10: 0d66dbc794
+md5_10_upper: 0D66DBC794
+md5_5: 0d66d
+md5_5_upper: 0D66D
+md5_6: 0d66db
+md5_6_alpha: itp7
+md5_6_alpha_upper: ITP7
+md5_6_upper: 0D66DB
+name: Oobb Part Bearing Plate 3 Width 3 Height 12 Mm Depth 6704 Bearing Motor Building
+    Block Large 01 Shaft
+name_no_class: Part Bearing Plate 3 Width 3 Height 12 Mm Depth 6704 Bearing Motor
+    Building Block Large 01 Shaft
+name_no_size: 3 Width 3 Height 12 Mm Depth 6704 Bearing Motor Building Block Large
+    01 Shaft
+name_no_size_short: 3 Width 3 Height 12 Mm Depth 6704 Bearing Motor Building Block
+    Large 01 Shaft
+name_no_type: Bearing Plate 3 Width 3 Height 12 Mm Depth 6704 Bearing Motor Building
+    Block Large 01 Shaft
+oomp_key: oomp_oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_building_block_large_01_shaft
+oomp_word: heart leaves tent
+oomp_word_emoji: ':heart: :leaves: :tent:'
+oomp_word_emoji_list:
+- ':heart:'
+- ':leaves:'
+- ':tent:'
+oomp_word_list:
+- heart
+- leaves
+- tent
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bearing_plate
+size_capital: Bearing Plate
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING_PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

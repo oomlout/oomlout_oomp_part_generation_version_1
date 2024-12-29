@@ -50,8 +50,9 @@
     "id_no_type": "pretend_kitchen_food",
     "id_no_size": "pretend_kitchen_food",
     "oomp_key": "oomp_category_household_toy_pretend_kitchen_food",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_food",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_food",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_food",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_food",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_food",
     "directory": "parts/category_household_toy_pretend_kitchen_food",
     "name": "Category Household Toy Pretend Kitchen Food",
     "name_no_class": "Household Toy Pretend Kitchen Food",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Pretend Kitchen Food",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_household_toy_pretend_kitchen_food](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_food)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_food)<br>[Category Household Toy Pretend Kitchen Food](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_food)<br><br>",
-    "markdown_short": "[category_household_toy_pretend_kitchen_food](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_food)<br><br>"
+    "markdown_full": "[category_household_toy_pretend_kitchen_food](none)<br>[](none)<br>[Category Household Toy Pretend Kitchen Food](none)<br><br>",
+    "markdown_short": "[category_household_toy_pretend_kitchen_food](none)<br><br>"
 }

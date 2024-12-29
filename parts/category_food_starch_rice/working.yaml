@@ -27,21 +27,22 @@ directory: parts/category_food_starch_rice
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_rice
 id: category_food_starch_rice
 id_no_class: food_starch_rice
 id_no_size: rice
 id_no_type: starch_rice
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_rice
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_rice
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_rice
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_rice
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food_starch_rice](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_rice)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_rice)<br>[Category
-    Food Starch Rice](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_rice)<br><br>'
-markdown_short: '[category_food_starch_rice](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_rice)<br><br>'
+markdown_full: '[category_food_starch_rice](none)<br>[](none)<br>[Category Food Starch
+    Rice](none)<br><br>'
+markdown_short: '[category_food_starch_rice](none)<br><br>'
 md5: 8375af809837c329e4eb20a4a79ef267
 md5_10: 8375af8098
 md5_10_upper: 8375AF8098

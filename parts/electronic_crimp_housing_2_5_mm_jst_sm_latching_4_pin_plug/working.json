@@ -46,8 +46,9 @@
     "id_no_type": "2_5_mm_jst_sm_latching_4_pin_plug",
     "id_no_size": "4_pin_plug",
     "oomp_key": "oomp_electronic_crimp_housing_2_5_mm_jst_sm_latching_4_pin_plug",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_4_pin_plug",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_4_pin_plug",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_4_pin_plug",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_4_pin_plug",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_4_pin_plug",
     "directory": "parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_4_pin_plug",
     "name": "Electronic Crimp Housing 2 5 Mm Jst Sm Latching 4 Pin Plug",
     "name_no_class": "Crimp Housing 2 5 Mm Jst Sm Latching 4 Pin Plug",
@@ -85,6 +86,6 @@
     "name_no_size_short": "4 Pin Plug",
     "description_or_color": "4",
     "description_or_color_upper": "4",
-    "markdown_full": "[electronic_crimp_housing_2_5_mm_jst_sm_latching_4_pin_plug](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_4_pin_plug)<br>[ch4p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_4_pin_plug)<br>[Electronic Crimp Housing 2 5 Mm Jst Sm Latching 4 Pin Plug](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_4_pin_plug)<br><br>",
-    "markdown_short": "[electronic_crimp_housing_2_5_mm_jst_sm_latching_4_pin_plug](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_4_pin_plug)<br><br>"
+    "markdown_full": "[electronic_crimp_housing_2_5_mm_jst_sm_latching_4_pin_plug](none)<br>[ch4p](none)<br>[Electronic Crimp Housing 2 5 Mm Jst Sm Latching 4 Pin Plug](none)<br><br>",
+    "markdown_short": "[electronic_crimp_housing_2_5_mm_jst_sm_latching_4_pin_plug](none)<br><br>"
 }

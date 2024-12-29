@@ -35,21 +35,22 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_pms2231117_electronic_pmic_sot_223_linear_1117_1_8_volt
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_pms2231117_electronic_pmic_sot_223_linear_1117_1_8_volt
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt
 id: electronic_pmic_sot_223_linear_1117_1_8_volt
 id_no_class: pmic_sot_223_linear_1117_1_8_volt
 id_no_size: linear_1117_1_8_volt
 id_no_type: sot_223_linear_1117_1_8_volt
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_pmic_sot_223_linear_1117_1_8_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt)<br>[pms2231117](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt)<br>[Electronic
-    Pmic Sot 223 Linear 1117 1 8 Volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt)<br><br>'
-markdown_short: '[electronic_pmic_sot_223_linear_1117_1_8_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt)<br><br>'
+markdown_full: '[electronic_pmic_sot_223_linear_1117_1_8_volt](none)<br>[pms2231117](none)<br>[Electronic
+    Pmic Sot 223 Linear 1117 1 8 Volt](none)<br><br>'
+markdown_short: '[electronic_pmic_sot_223_linear_1117_1_8_volt](none)<br><br>'
 md5: 1ae2ec9bc6ca9d86e38f14487d5958be
 md5_10: 1ae2ec9bc6
 md5_10_upper: 1AE2EC9BC6

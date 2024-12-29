@@ -46,8 +46,9 @@
     "id_no_type": "2_54_mm_35_pin_surface_mount",
     "id_no_size": "35_pin_surface_mount",
     "oomp_key": "oomp_electronic_header_2_54_mm_35_pin_surface_mount",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_35_pin_surface_mount",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_35_pin_surface_mount",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_35_pin_surface_mount",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_35_pin_surface_mount",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_35_pin_surface_mount",
     "directory": "parts/electronic_header_2_54_mm_35_pin_surface_mount",
     "name": "Electronic Header 2 54 Mm 35 Pin Surface Mount",
     "name_no_class": "Header 2 54 Mm 35 Pin Surface Mount",
@@ -92,6 +93,6 @@
     "name_no_size_short": "35 Pin Surface Mount",
     "description_or_color": "35",
     "description_or_color_upper": "35",
-    "markdown_full": "[electronic_header_2_54_mm_35_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_35_pin_surface_mount)<br>[hi135psm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_35_pin_surface_mount)<br>[Electronic Header 2 54 Mm 35 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_35_pin_surface_mount)<br>[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>",
-    "markdown_short": "[electronic_header_2_54_mm_35_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_35_pin_surface_mount)<br>[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>"
+    "markdown_full": "[electronic_header_2_54_mm_35_pin_surface_mount](none)<br>[hi135psm](none)<br>[Electronic Header 2 54 Mm 35 Pin Surface Mount](none)<br>[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>",
+    "markdown_short": "[electronic_header_2_54_mm_35_pin_surface_mount](none)<br>[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>"
 }

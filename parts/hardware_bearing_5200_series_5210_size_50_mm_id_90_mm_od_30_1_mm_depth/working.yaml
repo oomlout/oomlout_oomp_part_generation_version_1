@@ -26,21 +26,22 @@ directory: parts/hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30_1_m
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30_1_mm_depth
 id: hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30_1_mm_depth
 id_no_class: bearing_5200_series_5210_size_50_mm_id_90_mm_od_30_1_mm_depth
 id_no_size: 5210_size_50_mm_id_90_mm_od_30_1_mm_depth
 id_no_type: 5200_series_5210_size_50_mm_id_90_mm_od_30_1_mm_depth
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30_1_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30_1_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30_1_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30_1_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30_1_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30_1_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30_1_mm_depth)<br>[Hardware
-    Bearing 5200 Series 5210 Size 50 Mm Id 90 Mm Od 30 1 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30_1_mm_depth)<br><br>'
-markdown_short: '[hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30_1_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30_1_mm_depth)<br><br>'
+markdown_full: '[hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30_1_mm_depth](none)<br>[](none)<br>[Hardware
+    Bearing 5200 Series 5210 Size 50 Mm Id 90 Mm Od 30 1 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_bearing_5200_series_5210_size_50_mm_id_90_mm_od_30_1_mm_depth](none)<br><br>'
 md5: a151e5eb8f422b39d837bc6337b20c95
 md5_10: a151e5eb8f
 md5_10_upper: A151E5EB8F

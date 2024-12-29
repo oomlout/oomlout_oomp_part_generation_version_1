@@ -41,29 +41,66 @@ def load_parts(**kwargs):
         #print(part_id)
         part = things[part_id]
         size = part["type"]
-        description_main = part_id.replace(f"oobb_{size}_","")
+        
+        wid = part.get("width", 0)
+        hei = part.get("height", 0)
+        thick = part.get("thickness", 0)
+        description_main = f"{wid}_width_{hei}_height_{thick}_depth"
         #remove anything after "ex_" in the description
-        description_extra = ""
-        if "ex_" in description_main:
-            description_split = description_main.split("ex_")
-            description_main = description_split[0]
-            description_extra = description_split[1]
-
+        
+        size = part["size"] #different in oobb
+        
+        attributes = ["width","height","diameter","thickness"]
+        description_main = ""
+        for attribute in attributes:
+            test_value = part.get(attribute, "")
+            if test_value != "":
+                if description_main != "":
+                    description_main += "_"
+                attribute_name = attribute
+                if attribute == "thickness":
+                    attribute_name = "mm_depth"
+                description_main += f"{test_value}_{attribute_name}"
+        
+        #remove anything after "ex_" in the description
+        string_extra = ""
+        tests = ["bearing","shaft","extra","bearing_name","radius_name","depth","oring_type"]
+        for test in tests:
+            if test in part:
+                deet = part.get(test, "")
+                if deet != "":
+                    if string_extra != "":
+                        string_extra += "_"
+                    string_extra += f"{deet}_{test}"        
+        description_extra = string_extra
 
         part_details = {}
         part_details["classification"] = "oobb"
         part_details["type"] = "part"
         part_details["size"] = size
         part_details["color"] = ""
-        id = part["id"]
-        id = id.replace("oobb_","")
-
+        
         part_details["description_main"] = description_main
         part_details["description_extra"] = description_extra
         part_details["manufacturer"] = ""
         part_details["part_number"] = ""
         part_details["short_name"] = ""
-        part_details["distributors"] = []  
+        
+        id_parts = ["classification","type","size","color","description_main","description_extra","manufacturer","part_number"]
+        id = ""
+        for id_part in id_parts:
+            value = part_details.get(id_part, "")
+            if value != "":
+                id += f"{part_details[id_part]}_"
+        id = id[:-1]
+        id = id.replace(".0_","_")
+        id = id.replace(".","d")
+        part_details["id"] = id 
+        if "part_part" in id:
+            print(part_details)
+        
+
+
         parts.append(part_details)
         
 

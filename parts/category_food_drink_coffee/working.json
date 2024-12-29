@@ -50,8 +50,9 @@
     "id_no_type": "drink_coffee",
     "id_no_size": "coffee",
     "oomp_key": "oomp_category_food_drink_coffee",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink_coffee",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink_coffee",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_drink_coffee",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_drink_coffee",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_drink_coffee",
     "directory": "parts/category_food_drink_coffee",
     "name": "Category Food Drink Coffee",
     "name_no_class": "Food Drink Coffee",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Coffee",
     "description_or_color": "C ",
     "description_or_color_upper": "C ",
-    "markdown_full": "[category_food_drink_coffee](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink_coffee)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink_coffee)<br>[Category Food Drink Coffee](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink_coffee)<br><br>",
-    "markdown_short": "[category_food_drink_coffee](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_drink_coffee)<br><br>"
+    "markdown_full": "[category_food_drink_coffee](none)<br>[](none)<br>[Category Food Drink Coffee](none)<br><br>",
+    "markdown_short": "[category_food_drink_coffee](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_electronic_ic_soic_28_wide_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_soic_28_wide_cubby_box
 id: category_electronic_ic_soic_28_wide_cubby_box
 id_no_class: electronic_ic_soic_28_wide_cubby_box
 id_no_size: so28_wide_cubby_box
 id_no_type: ic_soic_28_wide_cubby_box
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_soic_28_wide_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_soic_28_wide_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_soic_28_wide_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_soic_28_wide_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_ic_soic_28_wide_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_soic_28_wide_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_soic_28_wide_cubby_box)<br>[Category
-    Electronic Ic Soic 28 Wide Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_soic_28_wide_cubby_box)<br><br>'
-markdown_short: '[category_electronic_ic_soic_28_wide_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_ic_soic_28_wide_cubby_box)<br><br>'
+markdown_full: '[category_electronic_ic_soic_28_wide_cubby_box](none)<br>[](none)<br>[Category
+    Electronic Ic Soic 28 Wide Cubby Box](none)<br><br>'
+markdown_short: '[category_electronic_ic_soic_28_wide_cubby_box](none)<br><br>'
 md5: 62a95221b8c6859e9916d4a46fce7891
 md5_10: 62a95221b8
 md5_10_upper: 62A95221B8

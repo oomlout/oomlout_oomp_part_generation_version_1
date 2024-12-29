@@ -46,8 +46,9 @@
     "id_no_type": "micro_sg90",
     "id_no_size": "sg90",
     "oomp_key": "oomp_mechanical_motor_servo_remote_control_micro_sg90",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90",
     "directory": "parts/mechanical_motor_servo_remote_control_micro_sg90",
     "name": "Mechanical Motor Servo Remote Control Micro Sg90",
     "name_no_class": "Motor Servo Remote Control Micro Sg90",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Sg90",
     "description_or_color": "90",
     "description_or_color_upper": "90",
-    "markdown_full": "[mechanical_motor_servo_remote_control_micro_sg90](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90)<br>[Mechanical Motor Servo Remote Control Micro Sg90](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90)<br><br>",
-    "markdown_short": "[mechanical_motor_servo_remote_control_micro_sg90](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_sg90)<br><br>"
+    "markdown_full": "[mechanical_motor_servo_remote_control_micro_sg90](none)<br>[](none)<br>[Mechanical Motor Servo Remote Control Micro Sg90](none)<br><br>",
+    "markdown_short": "[mechanical_motor_servo_remote_control_micro_sg90](none)<br><br>"
 }

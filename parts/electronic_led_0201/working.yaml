@@ -37,22 +37,22 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l_electronic_led_0201
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201
 id: electronic_led_0201
 id_no_class: led_0201
 id_no_size: '0201'
 id_no_type: '0201'
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_0201](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201)<br>[l](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201)<br>[Electronic
-    Led 0201](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201)<br><br>'
-markdown_short: '[electronic_led_0201](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201)<br><br>'
+markdown_full: '[electronic_led_0201](none)<br>[l](none)<br>[Electronic Led 0201](none)<br><br>'
+markdown_short: '[electronic_led_0201](none)<br><br>'
 md5: 734a19bea8740b6c233a98d84ee91ee7
 md5_10: 734a19bea8
 md5_10_upper: 734A19BEA8

@@ -27,21 +27,22 @@ directory: parts/category_mechanical_solenoid_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_tote
 id: category_mechanical_solenoid_tote
 id_no_class: mechanical_solenoid_tote
 id_no_size: tote
 id_no_type: solenoid_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_mechanical_solenoid_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_tote)<br>[Category
-    Mechanical Solenoid Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_tote)<br><br>'
-markdown_short: '[category_mechanical_solenoid_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_solenoid_tote)<br><br>'
+markdown_full: '[category_mechanical_solenoid_tote](none)<br>[](none)<br>[Category
+    Mechanical Solenoid Tote](none)<br><br>'
+markdown_short: '[category_mechanical_solenoid_tote](none)<br><br>'
 md5: ff60d2e467a97c925b25ec7ec5bf2ac7
 md5_10: ff60d2e467
 md5_10_upper: FF60D2E467

@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l_electronic_led_0201_tint
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_tint
 id: electronic_led_0201_tint
 id_no_class: led_0201_tint
 id_no_size: tint
 id_no_type: 0201_tint
 kicad_reference: L
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_tint
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_tint
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_tint
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_tint
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_led_0201_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_tint)<br>[l](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_tint)<br>[Electronic
-    Led 0201 Tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_tint)<br><br>'
-markdown_short: '[electronic_led_0201_tint](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_tint)<br><br>'
+markdown_full: '[electronic_led_0201_tint](none)<br>[l](none)<br>[Electronic Led 0201
+    Tint](none)<br><br>'
+markdown_short: '[electronic_led_0201_tint](none)<br><br>'
 md5: ec8cd17659387cef0ac5ac86736f374d
 md5_10: ec8cd17659
 md5_10_upper: EC8CD17659

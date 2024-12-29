@@ -50,8 +50,9 @@
     "id_no_type": "baking",
     "id_no_size": "baking",
     "oomp_key": "oomp_category_dish_baking",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_baking",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_baking",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_baking",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_baking",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_baking",
     "directory": "parts/category_dish_baking",
     "name": "Category Dish Baking",
     "name_no_class": "Dish Baking",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Baking",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_dish_baking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_baking)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_baking)<br>[Category Dish Baking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_baking)<br><br>",
-    "markdown_short": "[category_dish_baking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_dish_baking)<br><br>"
+    "markdown_full": "[category_dish_baking](none)<br>[](none)<br>[Category Dish Baking](none)<br><br>",
+    "markdown_short": "[category_dish_baking](none)<br><br>"
 }

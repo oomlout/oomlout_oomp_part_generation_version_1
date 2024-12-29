@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ro180_electronic_resistor_quarter_watt_through_hole_18_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_18_ohm
 id: electronic_resistor_quarter_watt_through_hole_18_ohm
 id_no_class: resistor_quarter_watt_through_hole_18_ohm
 id_no_size: 18_ohm
 id_no_type: quarter_watt_through_hole_18_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_18_ohm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_18_ohm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_18_ohm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_18_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_quarter_watt_through_hole_18_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_18_ohm)<br>[ro180](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_18_ohm)<br>[Electronic
-    Resistor Quarter Watt Through Hole 18 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_18_ohm)<br><br>'
-markdown_short: '[electronic_resistor_quarter_watt_through_hole_18_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_18_ohm)<br><br>'
+markdown_full: '[electronic_resistor_quarter_watt_through_hole_18_ohm](none)<br>[ro180](none)<br>[Electronic
+    Resistor Quarter Watt Through Hole 18 Ohm](none)<br><br>'
+markdown_short: '[electronic_resistor_quarter_watt_through_hole_18_ohm](none)<br><br>'
 md5: 8bf0419b5255796ae519c97ac1b7cec1
 md5_10: 8bf0419b52
 md5_10_upper: 8BF0419B52

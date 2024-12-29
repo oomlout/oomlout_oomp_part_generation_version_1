@@ -27,21 +27,22 @@ directory: parts/category_electronic_voltage_converter_buck_12_volt
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt
 id: category_electronic_voltage_converter_buck_12_volt
 id_no_class: electronic_voltage_converter_buck_12_volt
 id_no_size: 12_volt
 id_no_type: voltage_converter_buck_12_volt
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_voltage_converter_buck_12_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt)<br>[Category
-    Electronic Voltage Converter Buck 12 Volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt)<br><br>'
-markdown_short: '[category_electronic_voltage_converter_buck_12_volt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_voltage_converter_buck_12_volt)<br><br>'
+markdown_full: '[category_electronic_voltage_converter_buck_12_volt](none)<br>[](none)<br>[Category
+    Electronic Voltage Converter Buck 12 Volt](none)<br><br>'
+markdown_short: '[category_electronic_voltage_converter_buck_12_volt](none)<br><br>'
 md5: 494a4bc8d9eefce84a38a471f369c605
 md5_10: 494a4bc8d9
 md5_10_upper: 494A4BC8D9

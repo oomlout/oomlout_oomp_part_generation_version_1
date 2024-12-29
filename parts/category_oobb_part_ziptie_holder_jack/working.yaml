@@ -27,21 +27,22 @@ directory: parts/category_oobb_part_ziptie_holder_jack
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack
 id: category_oobb_part_ziptie_holder_jack
 id_no_class: oobb_part_ziptie_holder_jack
 id_no_size: ziptie_holder_jack
 id_no_type: part_ziptie_holder_jack
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part_ziptie_holder_jack](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack)<br>[Category
-    Oobb Part Ziptie Holder Jack](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack)<br><br>'
-markdown_short: '[category_oobb_part_ziptie_holder_jack](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack)<br><br>'
+markdown_full: '[category_oobb_part_ziptie_holder_jack](none)<br>[](none)<br>[Category
+    Oobb Part Ziptie Holder Jack](none)<br><br>'
+markdown_short: '[category_oobb_part_ziptie_holder_jack](none)<br><br>'
 md5: 918d84f94bad389e396989a2983ad327
 md5_10: 918d84f94b
 md5_10_upper: 918D84F94B

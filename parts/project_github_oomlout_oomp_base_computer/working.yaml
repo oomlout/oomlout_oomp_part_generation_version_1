@@ -26,23 +26,22 @@ directory: parts/project_github_oomlout_oomp_base_computer
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer
 id: project_github_oomlout_oomp_base_computer
 id_no_class: github_oomlout_oomp_base_computer
 id_no_size: oomp_base_computer
 id_no_type: oomlout_oomp_base_computer
-link_github: https://github.com/oomlout/oomp_base_computer
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer
-link_redirect: https://github.com/oomlout/oomp_base_computer
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_computer
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_computer
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_computer
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_oomp_base_computer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer)<br>[Project
-    Github Oomlout Oomp Base Computer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer)<br><br>'
-markdown_short: '[project_github_oomlout_oomp_base_computer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer)<br><br>'
+markdown_full: '[project_github_oomlout_oomp_base_computer](none)<br>[](none)<br>[Project
+    Github Oomlout Oomp Base Computer](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomp_base_computer](none)<br><br>'
 md5: 0acdc117d9dd463e24277fa350540e9f
 md5_10: 0acdc117d9
 md5_10_upper: 0ACDC117D9

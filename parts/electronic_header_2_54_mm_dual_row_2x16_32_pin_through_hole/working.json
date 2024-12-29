@@ -46,8 +46,9 @@
     "id_no_type": "2_54_mm_dual_row_2x16_32_pin_through_hole",
     "id_no_size": "2x16_32_pin_through_hole",
     "oomp_key": "oomp_electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole",
     "directory": "parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole",
     "name": "Electronic Header 2 54 Mm Dual Row 2X16 32 Pin Through Hole",
     "name_no_class": "Header 2 54 Mm Dual Row 2X16 32 Pin Through Hole",
@@ -98,6 +99,6 @@
     "name_no_size_short": "2X16 32 Pin Through Hole",
     "description_or_color": "22k",
     "description_or_color_upper": "22K",
-    "markdown_full": "[electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole)<br>[hi12x16pth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole)<br>[Electronic Header 2 54 Mm Dual Row 2X16 32 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole)<br>[LCSC - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)<br>",
-    "markdown_short": "[electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole)<br>[LCSC - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)<br>"
+    "markdown_full": "[electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole](none)<br>[hi12x16pth](none)<br>[Electronic Header 2 54 Mm Dual Row 2X16 32 Pin Through Hole](none)<br>[LCSC - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)<br>",
+    "markdown_short": "[electronic_header_2_54_mm_dual_row_2x16_32_pin_through_hole](none)<br>[LCSC - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)<br>"
 }

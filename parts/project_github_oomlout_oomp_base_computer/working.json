@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/oomp_base_computer",
-    "link_github": "https://github.com/oomlout/oomp_base_computer",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_computer",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_computer",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_oomp_base_computer",
     "id_no_size": "oomp_base_computer",
     "oomp_key": "oomp_project_github_oomlout_oomp_base_computer",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_computer",
     "directory": "parts/project_github_oomlout_oomp_base_computer",
     "name": "Project Github Oomlout Oomp Base Computer",
     "name_no_class": "Github Oomlout Oomp Base Computer",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Oomp Base Computer",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[project_github_oomlout_oomp_base_computer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer)<br>[Project Github Oomlout Oomp Base Computer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer)<br><br>",
-    "markdown_short": "[project_github_oomlout_oomp_base_computer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer)<br><br>"
+    "markdown_full": "[project_github_oomlout_oomp_base_computer](none)<br>[](none)<br>[Project Github Oomlout Oomp Base Computer](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_oomp_base_computer](none)<br><br>"
 }

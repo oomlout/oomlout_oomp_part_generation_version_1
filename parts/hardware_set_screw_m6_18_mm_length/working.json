@@ -48,8 +48,9 @@
     "id_no_type": "m6_18_mm_length",
     "id_no_size": "18_mm_length",
     "oomp_key": "oomp_hardware_set_screw_m6_18_mm_length",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_18_mm_length",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_18_mm_length",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m6_18_mm_length",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m6_18_mm_length",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m6_18_mm_length",
     "directory": "parts/hardware_set_screw_m6_18_mm_length",
     "name": "Hardware Set Screw M6 18 Mm Length",
     "name_no_class": "Set Screw M6 18 Mm Length",
@@ -87,6 +88,6 @@
     "name_no_size_short": "18 Mm Length",
     "description_or_color": "18",
     "description_or_color_upper": "18",
-    "markdown_full": "[hardware_set_screw_m6_18_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_18_mm_length)<br>[ss618](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_18_mm_length)<br>[Hardware Set Screw M6 18 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_18_mm_length)<br><br>",
-    "markdown_short": "[hardware_set_screw_m6_18_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_18_mm_length)<br><br>"
+    "markdown_full": "[hardware_set_screw_m6_18_mm_length](none)<br>[ss618](none)<br>[Hardware Set Screw M6 18 Mm Length](none)<br><br>",
+    "markdown_short": "[hardware_set_screw_m6_18_mm_length](none)<br><br>"
 }

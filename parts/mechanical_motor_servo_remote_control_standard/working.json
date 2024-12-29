@@ -46,8 +46,9 @@
     "id_no_type": "standard",
     "id_no_size": "standard",
     "oomp_key": "oomp_mechanical_motor_servo_remote_control_standard",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard",
     "directory": "parts/mechanical_motor_servo_remote_control_standard",
     "name": "Mechanical Motor Servo Remote Control Standard",
     "name_no_class": "Motor Servo Remote Control Standard",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Standard",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[mechanical_motor_servo_remote_control_standard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard)<br>[Mechanical Motor Servo Remote Control Standard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard)<br><br>",
-    "markdown_short": "[mechanical_motor_servo_remote_control_standard](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard)<br><br>"
+    "markdown_full": "[mechanical_motor_servo_remote_control_standard](none)<br>[](none)<br>[Mechanical Motor Servo Remote Control Standard](none)<br><br>",
+    "markdown_short": "[mechanical_motor_servo_remote_control_standard](none)<br><br>"
 }

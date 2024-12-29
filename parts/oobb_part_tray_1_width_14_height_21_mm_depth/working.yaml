@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 1_width_14_height_21_mm_depth
+description_main_capital: 1 Width 14 Height 21 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 1_WIDTH_14_HEIGHT_21_MM_DEPTH
+description_only_numbers: '11421'
+description_only_numbers_short: 11k
+description_or_color: 11k
+description_or_color_upper: 11K
+directory: parts/oobb_part_tray_1_width_14_height_21_mm_depth
+distributors: []
+id: oobb_part_tray_1_width_14_height_21_mm_depth
+id_no_class: part_tray_1_width_14_height_21_mm_depth
+id_no_size: 1_width_14_height_21_mm_depth
+id_no_type: tray_1_width_14_height_21_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_1_width_14_height_21_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_1_width_14_height_21_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_1_width_14_height_21_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_1_width_14_height_21_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray 1 Width 14 Height 21 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_1_width_14_height_21_mm_depth](none)<br><br>'
+md5: 9dafd7e5a6a07598346a5027d822ebf1
+md5_10: 9dafd7e5a6
+md5_10_upper: 9DAFD7E5A6
+md5_5: 9dafd
+md5_5_upper: 9DAFD
+md5_6: 9dafd7
+md5_6_alpha: 65hw7
+md5_6_alpha_upper: 65HW7
+md5_6_upper: 9DAFD7
+name: Oobb Part Tray 1 Width 14 Height 21 Mm Depth
+name_no_class: Part Tray 1 Width 14 Height 21 Mm Depth
+name_no_size: 1 Width 14 Height 21 Mm Depth
+name_no_size_short: 1 Width 14 Height 21 Mm Depth
+name_no_type: Tray 1 Width 14 Height 21 Mm Depth
+oomp_key: oomp_oobb_part_tray_1_width_14_height_21_mm_depth
+oomp_word: hearts tophat office
+oomp_word_emoji: ':hearts: :tophat: :office:'
+oomp_word_emoji_list:
+- ':hearts:'
+- ':tophat:'
+- ':office:'
+oomp_word_list:
+- hearts
+- tophat
+- office
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

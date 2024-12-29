@@ -201,8 +201,9 @@
     "id_no_type": "shennie_atmega328p_arduino_compatible_usb_c_type",
     "id_no_size": "atmega328p_arduino_compatible_usb_c_type",
     "oomp_key": "oomp_electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_usb_c_type",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_usb_c_type",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_usb_c_type",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_usb_c_type",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_usb_c_type",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_usb_c_type",
     "directory": "parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_usb_c_type",
     "name": "Electronic Breakout Board Mcu Shennie Atmega328P Arduino Compatible Usb C Type",
     "name_no_class": "Breakout Board Mcu Shennie Atmega328P Arduino Compatible Usb C Type",
@@ -240,6 +241,6 @@
     "name_no_size_short": "Atmega328P Arduino Compatible Usb C Type",
     "description_or_color": "328",
     "description_or_color_upper": "328",
-    "markdown_full": "[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_usb_c_type](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_usb_c_type)<br>[sh](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_usb_c_type)<br>[Electronic Breakout Board Mcu Shennie Atmega328P Arduino Compatible Usb C Type](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_usb_c_type)<br><br>",
-    "markdown_short": "[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_usb_c_type](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_usb_c_type)<br><br>"
+    "markdown_full": "[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_usb_c_type](none)<br>[sh](none)<br>[Electronic Breakout Board Mcu Shennie Atmega328P Arduino Compatible Usb C Type](none)<br><br>",
+    "markdown_short": "[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_usb_c_type](none)<br><br>"
 }

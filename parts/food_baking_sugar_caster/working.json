@@ -49,8 +49,9 @@
     "id_no_type": "sugar_caster",
     "id_no_size": "caster",
     "oomp_key": "oomp_food_baking_sugar_caster",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_caster",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_caster",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_caster",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_caster",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_caster",
     "directory": "parts/food_baking_sugar_caster",
     "name": "Food Baking Sugar Caster",
     "name_no_class": "Baking Sugar Caster",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Caster",
     "description_or_color": "C ",
     "description_or_color_upper": "C ",
-    "markdown_full": "[food_baking_sugar_caster](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_caster)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_caster)<br>[Food Baking Sugar Caster](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_caster)<br><br>",
-    "markdown_short": "[food_baking_sugar_caster](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_caster)<br><br>"
+    "markdown_full": "[food_baking_sugar_caster](none)<br>[](none)<br>[Food Baking Sugar Caster](none)<br><br>",
+    "markdown_short": "[food_baking_sugar_caster](none)<br><br>"
 }

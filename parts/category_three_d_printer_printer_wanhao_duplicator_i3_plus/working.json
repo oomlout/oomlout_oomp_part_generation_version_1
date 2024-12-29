@@ -50,8 +50,9 @@
     "id_no_type": "printer_wanhao_duplicator_i3_plus",
     "id_no_size": "wanhao_duplicator_i3_plus",
     "oomp_key": "oomp_category_three_d_printer_printer_wanhao_duplicator_i3_plus",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus",
     "directory": "parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus",
     "name": "Category Three D Printer Printer Wanhao Duplicator I3 Plus",
     "name_no_class": "Three D Printer Printer Wanhao Duplicator I3 Plus",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Wanhao Duplicator I3 Plus",
     "description_or_color": "W ",
     "description_or_color_upper": "W ",
-    "markdown_full": "[category_three_d_printer_printer_wanhao_duplicator_i3_plus](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus)<br>[Category Three D Printer Printer Wanhao Duplicator I3 Plus](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus)<br><br>",
-    "markdown_short": "[category_three_d_printer_printer_wanhao_duplicator_i3_plus](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus)<br><br>"
+    "markdown_full": "[category_three_d_printer_printer_wanhao_duplicator_i3_plus](none)<br>[](none)<br>[Category Three D Printer Printer Wanhao Duplicator I3 Plus](none)<br><br>",
+    "markdown_short": "[category_three_d_printer_printer_wanhao_duplicator_i3_plus](none)<br><br>"
 }

@@ -50,8 +50,9 @@
     "id_no_type": "computer",
     "id_no_size": "computer",
     "oomp_key": "oomp_category_computer",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer",
     "directory": "parts/category_computer",
     "name": "Category Computer",
     "name_no_class": "Computer",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Computer",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_computer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer)<br>[Category Computer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer)<br><br>",
-    "markdown_short": "[category_computer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer)<br><br>"
+    "markdown_full": "[category_computer](none)<br>[](none)<br>[Category Computer](none)<br><br>",
+    "markdown_short": "[category_computer](none)<br><br>"
 }

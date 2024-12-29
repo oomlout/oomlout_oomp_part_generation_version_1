@@ -27,21 +27,22 @@ directory: parts/category_hardware_standoff
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_standoff
 id: category_hardware_standoff
 id_no_class: hardware_standoff
 id_no_size: standoff
 id_no_type: standoff
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_standoff
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_standoff
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_standoff
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_standoff
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_standoff](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_standoff)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_standoff)<br>[Category
-    Hardware Standoff](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_standoff)<br><br>'
-markdown_short: '[category_hardware_standoff](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_standoff)<br><br>'
+markdown_full: '[category_hardware_standoff](none)<br>[](none)<br>[Category Hardware
+    Standoff](none)<br><br>'
+markdown_short: '[category_hardware_standoff](none)<br><br>'
 md5: bc83eeda24ea380858d6c21686ad9cc0
 md5_10: bc83eeda24
 md5_10_upper: BC83EEDA24

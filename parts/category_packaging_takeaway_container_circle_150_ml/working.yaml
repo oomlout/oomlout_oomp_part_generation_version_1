@@ -27,21 +27,22 @@ directory: parts/category_packaging_takeaway_container_circle_150_ml
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_circle_150_ml
 id: category_packaging_takeaway_container_circle_150_ml
 id_no_class: packaging_takeaway_container_circle_150_ml
 id_no_size: 150_ml
 id_no_type: takeaway_container_circle_150_ml
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_circle_150_ml
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_takeaway_container_circle_150_ml
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_takeaway_container_circle_150_ml
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_takeaway_container_circle_150_ml
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_packaging_takeaway_container_circle_150_ml](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_circle_150_ml)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_circle_150_ml)<br>[Category
-    Packaging Takeaway Container Circle 150 Ml](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_circle_150_ml)<br><br>'
-markdown_short: '[category_packaging_takeaway_container_circle_150_ml](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_circle_150_ml)<br><br>'
+markdown_full: '[category_packaging_takeaway_container_circle_150_ml](none)<br>[](none)<br>[Category
+    Packaging Takeaway Container Circle 150 Ml](none)<br><br>'
+markdown_short: '[category_packaging_takeaway_container_circle_150_ml](none)<br><br>'
 md5: 807c660bb1c71eb3b02bf05862744207
 md5_10: 807c660bb1
 md5_10_upper: 807C660BB1

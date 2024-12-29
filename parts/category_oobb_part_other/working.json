@@ -50,8 +50,9 @@
     "id_no_type": "part_other",
     "id_no_size": "other",
     "oomp_key": "oomp_category_oobb_part_other",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_other",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_other",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_other",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_other",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_other",
     "directory": "parts/category_oobb_part_other",
     "name": "Category Oobb Part Other",
     "name_no_class": "Oobb Part Other",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Other",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[category_oobb_part_other](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_other)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_other)<br>[Category Oobb Part Other](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_other)<br><br>",
-    "markdown_short": "[category_oobb_part_other](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_other)<br><br>"
+    "markdown_full": "[category_oobb_part_other](none)<br>[](none)<br>[Category Oobb Part Other](none)<br><br>",
+    "markdown_short": "[category_oobb_part_other](none)<br><br>"
 }

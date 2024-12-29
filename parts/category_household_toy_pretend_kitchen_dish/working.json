@@ -50,8 +50,9 @@
     "id_no_type": "pretend_kitchen_dish",
     "id_no_size": "pretend_kitchen_dish",
     "oomp_key": "oomp_category_household_toy_pretend_kitchen_dish",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_dish",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_dish",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_dish",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_dish",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_dish",
     "directory": "parts/category_household_toy_pretend_kitchen_dish",
     "name": "Category Household Toy Pretend Kitchen Dish",
     "name_no_class": "Household Toy Pretend Kitchen Dish",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Pretend Kitchen Dish",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_household_toy_pretend_kitchen_dish](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_dish)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_dish)<br>[Category Household Toy Pretend Kitchen Dish](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_dish)<br><br>",
-    "markdown_short": "[category_household_toy_pretend_kitchen_dish](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_dish)<br><br>"
+    "markdown_full": "[category_household_toy_pretend_kitchen_dish](none)<br>[](none)<br>[Category Household Toy Pretend Kitchen Dish](none)<br><br>",
+    "markdown_short": "[category_household_toy_pretend_kitchen_dish](none)<br><br>"
 }

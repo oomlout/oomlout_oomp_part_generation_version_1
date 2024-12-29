@@ -48,8 +48,9 @@
     "id_no_type": "m6_flanged",
     "id_no_size": "flanged",
     "oomp_key": "oomp_hardware_nut_m6_flanged",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_flanged",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_flanged",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_flanged",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_flanged",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_flanged",
     "directory": "parts/hardware_nut_m6_flanged",
     "name": "Hardware Nut M6 Flanged",
     "name_no_class": "Nut M6 Flanged",
@@ -87,6 +88,6 @@
     "name_no_size_short": "Flanged",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_nut_m6_flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_flanged)<br>[nu6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_flanged)<br>[Hardware Nut M6 Flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_flanged)<br><br>",
-    "markdown_short": "[hardware_nut_m6_flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_flanged)<br><br>"
+    "markdown_full": "[hardware_nut_m6_flanged](none)<br>[nu6](none)<br>[Hardware Nut M6 Flanged](none)<br><br>",
+    "markdown_short": "[hardware_nut_m6_flanged](none)<br><br>"
 }

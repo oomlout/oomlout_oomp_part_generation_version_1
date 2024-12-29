@@ -49,8 +49,9 @@
     "id_no_type": "pasta_penne",
     "id_no_size": "penne",
     "oomp_key": "oomp_food_starch_pasta_penne",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_penne",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_penne",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_penne",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_penne",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_penne",
     "directory": "parts/food_starch_pasta_penne",
     "name": "Food Starch Pasta Penne",
     "name_no_class": "Starch Pasta Penne",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Penne",
     "description_or_color": "P ",
     "description_or_color_upper": "P ",
-    "markdown_full": "[food_starch_pasta_penne](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_penne)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_penne)<br>[Food Starch Pasta Penne](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_penne)<br><br>",
-    "markdown_short": "[food_starch_pasta_penne](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_penne)<br><br>"
+    "markdown_full": "[food_starch_pasta_penne](none)<br>[](none)<br>[Food Starch Pasta Penne](none)<br><br>",
+    "markdown_short": "[food_starch_pasta_penne](none)<br><br>"
 }

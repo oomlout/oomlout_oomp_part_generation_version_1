@@ -27,21 +27,22 @@ directory: parts/category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pi
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket
 id: category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket
 id_no_class: electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket
 id_no_size: crimp_housing_1_mm_jst_sh_4_pin_socket
 id_no_type: wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket)<br>[Category
-    Electronic Wire Pigtail Crimp Housing 1 Mm Jst Sh 4 Pin Socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket)<br><br>'
-markdown_short: '[category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket)<br><br>'
+markdown_full: '[category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket](none)<br>[](none)<br>[Category
+    Electronic Wire Pigtail Crimp Housing 1 Mm Jst Sh 4 Pin Socket](none)<br><br>'
+markdown_short: '[category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket](none)<br><br>'
 md5: 96887810aeb1940c7797ce592bd14bbb
 md5_10: 96887810ae
 md5_10_upper: 96887810AE

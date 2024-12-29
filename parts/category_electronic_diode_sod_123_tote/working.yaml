@@ -27,21 +27,22 @@ directory: parts/category_electronic_diode_sod_123_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_sod_123_tote
 id: category_electronic_diode_sod_123_tote
 id_no_class: electronic_diode_sod_123_tote
 id_no_size: sod_123_tote
 id_no_type: diode_sod_123_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_sod_123_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_sod_123_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_sod_123_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_sod_123_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_diode_sod_123_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_sod_123_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_sod_123_tote)<br>[Category
-    Electronic Diode Sod 123 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_sod_123_tote)<br><br>'
-markdown_short: '[category_electronic_diode_sod_123_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_diode_sod_123_tote)<br><br>'
+markdown_full: '[category_electronic_diode_sod_123_tote](none)<br>[](none)<br>[Category
+    Electronic Diode Sod 123 Tote](none)<br><br>'
+markdown_short: '[category_electronic_diode_sod_123_tote](none)<br><br>'
 md5: ede817dfd3775333d54abd70485aa97d
 md5_10: ede817dfd3
 md5_10_upper: EDE817DFD3

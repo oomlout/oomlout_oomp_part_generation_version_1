@@ -46,8 +46,9 @@
     "id_no_type": "mini",
     "id_no_size": "mini",
     "oomp_key": "oomp_mechanical_motor_servo_remote_control_mini",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_mini",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_mini",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_mini",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_mini",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_mini",
     "directory": "parts/mechanical_motor_servo_remote_control_mini",
     "name": "Mechanical Motor Servo Remote Control Mini",
     "name_no_class": "Motor Servo Remote Control Mini",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Mini",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[mechanical_motor_servo_remote_control_mini](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_mini)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_mini)<br>[Mechanical Motor Servo Remote Control Mini](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_mini)<br><br>",
-    "markdown_short": "[mechanical_motor_servo_remote_control_mini](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_mini)<br><br>"
+    "markdown_full": "[mechanical_motor_servo_remote_control_mini](none)<br>[](none)<br>[Mechanical Motor Servo Remote Control Mini](none)<br><br>",
+    "markdown_short": "[mechanical_motor_servo_remote_control_mini](none)<br><br>"
 }

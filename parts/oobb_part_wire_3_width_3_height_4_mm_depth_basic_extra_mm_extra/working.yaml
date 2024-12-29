@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: basic_extra_mm_extra
+description_extra_capital: Basic Extra mm Extra
+description_extra_first_letter: b
+description_extra_first_letter_upper: B
+description_extra_upper: BASIC_EXTRA_MM_EXTRA
+description_main: 3_width_3_height_4_mm_depth
+description_main_capital: 3 Width 3 Height 4 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_3_HEIGHT_4_MM_DEPTH
+description_only_numbers: '334'
+description_only_numbers_short: '334'
+description_or_color: '334'
+description_or_color_upper: '334'
+directory: parts/oobb_part_wire_3_width_3_height_4_mm_depth_basic_extra_mm_extra
+distributors: []
+id: oobb_part_wire_3_width_3_height_4_mm_depth_basic_extra_mm_extra
+id_no_class: part_wire_3_width_3_height_4_mm_depth_basic_extra_mm_extra
+id_no_size: 3_width_3_height_4_mm_depth_basic_extra_mm_extra
+id_no_type: wire_3_width_3_height_4_mm_depth_basic_extra_mm_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_wire_3_width_3_height_4_mm_depth_basic_extra_mm_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_wire_3_width_3_height_4_mm_depth_basic_extra_mm_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_wire_3_width_3_height_4_mm_depth_basic_extra_mm_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_wire_3_width_3_height_4_mm_depth_basic_extra_mm_extra](none)<br>[](none)<br>[Oobb
+    Part Wire 3 Width 3 Height 4 Mm Depth Basic Extra Mm Extra](none)<br><br>'
+markdown_short: '[oobb_part_wire_3_width_3_height_4_mm_depth_basic_extra_mm_extra](none)<br><br>'
+md5: c17a8c8f296fc38d65375f383bae43f1
+md5_10: c17a8c8f29
+md5_10_upper: C17A8C8F29
+md5_5: c17a8
+md5_5_upper: C17A8
+md5_6: c17a8c
+md5_6_alpha: 7jrt8
+md5_6_alpha_upper: 7JRT8
+md5_6_upper: C17A8C
+name: Oobb Part Wire 3 Width 3 Height 4 Mm Depth Basic Extra Mm Extra
+name_no_class: Part Wire 3 Width 3 Height 4 Mm Depth Basic Extra Mm Extra
+name_no_size: 3 Width 3 Height 4 Mm Depth Basic Extra Mm Extra
+name_no_size_short: 3 Width 3 Height 4 Mm Depth Basic Extra Mm Extra
+name_no_type: Wire 3 Width 3 Height 4 Mm Depth Basic Extra Mm Extra
+oomp_key: oomp_oobb_part_wire_3_width_3_height_4_mm_depth_basic_extra_mm_extra
+oomp_word: doughnut camera pill
+oomp_word_emoji: ':doughnut: :camera: :pill:'
+oomp_word_emoji_list:
+- ':doughnut:'
+- ':camera:'
+- ':pill:'
+oomp_word_list:
+- doughnut
+- camera
+- pill
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: wire
+size_capital: Wire
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WIRE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

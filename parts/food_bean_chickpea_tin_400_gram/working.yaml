@@ -26,21 +26,22 @@ directory: parts/food_bean_chickpea_tin_400_gram
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_chickpea_tin_400_gram
 id: food_bean_chickpea_tin_400_gram
 id_no_class: bean_chickpea_tin_400_gram
 id_no_size: chickpeatin400gram
 id_no_type: chickpea_tin_400_gram
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_chickpea_tin_400_gram
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_chickpea_tin_400_gram
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_chickpea_tin_400_gram
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_chickpea_tin_400_gram
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_bean_chickpea_tin_400_gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_chickpea_tin_400_gram)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_chickpea_tin_400_gram)<br>[Food
-    Bean Chickpea Tin 400 Gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_chickpea_tin_400_gram)<br><br>'
-markdown_short: '[food_bean_chickpea_tin_400_gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_chickpea_tin_400_gram)<br><br>'
+markdown_full: '[food_bean_chickpea_tin_400_gram](none)<br>[](none)<br>[Food Bean
+    Chickpea Tin 400 Gram](none)<br><br>'
+markdown_short: '[food_bean_chickpea_tin_400_gram](none)<br><br>'
 md5: 265da49c0f14544cd342c65d2573f324
 md5_10: 265da49c0f
 md5_10_upper: 265DA49C0F

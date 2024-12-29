@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: m3_radius_name_30_depth
+description_extra_capital: M3 Radius Name 30 Depth
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: M3_RADIUS_NAME_30_DEPTH
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_screw_countersunk_m3_radius_name_30_depth
+distributors: []
+id: oobb_part_screw_countersunk_m3_radius_name_30_depth
+id_no_class: part_screw_countersunk_m3_radius_name_30_depth
+id_no_size: m3_radius_name_30_depth
+id_no_type: screw_countersunk_m3_radius_name_30_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_screw_countersunk_m3_radius_name_30_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_screw_countersunk_m3_radius_name_30_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_screw_countersunk_m3_radius_name_30_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_screw_countersunk_m3_radius_name_30_depth](none)<br>[](none)<br>[Oobb
+    Part Screw Countersunk M3 Radius Name 30 Depth](none)<br><br>'
+markdown_short: '[oobb_part_screw_countersunk_m3_radius_name_30_depth](none)<br><br>'
+md5: 0e95fae87a0fa9e62857ed1a29ae1606
+md5_10: 0e95fae87a
+md5_10_upper: 0E95FAE87A
+md5_5: 0e95f
+md5_5_upper: 0E95F
+md5_6: 0e95fa
+md5_6_alpha: khkq
+md5_6_alpha_upper: KHKQ
+md5_6_upper: 0E95FA
+name: Oobb Part Screw Countersunk M3 Radius Name 30 Depth
+name_no_class: Part Screw Countersunk M3 Radius Name 30 Depth
+name_no_size: M3 Radius Name 30 Depth
+name_no_size_short: M3 Radius Name 30 Depth
+name_no_type: Screw Countersunk M3 Radius Name 30 Depth
+oomp_key: oomp_oobb_part_screw_countersunk_m3_radius_name_30_depth
+oomp_word: cupid telescope nine
+oomp_word_emoji: ':cupid: :telescope: :nine:'
+oomp_word_emoji_list:
+- ':cupid:'
+- ':telescope:'
+- ':nine:'
+oomp_word_list:
+- cupid
+- telescope
+- nine
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: screw_countersunk
+size_capital: Screw Countersunk
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_COUNTERSUNK
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

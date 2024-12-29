@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 7_width_3_height_27_mm_depth
+description_main_capital: 7 Width 3 Height 27 mm Depth
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 7_WIDTH_3_HEIGHT_27_MM_DEPTH
+description_only_numbers: '7327'
+description_only_numbers_short: 7k3
+description_or_color: 7k3
+description_or_color_upper: 7K3
+directory: parts/oobb_part_tray_vertical_7_width_3_height_27_mm_depth
+distributors: []
+id: oobb_part_tray_vertical_7_width_3_height_27_mm_depth
+id_no_class: part_tray_vertical_7_width_3_height_27_mm_depth
+id_no_size: 7_width_3_height_27_mm_depth
+id_no_type: tray_vertical_7_width_3_height_27_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_7_width_3_height_27_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_7_width_3_height_27_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_7_width_3_height_27_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_7_width_3_height_27_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray Vertical 7 Width 3 Height 27 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_7_width_3_height_27_mm_depth](none)<br><br>'
+md5: ec37db80daf5bc881701aae1d2a3d18f
+md5_10: ec37db80da
+md5_10_upper: EC37DB80DA
+md5_5: ec37d
+md5_5_upper: EC37D
+md5_6: ec37db
+md5_6_alpha: 97t23
+md5_6_alpha_upper: 97T23
+md5_6_upper: EC37DB
+name: Oobb Part Tray Vertical 7 Width 3 Height 27 Mm Depth
+name_no_class: Part Tray Vertical 7 Width 3 Height 27 Mm Depth
+name_no_size: 7 Width 3 Height 27 Mm Depth
+name_no_size_short: 7 Width 3 Height 27 Mm Depth
+name_no_type: Tray Vertical 7 Width 3 Height 27 Mm Depth
+oomp_key: oomp_oobb_part_tray_vertical_7_width_3_height_27_mm_depth
+oomp_word: taxi wolf tent
+oomp_word_emoji: ':taxi: :wolf: :tent:'
+oomp_word_emoji_list:
+- ':taxi:'
+- ':wolf:'
+- ':tent:'
+oomp_word_list:
+- taxi
+- wolf
+- tent
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

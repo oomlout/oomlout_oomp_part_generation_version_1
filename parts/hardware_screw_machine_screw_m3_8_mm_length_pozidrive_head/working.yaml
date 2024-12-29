@@ -26,22 +26,23 @@ directory: parts/hardware_screw_machine_screw_m3_8_mm_length_pozidrive_head
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m3_8_mm_length_pozidrive_head
 id: hardware_screw_machine_screw_m3_8_mm_length_pozidrive_head
 id_no_class: screw_machine_screw_m3_8_mm_length_pozidrive_head
 id_no_size: 8_mm_length_pozidrive_head
 id_no_type: m3_8_mm_length_pozidrive_head
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m3_8_mm_length_pozidrive_head
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_machine_screw_m3_8_mm_length_pozidrive_head
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_machine_screw_m3_8_mm_length_pozidrive_head
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_machine_screw_m3_8_mm_length_pozidrive_head
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_screw_machine_screw_m3_8_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m3_8_mm_length_pozidrive_head)<br>[38pz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m3_8_mm_length_pozidrive_head)<br>[Hardware
-    Screw Machine Screw M3 8 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m3_8_mm_length_pozidrive_head)<br><br>'
-markdown_short: '[hardware_screw_machine_screw_m3_8_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m3_8_mm_length_pozidrive_head)<br><br>'
+markdown_full: '[hardware_screw_machine_screw_m3_8_mm_length_pozidrive_head](none)<br>[38pz](none)<br>[Hardware
+    Screw Machine Screw M3 8 Mm Length Pozidrive Head](none)<br><br>'
+markdown_short: '[hardware_screw_machine_screw_m3_8_mm_length_pozidrive_head](none)<br><br>'
 md5: 6c8569faea817e1b8b952b658d47b84a
 md5_10: 6c8569faea
 md5_10_upper: 6C8569FAEA

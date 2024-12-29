@@ -27,21 +27,22 @@ directory: parts/category_warehouse_storage_container
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_container
 id: category_warehouse_storage_container
 id_no_class: warehouse_storage_container
 id_no_size: storage_container
 id_no_type: storage_container
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_container
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_warehouse_storage_container](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_container)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_container)<br>[Category
-    Warehouse Storage Container](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_container)<br><br>'
-markdown_short: '[category_warehouse_storage_container](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_warehouse_storage_container)<br><br>'
+markdown_full: '[category_warehouse_storage_container](none)<br>[](none)<br>[Category
+    Warehouse Storage Container](none)<br><br>'
+markdown_short: '[category_warehouse_storage_container](none)<br><br>'
 md5: 366a196605c616ab0f86d77344b2b3c0
 md5_10: 366a196605
 md5_10_upper: 366A196605

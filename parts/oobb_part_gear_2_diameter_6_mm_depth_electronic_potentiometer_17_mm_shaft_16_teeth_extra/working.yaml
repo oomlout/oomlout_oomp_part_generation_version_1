@@ -1,0 +1,93 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: electronic_potentiometer_17_mm_shaft_16_teeth_extra
+description_extra_capital: Electronic Potentiometer 17 mm Shaft 16 Teeth Extra
+description_extra_first_letter: e
+description_extra_first_letter_upper: E
+description_extra_upper: ELECTRONIC_POTENTIOMETER_17_MM_SHAFT_16_TEETH_EXTRA
+description_main: 2_diameter_6_mm_depth
+description_main_capital: 2 Diameter 6 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 2_DIAMETER_6_MM_DEPTH
+description_only_numbers: '26'
+description_only_numbers_short: '26'
+description_or_color: '26'
+description_or_color_upper: '26'
+directory: parts/oobb_part_gear_2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra
+distributors: []
+id: oobb_part_gear_2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra
+id_no_class: part_gear_2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra
+id_no_size: 2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra
+id_no_type: gear_2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_gear_2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra](none)<br>[](none)<br>[Oobb
+    Part Gear 2 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 16 Teeth
+    Extra](none)<br><br>'
+markdown_short: '[oobb_part_gear_2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra](none)<br><br>'
+md5: 696866518ee6a708403069fdbd8fd9ec
+md5_10: 696866518e
+md5_10_upper: 696866518E
+md5_5: '69686'
+md5_5_upper: '69686'
+md5_6: '696866'
+md5_6_alpha: '44292'
+md5_6_alpha_upper: '44292'
+md5_6_upper: '696866'
+name: Oobb Part Gear 2 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 16
+    Teeth Extra
+name_no_class: Part Gear 2 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft
+    16 Teeth Extra
+name_no_size: 2 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 16 Teeth
+    Extra
+name_no_size_short: 2 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 16
+    Teeth Extra
+name_no_type: Gear 2 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 16 Teeth
+    Extra
+oomp_key: oomp_oobb_part_gear_2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra
+oomp_word: cactus mushroom leaves
+oomp_word_emoji: ':cactus: :mushroom: :leaves:'
+oomp_word_emoji_list:
+- ':cactus:'
+- ':mushroom:'
+- ':leaves:'
+oomp_word_list:
+- cactus
+- mushroom
+- leaves
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: gear
+size_capital: Gear
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GEAR
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

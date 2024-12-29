@@ -27,21 +27,21 @@ directory: parts/category_computer_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tote
 id: category_computer_tote
 id_no_class: computer_tote
 id_no_size: tote
 id_no_type: tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_computer_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tote)<br>[Category
-    Computer Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tote)<br><br>'
-markdown_short: '[category_computer_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tote)<br><br>'
+markdown_full: '[category_computer_tote](none)<br>[](none)<br>[Category Computer Tote](none)<br><br>'
+markdown_short: '[category_computer_tote](none)<br><br>'
 md5: ea8f5db2a4ef7b53164e3ff4ca7ea314
 md5_10: ea8f5db2a4
 md5_10_upper: EA8F5DB2A4

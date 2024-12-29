@@ -50,8 +50,9 @@
     "id_no_type": "coupler",
     "id_no_size": "coupler",
     "oomp_key": "oomp_category_mechanical_coupler",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler",
     "directory": "parts/category_mechanical_coupler",
     "name": "Category Mechanical Coupler",
     "name_no_class": "Mechanical Coupler",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Coupler",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_mechanical_coupler](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler)<br>[Category Mechanical Coupler](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler)<br><br>",
-    "markdown_short": "[category_mechanical_coupler](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_mechanical_coupler)<br><br>"
+    "markdown_full": "[category_mechanical_coupler](none)<br>[](none)<br>[Category Mechanical Coupler](none)<br><br>",
+    "markdown_short": "[category_mechanical_coupler](none)<br><br>"
 }

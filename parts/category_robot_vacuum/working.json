@@ -50,8 +50,9 @@
     "id_no_type": "robot_vacuum",
     "id_no_size": "robotvacuum",
     "oomp_key": "oomp_category_robot_vacuum",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum",
     "directory": "parts/category_robot_vacuum",
     "name": "Category Robot Vacuum",
     "name_no_class": "Robot Vacuum",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Robotvacuum",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_robot_vacuum](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum)<br>[Category Robot Vacuum](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum)<br><br>",
-    "markdown_short": "[category_robot_vacuum](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_robot_vacuum)<br><br>"
+    "markdown_full": "[category_robot_vacuum](none)<br>[](none)<br>[Category Robot Vacuum](none)<br><br>",
+    "markdown_short": "[category_robot_vacuum](none)<br><br>"
 }

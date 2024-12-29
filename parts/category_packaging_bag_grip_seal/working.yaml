@@ -27,21 +27,22 @@ directory: parts/category_packaging_bag_grip_seal
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal
 id: category_packaging_bag_grip_seal
 id_no_class: packaging_bag_grip_seal
 id_no_size: bag_grip_seal
 id_no_type: bag_grip_seal
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_packaging_bag_grip_seal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal)<br>[Category
-    Packaging Bag Grip Seal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal)<br><br>'
-markdown_short: '[category_packaging_bag_grip_seal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_bag_grip_seal)<br><br>'
+markdown_full: '[category_packaging_bag_grip_seal](none)<br>[](none)<br>[Category
+    Packaging Bag Grip Seal](none)<br><br>'
+markdown_short: '[category_packaging_bag_grip_seal](none)<br><br>'
 md5: 44a0edd800eb689637f14802c50dff7b
 md5_10: 44a0edd800
 md5_10_upper: 44A0EDD800

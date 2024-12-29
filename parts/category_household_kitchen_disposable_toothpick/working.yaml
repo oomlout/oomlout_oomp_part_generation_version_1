@@ -27,21 +27,22 @@ directory: parts/category_household_kitchen_disposable_toothpick
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable_toothpick
 id: category_household_kitchen_disposable_toothpick
 id_no_class: household_kitchen_disposable_toothpick
 id_no_size: toothpick
 id_no_type: disposable_toothpick
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable_toothpick
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen_disposable_toothpick
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen_disposable_toothpick
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen_disposable_toothpick
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_household_kitchen_disposable_toothpick](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable_toothpick)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable_toothpick)<br>[Category
-    Household Kitchen Disposable Toothpick](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable_toothpick)<br><br>'
-markdown_short: '[category_household_kitchen_disposable_toothpick](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable_toothpick)<br><br>'
+markdown_full: '[category_household_kitchen_disposable_toothpick](none)<br>[](none)<br>[Category
+    Household Kitchen Disposable Toothpick](none)<br><br>'
+markdown_short: '[category_household_kitchen_disposable_toothpick](none)<br><br>'
 md5: 6952ac0beacdedbd228f5d52ed2c05bd
 md5_10: 6952ac0bea
 md5_10_upper: 6952AC0BEA

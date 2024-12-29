@@ -49,8 +49,9 @@
     "id_no_type": "rice_sushi",
     "id_no_size": "sushi",
     "oomp_key": "oomp_food_starch_rice_sushi",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_sushi",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_sushi",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_sushi",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_sushi",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_sushi",
     "directory": "parts/food_starch_rice_sushi",
     "name": "Food Starch Rice Sushi",
     "name_no_class": "Starch Rice Sushi",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Sushi",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[food_starch_rice_sushi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_sushi)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_sushi)<br>[Food Starch Rice Sushi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_sushi)<br><br>",
-    "markdown_short": "[food_starch_rice_sushi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_sushi)<br><br>"
+    "markdown_full": "[food_starch_rice_sushi](none)<br>[](none)<br>[Food Starch Rice Sushi](none)<br><br>",
+    "markdown_short": "[food_starch_rice_sushi](none)<br><br>"
 }

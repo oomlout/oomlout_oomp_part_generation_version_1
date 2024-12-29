@@ -25,22 +25,23 @@ description_or_color: '328'
 description_or_color_upper: '328'
 directory: parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
 id: electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
 id_no_class: breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
 id_no_size: atmega328p_arduino_compatible_breakout_cnc_shield
 id_no_type: shennie_atmega328p_arduino_compatible_breakout_cnc_shield
 kicad_reference: BB
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield)<br>[sh](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield)<br>[Electronic
-    Breakout Board Mcu Shennie Atmega328P Arduino Compatible Breakout Cnc Shield](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield)<br><br>'
-markdown_short: '[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield)<br><br>'
+markdown_full: '[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield](none)<br>[sh](none)<br>[Electronic
+    Breakout Board Mcu Shennie Atmega328P Arduino Compatible Breakout Cnc Shield](none)<br><br>'
+markdown_short: '[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield](none)<br><br>'
 md5: 6caf008b157223246ce0ca9553e21b74
 md5_10: 6caf008b15
 md5_10_upper: 6CAF008B15

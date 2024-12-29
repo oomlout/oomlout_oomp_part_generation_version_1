@@ -27,21 +27,21 @@ directory: parts/category_hardware_nut
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_nut
 id: category_hardware_nut
 id_no_class: hardware_nut
 id_no_size: nut
 id_no_type: nut
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_nut
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_nut
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_nut
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_nut
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_nut)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_nut)<br>[Category
-    Hardware Nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_nut)<br><br>'
-markdown_short: '[category_hardware_nut](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_nut)<br><br>'
+markdown_full: '[category_hardware_nut](none)<br>[](none)<br>[Category Hardware Nut](none)<br><br>'
+markdown_short: '[category_hardware_nut](none)<br><br>'
 md5: 561d781db389f4cf7a35136887c84a51
 md5_10: 561d781db3
 md5_10_upper: 561D781DB3

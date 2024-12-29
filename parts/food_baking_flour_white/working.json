@@ -49,8 +49,9 @@
     "id_no_type": "flour_white",
     "id_no_size": "white",
     "oomp_key": "oomp_food_baking_flour_white",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_white",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_white",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_white",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_white",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_white",
     "directory": "parts/food_baking_flour_white",
     "name": "Food Baking Flour White",
     "name_no_class": "Baking Flour White",
@@ -88,6 +89,6 @@
     "name_no_size_short": "White",
     "description_or_color": "W ",
     "description_or_color_upper": "W ",
-    "markdown_full": "[food_baking_flour_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_white)<br>[w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_white)<br>[Food Baking Flour White](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_white)<br><br>",
-    "markdown_short": "[food_baking_flour_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_white)<br><br>"
+    "markdown_full": "[food_baking_flour_white](none)<br>[w](none)<br>[Food Baking Flour White](none)<br><br>",
+    "markdown_short": "[food_baking_flour_white](none)<br><br>"
 }

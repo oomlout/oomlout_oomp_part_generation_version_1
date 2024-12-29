@@ -27,21 +27,22 @@ directory: parts/category_packaging_takeaway_container_rectangle
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_rectangle
 id: category_packaging_takeaway_container_rectangle
 id_no_class: packaging_takeaway_container_rectangle
 id_no_size: takeaway_container_rectangle
 id_no_type: takeaway_container_rectangle
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_rectangle
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_takeaway_container_rectangle
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_takeaway_container_rectangle
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_takeaway_container_rectangle
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_packaging_takeaway_container_rectangle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_rectangle)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_rectangle)<br>[Category
-    Packaging Takeaway Container Rectangle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_rectangle)<br><br>'
-markdown_short: '[category_packaging_takeaway_container_rectangle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_packaging_takeaway_container_rectangle)<br><br>'
+markdown_full: '[category_packaging_takeaway_container_rectangle](none)<br>[](none)<br>[Category
+    Packaging Takeaway Container Rectangle](none)<br><br>'
+markdown_short: '[category_packaging_takeaway_container_rectangle](none)<br><br>'
 md5: 170344bf12365cf0d04b539d6795f667
 md5_10: 170344bf12
 md5_10_upper: 170344BF12

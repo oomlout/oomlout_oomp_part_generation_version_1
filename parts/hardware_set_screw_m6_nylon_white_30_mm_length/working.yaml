@@ -26,22 +26,23 @@ directory: parts/hardware_set_screw_m6_nylon_white_30_mm_length
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length
 id: hardware_set_screw_m6_nylon_white_30_mm_length
 id_no_class: set_screw_m6_nylon_white_30_mm_length
 id_no_size: nylon_white_30_mm_length
 id_no_type: m6_nylon_white_30_mm_length
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_set_screw_m6_nylon_white_30_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length)<br>[ss630](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length)<br>[Hardware
-    Set Screw M6 Nylon White 30 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length)<br><br>'
-markdown_short: '[hardware_set_screw_m6_nylon_white_30_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length)<br><br>'
+markdown_full: '[hardware_set_screw_m6_nylon_white_30_mm_length](none)<br>[ss630](none)<br>[Hardware
+    Set Screw M6 Nylon White 30 Mm Length](none)<br><br>'
+markdown_short: '[hardware_set_screw_m6_nylon_white_30_mm_length](none)<br><br>'
 md5: 3105eb44f0edd0c55bb664f67dbf2335
 md5_10: 3105eb44f0
 md5_10_upper: 3105EB44F0

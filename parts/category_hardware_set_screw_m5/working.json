@@ -50,8 +50,9 @@
     "id_no_type": "set_screw_m5",
     "id_no_size": "m5",
     "oomp_key": "oomp_category_hardware_set_screw_m5",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m5",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m5",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_m5",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_m5",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_m5",
     "directory": "parts/category_hardware_set_screw_m5",
     "name": "Category Hardware Set Screw M5",
     "name_no_class": "Hardware Set Screw M5",
@@ -89,6 +90,6 @@
     "name_no_size_short": "M5",
     "description_or_color": "M ",
     "description_or_color_upper": "M ",
-    "markdown_full": "[category_hardware_set_screw_m5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m5)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m5)<br>[Category Hardware Set Screw M5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m5)<br><br>",
-    "markdown_short": "[category_hardware_set_screw_m5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw_m5)<br><br>"
+    "markdown_full": "[category_hardware_set_screw_m5](none)<br>[](none)<br>[Category Hardware Set Screw M5](none)<br><br>",
+    "markdown_short": "[category_hardware_set_screw_m5](none)<br><br>"
 }

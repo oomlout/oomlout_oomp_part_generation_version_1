@@ -50,8 +50,9 @@
     "id_no_type": "pretend_kitchen_utensil",
     "id_no_size": "pretend_kitchen_utensil",
     "oomp_key": "oomp_category_household_toy_pretend_kitchen_utensil",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_utensil",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_utensil",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_utensil",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_utensil",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_utensil",
     "directory": "parts/category_household_toy_pretend_kitchen_utensil",
     "name": "Category Household Toy Pretend Kitchen Utensil",
     "name_no_class": "Household Toy Pretend Kitchen Utensil",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Pretend Kitchen Utensil",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_household_toy_pretend_kitchen_utensil](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_utensil)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_utensil)<br>[Category Household Toy Pretend Kitchen Utensil](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_utensil)<br><br>",
-    "markdown_short": "[category_household_toy_pretend_kitchen_utensil](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_toy_pretend_kitchen_utensil)<br><br>"
+    "markdown_full": "[category_household_toy_pretend_kitchen_utensil](none)<br>[](none)<br>[Category Household Toy Pretend Kitchen Utensil](none)<br><br>",
+    "markdown_short": "[category_household_toy_pretend_kitchen_utensil](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_electronic_battery_holder_16340_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_holder_16340_tote
 id: category_electronic_battery_holder_16340_tote
 id_no_class: electronic_battery_holder_16340_tote
 id_no_size: 16340_tote
 id_no_type: battery_holder_16340_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_holder_16340_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_holder_16340_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_holder_16340_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_holder_16340_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_battery_holder_16340_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_holder_16340_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_holder_16340_tote)<br>[Category
-    Electronic Battery Holder 16340 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_holder_16340_tote)<br><br>'
-markdown_short: '[category_electronic_battery_holder_16340_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_holder_16340_tote)<br><br>'
+markdown_full: '[category_electronic_battery_holder_16340_tote](none)<br>[](none)<br>[Category
+    Electronic Battery Holder 16340 Tote](none)<br><br>'
+markdown_short: '[category_electronic_battery_holder_16340_tote](none)<br><br>'
 md5: 2dd797f9c2481cfb2e2d5efd341fc2ae
 md5_10: 2dd797f9c2
 md5_10_upper: 2DD797F9C2

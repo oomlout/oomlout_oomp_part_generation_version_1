@@ -27,22 +27,22 @@ directory: parts/food_vegetable_dill
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_dill
 id: food_vegetable_dill
 id_no_class: vegetable_dill
 id_no_size: dill
 id_no_type: dill
 link_distributor_ocado: https://www.ocado.com/search?entry=517767011
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_dill
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_dill
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_dill
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_dill
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_vegetable_dill](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_dill)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_dill)<br>[Food
-    Vegetable Dill](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_dill)<br><br>'
-markdown_short: '[food_vegetable_dill](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_dill)<br><br>'
+markdown_full: '[food_vegetable_dill](none)<br>[](none)<br>[Food Vegetable Dill](none)<br><br>'
+markdown_short: '[food_vegetable_dill](none)<br><br>'
 md5: f230b23e035319abff3004f63e5000f6
 md5_10: f230b23e03
 md5_10_upper: F230B23E03

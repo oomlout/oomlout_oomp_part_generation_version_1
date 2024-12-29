@@ -50,8 +50,9 @@
     "id_no_type": "measure_tape_measure",
     "id_no_size": "measure_tape_measure",
     "oomp_key": "oomp_category_tool_measure_tape_measure",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_measure_tape_measure",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_measure_tape_measure",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_measure_tape_measure",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_measure_tape_measure",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_measure_tape_measure",
     "directory": "parts/category_tool_measure_tape_measure",
     "name": "Category Tool Measure Tape Measure",
     "name_no_class": "Tool Measure Tape Measure",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Measure Tape Measure",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_tool_measure_tape_measure](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_measure_tape_measure)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_measure_tape_measure)<br>[Category Tool Measure Tape Measure](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_measure_tape_measure)<br><br>",
-    "markdown_short": "[category_tool_measure_tape_measure](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_measure_tape_measure)<br><br>"
+    "markdown_full": "[category_tool_measure_tape_measure](none)<br>[](none)<br>[Category Tool Measure Tape Measure](none)<br><br>",
+    "markdown_short": "[category_tool_measure_tape_measure](none)<br><br>"
 }

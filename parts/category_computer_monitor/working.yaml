@@ -27,21 +27,22 @@ directory: parts/category_computer_monitor
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor
 id: category_computer_monitor
 id_no_class: computer_monitor
 id_no_size: monitor
 id_no_type: monitor
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_computer_monitor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor)<br>[Category
-    Computer Monitor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor)<br><br>'
-markdown_short: '[category_computer_monitor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor)<br><br>'
+markdown_full: '[category_computer_monitor](none)<br>[](none)<br>[Category Computer
+    Monitor](none)<br><br>'
+markdown_short: '[category_computer_monitor](none)<br><br>'
 md5: 2b7dea6d9dd74e4ae004a50918583b35
 md5_10: 2b7dea6d9d
 md5_10_upper: 2B7DEA6D9D

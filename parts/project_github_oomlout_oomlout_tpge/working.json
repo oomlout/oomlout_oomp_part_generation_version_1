@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/oomlout-TPGE",
-    "link_github": "https://github.com/oomlout/oomlout-TPGE",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_tpge",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_tpge",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_oomlout_tpge",
     "id_no_size": "tpge",
     "oomp_key": "oomp_project_github_oomlout_oomlout_tpge",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_tpge",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_tpge",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_tpge",
     "directory": "parts/project_github_oomlout_oomlout_tpge",
     "name": "Project Github Oomlout Oomlout Tpge",
     "name_no_class": "Github Oomlout Oomlout Tpge",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Tpge",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[project_github_oomlout_oomlout_tpge](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_tpge)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_tpge)<br>[Project Github Oomlout Oomlout Tpge](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_tpge)<br><br>",
-    "markdown_short": "[project_github_oomlout_oomlout_tpge](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_tpge)<br><br>"
+    "markdown_full": "[project_github_oomlout_oomlout_tpge](none)<br>[](none)<br>[Project Github Oomlout Oomlout Tpge](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_oomlout_tpge](none)<br><br>"
 }

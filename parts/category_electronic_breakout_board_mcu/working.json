@@ -50,8 +50,9 @@
     "id_no_type": "breakout_board_mcu",
     "id_no_size": "breakout_board_mcu",
     "oomp_key": "oomp_category_electronic_breakout_board_mcu",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu",
     "directory": "parts/category_electronic_breakout_board_mcu",
     "name": "Category Electronic Breakout Board Mcu",
     "name_no_class": "Electronic Breakout Board Mcu",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Breakout Board Mcu",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_breakout_board_mcu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu)<br>[Category Electronic Breakout Board Mcu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu)<br><br>",
-    "markdown_short": "[category_electronic_breakout_board_mcu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu)<br><br>"
+    "markdown_full": "[category_electronic_breakout_board_mcu](none)<br>[](none)<br>[Category Electronic Breakout Board Mcu](none)<br><br>",
+    "markdown_short": "[category_electronic_breakout_board_mcu](none)<br><br>"
 }

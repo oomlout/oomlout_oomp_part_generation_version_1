@@ -27,21 +27,22 @@ directory: parts/category_computer_tablet_amazon_fire
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire
 id: category_computer_tablet_amazon_fire
 id_no_class: computer_tablet_amazon_fire
 id_no_size: amazon_fire
 id_no_type: tablet_amazon_fire
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_amazon_fire
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_amazon_fire
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_amazon_fire
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_computer_tablet_amazon_fire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire)<br>[Category
-    Computer Tablet Amazon Fire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire)<br><br>'
-markdown_short: '[category_computer_tablet_amazon_fire](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_tablet_amazon_fire)<br><br>'
+markdown_full: '[category_computer_tablet_amazon_fire](none)<br>[](none)<br>[Category
+    Computer Tablet Amazon Fire](none)<br><br>'
+markdown_short: '[category_computer_tablet_amazon_fire](none)<br><br>'
 md5: ea749a24086e204a1003050a9e4c0863
 md5_10: ea749a2408
 md5_10_upper: EA749A2408

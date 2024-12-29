@@ -50,8 +50,9 @@
     "id_no_type": "chinese_leaf",
     "id_no_size": "chineseleaf",
     "oomp_key": "oomp_food_vegetable_chinese_leaf",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_chinese_leaf",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_chinese_leaf",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_chinese_leaf",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_chinese_leaf",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_chinese_leaf",
     "directory": "parts/food_vegetable_chinese_leaf",
     "name": "Food Vegetable Chinese Leaf",
     "name_no_class": "Vegetable Chinese Leaf",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Chineseleaf",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[food_vegetable_chinese_leaf](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_chinese_leaf)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_chinese_leaf)<br>[Food Vegetable Chinese Leaf](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_chinese_leaf)<br><br>",
-    "markdown_short": "[food_vegetable_chinese_leaf](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_chinese_leaf)<br><br>"
+    "markdown_full": "[food_vegetable_chinese_leaf](none)<br>[](none)<br>[Food Vegetable Chinese Leaf](none)<br><br>",
+    "markdown_short": "[food_vegetable_chinese_leaf](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_oobb_part_bolt
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bolt
 id: category_oobb_part_bolt
 id_no_class: oobb_part_bolt
 id_no_size: bolt
 id_no_type: part_bolt
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bolt
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bolt
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bolt
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bolt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part_bolt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bolt)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bolt)<br>[Category
-    Oobb Part Bolt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bolt)<br><br>'
-markdown_short: '[category_oobb_part_bolt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_bolt)<br><br>'
+markdown_full: '[category_oobb_part_bolt](none)<br>[](none)<br>[Category Oobb Part
+    Bolt](none)<br><br>'
+markdown_short: '[category_oobb_part_bolt](none)<br><br>'
 md5: a8922a35946ce54af707d0c0efcd8412
 md5_10: a8922a3594
 md5_10_upper: A8922A3594

@@ -50,8 +50,9 @@
     "id_no_type": "carrot",
     "id_no_size": "carrot",
     "oomp_key": "oomp_food_vegetable_carrot",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_carrot",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_carrot",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_carrot",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_carrot",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_carrot",
     "directory": "parts/food_vegetable_carrot",
     "name": "Food Vegetable Carrot",
     "name_no_class": "Vegetable Carrot",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Carrot",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[food_vegetable_carrot](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_carrot)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_carrot)<br>[Food Vegetable Carrot](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_carrot)<br><br>",
-    "markdown_short": "[food_vegetable_carrot](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_carrot)<br><br>"
+    "markdown_full": "[food_vegetable_carrot](none)<br>[](none)<br>[Food Vegetable Carrot](none)<br><br>",
+    "markdown_short": "[food_vegetable_carrot](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_electronic_capacitor
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor
 id: category_electronic_capacitor
 id_no_class: electronic_capacitor
 id_no_size: capacitor
 id_no_type: capacitor
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_capacitor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor)<br>[Category
-    Electronic Capacitor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor)<br><br>'
-markdown_short: '[category_electronic_capacitor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor)<br><br>'
+markdown_full: '[category_electronic_capacitor](none)<br>[](none)<br>[Category Electronic
+    Capacitor](none)<br><br>'
+markdown_short: '[category_electronic_capacitor](none)<br><br>'
 md5: 41df9c2e14b5795158c23f10eec7da23
 md5_10: 41df9c2e14
 md5_10_upper: 41DF9C2E14

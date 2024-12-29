@@ -27,21 +27,22 @@ directory: parts/category_electronic_breakout_board_motor_driver_step_stick
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick
 id: category_electronic_breakout_board_motor_driver_step_stick
 id_no_class: electronic_breakout_board_motor_driver_step_stick
 id_no_size: step_stick
 id_no_type: breakout_board_motor_driver_step_stick
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_breakout_board_motor_driver_step_stick](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick)<br>[Category
-    Electronic Breakout Board Motor Driver Step Stick](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick)<br><br>'
-markdown_short: '[category_electronic_breakout_board_motor_driver_step_stick](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_step_stick)<br><br>'
+markdown_full: '[category_electronic_breakout_board_motor_driver_step_stick](none)<br>[](none)<br>[Category
+    Electronic Breakout Board Motor Driver Step Stick](none)<br><br>'
+markdown_short: '[category_electronic_breakout_board_motor_driver_step_stick](none)<br><br>'
 md5: c75ed90c749dd784dfc2f0814839f1f7
 md5_10: c75ed90c74
 md5_10_upper: C75ED90C74

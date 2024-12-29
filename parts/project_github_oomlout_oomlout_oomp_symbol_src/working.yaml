@@ -26,23 +26,22 @@ directory: parts/project_github_oomlout_oomlout_oomp_symbol_src
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_src
 id: project_github_oomlout_oomlout_oomp_symbol_src
 id_no_class: github_oomlout_oomlout_oomp_symbol_src
 id_no_size: oomp_symbol_src
 id_no_type: oomlout_oomlout_oomp_symbol_src
-link_github: https://github.com/oomlout/oomlout_oomp_symbol_src
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_src
-link_redirect: https://github.com/oomlout/oomlout_oomp_symbol_src
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_src
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_src
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_src
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[project_github_oomlout_oomlout_oomp_symbol_src](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_src)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_src)<br>[Project
-    Github Oomlout Oomlout Oomp Symbol Src](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_src)<br><br>'
-markdown_short: '[project_github_oomlout_oomlout_oomp_symbol_src](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_src)<br><br>'
+markdown_full: '[project_github_oomlout_oomlout_oomp_symbol_src](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Oomp Symbol Src](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oomp_symbol_src](none)<br><br>'
 md5: 3f6a9e69f48f21fb57ebe2b66b06342d
 md5_10: 3f6a9e69f4
 md5_10_upper: 3F6A9E69F4

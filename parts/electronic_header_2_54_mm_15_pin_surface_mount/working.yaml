@@ -39,24 +39,24 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hi115psm_electronic_header_2_54_mm_15_pin_surface_mount
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_hi115psm_electronic_header_2_54_mm_15_pin_surface_mount
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount
 id: electronic_header_2_54_mm_15_pin_surface_mount
 id_no_class: header_2_54_mm_15_pin_surface_mount
 id_no_size: 15_pin_surface_mount
 id_no_type: 2_54_mm_15_pin_surface_mount
 kicad_reference: CONN
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_header_2_54_mm_15_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount)<br>[hi115psm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount)<br>[Electronic
-    Header 2 54 Mm 15 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount)<br>[LCSC
-    - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
-markdown_short: '[electronic_header_2_54_mm_15_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_15_pin_surface_mount)<br>[LCSC
-    - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
+markdown_full: '[electronic_header_2_54_mm_15_pin_surface_mount](none)<br>[hi115psm](none)<br>[Electronic
+    Header 2 54 Mm 15 Pin Surface Mount](none)<br>[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
+markdown_short: '[electronic_header_2_54_mm_15_pin_surface_mount](none)<br>[LCSC -
+    C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
 md5: 299ae3cbd78dfc54d6ceb3a6b03aa23f
 md5_10: 299ae3cbd7
 md5_10_upper: 299AE3CBD7

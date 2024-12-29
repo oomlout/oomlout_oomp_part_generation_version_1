@@ -27,21 +27,22 @@ directory: parts/category_oobb_part_smd_magazine_joiner_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_joiner_tote
 id: category_oobb_part_smd_magazine_joiner_tote
 id_no_class: oobb_part_smd_magazine_joiner_tote
 id_no_size: smd_magazine_joiner_tote
 id_no_type: part_smd_magazine_joiner_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_joiner_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine_joiner_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine_joiner_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine_joiner_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part_smd_magazine_joiner_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_joiner_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_joiner_tote)<br>[Category
-    Oobb Part Smd Magazine Joiner Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_joiner_tote)<br><br>'
-markdown_short: '[category_oobb_part_smd_magazine_joiner_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_joiner_tote)<br><br>'
+markdown_full: '[category_oobb_part_smd_magazine_joiner_tote](none)<br>[](none)<br>[Category
+    Oobb Part Smd Magazine Joiner Tote](none)<br><br>'
+markdown_short: '[category_oobb_part_smd_magazine_joiner_tote](none)<br><br>'
 md5: a2b92307fc35f2f2997a1b1f3207e8d7
 md5_10: a2b92307fc
 md5_10_upper: A2B92307FC

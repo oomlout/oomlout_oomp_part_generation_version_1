@@ -50,8 +50,9 @@
     "id_no_type": "printer_bambu_lab_a1_tote",
     "id_no_size": "bambu_lab_a1_tote",
     "oomp_key": "oomp_category_three_d_printer_printer_bambu_lab_a1_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1_tote",
     "directory": "parts/category_three_d_printer_printer_bambu_lab_a1_tote",
     "name": "Category Three D Printer Printer Bambu Lab A1 Tote",
     "name_no_class": "Three D Printer Printer Bambu Lab A1 Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Bambu Lab A1 Tote",
     "description_or_color": "B ",
     "description_or_color_upper": "B ",
-    "markdown_full": "[category_three_d_printer_printer_bambu_lab_a1_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1_tote)<br>[Category Three D Printer Printer Bambu Lab A1 Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1_tote)<br><br>",
-    "markdown_short": "[category_three_d_printer_printer_bambu_lab_a1_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_a1_tote)<br><br>"
+    "markdown_full": "[category_three_d_printer_printer_bambu_lab_a1_tote](none)<br>[](none)<br>[Category Three D Printer Printer Bambu Lab A1 Tote](none)<br><br>",
+    "markdown_short": "[category_three_d_printer_printer_bambu_lab_a1_tote](none)<br><br>"
 }

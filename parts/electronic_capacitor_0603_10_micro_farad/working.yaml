@@ -37,22 +37,23 @@ footprint:
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_c6uf10_electronic_capacitor_0603_10_micro_farad
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_10_micro_farad
 id: electronic_capacitor_0603_10_micro_farad
 id_no_class: capacitor_0603_10_micro_farad
 id_no_size: 10_micro_farad
 id_no_type: 0603_10_micro_farad
 kicad_reference: C
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_10_micro_farad
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_10_micro_farad
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_10_micro_farad
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_10_micro_farad
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_capacitor_0603_10_micro_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_10_micro_farad)<br>[c6uf10](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_10_micro_farad)<br>[Electronic
-    Capacitor 0603 10 Micro Farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_10_micro_farad)<br><br>'
-markdown_short: '[electronic_capacitor_0603_10_micro_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_10_micro_farad)<br><br>'
+markdown_full: '[electronic_capacitor_0603_10_micro_farad](none)<br>[c6uf10](none)<br>[Electronic
+    Capacitor 0603 10 Micro Farad](none)<br><br>'
+markdown_short: '[electronic_capacitor_0603_10_micro_farad](none)<br><br>'
 md5: 01a6930e31d97cf8bcaabfe951e94821
 md5_10: 01a6930e31
 md5_10_upper: 01A6930E31

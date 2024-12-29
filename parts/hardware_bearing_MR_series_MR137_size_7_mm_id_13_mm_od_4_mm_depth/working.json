@@ -47,8 +47,9 @@
     "id_no_type": "MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth",
     "id_no_size": "MR137_size_7_mm_id_13_mm_od_4_mm_depth",
     "oomp_key": "oomp_hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth",
     "directory": "parts/hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth",
     "name": "Hardware Bearing Mr Series Mr137 Size 7 Mm Id 13 Mm Od 4 Mm Depth",
     "name_no_class": "Bearing Mr Series Mr137 Size 7 Mm Id 13 Mm Od 4 Mm Depth",
@@ -86,6 +87,6 @@
     "name_no_size_short": "Mr137 Size 7 Mm Id 13 Mm Od 4 Mm Depth",
     "description_or_color": "M7k1",
     "description_or_color_upper": "M7K1",
-    "markdown_full": "[hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth)<br>[Hardware Bearing Mr Series Mr137 Size 7 Mm Id 13 Mm Od 4 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth)<br><br>",
-    "markdown_short": "[hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth)<br><br>"
+    "markdown_full": "[hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth](none)<br>[](none)<br>[Hardware Bearing Mr Series Mr137 Size 7 Mm Id 13 Mm Od 4 Mm Depth](none)<br><br>",
+    "markdown_short": "[hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth](none)<br><br>"
 }

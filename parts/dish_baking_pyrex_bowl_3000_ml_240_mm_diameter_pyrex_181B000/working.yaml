@@ -26,22 +26,23 @@ directory: parts/dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000
 id: dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000
 id_no_class: baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000
 id_no_size: bowl_3000_ml_240_mm_diameter_181B000
 id_no_type: pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000
 link_distributor_pyrex: https://pyrex.co.uk/products/classic-glass-bowl-high-resistance?variant=14730280730659
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000
 manufacturer: pyrex
 manufacturer_capital: Pyrex
 manufacturer_first_letter: p
 manufacturer_first_letter_upper: P
 manufacturer_upper: PYREX
 manufacturers: []
-markdown_full: '[dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000)<br>[Dish
-    Baking Pyrex Bowl 3000 Ml 240 Mm Diameter Pyrex 181B000](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000)<br><br>'
-markdown_short: '[dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000)<br><br>'
+markdown_full: '[dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000](none)<br>[](none)<br>[Dish
+    Baking Pyrex Bowl 3000 Ml 240 Mm Diameter Pyrex 181B000](none)<br><br>'
+markdown_short: '[dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000](none)<br><br>'
 md5: 2ffb7046f518bfa590d888612485aa57
 md5_10: 2ffb7046f5
 md5_10_upper: 2FFB7046F5

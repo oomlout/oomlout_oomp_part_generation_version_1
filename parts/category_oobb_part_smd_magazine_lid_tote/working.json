@@ -50,8 +50,9 @@
     "id_no_type": "part_smd_magazine_lid_tote",
     "id_no_size": "smd_magazine_lid_tote",
     "oomp_key": "oomp_category_oobb_part_smd_magazine_lid_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_lid_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_lid_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine_lid_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine_lid_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_smd_magazine_lid_tote",
     "directory": "parts/category_oobb_part_smd_magazine_lid_tote",
     "name": "Category Oobb Part Smd Magazine Lid Tote",
     "name_no_class": "Oobb Part Smd Magazine Lid Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Smd Magazine Lid Tote",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_oobb_part_smd_magazine_lid_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_lid_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_lid_tote)<br>[Category Oobb Part Smd Magazine Lid Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_lid_tote)<br><br>",
-    "markdown_short": "[category_oobb_part_smd_magazine_lid_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_smd_magazine_lid_tote)<br><br>"
+    "markdown_full": "[category_oobb_part_smd_magazine_lid_tote](none)<br>[](none)<br>[Category Oobb Part Smd Magazine Lid Tote](none)<br><br>",
+    "markdown_short": "[category_oobb_part_smd_magazine_lid_tote](none)<br><br>"
 }

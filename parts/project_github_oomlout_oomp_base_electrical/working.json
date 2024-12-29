@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/oomp_base_electrical",
-    "link_github": "https://github.com/oomlout/oomp_base_electrical",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_electrical",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_electrical",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_oomp_base_electrical",
     "id_no_size": "oomp_base_electrical",
     "oomp_key": "oomp_project_github_oomlout_oomp_base_electrical",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_electrical",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_electrical",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_electrical",
     "directory": "parts/project_github_oomlout_oomp_base_electrical",
     "name": "Project Github Oomlout Oomp Base Electrical",
     "name_no_class": "Github Oomlout Oomp Base Electrical",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Oomp Base Electrical",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[project_github_oomlout_oomp_base_electrical](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_electrical)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_electrical)<br>[Project Github Oomlout Oomp Base Electrical](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_electrical)<br><br>",
-    "markdown_short": "[project_github_oomlout_oomp_base_electrical](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_electrical)<br><br>"
+    "markdown_full": "[project_github_oomlout_oomp_base_electrical](none)<br>[](none)<br>[Project Github Oomlout Oomp Base Electrical](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_oomp_base_electrical](none)<br><br>"
 }

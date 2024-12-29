@@ -24,21 +24,22 @@ description_or_color: 'A '
 description_or_color_upper: 'A '
 directory: parts/electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable
 id: electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable
 id_no_class: battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable
 id_no_size: alkaline_1_5_volt_non_rechargable
 id_no_type: 9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable)<br>[Electronic
-    Battery 9 Volt 15 Mm Width 16 Mm Height 48 Mm Depth Alkaline 1 5 Volt Non Rechargable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable)<br><br>'
-markdown_short: '[electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable)<br><br>'
+markdown_full: '[electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable](none)<br>[](none)<br>[Electronic
+    Battery 9 Volt 15 Mm Width 16 Mm Height 48 Mm Depth Alkaline 1 5 Volt Non Rechargable](none)<br><br>'
+markdown_short: '[electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable](none)<br><br>'
 md5: 7dd03bf2b441bc54475b939c4e36ab73
 md5_10: 7dd03bf2b4
 md5_10_upper: 7DD03BF2B4

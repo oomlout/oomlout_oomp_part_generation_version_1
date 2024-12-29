@@ -24,21 +24,22 @@ description_or_color: '349'
 description_or_color_upper: '349'
 directory: parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_34_mm_diameter_9_mm_depth
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_34_mm_diameter_9_mm_depth
 id: mechanical_wheel_3_mm_diameter_d_shape_shaft_34_mm_diameter_9_mm_depth
 id_no_class: wheel_3_mm_diameter_d_shape_shaft_34_mm_diameter_9_mm_depth
 id_no_size: 34_mm_diameter_9_mm_depth
 id_no_type: 3_mm_diameter_d_shape_shaft_34_mm_diameter_9_mm_depth
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_34_mm_diameter_9_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_34_mm_diameter_9_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_34_mm_diameter_9_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_34_mm_diameter_9_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[mechanical_wheel_3_mm_diameter_d_shape_shaft_34_mm_diameter_9_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_34_mm_diameter_9_mm_depth)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_34_mm_diameter_9_mm_depth)<br>[Mechanical
-    Wheel 3 Mm Diameter D Shape Shaft 34 Mm Diameter 9 Mm Depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_34_mm_diameter_9_mm_depth)<br><br>'
-markdown_short: '[mechanical_wheel_3_mm_diameter_d_shape_shaft_34_mm_diameter_9_mm_depth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_34_mm_diameter_9_mm_depth)<br><br>'
+markdown_full: '[mechanical_wheel_3_mm_diameter_d_shape_shaft_34_mm_diameter_9_mm_depth](none)<br>[](none)<br>[Mechanical
+    Wheel 3 Mm Diameter D Shape Shaft 34 Mm Diameter 9 Mm Depth](none)<br><br>'
+markdown_short: '[mechanical_wheel_3_mm_diameter_d_shape_shaft_34_mm_diameter_9_mm_depth](none)<br><br>'
 md5: 45c65cad331a6949f0c8913c8f378b3d
 md5_10: 45c65cad33
 md5_10_upper: 45C65CAD33

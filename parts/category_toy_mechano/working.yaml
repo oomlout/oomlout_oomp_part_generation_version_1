@@ -27,21 +27,21 @@ directory: parts/category_toy_mechano
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano
 id: category_toy_mechano
 id_no_class: toy_mechano
 id_no_size: mechano
 id_no_type: mechano
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_mechano
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_mechano
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_mechano
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_toy_mechano](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano)<br>[Category
-    Toy Mechano](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano)<br><br>'
-markdown_short: '[category_toy_mechano](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_toy_mechano)<br><br>'
+markdown_full: '[category_toy_mechano](none)<br>[](none)<br>[Category Toy Mechano](none)<br><br>'
+markdown_short: '[category_toy_mechano](none)<br><br>'
 md5: 045eacf461c86a6f318edc3739e409f6
 md5_10: 045eacf461
 md5_10_upper: 045EACF461

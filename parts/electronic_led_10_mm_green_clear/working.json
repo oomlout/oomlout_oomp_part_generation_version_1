@@ -48,8 +48,9 @@
     "id_no_type": "10_mm_green_clear",
     "id_no_size": "green_clear",
     "oomp_key": "oomp_electronic_led_10_mm_green_clear",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_green_clear",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_green_clear",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_green_clear",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_green_clear",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_green_clear",
     "directory": "parts/electronic_led_10_mm_green_clear",
     "name": "Electronic Led 10 Mm Green Clear",
     "name_no_class": "Led 10 Mm Green Clear",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Green Clear",
     "description_or_color": "G ",
     "description_or_color_upper": "G ",
-    "markdown_full": "[electronic_led_10_mm_green_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_green_clear)<br>[l10g](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_green_clear)<br>[Electronic Led 10 Mm Green Clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_green_clear)<br><br>",
-    "markdown_short": "[electronic_led_10_mm_green_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_green_clear)<br><br>"
+    "markdown_full": "[electronic_led_10_mm_green_clear](none)<br>[l10g](none)<br>[Electronic Led 10 Mm Green Clear](none)<br><br>",
+    "markdown_short": "[electronic_led_10_mm_green_clear](none)<br><br>"
 }

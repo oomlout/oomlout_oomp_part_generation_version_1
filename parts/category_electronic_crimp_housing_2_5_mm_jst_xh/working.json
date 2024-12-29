@@ -50,8 +50,9 @@
     "id_no_type": "crimp_housing_2_5_mm_jst_xh",
     "id_no_size": "2_5_mm_jst_xh",
     "oomp_key": "oomp_category_electronic_crimp_housing_2_5_mm_jst_xh",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_xh",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_xh",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_xh",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_xh",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_xh",
     "directory": "parts/category_electronic_crimp_housing_2_5_mm_jst_xh",
     "name": "Category Electronic Crimp Housing 2 5 Mm Jst Xh",
     "name_no_class": "Electronic Crimp Housing 2 5 Mm Jst Xh",
@@ -89,6 +90,6 @@
     "name_no_size_short": "2 5 Mm Jst Xh",
     "description_or_color": "2 ",
     "description_or_color_upper": "2 ",
-    "markdown_full": "[category_electronic_crimp_housing_2_5_mm_jst_xh](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_xh)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_xh)<br>[Category Electronic Crimp Housing 2 5 Mm Jst Xh](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_xh)<br><br>",
-    "markdown_short": "[category_electronic_crimp_housing_2_5_mm_jst_xh](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_crimp_housing_2_5_mm_jst_xh)<br><br>"
+    "markdown_full": "[category_electronic_crimp_housing_2_5_mm_jst_xh](none)<br>[](none)<br>[Category Electronic Crimp Housing 2 5 Mm Jst Xh](none)<br><br>",
+    "markdown_short": "[category_electronic_crimp_housing_2_5_mm_jst_xh](none)<br><br>"
 }

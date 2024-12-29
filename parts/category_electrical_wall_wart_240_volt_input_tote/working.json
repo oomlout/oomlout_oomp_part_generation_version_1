@@ -50,8 +50,9 @@
     "id_no_type": "wall_wart_240_volt_input_tote",
     "id_no_size": "240_volt_input_tote",
     "oomp_key": "oomp_category_electrical_wall_wart_240_volt_input_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote",
     "directory": "parts/category_electrical_wall_wart_240_volt_input_tote",
     "name": "Category Electrical Wall Wart 240 Volt Input Tote",
     "name_no_class": "Electrical Wall Wart 240 Volt Input Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "240 Volt Input Tote",
     "description_or_color": "2 ",
     "description_or_color_upper": "2 ",
-    "markdown_full": "[category_electrical_wall_wart_240_volt_input_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote)<br>[Category Electrical Wall Wart 240 Volt Input Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote)<br><br>",
-    "markdown_short": "[category_electrical_wall_wart_240_volt_input_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart_240_volt_input_tote)<br><br>"
+    "markdown_full": "[category_electrical_wall_wart_240_volt_input_tote](none)<br>[](none)<br>[Category Electrical Wall Wart 240 Volt Input Tote](none)<br><br>",
+    "markdown_short": "[category_electrical_wall_wart_240_volt_input_tote](none)<br><br>"
 }

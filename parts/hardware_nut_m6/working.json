@@ -48,8 +48,9 @@
     "id_no_type": "m6",
     "id_no_size": "m6",
     "oomp_key": "oomp_hardware_nut_m6",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6",
     "directory": "parts/hardware_nut_m6",
     "name": "Hardware Nut M6",
     "name_no_class": "Nut M6",
@@ -87,6 +88,6 @@
     "name_no_size_short": "M6",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_nut_m6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6)<br>[nu6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6)<br>[Hardware Nut M6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6)<br><br>",
-    "markdown_short": "[hardware_nut_m6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6)<br><br>"
+    "markdown_full": "[hardware_nut_m6](none)<br>[nu6](none)<br>[Hardware Nut M6](none)<br><br>",
+    "markdown_short": "[hardware_nut_m6](none)<br><br>"
 }

@@ -24,21 +24,22 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/mechanical_motor_servo_remote_control_large
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_large
 id: mechanical_motor_servo_remote_control_large
 id_no_class: motor_servo_remote_control_large
 id_no_size: large
 id_no_type: large
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_large
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_large
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_large
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_large
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[mechanical_motor_servo_remote_control_large](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_large)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_large)<br>[Mechanical
-    Motor Servo Remote Control Large](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_large)<br><br>'
-markdown_short: '[mechanical_motor_servo_remote_control_large](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_servo_remote_control_large)<br><br>'
+markdown_full: '[mechanical_motor_servo_remote_control_large](none)<br>[](none)<br>[Mechanical
+    Motor Servo Remote Control Large](none)<br><br>'
+markdown_short: '[mechanical_motor_servo_remote_control_large](none)<br><br>'
 md5: 4109618c890c2a2c2568f545c2a19c68
 md5_10: 4109618c89
 md5_10_upper: 4109618C89

@@ -50,8 +50,9 @@
     "id_no_type": "household_kitchen",
     "id_no_size": "householdkitchen",
     "oomp_key": "oomp_category_household_kitchen",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen",
     "directory": "parts/category_household_kitchen",
     "name": "Category Household Kitchen",
     "name_no_class": "Household Kitchen",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Householdkitchen",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_household_kitchen](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen)<br>[Category Household Kitchen](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen)<br><br>",
-    "markdown_short": "[category_household_kitchen](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen)<br><br>"
+    "markdown_full": "[category_household_kitchen](none)<br>[](none)<br>[Category Household Kitchen](none)<br><br>",
+    "markdown_short": "[category_household_kitchen](none)<br><br>"
 }

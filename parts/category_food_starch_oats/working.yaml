@@ -27,21 +27,22 @@ directory: parts/category_food_starch_oats
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats
 id: category_food_starch_oats
 id_no_class: food_starch_oats
 id_no_size: oats
 id_no_type: starch_oats
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_oats
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_oats
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_oats
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food_starch_oats](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats)<br>[Category
-    Food Starch Oats](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats)<br><br>'
-markdown_short: '[category_food_starch_oats](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_starch_oats)<br><br>'
+markdown_full: '[category_food_starch_oats](none)<br>[](none)<br>[Category Food Starch
+    Oats](none)<br><br>'
+markdown_short: '[category_food_starch_oats](none)<br><br>'
 md5: 6207aa9c22d41c487f9163607f52e44c
 md5_10: 6207aa9c22
 md5_10_upper: 6207AA9C22

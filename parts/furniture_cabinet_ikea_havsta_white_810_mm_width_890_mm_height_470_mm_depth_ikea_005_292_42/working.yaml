@@ -27,23 +27,24 @@ directory: parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
 height: 890 mm
 id: furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
 id_no_class: cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
 id_no_size: white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
 id_no_type: ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
 manufacturer: ikea
 manufacturer_capital: Ikea
 manufacturer_first_letter: i
 manufacturer_first_letter_upper: I
 manufacturer_upper: IKEA
 manufacturers: []
-markdown_full: '[furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42)<br>[w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42)<br>[Furniture
+markdown_full: '[furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42](none)<br>[w](none)<br>[Furniture
     Cabinet Ikea Havsta White 810 Mm Width 890 Mm Height 470 Mm Depth Ikea 005 292
-    42](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42)<br><br>'
-markdown_short: '[furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42)<br><br>'
+    42](none)<br><br>'
+markdown_short: '[furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42](none)<br><br>'
 md5: dbade8fdb750ff8acd0cf994bbbcefa4
 md5_10: dbade8fdb7
 md5_10_upper: DBADE8FDB7

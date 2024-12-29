@@ -50,8 +50,9 @@
     "id_no_type": "bean",
     "id_no_size": "bean",
     "oomp_key": "oomp_category_food_bean",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bean",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bean",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_bean",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_bean",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_bean",
     "directory": "parts/category_food_bean",
     "name": "Category Food Bean",
     "name_no_class": "Food Bean",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Bean",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_food_bean](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bean)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bean)<br>[Category Food Bean](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bean)<br><br>",
-    "markdown_short": "[category_food_bean](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_bean)<br><br>"
+    "markdown_full": "[category_food_bean](none)<br>[](none)<br>[Category Food Bean](none)<br><br>",
+    "markdown_short": "[category_food_bean](none)<br><br>"
 }

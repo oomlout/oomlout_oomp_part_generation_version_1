@@ -27,21 +27,22 @@ directory: parts/food_starch_rice_long_grain_quick_cook
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook
 id: food_starch_rice_long_grain_quick_cook
 id_no_class: starch_rice_long_grain_quick_cook
 id_no_size: long_grain_quick_cook
 id_no_type: rice_long_grain_quick_cook
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_starch_rice_long_grain_quick_cook](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook)<br>[Food
-    Starch Rice Long Grain Quick Cook](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook)<br><br>'
-markdown_short: '[food_starch_rice_long_grain_quick_cook](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook)<br><br>'
+markdown_full: '[food_starch_rice_long_grain_quick_cook](none)<br>[](none)<br>[Food
+    Starch Rice Long Grain Quick Cook](none)<br><br>'
+markdown_short: '[food_starch_rice_long_grain_quick_cook](none)<br><br>'
 md5: c5f12dc7142570c30d6dde539975681d
 md5_10: c5f12dc714
 md5_10_upper: C5F12DC714

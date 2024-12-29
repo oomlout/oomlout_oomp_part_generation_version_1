@@ -46,8 +46,9 @@
     "id_no_type": "bambu_lab_a1_mini",
     "id_no_size": "bambu_lab_a1_mini",
     "oomp_key": "oomp_three_d_printer_printer_bambu_lab_a1_mini",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1_mini",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1_mini",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1_mini",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1_mini",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1_mini",
     "directory": "parts/three_d_printer_printer_bambu_lab_a1_mini",
     "name": "Three D Printer Printer Bambu Lab A1 Mini",
     "name_no_class": "Printer Bambu Lab A1 Mini",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Bambu Lab A1 Mini",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[three_d_printer_printer_bambu_lab_a1_mini](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1_mini)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1_mini)<br>[Three D Printer Printer Bambu Lab A1 Mini](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1_mini)<br><br>",
-    "markdown_short": "[three_d_printer_printer_bambu_lab_a1_mini](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1_mini)<br><br>"
+    "markdown_full": "[three_d_printer_printer_bambu_lab_a1_mini](none)<br>[](none)<br>[Three D Printer Printer Bambu Lab A1 Mini](none)<br><br>",
+    "markdown_short": "[three_d_printer_printer_bambu_lab_a1_mini](none)<br><br>"
 }

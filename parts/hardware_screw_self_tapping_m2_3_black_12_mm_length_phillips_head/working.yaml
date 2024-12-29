@@ -26,22 +26,23 @@ directory: parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_he
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head
 id: hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head
 id_no_class: screw_self_tapping_m2_3_black_12_mm_length_phillips_head
 id_no_size: black_12_mm_length_phillips_head
 id_no_type: m2_3_black_12_mm_length_phillips_head
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head)<br>[stb12ph](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head)<br>[Hardware
-    Screw Self Tapping M2 3 Black 12 Mm Length Phillips Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head)<br><br>'
-markdown_short: '[hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head)<br><br>'
+markdown_full: '[hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head](none)<br>[stb12ph](none)<br>[Hardware
+    Screw Self Tapping M2 3 Black 12 Mm Length Phillips Head](none)<br><br>'
+markdown_short: '[hardware_screw_self_tapping_m2_3_black_12_mm_length_phillips_head](none)<br><br>'
 md5: a4cc1c6799e1d8bd4f299ea8dba02460
 md5_10: a4cc1c6799
 md5_10_upper: A4CC1C6799

@@ -46,8 +46,9 @@
     "id_no_type": "2_54_mm_jumper",
     "id_no_size": "jumper",
     "oomp_key": "oomp_electronic_header_2_54_mm_jumper",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_jumper",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_jumper",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_jumper",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_jumper",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_jumper",
     "directory": "parts/electronic_header_2_54_mm_jumper",
     "name": "Electronic Header 2 54 Mm Jumper",
     "name_no_class": "Header 2 54 Mm Jumper",
@@ -85,6 +86,6 @@
     "name_no_size_short": "Jumper",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[electronic_header_2_54_mm_jumper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_jumper)<br>[hi1j](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_jumper)<br>[Electronic Header 2 54 Mm Jumper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_jumper)<br><br>",
-    "markdown_short": "[electronic_header_2_54_mm_jumper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_jumper)<br><br>"
+    "markdown_full": "[electronic_header_2_54_mm_jumper](none)<br>[hi1j](none)<br>[Electronic Header 2 54 Mm Jumper](none)<br><br>",
+    "markdown_short": "[electronic_header_2_54_mm_jumper](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_computer_monitor_508_mm_screen_diagonal_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal_tote
 id: category_computer_monitor_508_mm_screen_diagonal_tote
 id_no_class: computer_monitor_508_mm_screen_diagonal_tote
 id_no_size: 508_mm_screen_diagonal_tote
 id_no_type: monitor_508_mm_screen_diagonal_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_computer_monitor_508_mm_screen_diagonal_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal_tote)<br>[Category
-    Computer Monitor 508 Mm Screen Diagonal Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal_tote)<br><br>'
-markdown_short: '[category_computer_monitor_508_mm_screen_diagonal_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal_tote)<br><br>'
+markdown_full: '[category_computer_monitor_508_mm_screen_diagonal_tote](none)<br>[](none)<br>[Category
+    Computer Monitor 508 Mm Screen Diagonal Tote](none)<br><br>'
+markdown_short: '[category_computer_monitor_508_mm_screen_diagonal_tote](none)<br><br>'
 md5: 8acfceade6dde1df5f038c32e81dc8cb
 md5_10: 8acfceade6
 md5_10_upper: 8ACFCEADE6

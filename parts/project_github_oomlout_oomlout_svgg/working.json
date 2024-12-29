@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/oomlout-SVGG",
-    "link_github": "https://github.com/oomlout/oomlout-SVGG",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_svgg",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_svgg",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_oomlout_svgg",
     "id_no_size": "svgg",
     "oomp_key": "oomp_project_github_oomlout_oomlout_svgg",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_svgg",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_svgg",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_svgg",
     "directory": "parts/project_github_oomlout_oomlout_svgg",
     "name": "Project Github Oomlout Oomlout Svgg",
     "name_no_class": "Github Oomlout Oomlout Svgg",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Svgg",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[project_github_oomlout_oomlout_svgg](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_svgg)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_svgg)<br>[Project Github Oomlout Oomlout Svgg](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_svgg)<br><br>",
-    "markdown_short": "[project_github_oomlout_oomlout_svgg](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_svgg)<br><br>"
+    "markdown_full": "[project_github_oomlout_oomlout_svgg](none)<br>[](none)<br>[Project Github Oomlout Oomlout Svgg](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_oomlout_svgg](none)<br><br>"
 }

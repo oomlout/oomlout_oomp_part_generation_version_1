@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 4_width_15_height_90_mm_depth
+description_main_capital: 4 Width 15 Height 90 mm Depth
+description_main_first_letter: '4'
+description_main_first_letter_upper: '4'
+description_main_upper: 4_WIDTH_15_HEIGHT_90_MM_DEPTH
+description_only_numbers: '41590'
+description_only_numbers_short: 42k
+description_or_color: 42k
+description_or_color_upper: 42K
+directory: parts/oobb_part_tray_4_width_15_height_90_mm_depth
+distributors: []
+id: oobb_part_tray_4_width_15_height_90_mm_depth
+id_no_class: part_tray_4_width_15_height_90_mm_depth
+id_no_size: 4_width_15_height_90_mm_depth
+id_no_type: tray_4_width_15_height_90_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_4_width_15_height_90_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_4_width_15_height_90_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_4_width_15_height_90_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_4_width_15_height_90_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray 4 Width 15 Height 90 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_4_width_15_height_90_mm_depth](none)<br><br>'
+md5: 5c6dbb697658afd98ac313ae0217982a
+md5_10: 5c6dbb6976
+md5_10_upper: 5C6DBB6976
+md5_5: 5c6db
+md5_5_upper: 5C6DB
+md5_6: 5c6dbb
+md5_6_alpha: 3ltx7
+md5_6_alpha_upper: 3LTX7
+md5_6_upper: 5C6DBB
+name: Oobb Part Tray 4 Width 15 Height 90 Mm Depth
+name_no_class: Part Tray 4 Width 15 Height 90 Mm Depth
+name_no_size: 4 Width 15 Height 90 Mm Depth
+name_no_size_short: 4 Width 15 Height 90 Mm Depth
+name_no_type: Tray 4 Width 15 Height 90 Mm Depth
+oomp_key: oomp_oobb_part_tray_4_width_15_height_90_mm_depth
+oomp_word: ox shell curry
+oomp_word_emoji: ':ox: :shell: :curry:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':shell:'
+- ':curry:'
+oomp_word_list:
+- ox
+- shell
+- curry
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

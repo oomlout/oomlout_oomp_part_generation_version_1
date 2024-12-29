@@ -50,8 +50,9 @@
     "id_no_type": "sheet_a3_297_mm_width_420_mm_height",
     "id_no_size": "a3_297_mm_width_420_mm_height",
     "oomp_key": "oomp_category_paper_sheet_a3_297_mm_width_420_mm_height",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_a3_297_mm_width_420_mm_height",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_a3_297_mm_width_420_mm_height",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a3_297_mm_width_420_mm_height",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a3_297_mm_width_420_mm_height",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a3_297_mm_width_420_mm_height",
     "directory": "parts/category_paper_sheet_a3_297_mm_width_420_mm_height",
     "name": "Category Paper Sheet A3 297 Mm Width 420 Mm Height",
     "name_no_class": "Paper Sheet A3 297 Mm Width 420 Mm Height",
@@ -89,6 +90,6 @@
     "name_no_size_short": "A3 297 Mm Width 420 Mm Height",
     "description_or_color": "A ",
     "description_or_color_upper": "A ",
-    "markdown_full": "[category_paper_sheet_a3_297_mm_width_420_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_a3_297_mm_width_420_mm_height)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_a3_297_mm_width_420_mm_height)<br>[Category Paper Sheet A3 297 Mm Width 420 Mm Height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_a3_297_mm_width_420_mm_height)<br><br>",
-    "markdown_short": "[category_paper_sheet_a3_297_mm_width_420_mm_height](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_a3_297_mm_width_420_mm_height)<br><br>"
+    "markdown_full": "[category_paper_sheet_a3_297_mm_width_420_mm_height](none)<br>[](none)<br>[Category Paper Sheet A3 297 Mm Width 420 Mm Height](none)<br><br>",
+    "markdown_short": "[category_paper_sheet_a3_297_mm_width_420_mm_height](none)<br><br>"
 }

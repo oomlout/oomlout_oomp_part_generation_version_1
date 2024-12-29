@@ -25,22 +25,23 @@ description_or_color_upper: ' '
 directory: parts/electrical_light_fixing_hardware_hook_68_mm_width
 distributor_amazon: B0BLYVQBV7
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width
 id: electrical_light_fixing_hardware_hook_68_mm_width
 id_no_class: light_fixing_hardware_hook_68_mm_width
 id_no_size: 68_mm_width
 id_no_type: 68_mm_width
 link_distributor_amazon: https://www.amazon.co.uk/dp/B0BLYVQBV7
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electrical_light_fixing_hardware_hook_68_mm_width](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width)<br>[Electrical
-    Light Fixing Hardware Hook 68 Mm Width](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width)<br><br>'
-markdown_short: '[electrical_light_fixing_hardware_hook_68_mm_width](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width)<br><br>'
+markdown_full: '[electrical_light_fixing_hardware_hook_68_mm_width](none)<br>[](none)<br>[Electrical
+    Light Fixing Hardware Hook 68 Mm Width](none)<br><br>'
+markdown_short: '[electrical_light_fixing_hardware_hook_68_mm_width](none)<br><br>'
 md5: a078ba84003513a5debae5b05d39881c
 md5_10: a078ba8400
 md5_10_upper: A078BA8400

@@ -1,0 +1,93 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: electronic_potentiometer_17_mm_shaft_32_teeth_extra
+description_extra_capital: Electronic Potentiometer 17 mm Shaft 32 Teeth Extra
+description_extra_first_letter: e
+description_extra_first_letter_upper: E
+description_extra_upper: ELECTRONIC_POTENTIOMETER_17_MM_SHAFT_32_TEETH_EXTRA
+description_main: 4_diameter_6_mm_depth
+description_main_capital: 4 Diameter 6 mm Depth
+description_main_first_letter: '4'
+description_main_first_letter_upper: '4'
+description_main_upper: 4_DIAMETER_6_MM_DEPTH
+description_only_numbers: '46'
+description_only_numbers_short: '46'
+description_or_color: '46'
+description_or_color_upper: '46'
+directory: parts/oobb_part_gear_4_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_32_teeth_extra
+distributors: []
+id: oobb_part_gear_4_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_32_teeth_extra
+id_no_class: part_gear_4_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_32_teeth_extra
+id_no_size: 4_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_32_teeth_extra
+id_no_type: gear_4_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_32_teeth_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_4_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_32_teeth_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_4_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_32_teeth_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_4_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_32_teeth_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_gear_4_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_32_teeth_extra](none)<br>[](none)<br>[Oobb
+    Part Gear 4 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 32 Teeth
+    Extra](none)<br><br>'
+markdown_short: '[oobb_part_gear_4_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_32_teeth_extra](none)<br><br>'
+md5: 2c55be5f661c41a0fed5cae6e55360bd
+md5_10: 2c55be5f66
+md5_10_upper: 2C55BE5F66
+md5_5: 2c55b
+md5_5_upper: 2C55B
+md5_6: 2c55be
+md5_6_alpha: 1q9xa
+md5_6_alpha_upper: 1Q9XA
+md5_6_upper: 2C55BE
+name: Oobb Part Gear 4 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 32
+    Teeth Extra
+name_no_class: Part Gear 4 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft
+    32 Teeth Extra
+name_no_size: 4 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 32 Teeth
+    Extra
+name_no_size_short: 4 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 32
+    Teeth Extra
+name_no_type: Gear 4 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 32 Teeth
+    Extra
+oomp_key: oomp_oobb_part_gear_4_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_32_teeth_extra
+oomp_word: snowflake dolphin ramen
+oomp_word_emoji: ':snowflake: :dolphin: :ramen:'
+oomp_word_emoji_list:
+- ':snowflake:'
+- ':dolphin:'
+- ':ramen:'
+oomp_word_list:
+- snowflake
+- dolphin
+- ramen
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: gear
+size_capital: Gear
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GEAR
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

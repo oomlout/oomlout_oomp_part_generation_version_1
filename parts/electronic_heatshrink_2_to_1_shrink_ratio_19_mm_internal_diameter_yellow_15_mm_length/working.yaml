@@ -24,22 +24,23 @@ description_or_color: Y15
 description_or_color_upper: Y15
 directory: parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_yellow_15_mm_length
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_yellow_15_mm_length
 id: electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_yellow_15_mm_length
 id_no_class: heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_yellow_15_mm_length
 id_no_size: yellow_15_mm_length
 id_no_type: 19_mm_internal_diameter_yellow_15_mm_length
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_yellow_15_mm_length
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_yellow_15_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_yellow_15_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_yellow_15_mm_length
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_yellow_15_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_yellow_15_mm_length)<br>[y15](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_yellow_15_mm_length)<br>[Electronic
-    Heatshrink 2 To 1 Shrink Ratio 19 Mm Internal Diameter Yellow 15 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_yellow_15_mm_length)<br><br>'
-markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_yellow_15_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_yellow_15_mm_length)<br><br>'
+markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_yellow_15_mm_length](none)<br>[y15](none)<br>[Electronic
+    Heatshrink 2 To 1 Shrink Ratio 19 Mm Internal Diameter Yellow 15 Mm Length](none)<br><br>'
+markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_yellow_15_mm_length](none)<br><br>'
 md5: 2a4369e23bb0e45e3d6c68a9a2592057
 md5_10: 2a4369e23b
 md5_10_upper: 2A4369E23B

@@ -50,8 +50,9 @@
     "id_no_type": "part_circle",
     "id_no_size": "circle",
     "oomp_key": "oomp_category_oobb_part_circle",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_circle",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_circle",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_circle",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_circle",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_circle",
     "directory": "parts/category_oobb_part_circle",
     "name": "Category Oobb Part Circle",
     "name_no_class": "Oobb Part Circle",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Circle",
     "description_or_color": "C ",
     "description_or_color_upper": "C ",
-    "markdown_full": "[category_oobb_part_circle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_circle)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_circle)<br>[Category Oobb Part Circle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_circle)<br><br>",
-    "markdown_short": "[category_oobb_part_circle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_circle)<br><br>"
+    "markdown_full": "[category_oobb_part_circle](none)<br>[](none)<br>[Category Oobb Part Circle](none)<br><br>",
+    "markdown_short": "[category_oobb_part_circle](none)<br><br>"
 }

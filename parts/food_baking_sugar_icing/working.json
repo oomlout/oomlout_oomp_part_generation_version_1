@@ -49,8 +49,9 @@
     "id_no_type": "sugar_icing",
     "id_no_size": "icing",
     "oomp_key": "oomp_food_baking_sugar_icing",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_icing",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_icing",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_icing",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_icing",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_icing",
     "directory": "parts/food_baking_sugar_icing",
     "name": "Food Baking Sugar Icing",
     "name_no_class": "Baking Sugar Icing",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Icing",
     "description_or_color": "I ",
     "description_or_color_upper": "I ",
-    "markdown_full": "[food_baking_sugar_icing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_icing)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_icing)<br>[Food Baking Sugar Icing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_icing)<br><br>",
-    "markdown_short": "[food_baking_sugar_icing](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_icing)<br><br>"
+    "markdown_full": "[food_baking_sugar_icing](none)<br>[](none)<br>[Food Baking Sugar Icing](none)<br><br>",
+    "markdown_short": "[food_baking_sugar_icing](none)<br><br>"
 }

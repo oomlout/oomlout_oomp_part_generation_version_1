@@ -27,21 +27,22 @@ directory: parts/category_oobb_part_threaded_insert_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert_tote
 id: category_oobb_part_threaded_insert_tote
 id_no_class: oobb_part_threaded_insert_tote
 id_no_size: threaded_insert_tote
 id_no_type: part_threaded_insert_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_threaded_insert_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_threaded_insert_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_threaded_insert_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part_threaded_insert_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert_tote)<br>[Category
-    Oobb Part Threaded Insert Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert_tote)<br><br>'
-markdown_short: '[category_oobb_part_threaded_insert_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_threaded_insert_tote)<br><br>'
+markdown_full: '[category_oobb_part_threaded_insert_tote](none)<br>[](none)<br>[Category
+    Oobb Part Threaded Insert Tote](none)<br><br>'
+markdown_short: '[category_oobb_part_threaded_insert_tote](none)<br><br>'
 md5: 50fdec8e6bac1a2f1ab77674a73c0bc9
 md5_10: 50fdec8e6b
 md5_10_upper: 50FDEC8E6B

@@ -50,8 +50,9 @@
     "id_no_type": "part_ziptie_holder",
     "id_no_size": "ziptie_holder",
     "oomp_key": "oomp_category_oobb_part_ziptie_holder",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder",
     "directory": "parts/category_oobb_part_ziptie_holder",
     "name": "Category Oobb Part Ziptie Holder",
     "name_no_class": "Oobb Part Ziptie Holder",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Ziptie Holder",
     "description_or_color": "Z ",
     "description_or_color_upper": "Z ",
-    "markdown_full": "[category_oobb_part_ziptie_holder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder)<br>[Category Oobb Part Ziptie Holder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder)<br><br>",
-    "markdown_short": "[category_oobb_part_ziptie_holder](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_ziptie_holder)<br><br>"
+    "markdown_full": "[category_oobb_part_ziptie_holder](none)<br>[](none)<br>[Category Oobb Part Ziptie Holder](none)<br><br>",
+    "markdown_short": "[category_oobb_part_ziptie_holder](none)<br><br>"
 }

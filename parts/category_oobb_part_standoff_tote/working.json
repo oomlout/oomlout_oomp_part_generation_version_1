@@ -50,8 +50,9 @@
     "id_no_type": "part_standoff_tote",
     "id_no_size": "standoff_tote",
     "oomp_key": "oomp_category_oobb_part_standoff_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_standoff_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_standoff_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_standoff_tote",
     "directory": "parts/category_oobb_part_standoff_tote",
     "name": "Category Oobb Part Standoff Tote",
     "name_no_class": "Oobb Part Standoff Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Standoff Tote",
     "description_or_color": "S ",
     "description_or_color_upper": "S ",
-    "markdown_full": "[category_oobb_part_standoff_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff_tote)<br>[Category Oobb Part Standoff Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff_tote)<br><br>",
-    "markdown_short": "[category_oobb_part_standoff_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_standoff_tote)<br><br>"
+    "markdown_full": "[category_oobb_part_standoff_tote](none)<br>[](none)<br>[Category Oobb Part Standoff Tote](none)<br><br>",
+    "markdown_short": "[category_oobb_part_standoff_tote](none)<br><br>"
 }

@@ -43,23 +43,24 @@ footprint:
     link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hi113psmra_electronic_header_2_54_mm_13_pin_surface_mount_right_angle
     note: oomp generated footprint
     oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_hi113psmra_electronic_header_2_54_mm_13_pin_surface_mount_right_angle
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_13_pin_surface_mount_right_angle
 id: electronic_header_2_54_mm_13_pin_surface_mount_right_angle
 id_no_class: header_2_54_mm_13_pin_surface_mount_right_angle
 id_no_size: 13_pin_surface_mount_right_angle
 id_no_type: 2_54_mm_13_pin_surface_mount_right_angle
 kicad_reference: CONN
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_13_pin_surface_mount_right_angle
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_13_pin_surface_mount_right_angle
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_13_pin_surface_mount_right_angle
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_13_pin_surface_mount_right_angle
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_header_2_54_mm_13_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_13_pin_surface_mount_right_angle)<br>[hi113psmra](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_13_pin_surface_mount_right_angle)<br>[Electronic
-    Header 2 54 Mm 13 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_13_pin_surface_mount_right_angle)<br>[LCSC
-    - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
-markdown_short: '[electronic_header_2_54_mm_13_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_13_pin_surface_mount_right_angle)<br>[LCSC
+markdown_full: '[electronic_header_2_54_mm_13_pin_surface_mount_right_angle](none)<br>[hi113psmra](none)<br>[Electronic
+    Header 2 54 Mm 13 Pin Surface Mount Right Angle](none)<br>[LCSC - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC
+    - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
+markdown_short: '[electronic_header_2_54_mm_13_pin_surface_mount_right_angle](none)<br>[LCSC
     - C917606<br>](https://lcsc.com/product-detail/C917606.html)[LCSC - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
 md5: 5ba2b7035011020eb50490121f92544c
 md5_10: 5ba2b70350

@@ -50,8 +50,9 @@
     "id_no_type": "clip_binder_tote",
     "id_no_size": "tote",
     "oomp_key": "oomp_category_stationery_clip_binder_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_clip_binder_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_clip_binder_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_clip_binder_tote",
     "directory": "parts/category_stationery_clip_binder_tote",
     "name": "Category Stationery Clip Binder Tote",
     "name_no_class": "Stationery Clip Binder Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Tote",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_stationery_clip_binder_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder_tote)<br>[Category Stationery Clip Binder Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder_tote)<br><br>",
-    "markdown_short": "[category_stationery_clip_binder_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_stationery_clip_binder_tote)<br><br>"
+    "markdown_full": "[category_stationery_clip_binder_tote](none)<br>[](none)<br>[Category Stationery Clip Binder Tote](none)<br><br>",
+    "markdown_short": "[category_stationery_clip_binder_tote](none)<br><br>"
 }

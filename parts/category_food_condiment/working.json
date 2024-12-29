@@ -50,8 +50,9 @@
     "id_no_type": "condiment",
     "id_no_size": "condiment",
     "oomp_key": "oomp_category_food_condiment",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_condiment",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_condiment",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_condiment",
     "directory": "parts/category_food_condiment",
     "name": "Category Food Condiment",
     "name_no_class": "Food Condiment",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Condiment",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_food_condiment](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment)<br>[Category Food Condiment](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment)<br><br>",
-    "markdown_short": "[category_food_condiment](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_condiment)<br><br>"
+    "markdown_full": "[category_food_condiment](none)<br>[](none)<br>[Category Food Condiment](none)<br><br>",
+    "markdown_short": "[category_food_condiment](none)<br><br>"
 }

@@ -27,21 +27,22 @@ directory: parts/category_household_cleaning_cleaner_spray
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_cleaning_cleaner_spray
 id: category_household_cleaning_cleaner_spray
 id_no_class: household_cleaning_cleaner_spray
 id_no_size: cleaner_spray
 id_no_type: cleaner_spray
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_cleaning_cleaner_spray
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_cleaning_cleaner_spray
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_cleaning_cleaner_spray
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_cleaning_cleaner_spray
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_household_cleaning_cleaner_spray](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_cleaning_cleaner_spray)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_cleaning_cleaner_spray)<br>[Category
-    Household Cleaning Cleaner Spray](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_cleaning_cleaner_spray)<br><br>'
-markdown_short: '[category_household_cleaning_cleaner_spray](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_cleaning_cleaner_spray)<br><br>'
+markdown_full: '[category_household_cleaning_cleaner_spray](none)<br>[](none)<br>[Category
+    Household Cleaning Cleaner Spray](none)<br><br>'
+markdown_short: '[category_household_cleaning_cleaner_spray](none)<br><br>'
 md5: fb366fde2e650048cd30f35d1a65ab79
 md5_10: fb366fde2e
 md5_10_upper: FB366FDE2E

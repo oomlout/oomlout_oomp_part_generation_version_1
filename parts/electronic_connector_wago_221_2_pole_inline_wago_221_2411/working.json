@@ -51,8 +51,9 @@
     "id_no_type": "wago_221_2_pole_inline_wago_221_2411",
     "id_no_size": "2_pole_inline_2411",
     "oomp_key": "oomp_electronic_connector_wago_221_2_pole_inline_wago_221_2411",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411",
     "directory": "parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411",
     "name": "Electronic Connector Wago 221 2 Pole Inline Wago 221 2411",
     "name_no_class": "Connector Wago 221 2 Pole Inline Wago 221 2411",
@@ -90,6 +91,6 @@
     "name_no_size_short": "2 Pole Inline 2411",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[electronic_connector_wago_221_2_pole_inline_wago_221_2411](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411)<br>[conw221](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411)<br>[Electronic Connector Wago 221 2 Pole Inline Wago 221 2411](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411)<br><br>",
-    "markdown_short": "[electronic_connector_wago_221_2_pole_inline_wago_221_2411](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411)<br><br>"
+    "markdown_full": "[electronic_connector_wago_221_2_pole_inline_wago_221_2411](none)<br>[conw221](none)<br>[Electronic Connector Wago 221 2 Pole Inline Wago 221 2411](none)<br><br>",
+    "markdown_short": "[electronic_connector_wago_221_2_pole_inline_wago_221_2411](none)<br><br>"
 }

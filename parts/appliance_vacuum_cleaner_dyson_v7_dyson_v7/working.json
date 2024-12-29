@@ -45,8 +45,9 @@
     "id_no_type": "dyson_v7_dyson_v7",
     "id_no_size": "dyson_v7",
     "oomp_key": "oomp_appliance_vacuum_cleaner_dyson_v7_dyson_v7",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v7_dyson_v7",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v7_dyson_v7",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v7_dyson_v7",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v7_dyson_v7",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v7_dyson_v7",
     "directory": "parts/appliance_vacuum_cleaner_dyson_v7_dyson_v7",
     "name": "Appliance Vacuum Cleaner Dyson V7 Dyson V7",
     "name_no_class": "Vacuum Cleaner Dyson V7 Dyson V7",
@@ -84,6 +85,6 @@
     "name_no_size_short": "Dyson V7",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[appliance_vacuum_cleaner_dyson_v7_dyson_v7](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v7_dyson_v7)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v7_dyson_v7)<br>[Appliance Vacuum Cleaner Dyson V7 Dyson V7](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v7_dyson_v7)<br><br>",
-    "markdown_short": "[appliance_vacuum_cleaner_dyson_v7_dyson_v7](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v7_dyson_v7)<br><br>"
+    "markdown_full": "[appliance_vacuum_cleaner_dyson_v7_dyson_v7](none)<br>[](none)<br>[Appliance Vacuum Cleaner Dyson V7 Dyson V7](none)<br><br>",
+    "markdown_short": "[appliance_vacuum_cleaner_dyson_v7_dyson_v7](none)<br><br>"
 }

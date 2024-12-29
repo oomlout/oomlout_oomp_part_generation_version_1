@@ -27,21 +27,22 @@ directory: parts/category_printer_inkjet_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_tote
 id: category_printer_inkjet_tote
 id_no_class: printer_inkjet_tote
 id_no_size: tote
 id_no_type: inkjet_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_printer_inkjet_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_tote)<br>[Category
-    Printer Inkjet Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_tote)<br><br>'
-markdown_short: '[category_printer_inkjet_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_inkjet_tote)<br><br>'
+markdown_full: '[category_printer_inkjet_tote](none)<br>[](none)<br>[Category Printer
+    Inkjet Tote](none)<br><br>'
+markdown_short: '[category_printer_inkjet_tote](none)<br><br>'
 md5: ed9463aeba70a5658a87db5bd1bc8a75
 md5_10: ed9463aeba
 md5_10_upper: ED9463AEBA

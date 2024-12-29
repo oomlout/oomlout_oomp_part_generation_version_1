@@ -50,8 +50,9 @@
     "id_no_type": "capacitor",
     "id_no_size": "capacitor",
     "oomp_key": "oomp_category_electronic_capacitor",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor",
     "directory": "parts/category_electronic_capacitor",
     "name": "Category Electronic Capacitor",
     "name_no_class": "Electronic Capacitor",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Capacitor",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_capacitor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor)<br>[Category Electronic Capacitor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor)<br><br>",
-    "markdown_short": "[category_electronic_capacitor](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor)<br><br>"
+    "markdown_full": "[category_electronic_capacitor](none)<br>[](none)<br>[Category Electronic Capacitor](none)<br><br>",
+    "markdown_short": "[category_electronic_capacitor](none)<br><br>"
 }

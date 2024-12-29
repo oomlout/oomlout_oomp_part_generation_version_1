@@ -27,21 +27,22 @@ directory: parts/category_hardware_set_screw
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw
 id: category_hardware_set_screw
 id_no_class: hardware_set_screw
 id_no_size: set_screw
 id_no_type: set_screw
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_set_screw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw)<br>[Category
-    Hardware Set Screw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw)<br><br>'
-markdown_short: '[category_hardware_set_screw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_set_screw)<br><br>'
+markdown_full: '[category_hardware_set_screw](none)<br>[](none)<br>[Category Hardware
+    Set Screw](none)<br><br>'
+markdown_short: '[category_hardware_set_screw](none)<br><br>'
 md5: b4ac9d2f0c1930eafcb75bb2ef5b6a80
 md5_10: b4ac9d2f0c
 md5_10_upper: B4AC9D2F0C

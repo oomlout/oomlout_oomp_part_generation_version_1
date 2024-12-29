@@ -27,21 +27,22 @@ directory: parts/category_electronic_breakout_board_mcu_pico_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico_tote
 id: category_electronic_breakout_board_mcu_pico_tote
 id_no_class: electronic_breakout_board_mcu_pico_tote
 id_no_size: pico_tote
 id_no_type: breakout_board_mcu_pico_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_breakout_board_mcu_pico_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico_tote)<br>[Category
-    Electronic Breakout Board Mcu Pico Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico_tote)<br><br>'
-markdown_short: '[category_electronic_breakout_board_mcu_pico_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico_tote)<br><br>'
+markdown_full: '[category_electronic_breakout_board_mcu_pico_tote](none)<br>[](none)<br>[Category
+    Electronic Breakout Board Mcu Pico Tote](none)<br><br>'
+markdown_short: '[category_electronic_breakout_board_mcu_pico_tote](none)<br><br>'
 md5: 2ba7ddf21e97d68a025c4a337542bf0b
 md5_10: 2ba7ddf21e
 md5_10_upper: 2BA7DDF21E

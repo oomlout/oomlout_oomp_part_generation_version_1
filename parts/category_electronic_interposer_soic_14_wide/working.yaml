@@ -27,21 +27,22 @@ directory: parts/category_electronic_interposer_soic_14_wide
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer_soic_14_wide
 id: category_electronic_interposer_soic_14_wide
 id_no_class: electronic_interposer_soic_14_wide
 id_no_size: soic_14_wide
 id_no_type: interposer_soic_14_wide
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer_soic_14_wide
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_interposer_soic_14_wide
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_interposer_soic_14_wide
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_interposer_soic_14_wide
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_interposer_soic_14_wide](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer_soic_14_wide)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer_soic_14_wide)<br>[Category
-    Electronic Interposer Soic 14 Wide](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer_soic_14_wide)<br><br>'
-markdown_short: '[category_electronic_interposer_soic_14_wide](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_interposer_soic_14_wide)<br><br>'
+markdown_full: '[category_electronic_interposer_soic_14_wide](none)<br>[](none)<br>[Category
+    Electronic Interposer Soic 14 Wide](none)<br><br>'
+markdown_short: '[category_electronic_interposer_soic_14_wide](none)<br><br>'
 md5: e9b099c209fc02e26483562a6b6b99b2
 md5_10: e9b099c209
 md5_10_upper: E9B099C209

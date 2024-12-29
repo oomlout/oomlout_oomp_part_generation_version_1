@@ -27,21 +27,22 @@ directory: parts/category_food_seasoning_salt_and_pepper
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_salt_and_pepper
 id: category_food_seasoning_salt_and_pepper
 id_no_class: food_seasoning_salt_and_pepper
 id_no_size: salt_and_pepper
 id_no_type: seasoning_salt_and_pepper
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_salt_and_pepper
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_salt_and_pepper
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_salt_and_pepper
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_salt_and_pepper
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_food_seasoning_salt_and_pepper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_salt_and_pepper)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_salt_and_pepper)<br>[Category
-    Food Seasoning Salt And Pepper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_salt_and_pepper)<br><br>'
-markdown_short: '[category_food_seasoning_salt_and_pepper](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_seasoning_salt_and_pepper)<br><br>'
+markdown_full: '[category_food_seasoning_salt_and_pepper](none)<br>[](none)<br>[Category
+    Food Seasoning Salt And Pepper](none)<br><br>'
+markdown_short: '[category_food_seasoning_salt_and_pepper](none)<br><br>'
 md5: 4983a1cbce18f4c8730339f23f331933
 md5_10: 4983a1cbce
 md5_10_upper: 4983A1CBCE

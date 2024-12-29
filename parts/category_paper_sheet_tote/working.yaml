@@ -27,21 +27,22 @@ directory: parts/category_paper_sheet_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_tote
 id: category_paper_sheet_tote
 id_no_class: paper_sheet_tote
 id_no_size: tote
 id_no_type: sheet_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_paper_sheet_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_tote)<br>[Category
-    Paper Sheet Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_tote)<br><br>'
-markdown_short: '[category_paper_sheet_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_paper_sheet_tote)<br><br>'
+markdown_full: '[category_paper_sheet_tote](none)<br>[](none)<br>[Category Paper Sheet
+    Tote](none)<br><br>'
+markdown_short: '[category_paper_sheet_tote](none)<br><br>'
 md5: ef0b5660c519da30b977cda92f31c0d7
 md5_10: ef0b5660c5
 md5_10_upper: EF0B5660C5

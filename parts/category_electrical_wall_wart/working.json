@@ -50,8 +50,9 @@
     "id_no_type": "wall_wart",
     "id_no_size": "wall_wart",
     "oomp_key": "oomp_category_electrical_wall_wart",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_wall_wart",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_wall_wart",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_wall_wart",
     "directory": "parts/category_electrical_wall_wart",
     "name": "Category Electrical Wall Wart",
     "name_no_class": "Electrical Wall Wart",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Wall Wart",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electrical_wall_wart](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart)<br>[Category Electrical Wall Wart](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart)<br><br>",
-    "markdown_short": "[category_electrical_wall_wart](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electrical_wall_wart)<br><br>"
+    "markdown_full": "[category_electrical_wall_wart](none)<br>[](none)<br>[Category Electrical Wall Wart](none)<br><br>",
+    "markdown_short": "[category_electrical_wall_wart](none)<br><br>"
 }

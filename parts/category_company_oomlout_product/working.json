@@ -50,8 +50,9 @@
     "id_no_type": "product",
     "id_no_size": "product",
     "oomp_key": "oomp_category_company_oomlout_product",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product",
     "directory": "parts/category_company_oomlout_product",
     "name": "Category Company Oomlout Product",
     "name_no_class": "Company Oomlout Product",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Product",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_company_oomlout_product](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product)<br>[Category Company Oomlout Product](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product)<br><br>",
-    "markdown_short": "[category_company_oomlout_product](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_company_oomlout_product)<br><br>"
+    "markdown_full": "[category_company_oomlout_product](none)<br>[](none)<br>[Category Company Oomlout Product](none)<br><br>",
+    "markdown_short": "[category_company_oomlout_product](none)<br><br>"
 }

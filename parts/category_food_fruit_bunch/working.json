@@ -50,8 +50,9 @@
     "id_no_type": "fruit_bunch",
     "id_no_size": "bunch",
     "oomp_key": "oomp_category_food_fruit_bunch",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit_bunch",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit_bunch",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_fruit_bunch",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_fruit_bunch",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_fruit_bunch",
     "directory": "parts/category_food_fruit_bunch",
     "name": "Category Food Fruit Bunch",
     "name_no_class": "Food Fruit Bunch",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Bunch",
     "description_or_color": "B ",
     "description_or_color_upper": "B ",
-    "markdown_full": "[category_food_fruit_bunch](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit_bunch)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit_bunch)<br>[Category Food Fruit Bunch](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit_bunch)<br><br>",
-    "markdown_short": "[category_food_fruit_bunch](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_food_fruit_bunch)<br><br>"
+    "markdown_full": "[category_food_fruit_bunch](none)<br>[](none)<br>[Category Food Fruit Bunch](none)<br><br>",
+    "markdown_short": "[category_food_fruit_bunch](none)<br><br>"
 }

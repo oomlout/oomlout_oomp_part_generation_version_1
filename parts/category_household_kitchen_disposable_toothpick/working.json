@@ -50,8 +50,9 @@
     "id_no_type": "disposable_toothpick",
     "id_no_size": "toothpick",
     "oomp_key": "oomp_category_household_kitchen_disposable_toothpick",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable_toothpick",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable_toothpick",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen_disposable_toothpick",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen_disposable_toothpick",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen_disposable_toothpick",
     "directory": "parts/category_household_kitchen_disposable_toothpick",
     "name": "Category Household Kitchen Disposable Toothpick",
     "name_no_class": "Household Kitchen Disposable Toothpick",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Toothpick",
     "description_or_color": "T ",
     "description_or_color_upper": "T ",
-    "markdown_full": "[category_household_kitchen_disposable_toothpick](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable_toothpick)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable_toothpick)<br>[Category Household Kitchen Disposable Toothpick](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable_toothpick)<br><br>",
-    "markdown_short": "[category_household_kitchen_disposable_toothpick](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_household_kitchen_disposable_toothpick)<br><br>"
+    "markdown_full": "[category_household_kitchen_disposable_toothpick](none)<br>[](none)<br>[Category Household Kitchen Disposable Toothpick](none)<br><br>",
+    "markdown_short": "[category_household_kitchen_disposable_toothpick](none)<br><br>"
 }

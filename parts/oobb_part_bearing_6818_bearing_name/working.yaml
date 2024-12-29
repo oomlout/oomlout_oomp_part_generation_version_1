@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 6818_bearing_name
+description_extra_capital: 6818 Bearing Name
+description_extra_first_letter: '6'
+description_extra_first_letter_upper: '6'
+description_extra_upper: 6818_BEARING_NAME
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_bearing_6818_bearing_name
+distributors: []
+id: oobb_part_bearing_6818_bearing_name
+id_no_class: part_bearing_6818_bearing_name
+id_no_size: 6818_name
+id_no_type: bearing_6818_bearing_name
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6818_bearing_name
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6818_bearing_name
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6818_bearing_name
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bearing_6818_bearing_name](none)<br>[](none)<br>[Oobb Part
+    Bearing 6818 Bearing Name](none)<br><br>'
+markdown_short: '[oobb_part_bearing_6818_bearing_name](none)<br><br>'
+md5: 87b5e4afd55d7aa5fb5142568f8ab2c9
+md5_10: 87b5e4afd5
+md5_10_upper: 87B5E4AFD5
+md5_5: 87b5e
+md5_5_upper: 87B5E
+md5_6: 87b5e4
+md5_6_alpha: 5amlg
+md5_6_alpha_upper: 5AMLG
+md5_6_upper: 87B5E4
+name: Oobb Part Bearing 6818 Bearing Name
+name_no_class: Part Bearing 6818 Bearing Name
+name_no_size: 6818 Name
+name_no_size_short: 6818 Name
+name_no_type: Bearing 6818 Bearing Name
+oomp_key: oomp_oobb_part_bearing_6818_bearing_name
+oomp_word: toilet tea anchor
+oomp_word_emoji: ':toilet: :tea: :anchor:'
+oomp_word_emoji_list:
+- ':toilet:'
+- ':tea:'
+- ':anchor:'
+oomp_word_list:
+- toilet
+- tea
+- anchor
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bearing
+size_capital: Bearing
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

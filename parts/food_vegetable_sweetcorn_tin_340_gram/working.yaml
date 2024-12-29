@@ -27,22 +27,23 @@ directory: parts/food_vegetable_sweetcorn_tin_340_gram
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_sweetcorn_tin_340_gram
 id: food_vegetable_sweetcorn_tin_340_gram
 id_no_class: vegetable_sweetcorn_tin_340_gram
 id_no_size: sweetcorntin340gram
 id_no_type: sweetcorn_tin_340_gram
 link_distributor_ocado: https://www.ocado.com/search?entry=518655011
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_sweetcorn_tin_340_gram
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_sweetcorn_tin_340_gram
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_sweetcorn_tin_340_gram
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_sweetcorn_tin_340_gram
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_vegetable_sweetcorn_tin_340_gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_sweetcorn_tin_340_gram)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_sweetcorn_tin_340_gram)<br>[Food
-    Vegetable Sweetcorn Tin 340 Gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_sweetcorn_tin_340_gram)<br><br>'
-markdown_short: '[food_vegetable_sweetcorn_tin_340_gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_sweetcorn_tin_340_gram)<br><br>'
+markdown_full: '[food_vegetable_sweetcorn_tin_340_gram](none)<br>[](none)<br>[Food
+    Vegetable Sweetcorn Tin 340 Gram](none)<br><br>'
+markdown_short: '[food_vegetable_sweetcorn_tin_340_gram](none)<br><br>'
 md5: 4f6d3aee3071643a8e37394c29bd0000
 md5_10: 4f6d3aee30
 md5_10_upper: 4F6D3AEE30

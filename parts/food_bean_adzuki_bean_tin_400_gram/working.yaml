@@ -26,21 +26,22 @@ directory: parts/food_bean_adzuki_bean_tin_400_gram
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_adzuki_bean_tin_400_gram
 id: food_bean_adzuki_bean_tin_400_gram
 id_no_class: bean_adzuki_bean_tin_400_gram
 id_no_size: adzukitin400gram
 id_no_type: adzuki_tin_400_gram
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_adzuki_bean_tin_400_gram
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_adzuki_bean_tin_400_gram
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_adzuki_bean_tin_400_gram
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_adzuki_bean_tin_400_gram
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[food_bean_adzuki_bean_tin_400_gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_adzuki_bean_tin_400_gram)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_adzuki_bean_tin_400_gram)<br>[Food
-    Bean Adzuki Bean Tin 400 Gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_adzuki_bean_tin_400_gram)<br><br>'
-markdown_short: '[food_bean_adzuki_bean_tin_400_gram](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_adzuki_bean_tin_400_gram)<br><br>'
+markdown_full: '[food_bean_adzuki_bean_tin_400_gram](none)<br>[](none)<br>[Food Bean
+    Adzuki Bean Tin 400 Gram](none)<br><br>'
+markdown_short: '[food_bean_adzuki_bean_tin_400_gram](none)<br><br>'
 md5: 8e4bf051b7e321e7661e928122983ebd
 md5_10: 8e4bf051b7
 md5_10_upper: 8E4BF051B7

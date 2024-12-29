@@ -27,21 +27,22 @@ directory: parts/category_electronic_header_2_54_mm_triple_row
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm_triple_row
 id: category_electronic_header_2_54_mm_triple_row
 id_no_class: electronic_header_2_54_mm_triple_row
 id_no_size: 2_54_mm_triple_row
 id_no_type: header_2_54_mm_triple_row
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm_triple_row
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm_triple_row
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm_triple_row
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm_triple_row
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_header_2_54_mm_triple_row](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm_triple_row)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm_triple_row)<br>[Category
-    Electronic Header 2 54 Mm Triple Row](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm_triple_row)<br><br>'
-markdown_short: '[category_electronic_header_2_54_mm_triple_row](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_header_2_54_mm_triple_row)<br><br>'
+markdown_full: '[category_electronic_header_2_54_mm_triple_row](none)<br>[](none)<br>[Category
+    Electronic Header 2 54 Mm Triple Row](none)<br><br>'
+markdown_short: '[category_electronic_header_2_54_mm_triple_row](none)<br><br>'
 md5: 6725af1af062c210796d746e57c27157
 md5_10: 6725af1af0
 md5_10_upper: 6725AF1AF0

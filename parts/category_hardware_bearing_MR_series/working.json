@@ -50,8 +50,9 @@
     "id_no_type": "bearing_MR_series",
     "id_no_size": "MR_series",
     "oomp_key": "oomp_category_hardware_bearing_MR_series",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_MR_series",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_MR_series",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_MR_series",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_MR_series",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_MR_series",
     "directory": "parts/category_hardware_bearing_MR_series",
     "name": "Category Hardware Bearing Mr Series",
     "name_no_class": "Hardware Bearing Mr Series",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Mr Series",
     "description_or_color": "M ",
     "description_or_color_upper": "M ",
-    "markdown_full": "[category_hardware_bearing_MR_series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_MR_series)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_MR_series)<br>[Category Hardware Bearing Mr Series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_MR_series)<br><br>",
-    "markdown_short": "[category_hardware_bearing_MR_series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_MR_series)<br><br>"
+    "markdown_full": "[category_hardware_bearing_MR_series](none)<br>[](none)<br>[Category Hardware Bearing Mr Series](none)<br><br>",
+    "markdown_short": "[category_hardware_bearing_MR_series](none)<br><br>"
 }

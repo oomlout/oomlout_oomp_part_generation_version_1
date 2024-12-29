@@ -26,13 +26,14 @@ directory: parts/electronic_resistor_0201_15000_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15000_ohm
 id: electronic_resistor_0201_15000_ohm
 id_no_class: resistor_0201_15000_ohm
 id_no_size: 15000_ohm
 id_no_type: 0201_15000_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15000_ohm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_15000_ohm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_15000_ohm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_15000_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -47,11 +48,11 @@ manufacturers:
             and they are the same price
         reason_short: not in jlc basic parts
     part_number: NQ01WMJ0153TEE
-markdown_full: '[electronic_resistor_0201_15000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15000_ohm)<br>[ro153](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15000_ohm)<br>[Electronic
-    Resistor 0201 15000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15000_ohm)<br><br>[Uniroyal
-    - NQ01WMJ0153TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0153TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0153TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0153TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0153TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0153TEE)<br>'
-markdown_short: '[electronic_resistor_0201_15000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_15000_ohm)<br><br>[Uniroyal
-    - NQ01WMJ0153TEE- not in jlc basic parts]()'
+markdown_full: '[electronic_resistor_0201_15000_ohm](none)<br>[ro153](none)<br>[Electronic
+    Resistor 0201 15000 Ohm](none)<br><br>[Uniroyal - NQ01WMJ0153TEE- not in jlc basic
+    parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0153TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0153TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0153TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0153TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0153TEE)<br>'
+markdown_short: '[electronic_resistor_0201_15000_ohm](none)<br><br>[Uniroyal - NQ01WMJ0153TEE-
+    not in jlc basic parts]()'
 md5: 4c89d72580b174e92d1ecefe6517c95f
 md5_10: 4c89d72580
 md5_10_upper: 4C89D72580

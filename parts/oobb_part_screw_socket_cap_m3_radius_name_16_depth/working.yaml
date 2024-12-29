@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: m3_radius_name_16_depth
+description_extra_capital: M3 Radius Name 16 Depth
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: M3_RADIUS_NAME_16_DEPTH
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_screw_socket_cap_m3_radius_name_16_depth
+distributors: []
+id: oobb_part_screw_socket_cap_m3_radius_name_16_depth
+id_no_class: part_screw_socket_cap_m3_radius_name_16_depth
+id_no_size: m3_radius_name_16_depth
+id_no_type: screw_socket_cap_m3_radius_name_16_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_screw_socket_cap_m3_radius_name_16_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_screw_socket_cap_m3_radius_name_16_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_screw_socket_cap_m3_radius_name_16_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_screw_socket_cap_m3_radius_name_16_depth](none)<br>[](none)<br>[Oobb
+    Part Screw Socket Cap M3 Radius Name 16 Depth](none)<br><br>'
+markdown_short: '[oobb_part_screw_socket_cap_m3_radius_name_16_depth](none)<br><br>'
+md5: e4fffe1c262a4b7e1e6047de58c56673
+md5_10: e4fffe1c26
+md5_10_upper: E4FFFE1C26
+md5_5: e4fff
+md5_5_upper: E4FFF
+md5_6: e4fffe
+md5_6_alpha: 8xo1q
+md5_6_alpha_upper: 8XO1Q
+md5_6_upper: E4FFFE
+name: Oobb Part Screw Socket Cap M3 Radius Name 16 Depth
+name_no_class: Part Screw Socket Cap M3 Radius Name 16 Depth
+name_no_size: M3 Radius Name 16 Depth
+name_no_size_short: M3 Radius Name 16 Depth
+name_no_type: Screw Socket Cap M3 Radius Name 16 Depth
+oomp_key: oomp_oobb_part_screw_socket_cap_m3_radius_name_16_depth
+oomp_word: anchor trident recycle
+oomp_word_emoji: ':anchor: :trident: :recycle:'
+oomp_word_emoji_list:
+- ':anchor:'
+- ':trident:'
+- ':recycle:'
+oomp_word_list:
+- anchor
+- trident
+- recycle
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: screw_socket_cap
+size_capital: Screw Socket Cap
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_SOCKET_CAP
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

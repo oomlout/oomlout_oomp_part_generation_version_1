@@ -27,21 +27,22 @@ directory: parts/category_computer_webcam
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam
 id: category_computer_webcam
 id_no_class: computer_webcam
 id_no_size: webcam
 id_no_type: webcam
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_webcam
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_webcam
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_webcam
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_computer_webcam](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam)<br>[Category
-    Computer Webcam](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam)<br><br>'
-markdown_short: '[category_computer_webcam](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_webcam)<br><br>'
+markdown_full: '[category_computer_webcam](none)<br>[](none)<br>[Category Computer
+    Webcam](none)<br><br>'
+markdown_short: '[category_computer_webcam](none)<br><br>'
 md5: 5cb56e860f6845205baa1a73405e0f23
 md5_10: 5cb56e860f
 md5_10_upper: 5CB56E860F

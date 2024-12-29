@@ -47,8 +47,9 @@
     "id_no_type": "banana_style_4_mm_green_banana_plug_plastic_basic",
     "id_no_size": "green_banana_plug_plastic_basic",
     "oomp_key": "oomp_electronic_connector_banana_style_4_mm_green_banana_plug_plastic_basic",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_green_banana_plug_plastic_basic",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_green_banana_plug_plastic_basic",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_green_banana_plug_plastic_basic",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_green_banana_plug_plastic_basic",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_green_banana_plug_plastic_basic",
     "directory": "parts/electronic_connector_banana_style_4_mm_green_banana_plug_plastic_basic",
     "name": "Electronic Connector Banana Style 4 Mm Green Banana Plug Plastic Basic",
     "name_no_class": "Connector Banana Style 4 Mm Green Banana Plug Plastic Basic",
@@ -86,6 +87,6 @@
     "name_no_size_short": "Green Banana Plug Plastic Basic",
     "description_or_color": "G ",
     "description_or_color_upper": "G ",
-    "markdown_full": "[electronic_connector_banana_style_4_mm_green_banana_plug_plastic_basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_green_banana_plug_plastic_basic)<br>[cong](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_green_banana_plug_plastic_basic)<br>[Electronic Connector Banana Style 4 Mm Green Banana Plug Plastic Basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_green_banana_plug_plastic_basic)<br><br>",
-    "markdown_short": "[electronic_connector_banana_style_4_mm_green_banana_plug_plastic_basic](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_banana_style_4_mm_green_banana_plug_plastic_basic)<br><br>"
+    "markdown_full": "[electronic_connector_banana_style_4_mm_green_banana_plug_plastic_basic](none)<br>[cong](none)<br>[Electronic Connector Banana Style 4 Mm Green Banana Plug Plastic Basic](none)<br><br>",
+    "markdown_short": "[electronic_connector_banana_style_4_mm_green_banana_plug_plastic_basic](none)<br><br>"
 }

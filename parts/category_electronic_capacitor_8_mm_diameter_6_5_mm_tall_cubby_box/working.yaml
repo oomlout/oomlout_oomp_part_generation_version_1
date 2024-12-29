@@ -27,21 +27,22 @@ directory: parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_cubby_b
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_cubby_box
 id: category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_cubby_box
 id_no_class: electronic_capacitor_8_mm_diameter_6_5_mm_tall_cubby_box
 id_no_size: 8_mm_diameter_6_5_mm_tall_cubby_box
 id_no_type: capacitor_8_mm_diameter_6_5_mm_tall_cubby_box
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_cubby_box)<br>[Category
-    Electronic Capacitor 8 Mm Diameter 6 5 Mm Tall Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_cubby_box)<br><br>'
-markdown_short: '[category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_cubby_box)<br><br>'
+markdown_full: '[category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_cubby_box](none)<br>[](none)<br>[Category
+    Electronic Capacitor 8 Mm Diameter 6 5 Mm Tall Cubby Box](none)<br><br>'
+markdown_short: '[category_electronic_capacitor_8_mm_diameter_6_5_mm_tall_cubby_box](none)<br><br>'
 md5: 1264ff16ba15c80297a6a77f4c79fe9e
 md5_10: 1264ff16ba
 md5_10_upper: 1264FF16BA

@@ -26,22 +26,23 @@ directory: parts/electronic_resistor_0201_3300000_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_3300000_ohm
 id: electronic_resistor_0201_3300000_ohm
 id_no_class: resistor_0201_3300000_ohm
 id_no_size: 3300000_ohm
 id_no_type: 0201_3300000_ohm
 kicad_reference: R
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_3300000_ohm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_3300000_ohm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_3300000_ohm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_3300000_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[electronic_resistor_0201_3300000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_3300000_ohm)<br>[ro335](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_3300000_ohm)<br>[Electronic
-    Resistor 0201 3300000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_3300000_ohm)<br><br>'
-markdown_short: '[electronic_resistor_0201_3300000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_3300000_ohm)<br><br>'
+markdown_full: '[electronic_resistor_0201_3300000_ohm](none)<br>[ro335](none)<br>[Electronic
+    Resistor 0201 3300000 Ohm](none)<br><br>'
+markdown_short: '[electronic_resistor_0201_3300000_ohm](none)<br><br>'
 md5: 16b8f851baf2a21299ea2fbff90e2068
 md5_10: 16b8f851ba
 md5_10_upper: 16B8F851BA

@@ -50,8 +50,9 @@
     "id_no_type": "potentiometer_17_mm",
     "id_no_size": "17_mm",
     "oomp_key": "oomp_category_electronic_potentiometer_17_mm",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer_17_mm",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer_17_mm",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_potentiometer_17_mm",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_potentiometer_17_mm",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_potentiometer_17_mm",
     "directory": "parts/category_electronic_potentiometer_17_mm",
     "name": "Category Electronic Potentiometer 17 Mm",
     "name_no_class": "Electronic Potentiometer 17 Mm",
@@ -89,6 +90,6 @@
     "name_no_size_short": "17 Mm",
     "description_or_color": "1 ",
     "description_or_color_upper": "1 ",
-    "markdown_full": "[category_electronic_potentiometer_17_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer_17_mm)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer_17_mm)<br>[Category Electronic Potentiometer 17 Mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer_17_mm)<br><br>",
-    "markdown_short": "[category_electronic_potentiometer_17_mm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_potentiometer_17_mm)<br><br>"
+    "markdown_full": "[category_electronic_potentiometer_17_mm](none)<br>[](none)<br>[Category Electronic Potentiometer 17 Mm](none)<br><br>",
+    "markdown_short": "[category_electronic_potentiometer_17_mm](none)<br><br>"
 }

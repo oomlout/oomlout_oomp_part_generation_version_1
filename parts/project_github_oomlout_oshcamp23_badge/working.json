@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/oshcamp23-badge",
-    "link_github": "https://github.com/oomlout/oshcamp23-badge",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oshcamp23_badge",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oshcamp23_badge",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_oshcamp23_badge",
     "id_no_size": "oshcamp23_badge",
     "oomp_key": "oomp_project_github_oomlout_oshcamp23_badge",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oshcamp23_badge",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oshcamp23_badge",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oshcamp23_badge",
     "directory": "parts/project_github_oomlout_oshcamp23_badge",
     "name": "Project Github Oomlout Oshcamp23 Badge",
     "name_no_class": "Github Oomlout Oshcamp23 Badge",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Oshcamp23 Badge",
     "description_or_color": "O ",
     "description_or_color_upper": "O ",
-    "markdown_full": "[project_github_oomlout_oshcamp23_badge](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oshcamp23_badge)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oshcamp23_badge)<br>[Project Github Oomlout Oshcamp23 Badge](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oshcamp23_badge)<br><br>",
-    "markdown_short": "[project_github_oomlout_oshcamp23_badge](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oshcamp23_badge)<br><br>"
+    "markdown_full": "[project_github_oomlout_oshcamp23_badge](none)<br>[](none)<br>[Project Github Oomlout Oshcamp23 Badge](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_oshcamp23_badge](none)<br><br>"
 }

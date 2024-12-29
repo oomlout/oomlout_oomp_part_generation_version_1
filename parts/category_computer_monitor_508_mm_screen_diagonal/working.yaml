@@ -27,21 +27,22 @@ directory: parts/category_computer_monitor_508_mm_screen_diagonal
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal
 id: category_computer_monitor_508_mm_screen_diagonal
 id_no_class: computer_monitor_508_mm_screen_diagonal
 id_no_size: 508_mm_screen_diagonal
 id_no_type: monitor_508_mm_screen_diagonal
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_computer_monitor_508_mm_screen_diagonal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal)<br>[Category
-    Computer Monitor 508 Mm Screen Diagonal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal)<br><br>'
-markdown_short: '[category_computer_monitor_508_mm_screen_diagonal](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal)<br><br>'
+markdown_full: '[category_computer_monitor_508_mm_screen_diagonal](none)<br>[](none)<br>[Category
+    Computer Monitor 508 Mm Screen Diagonal](none)<br><br>'
+markdown_short: '[category_computer_monitor_508_mm_screen_diagonal](none)<br><br>'
 md5: 75fd1b0509f35b952740eb68f80f577b
 md5_10: 75fd1b0509
 md5_10_upper: 75FD1B0509

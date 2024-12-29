@@ -27,21 +27,22 @@ directory: parts/category_hardware_bearing_16000_series
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_16000_series
 id: category_hardware_bearing_16000_series
 id_no_class: hardware_bearing_16000_series
 id_no_size: 16000_series
 id_no_type: bearing_16000_series
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_16000_series
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_16000_series
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_16000_series
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_16000_series
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_hardware_bearing_16000_series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_16000_series)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_16000_series)<br>[Category
-    Hardware Bearing 16000 Series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_16000_series)<br><br>'
-markdown_short: '[category_hardware_bearing_16000_series](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_hardware_bearing_16000_series)<br><br>'
+markdown_full: '[category_hardware_bearing_16000_series](none)<br>[](none)<br>[Category
+    Hardware Bearing 16000 Series](none)<br><br>'
+markdown_short: '[category_hardware_bearing_16000_series](none)<br><br>'
 md5: f3355408bf67c87f61901fa543f0db15
 md5_10: f3355408bf
 md5_10_upper: F3355408BF

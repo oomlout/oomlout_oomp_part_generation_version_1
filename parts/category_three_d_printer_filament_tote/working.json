@@ -50,8 +50,9 @@
     "id_no_type": "filament_tote",
     "id_no_size": "tote",
     "oomp_key": "oomp_category_three_d_printer_filament_tote",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_tote",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_tote",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_filament_tote",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_filament_tote",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_filament_tote",
     "directory": "parts/category_three_d_printer_filament_tote",
     "name": "Category Three D Printer Filament Tote",
     "name_no_class": "Three D Printer Filament Tote",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Tote",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_three_d_printer_filament_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_tote)<br>[Category Three D Printer Filament Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_tote)<br><br>",
-    "markdown_short": "[category_three_d_printer_filament_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_three_d_printer_filament_tote)<br><br>"
+    "markdown_full": "[category_three_d_printer_filament_tote](none)<br>[](none)<br>[Category Three D Printer Filament Tote](none)<br><br>",
+    "markdown_short": "[category_three_d_printer_filament_tote](none)<br><br>"
 }

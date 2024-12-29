@@ -27,21 +27,22 @@ directory: parts/category_appliance_vacuum_cleaner_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_tote
 id: category_appliance_vacuum_cleaner_tote
 id_no_class: appliance_vacuum_cleaner_tote
 id_no_size: tote
 id_no_type: vacuum_cleaner_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_appliance_vacuum_cleaner_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_tote)<br>[Category
-    Appliance Vacuum Cleaner Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_tote)<br><br>'
-markdown_short: '[category_appliance_vacuum_cleaner_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_appliance_vacuum_cleaner_tote)<br><br>'
+markdown_full: '[category_appliance_vacuum_cleaner_tote](none)<br>[](none)<br>[Category
+    Appliance Vacuum Cleaner Tote](none)<br><br>'
+markdown_short: '[category_appliance_vacuum_cleaner_tote](none)<br><br>'
 md5: 0aced75015ccd1fd5e4aba318af80bfd
 md5_10: 0aced75015
 md5_10_upper: 0ACED75015

@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: m3_radius_name_10_depth
+description_extra_capital: M3 Radius Name 10 Depth
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: M3_RADIUS_NAME_10_DEPTH
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_standoff_m3_radius_name_10_depth
+distributors: []
+id: oobb_part_standoff_m3_radius_name_10_depth
+id_no_class: part_standoff_m3_radius_name_10_depth
+id_no_size: m3_radius_name_10_depth
+id_no_type: standoff_m3_radius_name_10_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_standoff_m3_radius_name_10_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_standoff_m3_radius_name_10_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_standoff_m3_radius_name_10_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_standoff_m3_radius_name_10_depth](none)<br>[](none)<br>[Oobb
+    Part Standoff M3 Radius Name 10 Depth](none)<br><br>'
+markdown_short: '[oobb_part_standoff_m3_radius_name_10_depth](none)<br><br>'
+md5: 2e0193c965806241365e1d5ec0a86cec
+md5_10: 2e0193c965
+md5_10_upper: 2E0193C965
+md5_5: 2e019
+md5_5_upper: 2E019
+md5_6: 2e0193
+md5_6_alpha: 1smfn
+md5_6_alpha_upper: 1SMFN
+md5_6_upper: 2E0193
+name: Oobb Part Standoff M3 Radius Name 10 Depth
+name_no_class: Part Standoff M3 Radius Name 10 Depth
+name_no_size: M3 Radius Name 10 Depth
+name_no_size_short: M3 Radius Name 10 Depth
+name_no_type: Standoff M3 Radius Name 10 Depth
+oomp_key: oomp_oobb_part_standoff_m3_radius_name_10_depth
+oomp_word: zap smile books
+oomp_word_emoji: ':zap: :smile: :books:'
+oomp_word_emoji_list:
+- ':zap:'
+- ':smile:'
+- ':books:'
+oomp_word_list:
+- zap
+- smile
+- books
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: standoff
+size_capital: Standoff
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STANDOFF
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

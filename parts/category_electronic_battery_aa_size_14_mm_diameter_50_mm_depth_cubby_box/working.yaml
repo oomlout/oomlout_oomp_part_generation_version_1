@@ -27,21 +27,22 @@ directory: parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_cubby_box
 id: category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_cubby_box
 id_no_class: electronic_battery_aa_size_14_mm_diameter_50_mm_depth_cubby_box
 id_no_size: aa_size_14_mm_diameter_50_mm_depth_cubby_box
 id_no_type: battery_aa_size_14_mm_diameter_50_mm_depth_cubby_box
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_cubby_box)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_cubby_box)<br>[Category
-    Electronic Battery Aa Size 14 Mm Diameter 50 Mm Depth Cubby Box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_cubby_box)<br><br>'
-markdown_short: '[category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_cubby_box](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_cubby_box)<br><br>'
+markdown_full: '[category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_cubby_box](none)<br>[](none)<br>[Category
+    Electronic Battery Aa Size 14 Mm Diameter 50 Mm Depth Cubby Box](none)<br><br>'
+markdown_short: '[category_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_cubby_box](none)<br><br>'
 md5: b24c79dd6a0ae10518fca4dc7be7451a
 md5_10: b24c79dd6a
 md5_10_upper: B24C79DD6A

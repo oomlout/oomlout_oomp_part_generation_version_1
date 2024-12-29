@@ -49,8 +49,9 @@
     "id_no_type": "rice_dong_bei",
     "id_no_size": "dong_bei",
     "oomp_key": "oomp_food_starch_rice_dong_bei",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_dong_bei",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_dong_bei",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_dong_bei",
     "directory": "parts/food_starch_rice_dong_bei",
     "name": "Food Starch Rice Dong Bei",
     "name_no_class": "Starch Rice Dong Bei",
@@ -88,6 +89,6 @@
     "name_no_size_short": "Dong Bei",
     "description_or_color": "D ",
     "description_or_color_upper": "D ",
-    "markdown_full": "[food_starch_rice_dong_bei](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei)<br>[Food Starch Rice Dong Bei](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei)<br><br>",
-    "markdown_short": "[food_starch_rice_dong_bei](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_dong_bei)<br><br>"
+    "markdown_full": "[food_starch_rice_dong_bei](none)<br>[](none)<br>[Food Starch Rice Dong Bei](none)<br><br>",
+    "markdown_short": "[food_starch_rice_dong_bei](none)<br><br>"
 }

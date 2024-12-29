@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 13_width_4_height_24_mm_depth
+description_main_capital: 13 Width 4 Height 24 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 13_WIDTH_4_HEIGHT_24_MM_DEPTH
+description_only_numbers: '13424'
+description_only_numbers_short: 13k
+description_or_color: 13k
+description_or_color_upper: 13K
+directory: parts/oobb_part_tray_vertical_13_width_4_height_24_mm_depth
+distributors: []
+id: oobb_part_tray_vertical_13_width_4_height_24_mm_depth
+id_no_class: part_tray_vertical_13_width_4_height_24_mm_depth
+id_no_size: 13_width_4_height_24_mm_depth
+id_no_type: tray_vertical_13_width_4_height_24_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_13_width_4_height_24_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_13_width_4_height_24_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_13_width_4_height_24_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_vertical_13_width_4_height_24_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray Vertical 13 Width 4 Height 24 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_vertical_13_width_4_height_24_mm_depth](none)<br><br>'
+md5: 98658fe251868029ac014e3464c5a44f
+md5_10: 98658fe251
+md5_10_upper: 98658FE251
+md5_5: '98658'
+md5_5_upper: '98658'
+md5_6: 98658f
+md5_6_alpha: 5y2dr
+md5_6_alpha_upper: 5Y2DR
+md5_6_upper: 98658F
+name: Oobb Part Tray Vertical 13 Width 4 Height 24 Mm Depth
+name_no_class: Part Tray Vertical 13 Width 4 Height 24 Mm Depth
+name_no_size: 13 Width 4 Height 24 Mm Depth
+name_no_size_short: 13 Width 4 Height 24 Mm Depth
+name_no_type: Tray Vertical 13 Width 4 Height 24 Mm Depth
+oomp_key: oomp_oobb_part_tray_vertical_13_width_4_height_24_mm_depth
+oomp_word: tennis maple_leaf calendar
+oomp_word_emoji: ':tennis: :maple_leaf: :calendar:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':maple_leaf:'
+- ':calendar:'
+oomp_word_list:
+- tennis
+- maple_leaf
+- calendar
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_vertical
+size_capital: Tray Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

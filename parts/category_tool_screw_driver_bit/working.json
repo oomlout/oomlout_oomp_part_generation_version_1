@@ -50,8 +50,9 @@
     "id_no_type": "screw_driver_bit",
     "id_no_size": "screw_driver_bit",
     "oomp_key": "oomp_category_tool_screw_driver_bit",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_screw_driver_bit",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_screw_driver_bit",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_bit",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_bit",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_bit",
     "directory": "parts/category_tool_screw_driver_bit",
     "name": "Category Tool Screw Driver Bit",
     "name_no_class": "Tool Screw Driver Bit",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Screw Driver Bit",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_tool_screw_driver_bit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_screw_driver_bit)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_screw_driver_bit)<br>[Category Tool Screw Driver Bit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_screw_driver_bit)<br><br>",
-    "markdown_short": "[category_tool_screw_driver_bit](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_screw_driver_bit)<br><br>"
+    "markdown_full": "[category_tool_screw_driver_bit](none)<br>[](none)<br>[Category Tool Screw Driver Bit](none)<br><br>",
+    "markdown_short": "[category_tool_screw_driver_bit](none)<br><br>"
 }

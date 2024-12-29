@@ -24,21 +24,22 @@ description_or_color: M328
 description_or_color_upper: M328
 directory: parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
 id: electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
 id_no_class: ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
 id_no_size: mcu_atmega328_microchip_atmega328p_mn
 id_no_type: qfn_28_mcu_atmega328_microchip_atmega328p_mn
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn
 manufacturer: microchip
 manufacturer_capital: Microchip
 manufacturer_first_letter: m
 manufacturer_first_letter_upper: M
 manufacturer_upper: MICROCHIP
 manufacturers: []
-markdown_full: '[electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn)<br>[iq28mcuat328](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn)<br>[Electronic
-    Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn)<br><br>'
-markdown_short: '[electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn)<br><br>'
+markdown_full: '[electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](none)<br>[iq28mcuat328](none)<br>[Electronic
+    Ic Qfn 28 Mcu Atmega328 Microchip Atmega328P Mn](none)<br><br>'
+markdown_short: '[electronic_ic_qfn_28_mcu_atmega328_microchip_atmega328p_mn](none)<br><br>'
 md5: 4e3cebccf7cb76a5984fa97b7a893de9
 md5_10: 4e3cebccf7
 md5_10_upper: 4E3CEBCCF7

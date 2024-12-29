@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 27_width_1_height_12_mm_depth
+description_main_capital: 27 Width 1 Height 12 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 27_WIDTH_1_HEIGHT_12_MM_DEPTH
+description_only_numbers: '27112'
+description_only_numbers_short: 27k
+description_or_color: 27k
+description_or_color_upper: 27K
+directory: parts/oobb_part_plate_27_width_1_height_12_mm_depth
+distributors: []
+id: oobb_part_plate_27_width_1_height_12_mm_depth
+id_no_class: part_plate_27_width_1_height_12_mm_depth
+id_no_size: 27_width_1_height_12_mm_depth
+id_no_type: plate_27_width_1_height_12_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_27_width_1_height_12_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_27_width_1_height_12_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_27_width_1_height_12_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_27_width_1_height_12_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Plate 27 Width 1 Height 12 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_plate_27_width_1_height_12_mm_depth](none)<br><br>'
+md5: 11e5e8fb6ae7a2b59b2ce2c97ce74b0c
+md5_10: 11e5e8fb6a
+md5_10_upper: 11E5E8FB6A
+md5_5: 11e5e
+md5_5_upper: 11E5E
+md5_6: 11e5e8
+md5_6_alpha: p52g
+md5_6_alpha_upper: P52G
+md5_6_upper: 11E5E8
+name: Oobb Part Plate 27 Width 1 Height 12 Mm Depth
+name_no_class: Part Plate 27 Width 1 Height 12 Mm Depth
+name_no_size: 27 Width 1 Height 12 Mm Depth
+name_no_size_short: 27 Width 1 Height 12 Mm Depth
+name_no_type: Plate 27 Width 1 Height 12 Mm Depth
+oomp_key: oomp_oobb_part_plate_27_width_1_height_12_mm_depth
+oomp_word: dizzy rocket tram
+oomp_word_emoji: ':dizzy: :rocket: :tram:'
+oomp_word_emoji_list:
+- ':dizzy:'
+- ':rocket:'
+- ':tram:'
+oomp_word_list:
+- dizzy
+- rocket
+- tram
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

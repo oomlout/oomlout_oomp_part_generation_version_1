@@ -27,21 +27,22 @@ directory: parts/category_electronic_breakout_board_mcu_shennie
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie
 id: category_electronic_breakout_board_mcu_shennie
 id_no_class: electronic_breakout_board_mcu_shennie
 id_no_size: shennie
 id_no_type: breakout_board_mcu_shennie
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_breakout_board_mcu_shennie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie)<br>[Category
-    Electronic Breakout Board Mcu Shennie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie)<br><br>'
-markdown_short: '[category_electronic_breakout_board_mcu_shennie](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie)<br><br>'
+markdown_full: '[category_electronic_breakout_board_mcu_shennie](none)<br>[](none)<br>[Category
+    Electronic Breakout Board Mcu Shennie](none)<br><br>'
+markdown_short: '[category_electronic_breakout_board_mcu_shennie](none)<br><br>'
 md5: 037780afd025d7dd8d393b123d10de9b
 md5_10: 037780afd0
 md5_10_upper: 037780AFD0

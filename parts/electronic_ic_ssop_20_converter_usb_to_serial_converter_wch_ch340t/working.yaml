@@ -28,23 +28,23 @@ distributors:
     link: https://lcsc.com/product-detail/C8689.html
     name: LCSC
     part_number: C8689
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
 id: electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
 id_no_class: ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
 id_no_size: converter_usb_to_serial_converter_wch_ch340t
 id_no_type: ssop_20_converter_usb_to_serial_converter_wch_ch340t
 kicad_reference: U
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
 manufacturer: wch
 manufacturer_capital: Wch
 manufacturer_first_letter: w
 manufacturer_first_letter_upper: W
 manufacturer_upper: WCH
 manufacturers: []
-markdown_full: '[electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t)<br>[ich340t](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t)<br>[Electronic
-    Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t)<br>[LCSC
-    - C8689<br>](https://lcsc.com/product-detail/C8689.html)<br>'
-markdown_short: '[electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t)<br>[LCSC
+markdown_full: '[electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t](none)<br>[ich340t](none)<br>[Electronic
+    Ic Ssop 20 Converter Usb To Serial Converter Wch Ch340T](none)<br>[LCSC - C8689<br>](https://lcsc.com/product-detail/C8689.html)<br>'
+markdown_short: '[electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t](none)<br>[LCSC
     - C8689<br>](https://lcsc.com/product-detail/C8689.html)<br>'
 md5: e07223f3446f9e6a9ed62db546344b87
 md5_10: e07223f344

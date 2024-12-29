@@ -24,23 +24,24 @@ description_or_color: '20'
 description_or_color_upper: '20'
 directory: parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
 id: electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
 id_no_class: socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
 id_no_size: 20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
 id_no_type: 2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
 kicad_reference: CONN
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
 manufacturer: dangerous_prototypes
 manufacturer_capital: Dangerous Prototypes
 manufacturer_first_letter: d
 manufacturer_first_letter_upper: D
 manufacturer_upper: DANGEROUS_PROTOTYPES
 manufacturers: []
-markdown_full: '[electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b)<br>[sci120pth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b)<br>[Electronic
+markdown_full: '[electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b](none)<br>[sci120pth](none)<br>[Electronic
     Socket 2 54 Mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side
-    B](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b)<br><br>'
-markdown_short: '[electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b)<br><br>'
+    B](none)<br><br>'
+markdown_short: '[electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b](none)<br><br>'
 md5: 5d5f6cfa015c081e58911d780eedab26
 md5_10: 5d5f6cfa01
 md5_10_upper: 5D5F6CFA01

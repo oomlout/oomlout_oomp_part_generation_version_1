@@ -50,8 +50,9 @@
     "id_no_type": "wire_pigtail",
     "id_no_size": "wire_pigtail",
     "oomp_key": "oomp_category_electronic_wire_pigtail",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail",
     "directory": "parts/category_electronic_wire_pigtail",
     "name": "Category Electronic Wire Pigtail",
     "name_no_class": "Electronic Wire Pigtail",
@@ -89,6 +90,6 @@
     "name_no_size_short": "Wire Pigtail",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[category_electronic_wire_pigtail](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail)<br>[Category Electronic Wire Pigtail](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail)<br><br>",
-    "markdown_short": "[category_electronic_wire_pigtail](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_wire_pigtail)<br><br>"
+    "markdown_full": "[category_electronic_wire_pigtail](none)<br>[](none)<br>[Category Electronic Wire Pigtail](none)<br><br>",
+    "markdown_short": "[category_electronic_wire_pigtail](none)<br><br>"
 }

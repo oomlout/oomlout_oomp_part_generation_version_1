@@ -27,21 +27,22 @@ directory: parts/category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_tote
 id: category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_tote
 id_no_class: electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_tote
 id_no_size: 6_3_mm_diameter_7_7_mm_tall_tote
 id_no_type: capacitor_6_3_mm_diameter_7_7_mm_tall_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_tote)<br>[Category
-    Electronic Capacitor 6 3 Mm Diameter 7 7 Mm Tall Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_tote)<br><br>'
-markdown_short: '[category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_tote)<br><br>'
+markdown_full: '[category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_tote](none)<br>[](none)<br>[Category
+    Electronic Capacitor 6 3 Mm Diameter 7 7 Mm Tall Tote](none)<br><br>'
+markdown_short: '[category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_tote](none)<br><br>'
 md5: c0adb8fd2dfd596851492b9a5d475da7
 md5_10: c0adb8fd2d
 md5_10_upper: C0ADB8FD2D

@@ -26,22 +26,23 @@ directory: parts/hardware_bolt_m5_60_mm_length
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m5_60_mm_length
 id: hardware_bolt_m5_60_mm_length
 id_no_class: bolt_m5_60_mm_length
 id_no_size: 60_mm_length
 id_no_type: m5_60_mm_length
 kicad_reference: ''
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m5_60_mm_length
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bolt_m5_60_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bolt_m5_60_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bolt_m5_60_mm_length
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_bolt_m5_60_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m5_60_mm_length)<br>[b560](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m5_60_mm_length)<br>[Hardware
-    Bolt M5 60 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m5_60_mm_length)<br><br>'
-markdown_short: '[hardware_bolt_m5_60_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m5_60_mm_length)<br><br>'
+markdown_full: '[hardware_bolt_m5_60_mm_length](none)<br>[b560](none)<br>[Hardware
+    Bolt M5 60 Mm Length](none)<br><br>'
+markdown_short: '[hardware_bolt_m5_60_mm_length](none)<br><br>'
 md5: 69813828c187e607ef2a2867d5f7c6db
 md5_10: 69813828c1
 md5_10_upper: 69813828C1

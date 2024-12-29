@@ -48,8 +48,9 @@
     "id_no_type": "m6_bright_zinc_plated_120_mm_length_pozidrive_head",
     "id_no_size": "bright_zinc_plated_120_mm_length_pozidrive_head",
     "oomp_key": "oomp_hardware_screw_countersunk_m6_bright_zinc_plated_120_mm_length_pozidrive_head",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m6_bright_zinc_plated_120_mm_length_pozidrive_head",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m6_bright_zinc_plated_120_mm_length_pozidrive_head",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_countersunk_m6_bright_zinc_plated_120_mm_length_pozidrive_head",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_countersunk_m6_bright_zinc_plated_120_mm_length_pozidrive_head",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_countersunk_m6_bright_zinc_plated_120_mm_length_pozidrive_head",
     "directory": "parts/hardware_screw_countersunk_m6_bright_zinc_plated_120_mm_length_pozidrive_head",
     "name": "Hardware Screw Countersunk M6 Bright Zinc Plated 120 Mm Length Pozidrive Head",
     "name_no_class": "Screw Countersunk M6 Bright Zinc Plated 120 Mm Length Pozidrive Head",
@@ -87,6 +88,6 @@
     "name_no_size_short": "Bright Zinc Plated 120 Mm Length Pozidrive Head",
     "description_or_color": "B120",
     "description_or_color_upper": "B120",
-    "markdown_full": "[hardware_screw_countersunk_m6_bright_zinc_plated_120_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m6_bright_zinc_plated_120_mm_length_pozidrive_head)<br>[cs6pz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m6_bright_zinc_plated_120_mm_length_pozidrive_head)<br>[Hardware Screw Countersunk M6 Bright Zinc Plated 120 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m6_bright_zinc_plated_120_mm_length_pozidrive_head)<br><br>",
-    "markdown_short": "[hardware_screw_countersunk_m6_bright_zinc_plated_120_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m6_bright_zinc_plated_120_mm_length_pozidrive_head)<br><br>"
+    "markdown_full": "[hardware_screw_countersunk_m6_bright_zinc_plated_120_mm_length_pozidrive_head](none)<br>[cs6pz](none)<br>[Hardware Screw Countersunk M6 Bright Zinc Plated 120 Mm Length Pozidrive Head](none)<br><br>",
+    "markdown_short": "[hardware_screw_countersunk_m6_bright_zinc_plated_120_mm_length_pozidrive_head](none)<br><br>"
 }

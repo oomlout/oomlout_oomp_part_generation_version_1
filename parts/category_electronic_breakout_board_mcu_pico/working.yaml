@@ -27,21 +27,22 @@ directory: parts/category_electronic_breakout_board_mcu_pico
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico
 id: category_electronic_breakout_board_mcu_pico
 id_no_class: electronic_breakout_board_mcu_pico
 id_no_size: pico
 id_no_type: breakout_board_mcu_pico
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_electronic_breakout_board_mcu_pico](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico)<br>[Category
-    Electronic Breakout Board Mcu Pico](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico)<br><br>'
-markdown_short: '[category_electronic_breakout_board_mcu_pico](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico)<br><br>'
+markdown_full: '[category_electronic_breakout_board_mcu_pico](none)<br>[](none)<br>[Category
+    Electronic Breakout Board Mcu Pico](none)<br><br>'
+markdown_short: '[category_electronic_breakout_board_mcu_pico](none)<br><br>'
 md5: 4f9954a34eb341d59dcd22a3ed2cb84c
 md5_10: 4f9954a34e
 md5_10_upper: 4F9954A34E

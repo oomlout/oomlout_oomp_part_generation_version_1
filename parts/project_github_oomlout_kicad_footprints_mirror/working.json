@@ -10,8 +10,8 @@
     "from_yaml": false,
     "make_files": true,
     "filter": "",
-    "link_redirect": "https://github.com/oomlout/kicad-footprints-mirror",
-    "link_github": "https://github.com/oomlout/kicad-footprints-mirror",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",
@@ -49,8 +49,7 @@
     "id_no_type": "oomlout_kicad_footprints_mirror",
     "id_no_size": "kicad_footprints_mirror",
     "oomp_key": "oomp_project_github_oomlout_kicad_footprints_mirror",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror",
     "directory": "parts/project_github_oomlout_kicad_footprints_mirror",
     "name": "Project Github Oomlout Kicad Footprints Mirror",
     "name_no_class": "Github Oomlout Kicad Footprints Mirror",
@@ -88,6 +87,6 @@
     "name_no_size_short": "Kicad Footprints Mirror",
     "description_or_color": "K ",
     "description_or_color_upper": "K ",
-    "markdown_full": "[project_github_oomlout_kicad_footprints_mirror](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror)<br>[Project Github Oomlout Kicad Footprints Mirror](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror)<br><br>",
-    "markdown_short": "[project_github_oomlout_kicad_footprints_mirror](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_kicad_footprints_mirror)<br><br>"
+    "markdown_full": "[project_github_oomlout_kicad_footprints_mirror](none)<br>[](none)<br>[Project Github Oomlout Kicad Footprints Mirror](none)<br><br>",
+    "markdown_short": "[project_github_oomlout_kicad_footprints_mirror](none)<br><br>"
 }

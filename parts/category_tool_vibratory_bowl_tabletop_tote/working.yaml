@@ -27,21 +27,22 @@ directory: parts/category_tool_vibratory_bowl_tabletop_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop_tote
 id: category_tool_vibratory_bowl_tabletop_tote
 id_no_class: tool_vibratory_bowl_tabletop_tote
 id_no_size: tabletop_tote
 id_no_type: vibratory_bowl_tabletop_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_tool_vibratory_bowl_tabletop_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop_tote)<br>[Category
-    Tool Vibratory Bowl Tabletop Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop_tote)<br><br>'
-markdown_short: '[category_tool_vibratory_bowl_tabletop_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop_tote)<br><br>'
+markdown_full: '[category_tool_vibratory_bowl_tabletop_tote](none)<br>[](none)<br>[Category
+    Tool Vibratory Bowl Tabletop Tote](none)<br><br>'
+markdown_short: '[category_tool_vibratory_bowl_tabletop_tote](none)<br><br>'
 md5: 76a7b4e372a22724d0ea960104db7ba2
 md5_10: 76a7b4e372
 md5_10_upper: 76A7B4E372

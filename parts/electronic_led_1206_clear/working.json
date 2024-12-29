@@ -48,8 +48,9 @@
     "id_no_type": "1206_clear",
     "id_no_size": "clear",
     "oomp_key": "oomp_electronic_led_1206_clear",
-    "github_link": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_clear",
-    "link_main": "https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_clear",
+    "link_github": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_clear",
+    "link_main": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_clear",
+    "link_redirect": "https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_clear",
     "directory": "parts/electronic_led_1206_clear",
     "name": "Electronic Led 1206 Clear",
     "name_no_class": "Led 1206 Clear",
@@ -92,6 +93,6 @@
     "name_no_size_short": "Clear",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[electronic_led_1206_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_clear)<br>[l12](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_clear)<br>[Electronic Led 1206 Clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_clear)<br><br>",
-    "markdown_short": "[electronic_led_1206_clear](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_clear)<br><br>"
+    "markdown_full": "[electronic_led_1206_clear](none)<br>[l12](none)<br>[Electronic Led 1206 Clear](none)<br><br>",
+    "markdown_short": "[electronic_led_1206_clear](none)<br><br>"
 }

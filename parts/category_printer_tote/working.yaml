@@ -27,21 +27,21 @@ directory: parts/category_printer_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_tote
 id: category_printer_tote
 id_no_class: printer_tote
 id_no_size: tote
 id_no_type: tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_printer_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_tote)<br>[Category
-    Printer Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_tote)<br><br>'
-markdown_short: '[category_printer_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_printer_tote)<br><br>'
+markdown_full: '[category_printer_tote](none)<br>[](none)<br>[Category Printer Tote](none)<br><br>'
+markdown_short: '[category_printer_tote](none)<br><br>'
 md5: 24b3a8834a4faf9fcef7639f630df41b
 md5_10: 24b3a8834a
 md5_10_upper: 24B3A8834A

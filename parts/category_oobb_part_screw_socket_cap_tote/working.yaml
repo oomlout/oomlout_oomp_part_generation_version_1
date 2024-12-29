@@ -27,21 +27,22 @@ directory: parts/category_oobb_part_screw_socket_cap_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap_tote
 id: category_oobb_part_screw_socket_cap_tote
 id_no_class: oobb_part_screw_socket_cap_tote
 id_no_size: screw_socket_cap_tote
 id_no_type: part_screw_socket_cap_tote
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_socket_cap_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_socket_cap_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_socket_cap_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_oobb_part_screw_socket_cap_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap_tote)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap_tote)<br>[Category
-    Oobb Part Screw Socket Cap Tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap_tote)<br><br>'
-markdown_short: '[category_oobb_part_screw_socket_cap_tote](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/category_oobb_part_screw_socket_cap_tote)<br><br>'
+markdown_full: '[category_oobb_part_screw_socket_cap_tote](none)<br>[](none)<br>[Category
+    Oobb Part Screw Socket Cap Tote](none)<br><br>'
+markdown_short: '[category_oobb_part_screw_socket_cap_tote](none)<br><br>'
 md5: d7b89a3aaae331899c9db7c685a207a5
 md5_10: d7b89a3aaa
 md5_10_upper: D7B89A3AAA
