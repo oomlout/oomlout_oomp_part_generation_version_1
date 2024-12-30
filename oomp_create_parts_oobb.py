@@ -84,6 +84,8 @@ def load_parts(**kwargs):
                     if string_extra != "":
                         string_extra += "_"
                     string_extra += f"{deet}_{test}"        
+                    string_extra.replace(".0_","_")
+                    string_extra.replace(".","d")
         description_extra = string_extra
 
         part_details = {}
