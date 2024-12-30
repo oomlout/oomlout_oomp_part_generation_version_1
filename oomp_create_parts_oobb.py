@@ -55,6 +55,12 @@ def load_parts(**kwargs):
         for attribute in attributes:
             test_value = part.get(attribute, "")
             if test_value != "":
+                #if it's a list
+                if isinstance(test_value, list):
+                    attribute_new = ""
+                    for value in test_value:
+                        attribute_new += f"{value}_"
+                    test_value = attribute_new[:-1]
                 if description_main != "":
                     description_main += "_"
                 attribute_name = attribute
@@ -68,6 +74,12 @@ def load_parts(**kwargs):
         for test in tests:
             if test in part:
                 deet = part.get(test, "")
+                #if it's a list
+                if isinstance(deet, list):
+                    attribute_new = ""
+                    for value in deet:
+                        attribute_new += f"{value}_"
+                    deet = attribute_new[:-1]
                 if deet != "":
                     if string_extra != "":
                         string_extra += "_"
