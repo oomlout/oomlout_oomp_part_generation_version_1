@@ -127,21 +127,7 @@ def load_parts(**kwargs):
         part_details["depth"] = "470 mm"
         parts.append(part_details)
 
-    # hejne
-    if True:    
-        part_details = {}
-        part_details["classification"] = "furniture"
-        part_details["type"] = "shelf"
-        part_details["size"] = "ikea_hejne"
-        part_details["color"] = ""
-        part_details["description_main"] = ""
-        part_details["description_extra"] = "780_mm_width_1710_mm_height_310_mm_depth"
-        part_details["manufacturer"] = "ikea"
-        part_details["part_number"] = "390_314_11"
-        part_details["width"] = "780 mm"
-        part_details["height"] = "1710 mm"
-        part_details["depth"] = "310 mm"
-        parts.append(part_details)
+    
 
     # gorm
     if True:    
@@ -159,6 +145,37 @@ def load_parts(**kwargs):
         part_details["depth"] = "350 mm"
         parts.append(part_details)
 
+    # hejne
+    if True:    
+        part_details = {}
+        part_details["classification"] = "furniture"
+        part_details["type"] = "shelf"
+        part_details["size"] = "ikea_hejne"
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = "780_mm_width_1710_mm_height_310_mm_depth"
+        part_details["manufacturer"] = "ikea"
+        part_details["part_number"] = "390_314_11"
+        part_details["width"] = "780 mm"
+        part_details["height"] = "1710 mm"
+        part_details["depth"] = "310 mm"
+        parts.append(part_details)
+
+    # hemnes
+    if True:    
+        part_details = {}
+        part_details["classification"] = "furniture"
+        part_details["type"] = "shoe_cabinet"
+        part_details["size"] = "ikea_hemnes"
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = "890_mm_width_1270_mm_height_300_mm_depth"
+        part_details["manufacturer"] = "ikea"
+        part_details["part_number"] = "201_695_59"
+        part_details["width"] = "890 mm"
+        part_details["height"] = "1270 mm"
+        part_details["depth"] = "300 mm"
+        parts.append(part_details)
 
     #   kallax
     if True:
