@@ -176,3 +176,5 @@ parts.yaml
 *.pickle
 parts.yaml
 /tmp
+/tmp
+tmp/parts.pickle
