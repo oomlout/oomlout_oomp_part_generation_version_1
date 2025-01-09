@@ -25,7 +25,7 @@ description_or_color: 'A '
 description_or_color_upper: 'A '
 directory: parts/food_starch_rice_arborio
 distributors: []
-filter: ''
+filter: food
 from_yaml: false
 id: food_starch_rice_arborio
 id_no_class: starch_rice_arborio

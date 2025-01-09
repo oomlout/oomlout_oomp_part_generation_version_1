@@ -25,7 +25,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_vegetable_lettuce_iceberg
 distributors: []
-filter: ''
+filter: food
 from_yaml: false
 id: food_vegetable_lettuce_iceberg
 id_no_class: vegetable_lettuce_iceberg

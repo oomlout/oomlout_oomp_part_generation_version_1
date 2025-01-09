@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "food",
     "description": "flour_white",
     "name_short": "Flour White",
     "classification_upper": "FOOD",

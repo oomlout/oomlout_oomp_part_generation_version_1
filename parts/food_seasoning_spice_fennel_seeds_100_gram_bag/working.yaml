@@ -25,7 +25,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_seasoning_spice_fennel_seeds_100_gram_bag
 distributors: []
-filter: ''
+filter: food
 from_yaml: false
 id: food_seasoning_spice_fennel_seeds_100_gram_bag
 id_no_class: seasoning_spice_fennel_seeds_100_gram_bag

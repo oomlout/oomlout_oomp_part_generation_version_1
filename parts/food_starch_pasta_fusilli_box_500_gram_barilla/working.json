@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "food",
     "description": "pasta_fusilli",
     "name_short": "Pasta Fusilli",
     "classification_upper": "FOOD",

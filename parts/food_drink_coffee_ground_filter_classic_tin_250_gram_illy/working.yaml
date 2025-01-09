@@ -24,7 +24,7 @@ description_or_color: 'G '
 description_or_color_upper: 'G '
 directory: parts/food_drink_coffee_ground_filter_classic_tin_250_gram_illy
 distributors: []
-filter: ''
+filter: food
 from_yaml: false
 id: food_drink_coffee_ground_filter_classic_tin_250_gram_illy
 id_no_class: drink_coffee_ground_filter_classic_tin_250_gram_illy

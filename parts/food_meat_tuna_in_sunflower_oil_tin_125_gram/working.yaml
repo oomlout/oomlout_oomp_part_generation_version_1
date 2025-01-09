@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_meat_tuna_in_sunflower_oil_tin_125_gram
 distributors: []
-filter: ''
+filter: food
 from_yaml: false
 id: food_meat_tuna_in_sunflower_oil_tin_125_gram
 id_no_class: meat_tuna_in_sunflower_oil_tin_125_gram

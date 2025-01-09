@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "food",
     "description": "pasta_penne",
     "name_short": "Pasta Penne",
     "classification_upper": "FOOD",

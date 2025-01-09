@@ -39,7 +39,26 @@ def load_parts(**kwargs):
         part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['distributor_aliexpress']}.html"
         parts.append(part_details)    
 
-   
+    #digger
+    if True:
+        part_details = {}
+        part_details["classification"] = "toy"
+        part_details["type"] = "remote_control"
+        part_details["size"] = "2_4_ghz_controller"
+        part_details["color"] = ""
+        part_details["description_main"] = "excavator_300_mm_width_105_mm_height_150_mm_depth"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "yi_gong_toys"
+        part_details["part_number"] = "bc1044"
+        part_details["part_number_exact"] = "BC1044"
+        part_details["short_name"] = ""  
+        part_details["distributor_aliexpress"] = "1005007659407993"
+        part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['distributor_aliexpress']}.html"
+        #amazon
+        part_details["distributor_amazon"] = "B0D3KQQX6G"
+        part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+        parts.append(part_details) 
+
     #mechano
     if True:
         part_details = {}

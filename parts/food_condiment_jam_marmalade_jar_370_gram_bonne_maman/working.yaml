@@ -24,7 +24,7 @@ description_or_color: 'J '
 description_or_color_upper: 'J '
 directory: parts/food_condiment_jam_marmalade_jar_370_gram_bonne_maman
 distributors: []
-filter: ''
+filter: food
 from_yaml: false
 id: food_condiment_jam_marmalade_jar_370_gram_bonne_maman
 id_no_class: condiment_jam_marmalade_jar_370_gram_bonne_maman

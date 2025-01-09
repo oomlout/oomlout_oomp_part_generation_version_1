@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "food",
     "part_number_distributor_ocado": "523896011",
     "link_distributor_ocado": "https://www.ocado.com/search?entry=523896011",
     "description": "M&S Select Farms British 12 Pork Chipolatas",

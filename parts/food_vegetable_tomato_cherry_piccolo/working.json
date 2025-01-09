@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "food",
     "part_number_distributor_ocado": "517984011",
     "link_distributor_ocado": "https://www.ocado.com/search?entry=517984011",
     "description": "M&S Piccolo Vine Tomatoes",

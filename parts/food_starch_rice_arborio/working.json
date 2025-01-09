@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "food",
     "description": "rice_arborio",
     "name_short": "Rice arborio",
     "classification_upper": "FOOD",

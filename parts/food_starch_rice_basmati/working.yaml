@@ -25,7 +25,7 @@ description_or_color: 'B '
 description_or_color_upper: 'B '
 directory: parts/food_starch_rice_basmati
 distributors: []
-filter: ''
+filter: food
 from_yaml: false
 id: food_starch_rice_basmati
 id_no_class: starch_rice_basmati

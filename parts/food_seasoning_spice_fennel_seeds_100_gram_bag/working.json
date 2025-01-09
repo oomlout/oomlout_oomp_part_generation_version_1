@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "food",
     "description": "fennel seeds",
     "name_short": "Fennel Seeds",
     "classification_upper": "FOOD",

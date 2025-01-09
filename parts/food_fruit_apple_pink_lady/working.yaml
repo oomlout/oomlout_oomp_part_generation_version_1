@@ -25,7 +25,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_fruit_apple_pink_lady
 distributors: []
-filter: ''
+filter: food
 from_yaml: false
 id: food_fruit_apple_pink_lady
 id_no_class: fruit_apple_pink_lady

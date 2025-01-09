@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_bean_lentil_red
 distributors: []
-filter: ''
+filter: food
 from_yaml: false
 id: food_bean_lentil_red
 id_no_class: bean_lentil_red

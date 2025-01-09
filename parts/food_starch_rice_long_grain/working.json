@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "food",
     "description": "rice_long_grain",
     "name_short": "Rice long_grain",
     "classification_upper": "FOOD",

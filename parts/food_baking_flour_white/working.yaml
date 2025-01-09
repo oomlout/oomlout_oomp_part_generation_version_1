@@ -25,7 +25,7 @@ description_or_color: 'W '
 description_or_color_upper: 'W '
 directory: parts/food_baking_flour_white
 distributors: []
-filter: ''
+filter: food
 from_yaml: false
 id: food_baking_flour_white
 id_no_class: baking_flour_white

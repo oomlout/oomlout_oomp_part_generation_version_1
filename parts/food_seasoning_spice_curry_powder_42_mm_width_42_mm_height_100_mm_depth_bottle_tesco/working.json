@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "food",
     "description": "curry powder",
     "name_short": "Curry Powder",
     "classification_upper": "FOOD",

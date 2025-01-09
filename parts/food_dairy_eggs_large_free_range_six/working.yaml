@@ -25,7 +25,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_dairy_eggs_large_free_range_six
 distributors: []
-filter: ''
+filter: food
 from_yaml: false
 id: food_dairy_eggs_large_free_range_six
 id_no_class: dairy_eggs_large_free_range_six

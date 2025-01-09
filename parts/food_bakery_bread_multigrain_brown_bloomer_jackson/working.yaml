@@ -25,7 +25,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_bakery_bread_multigrain_brown_bloomer_jackson
 distributors: []
-filter: ''
+filter: food
 from_yaml: false
 id: food_bakery_bread_multigrain_brown_bloomer_jackson
 id_no_class: bakery_bread_multigrain_brown_bloomer_jackson

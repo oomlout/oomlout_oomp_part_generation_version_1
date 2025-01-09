@@ -207,34 +207,56 @@ def load_parts(**kwargs):
         
         current_default = copy.deepcopy(part_details)
 
-        part_details = copy.deepcopy(current_default)
-        part_details["color"] = "jam"
-        part_details["description_main"] = "strawberry"
-        part_details["description_extra"] = "jar_370_gram"
-        part_details["manufacturer"] = "bonne_maman"
-        part_details["name_short"] = "Strawberry Jam"
-        parts.append(part_details)
+        #jam
+        if True:
+            part_details = copy.deepcopy(current_default)
+            part_details["color"] = "jam"
+            part_details["description_main"] = "strawberry"
+            part_details["description_extra"] = "jar_370_gram"
+            part_details["manufacturer"] = "bonne_maman"
+            part_details["name_short"] = "Strawberry Jam"
+            parts.append(part_details)
 
-        jam_default = copy.deepcopy(part_details)
-        jam_default["description_main"] = ""
+            jam_default = copy.deepcopy(part_details)
+            jam_default["description_main"] = ""
 
-        #apricot
-        part_details = copy.deepcopy(jam_default)
-        part_details["description_main"] = "apricot"
-        part_details["name_short"] = "Apricot Jam"
-        parts.append(part_details)
+            #apricot
+            part_details = copy.deepcopy(jam_default)
+            part_details["description_main"] = "apricot"
+            part_details["name_short"] = "Apricot Jam"
+            parts.append(part_details)
 
-        #marmalade
-        part_details = copy.deepcopy(jam_default)
-        part_details["description_main"] = "marmalade"
-        part_details["name_short"] = "Marmalade"
-        parts.append(part_details)
+            #marmalade
+            part_details = copy.deepcopy(jam_default)
+            part_details["description_main"] = "marmalade"
+            part_details["name_short"] = "Marmalade"
+            parts.append(part_details)
 
-        #raspberrry
-        part_details = copy.deepcopy(jam_default)
-        part_details["description_main"] = "raspberry"
-        part_details["name_short"] = "Raspberry Jam"
-        parts.append(part_details)
+            #raspberrry
+            part_details = copy.deepcopy(jam_default)
+            part_details["description_main"] = "raspberry"
+            part_details["name_short"] = "Raspberry Jam"
+            parts.append(part_details)
+
+        #peanut butter
+        if True:
+            part_details = copy.deepcopy(current_default)
+            part_details["color"] = "peanut_butter"
+            part_details["description_main"] = "smooth"
+            part_details["description_extra"] = "jar_340_gram"
+            part_details["manufacturer"] = "skippy"
+            part_details["name_short"] = "Peanut Butter Smooth"
+            parts.append(part_details)
+
+            part_details = copy.deepcopy(current_default)
+            part_details["color"] = "peanut_butter"
+            part_details["description_main"] = "smooth"
+            part_details["description_extra"] = "jar_454_gram"
+            part_details["manufacturer"] = "skippy"
+            part_details["name_short"] = "Peanut Butter Smooth"
+            parts.append(part_details)
+
+            
 
         #ketchup
         part_details = copy.deepcopy(current_default)

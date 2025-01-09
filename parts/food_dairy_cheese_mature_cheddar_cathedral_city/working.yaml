@@ -25,7 +25,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_dairy_cheese_mature_cheddar_cathedral_city
 distributors: []
-filter: ''
+filter: food
 from_yaml: false
 id: food_dairy_cheese_mature_cheddar_cathedral_city
 id_no_class: dairy_cheese_mature_cheddar_cathedral_city

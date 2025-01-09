@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_bean_refried_bean_tin_435_gram_elpaso
 distributors: []
-filter: ''
+filter: food
 from_yaml: false
 id: food_bean_refried_bean_tin_435_gram_elpaso
 id_no_class: bean_refried_bean_tin_435_gram_elpaso

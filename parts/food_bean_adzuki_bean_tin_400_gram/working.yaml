@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_bean_adzuki_bean_tin_400_gram
 distributors: []
-filter: ''
+filter: food
 from_yaml: false
 id: food_bean_adzuki_bean_tin_400_gram
 id_no_class: bean_adzuki_bean_tin_400_gram

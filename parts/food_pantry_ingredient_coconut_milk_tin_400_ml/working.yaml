@@ -24,7 +24,7 @@ description_or_color: 'I '
 description_or_color_upper: 'I '
 directory: parts/food_pantry_ingredient_coconut_milk_tin_400_ml
 distributors: []
-filter: ''
+filter: food
 from_yaml: false
 id: food_pantry_ingredient_coconut_milk_tin_400_ml
 id_no_class: pantry_ingredient_coconut_milk_tin_400_ml

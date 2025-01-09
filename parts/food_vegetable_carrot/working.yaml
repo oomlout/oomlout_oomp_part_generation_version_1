@@ -25,7 +25,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_vegetable_carrot
 distributors: []
-filter: ''
+filter: food
 from_yaml: false
 id: food_vegetable_carrot
 id_no_class: vegetable_carrot
