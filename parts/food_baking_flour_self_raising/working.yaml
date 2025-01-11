@@ -25,7 +25,7 @@ description_or_color: 'S '
 description_or_color_upper: 'S '
 directory: parts/food_baking_flour_self_raising
 distributors: []
-filter: food
+filter: ''
 from_yaml: false
 id: food_baking_flour_self_raising
 id_no_class: baking_flour_self_raising

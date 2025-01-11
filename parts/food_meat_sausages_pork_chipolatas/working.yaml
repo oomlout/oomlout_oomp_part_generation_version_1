@@ -25,7 +25,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_meat_sausages_pork_chipolatas
 distributors: []
-filter: food
+filter: ''
 from_yaml: false
 id: food_meat_sausages_pork_chipolatas
 id_no_class: meat_sausages_pork_chipolatas

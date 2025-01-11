@@ -25,7 +25,7 @@ description_or_color: 'D '
 description_or_color_upper: 'D '
 directory: parts/food_starch_rice_dong_bei
 distributors: []
-filter: food
+filter: ''
 from_yaml: false
 id: food_starch_rice_dong_bei
 id_no_class: starch_rice_dong_bei

@@ -95,6 +95,13 @@ def load_parts(**kwargs):
         part_details["name_short"] = "Red Lentils"
         parts.append(part_details)
 
+        #baked beans
+        part_details = copy.deepcopy(current_default)
+        part_details["description_main"] = "baked_bean"
+        part_details["description_extra"] = "snap_pot_200_gram"
+        part_details["manufacturer"] = "heinz"
+        part_details["name_short"] = "Baked Beans"
+
     # baking
     if True:
         part_details = {}

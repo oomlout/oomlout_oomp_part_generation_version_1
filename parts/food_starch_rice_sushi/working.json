@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "food",
+    "filter": "",
     "description": "rice_sushi",
     "name_short": "Rice sushi",
     "classification_upper": "FOOD",

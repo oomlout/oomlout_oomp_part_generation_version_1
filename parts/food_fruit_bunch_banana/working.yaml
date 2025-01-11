@@ -25,7 +25,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_fruit_bunch_banana
 distributors: []
-filter: food
+filter: ''
 from_yaml: false
 id: food_fruit_bunch_banana
 id_no_class: fruit_bunch_banana

@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "food",
+    "filter": "",
     "description": "corriander ground",
     "name_short": "Corriander Ground",
     "classification_upper": "FOOD",

@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "food",
+    "filter": "",
     "description": "rice_wild",
     "name_short": "Rice wild",
     "classification_upper": "FOOD",

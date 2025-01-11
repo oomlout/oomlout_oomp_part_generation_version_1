@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "food",
+    "filter": "",
     "description": "rice_long_grain_quick_cook",
     "name_short": "Rice long_grain_quick_cook",
     "classification_upper": "FOOD",

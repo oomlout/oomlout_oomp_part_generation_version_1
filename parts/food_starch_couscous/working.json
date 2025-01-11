@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "food",
+    "filter": "",
     "description": "couscous",
     "name_short": "Couscous",
     "classification_upper": "FOOD",

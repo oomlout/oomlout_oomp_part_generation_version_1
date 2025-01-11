@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
 distributors: []
-filter: food
+filter: ''
 from_yaml: false
 id: food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
 id_no_class: dairy_2000_ml_milk_semi_skim_filtered_cravendale

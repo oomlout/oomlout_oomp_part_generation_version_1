@@ -25,7 +25,7 @@ description_or_color: 'K '
 description_or_color_upper: 'K '
 directory: parts/food_starch_popcorn_kernels
 distributors: []
-filter: food
+filter: ''
 from_yaml: false
 id: food_starch_popcorn_kernels
 id_no_class: starch_popcorn_kernels

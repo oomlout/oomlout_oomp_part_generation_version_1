@@ -24,7 +24,7 @@ description_or_color: 'S '
 description_or_color_upper: 'S '
 directory: parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own
 distributors: []
-filter: food
+filter: ''
 from_yaml: false
 id: food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own
 id_no_class: condiment_salad_dressing_ranch_bottle_250_ml_newmans_own

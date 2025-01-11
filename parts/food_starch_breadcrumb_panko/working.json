@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "food",
+    "filter": "",
     "description": "breadcrumb_panko",
     "name_short": "Breadcrumb Panko",
     "classification_upper": "FOOD",

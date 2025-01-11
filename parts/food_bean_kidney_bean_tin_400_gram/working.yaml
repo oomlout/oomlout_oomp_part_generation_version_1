@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_bean_kidney_bean_tin_400_gram
 distributors: []
-filter: food
+filter: ''
 from_yaml: false
 id: food_bean_kidney_bean_tin_400_gram
 id_no_class: bean_kidney_bean_tin_400_gram

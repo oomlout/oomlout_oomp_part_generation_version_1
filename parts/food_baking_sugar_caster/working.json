@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "food",
+    "filter": "",
     "description": "sugar_caster",
     "name_short": "Sugar Caster",
     "classification_upper": "FOOD",

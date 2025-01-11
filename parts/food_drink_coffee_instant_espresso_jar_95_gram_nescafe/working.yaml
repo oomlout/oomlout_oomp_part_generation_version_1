@@ -24,7 +24,7 @@ description_or_color: 'I '
 description_or_color_upper: 'I '
 directory: parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe
 distributors: []
-filter: food
+filter: ''
 from_yaml: false
 id: food_drink_coffee_instant_espresso_jar_95_gram_nescafe
 id_no_class: drink_coffee_instant_espresso_jar_95_gram_nescafe

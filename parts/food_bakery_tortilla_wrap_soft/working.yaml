@@ -25,7 +25,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_bakery_tortilla_wrap_soft
 distributors: []
-filter: food
+filter: ''
 from_yaml: false
 id: food_bakery_tortilla_wrap_soft
 id_no_class: bakery_tortilla_wrap_soft

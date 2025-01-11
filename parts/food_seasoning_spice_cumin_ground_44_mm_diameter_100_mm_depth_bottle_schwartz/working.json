@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "food",
+    "filter": "",
     "description": "cumin ground",
     "name_short": "Cumin Ground",
     "classification_upper": "FOOD",

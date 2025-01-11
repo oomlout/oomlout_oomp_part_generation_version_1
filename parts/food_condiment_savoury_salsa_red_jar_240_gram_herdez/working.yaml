@@ -24,7 +24,7 @@ description_or_color: 'S '
 description_or_color_upper: 'S '
 directory: parts/food_condiment_savoury_salsa_red_jar_240_gram_herdez
 distributors: []
-filter: food
+filter: ''
 from_yaml: false
 id: food_condiment_savoury_salsa_red_jar_240_gram_herdez
 id_no_class: condiment_savoury_salsa_red_jar_240_gram_herdez

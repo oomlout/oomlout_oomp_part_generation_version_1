@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "food",
+    "filter": "",
     "description": "popcorn_kernels",
     "name_short": "Popcorn Kernels",
     "classification_upper": "FOOD",

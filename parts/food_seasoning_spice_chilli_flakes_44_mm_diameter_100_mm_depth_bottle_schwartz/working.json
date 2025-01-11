@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "food",
+    "filter": "",
     "description": "chilli flakes",
     "name_short": "Chilli Flakes",
     "classification_upper": "FOOD",

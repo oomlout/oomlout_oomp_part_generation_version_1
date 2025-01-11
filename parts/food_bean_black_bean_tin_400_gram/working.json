@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "food",
+    "filter": "",
     "name_short": "Black Beans",
     "classification_upper": "FOOD",
     "classification_capital": "Food",

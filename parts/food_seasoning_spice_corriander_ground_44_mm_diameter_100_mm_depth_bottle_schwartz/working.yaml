@@ -25,7 +25,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/food_seasoning_spice_corriander_ground_44_mm_diameter_100_mm_depth_bottle_schwartz
 distributors: []
-filter: food
+filter: ''
 from_yaml: false
 id: food_seasoning_spice_corriander_ground_44_mm_diameter_100_mm_depth_bottle_schwartz
 id_no_class: seasoning_spice_corriander_ground_44_mm_diameter_100_mm_depth_bottle_schwartz

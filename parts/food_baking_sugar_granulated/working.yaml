@@ -25,7 +25,7 @@ description_or_color: 'G '
 description_or_color_upper: 'G '
 directory: parts/food_baking_sugar_granulated
 distributors: []
-filter: food
+filter: ''
 from_yaml: false
 id: food_baking_sugar_granulated
 id_no_class: baking_sugar_granulated

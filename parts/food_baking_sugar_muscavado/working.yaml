@@ -25,7 +25,7 @@ description_or_color: 'M '
 description_or_color_upper: 'M '
 directory: parts/food_baking_sugar_muscavado
 distributors: []
-filter: food
+filter: ''
 from_yaml: false
 id: food_baking_sugar_muscavado
 id_no_class: baking_sugar_muscavado

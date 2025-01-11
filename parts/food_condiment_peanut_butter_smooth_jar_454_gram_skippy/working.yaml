@@ -24,7 +24,7 @@ description_or_color: 'P '
 description_or_color_upper: 'P '
 directory: parts/food_condiment_peanut_butter_smooth_jar_454_gram_skippy
 distributors: []
-filter: food
+filter: ''
 from_yaml: false
 id: food_condiment_peanut_butter_smooth_jar_454_gram_skippy
 id_no_class: condiment_peanut_butter_smooth_jar_454_gram_skippy

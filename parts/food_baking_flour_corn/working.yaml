@@ -25,7 +25,7 @@ description_or_color: 'C '
 description_or_color_upper: 'C '
 directory: parts/food_baking_flour_corn
 distributors: []
-filter: food
+filter: ''
 from_yaml: false
 id: food_baking_flour_corn
 id_no_class: baking_flour_corn
