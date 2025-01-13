@@ -203,7 +203,7 @@ def load_parts(**kwargs):
         part_details["type"] = "takeaway_container_circle"
         part_details["size"] = ["670_ml"]
         part_details["color"] = [""]
-        part_details["description_main"] = "105_mm_diameter_100_mm_depth_tamper_evident"
+        part_details["description_main"] = "105_mm_diameter_135_mm_depth_tamper_evident"
         part_details["description_extra"] = ""
         part_details["manufacturer"] = "systempak"
         part_details["part_number"] = "254"
@@ -259,7 +259,7 @@ def load_parts(**kwargs):
         part_details["type"] = "takeaway_container_rectangle"
         part_details["size"] = "2000_ml"
         part_details["color"] = ""    
-        part_details["description_main"] = "185_mm_width_140_mm_height_110_mm_depth_tamper_evident"
+        part_details["description_main"] = "185_mm_width_140_mm_height_115_mm_depth_tamper_evident"
         part_details["description_extra"] = ""
         part_details["manufacturer"] = "systempak"
         part_details["part_number"] = "2108"
