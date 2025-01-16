@@ -540,6 +540,13 @@ def load_parts(**kwargs):
 
         part_details = copy.deepcopy(current_default)
         part_details["size"] = "pasta"
+        part_details["color"] = "macaroni"
+        part_details["description"] = "pasta_macaroni"
+        part_details["name_short"] = "Pasta Macaroni"
+        parts.append(part_details)
+
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "pasta"
         part_details["color"] = "spaghetti"
         part_details["description"] = "pasta_spaghetti"
         part_details["name_short"] = "Pasta Spaghetti"
