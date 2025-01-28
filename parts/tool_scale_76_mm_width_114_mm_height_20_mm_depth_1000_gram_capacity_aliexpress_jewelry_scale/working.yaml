@@ -24,7 +24,7 @@ description_or_color: 1k
 description_or_color_upper: 1K
 directory: parts/tool_scale_76_mm_width_114_mm_height_20_mm_depth_1000_gram_capacity_aliexpress_jewelry_scale
 distributors: []
-filter: ''
+filter: tool
 from_yaml: false
 id: tool_scale_76_mm_width_114_mm_height_20_mm_depth_1000_gram_capacity_aliexpress_jewelry_scale
 id_no_class: scale_76_mm_width_114_mm_height_20_mm_depth_1000_gram_capacity_aliexpress_jewelry_scale

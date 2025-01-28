@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11
 distributors: []
-filter: ''
+filter: tool
 from_yaml: false
 id: tool_vibratory_bowl_tabletop_mettler_toledo_lv11
 id_no_class: vibratory_bowl_tabletop_mettler_toledo_lv11

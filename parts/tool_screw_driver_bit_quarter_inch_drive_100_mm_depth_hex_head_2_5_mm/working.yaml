@@ -24,12 +24,13 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm
 distributors: []
-filter: ''
+filter: tool
 from_yaml: false
 id: tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm
 id_no_class: screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm
 id_no_size: hex_head_2_5_mm
 id_no_type: quarter_inch_drive_100_mm_depth_hex_head_2_5_mm
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005007111223127.html
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm
@@ -69,6 +70,7 @@ oomp_word_list:
 - golf
 part_number: ''
 part_number_capital: ''
+part_number_distributor_aliexpress: '1005007111223127'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''

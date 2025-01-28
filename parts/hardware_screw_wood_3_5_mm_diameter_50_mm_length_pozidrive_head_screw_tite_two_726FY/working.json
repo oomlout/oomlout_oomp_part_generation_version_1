@@ -9,7 +9,7 @@
     "part_number": "726FY",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "hardware_screw",
     "short_name": "",
     "classification_upper": "HARDWARE",
     "classification_capital": "Hardware",

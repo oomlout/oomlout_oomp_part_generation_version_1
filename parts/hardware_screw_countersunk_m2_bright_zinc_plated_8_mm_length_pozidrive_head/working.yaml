@@ -24,7 +24,7 @@ description_or_color: B8
 description_or_color_upper: B8
 directory: parts/hardware_screw_countersunk_m2_bright_zinc_plated_8_mm_length_pozidrive_head
 distributors: []
-filter: ''
+filter: hardware_screw
 from_yaml: false
 id: hardware_screw_countersunk_m2_bright_zinc_plated_8_mm_length_pozidrive_head
 id_no_class: screw_countersunk_m2_bright_zinc_plated_8_mm_length_pozidrive_head

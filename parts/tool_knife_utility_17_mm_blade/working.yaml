@@ -24,7 +24,7 @@ description_or_color: '17'
 description_or_color_upper: '17'
 directory: parts/tool_knife_utility_17_mm_blade
 distributors: []
-filter: ''
+filter: tool
 from_yaml: false
 id: tool_knife_utility_17_mm_blade
 id_no_class: knife_utility_17_mm_blade

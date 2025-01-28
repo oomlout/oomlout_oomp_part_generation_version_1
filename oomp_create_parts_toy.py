@@ -24,7 +24,21 @@ def load_parts(**kwargs):
         part_details["link_distributor_amazon"] = f"https://www.amazon.com/dp/{part_details['distributor_amazon']}"
         parts.append(part_details)    
 
-    #green car
+    #musical_instrument
+    if True:
+        part_details = {}
+        part_details["classification"] = "toy"
+        part_details["type"] = "musical_instrument"
+        part_details["size"] = "ukulele"
+        part_details["color"] = ""
+        part_details["description_main"] = "170_mm_width_550_mm_height_55_mm_depth"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""  
+        parts.append(part_details)
+
+    #remote_control
     if True:
         part_details = {}
         part_details["classification"] = "toy"

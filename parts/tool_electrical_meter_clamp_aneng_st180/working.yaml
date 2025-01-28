@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/tool_electrical_meter_clamp_aneng_st180
 distributors: []
-filter: ''
+filter: tool
 from_yaml: false
 id: tool_electrical_meter_clamp_aneng_st180
 id_no_class: electrical_meter_clamp_aneng_st180

@@ -26,7 +26,7 @@ directory: parts/hardware_screw_wood_10_mm_diameter_120_mm_length_pozidrive_head
 distributor_screwfix: 401hg
 distributor_screwfix_link: https://www.screwfix.com/p/401hg
 distributors: []
-filter: ''
+filter: hardware_screw
 from_yaml: false
 id: hardware_screw_wood_10_mm_diameter_120_mm_length_pozidrive_head_corefix
 id_no_class: screw_wood_10_mm_diameter_120_mm_length_pozidrive_head_corefix

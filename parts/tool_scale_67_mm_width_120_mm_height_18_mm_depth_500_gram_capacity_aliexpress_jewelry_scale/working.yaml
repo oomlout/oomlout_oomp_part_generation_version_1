@@ -24,7 +24,7 @@ description_or_color: '500'
 description_or_color_upper: '500'
 directory: parts/tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_jewelry_scale
 distributors: []
-filter: ''
+filter: tool
 from_yaml: false
 id: tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_jewelry_scale
 id_no_class: scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_jewelry_scale

@@ -20,7 +20,7 @@ def load_parts(**kwargs):
         part_details["description_extra"] = ""
         part_details["manufacturer"] = "mitutoyo"
         part_details["part_number_exact"] = "MIT500-196-30"
-        part_details["part_number"] = part_details["part_number_exact"].lower().replace("-","_").replace(" ","_")
+        part_details["part_number"] = part_details["part_number_exact"].lower().replace("-","_").replace(" ","_").replace(".","_")
         part_details["part_number_distributor_amazon"] = "B00IG46NL2"
         part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/gp/product/{part_details['part_number_distributor_amazon']}"
         parts.append(part_details)
@@ -189,17 +189,54 @@ def load_parts(**kwargs):
 
     # screwdriver bits
     #define a part 
-    if True:
+    if True:      
+
         part_details = {}
         part_details["classification"] = "tool"
         part_details["type"] = "screw_driver_bit"
-        part_details["size"] = ["quarter_inch_drive_100_mm_depth"]
-        part_details["color"] = [""]
-        part_details["description_main"] = ["hex_head"]
-        part_details["description_extra"] = ["2_mm","2_5_mm"]
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
         part_details["manufacturer"] = ""
         part_details["part_number"] = ""
-        parts.append(part_details)
+        
+        default_screwdriver_bit = copy.deepcopy(part_details)
+
+        #100 mm depth
+        if True:
+            part_details = copy.deepcopy(default_screwdriver_bit)
+            part_details["size"] = "quarter_inch_drive_100_mm_depth"
+            default_current = copy.deepcopy(part_details)
+
+            #hex_head
+            description_extras = ["2_mm","2_5_mm","3_mm","4_mm","5_mm","6_mm"]
+            for description_extra in description_extras:
+                part_details = copy.deepcopy(default_current)
+                part_details["description_main"] = "hex_head"
+                part_details["description_extra"] = description_extra
+                part_details["part_number_distributor_aliexpress"] = "1005007111223127"
+                part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['part_number_distributor_aliexpress']}.html"
+                parts.append(part_details)
+
+        #150 mm depth
+        if True:
+            part_details = copy.deepcopy(default_screwdriver_bit)
+            part_details["size"] = "quarter_inch_drive_150_mm_depth"
+            default_current = copy.deepcopy(part_details)
+
+            #hex_head
+            description_extras = ["1_5_mm","2_mm", "2_5_mm","3_mm","4_mm","5_mm","6_mm"]
+            for description_extra in description_extras:
+                part_details = copy.deepcopy(default_current)
+                part_details["description_main"] = "hex_head"
+                part_details["description_extra"] = description_extra
+                part_details["part_number_distributor_aliexpress"] = "1005007848287320"
+                part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['part_number_distributor_aliexpress']}.html"
+                parts.append(part_details)
+            
+
+
 
 
     # tape measure

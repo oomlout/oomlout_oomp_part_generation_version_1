@@ -1,4 +1,5 @@
 import oomp
+import copy
 
 def load_parts(**kwargs):
     print(f"  loading parts {__name__}")
@@ -124,7 +125,48 @@ def load_parts(**kwargs):
                 parts.append(part_details)    
     
         
+    #screw_grub
+    if True:
+        colors = []
+        colors.append("black")
+        colors.append("stainless_steel")
 
+        extras_sizes = {}
+        extras_sizes["m1_6"] = [2,2.5,3,4,5,8]
+        extras_sizes["m2"] = [2,2.5,3,4,5,6,8,10,12,14]
+        extras_sizes["m2_5"] = [2,2.5,3,4,5,6,8,10,12,14]
+        extras_sizes["m3"] = [2,2.5,3,4,5,6,8,10,12,14,16,18,20]
+        extras_sizes["m4"] = [3,4,5,6,8,10,12,14,16,18,20]
+        extras_sizes["m5"] = [3,4,5,6,8,10,12,14,16,18,20,25,30,35]
+        extras_sizes["m6"] = [6,8,10,12,14,16,18,20,30,40]
+        
+        part_details = {}
+        part_details["classification"] = "hardware"
+        part_details["type"] = "screw_grub"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = "hex_head"
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+
+        default_screw_grub = part_details
+
+        import copy
+
+        for color in colors:
+            for size in extras_sizes:
+                part_details["color"] = color
+                part_details["size"] = size
+                default_current = copy.deepcopy(default_screw_grub)
+                lengths = extras_sizes[size]
+                for length in lengths:
+                    part_details = copy.deepcopy(default_current)
+                    length_string = str(length)
+                    length_string = length_string.replace(".","_")                    
+                    part_details["description_main"] = f"{length_string}_mm_length"
+                    parts.append(part_details)
+        
     #screw_machine_screw pozi drive
     if True:
         extras_sizes = {}

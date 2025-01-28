@@ -24,7 +24,7 @@ description_or_color: B20
 description_or_color_upper: B20
 directory: parts/hardware_screw_countersunk_m3_bright_zinc_plated_20_mm_length_pozidrive_head
 distributors: []
-filter: ''
+filter: hardware_screw
 from_yaml: false
 id: hardware_screw_countersunk_m3_bright_zinc_plated_20_mm_length_pozidrive_head
 id_no_class: screw_countersunk_m3_bright_zinc_plated_20_mm_length_pozidrive_head

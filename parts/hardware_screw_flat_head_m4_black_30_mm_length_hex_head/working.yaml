@@ -24,7 +24,7 @@ description_or_color: B30
 description_or_color_upper: B30
 directory: parts/hardware_screw_flat_head_m4_black_30_mm_length_hex_head
 distributors: []
-filter: ''
+filter: hardware_screw
 from_yaml: false
 id: hardware_screw_flat_head_m4_black_30_mm_length_hex_head
 id_no_class: screw_flat_head_m4_black_30_mm_length_hex_head

@@ -9,7 +9,7 @@
     "part_number": "jewelry_scale",
     "from_yaml": false,
     "make_files": true,
-    "filter": "",
+    "filter": "tool",
     "classification_upper": "TOOL",
     "classification_capital": "Tool",
     "classification_first_letter": "t",

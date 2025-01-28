@@ -24,7 +24,7 @@ description_or_color: B6
 description_or_color_upper: B6
 directory: parts/hardware_screw_countersunk_m2_black_6_mm_length_hex_head
 distributors: []
-filter: ''
+filter: hardware_screw
 from_yaml: false
 id: hardware_screw_countersunk_m2_black_6_mm_length_hex_head
 id_no_class: screw_countersunk_m2_black_6_mm_length_hex_head
