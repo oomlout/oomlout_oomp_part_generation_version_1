@@ -80,7 +80,7 @@ def load_parts(**kwargs):
             #sweet pea
             part_details = copy.deepcopy(default_flower)
             part_details["color"] = "sweet_pea"
-            part_details["description_main"] = "scentsational mix"
+            part_details["description_main"] = "scentsational_mix"
             part_details["description_extra"] = extra
             part_details["distributor_sutton_seeds"] = "133275"
             part_details["link_distributor_sutton_seeds"] = f"https://www.suttons.co.uk/SUSGWE348/sweet-pea-scentsational-mix-seeds_mh13761"
