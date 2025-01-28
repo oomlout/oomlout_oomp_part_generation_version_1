@@ -96,7 +96,7 @@ part_types.append("packaging_tin")
 
 part_types.append("paper")
 
-
+part_types.append("phone")
 #printer
 part_types.append("printer")
 
