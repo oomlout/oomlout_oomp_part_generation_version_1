@@ -71,6 +71,8 @@ part_types.append("food_seasoning")
 part_types.append("furniture")
 part_types.append("furniture_ikea")
 
+part_types.append("garden")
+
 part_types.append("household")
 
 part_types.append("mechanical_coupler")

@@ -8,6 +8,23 @@ def load_parts(**kwargs):
     
     parts = []
     
+
+    #caliper
+    if True:
+        part_details = {}
+        part_details["classification"] = "tool"
+        part_details["type"] = "measure_caliper_digital"
+        part_details["size"] = "150_mm_length"
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "mitutoyo"
+        part_details["part_number_exact"] = "MIT500-196-30"
+        part_details["part_number"] = part_details["part_number_exact"].lower().replace("-","_").replace(" ","_")
+        part_details["part_number_distributor_amazon"] = "B00IG46NL2"
+        part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/gp/product/{part_details['part_number_distributor_amazon']}"
+        parts.append(part_details)
+
     # chiller
     if True:
         part_details = {}
@@ -190,14 +207,44 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["classification"] = "tool"
         part_details["type"] = "measure_tape_measure"
-        part_details["size"] = ["5000_mm_length"]
-        part_details["color"] = [""]
-        part_details["description_main"] = [""]
-        part_details["description_extra"] = [""]
+        part_details["size"] = "5000_mm_length"
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
         part_details["manufacturer"] = "stanley"
         part_details["part_number"] = "1_30_696"
-        part_details["part_number_esact"] = "1-30-696"
+        part_details["part_number_exact"] = "1-30-696"
+        part_details["part_number_distributor_amazon"] = "B000Y8W54C"
+        part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/gp/product/{part_details['part_number_distributor_amazon']}"
+        part_details["oobb_tool_holder_shape"] = "cube"
+        part_details["oobb_tool_holder_width"] = 78
+        part_details["oobb_tool_holder_height"] = 74
+        part_details["oobb_tool_holder_depth"] = 42
+
         parts.append(part_details)
+
+        
+        part_details = {}
+        part_details["classification"] = "tool"
+        part_details["type"] = "measure_tape_measure"
+        part_details["size"] = "3000_mm_length"
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "stanley"
+        part_details["part_number"] = "0_30_686"
+        part_details["part_number_exact"] = "0-30-686"
+        part_details["part_number_distributor_amazon"] = "B0009VX1ZQ"
+        part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/gp/product/{part_details['part_number_distributor_amazon']}"
+        part_details["oobb_tool_holder_shape"] = "cube"
+        part_details["oobb_tool_holder_width"] = 65
+        part_details["oobb_tool_holder_height"] = 60
+        part_details["oobb_tool_holder_depth"] = 30 
+        
+        parts.append(part_details)
+
+
+    # tool box
 
     # timer
     if True:

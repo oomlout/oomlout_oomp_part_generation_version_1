@@ -30,6 +30,7 @@ id: tool_measure_tape_measure_5000_mm_length_stanley_1_30_696
 id_no_class: measure_tape_measure_5000_mm_length_stanley_1_30_696
 id_no_size: stanley_1_30_696
 id_no_type: 5000_mm_length_stanley_1_30_696
+link_distributor_amazon: https://www.amazon.co.uk/gp/product/B000Y8W54C
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696
@@ -56,6 +57,10 @@ name_no_class: Measure Tape Measure 5000 Mm Length Stanley 1 30 696
 name_no_size: Stanley 1 30 696
 name_no_size_short: Stanley 1 30 696
 name_no_type: 5000 Mm Length Stanley 1 30 696
+oobb_tool_holder_depth: 42
+oobb_tool_holder_height: 74
+oobb_tool_holder_shape: cube
+oobb_tool_holder_width: 78
 oomp_key: oomp_tool_measure_tape_measure_5000_mm_length_stanley_1_30_696
 oomp_word: chicken recycle watermelon
 oomp_word_emoji: ':chicken: :recycle: :watermelon:'
@@ -69,7 +74,8 @@ oomp_word_list:
 - watermelon
 part_number: '1_30_696'
 part_number_capital: 1.30 696
-part_number_esact: 1-30-696
+part_number_distributor_amazon: B000Y8W54C
+part_number_exact: 1-30-696
 part_number_first_letter: '1'
 part_number_first_letter_upper: '1'
 part_number_upper: '1_30_696'

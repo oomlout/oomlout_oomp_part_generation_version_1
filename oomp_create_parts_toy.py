@@ -8,7 +8,21 @@ def load_parts(**kwargs):
     
     parts = []
 
-    
+    #bubbles
+    if True:
+        part_details = {}
+        part_details["classification"] = "toy"
+        part_details["type"] = "bubble"
+        part_details["size"] = "wand"
+        part_details["color"] = ""
+        part_details["description_main"] = "33_mm_diameter_370_mm_depth"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""  
+        part_details["distributor_amazon"] = "B0CLSHKHM1"
+        part_details["link_distributor_amazon"] = f"https://www.amazon.com/dp/{part_details['distributor_amazon']}"
+        parts.append(part_details)    
 
     #green car
     if True:
@@ -25,6 +39,7 @@ def load_parts(**kwargs):
         part_details["distributor_amazon"] = "B09FSFP7H2"
         part_details["link_distributor_amazon"] = f"https://www.amazon.com/dp/{part_details['distributor_amazon']}"
         parts.append(part_details)    
+        
         part_details = {}
         part_details["classification"] = "toy"
         part_details["type"] = "remote_control"
