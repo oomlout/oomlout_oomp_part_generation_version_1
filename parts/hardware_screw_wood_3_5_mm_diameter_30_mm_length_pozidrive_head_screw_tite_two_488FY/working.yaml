@@ -24,7 +24,7 @@ description_or_color: 3k5
 description_or_color_upper: 3K5
 directory: parts/hardware_screw_wood_3_5_mm_diameter_30_mm_length_pozidrive_head_screw_tite_two_488FY
 distributors: []
-filter: hardware_screw
+filter: ''
 from_yaml: false
 id: hardware_screw_wood_3_5_mm_diameter_30_mm_length_pozidrive_head_screw_tite_two_488FY
 id_no_class: screw_wood_3_5_mm_diameter_30_mm_length_pozidrive_head_screw_tite_two_488FY

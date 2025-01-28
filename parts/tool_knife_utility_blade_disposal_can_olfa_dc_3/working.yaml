@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/tool_knife_utility_blade_disposal_can_olfa_dc_3
 distributors: []
-filter: tool
+filter: ''
 from_yaml: false
 id: tool_knife_utility_blade_disposal_can_olfa_dc_3
 id_no_class: knife_utility_blade_disposal_can_olfa_dc_3

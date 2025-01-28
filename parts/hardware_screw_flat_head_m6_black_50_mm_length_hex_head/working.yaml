@@ -24,7 +24,7 @@ description_or_color: B50
 description_or_color_upper: B50
 directory: parts/hardware_screw_flat_head_m6_black_50_mm_length_hex_head
 distributors: []
-filter: hardware_screw
+filter: ''
 from_yaml: false
 id: hardware_screw_flat_head_m6_black_50_mm_length_hex_head
 id_no_class: screw_flat_head_m6_black_50_mm_length_hex_head

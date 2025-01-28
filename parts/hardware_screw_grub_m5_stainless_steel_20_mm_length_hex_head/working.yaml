@@ -24,7 +24,7 @@ description_or_color: S20
 description_or_color_upper: S20
 directory: parts/hardware_screw_grub_m5_stainless_steel_20_mm_length_hex_head
 distributors: []
-filter: hardware_screw
+filter: ''
 from_yaml: false
 id: hardware_screw_grub_m5_stainless_steel_20_mm_length_hex_head
 id_no_class: screw_grub_m5_stainless_steel_20_mm_length_hex_head

@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/tool_screw_driver_bit_quarter_inch_drive_150_mm_depth_hex_head_2_mm
 distributors: []
-filter: tool
+filter: ''
 from_yaml: false
 id: tool_screw_driver_bit_quarter_inch_drive_150_mm_depth_hex_head_2_mm
 id_no_class: screw_driver_bit_quarter_inch_drive_150_mm_depth_hex_head_2_mm

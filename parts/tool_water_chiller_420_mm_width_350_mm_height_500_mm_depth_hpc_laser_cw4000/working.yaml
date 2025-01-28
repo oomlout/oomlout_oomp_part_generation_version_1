@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000
 distributors: []
-filter: tool
+filter: ''
 from_yaml: false
 id: tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000
 id_no_class: water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000

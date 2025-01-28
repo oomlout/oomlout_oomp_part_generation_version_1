@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/tool_measure_tape_measure_3000_mm_length_stanley_0_30_686
 distributors: []
-filter: tool
+filter: ''
 from_yaml: false
 id: tool_measure_tape_measure_3000_mm_length_stanley_0_30_686
 id_no_class: measure_tape_measure_3000_mm_length_stanley_0_30_686

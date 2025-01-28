@@ -9,7 +9,7 @@
     "part_number": "",
     "from_yaml": false,
     "make_files": true,
-    "filter": "tool",
+    "filter": "",
     "width": 75,
     "height": 202,
     "depth": 26,

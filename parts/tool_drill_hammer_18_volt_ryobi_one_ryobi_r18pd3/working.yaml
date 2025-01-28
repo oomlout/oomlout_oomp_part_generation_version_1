@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/tool_drill_hammer_18_volt_ryobi_one_ryobi_r18pd3
 distributors: []
-filter: tool
+filter: ''
 from_yaml: false
 id: tool_drill_hammer_18_volt_ryobi_one_ryobi_r18pd3
 id_no_class: drill_hammer_18_volt_ryobi_one_ryobi_r18pd3

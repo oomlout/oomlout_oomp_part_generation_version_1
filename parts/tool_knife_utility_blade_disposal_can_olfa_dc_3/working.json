@@ -9,7 +9,7 @@
     "part_number": "dc_3",
     "from_yaml": false,
     "make_files": true,
-    "filter": "tool",
+    "filter": "",
     "part_number_exact": "DC-3",
     "classification_upper": "TOOL",
     "classification_capital": "Tool",

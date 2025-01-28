@@ -24,7 +24,7 @@ description_or_color: B8
 description_or_color_upper: B8
 directory: parts/hardware_screw_countersunk_m2_black_8_mm_length_phillips_head
 distributors: []
-filter: hardware_screw
+filter: ''
 from_yaml: false
 id: hardware_screw_countersunk_m2_black_8_mm_length_phillips_head
 id_no_class: screw_countersunk_m2_black_8_mm_length_phillips_head

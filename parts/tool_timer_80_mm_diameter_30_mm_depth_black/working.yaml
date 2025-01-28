@@ -24,7 +24,7 @@ description_or_color: 8k
 description_or_color_upper: 8K
 directory: parts/tool_timer_80_mm_diameter_30_mm_depth_black
 distributors: []
-filter: tool
+filter: ''
 from_yaml: false
 id: tool_timer_80_mm_diameter_30_mm_depth_black
 id_no_class: timer_80_mm_diameter_30_mm_depth_black

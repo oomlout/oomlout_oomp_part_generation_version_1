@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/tool_measure_caliper_digital_150_mm_length_mitutoyo_mit500_196_30
 distributors: []
-filter: tool
+filter: ''
 from_yaml: false
 id: tool_measure_caliper_digital_150_mm_length_mitutoyo_mit500_196_30
 id_no_class: measure_caliper_digital_150_mm_length_mitutoyo_mit500_196_30

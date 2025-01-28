@@ -24,7 +24,7 @@ description_or_color: '590'
 description_or_color_upper: '590'
 directory: parts/hardware_screw_wood_5_mm_diameter_90_mm_length_pozidrive_head_screw_tite_two_800FY
 distributors: []
-filter: hardware_screw
+filter: ''
 from_yaml: false
 id: hardware_screw_wood_5_mm_diameter_90_mm_length_pozidrive_head_screw_tite_two_800FY
 id_no_class: screw_wood_5_mm_diameter_90_mm_length_pozidrive_head_screw_tite_two_800FY

@@ -26,7 +26,7 @@ description_or_color_upper: ' '
 diameter: 17
 directory: parts/tool_screw_driver_precision_powered_17_mm_diameter_160_mm_depth_xiaomi
 distributors: []
-filter: tool
+filter: ''
 from_yaml: false
 id: tool_screw_driver_precision_powered_17_mm_diameter_160_mm_depth_xiaomi
 id_no_class: screw_driver_precision_powered_17_mm_diameter_160_mm_depth_xiaomi
