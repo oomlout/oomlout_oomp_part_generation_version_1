@@ -157,6 +157,35 @@ def load_parts(**kwargs):
         part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_part_number_amazon']}"
         parts.append(part_details)
 
+    #mixed
+    if True:
+        part_details = {}
+        part_details["classification"] = "stationery"
+        part_details["type"] = "mixed"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""
+        default_current =  copy.deepcopy(part_details)
+        
+        #eraser and ruler
+        part_details = copy.deepcopy(default_current)        
+        part_details["description_main"] = "eraser_and_ruler"
+        parts.append(part_details)
+
+        #pens and pencils and felt tips
+        part_details = copy.deepcopy(default_current)
+        part_details["description_main"] = "pens_and_pencils_and_felt_tips"
+        parts.append(part_details)
+
+        #pencil cases
+        part_details = copy.deepcopy(default_current)
+        part_details["description_main"] = "pencil_cases"
+        parts.append(part_details)
+
     #modeling_clay
     if True:
         part_details = {}

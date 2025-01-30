@@ -8,6 +8,27 @@ def load_parts(**kwargs):
     
     parts = []
 
+    #ball
+    if True:
+        part_details = {}
+        part_details["classification"] = "toy"
+        part_details["type"] = "ball"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""  
+
+        default_current = copy.deepcopy(part_details)
+
+        #small mixed
+        part_details = copy.deepcopy(default_current)
+        part_details["size"] = "small"
+        part_details["description_main"] = "mixed"
+        parts.append(part_details)
+
     #bubbles
     if True:
         part_details = {}
@@ -36,6 +57,89 @@ def load_parts(**kwargs):
         part_details["manufacturer"] = ""
         part_details["part_number"] = ""
         part_details["short_name"] = ""  
+        parts.append(part_details)
+
+    #figurine
+    if True:
+        part_details = {}
+        part_details["classification"] = "toy"
+        part_details["type"] = "figurine"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""  
+
+        default_current = copy.deepcopy(part_details)
+
+        #branded
+        #squishmallow
+        part_details = copy.deepcopy(default_current)
+        part_details["size"] = "branded"
+        part_details["color"] = "squismallow"
+        part_details["description_main"] = "small"
+        parts.append(part_details)
+
+        #num_nom
+        part_details = copy.deepcopy(default_current)
+        part_details["size"] = "branded"
+        part_details["color"] = "num_nom"
+        part_details["description_main"] = "mixed"    
+        parts.append(part_details)
+
+
+        #small animal
+        part_details = copy.deepcopy(default_current)
+        part_details["size"] = "small"
+        part_details["description_main"] = "animal_mixed"
+        parts.append(part_details)
+
+        #medium animal
+        part_details = copy.deepcopy(default_current)
+        part_details["size"] = "medium"
+        part_details["description_main"] = "animal_mixed"
+
+    #gem and rock and mineral
+    if True:
+        part_details = {}
+        part_details["classification"] = "toy"
+        part_details["type"] = "gem_rock_mineral"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""  
+
+        default_current = copy.deepcopy(part_details)
+
+        #gem
+        part_details = copy.deepcopy(default_current)
+        part_details["description_main"] = "collection_mixed"
+        parts.append(part_details)
+
+
+    #mixed
+    if True:
+        part_details = {}
+        part_details["classification"] = "toy"
+        part_details["type"] = "mixed"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""  
+
+        default_current = copy.deepcopy(part_details)
+
+        part_details = copy.deepcopy(default_current)
+        part_details["description_main"] = "party_bag_toy_mixed"
+
         parts.append(part_details)
 
     #remote_control

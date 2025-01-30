@@ -20,6 +20,8 @@ part_types.append("camera")
 part_types.append("computer")
 part_types.append("computer_monitor")
 
+part_types.append("craft")
+
 #dish
 part_types.append("dish")
 
