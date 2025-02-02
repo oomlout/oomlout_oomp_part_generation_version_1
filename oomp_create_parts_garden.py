@@ -44,6 +44,7 @@ def load_parts(**kwargs):
             part_details["description_extra"] = extra
             part_details["distributor_sutton_seeds"] = "142036"
             part_details["link_distributor_sutton_seeds"] = f"https://www.suttons.co.uk/oxeye-daisy-seeds_mh-53149"
+            parts.append(part_details)
 
             #lupin
             part_details = copy.deepcopy(default_flower)
@@ -51,6 +52,9 @@ def load_parts(**kwargs):
             part_details["description_main"] = "mix_gallery"
             part_details["description_extra"] = extra
             part_details["distributor_sutton_seeds"] = "142035"
+            part_details["link_distributor_sutton_seeds"] = f"https://www.suttons.co.uk/flower-seeds/all/lupin-seeds-gallery-mix_MH-623"
+            parts.append(part_details)
+
 
             #mix
             part_details = copy.deepcopy(default_flower)
@@ -59,6 +63,7 @@ def load_parts(**kwargs):
             part_details["description_extra"] = extra
             part_details["distributor_sutton_seeds"] = "140000"
             part_details["link_distributor_sutton_seeds"] = f"https://www.suttons.co.uk/SUSGWE56/wildflower-honeybee-mix-seeds_mh-53182"
+            parts.append(part_details)
 
             #poached_egg
             part_details = copy.deepcopy(default_flower)
@@ -67,6 +72,7 @@ def load_parts(**kwargs):
             part_details["description_extra"] = extra
             part_details["distributor_sutton_seeds"] = "142008"
             part_details["link_distributor_sutton_seeds"] = f"https://www.suttons.co.uk/SUDM2/lupin-gallery-mix-seeds_mh-623"
+            parts.append(part_details)
 
             #rudebeckia
             part_details = copy.deepcopy(default_flower)
@@ -93,6 +99,7 @@ def load_parts(**kwargs):
             part_details["description_extra"] = extra
             part_details["distributor_sutton_seeds"] = "142025"
             part_details["link_distributor_sutton_seeds"] = f"https://www.suttons.co.uk/SUSGWE184/teasel-seeds-for-pollinators_mh-53151"
+            parts.append(part_details)
 
         #herb
         if True:
@@ -126,6 +133,7 @@ def load_parts(**kwargs):
             part_details["description_extra"] = extra
             part_details["distributor_sutton_seeds"] = "142038"
             part_details["link_distributor_sutton_seeds"] = f"https://www.suttons.co.uk/SUSGWE56/dill-herb-seeds_mh-52849"
+            parts.append(part_details)
 
             #oregano
             part_details = copy.deepcopy(default_herb)
@@ -134,6 +142,7 @@ def load_parts(**kwargs):
             part_details["description_extra"] = extra
             part_details["distributor_sutton_seeds"] = "142017"
             part_details["link_distributor_sutton_seeds"] = f"https://www.suttons.co.uk/SUSGWE184/oregano-seeds-for-pollinators_mh-52697"
+            parts.append(part_details)
 
             #thyme
             part_details = copy.deepcopy(default_herb)
@@ -142,7 +151,7 @@ def load_parts(**kwargs):
             part_details["description_extra"] = extra
             part_details["distributor_sutton_seeds"] = "142002"
             part_details["link_distributor_sutton_seeds"] = f"https://www.suttons.co.uk/SUSGWE184/thyme-orange-scented-seeds-for-pollinators_mh-52305"
-
+            parts.append(part_details)
 
 
 
