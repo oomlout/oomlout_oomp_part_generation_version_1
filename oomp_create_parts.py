@@ -22,7 +22,7 @@ part_types.append("computer_monitor")
 
 part_types.append("craft")
 
-#dish
+part_types.append("decorating")
 part_types.append("dish")
 
 part_types.append("hardware_aluminium_extrusion")    
@@ -64,6 +64,8 @@ part_types.append("electronic_screw_terminal")
 part_types.append("electronic_socket")
 part_types.append("electronic_voltage_converter")
 part_types.append("electronic_wire_pigtail")
+
+part_types.append("exercise_equipment")
 
 part_types.append("flashlight")
 

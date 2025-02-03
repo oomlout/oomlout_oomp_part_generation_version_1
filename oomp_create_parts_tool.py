@@ -7,7 +7,18 @@ def load_parts(**kwargs):
     print(f"  loading parts {__name__}")
     
     parts = []
-    
+
+    part_details = {}
+    part_details["classification"] = "tool"
+    part_details["type"] = ""
+    part_details["size"] = ""
+    part_details["color"] = ""
+    part_details["description_main"] = ""
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+
+    default_empty = copy.deepcopy(part_details)
 
     #caliper
     if True:
@@ -160,32 +171,298 @@ def load_parts(**kwargs):
     # screwdriver
     #define a part 
     if True:
-        part_details = {}
-        part_details["classification"] = "tool"
-        part_details["type"] = "screw_driver_precision_powered"
-        part_details["size"] = "17_mm_diameter_160_mm_depth"
-        part_details["color"] = ""
-        part_details["description_main"] = ""
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = "xiaomi"
-        part_details["part_number"] = ""
 
-        default_current = copy.deepcopy(part_details)
+        #precision
+        if True:
+            part_details = copy.deepcopy(default_empty)            
+            part_details["type"] = "screw_driver_precision"
 
-        part_details = copy.deepcopy(default_current)
-        part_details["diameter"] = 17
-        part_details["depth"] = 160
-        parts.append(part_details)
+            default_current = copy.deepcopy(part_details)
 
-        part_details = copy.deepcopy(default_current)
-        part_details["description_main"] = "set"
-        part_details["width"] = 75
-        part_details["height"] = 202
-        part_details["depth"] = 26
+            #wera kraftform micro
+            part_details = copy.deepcopy(default_current)            
+            part_details["manufacturer"] = "wera"
+            default_wera_precision = copy.deepcopy(part_details)
+
+            details = []            
+            
+            #2054 series hex head
+            # 05118060001	0.7	-	40	97	3.0	1 9/16"	
+            # 05118062001	0.9	-	40	97	3.0	1 9/16"	
+            # 05118064001	1.3	-	40	97	3.0	1 9/16"	
+            # 05118066001	1.5	-	60	97	3.0	2 3/8"	
+            # 05118068001	2	-	60	97	3.0	2 3/8"	
+            # 05118070001	2.5	-	60	97	4.0	2 3/8"	
+            # 05118072001	3.0	-	60	97	4.0	2 3/8"	
+
+            detail_default_current = {}
+            detail_default_current["link_distributor_wera"] = "https://products.wera.de/en/screwdrivers_series_kraftform_micro_2054_micro.html"
+            #0.7 mm, 05118060001            
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "hex_head_0_7_mm", "series": "2054", "part_number": "05118060001", "blade_length": 40, "blade_diameter": 3.0, "handle_length": 97})
+            details.append(detail)
+            #0.9 mm, 05118062001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "hex_head_0_9_mm", "series": "2054", "part_number": "05118062001", "blade_length": 40, "blade_diameter": 3.0, "handle_length": 97})
+            details.append(detail)
+            #1.3 mm, 05118064001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "hex_head_1_3_mm", "series": "2054", "part_number": "05118064001", "blade_length": 40, "blade_diameter": 3.0, "handle_length": 97})
+            details.append(detail)
+            #1.5 mm, 05118066001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "hex_head_1_5_mm", "series": "2054", "part_number": "05118066001", "blade_length": 60, "blade_diameter": 3.0, "handle_length": 97})
+            details.append(detail)
+            #2 mm 05118068001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "hex_head_2_mm", "series": "2054", "part_number": "05118068001", "blade_length": 60, "blade_diameter": 3.0, "handle_length": 97})
+            details.append(detail)
+            #2.5 mm 05118070001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "hex_head_2_5_mm", "series": "2054", "part_number": "05118070001", "blade_length": 60, "blade_diameter": 4.0, "handle_length": 97})
+            details.append(detail)
+            #3 mm 05118072001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "hex_head_3_mm", "series": "2054", "part_number": "05118072001", "blade_length": 60, "blade_diameter": 4.0, "handle_length": 97})
+            details.append(detail)
+            
+            #2035 series slotted head
+            # 05117990001	0.16	0.8	40	97	2.0	1/32"	1 9/16"	
+            # 05117991001	0.18	1.0	40	97	2.0	0.04"	1 9/16"	
+            # 05117992001	0.20	1.2	40	97	2.0	0.05"	1 9/16"	
+            # 05118002001	0.23	1.5	40	97	2.0	1/16"	1 9/16"	
+            # 05118003001	0.23	1.5	60	97	2.0	1/16"	2 3/8"	
+            # 05118000001	0.25	1.2	40	97	2.0	0.05"	1 9/16"	
+            # 05117993001	0.30	1.8	40	97	2.0	0.07"	1 9/16"	
+            # 05118004001	0.30	1.8	60	97	2.0	0.07"	2 3/8"	
+            # 05117997001	0.35	2.5	40	97	2.5	3/32"	1 9/16"	
+            # 05118005001	0.40	2.0	40	97	2.5	5/64"	1 9/16"	
+            # 05118006001	0.40	2.0	60	97	2.5	5/64"	2 3/8"	
+            # 05117994001	0.40	2.5	50	97	2.5	3/32"	2"	
+            # 05118008001	0.40	2.5	80	97	2.5	3/32"	3 1/8"	
+            # 05117995001	0.50	3.0	50	97	3.0	1/8"	2"	
+            # 05118010001	0.50	3.0	80	97	3.0	1/8"	3 1/8"	
+            # 05118012001	0.60	3.5	80	97	4.0	9/64"	3 1/8"	
+            # 05118014001	0.80	4.0	80	97	4.0	5/32"	3 1/8"
+            
+            detail_default_current = {}
+            detail_default_current["link_distributor_wera"] = "https://products.wera.de/en/screwdrivers_series_kraftform_micro_2035_micro.html"            
+            #0.8, 05117990001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "slotted_head_0_8_mm", "series": "2035", "part_number": "05117990001", "blade_length": 40, "blade_diameter": 2.0, "handle_length": 97})            
+            details.append(detail)
+            #1.0, 05117991001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "slotted_head_1_0_mm", "series": "2035", "part_number": "05117991001", "blade_length": 40, "blade_diameter": 2.0, "handle_length": 97})
+            details.append(detail)
+            #1.2, 05117992001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "slotted_head_1_2_mm", "series": "2035", "part_number": "05117992001", "blade_length": 40, "blade_diameter": 2.0, "handle_length": 97})
+            details.append(detail)
+            #1.5, 05118002001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "slotted_head_1_5_mm", "series": "2035", "part_number": "05118002001", "blade_length": 40, "blade_diameter": 2.0, "handle_length": 97})
+            details.append(detail)
+            #1.5 60 mm length, 05118003001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "slotted_head_1_5_mm", "series": "2035", "part_number": "05118003001", "blade_length": 60, "blade_diameter": 2.0, "handle_length": 97})
+            details.append(detail)
+            #1.8 05117993001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "slotted_head_1_8_mm", "series": "2035", "part_number": "05117993001", "blade_length": 40, "blade_diameter": 2.0, "handle_length": 97})
+            details.append(detail)
+            #1.8 60 mm length, 05118004001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "slotted_head_1_8_mm", "series": "2035", "part_number": "05118004001", "blade_length": 60, "blade_diameter": 2.0, "handle_length": 97})
+            details.append(detail)
+            #2.5 05117997001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "slotted_head_2_5_mm", "series": "2035", "part_number": "05117997001", "blade_length": 40, "blade_diameter": 2.5, "handle_length": 97})
+            details.append(detail)
+            #2.0 05118005001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "slotted_head_2_0_mm", "series": "2035", "part_number": "05118005001", "blade_length": 40, "blade_diameter": 2.5, "handle_length": 97})
+            details.append(detail)
+            #2.0 60 mm length, 05118006001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "slotted_head_2_0_mm", "series": "2035", "part_number": "05118006001", "blade_length": 60, "blade_diameter": 2.5, "handle_length": 97})
+            details.append(detail)
+            #2.5 50 mm length, 05117994001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "slotted_head_2_5_mm", "series": "2035", "part_number": "05117994001", "blade_length": 50, "blade_diameter": 2.5, "handle_length": 97})
+            details.append(detail)
+            #2.5 80 mm length, 05118008001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "slotted_head_2_5_mm", "series": "2035", "part_number": "05118008001", "blade_length": 80, "blade_diameter": 2.5, "handle_length": 97})
+            details.append(detail)
+            #3.0 50 mm length, 05117995001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "slotted_head_3_0_mm", "series": "2035", "part_number": "05117995001", "blade_length": 50, "blade_diameter": 3.0, "handle_length": 97})
+            details.append(detail)
+            #3.0 80 mm length, 05118010001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "slotted_head_3_0_mm", "series": "2035", "part_number": "05118010001", "blade_length": 80, "blade_diameter": 3.0, "handle_length": 97})
+            details.append(detail)
+            #3.5 80 mm length, 05118012001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "slotted_head_3_5_mm", "series": "2035", "part_number": "05118012001", "blade_length": 80, "blade_diameter": 4.0, "handle_length": 97})
+            details.append(detail)
+            #4.0 80 mm length, 05118014001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "slotted_head_4_0_mm", "series": "2035", "part_number": "05118014001", "blade_length": 80, "blade_diameter": 4.0, "handle_length": 97})
+            details.append(detail)
+
+            #2067 series torx head
+            # 05118035001	TX 1	40	97	2.0	1 9/16"	
+            # 05118036001	TX 2	40	97	2.0	1 9/16"	
+            # 05118037001	TX 3	40	97	2.0	1 9/16"	
+            # 05118039001	TX 4	40	97	2.5	1 9/16"	
+            # 05118040001	TX 5	40	97	3.0	1 9/16"	
+            # 05118042001	TX 6	40	97	3.0	1 9/16"
+
+            detail_default_current = {}
+            detail_default_current["link_distributor_wera"] = "https://products.wera.de/en/screwdrivers_series_kraftform_micro_2067_torx.html"            
+            #TX 1, 05118035001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "torx_head_1", "series": "2067", "part_number": "05118035001", "blade_length": 40, "blade_diameter": 2.0, "handle_length": 97})
+            details.append(detail)
+            #TX 2, 05118036001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "torx_head_2", "series": "2067", "part_number": "05118036001", "blade_length": 40, "blade_diameter": 2.0, "handle_length": 97})
+            details.append(detail)
+            #TX 3, 05118037001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "torx_head_3", "series": "2067", "part_number": "05118037001", "blade_length": 40, "blade_diameter": 2.0, "handle_length": 97})
+            details.append(detail)
+            #TX 4, 05118039001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "torx_head_4", "series": "2067", "part_number": "05118039001", "blade_length": 40, "blade_diameter": 2.5, "handle_length": 97})
+            details.append(detail)
+            #TX 5, 05118040001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "torx_head_5", "series": "2067", "part_number": "05118040001", "blade_length": 40, "blade_diameter": 3.0, "handle_length": 97})
+            details.append(detail)
+            #TX 6, 05118042001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "torx_head_6", "series": "2067", "part_number": "05118042001", "blade_length": 40, "blade_diameter": 3.0, "handle_length": 97})
+            details.append(detail)
+
+            #2055 series pozidriv head
+            # 05118030001	PZ 0	60	97	3.0	2 3/8"	
+            # 05118032001	PZ 1	80	97	4.0	3 1/16"
+
+            detail_default_current = {}
+            detail_default_current["link_distributor_wera"] = "https://products.wera.de/en/screwdrivers_series_kraftform_micro_2055_pz.html"                        
+            #PZ 0, 05118030001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "pozidriv_head_0", "series": "2055", "part_number": "05118030001", "blade_length": 60, "blade_diameter": 3.0, "handle_length": 97})
+            details.append(detail)
+            #PZ 1, 05118032001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "pozidriv_head_1", "series": "2055", "part_number": "05118032001", "blade_length": 80, "blade_diameter": 4.0, "handle_length": 97})
+            details.append(detail)
+            #2050 series philips head
+            # 05345290001 	PH 000	40	97	1.5/2.5	1 9/16"	
+            # 05118019001 	PH 00	40	97	1.8/2.5	1 9/16"	
+            # 05118020001 	PH 00	60	97	2.5	2 3/8"	
+            # 05118026001 	PH 0	40	97	3.0	1 9/16"	
+            # 05118022001 	PH 0	60	97	3.0	2 3/8"	
+            # 05118023001	    PH 1	60	97	4.0	2 3/8"	
+            # 05118024001     PH 1	80	97	4.0	3 1/8"
+
+
+            detail_default_current = {}
+            detail_default_current["link_distributor_wera"] = "https://products.wera.de/en/screwdrivers_series_kraftform_micro_2050_ph_micro.html"                                    
+            #PH 000, 05345290001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "philips_head_000", "series": "2050", "part_number": "05345290001", "blade_length": 40, "blade_diameter": 1.5, "handle_length": 97})
+            details.append(detail)
+            #PH 00, 05118019001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "philips_head_00", "series": "2050", "part_number": "05118019001", "blade_length": 40, "blade_diameter": 1.8, "handle_length": 97})
+            details.append(detail)
+            #PH 00, 05118020001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "philips_head_00", "series": "2050", "part_number": "05118020001", "blade_length": 60, "blade_diameter": 2.5, "handle_length": 97})
+            details.append(detail)
+            #PH 0, 05118026001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "philips_head_0", "series": "2050", "part_number": "05118026001", "blade_length": 40, "blade_diameter": 3.0, "handle_length": 97})
+            details.append(detail)
+            #PH 0, 05118022001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "philips_head_0", "series": "2050", "part_number": "05118022001", "blade_length": 60, "blade_diameter": 3.0, "handle_length": 97})
+            details.append(detail)
+            #PH 1, 05118023001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "philips_head_1", "series": "2050", "part_number": "05118023001", "blade_length": 60, "blade_diameter": 4.0, "handle_length": 97})
+            details.append(detail)
+            #PH 1, 05118024001
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"head": "philips_head_1", "series": "2050", "part_number": "05118024001", "blade_length": 80, "blade_diameter": 4.0, "handle_length": 97})
+            details.append(detail)
+
+            for detail in details:
+                part_details = copy.deepcopy(default_wera_precision)
+                blade_length = detail["blade_length"]
+                dep = 97 + blade_length
+                part_details["size"] = f"kraftform_micro_style_18_mm_diameter_{dep}_mm_depth"                
+                part_details["description_main"] = f"{detail['head']}"
+                part_details["part_number"] = f"{detail['series']}_series_{detail['part_number']}"
+                parts.append(part_details)
+
+
+
+
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+        #precision_powered
+        if True:
+            part_details = {}
+            part_details["classification"] = "tool"
+            part_details["type"] = "screwdriver_precision_powered"
+            part_details["size"] = "17_mm_diameter_160_mm_depth"
+            part_details["color"] = ""
+            part_details["description_main"] = ""
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "xiaomi"
+            part_details["part_number"] = ""
+
+            default_current = copy.deepcopy(part_details)
+
+            part_details = copy.deepcopy(default_current)
+            part_details["diameter"] = 17
+            part_details["depth"] = 160
+            parts.append(part_details)
+
+            part_details = copy.deepcopy(default_current)
+            part_details["description_main"] = "set"
+            part_details["width"] = 75
+            part_details["height"] = 202
+            part_details["depth"] = 26
+            
+            parts.append(part_details)
+            
         
-        parts.append(part_details)
-        
-    
 
     # screwdriver bits
     #define a part 
@@ -193,7 +470,7 @@ def load_parts(**kwargs):
 
         part_details = {}
         part_details["classification"] = "tool"
-        part_details["type"] = "screw_driver_bit"
+        part_details["type"] = "screwdriver_bit"
         part_details["size"] = ""
         part_details["color"] = ""
         part_details["description_main"] = ""
