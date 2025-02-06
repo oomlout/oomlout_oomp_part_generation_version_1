@@ -235,7 +235,8 @@ def load_parts(**kwargs):
         for color in colors:
             color = color
             amazon_id = ""
-            if color.isinstance(list):
+            #if color isn't a string
+            if type(color) == list:
                 color = color[0]
                 amazon_id = color[1]
             part_details = copy.deepcopy(default_current)
