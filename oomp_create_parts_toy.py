@@ -8,6 +8,18 @@ def load_parts(**kwargs):
     
     parts = []
 
+    part_details = {}
+    part_details["classification"] = "toy"
+    part_details["type"] = ""
+    part_details["size"] = ""
+    part_details["color"] = ""
+    part_details["description_main"] = ""
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+
+    default_empty = copy.deepcopy(part_details)
+
     #ball
     if True:
         part_details = {}
@@ -100,6 +112,12 @@ def load_parts(**kwargs):
         part_details = copy.deepcopy(default_current)
         part_details["size"] = "medium"
         part_details["description_main"] = "animal_mixed"
+        parts.append(part_details)
+
+        #mixed
+        part_details = copy.deepcopy(default_current)
+        part_details["description_main"] = "mixed"
+        parts.append(part_details)
 
     #gem and rock and mineral
     if True:
@@ -144,33 +162,69 @@ def load_parts(**kwargs):
 
     #remote_control
     if True:
-        part_details = {}
-        part_details["classification"] = "toy"
-        part_details["type"] = "remote_control"
-        part_details["size"] = "2_4_ghz_controller"
-        part_details["color"] = ""
-        part_details["description_main"] = "stunt_car_green_95_mm_width_80_mm_height_40_mm_depth"
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = ""
-        part_details["part_number"] = ""
-        part_details["short_name"] = ""  
-        part_details["distributor_amazon"] = "B09FSFP7H2"
-        part_details["link_distributor_amazon"] = f"https://www.amazon.com/dp/{part_details['distributor_amazon']}"
-        parts.append(part_details)    
-        
-        part_details = {}
-        part_details["classification"] = "toy"
-        part_details["type"] = "remote_control"
-        part_details["size"] = "2_4_ghz_controller"
-        part_details["color"] = ""
-        part_details["description_main"] = "stunt_car_green_165_mm_width_155_mm_height_75_mm_depth"
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = ""
-        part_details["part_number"] = ""
-        part_details["short_name"] = ""  
-        part_details["distributor_aliexpress"] = "1005006841176949"
-        part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['distributor_aliexpress']}.html"
-        parts.append(part_details)    
+
+        #aliexpress ones
+        if True:
+            part_details = {}
+            part_details["classification"] = "toy"
+            part_details["type"] = "remote_control"
+            part_details["size"] = "2_4_ghz_controller"
+            part_details["color"] = ""
+            part_details["description_main"] = "stunt_car_green_95_mm_width_80_mm_height_40_mm_depth"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = ""
+            part_details["part_number"] = ""
+            part_details["short_name"] = ""  
+            part_details["distributor_amazon"] = "B09FSFP7H2"
+            part_details["link_distributor_amazon"] = f"https://www.amazon.com/dp/{part_details['distributor_amazon']}"
+            parts.append(part_details)    
+            
+            part_details = {}
+            part_details["classification"] = "toy"
+            part_details["type"] = "remote_control"
+            part_details["size"] = "2_4_ghz_controller"
+            part_details["color"] = ""
+            part_details["description_main"] = "stunt_car_green_165_mm_width_155_mm_height_75_mm_depth"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = ""
+            part_details["part_number"] = ""
+            part_details["short_name"] = ""  
+            part_details["distributor_aliexpress"] = "1005006841176949"
+            part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['distributor_aliexpress']}.html"
+            parts.append(part_details)    
+
+        #building block compatible
+        if True:
+            part_details = copy.deepcopy(default_empty)
+            part_details["classification"] = "toy"
+            part_details["type"] = "remote_control"
+            part_details["size"] = "building_block_compatible"
+            part_details["description_main"] = "4_channel_battery_included_32_mm_width_64_mm_height_30_mm_depth"
+            part_details["distributor_aliexpress"] = "1005007006131635"
+            part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['distributor_aliexpress']}.html"
+            parts.append(part_details)
+
+            part_details = copy.deepcopy(default_empty)
+            part_details["classification"] = "toy"
+            part_details["type"] = "remote_control"
+            part_details["size"] = "building_block_compatible"
+            part_details["description_main"] = "1_channel_battery_and_motor_included_24_mm_width_56_mm_height_32_mm_depth"
+            part_details["distributor_aliexpress"] = "1005007142691134"
+            part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['distributor_aliexpress']}.html"
+            parts.append(part_details)
+
+            #2_channel
+            part_details = copy.deepcopy(default_empty)
+            part_details["classification"] = "toy"
+            part_details["type"] = "remote_control"
+            part_details["size"] = "building_block_compatible"
+            part_details["description_main"] = "2_channel_32_mm_width_32_mm_height_38_mm_depth"
+            part_details["distributor_aliexpress"] = "1005003984563566"
+            part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['distributor_aliexpress']}.html"
+            parts.append(part_details)
+
+
+
 
     #digger
     if True:

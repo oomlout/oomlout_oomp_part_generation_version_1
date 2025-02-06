@@ -8,7 +8,19 @@ def load_parts(**kwargs):
     
     parts = []
 
-    
+    part_details = {}
+    part_details = {}
+    part_details["classification"] = "stationery"
+    part_details["type"] = ""
+    part_details["size"] = ""
+    part_details["color"] = ""
+    part_details["description_main"] = ""
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+    part_details["short_name"] = ""
+
+    default_empty =  copy.deepcopy(part_details)
 
     #define a part 
 
@@ -210,6 +222,64 @@ def load_parts(**kwargs):
         part_details["distributor_part_number_amazon"] = "B00BGERNOU"
         part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_part_number_amazon']}"
         parts.append(part_details)
+
+    #pen
+    if True:
+        part_details = copy.deepcopy(default_empty)        
+        part_details["type"] = "pen"
+        part_details["size"] = "9_5_mm_diagonal_140_mm_length_uniball_157_style"
+        colors = ["black","blue","red","orange","green","pink","purple","light_blue","light_green","wine"]
+        colors.append(["mixed","B096FYFJT3"])
+
+        default_current =  copy.deepcopy(part_details)
+        for color in colors:
+            color = color
+            amazon_id = ""
+            if color.isinstance(list):
+                color = color[0]
+                amazon_id = color[1]
+            part_details = copy.deepcopy(default_current)
+            part_details["color"] = color
+            part_details["description_main"] = color
+            part_details["manufacturer"] = "uniball"
+            part_details["part_number"] = ""
+            if amazon_id:
+                part_details["distributor_part_number_amazon"] = amazon_id
+                part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_part_number_amazon']}"
+            parts.append(part_details)
+
+    #pencil
+    if True:
+        part_details = copy.deepcopy(default_empty)        
+        part_details["type"] = "pencil"
+        part_details["size"] = "7_5_mm_diameter_hexagon_175_mm_length"
+        parts.append(part_details)
+
+        part_details = copy.deepcopy(default_empty)
+        part_details["type"] = "pencil"
+        part_details["size"] = "7_5_mm_diameter_hexagon_175_mm_length"
+        part_details["manufacturer"] = "staedtler"
+        part_details["part_number"] = "noris_school_120"
+        parts.append(part_details)
+        
+        default_current =  copy.deepcopy(part_details)
+        #pack of 10
+        part_details = copy.deepcopy(default_current)
+        part_details["description_main"] = "pack_of_10"
+        part_details["distributor_part_number_amazon"] = "B003JYX2VS"
+        part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_part_number_amazon']}"
+        parts.append(part_details)
+
+        #pack of 50
+        part_details = copy.deepcopy(default_current)
+        part_details["description_main"] = "pack_of_50"
+        part_details["distributor_part_number_amazon"] = "B003HIG6OQ"
+        part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_part_number_amazon']}"
+        parts.append(part_details)
+        
+
+        
+
 
     #pencil_crayon
     if True:

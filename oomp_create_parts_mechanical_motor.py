@@ -8,7 +8,28 @@ def load_parts(**kwargs):
     
     parts = []
 
-    
+    part_details = {}
+    part_details["classification"] = "mechanical"
+    part_details["type"] = "motor"
+    part_details["size"] = ""
+    part_details["color"] = ""
+    part_details["description_main"] = ""
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+
+    default_empty = copy.deepcopy(part_details)
+
+    #building block compatible
+    if True:
+        part_details = copy.deepcopy(default_empty)
+        part_details["size"] = "building_block_compatible"
+        part_details["description_main"] = "micro_size_16_mm_width_24_mm_height_18_mm_depth"
+        part_details["distributor_aliexpress"] = "1005007142691134"
+        part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['distributor_aliexpress']}.html"
+        parts.append(part_details)
+
+    #motor_dc
 
     #define a part 
     # motor_geared

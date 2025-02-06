@@ -597,6 +597,17 @@ def load_parts(**kwargs):
             part_details["name_short"] = f"Rice {rice}"
             parts.append(part_details)
 
+        # noodles
+        noodles = []
+        noodles.append("ramen")
+
+        for noodle in noodles:
+            part_details = copy.deepcopy(current_default)
+            part_details["size"] = "noodle"
+            part_details["color"] = noodle
+            part_details["description"] = f"noodle_{noodle}"
+            part_details["name_short"] = f"Noodle {noodle}"
+            parts.append(part_details)
 
 
         #popcorn
