@@ -56,7 +56,12 @@ def main(**kwargs):
             subprocess.run(['git', 'add', '*'])
             subprocess.run(['git', 'commit', '-a', '-m', 'Full run through'])
             subprocess.run(['git', 'push'])
+            
+        #delete the directory
+        if True:    
             delete_directory(directory_current)
+
+
 
     #run messy
     if True:
