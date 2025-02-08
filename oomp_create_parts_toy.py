@@ -71,6 +71,14 @@ def load_parts(**kwargs):
         part_details["short_name"] = ""  
         parts.append(part_details)
 
+    #fidget
+    if True:
+        part_details = copy.deepcopy(default_empty)
+        part_details["classification"] = "toy"
+        part_details["type"] = "fidget"
+        part_details["description_main"] = "mixed"
+        parts.append(part_details)
+
     #figurine
     if True:
         part_details = {}

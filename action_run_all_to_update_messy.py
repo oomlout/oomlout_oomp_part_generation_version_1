@@ -60,7 +60,7 @@ def main(**kwargs):
         #delete the directory
         if True:    
             delete_directory(directory_current)
-
+            pass
 
 
     #run messy
