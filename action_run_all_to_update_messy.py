@@ -104,17 +104,29 @@ def main(**kwargs):
 
     print(f'Elapsed time: {hours} hours, {minutes} minutes, {seconds} seconds')
 
+import shutil
+import os
+import subprocess
+import time
+
 def delete_directory(directory_to_delete):
-    #if not an array make it one
+    # If not an array, make it one
     if not isinstance(directory_to_delete, list):
         directory_to_delete = [directory_to_delete]
     for directory in directory_to_delete:
         try:
             print(f'Deleting {directory}')
-            #delete directory and all files and subdirectories within using os.system in windows
-            os.system(f'rmdir /s /q {directory}')
+            # Delete directory and all files and subdirectories within using os.system in Windows
+            result = os.system(f'rmdir /s /q {directory}')
+            if result != 0:
+                raise Exception(f'Failed to delete {directory}')
         except Exception as e:
-            print(e)        
+            print(e)
+            try:
+                shutil.rmtree(directory)
+            except Exception as shutil_error:
+                print(f'Failed to delete {directory} using shutil: {shutil_error}')
+
 
 if __name__ == '__main__':
     kwargs = {}
