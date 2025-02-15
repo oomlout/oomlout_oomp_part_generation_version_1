@@ -6,8 +6,8 @@ import time
 
 def main(**kwargs):
 
-    #mode = 'full'
-    mode = 'fast'
+    mode = 'full'
+    #mode = 'fast'
 
     repo_names = {}
     current_names = []
