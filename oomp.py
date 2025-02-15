@@ -466,7 +466,8 @@ def add_part(**kwargs):
                 ## write the part working in json to the directory name the file working.json
                 import json
                 with open(f"{directory_parts}/" + id + "/working.json", "w") as outfile:
-                    json.dump(kwargs, outfile, indent=4)
+                    pass
+                    #json.dump(kwargs, outfile, indent=4)
                 ## write the part working in yaml to the directory name the file working.json
                 
                 file_types = ["datasheet.pdf", "image.jpg", "image_reference.jpg"]
