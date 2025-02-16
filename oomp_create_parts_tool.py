@@ -487,12 +487,32 @@ def load_parts(**kwargs):
             default_current = copy.deepcopy(part_details)
 
             #hex_head
-            description_extras = ["2_mm","2_5_mm","3_mm","4_mm","5_mm","6_mm"]
+            description_extras = ["2_mm","2_5_mm","3_mm","4_mm","5_mm","6_mm","8_mm"]
             for description_extra in description_extras:
                 part_details = copy.deepcopy(default_current)
                 part_details["description_main"] = "hex_head"
                 part_details["description_extra"] = description_extra
                 part_details["part_number_distributor_aliexpress"] = "1005007111223127"
+                part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['part_number_distributor_aliexpress']}.html"
+                parts.append(part_details)
+
+            #phillips
+            description_extras = ["ph0_2_mm","ph0_3_mm","ph1_2_5_mm","ph1_3_5_mm","ph1_4_mm","ph1_4_5_mm","ph1_5_mm","ph2_4_mm","ph2_4_5_mm","ph2_5_mm","ph2_6_mm"]
+            for description_extra in description_extras:
+                part_details = copy.deepcopy(default_current)
+                part_details["description_main"] = "phillips_head"
+                part_details["description_extra"] = description_extra
+                part_details["part_number_distributor_aliexpress"] = "1005002383044569"
+                part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['part_number_distributor_aliexpress']}.html"
+                parts.append(part_details)
+
+            #slot
+            description_extras = ["1_6_mm","2_mm","2_5_mm","3_mm","4_mm","5_mm","6_mm"]
+            for description_extra in description_extras:
+                part_details = copy.deepcopy(default_current)
+                part_details["description_main"] = "slot_head"
+                part_details["description_extra"] = description_extra
+                part_details["part_number_distributor_aliexpress"] = "1005002307522502"
                 part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['part_number_distributor_aliexpress']}.html"
                 parts.append(part_details)
 
@@ -508,7 +528,7 @@ def load_parts(**kwargs):
                 part_details = copy.deepcopy(default_current)
                 part_details["description_main"] = "hex_head"
                 part_details["description_extra"] = description_extra
-                part_details["part_number_distributor_aliexpress"] = "1005007848287320"
+                part_details["part_number_distributor_aliexpress"] = "1005006923093945"
                 part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['part_number_distributor_aliexpress']}.html"
                 parts.append(part_details)
             
