@@ -70,6 +70,10 @@ def load_parts(**kwargs):
             detail = copy.deepcopy(detail_default_current)
             detail.update({"size": "ikea_knopppang", "description_main":"210_mm_width_300_mm_height","description_extra": "white", "manufacturer": "ikea", "part_number_exact": "503.871.22"})
             details.append(detail)
+            #230 x 230
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"size": "ikea_knopppang", "description_main":"230_mm_width_230_mm_height","description_extra": "white", "manufacturer": "ikea", "part_number_exact": ""})
+            details.append(detail)
             #300 x 400
             detail = copy.deepcopy(detail_default_current)
             detail.update({"size": "ikea_knopppang", "description_main":"300_mm_width_400_mm_height","description_extra": "white", "manufacturer": "ikea", "part_number_exact": "903.871.20"})
@@ -88,14 +92,28 @@ def load_parts(**kwargs):
             detail.update({"size": "ikea_knopppang", "description_main":"610_mm_width_910_mm_height","description_extra": "white", "manufacturer": "ikea", "part_number_exact": "104.296.52"})
             details.append(detail)
 
+        #ribba
+        if True:
+            #300 x 400
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"size": "ikea_ribba", "description_main":"300_mm_width_400_mm_height","description_extra": "white", "manufacturer": "ikea", "part_number_exact": ""})
+            details.append(detail)
+            #400 x 500
+            detail = copy.deepcopy(detail_default_current)
+            detail.update({"size": "ikea_ribba", "description_main":"400_mm_width_500_mm_height","description_extra": "white", "manufacturer": "ikea", "part_number_exact": ""})
+            details.append(detail)
+
         for detail in details:
             part_details = copy.deepcopy(default_current)
             part_details.update(detail)
             part_number_exact = part_details.get("part_number_exact", "")
-            part_number = part_number_exact.replace(".", "_")
-            part_details["part_number"] = part_number
-            link_distributor_ikea = f"https://www.ikea.com/gb/en/search/?q={part_number_exact}"
-            part_details["link_distributor_ikea"] = link_distributor_ikea
+            if part_number_exact != "":
+                part_number = part_number_exact.replace(".", "_")        
+                part_details["part_number"] = part_number
+                link_distributor_ikea = f"https://www.ikea.com/gb/en/search/?q={part_number_exact}"
+                part_details["link_distributor_ikea"] = link_distributor_ikea
+            else:
+                part_details.pop("part_number_exact", None)
             parts.append(part_details)
 
     oomp.add_parts(parts, make_files=make_files)
