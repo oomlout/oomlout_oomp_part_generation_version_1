@@ -1,0 +1,95 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_oomp_toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included
+color_capital: Oomlout Oomp Toy Remote Control Building Block Compatible 1 Channel
+    Battery And Motor Included
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_OOMP_TOY_REMOTE_CONTROL_BUILDING_BLOCK_COMPATIBLE_1_CHANNEL_BATTERY_AND_MOTOR_INCLUDED
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_oomp_toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included
+distributors: []
+filter: ''
+from_yaml: false
+id: project_github_oomlout_oomlout_oomp_toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included
+id_no_class: github_oomlout_oomlout_oomp_toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included
+id_no_size: oomp_toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included
+id_no_type: oomlout_oomlout_oomp_toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oomp_toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Oomp Toy Remote Control Building Block Compatible 1 Channel
+    Battery And Motor Included](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oomp_toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included](none)<br><br>'
+md5: 329f87d92612eb93763f595bc8e9b4b2
+md5_10: 329f87d926
+md5_10_upper: 329F87D926
+md5_5: 329f8
+md5_5_upper: 329F8
+md5_6: 329f87
+md5_6_alpha: 1z3wn
+md5_6_alpha_upper: 1Z3WN
+md5_6_upper: 329F87
+name: Project Github Oomlout Oomlout Oomp Toy Remote Control Building Block Compatible
+    1 Channel Battery And Motor Included
+name_no_class: Github Oomlout Oomlout Oomp Toy Remote Control Building Block Compatible
+    1 Channel Battery And Motor Included
+name_no_size: Oomp Toy Remote Control Building Block Compatible 1 Channel Battery
+    And Motor Included
+name_no_size_short: Oomp Toy Remote Control Building Block Compatible 1 Channel Battery
+    And Motor Included
+name_no_type: Oomlout Oomlout Oomp Toy Remote Control Building Block Compatible 1
+    Channel Battery And Motor Included
+oomp_key: oomp_project_github_oomlout_oomlout_oomp_toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included
+oomp_word: cat diamonds toilet
+oomp_word_emoji: ':cat: :diamonds: :toilet:'
+oomp_word_emoji_list:
+- ':cat:'
+- ':diamonds:'
+- ':toilet:'
+oomp_word_list:
+- cat
+- diamonds
+- toilet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB
