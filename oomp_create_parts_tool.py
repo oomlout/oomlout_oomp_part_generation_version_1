@@ -51,31 +51,59 @@ def load_parts(**kwargs):
 
     
     # diy tool
-    #   drill
     if True:
-        #       dewalt
-        part_details = {}
-        part_details["classification"] = "tool"
-        part_details["type"] = "drill_hammer"
-        part_details["size"] = ["18_volt_dewalt_tower"]
-        part_details["color"] = [""]
-        part_details["description_main"] = [""]
-        part_details["description_extra"] = [""]
-        part_details["manufacturer"] = "dewalt"
-        part_details["part_number"] = "dc988"
-        parts.append(part_details)
-        #       ryobi
-        part_details = {}
-        part_details["classification"] = "tool"
-        part_details["type"] = "drill_hammer"
-        part_details["size"] = ["18_volt_ryobi_one"]
-        part_details["color"] = [""]
-        part_details["description_main"] = [""]
-        part_details["description_extra"] = [""]
-        part_details["manufacturer"] = "ryobi"
-        part_details["part_number"] = "r18pd3"
-        parts.append(part_details)
+        #   drill
+        if True:
+            #       dewalt
+            part_details = {}
+            part_details["classification"] = "tool"
+            part_details["type"] = "drill_hammer"
+            part_details["size"] = ["18_volt_dewalt_tower"]
+            part_details["color"] = [""]
+            part_details["description_main"] = [""]
+            part_details["description_extra"] = [""]
+            part_details["manufacturer"] = "dewalt"
+            part_details["part_number"] = "dc988"
+            parts.append(part_details)
+            #       ryobi
+            part_details = {}
+            part_details["classification"] = "tool"
+            part_details["type"] = "drill_hammer"
+            part_details["size"] = ["18_volt_ryobi_one"]
+            part_details["color"] = [""]
+            part_details["description_main"] = [""]
+            part_details["description_extra"] = [""]
+            part_details["manufacturer"] = "ryobi"
+            part_details["part_number"] = "r18pd3"
+            parts.append(part_details)
 
+        # level
+        if True:
+            part_details = copy.deepcopy(default_empty)
+            part_details["type"] = "level"
+            part_details["size"] = ""
+            part_details["color"] = ""
+            part_details["description_main"] = "boat_level_230_mm_width_38_mm_height_15_mm_depth"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "draper"            
+            part_details["part_number"] = "69563" 
+            part_details["part_number_distributor_amazon"] = "B0001KA1A8"
+            part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/gp/product/{part_details['part_number_distributor_amazon']}"
+            part_details["link_distributor_draper"] = f"https://www.drapertools.com/product/69563/boat-spirit-level-230mm/"
+            parts.append(part_details)
+    
+    
+        # stud finder
+        if True:
+            part_details = copy.deepcopy(default_empty)
+            part_details["type"] = "stud_finder"
+            part_details["size"] = ""
+            part_details["color"] = ""
+            part_details["description_main"] = "70_mm_width_150_mm_height_35_mm_depth"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "stanley"
+            part_details["part_number"] = "sth77404"            
+            parts.append(part_details)
     
     # electrical
     if True:
