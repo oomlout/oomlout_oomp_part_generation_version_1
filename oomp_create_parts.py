@@ -19,6 +19,7 @@ part_types.append("camera")
 
 part_types.append("computer")
 part_types.append("computer_monitor")
+part_types.append("computer_tablet")
 
 part_types.append("craft")
 
@@ -106,6 +107,7 @@ part_types.append("printer")
 
 part_types.append("remote_control")
 
+part_types.append("robot_arm")
 part_types.append("robot_vacuum")
 
 #stationary

@@ -68,6 +68,32 @@ def load_parts(**kwargs):
 
         parts.append(part_details)    
 
+    #motor_driver
+    if True:
+        part_details = {}
+        part_details["classification"] = "mechanical"
+        part_details["type"] = "motor_driver"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""  
+
+        current_default = copy.deepcopy(part_details)
+
+        sizes  =["stepper"]
+        description_mains = ["mixed"]
+        
+        for size in sizes:
+            for description_main in description_mains:
+                part_details = copy.deepcopy(current_default)
+                part_details["size"] = size
+                part_details["description_main"] = description_main
+                parts.append(part_details)
+
+
     #servo_remote_control
     if True:
         part_details = {}

@@ -66,8 +66,9 @@ if __name__ == "__main__":
     #filter = "paper"
     #filter = "remote_control"
     #filter = "robot_vacuum"
+    #filter = "robot_arm"
     
-    #filter = "three_d_printer_filament"
+    #filter = "three_d_printer"
     #filter = "tool"
     #filter = "toy"
     #filter = "warehouse"

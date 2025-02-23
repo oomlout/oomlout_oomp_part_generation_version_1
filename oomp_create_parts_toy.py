@@ -109,6 +109,12 @@ def load_parts(**kwargs):
         part_details["description_main"] = "mixed"    
         parts.append(part_details)
 
+        #polly pocket
+        part_details = copy.deepcopy(default_current)
+        part_details["size"] = "branded"
+        part_details["color"] = "polly_pocket"
+        part_details["description_main"] = "mixed"
+        parts.append(part_details)
 
         #small animal
         part_details = copy.deepcopy(default_current)

@@ -156,9 +156,10 @@ def load_parts(**kwargs):
 
         for color in colors:
             for size in extras_sizes:
+                part_details = copy.deepcopy(default_screw_grub)
                 part_details["color"] = color
                 part_details["size"] = size
-                default_current = copy.deepcopy(default_screw_grub)
+                default_current = part_details                
                 lengths = extras_sizes[size]
                 for length in lengths:
                     part_details = copy.deepcopy(default_current)
