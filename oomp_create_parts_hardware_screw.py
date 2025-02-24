@@ -163,7 +163,7 @@ def load_parts(**kwargs):
 
         default_screw_grub = part_details
 
-        import copy
+        
 
         for color in colors:
             for size in extras_sizes:
