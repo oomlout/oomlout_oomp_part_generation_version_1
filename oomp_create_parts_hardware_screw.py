@@ -6,7 +6,18 @@ def load_parts(**kwargs):
     
     parts = []
 
+    part_details = {}
+    part_details["classification"] = "hardware"
+    part_details["type"] = "screw_wood"
+    part_details["size"] = ""
+    part_details["color"] = "black"
+    part_details["description_main"] = ""
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
     
+    default_empty = copy.deepcopy(part_details)
+
     #screw_countersunk pozi drive
     if True:
         extras_sizes = {}
@@ -336,6 +347,21 @@ def load_parts(**kwargs):
         parts.append(part_details)
 
 
+    #add goldscrew
+    if True:
+        screw_sizes = []
+        screw_sizes.append([6,140])
+
+        for screw_size in screw_sizes:
+            diameter = screw_size[0]
+            length = screw_size[1]
+            
+            part_details = copy.deepcopy(default_empty)
+            part_details["description_main"] = f"{diameter}_mm_diameter_{length}_mm_length"
+            part_details["manufacturer"] = "goldscrew"
+            parts.append(part_details)
+
+
 
     #add screwtite screws
     if True:
@@ -351,7 +377,6 @@ def load_parts(**kwargs):
         part_details["short_name"] = ""
         parts.append(part_details)
 
-        import copy
         screwtire_base = copy.deepcopy(part_details)
 
         part_details = copy.deepcopy(screwtire_base)
