@@ -347,7 +347,7 @@ def load_parts(**kwargs):
         part_details["short_name"] = ""
         default_current =  copy.deepcopy(part_details)
         
-        sizes = ["26_gauge_6_mm_depth"]
+        sizes = ["56_size_26_gauge_6_mm_depth"]
 
         for size in sizes:
             part_details = copy.deepcopy(default_current)
