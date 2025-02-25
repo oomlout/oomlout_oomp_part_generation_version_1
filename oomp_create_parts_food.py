@@ -531,83 +531,95 @@ def load_parts(**kwargs):
         parts.append(part_details)
 
         # pasta
-        part_details = copy.deepcopy(current_default)
-        part_details["size"] = "pasta"
-        part_details["color"] = "penne"
-        part_details["description"] = "pasta_penne"
-        part_details["name_short"] = "Pasta Penne"
-        parts.append(part_details)
+        if True:
+            part_details = copy.deepcopy(current_default)
+            part_details["size"] = "pasta"
+            part_details["color"] = "penne"
+            part_details["description"] = "pasta_penne"
+            part_details["name_short"] = "Pasta Penne"
+            parts.append(part_details)
 
-        part_details = copy.deepcopy(current_default)
-        part_details["size"] = "pasta"
-        part_details["color"] = "macaroni"
-        part_details["description"] = "pasta_macaroni"
-        part_details["name_short"] = "Pasta Macaroni"
-        parts.append(part_details)
+            part_details = copy.deepcopy(current_default)
+            part_details["size"] = "pasta"
+            part_details["color"] = "macaroni"
+            part_details["description"] = "pasta_macaroni"
+            part_details["name_short"] = "Pasta Macaroni"
+            parts.append(part_details)
 
-        part_details = copy.deepcopy(current_default)
-        part_details["size"] = "pasta"
-        part_details["color"] = "spaghetti"
-        part_details["description"] = "pasta_spaghetti"
-        part_details["name_short"] = "Pasta Spaghetti"
-        parts.append(part_details)
+            part_details = copy.deepcopy(current_default)
+            part_details["size"] = "pasta"
+            part_details["color"] = "spaghetti"
+            part_details["description"] = "pasta_spaghetti"
+            part_details["name_short"] = "Pasta Spaghetti"
+            parts.append(part_details)
 
-        spaghetti_default = copy.deepcopy(part_details)
+            spaghetti_default = copy.deepcopy(part_details)
 
-        part_details = copy.deepcopy(spaghetti_default)
-        part_details["description_extra"] = "box_500_gram"
-        part_details["manufacturer"] = "barilla"
-        part_details["name_short"] = "Pasta Spaghetti Box"
-        parts.append(part_details)
+            part_details = copy.deepcopy(spaghetti_default)
+            part_details["description_extra"] = "box_500_gram"
+            part_details["manufacturer"] = "barilla"
+            part_details["name_short"] = "Pasta Spaghetti Box"
+            parts.append(part_details)
 
-        part_details = copy.deepcopy(current_default)
-        part_details["size"] = "pasta"
-        part_details["color"] = "fusilli"
-        part_details["description"] = "pasta_fusilli"
-        part_details["name_short"] = "Pasta Fusilli"
-        parts.append(part_details)
+            part_details = copy.deepcopy(current_default)
+            part_details["size"] = "pasta"
+            part_details["color"] = "fusilli"
+            part_details["description"] = "pasta_fusilli"
+            part_details["name_short"] = "Pasta Fusilli"
+            parts.append(part_details)
 
-        fusilli_default = copy.deepcopy(part_details)
+            fusilli_default = copy.deepcopy(part_details)
 
-        part_details = copy.deepcopy(fusilli_default)
-        part_details["description_extra"] = "box_500_gram"
-        part_details["manufacturer"] = "barilla"
-        parts.append(part_details)
-        
+            part_details = copy.deepcopy(fusilli_default)
+            part_details["description_extra"] = "box_500_gram"
+            part_details["manufacturer"] = "barilla"
+            parts.append(part_details)
+            
 
 
         # rice
-        rices = []
-        rices.append("basmati")
-        rices.append("brown_short_grain")
-        rices.append("dong_bei")
-        rices.append("baldo")
-        rices.append("arborio")
-        rices.append("sushi")
-        rices.append("long_grain")
-        rices.append("wild")
-        rices.append("long_grain_quick_cook")
+        if True:
+            rices = []
+            rices.append("basmati")
+            rices.append("brown_short_grain")
+            rices.append("dong_bei")
+            rices.append("baldo")
+            rices.append("arborio")
+            rices.append("sushi")
+            rices.append("long_grain")
+            rices.append("wild")
+            rices.append("long_grain_quick_cook")
 
 
-        for rice in rices:
+            for rice in rices:
+                part_details = copy.deepcopy(current_default)
+                part_details["size"] = "rice"
+                part_details["color"] = rice
+                part_details["description"] = f"rice_{rice}"
+                part_details["name_short"] = f"Rice {rice}"
+                parts.append(part_details)
+
+        # pearl_barley
+        if True:
             part_details = copy.deepcopy(current_default)
-            part_details["size"] = "rice"
-            part_details["color"] = rice
-            part_details["description"] = f"rice_{rice}"
-            part_details["name_short"] = f"Rice {rice}"
+            part_details["size"] = "pearl_barley"
+            part_details["color"] = ""
+            part_details["description"] = "pearl_barley"
+            part_details["name_short"] = "Pearl Barley"
             parts.append(part_details)
 
         # noodles
-        noodles = []
-        noodles.append("ramen")
+        if True:
+            noodles = []
+            noodles.append("ramen")
 
-        for noodle in noodles:
-            part_details = copy.deepcopy(current_default)
-            part_details["size"] = "noodle"
-            part_details["color"] = noodle
-            part_details["description"] = f"noodle_{noodle}"
-            part_details["name_short"] = f"Noodle {noodle}"
-            parts.append(part_details)
+            for noodle in noodles:
+                part_details = copy.deepcopy(current_default)
+                part_details["size"] = "noodle"
+                part_details["color"] = noodle
+                part_details["description"] = f"noodle_{noodle}"
+                part_details["name_short"] = f"Noodle {noodle}"
+                parts.append(part_details)
 
 
         #popcorn

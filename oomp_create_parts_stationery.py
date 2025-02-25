@@ -223,6 +223,20 @@ def load_parts(**kwargs):
         part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_part_number_amazon']}"
         parts.append(part_details)
 
+    #notebook
+    if True:
+        sizes = ["A4","A5","A6"]
+        
+        part_details = copy.deepcopy(default_empty)
+        part_details["type"] = "notebook"
+        
+        default_current = copy.deepcopy(part_details)
+
+        for size in sizes:
+            part_details = copy.deepcopy(default_current)
+            part_details["size"] = size
+            parts.append(part_details)
+
     #pen
     if True:
         part_details = copy.deepcopy(default_empty)        
@@ -318,6 +332,28 @@ def load_parts(**kwargs):
         part_details["distributor_part_number_amazon"] = "B00000J0S3"
         part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_part_number_amazon']}"
         parts.append(part_details)
+
+    #staples
+    if True:
+        part_details = {}
+        part_details["classification"] = "stationery"
+        part_details["type"] = "staples"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""
+        default_current =  copy.deepcopy(part_details)
+        
+        sizes = ["26_gauge_6_mm_depth"]
+
+        for size in sizes:
+            part_details = copy.deepcopy(default_current)
+            part_details["size"] = size
+            part_details["description_main"] = "basic"
+            parts.append(part_details)
 
     oomp.add_parts(parts, make_files=make_files)
     
