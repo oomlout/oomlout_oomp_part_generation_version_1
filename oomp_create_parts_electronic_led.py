@@ -1,4 +1,5 @@
 import oomp
+import copy
 
 def load_parts(**kwargs):
     make_files = kwargs.get("make_files", True)
@@ -7,7 +8,108 @@ def load_parts(**kwargs):
     
     parts = []
 
+    parts = load_parts_old(parts)    
+
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "led"
+    part_details["size"] = ""
+    part_details["color"] = ""
+    part_details["description_main"] = ""
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+
+    default_empty = copy.deepcopy(part_details)
+
+    #filament
+    if True:
+        colours = []
+        colours.append("warm_white")
+        colours.append("red")
+        colours.append("green")
+        colours.append("blue")
+        colours.append("yellow")
+        colours.append("pink")
+
+        lengths = []
+        lengths.append("38_mm")
+        lengths.append("60_mm")
+        lengths.append("80_mm")
+        lengths.append("95_mm")
+        lengths.append("130_mm")
+        lengths.append("145_mm")
+        lengths.append("185_mm")
+        lengths.append("260_mm")
+        lengths.append("300_mm")
+
+        for colour in colours:
+            for length in lengths:
+                part_details = copy.deepcopy(default_empty)
+                part_details["type"] = "led"
+                part_details["size"] = "filament_3_volt"
+                part_details["color"] = colour
+                part_details["description_main"] = f"{length}_length"
+                part_details["part_number_distriubutor_adafruit"] = "5509"
+                part_details["link_distributor_adafruit"] = f"https://www.adafruit.com/product/{part_details['part_number_distriubutor_adafruit']}"
+                part_details["part_number_distriubutor_aliexpress"] = "1005006222719149"
+                part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['part_number_distriubutor_aliexpress']}.html"
+                parts.append(part_details)
+
+
+    #strip
+    if True:
+        voltages = []
+        voltages.append("5_volt")
+        voltages.append("12_volt")
+        voltages.append("24_volt")
+
+        widths = []
+        widths.append("3_mm")
+        widths.append("5_mm")
+        widths.append("8_mm")
+
+        colours = []
+        colours.append("warm_white")
+        colours.append("red")
+        colours.append("green")
+        colours.append("blue")
+        colours.append("yellow")
+        colours.append("pink")
+
+        lengths = []
+        lengths.append("500_mm")
+        lengths.append("1000_mm")
+        lengths.append("2000_mm")
+        lengths.append("3000_mm")
+        lengths.append("5000_mm")
+
+        description_extras = []
+        description_extras.append("320_leds_per_meter")
+        description_extras.append("")
+
+        for voltage in voltages:
+            for width in widths:
+                for colour in colours:
+                    for length in lengths:
+                        for description_extra in description_extras:
+                            part_details = copy.deepcopy(default_empty)
+                            part_details["type"] = "led"
+                            part_details["size"] = f"strip_{voltage}_{width}_width"
+                            part_details["color"] = colour
+                            part_details["description_main"] = f"{length}_length"
+                            part_details["description_extra"] = description_extra
+                            part_details["part_number_distriubutor_aliexpress"] = "1005007532172895"
+                            part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['part_number_distriubutor_aliexpress']}.html"
+                            parts.append(part_details)
+
+
+
+
+    oomp.add_parts(parts, **kwargs)
     
+def load_parts_old(parts):
+
 
     #define a part 
     part_details = {}
@@ -63,5 +165,4 @@ def load_parts(**kwargs):
     pins["pin_4"] = ({"name": "din", "number": "4", "type": "signal"})
     part_details["pins"] = pins
 
-    oomp.add_parts(parts, **kwargs)
-    
+    return parts

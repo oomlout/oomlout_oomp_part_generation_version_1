@@ -43,6 +43,8 @@ part_types.append("industrial")
 
 part_types.append("electrical")
 
+part_types.append("electronic_consumer") 
+
 part_types.append("electronic_battery")
 part_types.append("electronic_battery_box")
 part_types.append("electronic_breakout_board")

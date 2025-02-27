@@ -52,12 +52,10 @@ def load_parts(**kwargs):
         tesco_update["description_extra"] = "42_mm_width_42_mm_height_100_mm_depth_bottle"
         updates.append(tesco_update)
 
+        #plain
+        plain_update = {}
+        updates.append(plain_update)
         
-        
-
-
-
-
         spices = []
         spices.append("empty")        
         spices.append("allspice_ground")
@@ -99,7 +97,8 @@ def load_parts(**kwargs):
         herbs.append("garlic_powder")
         herbs.append("marjoram")
         herbs.append("mint")
-        herbs.append("onion_granules")
+        herbs.append("onion_granules")        
+        herbs.append("onion_powder")
         herbs.append("oregano")
         herbs.append("parsley")
         herbs.append("rosemary")

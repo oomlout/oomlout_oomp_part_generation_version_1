@@ -52,30 +52,58 @@ def load_parts(**kwargs):
     
     # diy tool
     if True:
-        #   drill
+        #   drill and imact driver
         if True:
             #       dewalt
-            part_details = {}
-            part_details["classification"] = "tool"
-            part_details["type"] = "drill_hammer"
-            part_details["size"] = ["18_volt_dewalt_tower"]
-            part_details["color"] = [""]
-            part_details["description_main"] = [""]
-            part_details["description_extra"] = [""]
-            part_details["manufacturer"] = "dewalt"
-            part_details["part_number"] = "dc988"
-            parts.append(part_details)
+            if True:
+                #drill_hammer
+                part_details = {}
+                part_details["classification"] = "tool"
+                part_details["type"] = "drill_hammer"
+                part_details["size"] = ["18_volt_dewalt_tower"]
+                part_details["color"] = [""]
+                part_details["description_main"] = [""]
+                part_details["description_extra"] = [""]
+                part_details["manufacturer"] = "dewalt"
+                part_details["part_number"] = "dc988"
+                parts.append(part_details)
+            
+                part_details = copy.deepcopy(default_empty)
+                part_details["type"] = "drill_hammer"
+                part_details["size"] = "18_volt_dewalt_xr"
+                part_details["manufacturer"] = "dewalt"
+                part_details["part_number"] = "dcd778"
+                part_details["part_number_distributor_amazon"] = "B07YSH4N1H"
+                part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/gp/product/{part_details['part_number_distributor_amazon']}"
+                part_details["link_distributor_dewalt"] = f"https://www.dewalt.co.uk/product/dcd778l2t-qw/18v-xr-brushless-hammer-drill-driver-2-x-4-ah?tid="
+                parts.append(part_details)
+
+                #imapact_driver
+                part_details = copy.deepcopy(default_empty)
+                part_details["type"] = "impact_driver"
+                part_details["size"] = "18_volt_dewalt_xr"
+                part_details["manufacturer"] = "dewalt"
+                part_details["part_number"] = "dcf787"
+                part_details["part_number_distributor_amazon"] = "B08S3RVHT8"
+                part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/gp/product/{part_details['part_number_distributor_amazon']}"
+                part_details["link_distributor_dewalt"] = f"https://www.dewalt.co.uk/product/dcf787n-xj/18v-xr-brushless-impact-driver-bare-unit"
+
+                
+                parts.append(part_details)
+
+
             #       ryobi
-            part_details = {}
-            part_details["classification"] = "tool"
-            part_details["type"] = "drill_hammer"
-            part_details["size"] = ["18_volt_ryobi_one"]
-            part_details["color"] = [""]
-            part_details["description_main"] = [""]
-            part_details["description_extra"] = [""]
-            part_details["manufacturer"] = "ryobi"
-            part_details["part_number"] = "r18pd3"
-            parts.append(part_details)
+            if True:            
+                part_details = {}
+                part_details["classification"] = "tool"
+                part_details["type"] = "drill_hammer"
+                part_details["size"] = ["18_volt_ryobi_one"]
+                part_details["color"] = [""]
+                part_details["description_main"] = [""]
+                part_details["description_extra"] = [""]
+                part_details["manufacturer"] = "ryobi"
+                part_details["part_number"] = "r18pd3"
+                parts.append(part_details)
 
         # level
         if True:

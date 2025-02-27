@@ -1,0 +1,90 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: cloves
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: cloves
+description_main_capital: Cloves
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CLOVES
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_spice_cloves
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_spice_cloves
+id_no_class: seasoning_spice_cloves
+id_no_size: cloves
+id_no_type: spice_cloves
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_cloves
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_cloves
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_cloves
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_spice_cloves](none)<br>[](none)<br>[Food Seasoning
+    Spice Cloves](none)<br><br>'
+markdown_short: '[food_seasoning_spice_cloves](none)<br><br>'
+md5: af98224aace089e17c47465026baea16
+md5_10: af98224aac
+md5_10_upper: AF98224AAC
+md5_5: af982
+md5_5_upper: AF982
+md5_6: af9822
+md5_6_alpha: 6unfm
+md5_6_alpha_upper: 6UNFM
+md5_6_upper: AF9822
+name: Food Seasoning Spice Cloves
+name_no_class: Seasoning Spice Cloves
+name_no_size: Cloves
+name_no_size_short: Cloves
+name_no_type: Spice Cloves
+name_short: Cloves
+oomp_key: oomp_food_seasoning_spice_cloves
+oomp_word: tophat tennis lips
+oomp_word_emoji: ':tophat: :tennis: :lips:'
+oomp_word_emoji_list:
+- ':tophat:'
+- ':tennis:'
+- ':lips:'
+oomp_word_list:
+- tophat
+- tennis
+- lips
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: spice
+size_capital: Spice
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPICE
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING
