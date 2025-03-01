@@ -1,0 +1,95 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_oomp_source_electronic_breakout_board_sensor_accelerometer_bosch_bma400_micro_sparkfun_sen_
+color_capital: 'Oomlout Oomp Source Electronic Breakout Board Sensor Accelerometer
+    Bosch Bma400 Micro Sparkfun Sen '
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_OOMP_SOURCE_ELECTRONIC_BREAKOUT_BOARD_SENSOR_ACCELEROMETER_BOSCH_BMA400_MICRO_SPARKFUN_SEN_
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_oomp_source_electronic_breakout_board_sensor_accelerometer_bosch_bma400_micro_sparkfun_sen_
+distributors: []
+filter: ''
+from_yaml: false
+id: project_github_oomlout_oomlout_oomp_source_electronic_breakout_board_sensor_accelerometer_bosch_bma400_micro_sparkfun_sen_
+id_no_class: github_oomlout_oomlout_oomp_source_electronic_breakout_board_sensor_accelerometer_bosch_bma400_micro_sparkfun_sen_
+id_no_size: oomp_source_electronic_breakout_board_sensor_accelerometer_bosch_bma400_micro_sparkfun_sen_
+id_no_type: oomlout_oomlout_oomp_source_electronic_breakout_board_sensor_accelerometer_bosch_bma400_micro_sparkfun_sen_
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_source_electronic_breakout_board_sensor_accelerometer_bosch_bma400_micro_sparkfun_sen_
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_source_electronic_breakout_board_sensor_accelerometer_bosch_bma400_micro_sparkfun_sen_
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_source_electronic_breakout_board_sensor_accelerometer_bosch_bma400_micro_sparkfun_sen_
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oomp_source_electronic_breakout_board_sensor_accelerometer_bosch_bma400_micro_sparkfun_sen_](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Oomp Source Electronic Breakout Board Sensor Accelerometer
+    Bosch Bma400 Micro Sparkfun Sen ](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oomp_source_electronic_breakout_board_sensor_accelerometer_bosch_bma400_micro_sparkfun_sen_](none)<br><br>'
+md5: 99e983e873daba0728399aa11b46897b
+md5_10: 99e983e873
+md5_10_upper: 99E983E873
+md5_5: 99e98
+md5_5_upper: 99E98
+md5_6: 99e983
+md5_6_alpha: 6070j
+md5_6_alpha_upper: 6070J
+md5_6_upper: 99E983
+name: 'Project Github Oomlout Oomlout Oomp Source Electronic Breakout Board Sensor
+    Accelerometer Bosch Bma400 Micro Sparkfun Sen '
+name_no_class: 'Github Oomlout Oomlout Oomp Source Electronic Breakout Board Sensor
+    Accelerometer Bosch Bma400 Micro Sparkfun Sen '
+name_no_size: 'Oomp Source Electronic Breakout Board Sensor Accelerometer Bosch Bma400
+    Micro Sparkfun Sen '
+name_no_size_short: 'Oomp Source Electronic Breakout Board Sensor Accelerometer Bosch
+    Bma400 Micro Sparkfun Sen '
+name_no_type: 'Oomlout Oomlout Oomp Source Electronic Breakout Board Sensor Accelerometer
+    Bosch Bma400 Micro Sparkfun Sen '
+oomp_key: oomp_project_github_oomlout_oomlout_oomp_source_electronic_breakout_board_sensor_accelerometer_bosch_bma400_micro_sparkfun_sen_
+oomp_word: bowling bike lock
+oomp_word_emoji: ':bowling: :bike: :lock:'
+oomp_word_emoji_list:
+- ':bowling:'
+- ':bike:'
+- ':lock:'
+oomp_word_list:
+- bowling
+- bike
+- lock
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

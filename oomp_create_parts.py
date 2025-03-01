@@ -95,6 +95,8 @@ part_types.append("mechanical_wheel")
 
 part_types.append("oobb")
 
+part_types.append("open_hardware")
+
 part_types.append("company_oomlout")
 
 
