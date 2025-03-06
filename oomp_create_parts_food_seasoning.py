@@ -163,6 +163,37 @@ def load_parts(**kwargs):
             part_details["name_short"] = "White Pepper"
             parts.append(part_details)
 
+        #stock
+        if True:
+            part_details = copy.deepcopy(current_default_spice)
+            part_details["size"] = "stock"
+            current_default_stock = copy.deepcopy(part_details)
+
+            #schwartz
+            schwartz_default_stock = copy.deepcopy(current_default_stock)
+            schwartz_default_stock["manufacturer"] = "schwartz"
+            schwartz_default_stock["description_extra"] = "44_mm_diameter_100_mm_height_bottle"  
+
+            #stock
+            stock = []
+            stock.append("beef")
+            stock.append("chicken")
+            stock.append("fish")
+            stock.append("vegetable")
+
+            description_extras = []
+            description_extras.append("oxo_cube")
+            description_extras.append("oxo_cube_12_pack")
+
+            for st in stock:
+                for de in description_extras:
+                    part_details = copy.deepcopy(schwartz_default_stock)
+                    part_details["description_main"] = st
+                    part_details["description_extra"] = de
+                    part_details["description"] = st
+                    part_details["name_short"] = st.title()
+                    parts.append(part_details)
+            
 
     oomp.add_parts(parts, **kwargs)
     

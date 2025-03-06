@@ -665,7 +665,27 @@ def load_parts(**kwargs):
         parts.append(part_details)
 
     
+    #garden tools
+    if True:
+        part_details = {}
+        part_details["classification"] = "tool"
+        part_details["type"] = "garden_tool"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        
+        default_current = copy.deepcopy(part_details)
 
+        #secaturs fiskar p91
+        part_details = copy.deepcopy(default_current)
+        part_details["description_main"] = "secateurs_anvil"
+        part_details["manufacturer"] = "fiskars"
+        part_details["part_number"] = "p91"
+        parts.append(part_details)
+        
     
     
 

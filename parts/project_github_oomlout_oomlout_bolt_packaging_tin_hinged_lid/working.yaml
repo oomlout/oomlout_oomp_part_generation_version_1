@@ -1,0 +1,88 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_bolt_packaging_tin_hinged_lid
+color_capital: Oomlout Bolt Packaging Tin Hinged Lid
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_BOLT_PACKAGING_TIN_HINGED_LID
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_bolt_packaging_tin_hinged_lid
+distributors: []
+filter: ''
+from_yaml: false
+id: project_github_oomlout_oomlout_bolt_packaging_tin_hinged_lid
+id_no_class: github_oomlout_oomlout_bolt_packaging_tin_hinged_lid
+id_no_size: bolt_packaging_tin_hinged_lid
+id_no_type: oomlout_oomlout_bolt_packaging_tin_hinged_lid
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_packaging_tin_hinged_lid
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_packaging_tin_hinged_lid
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_packaging_tin_hinged_lid
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_bolt_packaging_tin_hinged_lid](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Bolt Packaging Tin Hinged Lid](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_bolt_packaging_tin_hinged_lid](none)<br><br>'
+md5: 08e6f45e97668498852ad0c351f61d3f
+md5_10: 08e6f45e97
+md5_10_upper: 08E6F45E97
+md5_5: 08e6f
+md5_5_upper: 08E6F
+md5_6: 08e6f4
+md5_6_alpha: ci5w
+md5_6_alpha_upper: CI5W
+md5_6_upper: 08E6F4
+name: Project Github Oomlout Oomlout Bolt Packaging Tin Hinged Lid
+name_no_class: Github Oomlout Oomlout Bolt Packaging Tin Hinged Lid
+name_no_size: Bolt Packaging Tin Hinged Lid
+name_no_size_short: Bolt Packaging Tin Hinged Lid
+name_no_type: Oomlout Oomlout Bolt Packaging Tin Hinged Lid
+oomp_key: oomp_project_github_oomlout_oomlout_bolt_packaging_tin_hinged_lid
+oomp_word: scream airplane three
+oomp_word_emoji: ':scream: :airplane: :three:'
+oomp_word_emoji_list:
+- ':scream:'
+- ':airplane:'
+- ':three:'
+oomp_word_list:
+- scream
+- airplane
+- three
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

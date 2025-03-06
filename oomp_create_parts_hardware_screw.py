@@ -365,36 +365,124 @@ def load_parts(**kwargs):
 
     #add screwtite screws
     if True:
+
+        screws = []
+        screw ={}
+        #personal faves
+        
+        screw = {"diameter":3.5, "length":16, "part_number":"419FY", "pack_count":200}
+        screw = {"diameter":3.5, "length":20, "part_number":"710FY", "pack_count":200}
+        screw = {"diameter":3.5, "length":30, "part_number":"488FY", "pack_count":200}
+        screw = {"diameter":3.5, "length":50, "part_number":"726FY", "pack_count":200}
+        screw = {"diameter":5, "length":90, "part_number":"800FY", "pack_count":100}
+        screw = {"diameter":5, "length":100, "part_number":"486FY", "pack_count":100}
+        
+
+        #trade pack
+        screw = {"diameter":3.5, "length":25, "part_number":"310FY", "pack_count":200}  
+        screw = {"diameter":4, "length":30, "part_number":"284FY", "pack_count":200}      
+        screw = {"diameter":4, "length":40, "part_number":"330FY", "pack_count":200}
+        screw = {"diameter":4, "length":50, "part_number":"127FY", "pack_count":200}
+        screw = {"diameter":4, "length":60, "part_number":"258FY", "pack_count":100}
+        screw = {"diameter":4, "length":70, "part_number":"131FY", "pack_count":100}
+        screw = {"diameter":5, "length":80, "part_number":"426FY", "pack_count":100}
+        #screw = {"diameter":5, "length":100, "part_number":"486FY"}
+
+        #trade case
+        #screw = {"diameter":3.5, "length":30, "part_number":"488FY"}
+        #screw = {"diameter":4, "length":40, "part_number":"330FY", "pack_count":200}        
+        #screw = {"diameter":4, "length":50, "part_number":"127FY", "pack_count":200}
+        #screw = {"diameter":4, "length":60, "part_number":"258FY", "pack_count":100}
+        #screw = {"diameter":4, "length":70, "part_number":"131FY", "pack_count":100}
+        screw = {"diameter":5, "length":50, "part_number":"", "pack_count":200}
+        screw = {"diameter":5, "length":70, "part_number":"", "pack_count":200}
+        #screw = {"diameter":5, "length":80, "part_number":"426FY", "pack_count":100}
+        #screw = {"diameter":5, "length":100, "part_number":"486FY"}
+
+
+
+
+
+        default_current = copy.deepcopy(default_empty)
+        default_current["type"] = "screw_wood"
+        #default_current["descripion_extra"] = "pozidrive_head"
+        default_current["manufacturer"] = "screw_tite_two"
+
+
+
+        for screw in screws:
+            description_extras = []
+            description_extras.append("")
+            pack_count = screw["pack_count"]
+            description_extras.append(f"{pack_count}_pack")
+            for description_extra in description_extras:
+                diameter = str(screw["diameter"]).replace(".","_")
+                length = screw["length"]
+                part_number = screw["part_number"]
+                part_details = copy.deepcopy(default_current)
+                part_details["description_main"] = f"{diameter}_mm_diameter_{length}_mm_length_pozidrive_head"
+                part_details["description_extra"] = description_extra
+                part_details["part_number"] = part_number
+                parts.append(part_details)
+
+        #trade pack
         part_details = {}
         part_details["classification"] = "hardware"
         part_details["type"] = "screw_wood"
         part_details["size"] = [""]
         part_details["color"] = [""]
-        part_details["description_main"] = "3_5_mm_diameter_50_mm_length"
+        part_details["description_main"] = "trade_pack_1200_pieces"
         part_details["description_extra"] = "pozidrive_head"
         part_details["manufacturer"] = "screw_tite_two"
-        part_details["part_number"] = "726FY"
+        part_details["part_number"] = "547FY"
         part_details["short_name"] = ""
         parts.append(part_details)
 
-        screwtire_base = copy.deepcopy(part_details)
-
-        part_details = copy.deepcopy(screwtire_base)
-        part_details["description_main"] = "3_5_mm_diameter_30_mm_length"
-        part_details["part_number"] = "488FY"
+        #trade case
+        part_details = {}
+        part_details["classification"] = "hardware"
+        part_details["type"] = "screw_wood"
+        part_details["size"] = [""]
+        part_details["color"] = [""]
+        part_details["description_main"] = "trade_case_1200_pieces"
+        part_details["description_extra"] = "pozidrive_head"
+        part_details["manufacturer"] = "screw_tite_two"
+        part_details["part_number"] = "712KR"
+        part_details["short_name"] = ""
         parts.append(part_details)
 
-        #5mm x 100 mm
-        part_details = copy.deepcopy(screwtire_base)
-        part_details["description_main"] = "5_mm_diameter_100_mm_length"
-        part_details["part_number"] = "486FY"
-        parts.append(part_details)
+        old = False
+        if False:
+            part_details = {}
+            part_details["classification"] = "hardware"
+            part_details["type"] = "screw_wood"
+            part_details["size"] = [""]
+            part_details["color"] = [""]
+            part_details["description_main"] = "3_5_mm_diameter_50_mm_length"
+            part_details["description_extra"] = "pozidrive_head"
+            part_details["manufacturer"] = "screw_tite_two"
+            part_details["part_number"] = "726FY"
+            part_details["short_name"] = ""
+            parts.append(part_details)
 
-        # 5 mm 90 mm
-        part_details = copy.deepcopy(screwtire_base)
-        part_details["description_main"] = "5_mm_diameter_90_mm_length"
-        part_details["part_number"] = "800FY"
-        parts.append(part_details)
+            screwtire_base = copy.deepcopy(part_details)
+
+            part_details = copy.deepcopy(screwtire_base)
+            part_details["description_main"] = "3_5_mm_diameter_30_mm_length"
+            part_details["part_number"] = "488FY"
+            parts.append(part_details)
+
+            #5mm x 100 mm
+            part_details = copy.deepcopy(screwtire_base)
+            part_details["description_main"] = "5_mm_diameter_100_mm_length"
+            part_details["part_number"] = "486FY"
+            parts.append(part_details)
+
+            # 5 mm 90 mm
+            part_details = copy.deepcopy(screwtire_base)
+            part_details["description_main"] = "5_mm_diameter_90_mm_length"
+            part_details["part_number"] = "800FY"
+            parts.append(part_details)
 
 
 

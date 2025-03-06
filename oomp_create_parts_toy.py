@@ -133,6 +133,23 @@ def load_parts(**kwargs):
         part_details["description_main"] = "mixed"
         parts.append(part_details)
 
+    #games
+    if True:
+        part_details = copy.deepcopy(default_empty)
+        part_details["type"] = "game"
+
+        default_current = copy.deepcopy(part_details)
+
+        #board
+        part_details = copy.deepcopy(default_current)
+        part_details["description_main"] = "board_game_mixed"
+        parts.append(part_details)
+
+        #dominoes
+        part_details = copy.deepcopy(default_current)
+        part_details["description_main"] = "dominoes_mixed"
+        parts.append(part_details)
+
     #gem and rock and mineral
     if True:
         part_details = {}
@@ -172,6 +189,19 @@ def load_parts(**kwargs):
         part_details = copy.deepcopy(default_current)
         part_details["description_main"] = "party_bag_toy_mixed"
 
+        parts.append(part_details)
+
+    #puzzle
+    if True:
+        part_details = copy.deepcopy(default_empty)
+        part_details["type"] = "puzzle"
+
+        default_current = copy.deepcopy(part_details)
+
+        #jigsaw
+        part_details = copy.deepcopy(default_current)
+        part_details["size"] = "jigsaw"
+        part_details["description_main"] = "mixed"
         parts.append(part_details)
 
     #remote_control
