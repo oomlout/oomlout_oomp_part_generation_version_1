@@ -355,5 +355,13 @@ def load_parts(**kwargs):
             part_details["description_main"] = "basic"
             parts.append(part_details)
 
+    #tape
+    if True:
+        part_details = copy.deepcopy(default_empty)
+        part_details["type"] = "tape"
+        part_details["description_main"] = "mixed"
+        default_current =  copy.deepcopy(part_details)
+        parts.append(part_details)
+        
     oomp.add_parts(parts, make_files=make_files)
     

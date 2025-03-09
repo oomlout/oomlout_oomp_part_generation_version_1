@@ -1,4 +1,5 @@
 import oomp
+import copy
 
 def load_parts(**kwargs):
     make_files = kwargs.get("make_files", True)
@@ -23,7 +24,7 @@ def load_parts(**kwargs):
 
     #tin_cans
     if True:
-        part_details = {}        
+        part_details = copy.deepcopy(default_empty)        
         part_details["type"] = "tin_can"
         part_details["size"] = "diameter_75_mm_height_109_mm_400_ml"
         parts.append(part_details)

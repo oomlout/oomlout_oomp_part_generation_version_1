@@ -1,0 +1,92 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 700_mm_width_105_mm_height_90_mm_depth
+description_main_capital: 700 mm Width 105 mm Height 90 mm Depth
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 700_MM_WIDTH_105_MM_HEIGHT_90_MM_DEPTH
+description_only_numbers: '70010590'
+description_only_numbers_short: 7M
+description_or_color: 7M
+description_or_color_upper: 7M
+directory: parts/computer_video_conferencing_camera_and_speaker_700_mm_width_105_mm_height_90_mm_depth_cisco_room_kit_mini
+distributors: []
+filter: ''
+from_yaml: false
+id: computer_video_conferencing_camera_and_speaker_700_mm_width_105_mm_height_90_mm_depth_cisco_room_kit_mini
+id_no_class: video_conferencing_camera_and_speaker_700_mm_width_105_mm_height_90_mm_depth_cisco_room_kit_mini
+id_no_size: 700_mm_width_105_mm_height_90_mm_depth_cisco_room_kit_mini
+id_no_type: camera_and_speaker_700_mm_width_105_mm_height_90_mm_depth_cisco_room_kit_mini
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_700_mm_width_105_mm_height_90_mm_depth_cisco_room_kit_mini
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_700_mm_width_105_mm_height_90_mm_depth_cisco_room_kit_mini
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_700_mm_width_105_mm_height_90_mm_depth_cisco_room_kit_mini
+manufacturer: cisco
+manufacturer_capital: Cisco
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CISCO
+manufacturers: []
+markdown_full: '[computer_video_conferencing_camera_and_speaker_700_mm_width_105_mm_height_90_mm_depth_cisco_room_kit_mini](none)<br>[](none)<br>[Computer
+    Video Conferencing Camera And Speaker 700 Mm Width 105 Mm Height 90 Mm Depth Cisco
+    Room Kit Mini](none)<br><br>'
+markdown_short: '[computer_video_conferencing_camera_and_speaker_700_mm_width_105_mm_height_90_mm_depth_cisco_room_kit_mini](none)<br><br>'
+md5: e5d85b5a0ad9b0293c304475066906b1
+md5_10: e5d85b5a0a
+md5_10_upper: E5D85B5A0A
+md5_5: e5d85
+md5_5_upper: E5D85
+md5_6: e5d85b
+md5_6_alpha: 8yusb
+md5_6_alpha_upper: 8YUSB
+md5_6_upper: E5D85B
+name: Computer Video Conferencing Camera And Speaker 700 Mm Width 105 Mm Height 90
+    Mm Depth Cisco Room Kit Mini
+name_no_class: Video Conferencing Camera And Speaker 700 Mm Width 105 Mm Height 90
+    Mm Depth Cisco Room Kit Mini
+name_no_size: 700 Mm Width 105 Mm Height 90 Mm Depth Cisco Room Kit Mini
+name_no_size_short: 700 Mm Width 105 Mm Height 90 Mm Depth Cisco Room Kit Mini
+name_no_type: Camera And Speaker 700 Mm Width 105 Mm Height 90 Mm Depth Cisco Room
+    Kit Mini
+oomp_key: oomp_computer_video_conferencing_camera_and_speaker_700_mm_width_105_mm_height_90_mm_depth_cisco_room_kit_mini
+oomp_word: rocket hospital rooster
+oomp_word_emoji: ':rocket: :hospital: :rooster:'
+oomp_word_emoji_list:
+- ':rocket:'
+- ':hospital:'
+- ':rooster:'
+oomp_word_list:
+- rocket
+- hospital
+- rooster
+part_number: room_kit_mini
+part_number_capital: Room Kit Mini
+part_number_first_letter: r
+part_number_first_letter_upper: R
+part_number_upper: ROOM_KIT_MINI
+short_code: ''
+short_code_upper: ''
+size: camera_and_speaker
+size_capital: Camera And Speaker
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CAMERA_AND_SPEAKER
+type: video_conferencing
+type_capital: Video Conferencing
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VIDEO_CONFERENCING
