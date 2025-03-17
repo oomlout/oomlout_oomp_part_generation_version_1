@@ -10,7 +10,7 @@ def load_parts(**kwargs):
     part_details["classification"] = "hardware"
     part_details["type"] = "screw_wood"
     part_details["size"] = ""
-    part_details["color"] = "black"
+    part_details["color"] = ""
     part_details["description_main"] = ""
     part_details["description_extra"] = ""
     part_details["manufacturer"] = ""
@@ -370,34 +370,34 @@ def load_parts(**kwargs):
         screw ={}
         #personal faves
         
-        screw = {"diameter":3.5, "length":16, "part_number":"419FY", "pack_count":200}
-        screw = {"diameter":3.5, "length":20, "part_number":"710FY", "pack_count":200}
-        screw = {"diameter":3.5, "length":30, "part_number":"488FY", "pack_count":200}
-        screw = {"diameter":3.5, "length":50, "part_number":"726FY", "pack_count":200}
-        screw = {"diameter":5, "length":90, "part_number":"800FY", "pack_count":100}
-        screw = {"diameter":5, "length":100, "part_number":"486FY", "pack_count":100}
+        screws.append({"diameter":3.5, "length":16, "part_number":"419FY", "pack_count":200})
+        screws.append({"diameter":3.5, "length":20, "part_number":"710FY", "pack_count":200})
+        screws.append({"diameter":3.5, "length":30, "part_number":"488FY", "pack_count":200})
+        screws.append({"diameter":3.5, "length":50, "part_number":"726FY", "pack_count":200})
+        screws.append({"diameter":5, "length":90, "part_number":"800FY", "pack_count":100})
+        screws.append({"diameter":5, "length":100, "part_number":"486FY", "pack_count":100})
         
 
         #trade pack
-        screw = {"diameter":3.5, "length":25, "part_number":"310FY", "pack_count":200}  
-        screw = {"diameter":4, "length":30, "part_number":"284FY", "pack_count":200}      
-        screw = {"diameter":4, "length":40, "part_number":"330FY", "pack_count":200}
-        screw = {"diameter":4, "length":50, "part_number":"127FY", "pack_count":200}
-        screw = {"diameter":4, "length":60, "part_number":"258FY", "pack_count":100}
-        screw = {"diameter":4, "length":70, "part_number":"131FY", "pack_count":100}
-        screw = {"diameter":5, "length":80, "part_number":"426FY", "pack_count":100}
-        #screw = {"diameter":5, "length":100, "part_number":"486FY"}
+        screws.append({"diameter":3.5, "length":25, "part_number":"310FY", "pack_count":200}  )
+        screws.append({"diameter":4, "length":30, "part_number":"284FY", "pack_count":200} )     
+        screws.append({"diameter":4, "length":40, "part_number":"330FY", "pack_count":200})
+        screws.append({"diameter":4, "length":50, "part_number":"127FY", "pack_count":200})
+        screws.append({"diameter":4, "length":60, "part_number":"258FY", "pack_count":100})
+        screws.append({"diameter":4, "length":70, "part_number":"131FY", "pack_count":100})
+        screws.append({"diameter":5, "length":80, "part_number":"426FY", "pack_count":100})
+        #screws.append({"diameter":5, "length":100, "part_number":"486FY"})
 
         #trade case
-        #screw = {"diameter":3.5, "length":30, "part_number":"488FY"}
-        #screw = {"diameter":4, "length":40, "part_number":"330FY", "pack_count":200}        
-        #screw = {"diameter":4, "length":50, "part_number":"127FY", "pack_count":200}
-        #screw = {"diameter":4, "length":60, "part_number":"258FY", "pack_count":100}
-        #screw = {"diameter":4, "length":70, "part_number":"131FY", "pack_count":100}
-        screw = {"diameter":5, "length":50, "part_number":"", "pack_count":200}
-        screw = {"diameter":5, "length":70, "part_number":"", "pack_count":200}
-        #screw = {"diameter":5, "length":80, "part_number":"426FY", "pack_count":100}
-        #screw = {"diameter":5, "length":100, "part_number":"486FY"}
+        #screws.append({"diameter":3.5, "length":30, "part_number":"488FY"})
+        #screws.append({"diameter":4, "length":40, "part_number":"330FY", "pack_count":200} )       
+        #screws.append({"diameter":4, "length":50, "part_number":"127FY", "pack_count":200})
+        #screws.append({"diameter":4, "length":60, "part_number":"258FY", "pack_count":100})
+        #screws.append({"diameter":4, "length":70, "part_number":"131FY", "pack_count":100})
+        screws.append({"diameter":5, "length":50, "part_number":"", "pack_count":200})
+        screws.append({"diameter":5, "length":70, "part_number":"", "pack_count":200})
+        #screws.append({"diameter":5, "length":80, "part_number":"426FY", "pack_count":100})
+        #screws.append({"diameter":5, "length":100, "part_number":"486FY"})
 
 
 
@@ -405,7 +405,7 @@ def load_parts(**kwargs):
 
         default_current = copy.deepcopy(default_empty)
         default_current["type"] = "screw_wood"
-        #default_current["descripion_extra"] = "pozidrive_head"
+        default_current["descripion_extra"] = "pozidrive_head"
         default_current["manufacturer"] = "screw_tite_two"
 
 

@@ -47,11 +47,11 @@ if __name__ == "__main__":
     #filter = ["category","ikea"]
     #filter = "decorating"
     #filter = "electrical"
-    filter = "electronic_consumer"
+    #filter = "electronic_consumer"
     #filter = "exercise_equipment"
     #filter = "food"
     #filter = "ikea"
-    #filter = "hardware_screw"
+    filter = "hardware_screw"
     #filter = "household"
     #filter = "mechanical"    
     #filter = "oobb"
@@ -72,6 +72,7 @@ if __name__ == "__main__":
     #filter = "three_d_printer"
     #filter = "tool"
     #filter = "toy"
+    #filter = "video_game_console"
     #filter = "warehouse"
     #filter = "wood"
 

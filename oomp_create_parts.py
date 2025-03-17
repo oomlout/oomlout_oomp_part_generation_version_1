@@ -84,6 +84,8 @@ part_types.append("furniture_ikea")
 
 part_types.append("garden")
 
+part_types.append("headphone")
+
 part_types.append("household")
 
 part_types.append("mechanical_coupler")
@@ -127,10 +129,13 @@ part_types.append("three_d_printer")
 part_types.append("three_d_printer_filament")
 part_types.append("three_d_printer_printer")
 
+part_types.append("video_game_console")
 
 part_types.append("tool")
 
 part_types.append("toy")
+
+part_types.append("video_game_console")
 
 part_types.append("warehouse")
 

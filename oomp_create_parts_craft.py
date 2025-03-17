@@ -19,6 +19,7 @@ def load_parts(**kwargs):
     part_details["part_number"] = ""
     part_details["short_name"] = ""
     default_craft =  copy.deepcopy(part_details)
+    default_empty = copy.deepcopy(part_details)
 
 
     #bead
@@ -50,6 +51,25 @@ def load_parts(**kwargs):
         part_details["part_number"] = part_details["part_number_exact"].lower().replace("-","_").replace(" ","_").replace(".","_")
         part_details["distributor_part_number_ikea"] = part_details["part_number_exact"]
         part_details["link_distributor_ikea"] = "https://www.ikea.com/gb/en/p/pyssla-beads-mixed-colours-50128572/"
+        parts.append(part_details)
+
+        #bead loom
+        part_details = copy.deepcopy(default_empty)
+        part_details["type"] = "bead"
+        part_details["size"] = "loom"
+        part_details["description_main"] = ""        
+        parts.append(part_details)
+
+    #loom band
+    if True:
+        part_details = copy.deepcopy(default_empty)
+        part_details["type"] = "loom_band"                
+        
+        default_current = copy.deepcopy(part_details)
+
+        #mixed
+        part_details = copy.deepcopy(default_current)
+        part_details["description_main"] = "mixed"        
         parts.append(part_details)
 
     #paint
