@@ -136,6 +136,7 @@ def load_parts(**kwargs):
 
     #motor_stepper
     if True:
+        #nema_17
         part_details = {}
         part_details["classification"] = "mechanical"
         part_details["type"] = "motor_stepper"
@@ -156,9 +157,15 @@ def load_parts(**kwargs):
             part_details["description_extra"] = description[1]
             parts.append(part_details)
             
+        #42_mm_diameter
+        part_details = copy.deepcopy(default_empty)
+        part_details["type"] = "motor_stepper"
+        part_details["size"] = "42_mm_diameter"
+        part_details["description_main"] = "7_5_degree_step_angle_12_volt"
+        parts.append(part_details)
 
-
-        parts.append(part_details)    
+        
+        
 
     #      tt
     if True:

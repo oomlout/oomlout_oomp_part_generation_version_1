@@ -28,7 +28,8 @@ part_types.append("craft")
 part_types.append("decorating")
 part_types.append("dish")
 
-part_types.append("hardware_aluminium_extrusion")    
+part_types.append("hardware_aluminium_extrusion")  
+part_types.append("hardware_ball_bearing")  
 part_types.append("hardware_bearing")
 part_types.append("hardware_bolt") # also set screw
 part_types.append("hardware_nut")
