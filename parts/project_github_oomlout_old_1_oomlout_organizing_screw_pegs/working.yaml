@@ -1,0 +1,88 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: old_1_oomlout_organizing_screw_pegs
+color_capital: Old 1 Oomlout Organizing Screw Pegs
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OLD_1_OOMLOUT_ORGANIZING_SCREW_PEGS
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_old_1_oomlout_organizing_screw_pegs
+distributors: []
+filter: ''
+from_yaml: false
+id: project_github_oomlout_old_1_oomlout_organizing_screw_pegs
+id_no_class: github_oomlout_old_1_oomlout_organizing_screw_pegs
+id_no_size: old_1_organizing_screw_pegs
+id_no_type: oomlout_old_1_oomlout_organizing_screw_pegs
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_old_1_oomlout_organizing_screw_pegs
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_old_1_oomlout_organizing_screw_pegs
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_old_1_oomlout_organizing_screw_pegs
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_old_1_oomlout_organizing_screw_pegs](none)<br>[](none)<br>[Project
+    Github Oomlout Old 1 Oomlout Organizing Screw Pegs](none)<br><br>'
+markdown_short: '[project_github_oomlout_old_1_oomlout_organizing_screw_pegs](none)<br><br>'
+md5: e6191a1445e6ab78382dfb7380dee304
+md5_10: e6191a1445
+md5_10_upper: E6191A1445
+md5_5: e6191
+md5_5_upper: E6191
+md5_6: e6191a
+md5_6_alpha: 8z7kq
+md5_6_alpha_upper: 8Z7KQ
+md5_6_upper: E6191A
+name: Project Github Oomlout Old 1 Oomlout Organizing Screw Pegs
+name_no_class: Github Oomlout Old 1 Oomlout Organizing Screw Pegs
+name_no_size: Old 1 Organizing Screw Pegs
+name_no_size_short: Old 1 Organizing Screw Pegs
+name_no_type: Oomlout Old 1 Oomlout Organizing Screw Pegs
+oomp_key: oomp_project_github_oomlout_old_1_oomlout_organizing_screw_pegs
+oomp_word: airplane pray clap
+oomp_word_emoji: ':airplane: :pray: :clap:'
+oomp_word_emoji_list:
+- ':airplane:'
+- ':pray:'
+- ':clap:'
+oomp_word_list:
+- airplane
+- pray
+- clap
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB
