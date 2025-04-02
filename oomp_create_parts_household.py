@@ -22,6 +22,19 @@ def load_parts(**kwargs):
         parts.append(part_details)
 
 
+    #camping
+    if True:
+        part_details = {}
+        part_details["classification"] = "household_camping"
+        part_details["type"] = "tent"
+        part_details["size"] = "8_person"
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        parts.append(part_details)
+
     # animal
     if True:
         part_details = {}

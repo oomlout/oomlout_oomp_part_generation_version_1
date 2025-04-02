@@ -22,25 +22,61 @@ def load_parts(**kwargs):
 
     # video conferencing
     if True:
-        part_details = copy.deepcopy(default_empty)
-        part_details["type"] = "video_conferencing"
-        part_details["size"] = "screen"
-        part_details["color"] = ""
-        part_details["description_main"] = "1240_mm_width_830_mm_height_105_mm_depth"
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = "cisco"
-        part_details["part_number"] = "room_55"
-        parts.append(part_details)
+        #webex
+        if True:
+            part_details = copy.deepcopy(default_empty)
+            part_details["type"] = "video_conferencing"
+            part_details["size"] = "screen"
+            part_details["color"] = ""
+            part_details["description_main"] = "1240_mm_width_830_mm_height_105_mm_depth"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "cisco"
+            part_details["part_number"] = "room_55"
+            parts.append(part_details)
 
-        part_details = copy.deepcopy(default_empty)
-        part_details["type"] = "video_conferencing"
-        part_details["size"] = "camera_and_speaker"
-        part_details["color"] = ""
-        part_details["description_main"] = "700_mm_width_105_mm_height_90_mm_depth"
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = "cisco"
-        part_details["part_number"] = "room_kit_mini"
-        parts.append(part_details)
+            part_details = copy.deepcopy(default_empty)
+            part_details["type"] = "video_conferencing"
+            part_details["size"] = "camera_and_speaker"
+            part_details["color"] = ""
+            part_details["description_main"] = "700_mm_width_105_mm_height_90_mm_depth"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "cisco"
+            part_details["part_number"] = "room_kit_mini"
+            parts.append(part_details)
+
+            #dx80
+            part_details = copy.deepcopy(default_empty)
+            part_details["type"] = "video_conferencing"
+            part_details["size"] = "screen"
+            part_details["color"] = ""
+            part_details["description_main"] = "512_mm_width_565_mm_height_89_mm_depth"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "cisco"
+            part_details["part_number"] = "dx80"
+            parts.append(part_details)
+
+        #jam board
+        if True:
+            part_details = copy.deepcopy(default_empty)
+            part_details["type"] = "video_conferencing"
+            part_details["size"] = "screen"
+            part_details["color"] = ""
+            part_details["description_main"] = "1352_mm_width_823_mm_height_88_mm_depth"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "google"
+            part_details["part_number"] = "jamboard"
+            parts.append(part_details)
+
+            #stand
+            part_details = copy.deepcopy(default_empty)
+            part_details["type"] = "video_conferencing"
+            part_details["size"] = "stand"
+            part_details["color"] = ""
+            part_details["description_main"] = "1330_mm_width_1422_mm_height_962_mm_depth"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "google"
+            part_details["part_number"] = "jamboard_stand"
+            parts.append(part_details)
 
 
 
