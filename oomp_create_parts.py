@@ -138,6 +138,7 @@ part_types.append("tool")
 part_types.append("toy")
 
 part_types.append("video_game_console")
+part_types.append("vinyl_cutter")
 
 part_types.append("warehouse")
 

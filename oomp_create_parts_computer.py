@@ -24,24 +24,96 @@ def load_parts(**kwargs):
     if True:
         #webex
         if True:
+            #spark board 55
             part_details = copy.deepcopy(default_empty)
             part_details["type"] = "video_conferencing"
             part_details["size"] = "screen"
             part_details["color"] = ""
-            part_details["description_main"] = "1240_mm_width_830_mm_height_105_mm_depth"
-            part_details["description_extra"] = ""
+            part_details["description_main"] = "spark_board_55"
+            part_details["description_extra"] = "1240_mm_width_830_mm_height_105_mm_depth"
             part_details["manufacturer"] = "cisco"
-            part_details["part_number"] = "room_55"
+            part_details["part_number_exact"] = "SPARK-BOARD55-K9"
+            part_details["part_number"] = part_details["part_number_exact"].lower().replace("-", "_")
+            part_details["link_distributor_cisco"] = "https://www.cisco.com/c/en/us/support/collaboration-endpoints/spark-board/series.html"
             parts.append(part_details)
 
+            
+            #room 55
+            part_details = copy.deepcopy(default_empty)
+            part_details["type"] = "video_conferencing"
+            part_details["size"] = "screen"
+            part_details["color"] = ""
+            part_details["description_main"] = "room_55"
+            part_details["description_extra"] = "1240_mm_width_830_mm_height_105_mm_depth"
+            part_details["manufacturer"] = "cisco"
+            part_details["part_number_exact"] = "CS-ROOM55-K9"
+            part_details["part_number"] = part_details["part_number_exact"].lower().replace("-", "_")
+            part_details["link_distributor_cisco"] = "https://www.cisco.com/c/en/us/support/collaboration-endpoints/spark-room-55/model.html"
+            parts.append(part_details)
+
+            #room 55 stand
+            part_details = copy.deepcopy(default_empty)
+            part_details["type"] = "video_conferencing"
+            part_details["size"] = "screen"
+            part_details["color"] = ""
+            part_details["description_main"] = "room_55_floor_stand"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "cisco"
+            part_details["part_number"] = "CS-ROOM55-FSK="
+            part_details["part_number"] = part_details["part_number"].lower().replace("-", "_").replace("=", "")
+            part_details["link_distributor_cisco"] = "https://www.cisco.com/c/en/us/support/collaboration-endpoints/spark-room-55/model.html"
+            parts.append(part_details)
+
+            #room 55 wall mount
+            part_details = copy.deepcopy(default_empty)
+            part_details["type"] = "video_conferencing"
+            part_details["size"] = "screen"
+            part_details["color"] = ""
+            part_details["description_main"] = "room_55_wall_mount"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "cisco"
+            part_details["part_number"] = "CS-ROOM55-WMK="
+            part_details["part_number"] = part_details["part_number"].lower().replace("-", "_").replace("=", "")
+            part_details["link_distributor_cisco"] = "https://www.cisco.com/c/en/us/support/collaboration-endpoints/spark-room-55/model.html"
+            parts.append(part_details)
+
+            #room kit
             part_details = copy.deepcopy(default_empty)
             part_details["type"] = "video_conferencing"
             part_details["size"] = "camera_and_speaker"
             part_details["color"] = ""
-            part_details["description_main"] = "700_mm_width_105_mm_height_90_mm_depth"
+            part_details["description_main"] = "room_kit"
+            part_details["description_extra"] = "700_mm_width_105_mm_height_90_mm_depth"
+            part_details["manufacturer"] = "cisco"
+            part_details["part_number_exact"] = "CS-KIT-K9"
+            part_details["part_number"] = part_details["part_number_exact"].lower().replace("-", "_")
+            part_details["link_distributor_cisco"] = "https://www.cisco.com/c/en/us/support/collaboration-endpoints/spark-room-kit/model.html"
+            parts.append(part_details)
+
+            #quad_camera
+            part_details = copy.deepcopy(default_empty)
+            part_details["type"] = "video_conferencing"
+            part_details["size"] = "camera_and_speaker"
+            part_details["color"] = ""
+            part_details["description_main"] = "quad_camera"
+            part_details["description_extra"] = "950_mm_width_120_mm_height_103_mm_depth"
+            part_details["manufacturer"] = "cisco"
+            part_details["part_number_exact"] = "TTC8-10"
+            part_details["part_number"] = part_details["part_number_exact"].lower().replace("-", "_")
+            part_details["link_distributor_cisco"] = "https://www.webex.com/us/en/devices/cameras/cisco-quad-camera.html"
+            parts.append(part_details)
+
+            #sx10 
+            part_details = copy.deepcopy(default_empty)
+            part_details["type"] = "video_conferencing"
+            part_details["size"] = "camera"
+            part_details["color"] = ""
+            part_details["description_main"] = "sx10"
             part_details["description_extra"] = ""
             part_details["manufacturer"] = "cisco"
-            part_details["part_number"] = "room_kit_mini"
+            part_details["part_number_exact"] = "TTC7-22"
+            part_details["part_number"] = part_details["part_number_exact"].lower().replace("-", "_")
+            part_details["link_distributor_cisco"] = "https://www.cisco.com/c/en/us/support/collaboration-endpoints/telepresence-sx10-quick-set/model.html"
             parts.append(part_details)
 
             #dx80
@@ -49,10 +121,10 @@ def load_parts(**kwargs):
             part_details["type"] = "video_conferencing"
             part_details["size"] = "screen"
             part_details["color"] = ""
-            part_details["description_main"] = "512_mm_width_565_mm_height_89_mm_depth"
-            part_details["description_extra"] = ""
+            part_details["description_main"] = "dx80"
+            part_details["description_extra"] = "512_mm_width_565_mm_height_89_mm_depth"
             part_details["manufacturer"] = "cisco"
-            part_details["part_number"] = "dx80"
+            part_details["part_number"] = ""
             parts.append(part_details)
 
         #jam board
@@ -61,10 +133,10 @@ def load_parts(**kwargs):
             part_details["type"] = "video_conferencing"
             part_details["size"] = "screen"
             part_details["color"] = ""
-            part_details["description_main"] = "1352_mm_width_823_mm_height_88_mm_depth"
-            part_details["description_extra"] = ""
+            part_details["description_main"] = "jamboard"
+            part_details["description_extra"] = "1352_mm_width_823_mm_height_88_mm_depth"
             part_details["manufacturer"] = "google"
-            part_details["part_number"] = "jamboard"
+            part_details["part_number"] = ""
             parts.append(part_details)
 
             #stand
@@ -72,10 +144,10 @@ def load_parts(**kwargs):
             part_details["type"] = "video_conferencing"
             part_details["size"] = "stand"
             part_details["color"] = ""
-            part_details["description_main"] = "1330_mm_width_1422_mm_height_962_mm_depth"
-            part_details["description_extra"] = ""
+            part_details["description_main"] = "jamboard_stand"
+            part_details["description_extra"] = "1330_mm_width_1422_mm_height_962_mm_depth"
             part_details["manufacturer"] = "google"
-            part_details["part_number"] = "jamboard_stand"
+            part_details["part_number"] = ""
             parts.append(part_details)
 
 
@@ -209,6 +281,19 @@ def load_parts(**kwargs):
         part_details["description_extra"] = ""
         part_details["manufacturer"] = "microsoft"
         part_details["part_number"] = "hd_3000_model_1492"
+        parts.append(part_details)
+
+        part_details = {}
+        part_details["classification"] = "computer"
+        part_details["type"] = "webcam"
+        part_details["size"] = "external"
+        part_details["color"] = ""
+        part_details["description_main"] = "telepresence_precisionhd_usb_camera"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "cisco"
+        part_details["part_number_exact"] = "TTC8-03"
+        part_details["part_number"] = part_details["part_number_exact"].lower().replace("-", "_")
+        part_details["link_distributor_cisco"] = ""
         parts.append(part_details)
 
 

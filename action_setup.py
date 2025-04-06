@@ -43,7 +43,7 @@ if __name__ == "__main__":
     filter = ""
     #filter = "appliance"
     #filter = "bearing"
-    #filter = "computer"
+    filter = "computer"
     #filter = ["category","ikea"]
     #filter = "decorating"
     #filter = "electrical"
@@ -51,7 +51,7 @@ if __name__ == "__main__":
     #filter = "exercise_equipment"
     #filter = "food"
     #filter = "ikea"
-    filter = "hardware_magnet"
+    #filter = "hardware_magnet"
     #filter = "hardware_screw"
     #filter = "hardware_ball_bearing"
     #filter = "household"
@@ -76,6 +76,7 @@ if __name__ == "__main__":
     #filter = "tool"
     #filter = "toy"
     #filter = "video_game_console"
+    #filter = "vinyl_cutter"
     #filter = "warehouse"
     #filter = "wood"
 
