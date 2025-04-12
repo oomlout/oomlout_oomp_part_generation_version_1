@@ -1,4 +1,5 @@
 import oomp
+import copy
 
 def load_parts(**kwargs):
     make_files = kwargs.get("make_files", True)
@@ -15,6 +16,8 @@ def load_parts(**kwargs):
     base["description_extra"] = ""
     base["manufacturer"] = ""
     base["part_number"] = ""    
+
+    default_empty = copy.deepcopy(base)
 
     # a sizes
     
@@ -47,7 +50,7 @@ def load_parts(**kwargs):
     parts.append(part_details)
 
 
-    #a4
+    #a4    
     part_details = base.copy()
     part_details["size"] = "a4_210_mm_width_297_mm_height"
     part_details["width"] = "210 mm"
@@ -56,6 +59,16 @@ def load_parts(**kwargs):
 
     base_a4 = part_details.copy()
 
+    #letter size
+    part_details = base.copy()
+    part_details["size"] = "letter_216_mm_width_279_mm_height"
+    part_details["width"] = "216 mm"
+    part_details["height"] = "279 mm"
+    parts.append(part_details)
+
+    base_letter = part_details.copy()   
+
+    
     # 100 gram bright white
     if True:
         part_details = base_a4.copy()
@@ -120,7 +133,138 @@ def load_parts(**kwargs):
         parts.append(part_details)
 
 
+    #koala brand
+    if True:
+        #glossy
+        if True:
+            #souble sided glossy 120 gsm
+            part_details = base_a4.copy()
+            part_details["description_main"] = "120_grams_per_meter_square"
+            part_details["description_extra"] = "double_sided_glossy_style_inkjet_printer"
+            part_details["manufacturer"] = "koala"        
+            #amazon
+            part_details["distributor_amazon"] = "B07L5MMXD4"
+            part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+            part_details["price_1_distributor_amazon"] = 9.99/100/1.2
+            #current price
+            part_details["price_1"] = part_details["price_1_distributor_amazon"]
+            parts.append(part_details)
 
+            #double sided glossy 180 gram inkjet
+            part_details = base_a4.copy()
+            part_details["description_main"] = "180_grams_per_meter_square"
+            part_details["description_extra"] = "double_sided_glossy_style_inkjet_printer"
+            part_details["manufacturer"] = "koala"
+            #amazon
+            part_details["distributor_amazon"] = "B07L5NSWR8"
+            part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+            part_details["price_1_distributor_amazon"] = 11.99/100/1.2
+            #current price
+            part_details["price_1"] = part_details["price_1_distributor_amazon"]
+            parts.append(part_details)
+
+            #double sided 240 gsm
+            part_details = base_a4.copy()
+            part_details["description_main"] = "240_grams_per_meter_square"
+            part_details["description_extra"] = "double_sided_glossy_style_inkjet_printer"
+            part_details["manufacturer"] = "koala"
+            #amazon
+            part_details["distributor_amazon"] = "B07L5LDZD7"
+            part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+            part_details["price_1_distributor_amazon"] = 13.99/100/1.2
+            #current price
+            part_details["price_1"] = part_details["price_1_distributor_amazon"]
+            parts.append(part_details)
+
+
+        #matte
+        if True:
+            #120 gsm double sided matte
+            part_details = base_a4.copy()
+            part_details["description_main"] = "120_grams_per_meter_square"
+            part_details["description_extra"] = "double_sided_matte_style_laser_printer"
+            part_details["manufacturer"] = "koala"
+            #amazon
+            part_details["distributor_amazon"] = "B07VYKP55S"
+            part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+            part_details["price_1_distributor_amazon"] = 7.99/100/1.2
+            #current price
+            part_details["price_1"] = part_details["price_1_distributor_amazon"]
+            parts.append(part_details)
+
+            #double sided matte 140 gsm inkjet
+            part_details = base_a4.copy()
+            part_details["description_main"] = "140_grams_per_meter_square"
+            part_details["description_extra"] = "double_sided_matte_style_inkjet_printer"
+            part_details["manufacturer"] = "koala"
+            #amazon
+            part_details["distributor_amazon"] = "B07KN4HVQS"
+            part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+            part_details["price_1_distributor_amazon"] = 9.99/100/1.2
+            #current price
+            part_details["price_1"] = part_details["price_1_distributor_amazon"]
+            parts.append(part_details)
+
+            #double sided matte 200 gsm
+            part_details = base_a4.copy()
+            part_details["description_main"] = "200_grams_per_meter_square"
+            part_details["description_extra"] = "double_sided_matte_style_laser_printer"
+            part_details["manufacturer"] = "koala"
+            #amazon
+            part_details["distributor_amazon"] = "B07VYJKZ6F"
+            part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+            part_details["price_1_distributor_amazon"] = 9.99/100/1.2
+            #current price
+            part_details["price_1"] = part_details["price_1_distributor_amazon"]
+            parts.append(part_details)
+
+
+
+
+            #250 gsm double sided matte
+            part_details = base_a4.copy()
+            part_details["description_main"] = "250_grams_per_meter_square"
+            part_details["description_extra"] = "double_sided_matte_style_laser_printer"
+            part_details["manufacturer"] = "koala"
+            #amazon
+            part_details["distributor_amazon"] = "B07VVDL79C"
+            part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+            part_details["price_1_distributor_amazon"] = 10.79/100/1.2
+            #current price
+            part_details["price_1"] = part_details["price_1_distributor_amazon"]
+            parts.append(part_details)
+
+
+
+        #sticker sheet
+        if True:
+            #a4 glossy sticker sheet
+            part_details = base_a4.copy()
+            part_details["description_main"] = "sticker_sheet"
+            part_details["description_extra"] = "single_sided_glossy_style_inkjet_printer_paper_material"
+            part_details["manufacturer"] = "koala"
+            #amazon
+            part_details["distributor_amazon"] = "B082XKGBF4"
+            part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+            part_details["price_1_distributor_amazon"] = 12.99/100/1.2
+            #current price
+            part_details["price_1"] = part_details["price_1_distributor_amazon"]
+            parts.append(part_details)
+
+            #gmcraft
+            if True:
+                #glossy plastic                
+                part_details = base_a4.copy()
+                part_details["description_main"] = "sticker_sheet"
+                part_details["description_extra"] = "glossy_style_inkjet_printer_plastic_material"
+                part_details["manufacturer"] = "gmcraft"
+                #amazon
+                part_details["distributor_amazon"] = "B0BMLTJDQK"
+                part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+                part_details["price_1_distributor_amazon"] = 8.70/10/1.2
+                #current price
+                part_details["price_1"] = part_details["price_1_distributor_amazon"]
+                parts.append(part_details)
     #a5
     part_details = base.copy()
     part_details["size"] = "a5_148_mm_width_210_mm_height"

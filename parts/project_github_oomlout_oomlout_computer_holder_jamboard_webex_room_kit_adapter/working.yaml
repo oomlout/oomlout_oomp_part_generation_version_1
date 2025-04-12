@@ -1,0 +1,88 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_computer_holder_jamboard_webex_room_kit_adapter
+color_capital: Oomlout Computer Holder Jamboard Webex Room Kit Adapter
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_COMPUTER_HOLDER_JAMBOARD_WEBEX_ROOM_KIT_ADAPTER
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_computer_holder_jamboard_webex_room_kit_adapter
+distributors: []
+filter: ''
+from_yaml: false
+id: project_github_oomlout_oomlout_computer_holder_jamboard_webex_room_kit_adapter
+id_no_class: github_oomlout_oomlout_computer_holder_jamboard_webex_room_kit_adapter
+id_no_size: computer_holder_jamboard_webex_room_kit_adapter
+id_no_type: oomlout_oomlout_computer_holder_jamboard_webex_room_kit_adapter
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_computer_holder_jamboard_webex_room_kit_adapter
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_computer_holder_jamboard_webex_room_kit_adapter
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_computer_holder_jamboard_webex_room_kit_adapter
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_computer_holder_jamboard_webex_room_kit_adapter](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Computer Holder Jamboard Webex Room Kit Adapter](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_computer_holder_jamboard_webex_room_kit_adapter](none)<br><br>'
+md5: a67cdaa4ebb6533eb2303e7c0204ea55
+md5_10: a67cdaa4eb
+md5_10_upper: A67CDAA4EB
+md5_5: a67cd
+md5_5_upper: A67CD
+md5_6: a67cda
+md5_6_alpha: 6huxm
+md5_6_alpha_upper: 6HUXM
+md5_6_upper: A67CDA
+name: Project Github Oomlout Oomlout Computer Holder Jamboard Webex Room Kit Adapter
+name_no_class: Github Oomlout Oomlout Computer Holder Jamboard Webex Room Kit Adapter
+name_no_size: Computer Holder Jamboard Webex Room Kit Adapter
+name_no_size_short: Computer Holder Jamboard Webex Room Kit Adapter
+name_no_type: Oomlout Oomlout Computer Holder Jamboard Webex Room Kit Adapter
+oomp_key: oomp_project_github_oomlout_oomlout_computer_holder_jamboard_webex_room_kit_adapter
+oomp_word: trumpet tv hotel
+oomp_word_emoji: ':trumpet: :tv: :hotel:'
+oomp_word_emoji_list:
+- ':trumpet:'
+- ':tv:'
+- ':hotel:'
+oomp_word_list:
+- trumpet
+- tv
+- hotel
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

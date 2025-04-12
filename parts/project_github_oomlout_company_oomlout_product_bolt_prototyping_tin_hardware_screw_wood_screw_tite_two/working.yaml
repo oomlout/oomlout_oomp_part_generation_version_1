@@ -1,0 +1,95 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: company_oomlout_product_bolt_prototyping_tin_hardware_screw_wood_screw_tite_two
+color_capital: Company Oomlout Product Bolt Prototyping Tin Hardware Screw Wood Screw
+    Tite Two
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COMPANY_OOMLOUT_PRODUCT_BOLT_PROTOTYPING_TIN_HARDWARE_SCREW_WOOD_SCREW_TITE_TWO
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/project_github_oomlout_company_oomlout_product_bolt_prototyping_tin_hardware_screw_wood_screw_tite_two
+distributors: []
+filter: ''
+from_yaml: false
+id: project_github_oomlout_company_oomlout_product_bolt_prototyping_tin_hardware_screw_wood_screw_tite_two
+id_no_class: github_oomlout_company_oomlout_product_bolt_prototyping_tin_hardware_screw_wood_screw_tite_two
+id_no_size: company_product_bolt_prototyping_tin_hardware_screw_wood_screw_tite_two
+id_no_type: oomlout_company_oomlout_product_bolt_prototyping_tin_hardware_screw_wood_screw_tite_two
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_company_oomlout_product_bolt_prototyping_tin_hardware_screw_wood_screw_tite_two
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_company_oomlout_product_bolt_prototyping_tin_hardware_screw_wood_screw_tite_two
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_company_oomlout_product_bolt_prototyping_tin_hardware_screw_wood_screw_tite_two
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_company_oomlout_product_bolt_prototyping_tin_hardware_screw_wood_screw_tite_two](none)<br>[](none)<br>[Project
+    Github Oomlout Company Oomlout Product Bolt Prototyping Tin Hardware Screw Wood
+    Screw Tite Two](none)<br><br>'
+markdown_short: '[project_github_oomlout_company_oomlout_product_bolt_prototyping_tin_hardware_screw_wood_screw_tite_two](none)<br><br>'
+md5: 9063a97c743adb3d710f5cd08ed76b9c
+md5_10: 9063a97c74
+md5_10_upper: 9063A97C74
+md5_5: 9063a
+md5_5_upper: 9063A
+md5_6: 9063a9
+md5_6_alpha: 5mtgp
+md5_6_alpha_upper: 5MTGP
+md5_6_upper: 9063A9
+name: Project Github Oomlout Company Oomlout Product Bolt Prototyping Tin Hardware
+    Screw Wood Screw Tite Two
+name_no_class: Github Oomlout Company Oomlout Product Bolt Prototyping Tin Hardware
+    Screw Wood Screw Tite Two
+name_no_size: Company Product Bolt Prototyping Tin Hardware Screw Wood Screw Tite
+    Two
+name_no_size_short: Company Product Bolt Prototyping Tin Hardware Screw Wood Screw
+    Tite Two
+name_no_type: Oomlout Company Oomlout Product Bolt Prototyping Tin Hardware Screw
+    Wood Screw Tite Two
+oomp_key: oomp_project_github_oomlout_company_oomlout_product_bolt_prototyping_tin_hardware_screw_wood_screw_tite_two
+oomp_word: scissors rose sandal
+oomp_word_emoji: ':scissors: :rose: :sandal:'
+oomp_word_emoji_list:
+- ':scissors:'
+- ':rose:'
+- ':sandal:'
+oomp_word_list:
+- scissors
+- rose
+- sandal
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

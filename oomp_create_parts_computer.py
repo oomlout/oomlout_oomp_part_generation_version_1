@@ -150,6 +150,15 @@ def load_parts(**kwargs):
             part_details["part_number"] = ""
             parts.append(part_details)
 
+            #wall_mount
+            part_details = copy.deepcopy(default_empty)
+            part_details["type"] = "video_conferencing"
+            part_details["size"] = "wall_mount"
+            part_details["color"] = ""
+            part_details["description_main"] = "jamboard_wall_mount"            
+            part_details["manufacturer"] = "google"            
+            part_details["part_number"] = ""
+            parts.append(part_details)
 
 
     # webcams
