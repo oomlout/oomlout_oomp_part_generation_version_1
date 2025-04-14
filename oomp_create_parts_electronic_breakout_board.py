@@ -5,7 +5,19 @@ def load_parts(**kwargs):
     make_files = kwargs.get("make_files", True)
     #print "loading parts" plus the module name get the module name from the filename using __name__
     print(f"  loading parts {__name__}")
-    
+
+    part_details = {}
+    part_details["classification"] = "electronic"
+    part_details["type"] = "breakout_board_mcu"
+    part_details["size"] = ""
+    part_details["color"] = ""
+    part_details["description_main"] = ""
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+
+    default_empty = copy.deepcopy(part_details)
+
     parts = []
    
 
@@ -517,37 +529,62 @@ def load_parts(**kwargs):
     #      stepper motor
     #           step stick
     if True:
-        part_details = {}
-        part_details["description"] = "A common breakout format for a stepper motor driver" 
-        part_details["classification"] = "electronic"
+
+        colors = []
+        colors.append("")
+        colors.append("a4988")
+        colors.append("drv8825")
+        colors.append("atd5833")
+        colors.append("tmc2208")
+        colors.append("tmc2209")
+        colors.append("tmc2100")
+        colors.append("tmc2130")
+
+
+
+        for col in colors:
+            part_details = {}
+            part_details["description"] = "A common breakout format for a stepper motor driver" 
+            part_details["classification"] = "electronic"
+            part_details["type"] = "breakout_board_motor_driver"
+            part_details["size"] = "step_stick"
+            part_details["color"] = col
+            part_details["description_main"] = "15_24_mm_width_20_32_mm_length"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = ""
+            part_details["part_number"] = ""
+            part_details["short_name"] = ""
+            pins = {}
+            pins["pin_1"] = ({"name": "en", "number": "1", "type": "signal"})
+            pins["pin_2"] = ({"name": "ms1", "number": "2", "type": "signal"})
+            pins["pin_3"] = ({"name": "ms2", "number": "3", "type": "signal"})
+            pins["pin_4"] = ({"name": "ms3", "number": "4", "type": "power"})
+            pins["pin_5"] = ({"name": "rst", "number": "5", "type": "signal"})
+            pins["pin_6"] = ({"name": "slp", "number": "6", "type": "signal"})
+            pins["pin_7"] = ({"name": "step", "number": "7", "type": "signal"})
+            pins["pin_8"] = ({"name": "dir", "number": "8", "type": "signal"})
+            pins["pin_9"] = ({"name": "gnd", "number": "9", "type": "signal"})
+            pins["pin_10"] = ({"name": "vdd", "number": "10", "type": "signal"})
+            pins["pin_11"] = ({"name": "1b", "number": "11", "type": "signal"})
+            pins["pin_12"] = ({"name": "1a", "number": "12", "type": "signal"})
+            pins["pin_13"] = ({"name": "2a", "number": "13", "type": "signal"})
+            pins["pin_14"] = ({"name": "2b", "number": "14", "type": "signal"})
+            pins["pin_15"] = ({"name": "gnd", "number": "15", "type": "signal"})
+            pins["pin_16"] = ({"name": "vmot", "number": "16", "type": "signal"})
+            part_details["pins"] = pins
+            part_details["kicad_reference"] = "BB"
+            part_details["notes"] = []
+            parts.append(part_details)
+
+        part_details = copy.deepcopy(default_empty)
         part_details["type"] = "breakout_board_motor_driver"
-        part_details["size"] = ["step_stick"]
-        part_details["color"] = [""]
-        part_details["description_main"] = "stepper_motor"
+        part_details["size"] = "step_stick_breakout"
+        part_details["color"] = ""
+        part_details["description_main"] = "43_mm_width_43_mm_length_black_ocb"
         part_details["description_extra"] = ""
         part_details["manufacturer"] = ""
         part_details["part_number"] = ""
         part_details["short_name"] = ""
-        pins = {}
-        pins["pin_1"] = ({"name": "en", "number": "1", "type": "signal"})
-        pins["pin_2"] = ({"name": "ms1", "number": "2", "type": "signal"})
-        pins["pin_3"] = ({"name": "ms2", "number": "3", "type": "signal"})
-        pins["pin_4"] = ({"name": "ms3", "number": "4", "type": "power"})
-        pins["pin_5"] = ({"name": "rst", "number": "5", "type": "signal"})
-        pins["pin_6"] = ({"name": "slp", "number": "6", "type": "signal"})
-        pins["pin_7"] = ({"name": "step", "number": "7", "type": "signal"})
-        pins["pin_8"] = ({"name": "dir", "number": "8", "type": "signal"})
-        pins["pin_9"] = ({"name": "gnd", "number": "9", "type": "signal"})
-        pins["pin_10"] = ({"name": "vdd", "number": "10", "type": "signal"})
-        pins["pin_11"] = ({"name": "1b", "number": "11", "type": "signal"})
-        pins["pin_12"] = ({"name": "1a", "number": "12", "type": "signal"})
-        pins["pin_13"] = ({"name": "2a", "number": "13", "type": "signal"})
-        pins["pin_14"] = ({"name": "2b", "number": "14", "type": "signal"})
-        pins["pin_15"] = ({"name": "gnd", "number": "15", "type": "signal"})
-        pins["pin_16"] = ({"name": "vmot", "number": "16", "type": "signal"})
-        part_details["pins"] = pins
-        part_details["kicad_reference"] = "BB"
-        part_details["notes"] = []
         parts.append(part_details)
 
     #           makerbase mks_servo42c

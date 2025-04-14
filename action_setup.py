@@ -40,7 +40,7 @@ if __name__ == "__main__":
 
     kwargs = {}
 
-    filter = ""
+    #filter = ""
     #filter = "appliance"
     #filter = "bearing"
     filter = "computer"

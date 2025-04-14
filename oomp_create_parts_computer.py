@@ -85,7 +85,7 @@ def load_parts(**kwargs):
             part_details["description_main"] = "room_kit"
             part_details["description_extra"] = "700_mm_width_105_mm_height_90_mm_depth"
             part_details["manufacturer"] = "cisco"
-            part_details["part_number_exact"] = "CS-KIT-K9"
+            part_details["part_number_exact"] = "TTC7-26"
             part_details["part_number"] = part_details["part_number_exact"].lower().replace("-", "_")
             part_details["link_distributor_cisco"] = "https://www.cisco.com/c/en/us/support/collaboration-endpoints/spark-room-kit/model.html"
             parts.append(part_details)
