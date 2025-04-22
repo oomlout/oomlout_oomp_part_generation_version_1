@@ -21,6 +21,20 @@ def load_parts(**kwargs):
     default_empty = part_details.copy()
 
     
+    #microphone
+    if True:
+        part_details = copy.deepcopy(default_empty)
+        part_details["type"] = "microphone"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_main"] = "85_mm_width_85_mm_length_15_mm_depth_3_5_mm_jack"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "cisco"
+        part_details["part_number_exact"] = "TTC5-06"
+        part_details["part_number"] = part_details["part_number_exact"].lower().replace("-", "_")
+        parts.append(part_details)
+
+
     #network
     if True:
         #switch
