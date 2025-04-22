@@ -19,6 +19,8 @@ part_types.append("archive")
 
 part_types.append("camera")
 
+part_types.append("clothes")
+
 part_types.append("computer")
 part_types.append("computer_monitor")
 part_types.append("computer_tablet")

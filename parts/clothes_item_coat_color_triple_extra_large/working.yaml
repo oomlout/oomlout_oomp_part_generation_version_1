@@ -1,0 +1,88 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: color_triple_extra_large
+color_capital: Color Triple Extra Large
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COLOR_TRIPLE_EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/clothes_item_coat_color_triple_extra_large
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_coat_color_triple_extra_large
+id_no_class: item_coat_color_triple_extra_large
+id_no_size: color_triple_extra_large
+id_no_type: coat_color_triple_extra_large
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_color_triple_extra_large
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_color_triple_extra_large
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_color_triple_extra_large
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_coat_color_triple_extra_large](none)<br>[](none)<br>[Clothes
+    Item Coat Color Triple Extra Large](none)<br><br>'
+markdown_short: '[clothes_item_coat_color_triple_extra_large](none)<br><br>'
+md5: c807a91a8848c1ba84761fc0226d1504
+md5_10: c807a91a88
+md5_10_upper: C807A91A88
+md5_5: c807a
+md5_5_upper: C807A
+md5_6: c807a9
+md5_6_alpha: 7sz3d
+md5_6_alpha_upper: 7SZ3D
+md5_6_upper: C807A9
+name: Clothes Item Coat Color Triple Extra Large
+name_no_class: Item Coat Color Triple Extra Large
+name_no_size: Color Triple Extra Large
+name_no_size_short: Color Triple Extra Large
+name_no_type: Coat Color Triple Extra Large
+oomp_key: oomp_clothes_item_coat_color_triple_extra_large
+oomp_word: apple cry sandal
+oomp_word_emoji: ':apple: :cry: :sandal:'
+oomp_word_emoji_list:
+- ':apple:'
+- ':cry:'
+- ':sandal:'
+oomp_word_list:
+- apple
+- cry
+- sandal
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: coat
+size_capital: Coat
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COAT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

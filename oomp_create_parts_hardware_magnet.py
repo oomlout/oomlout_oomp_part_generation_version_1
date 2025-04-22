@@ -34,7 +34,19 @@ def load_parts(**kwargs):
             parts.append(part_details.copy())
 
 
+    #pot magnet
+    if True:
+        size_list = []
+        size_list.append([32,15,"m5"])
+        size_list.append([10,11_5,"m3"])
+        size_list.append([16,11_5,"m4"])
 
+        for magnet_size in size_list:
+            part_details = default_empty.copy()
+            part_details["size"] = "pot"
+            part_details["color"] = "m3_pot"
+            part_details["description_main"] = f"{magnet_size[0]}_mm_diameter_{magnet_size[1]}_mm_depth_{magnet_size[2]}_hole"
+            parts.append(part_details.copy())
         
 
     

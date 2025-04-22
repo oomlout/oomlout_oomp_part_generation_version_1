@@ -20,6 +20,140 @@ def load_parts(**kwargs):
 
     default_empty = part_details.copy()
 
+    
+    #network
+    if True:
+        #switch
+        part_details = copy.deepcopy(default_empty)
+        part_details["type"] = "network"
+
+        default_current = copy.deepcopy(part_details)
+        if True:
+            part_details = copy.deepcopy(default_current)
+            part_details["size"] = "switch"
+            part_details["description_main"] = "94_mm_width_101_mm_length_29_mm_depth"
+            part_details["manufacturer"] = "netgear"
+            part_details["part_number_exact"] = "GS105"
+            part_details["part_number"] = part_details["part_number_exact"].lower()
+            parts.append(part_details)
+    
+
+    #tablet
+    if True:
+        # amazon fire tablets
+        if True:
+            part_details = {}
+            part_details["classification"] = "computer"
+            part_details["type"] = "tablet"
+            part_details["size"] = ["amazon_fire"]
+            part_details["color"] = [""]
+            part_details["description_main"] = "max_11"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "amazon"
+            part_details["part_number"] = "kfsnwi"
+            part_details["width"] = "259.1 mm"
+            part_details["height"] = "163.7 mm"
+            part_details["depth"] = "7.5 mm"
+            parts.append(part_details)
+
+
+        # surface pros
+        if True:
+            #define a part 
+            part_details = {}
+            part_details["classification"] = "computer"
+            part_details["type"] = "tablet"
+            part_details["size"] = ["microsoft_surface"]
+            part_details["color"] = [""]
+            part_details["description_main"] = "pro_3"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "microsoft"
+            part_details["part_number"] = "1631"
+            parts.append(part_details)
+
+            #define a part 
+            part_details = {}
+            part_details["classification"] = "computer"
+            part_details["type"] = "tablet"
+            part_details["size"] = ["microsoft_surface"]
+            part_details["color"] = [""]
+            part_details["description_main"] = "pro_3"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "microsoft"
+            part_details["part_number"] = "model_1631"
+            parts.append(part_details)
+
+            
+            part_details = {}
+            part_details["classification"] = "computer"
+            part_details["type"] = "tablet"
+            part_details["size"] = ["microsoft_surface"]
+            part_details["color"] = [""]
+            part_details["description_main"] = "pro_4"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "microsoft"
+            part_details["part_number"] = "model_1724"
+            parts.append(part_details)
+
+            
+            part_details = {}
+            part_details["classification"] = "computer"
+            part_details["type"] = "tablet"
+            part_details["size"] = ["microsoft_surface"]
+            part_details["color"] = [""]
+            part_details["description_main"] = "pro_5"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "microsoft"
+            part_details["part_number"] = "model_1796"
+            parts.append(part_details)
+
+            
+            part_details = {}
+            part_details["classification"] = "computer"
+            part_details["type"] = "tablet"
+            part_details["size"] = ["microsoft_surface"]
+            part_details["color"] = [""]
+            part_details["description_main"] = "pro_7"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "microsoft"
+            part_details["part_number"] = "model_1866"
+            parts.append(part_details)
+
+            #define a part 
+            part_details = {}
+            part_details["classification"] = "computer"
+            part_details["type"] = "docking_station"
+            part_details["size"] = ["microsoft_surface"]
+            part_details["color"] = [""]
+            part_details["description_main"] = [""]
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "microsoft"
+            part_details["part_number"] = "1661"
+            parts.append(part_details)
+            
+            #define a part 
+            part_details = {}
+            part_details["classification"] = "computer"
+            part_details["type"] = "power_supply"
+            part_details["size"] = ["microsoft_surface"]
+            part_details["color"] = [""]
+            part_details["description_main"] = ["docking_station"]
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "microsoft"
+            part_details["part_number"] = "model_1749"
+            parts.append(part_details)
+            
+            part_details = {}
+            part_details["classification"] = "computer"
+            part_details["type"] = "power_supply"
+            part_details["size"] = ["microsoft_surface"]
+            part_details["color"] = [""]
+            part_details["description_main"] = ["standalone"]
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "microsoft"
+            part_details["part_number"] = "model_1625"
+            parts.append(part_details)
+
     # video conferencing
     if True:
         #webex
@@ -159,125 +293,7 @@ def load_parts(**kwargs):
             part_details["manufacturer"] = "google"            
             part_details["part_number"] = ""
             parts.append(part_details)
-
-
-    # webcams
-
-    # amazon fire tablets
-    if True:
-        part_details = {}
-        part_details["classification"] = "computer"
-        part_details["type"] = "tablet"
-        part_details["size"] = ["amazon_fire"]
-        part_details["color"] = [""]
-        part_details["description_main"] = "max_11"
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = "amazon"
-        part_details["part_number"] = "kfsnwi"
-        part_details["width"] = "259.1 mm"
-        part_details["height"] = "163.7 mm"
-        part_details["depth"] = "7.5 mm"
-        parts.append(part_details)
-
-
-    # surface pros
-    if True:
-        #define a part 
-        part_details = {}
-        part_details["classification"] = "computer"
-        part_details["type"] = "tablet"
-        part_details["size"] = ["microsoft_surface"]
-        part_details["color"] = [""]
-        part_details["description_main"] = "pro_3"
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = "microsoft"
-        part_details["part_number"] = "1631"
-        parts.append(part_details)
-
-        #define a part 
-        part_details = {}
-        part_details["classification"] = "computer"
-        part_details["type"] = "tablet"
-        part_details["size"] = ["microsoft_surface"]
-        part_details["color"] = [""]
-        part_details["description_main"] = "pro_3"
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = "microsoft"
-        part_details["part_number"] = "model_1631"
-        parts.append(part_details)
-
-        
-        part_details = {}
-        part_details["classification"] = "computer"
-        part_details["type"] = "tablet"
-        part_details["size"] = ["microsoft_surface"]
-        part_details["color"] = [""]
-        part_details["description_main"] = "pro_4"
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = "microsoft"
-        part_details["part_number"] = "model_1724"
-        parts.append(part_details)
-
-        
-        part_details = {}
-        part_details["classification"] = "computer"
-        part_details["type"] = "tablet"
-        part_details["size"] = ["microsoft_surface"]
-        part_details["color"] = [""]
-        part_details["description_main"] = "pro_5"
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = "microsoft"
-        part_details["part_number"] = "model_1796"
-        parts.append(part_details)
-
-        
-        part_details = {}
-        part_details["classification"] = "computer"
-        part_details["type"] = "tablet"
-        part_details["size"] = ["microsoft_surface"]
-        part_details["color"] = [""]
-        part_details["description_main"] = "pro_7"
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = "microsoft"
-        part_details["part_number"] = "model_1866"
-        parts.append(part_details)
-
-        #define a part 
-        part_details = {}
-        part_details["classification"] = "computer"
-        part_details["type"] = "docking_station"
-        part_details["size"] = ["microsoft_surface"]
-        part_details["color"] = [""]
-        part_details["description_main"] = [""]
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = "microsoft"
-        part_details["part_number"] = "1661"
-        parts.append(part_details)
-        
-        #define a part 
-        part_details = {}
-        part_details["classification"] = "computer"
-        part_details["type"] = "power_supply"
-        part_details["size"] = ["microsoft_surface"]
-        part_details["color"] = [""]
-        part_details["description_main"] = ["docking_station"]
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = "microsoft"
-        part_details["part_number"] = "model_1749"
-        parts.append(part_details)
-        
-        part_details = {}
-        part_details["classification"] = "computer"
-        part_details["type"] = "power_supply"
-        part_details["size"] = ["microsoft_surface"]
-        part_details["color"] = [""]
-        part_details["description_main"] = ["standalone"]
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = "microsoft"
-        part_details["part_number"] = "model_1625"
-        parts.append(part_details)
-
-        
+    
 
     #webcams
     if True:

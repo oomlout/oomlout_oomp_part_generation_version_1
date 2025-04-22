@@ -1,0 +1,88 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: color_small
+color_capital: Color Small
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COLOR_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/clothes_item_coat_color_small
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_coat_color_small
+id_no_class: item_coat_color_small
+id_no_size: color_small
+id_no_type: coat_color_small
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_color_small
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_color_small
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_color_small
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_coat_color_small](none)<br>[](none)<br>[Clothes Item
+    Coat Color Small](none)<br><br>'
+markdown_short: '[clothes_item_coat_color_small](none)<br><br>'
+md5: 1c596b9ebade6d9d70c1cf1bc8063527
+md5_10: 1c596b9eba
+md5_10_upper: 1C596B9EBA
+md5_5: 1c596
+md5_5_upper: 1C596
+md5_6: 1c596b
+md5_6_alpha: 13tkb
+md5_6_alpha_upper: 13TKB
+md5_6_upper: 1C596B
+name: Clothes Item Coat Color Small
+name_no_class: Item Coat Color Small
+name_no_size: Color Small
+name_no_size_short: Color Small
+name_no_type: Coat Color Small
+oomp_key: oomp_clothes_item_coat_color_small
+oomp_word: dancer dragon chestnut
+oomp_word_emoji: ':dancer: :dragon: :chestnut:'
+oomp_word_emoji_list:
+- ':dancer:'
+- ':dragon:'
+- ':chestnut:'
+oomp_word_list:
+- dancer
+- dragon
+- chestnut
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: coat
+size_capital: Coat
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COAT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM
