@@ -60,4 +60,35 @@ def load_parts(**kwargs):
                 parts.append(part_details.copy())
             
 
+        # hanger
+        #item
+        part_details = {}
+        part_details["classification"] = "clothes"
+        part_details["type"] = "hanger"
+        part_details["size"] = ""                       #type of garment
+        part_details["color"] = ""                      #size
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        
+
+
+        default_empty = part_details.copy()
+
+
+
+        #sos_cintres 
+        if True:
+            part_details = default_empty.copy()
+            part_details["size"] = "shirt"
+            part_details["color"] = "plastic"
+            part_details["description_main"] = "450_mm_width_145_mm_length_6_mm_depth"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "sos_cintres"
+            part_details["part_number"] = "au45ad"
+            part_details["link_distributor_sos_cintres"] = "http://www.sos-cintres.com/produit/auad-hangery/"
+            parts.append(part_details.copy())
+
+
     oomp.add_parts(parts, **kwargs)
