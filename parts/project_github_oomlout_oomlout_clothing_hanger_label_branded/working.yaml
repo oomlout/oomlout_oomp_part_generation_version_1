@@ -1,0 +1,88 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_clothing_hanger_label_branded
+color_capital: Oomlout Clothing Hanger Label Branded
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_CLOTHING_HANGER_LABEL_BRANDED
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_clothing_hanger_label_branded
+distributors: []
+filter: ''
+from_yaml: false
+id: project_github_oomlout_oomlout_clothing_hanger_label_branded
+id_no_class: github_oomlout_oomlout_clothing_hanger_label_branded
+id_no_size: clothing_hanger_label_branded
+id_no_type: oomlout_oomlout_clothing_hanger_label_branded
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_clothing_hanger_label_branded
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_clothing_hanger_label_branded
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_clothing_hanger_label_branded
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_clothing_hanger_label_branded](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Clothing Hanger Label Branded](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_clothing_hanger_label_branded](none)<br><br>'
+md5: 70a9e712e4c6fb3c04fce209c27a619a
+md5_10: 70a9e712e4
+md5_10_upper: 70A9E712E4
+md5_5: 70a9e
+md5_5_upper: 70A9E
+md5_6: 70a9e7
+md5_6_alpha: 4e95z
+md5_6_alpha_upper: 4E95Z
+md5_6_upper: 70A9E7
+name: Project Github Oomlout Oomlout Clothing Hanger Label Branded
+name_no_class: Github Oomlout Oomlout Clothing Hanger Label Branded
+name_no_size: Clothing Hanger Label Branded
+name_no_size_short: Clothing Hanger Label Branded
+name_no_type: Oomlout Oomlout Clothing Hanger Label Branded
+oomp_key: oomp_project_github_oomlout_oomlout_clothing_hanger_label_branded
+oomp_word: squirrel sandal helicopter
+oomp_word_emoji: ':squirrel: :sandal: :helicopter:'
+oomp_word_emoji_list:
+- ':squirrel:'
+- ':sandal:'
+- ':helicopter:'
+oomp_word_list:
+- squirrel
+- sandal
+- helicopter
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB
