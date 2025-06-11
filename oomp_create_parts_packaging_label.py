@@ -31,6 +31,8 @@ def load_parts(**kwargs):
     sizes.append("101_6_mm_width_101_6_mm_length")
     #6x4
     sizes.append("152_4_mm_width_101_6_mm_length")
+    #50 mm round
+    sizes.append("50_mm_diameter_round_style")
 
     styles = ["direct_thermal_style", "transfer_thermal_style"]
 
