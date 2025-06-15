@@ -589,8 +589,31 @@ def load_parts(**kwargs):
                 parts.append(part_details)
             
 
+    #syringe
+    if True:
+        part_details = {}
+        part_details["classification"] = "tool"
+        part_details["type"] = "syringe"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        
+        default_syringe = copy.deepcopy(part_details)
 
-
+        description_mains = ["1_ml", "3_ml", "5_ml", "10_ml", "20_ml", "50_ml", "100_ml", "250_ml", "500_ml"]
+        description_extras = []
+        description_extras.append("")
+        description_extras.append("flat_top_style")
+        description_extras.append("ring_top_style")
+        for description_main in description_mains:
+            for description_extra in description_extras:
+                part_details = copy.deepcopy(default_syringe)
+                part_details["description_main"] = description_main
+                part_details["description_extra"] = description_extra
+                parts.append(part_details)
 
     # tape measure
     if True:
