@@ -603,7 +603,7 @@ def load_parts(**kwargs):
         
         default_syringe = copy.deepcopy(part_details)
 
-        description_mains = ["1_ml", "3_ml", "5_ml", "10_ml", "20_ml", "50_ml", "100_ml", "250_ml", "500_ml"]
+        description_mains = ["1_ml", "3_ml", "5_ml", "10_ml", "20_ml", "50_ml", "60_ml", "100_ml", "250_ml", "500_ml"]
         description_extras = []
         description_extras.append("")
         description_extras.append("flat_top_style")
