@@ -79,5 +79,23 @@ def load_parts(**kwargs):
         part_details["short_name"] = "Anycubic UV Printer"  
         parts.append(part_details)
 
+    #big printers
+    if True:
+        #mutoh valuejet vj-1304
+        part_details = {}
+        part_details["classification"] = "printer"
+        part_details["type"] = "inkjet"
+        part_details["size"] = "reel"
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "mutoh"
+        part_details["part_number_exact"] = "VJ-1304"
+        part_details["part_number"] = part_details["part_number_exact"].replace("-", "_").replace(" ", "_").lower()
+        part_details["short_name"] = "Mutoh ValueJet VJ-1304"
+        parts.append(part_details)
+
+
+
     oomp.add_parts(parts, make_files=make_files)
     

@@ -251,6 +251,22 @@ def load_parts(**kwargs):
             part_details["price_1"] = part_details["price_1_distributor_amazon"]
             parts.append(part_details)
 
+            #a4 evergreen goods
+            if True:
+                #glossy plastic                
+                part_details = base_a4.copy()
+                part_details["description_main"] = "sticker_sheet_circle_45_mm_diameter_20_per_sheet"
+                part_details["description_extra"] = "glossy_style_inkjet_printer_plastic_material"
+                part_details["manufacturer"] = "evergreen_goods"
+                #amazon
+                part_details["distributor_amazon"] = "B09314D2F5"
+                part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+                part_details["price_1_distributor_amazon"] = 9.99/20/1.2
+                #current price
+                part_details["price_1"] = part_details["price_1_distributor_amazon"]
+                parts.append(part_details)
+
+
             #gmcraft
             if True:
                 #glossy plastic                
@@ -265,49 +281,52 @@ def load_parts(**kwargs):
                 #current price
                 part_details["price_1"] = part_details["price_1_distributor_amazon"]
                 parts.append(part_details)
-    #a5
-    part_details = base.copy()
-    part_details["size"] = "a5_148_mm_width_210_mm_height"
-    part_details["width"] = "148 mm"
-    part_details["height"] = "210 mm"
-    parts.append(part_details)
-
-    #a6
-    part_details = base.copy()
-    part_details["size"] = "a6_105_mm_width_148_mm_height"
-    part_details["width"] = "105 mm"
-    part_details["height"] = "148 mm"
-    parts.append(part_details)
-
-    #a7
-    part_details = base.copy()
-    part_details["size"] = "a7_74_mm_width_105_mm_height"
-    part_details["width"] = "74 mm"
-    part_details["height"] = "105 mm"
-    parts.append(part_details)
-
-    #a8
-    part_details = base.copy()
-    part_details["size"] = "a8_52_mm_width_74_mm_height"
-    part_details["width"] = "52 mm"
-    part_details["height"] = "74 mm"
-    parts.append(part_details)
-
-    #poters
     
-    # 460 mm x 640 mm
-    part_details = base.copy()
-    part_details["size"] = "460_mm_width_640_mm_height"
-    part_details["width"] = "460 mm"
-    part_details["height"] = "640 mm"
-    parts.append(part_details)
+    #basic sizes
+    if True:
+        #a5
+        part_details = base.copy()
+        part_details["size"] = "a5_148_mm_width_210_mm_height"
+        part_details["width"] = "148 mm"
+        part_details["height"] = "210 mm"
+        parts.append(part_details)
 
-    # 510 mm x 750 mm
-    part_details = base.copy()
-    part_details["size"] = "510_mm_width_750_mm_height"
-    part_details["width"] = "510 mm"
-    part_details["height"] = "750 mm"
-    parts.append(part_details)
+        #a6
+        part_details = base.copy()
+        part_details["size"] = "a6_105_mm_width_148_mm_height"
+        part_details["width"] = "105 mm"
+        part_details["height"] = "148 mm"
+        parts.append(part_details)
+
+        #a7
+        part_details = base.copy()
+        part_details["size"] = "a7_74_mm_width_105_mm_height"
+        part_details["width"] = "74 mm"
+        part_details["height"] = "105 mm"
+        parts.append(part_details)
+
+        #a8
+        part_details = base.copy()
+        part_details["size"] = "a8_52_mm_width_74_mm_height"
+        part_details["width"] = "52 mm"
+        part_details["height"] = "74 mm"
+        parts.append(part_details)
+
+        #poters
+        
+        # 460 mm x 640 mm
+        part_details = base.copy()
+        part_details["size"] = "460_mm_width_640_mm_height"
+        part_details["width"] = "460 mm"
+        part_details["height"] = "640 mm"
+        parts.append(part_details)
+
+        # 510 mm x 750 mm
+        part_details = base.copy()
+        part_details["size"] = "510_mm_width_750_mm_height"
+        part_details["width"] = "510 mm"
+        part_details["height"] = "750 mm"
+        parts.append(part_details)
 
 
     #envelope
