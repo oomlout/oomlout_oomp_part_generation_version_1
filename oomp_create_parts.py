@@ -134,6 +134,7 @@ part_types.append("three_d_printer_filament")
 part_types.append("three_d_printer_printer")
 
 part_types.append("video_game_console")
+part_types.append("vinyl")
 
 part_types.append("tool")
 

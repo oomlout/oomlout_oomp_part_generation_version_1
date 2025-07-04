@@ -132,6 +132,20 @@ def load_parts(**kwargs):
         part_details["price_1"] = part_details["price_1_distributor_rapid_online"]
         parts.append(part_details)
 
+    #tracing
+    if True:
+        part_details = base_a4.copy()
+        part_details["description_main"] = "paper_tracing"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        #distributor
+        # amazon
+        part_details["distributor_amazon"] = "B0DNSHWVRK"
+        part_details["link_distributor_amazon"] = "https://www.amazon.co.uk/dp/B0DNSHWVRK"
+        part_details["price_1_distributor_amazon"] = 7.99/400/1.2
+        # current price
+        part_details["price_1"] = part_details["price_1_distributor_amazon"]
+        parts.append(part_details)
 
     #koala brand
     if True:
@@ -264,6 +278,8 @@ def load_parts(**kwargs):
                 part_details["price_1_distributor_amazon"] = 9.99/20/1.2
                 #current price
                 part_details["price_1"] = part_details["price_1_distributor_amazon"]
+                part_details["link_manufacturer"] = f"https://www.evergreengoods.com/product-page/%C3%B845mm-circle-pre-cut-vinyl-labels-glossy-white-4x5-20-per-a4-sheet"
+                part_details["distributor_manufacturer"] = "A4INKGW-C-45mm"
                 parts.append(part_details)
 
 
