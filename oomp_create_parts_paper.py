@@ -283,6 +283,23 @@ def load_parts(**kwargs):
                 parts.append(part_details)
 
 
+
+                #glossy plastic full sheet
+                part_details = base_a4.copy()
+                part_details["description_main"] = "sticker_sheet_full"
+                part_details["description_extra"] = "glossy_style_inkjet_printer_plastic_material"
+                part_details["manufacturer"] = "evergreen_goods"
+                #amazon
+                part_details["distributor_amazon"] = "B075SHD6K4"
+                part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+                part_details["price_1_distributor_amazon"] = 8.99/10/1.2
+                #current price
+                part_details["price_1"] = part_details["price_1_distributor_amazon"]
+                part_details["link_manufacturer"] = f"https://www.evergreengoods.com/product-page/a4-premium-waterproof-inkjet-glossy-white-vinyl-labels"
+                part_details["distributor_manufacturer"] = "INK-GW-10"
+                parts.append(part_details)
+
+
             #gmcraft
             if True:
                 #glossy plastic                

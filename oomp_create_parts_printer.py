@@ -95,7 +95,36 @@ def load_parts(**kwargs):
         part_details["short_name"] = "Mutoh ValueJet VJ-1304"
         parts.append(part_details)
 
+        
+        #epson stylus pro 4800
+        part_details = {}
+        part_details["classification"] = "printer"
+        part_details["type"] = "inkjet"
+        part_details["size"] = "a2"
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "epson"
+        part_details["part_number_exact"] = "Stylus Pro 4800"
+        part_details["part_number"] = part_details["part_number_exact"].replace("-", "_").replace(" ", "_").lower()
+        part_details["short_name"] = "Epson Stylus Pro 4800"
+        parts.append(part_details)
 
+        
+        #add the parts to oomp\hewlet packard designjet 650c
+        part_details = {}
+        part_details["classification"] = "printer"
+        part_details["type"] = "inkjet"
+        part_details["size"] = "reel"
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "hewlett_packard"
+        part_details["part_number_exact"] = "Designjet 650C"
+        part_details["part_number"] = part_details["part_number_exact"].replace("-", "_").replace(" ", "_").lower()
+        part_details["short_name"] = "Hewlett Packard Designjet 650C"
+        parts.append(part_details)
+        
 
     oomp.add_parts(parts, make_files=make_files)
     

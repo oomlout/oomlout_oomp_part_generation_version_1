@@ -24,6 +24,7 @@ description_or_color: 4k5
 description_or_color_upper: 4K5
 directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
 distributor_amazon: B09314D2F5
+distributor_manufacturer: A4INKGW-C-45mm
 distributors: []
 filter: ''
 from_yaml: false
@@ -35,6 +36,7 @@ id_no_type: a4_210_mm_width_297_mm_height_sticker_circle_45_mm_diameter_20_per_g
 link_distributor_amazon: https://www.amazon.co.uk/dp/B09314D2F5
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
+link_manufacturer: https://www.evergreengoods.com/product-page/%C3%B845mm-circle-pre-cut-vinyl-labels-glossy-white-4x5-20-per-a4-sheet
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
 manufacturer: evergreen_goods
 manufacturer_capital: Evergreen Goods
