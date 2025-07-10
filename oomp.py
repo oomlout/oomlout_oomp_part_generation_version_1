@@ -462,7 +462,11 @@ def add_part(**kwargs):
                 import os
                 folder = f"{directory_parts}/" + id
                 if not os.path.exists(folder):
-                    os.makedirs(folder)
+                    try:
+                        os.makedirs(folder)
+                    except Exception as e:
+                        print(f"Error creating directory {folder}: {e}")
+                        return
                 
                 ## write the part working in json to the directory name the file working.json
                 import json

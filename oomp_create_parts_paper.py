@@ -49,6 +49,7 @@ def load_parts(**kwargs):
     part_details["height"] = "420 mm"
     parts.append(part_details)
 
+    base_a3 = part_details.copy()
 
     #a4    
     part_details = base.copy()
@@ -360,6 +361,47 @@ def load_parts(**kwargs):
         part_details["width"] = "510 mm"
         part_details["height"] = "750 mm"
         parts.append(part_details)
+
+
+    #a4 all the types
+    if True:
+        description_mains = []
+        description_mains.append("80_grams_per_meter_square")
+        description_mains.append("90_grams_per_meter_square")
+        description_mains.append("100_grams_per_meter_square")
+        description_mains.append("120_grams_per_meter_square")
+        description_mains.append("160_grams_per_meter_square")
+
+        description_extras = []
+        description_extras.append("white_color")
+        description_extras.append("bright_white_color")
+        description_extras.append("photo")
+        colors = ["green","yellow","blue","red","pink","gray"]
+        tones = ["","light","light_light"]
+        for color in colors:
+            for tone in tones:
+                if tone != "":
+                    description_extras.append(f"{color}_{tone}_color")
+                else:
+                    description_extras.append(f"{color}_color")
+        
+        
+        bases = []
+        bases.append(base_a4.copy())
+        bases.append(base_a3.copy())
+
+        #plain paper
+        for base in bases:
+            for description_main in description_mains:
+                for description_extra in description_extras:
+                    part_details = base
+                    part_details["description_main"] = description_main
+                    part_details["description_extra"] = description_extra
+                    part_details["manufacturer"] = ""
+                    part_details["part_number"] = ""
+                    parts.append(part_details)        
+
+
 
 
     #envelope
