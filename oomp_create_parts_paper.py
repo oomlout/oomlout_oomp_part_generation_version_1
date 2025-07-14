@@ -93,6 +93,23 @@ def load_parts(**kwargs):
         part_details["price_1"] = part_details["price_1_distributor_viking_direct"]
         parts.append(part_details)
 
+    #sublimation paper
+    if True:
+        part_details = base_a4.copy()
+        part_details["description_main"] = "125_grams_per_meter_square"
+        part_details["description_extra"] = "sublimation"
+        part_details["manufacturer"] = "a_sub"
+        part_details["part_number"] = "" 
+        part_details["upc"] = "670534101261"
+        #distributor
+        # amazon
+        part_details["distributor_amazon"] = "B0725Z4JCC"
+        part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+        part_details["price_1_distributor_amazon"] = 13.99/100/1.2
+        # current price
+        part_details["price_1"] = part_details["price_1_distributor_amazon"]
+        parts.append(part_details)
+
     # 160 gram bright white
     if True:
         part_details = base_a4.copy()
@@ -249,7 +266,13 @@ def load_parts(**kwargs):
             part_details["price_1"] = part_details["price_1_distributor_amazon"]
             parts.append(part_details)
 
-
+        #label_sheet
+        if True:
+            #a4 glossy sticker sheet
+            part_details = base_a4.copy()
+            part_details["description_main"] = "label_sheet_210_mm_width_99_mm_height_3_per_sheet"
+            part_details["description_extra"] = "paper_material"            
+            parts.append(part_details)
 
         #sticker sheet
         if True:

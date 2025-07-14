@@ -1,4 +1,5 @@
 import oomp
+import copy
 
 def load_parts(**kwargs):
     make_files = kwargs.get("make_files", True)
@@ -52,17 +53,22 @@ def load_parts(**kwargs):
     if True:
         #ecotank
         if True:
-            part_details = {}
-            part_details["classification"] = "printer"
-            part_details["type"] = "inkjet"
-            part_details["size"] = "a4"
-            part_details["color"] = ""
-            part_details["description_main"] = ""
-            part_details["description_extra"] = ""
-            part_details["manufacturer"] = "epson_ecotank"
-            part_details["part_number"] = "et_2750"
-            part_details["short_name"] = "" 
-            parts.append(part_details)
+            part_numbers = []
+            part_numbers.append("et_2750")
+            part_numbers.append("et_2810")
+
+            for part_number in part_numbers:
+                part_details = {}
+                part_details["classification"] = "printer"
+                part_details["type"] = "inkjet"
+                part_details["size"] = "a4"
+                part_details["color"] = ""
+                part_details["description_main"] = ""
+                part_details["description_extra"] = ""
+                part_details["manufacturer"] = "epson_ecotank"
+                part_details["part_number"] = part_number
+                part_details["short_name"] = "" 
+                parts.append(copy.deepcopy(part_details))
 
     #uv printers
     if True:
@@ -124,7 +130,83 @@ def load_parts(**kwargs):
         part_details["part_number"] = part_details["part_number_exact"].replace("-", "_").replace(" ", "_").lower()
         part_details["short_name"] = "Hewlett Packard Designjet 650C"
         parts.append(part_details)
-        
+
+    #ink        
+    if True:
+        #epson ecotank
+        if True:
+            #102
+            description_mains = []
+            description_mains.append("multipack")
+            description_mains.append("black_bottle_127_ml")
+            description_mains.append("cyan_bottle_70_ml")
+            description_mains.append("magenta_bottle_70_ml")
+            description_mains.append("yellow_bottle_70_ml")
+            for desc_main in description_mains:
+                part_details = {}
+                part_details["classification"] = "printer"
+                part_details["type"] = "ink"
+                part_details["size"] = "epson"
+                part_details["color"] = "ecotank"
+                part_details["description_main"] = desc_main
+                part_details["description_extra"] = ""
+                part_details["manufacturer"] = "epson"
+                part_details["part_number_exact"] = "102"
+                part_details["part_number"] = part_details["part_number_exact"].replace("-", "_").replace(" ", "_").lower()
+                # amazon
+                part_details["distributor_amazon"] = "B08BXSR45Z"
+                part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+                parts.append(copy.deepcopy(part_details))
+
+            #104
+            description_mains = []
+            description_mains.append("multipack")
+            description_mains.append("black_bottle_65_ml")
+            description_mains.append("cyan_bottle_65_ml")
+            description_mains.append("magenta_bottle_65_ml")
+            description_mains.append("yellow_bottle_65_ml")
+
+            for desc_main in description_mains:
+                part_details = {}
+                part_details["classification"] = "printer"
+                part_details["type"] = "ink"
+                part_details["size"] = "inkjet_paper"
+                part_details["color"] = "ecotank"
+                part_details["description_main"] = desc_main
+                part_details["description_extra"] = ""
+                part_details["manufacturer"] = "epson"
+                part_details["part_number_exact"] = "104"
+                part_details["part_number"] = part_details["part_number_exact"].replace("-", "_").replace(" ", "_").lower()
+                # amazon
+                part_details["distributor_amazon"] = "B08BXT7Z6J"
+                part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+                parts.append(copy.deepcopy(part_details))
+
+
+        #sublimation ink
+        if True:
+            #a_sub sublimation
+            description_mains = []
+            description_mains.append("multipack")
+            description_mains.append("black_bottle_120_ml")
+            description_mains.append("cyan_bottle_120_ml")
+            description_mains.append("magenta_bottle_120_ml")
+            description_mains.append("yellow_bottle_120_ml")
+
+            for desc_main in description_mains:
+                part_details = {}
+                part_details["classification"] = "printer"
+                part_details["type"] = "ink"
+                part_details["size"] = "inkjet_sublimation"
+                part_details["color"] = ""
+                part_details["description_main"] = desc_main
+                part_details["description_extra"] = ""
+                part_details["manufacturer"] = "a_sub"
+                part_details["part_number"] = ""
+                # amazon
+                part_details["distributor_amazon"] = "B08D9HWXKM"
+                part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
+                parts.append(copy.deepcopy(part_details))
 
     oomp.add_parts(parts, make_files=make_files)
     
