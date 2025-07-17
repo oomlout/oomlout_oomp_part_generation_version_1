@@ -530,6 +530,14 @@ def load_parts(**kwargs):
         part_details["name_short"] = "Oats Porridge"
         parts.append(part_details)
 
+        #corn meal white pre cooked
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "corn_meal"
+        part_details["color"] = "white"
+        part_details["description_main"] = "pre_cooked"
+        part_details["description"] = "corn_meal_white_pre_cooked"
+
+
         # pasta
         if True:
             part_details = copy.deepcopy(current_default)

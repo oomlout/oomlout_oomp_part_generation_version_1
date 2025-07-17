@@ -131,6 +131,22 @@ def load_parts(**kwargs):
         part_details["short_name"] = "Hewlett Packard Designjet 650C"
         parts.append(part_details)
 
+    #digital duplicator
+    if True:
+        #mutoh valuejet vj-1304
+        part_details = {}
+        part_details["classification"] = "printer"
+        part_details["type"] = "digital_duplicator"
+        part_details["size"] = "a4"
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "duplo"
+        part_details["part_number_exact"] = "DP-21S"
+        part_details["part_number"] = part_details["part_number_exact"].replace("-", "_").replace(" ", "_").lower()
+        part_details["short_name"] = ""
+        parts.append(part_details)
+
     #ink        
     if True:
         #epson ecotank

@@ -91,6 +91,33 @@ def load_parts(**kwargs):
         part_details["link_distributor_ikea"] = "https://www.ikea.com/gb/en/p/solfagel-acrylic-paint-mixed-colours-10544237/"
         parts.append(part_details)
 
+        #easel
+        if True:
+            part_details = copy.deepcopy(default_craft)
+            part_details["type"] = "paint"
+            part_details["size"] = "easel"
+
+            default_current = copy.deepcopy(part_details)
+
+            #floor_standing
+            part_details = copy.deepcopy(default_current)
+            part_details["description_main"] = "floor_standing"
+            part_details["description_extra"] = ""            
+            parts.append(part_details)
+
+            #table_top
+            part_details = copy.deepcopy(default_current)
+            part_details["description_main"] = "table_top"
+            part_details["description_extra"] = ""
+            parts.append(part_details)
+
+            #table_top minimal
+            part_details = copy.deepcopy(default_current)
+            part_details["description_main"] = "table_top"
+            part_details["description_extra"] = "minimal"
+            parts.append(part_details)
+
+
     #rubber stamp
     if True:
         part_details = copy.deepcopy(default_craft)

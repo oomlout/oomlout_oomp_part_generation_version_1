@@ -422,7 +422,7 @@ def load_parts(**kwargs):
                     part_details["description_extra"] = description_extra
                     part_details["manufacturer"] = ""
                     part_details["part_number"] = ""
-                    parts.append(part_details)        
+                    parts.append(copy.deepcopy(part_details))        
 
 
 

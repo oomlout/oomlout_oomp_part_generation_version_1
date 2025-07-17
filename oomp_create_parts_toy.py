@@ -239,6 +239,8 @@ def load_parts(**kwargs):
             part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details['distributor_aliexpress']}.html"
             parts.append(part_details)    
 
+         
+        
         #building block compatible
         if True:
             part_details = copy.deepcopy(default_empty)
@@ -306,7 +308,18 @@ def load_parts(**kwargs):
         part_details["short_name"] = ""  
         parts.append(part_details)    
 
-        
+    #stuffie
+    if True:
+        part_details = {}
+        part_details["classification"] = "toy"
+        part_details["type"] = "stuffie"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        part_details["short_name"] = ""  
 
 
     oomp.add_parts(parts, make_files=make_files)

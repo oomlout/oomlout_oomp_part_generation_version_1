@@ -17,6 +17,8 @@ part_types.append("appliance_vacuum_cleaner")
 
 part_types.append("archive")
 
+part_types.append("book")
+
 part_types.append("camera")
 
 part_types.append("clothes")
@@ -136,6 +138,7 @@ part_types.append("three_d_printer_printer")
 part_types.append("video_game_console")
 part_types.append("vinyl")
 
+part_types.append("task")
 part_types.append("tool")
 
 part_types.append("toy")
