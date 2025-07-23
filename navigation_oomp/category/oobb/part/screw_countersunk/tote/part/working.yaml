@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: screw_countersunk
+color_capital: Screw Countersunk
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SCREW_COUNTERSUNK
+description: category_oobb
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_oobb_part_screw_countersunk_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_oobb_part_screw_countersunk_tote
+id_no_class: oobb_part_screw_countersunk_tote
+id_no_size: screw_countersunk_tote
+id_no_type: part_screw_countersunk_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_countersunk_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_countersunk_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_countersunk_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_screw_countersunk_tote](none)<br>[](none)<br>[Category
+    Oobb Part Screw Countersunk Tote](none)<br><br>'
+markdown_short: '[category_oobb_part_screw_countersunk_tote](none)<br><br>'
+md5: 2c07e0e16ed0a1003767161d6001c306
+md5_10: 2c07e0e16e
+md5_10_upper: 2C07E0E16E
+md5_5: 2c07e
+md5_5_upper: 2C07E
+md5_6: 2c07e0
+md5_6_alpha: 1pujk
+md5_6_alpha_upper: 1PUJK
+md5_6_upper: 2C07E0
+name: Category Oobb Part Screw Countersunk Tote
+name_no_class: Oobb Part Screw Countersunk Tote
+name_no_size: Screw Countersunk Tote
+name_no_size_short: Screw Countersunk Tote
+name_no_type: Part Screw Countersunk Tote
+oomp_key: oomp_category_oobb_part_screw_countersunk_tote
+oomp_word: snowflake cry ship
+oomp_word_emoji: ':snowflake: :cry: :ship:'
+oomp_word_emoji_list:
+- ':snowflake:'
+- ':cry:'
+- ':ship:'
+oomp_word_list:
+- snowflake
+- cry
+- ship
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

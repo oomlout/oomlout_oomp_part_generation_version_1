@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: screw_countersunk
+color_capital: Screw Countersunk
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SCREW_COUNTERSUNK
+description: category_oobb
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_oobb_part_screw_countersunk
+distributors: []
+filter: ''
+from_yaml: false
+id: category_oobb_part_screw_countersunk
+id_no_class: oobb_part_screw_countersunk
+id_no_size: screw_countersunk
+id_no_type: part_screw_countersunk
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_countersunk
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_countersunk
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_countersunk
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_screw_countersunk](none)<br>[](none)<br>[Category
+    Oobb Part Screw Countersunk](none)<br><br>'
+markdown_short: '[category_oobb_part_screw_countersunk](none)<br><br>'
+md5: dbda51c36a1555681e6586f35d03e912
+md5_10: dbda51c36a
+md5_10_upper: DBDA51C36A
+md5_5: dbda5
+md5_5_upper: DBDA5
+md5_6: dbda51
+md5_6_alpha: 8ktht
+md5_6_alpha_upper: 8KTHT
+md5_6_upper: DBDA51
+name: Category Oobb Part Screw Countersunk
+name_no_class: Oobb Part Screw Countersunk
+name_no_size: Screw Countersunk
+name_no_size_short: Screw Countersunk
+name_no_type: Part Screw Countersunk
+oomp_key: oomp_category_oobb_part_screw_countersunk
+oomp_word: tent hotel snail
+oomp_word_emoji: ':tent: :hotel: :snail:'
+oomp_word_emoji_list:
+- ':tent:'
+- ':hotel:'
+- ':snail:'
+oomp_word_list:
+- tent
+- hotel
+- snail
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

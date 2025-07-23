@@ -1,0 +1,94 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+description_extra_capital: Computer Power Supply Microsoft Surface Standalone Microsoft
+    Model 1625 Extra
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: COMPUTER_POWER_SUPPLY_MICROSOFT_SURFACE_STANDALONE_MICROSOFT_MODEL_1625_EXTRA
+description_main: 9_width_6_height_3_mm_depth
+description_main_capital: 9 Width 6 Height 3 mm Depth
+description_main_first_letter: '9'
+description_main_first_letter_upper: '9'
+description_main_upper: 9_WIDTH_6_HEIGHT_3_MM_DEPTH
+description_only_numbers: '963'
+description_only_numbers_short: '963'
+description_or_color: '963'
+description_or_color_upper: '963'
+directory: parts/oobb_part_holder_9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+distributors: []
+id: oobb_part_holder_9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+id_no_class: part_holder_9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+id_no_size: 9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+id_no_type: holder_9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_holder_9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra](none)<br>[](none)<br>[Oobb
+    Part Holder 9 Width 6 Height 3 Mm Depth Computer Power Supply Microsoft Surface
+    Standalone Microsoft Model 1625 Extra](none)<br><br>'
+markdown_short: '[oobb_part_holder_9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra](none)<br><br>'
+md5: 97857c8b19bd88564934528e0ed016e5
+md5_10: 97857c8b19
+md5_10_upper: 97857C8B19
+md5_5: '97857'
+md5_5_upper: '97857'
+md5_6: 97857c
+md5_6_alpha: 5wu4c
+md5_6_alpha_upper: 5WU4C
+md5_6_upper: 97857C
+name: Oobb Part Holder 9 Width 6 Height 3 Mm Depth Computer Power Supply Microsoft
+    Surface Standalone Microsoft Model 1625 Extra
+name_no_class: Part Holder 9 Width 6 Height 3 Mm Depth Computer Power Supply Microsoft
+    Surface Standalone Microsoft Model 1625 Extra
+name_no_size: 9 Width 6 Height 3 Mm Depth Computer Power Supply Microsoft Surface
+    Standalone Microsoft Model 1625 Extra
+name_no_size_short: 9 Width 6 Height 3 Mm Depth Computer Power Supply Microsoft Surface
+    Standalone Microsoft Model 1625 Extra
+name_no_type: Holder 9 Width 6 Height 3 Mm Depth Computer Power Supply Microsoft Surface
+    Standalone Microsoft Model 1625 Extra
+oomp_key: oomp_oobb_part_holder_9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+oomp_word: baseball bulb tv
+oomp_word_emoji: ':baseball: :bulb: :tv:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':bulb:'
+- ':tv:'
+oomp_word_list:
+- baseball
+- bulb
+- tv
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: holder
+size_capital: Holder
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOLDER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

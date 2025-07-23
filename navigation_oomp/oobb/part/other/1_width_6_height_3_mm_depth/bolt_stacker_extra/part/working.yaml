@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: bolt_stacker_extra
+description_extra_capital: Bolt Stacker Extra
+description_extra_first_letter: b
+description_extra_first_letter_upper: B
+description_extra_upper: BOLT_STACKER_EXTRA
+description_main: 1_width_6_height_3_mm_depth
+description_main_capital: 1 Width 6 Height 3 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 1_WIDTH_6_HEIGHT_3_MM_DEPTH
+description_only_numbers: '163'
+description_only_numbers_short: '163'
+description_or_color: '163'
+description_or_color_upper: '163'
+directory: parts/oobb_part_other_1_width_6_height_3_mm_depth_bolt_stacker_extra
+distributors: []
+id: oobb_part_other_1_width_6_height_3_mm_depth_bolt_stacker_extra
+id_no_class: part_other_1_width_6_height_3_mm_depth_bolt_stacker_extra
+id_no_size: 1_width_6_height_3_mm_depth_bolt_stacker_extra
+id_no_type: other_1_width_6_height_3_mm_depth_bolt_stacker_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_other_1_width_6_height_3_mm_depth_bolt_stacker_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_other_1_width_6_height_3_mm_depth_bolt_stacker_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_other_1_width_6_height_3_mm_depth_bolt_stacker_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_other_1_width_6_height_3_mm_depth_bolt_stacker_extra](none)<br>[](none)<br>[Oobb
+    Part Other 1 Width 6 Height 3 Mm Depth Bolt Stacker Extra](none)<br><br>'
+markdown_short: '[oobb_part_other_1_width_6_height_3_mm_depth_bolt_stacker_extra](none)<br><br>'
+md5: 6a95e4d182a316bae128f938acb18a17
+md5_10: 6a95e4d182
+md5_10_upper: 6A95E4D182
+md5_5: 6a95e
+md5_5_upper: 6A95E
+md5_6: 6a95e4
+md5_6_alpha: 45pt0
+md5_6_alpha_upper: 45PT0
+md5_6_upper: 6A95E4
+name: Oobb Part Other 1 Width 6 Height 3 Mm Depth Bolt Stacker Extra
+name_no_class: Part Other 1 Width 6 Height 3 Mm Depth Bolt Stacker Extra
+name_no_size: 1 Width 6 Height 3 Mm Depth Bolt Stacker Extra
+name_no_size_short: 1 Width 6 Height 3 Mm Depth Bolt Stacker Extra
+name_no_type: Other 1 Width 6 Height 3 Mm Depth Bolt Stacker Extra
+oomp_key: oomp_oobb_part_other_1_width_6_height_3_mm_depth_bolt_stacker_extra
+oomp_word: palm_tree telescope anchor
+oomp_word_emoji: ':palm_tree: :telescope: :anchor:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':telescope:'
+- ':anchor:'
+oomp_word_list:
+- palm_tree
+- telescope
+- anchor
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: other
+size_capital: Other
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OTHER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

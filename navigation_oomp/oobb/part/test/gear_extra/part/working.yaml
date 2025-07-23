@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: gear_extra
+description_extra_capital: Gear Extra
+description_extra_first_letter: g
+description_extra_first_letter_upper: G
+description_extra_upper: GEAR_EXTRA
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_test_gear_extra
+distributors: []
+id: oobb_part_test_gear_extra
+id_no_class: part_test_gear_extra
+id_no_size: gear_extra
+id_no_type: test_gear_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_test_gear_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_test_gear_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_test_gear_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_test_gear_extra](none)<br>[](none)<br>[Oobb Part Test Gear
+    Extra](none)<br><br>'
+markdown_short: '[oobb_part_test_gear_extra](none)<br><br>'
+md5: 9400e6f96dd56eab9e1a13bf1d7cfa91
+md5_10: 9400e6f96d
+md5_10_upper: 9400E6F96D
+md5_5: 9400e
+md5_5_upper: 9400E
+md5_6: 9400e6
+md5_6_alpha: 5rw86
+md5_6_alpha_upper: 5RW86
+md5_6_upper: 9400E6
+name: Oobb Part Test Gear Extra
+name_no_class: Part Test Gear Extra
+name_no_size: Gear Extra
+name_no_size_short: Gear Extra
+name_no_type: Test Gear Extra
+oomp_key: oomp_oobb_part_test_gear_extra
+oomp_word: microscope bowtie airplane
+oomp_word_emoji: ':microscope: :bowtie: :airplane:'
+oomp_word_emoji_list:
+- ':microscope:'
+- ':bowtie:'
+- ':airplane:'
+oomp_word_list:
+- microscope
+- bowtie
+- airplane
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: test
+size_capital: Test
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TEST
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,89 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: motor_servo_standard_01_shaft_16_teeth_extra
+description_extra_capital: Motor Servo Standard 01 Shaft 16 Teeth Extra
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: MOTOR_SERVO_STANDARD_01_SHAFT_16_TEETH_EXTRA
+description_main: 2_diameter_3_mm_depth
+description_main_capital: 2 Diameter 3 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 2_DIAMETER_3_MM_DEPTH
+description_only_numbers: '23'
+description_only_numbers_short: '23'
+description_or_color: '23'
+description_or_color_upper: '23'
+directory: parts/oobb_part_gear_2_diameter_3_mm_depth_motor_servo_standard_01_shaft_16_teeth_extra
+distributors: []
+id: oobb_part_gear_2_diameter_3_mm_depth_motor_servo_standard_01_shaft_16_teeth_extra
+id_no_class: part_gear_2_diameter_3_mm_depth_motor_servo_standard_01_shaft_16_teeth_extra
+id_no_size: 2_diameter_3_mm_depth_motor_servo_standard_01_shaft_16_teeth_extra
+id_no_type: gear_2_diameter_3_mm_depth_motor_servo_standard_01_shaft_16_teeth_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_2_diameter_3_mm_depth_motor_servo_standard_01_shaft_16_teeth_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_2_diameter_3_mm_depth_motor_servo_standard_01_shaft_16_teeth_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_2_diameter_3_mm_depth_motor_servo_standard_01_shaft_16_teeth_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_gear_2_diameter_3_mm_depth_motor_servo_standard_01_shaft_16_teeth_extra](none)<br>[](none)<br>[Oobb
+    Part Gear 2 Diameter 3 Mm Depth Motor Servo Standard 01 Shaft 16 Teeth Extra](none)<br><br>'
+markdown_short: '[oobb_part_gear_2_diameter_3_mm_depth_motor_servo_standard_01_shaft_16_teeth_extra](none)<br><br>'
+md5: be2e5d04622afe15cd9ab2726ec93a7d
+md5_10: be2e5d0462
+md5_10_upper: BE2E5D0462
+md5_5: be2e5
+md5_5_upper: BE2E5
+md5_6: be2e5d
+md5_6_alpha: 7f525
+md5_6_alpha_upper: 7F525
+md5_6_upper: BE2E5D
+name: Oobb Part Gear 2 Diameter 3 Mm Depth Motor Servo Standard 01 Shaft 16 Teeth
+    Extra
+name_no_class: Part Gear 2 Diameter 3 Mm Depth Motor Servo Standard 01 Shaft 16 Teeth
+    Extra
+name_no_size: 2 Diameter 3 Mm Depth Motor Servo Standard 01 Shaft 16 Teeth Extra
+name_no_size_short: 2 Diameter 3 Mm Depth Motor Servo Standard 01 Shaft 16 Teeth Extra
+name_no_type: Gear 2 Diameter 3 Mm Depth Motor Servo Standard 01 Shaft 16 Teeth Extra
+oomp_key: oomp_oobb_part_gear_2_diameter_3_mm_depth_motor_servo_standard_01_shaft_16_teeth_extra
+oomp_word: ramen zap blowfish
+oomp_word_emoji: ':ramen: :zap: :blowfish:'
+oomp_word_emoji_list:
+- ':ramen:'
+- ':zap:'
+- ':blowfish:'
+oomp_word_list:
+- ramen
+- zap
+- blowfish
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: gear
+size_capital: Gear
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GEAR
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

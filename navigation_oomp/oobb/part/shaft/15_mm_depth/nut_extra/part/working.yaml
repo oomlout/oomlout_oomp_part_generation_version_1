@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: nut_extra
+description_extra_capital: Nut Extra
+description_extra_first_letter: n
+description_extra_first_letter_upper: N
+description_extra_upper: NUT_EXTRA
+description_main: 15_mm_depth
+description_main_capital: 15 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 15_MM_DEPTH
+description_only_numbers: '15'
+description_only_numbers_short: '15'
+description_or_color: '15'
+description_or_color_upper: '15'
+directory: parts/oobb_part_shaft_15_mm_depth_nut_extra
+distributors: []
+id: oobb_part_shaft_15_mm_depth_nut_extra
+id_no_class: part_shaft_15_mm_depth_nut_extra
+id_no_size: 15_mm_depth_nut_extra
+id_no_type: shaft_15_mm_depth_nut_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_15_mm_depth_nut_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_15_mm_depth_nut_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_15_mm_depth_nut_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_shaft_15_mm_depth_nut_extra](none)<br>[](none)<br>[Oobb
+    Part Shaft 15 Mm Depth Nut Extra](none)<br><br>'
+markdown_short: '[oobb_part_shaft_15_mm_depth_nut_extra](none)<br><br>'
+md5: 273481fbb585e0dd4af701dd29d51633
+md5_10: 273481fbb5
+md5_10_upper: 273481FBB5
+md5_5: '27348'
+md5_5_upper: '27348'
+md5_6: '273481'
+md5_6_alpha: 1j2ip
+md5_6_alpha_upper: 1J2IP
+md5_6_upper: '273481'
+name: Oobb Part Shaft 15 Mm Depth Nut Extra
+name_no_class: Part Shaft 15 Mm Depth Nut Extra
+name_no_size: 15 Mm Depth Nut Extra
+name_no_size_short: 15 Mm Depth Nut Extra
+name_no_type: Shaft 15 Mm Depth Nut Extra
+oomp_key: oomp_oobb_part_shaft_15_mm_depth_nut_extra
+oomp_word: nose mouse watch
+oomp_word_emoji: ':nose: :mouse: :watch:'
+oomp_word_emoji_list:
+- ':nose:'
+- ':mouse:'
+- ':watch:'
+oomp_word_list:
+- nose
+- mouse
+- watch
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: shaft
+size_capital: Shaft
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHAFT
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

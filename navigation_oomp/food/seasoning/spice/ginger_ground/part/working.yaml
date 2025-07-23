@@ -1,0 +1,90 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: ginger ground
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ginger_ground
+description_main_capital: Ginger Ground
+description_main_first_letter: g
+description_main_first_letter_upper: G
+description_main_upper: GINGER_GROUND
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_spice_ginger_ground
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_spice_ginger_ground
+id_no_class: seasoning_spice_ginger_ground
+id_no_size: ginger_ground
+id_no_type: spice_ginger_ground
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_ginger_ground
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_ginger_ground
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_ginger_ground
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_spice_ginger_ground](none)<br>[](none)<br>[Food Seasoning
+    Spice Ginger Ground](none)<br><br>'
+markdown_short: '[food_seasoning_spice_ginger_ground](none)<br><br>'
+md5: c8048bfe8c7d97a7d9f69da2222d752b
+md5_10: c8048bfe8c
+md5_10_upper: C8048BFE8C
+md5_5: c8048
+md5_5_upper: C8048
+md5_6: c8048b
+md5_6_alpha: 7syh7
+md5_6_alpha_upper: 7SYH7
+md5_6_upper: C8048B
+name: Food Seasoning Spice Ginger Ground
+name_no_class: Seasoning Spice Ginger Ground
+name_no_size: Ginger Ground
+name_no_size_short: Ginger Ground
+name_no_type: Spice Ginger Ground
+name_short: Ginger Ground
+oomp_key: oomp_food_seasoning_spice_ginger_ground
+oomp_word: apple wink door
+oomp_word_emoji: ':apple: :wink: :door:'
+oomp_word_emoji_list:
+- ':apple:'
+- ':wink:'
+- ':door:'
+oomp_word_list:
+- apple
+- wink
+- door
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: spice
+size_capital: Spice
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPICE
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

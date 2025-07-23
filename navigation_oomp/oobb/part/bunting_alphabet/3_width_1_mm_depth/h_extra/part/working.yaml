@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: h_extra
+description_extra_capital: H Extra
+description_extra_first_letter: h
+description_extra_first_letter_upper: H
+description_extra_upper: H_EXTRA
+description_main: 3_width_1_mm_depth
+description_main_capital: 3 Width 1 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_1_MM_DEPTH
+description_only_numbers: '31'
+description_only_numbers_short: '31'
+description_or_color: '31'
+description_or_color_upper: '31'
+directory: parts/oobb_part_bunting_alphabet_3_width_1_mm_depth_h_extra
+distributors: []
+id: oobb_part_bunting_alphabet_3_width_1_mm_depth_h_extra
+id_no_class: part_bunting_alphabet_3_width_1_mm_depth_h_extra
+id_no_size: 3_width_1_mm_depth_h_extra
+id_no_type: bunting_alphabet_3_width_1_mm_depth_h_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_3_width_1_mm_depth_h_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_3_width_1_mm_depth_h_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_3_width_1_mm_depth_h_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bunting_alphabet_3_width_1_mm_depth_h_extra](none)<br>[](none)<br>[Oobb
+    Part Bunting Alphabet 3 Width 1 Mm Depth H Extra](none)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_3_width_1_mm_depth_h_extra](none)<br><br>'
+md5: 3bdffa2516a14d2112c147b48bdf8de2
+md5_10: 3bdffa2516
+md5_10_upper: 3BDFFA2516
+md5_5: 3bdff
+md5_5_upper: 3BDFF
+md5_6: 3bdffa
+md5_6_alpha: 2c3qy
+md5_6_alpha_upper: 2C3QY
+md5_6_upper: 3BDFFA
+name: Oobb Part Bunting Alphabet 3 Width 1 Mm Depth H Extra
+name_no_class: Part Bunting Alphabet 3 Width 1 Mm Depth H Extra
+name_no_size: 3 Width 1 Mm Depth H Extra
+name_no_size_short: 3 Width 1 Mm Depth H Extra
+name_no_type: Bunting Alphabet 3 Width 1 Mm Depth H Extra
+oomp_key: oomp_oobb_part_bunting_alphabet_3_width_1_mm_depth_h_extra
+oomp_word: bear fountain nine
+oomp_word_emoji: ':bear: :fountain: :nine:'
+oomp_word_emoji_list:
+- ':bear:'
+- ':fountain:'
+- ':nine:'
+oomp_word_list:
+- bear
+- fountain
+- nine
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bunting_alphabet
+size_capital: Bunting Alphabet
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNTING_ALPHABET
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

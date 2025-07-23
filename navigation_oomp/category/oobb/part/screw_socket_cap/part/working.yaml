@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: screw_socket_cap
+color_capital: Screw Socket Cap
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SCREW_SOCKET_CAP
+description: category_oobb
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_oobb_part_screw_socket_cap
+distributors: []
+filter: ''
+from_yaml: false
+id: category_oobb_part_screw_socket_cap
+id_no_class: oobb_part_screw_socket_cap
+id_no_size: screw_socket_cap
+id_no_type: part_screw_socket_cap
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_socket_cap
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_socket_cap
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_screw_socket_cap
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_screw_socket_cap](none)<br>[](none)<br>[Category
+    Oobb Part Screw Socket Cap](none)<br><br>'
+markdown_short: '[category_oobb_part_screw_socket_cap](none)<br><br>'
+md5: 1dc6439624671e6efff80967d8d83abf
+md5_10: 1dc6439624
+md5_10_upper: 1DC6439624
+md5_5: 1dc64
+md5_5_upper: 1DC64
+md5_6: 1dc643
+md5_6_alpha: 15tmr
+md5_6_alpha_upper: 15TMR
+md5_6_upper: 1DC643
+name: Category Oobb Part Screw Socket Cap
+name_no_class: Oobb Part Screw Socket Cap
+name_no_size: Screw Socket Cap
+name_no_size_short: Screw Socket Cap
+name_no_type: Part Screw Socket Cap
+oomp_key: oomp_category_oobb_part_screw_socket_cap
+oomp_word: baby lollipop elephant
+oomp_word_emoji: ':baby: :lollipop: :elephant:'
+oomp_word_emoji_list:
+- ':baby:'
+- ':lollipop:'
+- ':elephant:'
+oomp_word_list:
+- baby
+- lollipop
+- elephant
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

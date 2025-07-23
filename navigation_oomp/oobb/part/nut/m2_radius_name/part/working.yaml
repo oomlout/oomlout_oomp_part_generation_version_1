@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: m2_radius_name
+description_extra_capital: M2 Radius Name
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: M2_RADIUS_NAME
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_nut_m2_radius_name
+distributors: []
+id: oobb_part_nut_m2_radius_name
+id_no_class: part_nut_m2_radius_name
+id_no_size: m2_radius_name
+id_no_type: nut_m2_radius_name
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_nut_m2_radius_name
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_nut_m2_radius_name
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_nut_m2_radius_name
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_nut_m2_radius_name](none)<br>[](none)<br>[Oobb Part Nut
+    M2 Radius Name](none)<br><br>'
+markdown_short: '[oobb_part_nut_m2_radius_name](none)<br><br>'
+md5: b1fa59df6c38685a2fbd57674090daed
+md5_10: b1fa59df6c
+md5_10_upper: B1FA59DF6C
+md5_5: b1fa5
+md5_5_upper: B1FA5
+md5_6: b1fa59
+md5_6_alpha: 6xzyx
+md5_6_alpha_upper: 6XZYX
+md5_6_upper: B1FA59
+name: Oobb Part Nut M2 Radius Name
+name_no_class: Part Nut M2 Radius Name
+name_no_size: M2 Radius Name
+name_no_size_short: M2 Radius Name
+name_no_type: Nut M2 Radius Name
+oomp_key: oomp_oobb_part_nut_m2_radius_name
+oomp_word: briefcase nine dragon
+oomp_word_emoji: ':briefcase: :nine: :dragon:'
+oomp_word_emoji_list:
+- ':briefcase:'
+- ':nine:'
+- ':dragon:'
+oomp_word_list:
+- briefcase
+- nine
+- dragon
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: nut
+size_capital: Nut
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NUT
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

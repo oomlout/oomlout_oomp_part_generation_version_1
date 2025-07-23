@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: bearing_plate_shim
+color_capital: Bearing Plate Shim
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BEARING_PLATE_SHIM
+description: category_oobb
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/category_oobb_part_bearing_plate_shim_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_oobb_part_bearing_plate_shim_tote
+id_no_class: oobb_part_bearing_plate_shim_tote
+id_no_size: bearing_plate_shim_tote
+id_no_type: part_bearing_plate_shim_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing_plate_shim_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing_plate_shim_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bearing_plate_shim_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_bearing_plate_shim_tote](none)<br>[](none)<br>[Category
+    Oobb Part Bearing Plate Shim Tote](none)<br><br>'
+markdown_short: '[category_oobb_part_bearing_plate_shim_tote](none)<br><br>'
+md5: 4dac95876f5833d015cc6e6d7a06b709
+md5_10: 4dac95876f
+md5_10_upper: 4DAC95876F
+md5_5: 4dac9
+md5_5_upper: 4DAC9
+md5_6: 4dac95
+md5_6_alpha: 313th
+md5_6_alpha_upper: 313TH
+md5_6_upper: 4DAC95
+name: Category Oobb Part Bearing Plate Shim Tote
+name_no_class: Oobb Part Bearing Plate Shim Tote
+name_no_size: Bearing Plate Shim Tote
+name_no_size_short: Bearing Plate Shim Tote
+name_no_type: Part Bearing Plate Shim Tote
+oomp_key: oomp_category_oobb_part_bearing_plate_shim_tote
+oomp_word: bug shirt telescope
+oomp_word_emoji: ':bug: :shirt: :telescope:'
+oomp_word_emoji_list:
+- ':bug:'
+- ':shirt:'
+- ':telescope:'
+oomp_word_list:
+- bug
+- shirt
+- telescope
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

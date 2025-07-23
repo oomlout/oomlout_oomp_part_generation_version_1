@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: small_extra
+description_extra_capital: Small Extra
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SMALL_EXTRA
+description_main: 0_mm_depth
+description_main_capital: 0 mm Depth
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: 0_MM_DEPTH
+description_only_numbers: '0'
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_shaft_0_mm_depth_small_extra
+distributors: []
+id: oobb_part_shaft_0_mm_depth_small_extra
+id_no_class: part_shaft_0_mm_depth_small_extra
+id_no_size: 0_mm_depth_small_extra
+id_no_type: shaft_0_mm_depth_small_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_0_mm_depth_small_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_0_mm_depth_small_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_0_mm_depth_small_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_shaft_0_mm_depth_small_extra](none)<br>[](none)<br>[Oobb
+    Part Shaft 0 Mm Depth Small Extra](none)<br><br>'
+markdown_short: '[oobb_part_shaft_0_mm_depth_small_extra](none)<br><br>'
+md5: 03972001b7972fb323b2bbdde8410aa9
+md5_10: 03972001b7
+md5_10_upper: 03972001B7
+md5_5: 03972
+md5_5_upper: 03972
+md5_6: 039720
+md5_6_alpha: 51k0
+md5_6_alpha_upper: 51K0
+md5_6_upper: 039720
+name: Oobb Part Shaft 0 Mm Depth Small Extra
+name_no_class: Part Shaft 0 Mm Depth Small Extra
+name_no_size: 0 Mm Depth Small Extra
+name_no_size_short: 0 Mm Depth Small Extra
+name_no_type: Shaft 0 Mm Depth Small Extra
+oomp_key: oomp_oobb_part_shaft_0_mm_depth_small_extra
+oomp_word: grin baseball skull
+oomp_word_emoji: ':grin: :baseball: :skull:'
+oomp_word_emoji_list:
+- ':grin:'
+- ':baseball:'
+- ':skull:'
+oomp_word_list:
+- grin
+- baseball
+- skull
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: shaft
+size_capital: Shaft
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHAFT
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

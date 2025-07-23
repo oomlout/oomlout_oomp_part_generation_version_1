@@ -1,0 +1,93 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: quarter_inch_pipe_thread_shaft_ptfe_tube_holder_extra
+description_extra_capital: Quarter Inch Pipe Thread Shaft Ptfe Tube Holder Extra
+description_extra_first_letter: q
+description_extra_first_letter_upper: Q
+description_extra_upper: QUARTER_INCH_PIPE_THREAD_SHAFT_PTFE_TUBE_HOLDER_EXTRA
+description_main: 1_width_5_height_14_mm_depth
+description_main_capital: 1 Width 5 Height 14 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 1_WIDTH_5_HEIGHT_14_MM_DEPTH
+description_only_numbers: '1514'
+description_only_numbers_short: 1k5
+description_or_color: 1k5
+description_or_color_upper: 1K5
+directory: parts/oobb_part_other_1_width_5_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_extra
+distributors: []
+id: oobb_part_other_1_width_5_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_extra
+id_no_class: part_other_1_width_5_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_extra
+id_no_size: 1_width_5_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_extra
+id_no_type: other_1_width_5_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_other_1_width_5_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_other_1_width_5_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_other_1_width_5_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_other_1_width_5_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_extra](none)<br>[](none)<br>[Oobb
+    Part Other 1 Width 5 Height 14 Mm Depth Quarter Inch Pipe Thread Shaft Ptfe Tube
+    Holder Extra](none)<br><br>'
+markdown_short: '[oobb_part_other_1_width_5_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_extra](none)<br><br>'
+md5: f6c6c9a50ce5e8316fb7570ead7cb47a
+md5_10: f6c6c9a50c
+md5_10_upper: F6C6C9A50C
+md5_5: f6c6c
+md5_5_upper: F6C6C
+md5_6: f6c6c9
+md5_6_alpha: 9mmyx
+md5_6_alpha_upper: 9MMYX
+md5_6_upper: F6C6C9
+name: Oobb Part Other 1 Width 5 Height 14 Mm Depth Quarter Inch Pipe Thread Shaft
+    Ptfe Tube Holder Extra
+name_no_class: Part Other 1 Width 5 Height 14 Mm Depth Quarter Inch Pipe Thread Shaft
+    Ptfe Tube Holder Extra
+name_no_size: 1 Width 5 Height 14 Mm Depth Quarter Inch Pipe Thread Shaft Ptfe Tube
+    Holder Extra
+name_no_size_short: 1 Width 5 Height 14 Mm Depth Quarter Inch Pipe Thread Shaft Ptfe
+    Tube Holder Extra
+name_no_type: Other 1 Width 5 Height 14 Mm Depth Quarter Inch Pipe Thread Shaft Ptfe
+    Tube Holder Extra
+oomp_key: oomp_oobb_part_other_1_width_5_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_extra
+oomp_word: five lollipop lemon
+oomp_word_emoji: ':five: :lollipop: :lemon:'
+oomp_word_emoji_list:
+- ':five:'
+- ':lollipop:'
+- ':lemon:'
+oomp_word_list:
+- five
+- lollipop
+- lemon
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: other
+size_capital: Other
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OTHER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

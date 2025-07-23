@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 6806_bearing_name
+description_extra_capital: 6806 Bearing Name
+description_extra_first_letter: '6'
+description_extra_first_letter_upper: '6'
+description_extra_upper: 6806_BEARING_NAME
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_bearing_6806_bearing_name
+distributors: []
+id: oobb_part_bearing_6806_bearing_name
+id_no_class: part_bearing_6806_bearing_name
+id_no_size: 6806_name
+id_no_type: bearing_6806_bearing_name
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6806_bearing_name
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6806_bearing_name
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6806_bearing_name
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bearing_6806_bearing_name](none)<br>[](none)<br>[Oobb Part
+    Bearing 6806 Bearing Name](none)<br><br>'
+markdown_short: '[oobb_part_bearing_6806_bearing_name](none)<br><br>'
+md5: 9a3d9387b52f4ab15250c3e389f7cbf2
+md5_10: 9a3d9387b5
+md5_10_upper: 9A3D9387B5
+md5_5: 9a3d9
+md5_5_upper: 9A3D9
+md5_6: 9a3d93
+md5_6_alpha: 60nmb
+md5_6_alpha_upper: 60NMB
+md5_6_upper: 9A3D93
+name: Oobb Part Bearing 6806 Bearing Name
+name_no_class: Part Bearing 6806 Bearing Name
+name_no_size: 6806 Name
+name_no_size_short: 6806 Name
+name_no_type: Bearing 6806 Bearing Name
+oomp_key: oomp_oobb_part_bearing_6806_bearing_name
+oomp_word: golf cow books
+oomp_word_emoji: ':golf: :cow: :books:'
+oomp_word_emoji_list:
+- ':golf:'
+- ':cow:'
+- ':books:'
+oomp_word_list:
+- golf
+- cow
+- books
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bearing
+size_capital: Bearing
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

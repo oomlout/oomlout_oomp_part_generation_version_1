@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 6704_bearing
+description_extra_capital: 6704 Bearing
+description_extra_first_letter: '6'
+description_extra_first_letter_upper: '6'
+description_extra_upper: 6704_BEARING
+description_main: 2_mm_depth
+description_main_capital: 2 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 2_MM_DEPTH
+description_only_numbers: '2'
+description_only_numbers_short: '2'
+description_or_color: '2'
+description_or_color_upper: '2'
+directory: parts/oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing
+distributors: []
+id: oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing
+id_no_class: part_bearing_plate_shim_2_mm_depth_6704_bearing
+id_no_size: 2_mm_depth_6704_bearing
+id_no_type: bearing_plate_shim_2_mm_depth_6704_bearing
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing](none)<br>[](none)<br>[Oobb
+    Part Bearing Plate Shim 2 Mm Depth 6704 Bearing](none)<br><br>'
+markdown_short: '[oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing](none)<br><br>'
+md5: 81ffd734a425c5c757fb2f7168c37195
+md5_10: 81ffd734a4
+md5_10_upper: 81FFD734A4
+md5_5: 81ffd
+md5_5_upper: 81FFD
+md5_6: 81ffd7
+md5_6_alpha: 52lsn
+md5_6_alpha_upper: 52LSN
+md5_6_upper: 81FFD7
+name: Oobb Part Bearing Plate Shim 2 Mm Depth 6704 Bearing
+name_no_class: Part Bearing Plate Shim 2 Mm Depth 6704 Bearing
+name_no_size: 2 Mm Depth 6704 Bearing
+name_no_size_short: 2 Mm Depth 6704 Bearing
+name_no_type: Bearing Plate Shim 2 Mm Depth 6704 Bearing
+oomp_key: oomp_oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing
+oomp_word: watch trident office
+oomp_word_emoji: ':watch: :trident: :office:'
+oomp_word_emoji_list:
+- ':watch:'
+- ':trident:'
+- ':office:'
+oomp_word_list:
+- watch
+- trident
+- office
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bearing_plate_shim
+size_capital: Bearing Plate Shim
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING_PLATE_SHIM
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

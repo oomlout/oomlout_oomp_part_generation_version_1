@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 6830_bearing_name
+description_extra_capital: 6830 Bearing Name
+description_extra_first_letter: '6'
+description_extra_first_letter_upper: '6'
+description_extra_upper: 6830_BEARING_NAME
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/oobb_part_bearing_6830_bearing_name
+distributors: []
+id: oobb_part_bearing_6830_bearing_name
+id_no_class: part_bearing_6830_bearing_name
+id_no_size: 6830_name
+id_no_type: bearing_6830_bearing_name
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6830_bearing_name
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6830_bearing_name
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_6830_bearing_name
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bearing_6830_bearing_name](none)<br>[](none)<br>[Oobb Part
+    Bearing 6830 Bearing Name](none)<br><br>'
+markdown_short: '[oobb_part_bearing_6830_bearing_name](none)<br><br>'
+md5: 8c0d71631213638d8a5426a4b58f40d6
+md5_10: 8c0d716312
+md5_10_upper: 8C0D716312
+md5_5: 8c0d7
+md5_5_upper: 8C0D7
+md5_6: 8c0d71
+md5_6_alpha: 5gq5t
+md5_6_alpha_upper: 5GQ5T
+md5_6_upper: 8C0D71
+name: Oobb Part Bearing 6830 Bearing Name
+name_no_class: Part Bearing 6830 Bearing Name
+name_no_size: 6830 Name
+name_no_size_short: 6830 Name
+name_no_type: Bearing 6830 Bearing Name
+oomp_key: oomp_oobb_part_bearing_6830_bearing_name
+oomp_word: pill heart bamboo
+oomp_word_emoji: ':pill: :heart: :bamboo:'
+oomp_word_emoji_list:
+- ':pill:'
+- ':heart:'
+- ':bamboo:'
+oomp_word_list:
+- pill
+- heart
+- bamboo
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bearing
+size_capital: Bearing
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

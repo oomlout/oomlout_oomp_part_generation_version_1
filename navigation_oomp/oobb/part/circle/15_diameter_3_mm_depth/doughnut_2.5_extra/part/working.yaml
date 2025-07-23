@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: doughnut_2.5_extra
+description_extra_capital: Doughnut 2.5 Extra
+description_extra_first_letter: d
+description_extra_first_letter_upper: D
+description_extra_upper: DOUGHNUT_2.5_EXTRA
+description_main: 15_diameter_3_mm_depth
+description_main_capital: 15 Diameter 3 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 15_DIAMETER_3_MM_DEPTH
+description_only_numbers: '153'
+description_only_numbers_short: '153'
+description_or_color: '153'
+description_or_color_upper: '153'
+directory: parts/oobb_part_circle_15_diameter_3_mm_depth_doughnut_2.5_extra
+distributors: []
+id: oobb_part_circle_15_diameter_3_mm_depth_doughnut_2.5_extra
+id_no_class: part_circle_15_diameter_3_mm_depth_doughnut_2.5_extra
+id_no_size: 15_diameter_3_mm_depth_doughnut_2.5_extra
+id_no_type: circle_15_diameter_3_mm_depth_doughnut_2.5_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_circle_15_diameter_3_mm_depth_doughnut_2.5_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_circle_15_diameter_3_mm_depth_doughnut_2.5_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_circle_15_diameter_3_mm_depth_doughnut_2.5_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_circle_15_diameter_3_mm_depth_doughnut_2.5_extra](none)<br>[](none)<br>[Oobb
+    Part Circle 15 Diameter 3 Mm Depth Doughnut 2.5 Extra](none)<br><br>'
+markdown_short: '[oobb_part_circle_15_diameter_3_mm_depth_doughnut_2.5_extra](none)<br><br>'
+md5: 272938d1a668491b5d1611c590046fe7
+md5_10: 272938d1a6
+md5_10_upper: 272938D1A6
+md5_5: '27293'
+md5_5_upper: '27293'
+md5_6: '272938'
+md5_6_alpha: 1j0ag
+md5_6_alpha_upper: 1J0AG
+md5_6_upper: '272938'
+name: Oobb Part Circle 15 Diameter 3 Mm Depth Doughnut 2.5 Extra
+name_no_class: Part Circle 15 Diameter 3 Mm Depth Doughnut 2.5 Extra
+name_no_size: 15 Diameter 3 Mm Depth Doughnut 2.5 Extra
+name_no_size_short: 15 Diameter 3 Mm Depth Doughnut 2.5 Extra
+name_no_type: Circle 15 Diameter 3 Mm Depth Doughnut 2.5 Extra
+oomp_key: oomp_oobb_part_circle_15_diameter_3_mm_depth_doughnut_2.5_extra
+oomp_word: nose sunny frog
+oomp_word_emoji: ':nose: :sunny: :frog:'
+oomp_word_emoji_list:
+- ':nose:'
+- ':sunny:'
+- ':frog:'
+oomp_word_list:
+- nose
+- sunny
+- frog
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: circle
+size_capital: Circle
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CIRCLE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

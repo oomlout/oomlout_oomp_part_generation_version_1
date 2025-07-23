@@ -1,0 +1,92 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: tool_knife_utility_17_mm_blade_extra
+description_extra_capital: Tool Knife Utility 17 mm Blade Extra
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOOL_KNIFE_UTILITY_17_MM_BLADE_EXTRA
+description_main: 3_width_5_height_29.5_mm_depth
+description_main_capital: 3 Width 5 Height 29.5 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_5_HEIGHT_29.5_MM_DEPTH
+description_only_numbers: '35295'
+description_only_numbers_short: 35k
+description_or_color: 35k
+description_or_color_upper: 35K
+directory: parts/oobb_part_tool_holder_vertical_3_width_5_height_29.5_mm_depth_tool_knife_utility_17_mm_blade_extra
+distributors: []
+id: oobb_part_tool_holder_vertical_3_width_5_height_29.5_mm_depth_tool_knife_utility_17_mm_blade_extra
+id_no_class: part_tool_holder_vertical_3_width_5_height_29.5_mm_depth_tool_knife_utility_17_mm_blade_extra
+id_no_size: 3_width_5_height_29.5_mm_depth_tool_knife_utility_17_mm_blade_extra
+id_no_type: tool_holder_vertical_3_width_5_height_29.5_mm_depth_tool_knife_utility_17_mm_blade_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_3_width_5_height_29.5_mm_depth_tool_knife_utility_17_mm_blade_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_3_width_5_height_29.5_mm_depth_tool_knife_utility_17_mm_blade_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_3_width_5_height_29.5_mm_depth_tool_knife_utility_17_mm_blade_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tool_holder_vertical_3_width_5_height_29.5_mm_depth_tool_knife_utility_17_mm_blade_extra](none)<br>[](none)<br>[Oobb
+    Part Tool Holder Vertical 3 Width 5 Height 29.5 Mm Depth Tool Knife Utility 17
+    Mm Blade Extra](none)<br><br>'
+markdown_short: '[oobb_part_tool_holder_vertical_3_width_5_height_29.5_mm_depth_tool_knife_utility_17_mm_blade_extra](none)<br><br>'
+md5: b807ecd7258866393da8c53c891d048d
+md5_10: b807ecd725
+md5_10_upper: B807ECD725
+md5_5: b807e
+md5_5_upper: B807E
+md5_6: b807ec
+md5_6_alpha: 76i24
+md5_6_alpha_upper: 76I24
+md5_6_upper: B807EC
+name: Oobb Part Tool Holder Vertical 3 Width 5 Height 29.5 Mm Depth Tool Knife Utility
+    17 Mm Blade Extra
+name_no_class: Part Tool Holder Vertical 3 Width 5 Height 29.5 Mm Depth Tool Knife
+    Utility 17 Mm Blade Extra
+name_no_size: 3 Width 5 Height 29.5 Mm Depth Tool Knife Utility 17 Mm Blade Extra
+name_no_size_short: 3 Width 5 Height 29.5 Mm Depth Tool Knife Utility 17 Mm Blade
+    Extra
+name_no_type: Tool Holder Vertical 3 Width 5 Height 29.5 Mm Depth Tool Knife Utility
+    17 Mm Blade Extra
+oomp_key: oomp_oobb_part_tool_holder_vertical_3_width_5_height_29.5_mm_depth_tool_knife_utility_17_mm_blade_extra
+oomp_word: hamburger cry taxi
+oomp_word_emoji: ':hamburger: :cry: :taxi:'
+oomp_word_emoji_list:
+- ':hamburger:'
+- ':cry:'
+- ':taxi:'
+oomp_word_list:
+- hamburger
+- cry
+- taxi
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tool_holder_vertical
+size_capital: Tool Holder Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TOOL_HOLDER_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

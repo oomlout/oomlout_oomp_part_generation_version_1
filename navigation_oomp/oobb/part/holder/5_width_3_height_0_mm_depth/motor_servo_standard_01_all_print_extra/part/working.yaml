@@ -1,0 +1,91 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: motor_servo_standard_01_all_print_extra
+description_extra_capital: Motor Servo Standard 01 All Print Extra
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: MOTOR_SERVO_STANDARD_01_ALL_PRINT_EXTRA
+description_main: 5_width_3_height_0_mm_depth
+description_main_capital: 5 Width 3 Height 0 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5_WIDTH_3_HEIGHT_0_MM_DEPTH
+description_only_numbers: '530'
+description_only_numbers_short: '530'
+description_or_color: '530'
+description_or_color_upper: '530'
+directory: parts/oobb_part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_print_extra
+distributors: []
+id: oobb_part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_print_extra
+id_no_class: part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_print_extra
+id_no_size: 5_width_3_height_0_mm_depth_motor_servo_standard_01_all_print_extra
+id_no_type: holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_print_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_print_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_print_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_print_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_print_extra](none)<br>[](none)<br>[Oobb
+    Part Holder 5 Width 3 Height 0 Mm Depth Motor Servo Standard 01 All Print Extra](none)<br><br>'
+markdown_short: '[oobb_part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_print_extra](none)<br><br>'
+md5: bc657dfc88c4f3290e2aac5ed49c1476
+md5_10: bc657dfc88
+md5_10_upper: BC657DFC88
+md5_5: bc657
+md5_5_upper: BC657
+md5_6: bc657d
+md5_6_alpha: 7cmt9
+md5_6_alpha_upper: 7CMT9
+md5_6_upper: BC657D
+name: Oobb Part Holder 5 Width 3 Height 0 Mm Depth Motor Servo Standard 01 All Print
+    Extra
+name_no_class: Part Holder 5 Width 3 Height 0 Mm Depth Motor Servo Standard 01 All
+    Print Extra
+name_no_size: 5 Width 3 Height 0 Mm Depth Motor Servo Standard 01 All Print Extra
+name_no_size_short: 5 Width 3 Height 0 Mm Depth Motor Servo Standard 01 All Print
+    Extra
+name_no_type: Holder 5 Width 3 Height 0 Mm Depth Motor Servo Standard 01 All Print
+    Extra
+oomp_key: oomp_oobb_part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_print_extra
+oomp_word: sushi maple_leaf phone
+oomp_word_emoji: ':sushi: :maple_leaf: :phone:'
+oomp_word_emoji_list:
+- ':sushi:'
+- ':maple_leaf:'
+- ':phone:'
+oomp_word_list:
+- sushi
+- maple_leaf
+- phone
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: holder
+size_capital: Holder
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOLDER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

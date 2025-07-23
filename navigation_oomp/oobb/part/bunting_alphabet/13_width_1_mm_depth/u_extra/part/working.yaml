@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: u_extra
+description_extra_capital: U Extra
+description_extra_first_letter: u
+description_extra_first_letter_upper: U
+description_extra_upper: U_EXTRA
+description_main: 13_width_1_mm_depth
+description_main_capital: 13 Width 1 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 13_WIDTH_1_MM_DEPTH
+description_only_numbers: '131'
+description_only_numbers_short: '131'
+description_or_color: '131'
+description_or_color_upper: '131'
+directory: parts/oobb_part_bunting_alphabet_13_width_1_mm_depth_u_extra
+distributors: []
+id: oobb_part_bunting_alphabet_13_width_1_mm_depth_u_extra
+id_no_class: part_bunting_alphabet_13_width_1_mm_depth_u_extra
+id_no_size: 13_width_1_mm_depth_u_extra
+id_no_type: bunting_alphabet_13_width_1_mm_depth_u_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_13_width_1_mm_depth_u_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_13_width_1_mm_depth_u_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_13_width_1_mm_depth_u_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bunting_alphabet_13_width_1_mm_depth_u_extra](none)<br>[](none)<br>[Oobb
+    Part Bunting Alphabet 13 Width 1 Mm Depth U Extra](none)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_13_width_1_mm_depth_u_extra](none)<br><br>'
+md5: 68d1a077f13d45eb40349983b0c76ef5
+md5_10: 68d1a077f1
+md5_10_upper: 68D1A077F1
+md5_5: 68d1a
+md5_5_upper: 68D1A
+md5_6: 68d1a0
+md5_6_alpha: 438gw
+md5_6_alpha_upper: 438GW
+md5_6_upper: 68D1A0
+name: Oobb Part Bunting Alphabet 13 Width 1 Mm Depth U Extra
+name_no_class: Part Bunting Alphabet 13 Width 1 Mm Depth U Extra
+name_no_size: 13 Width 1 Mm Depth U Extra
+name_no_size_short: 13 Width 1 Mm Depth U Extra
+name_no_type: Bunting Alphabet 13 Width 1 Mm Depth U Extra
+oomp_key: oomp_oobb_part_bunting_alphabet_13_width_1_mm_depth_u_extra
+oomp_word: mushroom pear ring
+oomp_word_emoji: ':mushroom: :pear: :ring:'
+oomp_word_emoji_list:
+- ':mushroom:'
+- ':pear:'
+- ':ring:'
+oomp_word_list:
+- mushroom
+- pear
+- ring
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bunting_alphabet
+size_capital: Bunting Alphabet
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNTING_ALPHABET
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

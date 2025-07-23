@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: nut_extra
+description_extra_capital: Nut Extra
+description_extra_first_letter: n
+description_extra_first_letter_upper: N
+description_extra_upper: NUT_EXTRA
+description_main: 12_mm_depth
+description_main_capital: 12 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 12_MM_DEPTH
+description_only_numbers: '12'
+description_only_numbers_short: '12'
+description_or_color: '12'
+description_or_color_upper: '12'
+directory: parts/oobb_part_shaft_12_mm_depth_nut_extra
+distributors: []
+id: oobb_part_shaft_12_mm_depth_nut_extra
+id_no_class: part_shaft_12_mm_depth_nut_extra
+id_no_size: 12_mm_depth_nut_extra
+id_no_type: shaft_12_mm_depth_nut_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_12_mm_depth_nut_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_12_mm_depth_nut_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_12_mm_depth_nut_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_shaft_12_mm_depth_nut_extra](none)<br>[](none)<br>[Oobb
+    Part Shaft 12 Mm Depth Nut Extra](none)<br><br>'
+markdown_short: '[oobb_part_shaft_12_mm_depth_nut_extra](none)<br><br>'
+md5: e858abe8582096fd908d35415f9e9ad7
+md5_10: e858abe858
+md5_10_upper: E858ABE858
+md5_5: e858a
+md5_5_upper: E858A
+md5_6: e858ab
+md5_6_alpha: 92d9n
+md5_6_alpha_upper: 92D9N
+md5_6_upper: E858AB
+name: Oobb Part Shaft 12 Mm Depth Nut Extra
+name_no_class: Part Shaft 12 Mm Depth Nut Extra
+name_no_size: 12 Mm Depth Nut Extra
+name_no_size_short: 12 Mm Depth Nut Extra
+name_no_type: Shaft 12 Mm Depth Nut Extra
+oomp_key: oomp_oobb_part_shaft_12_mm_depth_nut_extra
+oomp_word: tram water_buffalo boot
+oomp_word_emoji: ':tram: :water_buffalo: :boot:'
+oomp_word_emoji_list:
+- ':tram:'
+- ':water_buffalo:'
+- ':boot:'
+oomp_word_list:
+- tram
+- water_buffalo
+- boot
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: shaft
+size_capital: Shaft
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHAFT
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

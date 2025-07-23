@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: countersunk_small_extra
+description_extra_capital: Countersunk Small Extra
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: COUNTERSUNK_SMALL_EXTRA
+description_main: 15_mm_depth
+description_main_capital: 15 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 15_MM_DEPTH
+description_only_numbers: '15'
+description_only_numbers_short: '15'
+description_or_color: '15'
+description_or_color_upper: '15'
+directory: parts/oobb_part_shaft_15_mm_depth_countersunk_small_extra
+distributors: []
+id: oobb_part_shaft_15_mm_depth_countersunk_small_extra
+id_no_class: part_shaft_15_mm_depth_countersunk_small_extra
+id_no_size: 15_mm_depth_countersunk_small_extra
+id_no_type: shaft_15_mm_depth_countersunk_small_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_15_mm_depth_countersunk_small_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_15_mm_depth_countersunk_small_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_15_mm_depth_countersunk_small_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_shaft_15_mm_depth_countersunk_small_extra](none)<br>[](none)<br>[Oobb
+    Part Shaft 15 Mm Depth Countersunk Small Extra](none)<br><br>'
+markdown_short: '[oobb_part_shaft_15_mm_depth_countersunk_small_extra](none)<br><br>'
+md5: d3ffd2c4fb6a9e6a01c72dac395cd687
+md5_10: d3ffd2c4fb
+md5_10_upper: D3FFD2C4FB
+md5_5: d3ffd
+md5_5_upper: D3FFD
+md5_6: d3ffd2
+md5_6_alpha: 89scy
+md5_6_alpha_upper: 89SCY
+md5_6_upper: D3FFD2
+name: Oobb Part Shaft 15 Mm Depth Countersunk Small Extra
+name_no_class: Part Shaft 15 Mm Depth Countersunk Small Extra
+name_no_size: 15 Mm Depth Countersunk Small Extra
+name_no_size_short: 15 Mm Depth Countersunk Small Extra
+name_no_type: Shaft 15 Mm Depth Countersunk Small Extra
+oomp_key: oomp_oobb_part_shaft_15_mm_depth_countersunk_small_extra
+oomp_word: tomato trident pineapple
+oomp_word_emoji: ':tomato: :trident: :pineapple:'
+oomp_word_emoji_list:
+- ':tomato:'
+- ':trident:'
+- ':pineapple:'
+oomp_word_list:
+- tomato
+- trident
+- pineapple
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: shaft
+size_capital: Shaft
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHAFT
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

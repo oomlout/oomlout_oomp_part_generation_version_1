@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: paper_sheet_a6_extra
+description_extra_capital: Paper Sheet A6 Extra
+description_extra_first_letter: p
+description_extra_first_letter_upper: P
+description_extra_upper: PAPER_SHEET_A6_EXTRA
+description_main: 10_width_7_height_3_mm_depth
+description_main_capital: 10 Width 7 Height 3 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 10_WIDTH_7_HEIGHT_3_MM_DEPTH
+description_only_numbers: '1073'
+description_only_numbers_short: 1k
+description_or_color: 1k
+description_or_color_upper: 1K
+directory: parts/oobb_part_plate_10_width_7_height_3_mm_depth_paper_sheet_a6_extra
+distributors: []
+id: oobb_part_plate_10_width_7_height_3_mm_depth_paper_sheet_a6_extra
+id_no_class: part_plate_10_width_7_height_3_mm_depth_paper_sheet_a6_extra
+id_no_size: 10_width_7_height_3_mm_depth_paper_sheet_a6_extra
+id_no_type: plate_10_width_7_height_3_mm_depth_paper_sheet_a6_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_10_width_7_height_3_mm_depth_paper_sheet_a6_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_10_width_7_height_3_mm_depth_paper_sheet_a6_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_10_width_7_height_3_mm_depth_paper_sheet_a6_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_10_width_7_height_3_mm_depth_paper_sheet_a6_extra](none)<br>[](none)<br>[Oobb
+    Part Plate 10 Width 7 Height 3 Mm Depth Paper Sheet A6 Extra](none)<br><br>'
+markdown_short: '[oobb_part_plate_10_width_7_height_3_mm_depth_paper_sheet_a6_extra](none)<br><br>'
+md5: 488a79ccc4b84a20525db4937ec75696
+md5_10: 488a79ccc4
+md5_10_upper: 488A79CCC4
+md5_5: 488a7
+md5_5_upper: 488A7
+md5_6: 488a79
+md5_6_alpha: 2tw8p
+md5_6_alpha_upper: 2TW8P
+md5_6_upper: 488A79
+name: Oobb Part Plate 10 Width 7 Height 3 Mm Depth Paper Sheet A6 Extra
+name_no_class: Part Plate 10 Width 7 Height 3 Mm Depth Paper Sheet A6 Extra
+name_no_size: 10 Width 7 Height 3 Mm Depth Paper Sheet A6 Extra
+name_no_size_short: 10 Width 7 Height 3 Mm Depth Paper Sheet A6 Extra
+name_no_type: Plate 10 Width 7 Height 3 Mm Depth Paper Sheet A6 Extra
+oomp_key: oomp_oobb_part_plate_10_width_7_height_3_mm_depth_paper_sheet_a6_extra
+oomp_word: hatched_chick envelope balloon
+oomp_word_emoji: ':hatched_chick: :envelope: :balloon:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':envelope:'
+- ':balloon:'
+oomp_word_list:
+- hatched_chick
+- envelope
+- balloon
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

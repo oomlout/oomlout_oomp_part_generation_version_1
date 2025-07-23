@@ -1,0 +1,93 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: electronic_potentiometer_17_mm_shaft_72_teeth_extra
+description_extra_capital: Electronic Potentiometer 17 mm Shaft 72 Teeth Extra
+description_extra_first_letter: e
+description_extra_first_letter_upper: E
+description_extra_upper: ELECTRONIC_POTENTIOMETER_17_MM_SHAFT_72_TEETH_EXTRA
+description_main: 9_diameter_6_mm_depth
+description_main_capital: 9 Diameter 6 mm Depth
+description_main_first_letter: '9'
+description_main_first_letter_upper: '9'
+description_main_upper: 9_DIAMETER_6_MM_DEPTH
+description_only_numbers: '96'
+description_only_numbers_short: '96'
+description_or_color: '96'
+description_or_color_upper: '96'
+directory: parts/oobb_part_gear_9_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_72_teeth_extra
+distributors: []
+id: oobb_part_gear_9_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_72_teeth_extra
+id_no_class: part_gear_9_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_72_teeth_extra
+id_no_size: 9_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_72_teeth_extra
+id_no_type: gear_9_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_72_teeth_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_9_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_72_teeth_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_9_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_72_teeth_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_9_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_72_teeth_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_gear_9_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_72_teeth_extra](none)<br>[](none)<br>[Oobb
+    Part Gear 9 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 72 Teeth
+    Extra](none)<br><br>'
+markdown_short: '[oobb_part_gear_9_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_72_teeth_extra](none)<br><br>'
+md5: 02a2205fd4c2019e313e74ec77265d3f
+md5_10: 02a2205fd4
+md5_10_upper: 02A2205FD4
+md5_5: 02a22
+md5_5_upper: 02A22
+md5_6: 02a220
+md5_6_alpha: 3p5s
+md5_6_alpha_upper: 3P5S
+md5_6_upper: 02A220
+name: Oobb Part Gear 9 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 72
+    Teeth Extra
+name_no_class: Part Gear 9 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft
+    72 Teeth Extra
+name_no_size: 9 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 72 Teeth
+    Extra
+name_no_size_short: 9 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 72
+    Teeth Extra
+name_no_type: Gear 9 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 72 Teeth
+    Extra
+oomp_key: oomp_oobb_part_gear_9_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_72_teeth_extra
+oomp_word: blush violin skull
+oomp_word_emoji: ':blush: :violin: :skull:'
+oomp_word_emoji_list:
+- ':blush:'
+- ':violin:'
+- ':skull:'
+oomp_word_list:
+- blush
+- violin
+- skull
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: gear
+size_capital: Gear
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GEAR
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,90 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: mustard seed
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: mustard_seed
+description_main_capital: Mustard Seed
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MUSTARD_SEED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_spice_mustard_seed
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_spice_mustard_seed
+id_no_class: seasoning_spice_mustard_seed
+id_no_size: mustard_seed
+id_no_type: spice_mustard_seed
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_mustard_seed
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_mustard_seed
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_mustard_seed
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_spice_mustard_seed](none)<br>[](none)<br>[Food Seasoning
+    Spice Mustard Seed](none)<br><br>'
+markdown_short: '[food_seasoning_spice_mustard_seed](none)<br><br>'
+md5: aff7b6d0f40abcf1025fbbbb5ad45df2
+md5_10: aff7b6d0f4
+md5_10_upper: AFF7B6D0F4
+md5_5: aff7b
+md5_5_upper: AFF7B
+md5_6: aff7b6
+md5_6_alpha: 6v6ba
+md5_6_alpha_upper: 6V6BA
+md5_6_upper: AFF7B6
+name: Food Seasoning Spice Mustard Seed
+name_no_class: Seasoning Spice Mustard Seed
+name_no_size: Mustard Seed
+name_no_size_short: Mustard Seed
+name_no_type: Spice Mustard Seed
+name_short: Mustard Seed
+oomp_key: oomp_food_seasoning_spice_mustard_seed
+oomp_word: tophat six beer
+oomp_word_emoji: ':tophat: :six: :beer:'
+oomp_word_emoji_list:
+- ':tophat:'
+- ':six:'
+- ':beer:'
+oomp_word_list:
+- tophat
+- six
+- beer
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: spice
+size_capital: Spice
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPICE
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

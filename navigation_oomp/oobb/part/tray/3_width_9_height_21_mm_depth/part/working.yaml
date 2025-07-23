@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 3_width_9_height_21_mm_depth
+description_main_capital: 3 Width 9 Height 21 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_9_HEIGHT_21_MM_DEPTH
+description_only_numbers: '3921'
+description_only_numbers_short: 3k9
+description_or_color: 3k9
+description_or_color_upper: 3K9
+directory: parts/oobb_part_tray_3_width_9_height_21_mm_depth
+distributors: []
+id: oobb_part_tray_3_width_9_height_21_mm_depth
+id_no_class: part_tray_3_width_9_height_21_mm_depth
+id_no_size: 3_width_9_height_21_mm_depth
+id_no_type: tray_3_width_9_height_21_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_3_width_9_height_21_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_3_width_9_height_21_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_3_width_9_height_21_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_3_width_9_height_21_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray 3 Width 9 Height 21 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_3_width_9_height_21_mm_depth](none)<br><br>'
+md5: 49f88e6b1f07db4b36df4cc704450aa1
+md5_10: 49f88e6b1f
+md5_10_upper: 49F88E6B1F
+md5_5: 49f88
+md5_5_upper: 49F88
+md5_6: 49f88e
+md5_6_alpha: 2vwjy
+md5_6_alpha_upper: 2VWJY
+md5_6_upper: 49F88E
+name: Oobb Part Tray 3 Width 9 Height 21 Mm Depth
+name_no_class: Part Tray 3 Width 9 Height 21 Mm Depth
+name_no_size: 3 Width 9 Height 21 Mm Depth
+name_no_size_short: 3 Width 9 Height 21 Mm Depth
+name_no_type: Tray 3 Width 9 Height 21 Mm Depth
+oomp_key: oomp_oobb_part_tray_3_width_9_height_21_mm_depth
+oomp_word: hatching_chick seven clipboard
+oomp_word_emoji: ':hatching_chick: :seven: :clipboard:'
+oomp_word_emoji_list:
+- ':hatching_chick:'
+- ':seven:'
+- ':clipboard:'
+oomp_word_list:
+- hatching_chick
+- seven
+- clipboard
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

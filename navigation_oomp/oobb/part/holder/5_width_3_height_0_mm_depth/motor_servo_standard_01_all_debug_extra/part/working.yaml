@@ -1,0 +1,91 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: motor_servo_standard_01_all_debug_extra
+description_extra_capital: Motor Servo Standard 01 All Debug Extra
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: MOTOR_SERVO_STANDARD_01_ALL_DEBUG_EXTRA
+description_main: 5_width_3_height_0_mm_depth
+description_main_capital: 5 Width 3 Height 0 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5_WIDTH_3_HEIGHT_0_MM_DEPTH
+description_only_numbers: '530'
+description_only_numbers_short: '530'
+description_or_color: '530'
+description_or_color_upper: '530'
+directory: parts/oobb_part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_debug_extra
+distributors: []
+id: oobb_part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_debug_extra
+id_no_class: part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_debug_extra
+id_no_size: 5_width_3_height_0_mm_depth_motor_servo_standard_01_all_debug_extra
+id_no_type: holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_debug_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_debug_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_debug_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_debug_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_debug_extra](none)<br>[](none)<br>[Oobb
+    Part Holder 5 Width 3 Height 0 Mm Depth Motor Servo Standard 01 All Debug Extra](none)<br><br>'
+markdown_short: '[oobb_part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_debug_extra](none)<br><br>'
+md5: 1faa0d25d92ceb549fa8e3553638df87
+md5_10: 1faa0d25d9
+md5_10_upper: 1FAA0D25D9
+md5_5: 1faa0
+md5_5_upper: 1FAA0
+md5_6: 1faa0d
+md5_6_alpha: 18h71
+md5_6_alpha_upper: 18H71
+md5_6_upper: 1FAA0D
+name: Oobb Part Holder 5 Width 3 Height 0 Mm Depth Motor Servo Standard 01 All Debug
+    Extra
+name_no_class: Part Holder 5 Width 3 Height 0 Mm Depth Motor Servo Standard 01 All
+    Debug Extra
+name_no_size: 5 Width 3 Height 0 Mm Depth Motor Servo Standard 01 All Debug Extra
+name_no_size_short: 5 Width 3 Height 0 Mm Depth Motor Servo Standard 01 All Debug
+    Extra
+name_no_type: Holder 5 Width 3 Height 0 Mm Depth Motor Servo Standard 01 All Debug
+    Extra
+oomp_key: oomp_oobb_part_holder_5_width_3_height_0_mm_depth_motor_servo_standard_01_all_debug_extra
+oomp_word: princess lipstick heart
+oomp_word_emoji: ':princess: :lipstick: :heart:'
+oomp_word_emoji_list:
+- ':princess:'
+- ':lipstick:'
+- ':heart:'
+oomp_word_list:
+- princess
+- lipstick
+- heart
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: holder
+size_capital: Holder
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOLDER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,90 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: motor_servo_standard_01_shaft_36_teeth_extra
+description_extra_capital: Motor Servo Standard 01 Shaft 36 Teeth Extra
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: MOTOR_SERVO_STANDARD_01_SHAFT_36_TEETH_EXTRA
+description_main: 1_diameter_9_mm_depth
+description_main_capital: 1 Diameter 9 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 1_DIAMETER_9_MM_DEPTH
+description_only_numbers: '19'
+description_only_numbers_short: '19'
+description_or_color: '19'
+description_or_color_upper: '19'
+directory: parts/oobb_part_pulley_gt2_1_diameter_9_mm_depth_motor_servo_standard_01_shaft_36_teeth_extra
+distributors: []
+id: oobb_part_pulley_gt2_1_diameter_9_mm_depth_motor_servo_standard_01_shaft_36_teeth_extra
+id_no_class: part_pulley_gt2_1_diameter_9_mm_depth_motor_servo_standard_01_shaft_36_teeth_extra
+id_no_size: 1_diameter_9_mm_depth_motor_servo_standard_01_shaft_36_teeth_extra
+id_no_type: pulley_gt2_1_diameter_9_mm_depth_motor_servo_standard_01_shaft_36_teeth_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_1_diameter_9_mm_depth_motor_servo_standard_01_shaft_36_teeth_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_1_diameter_9_mm_depth_motor_servo_standard_01_shaft_36_teeth_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_1_diameter_9_mm_depth_motor_servo_standard_01_shaft_36_teeth_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_pulley_gt2_1_diameter_9_mm_depth_motor_servo_standard_01_shaft_36_teeth_extra](none)<br>[](none)<br>[Oobb
+    Part Pulley Gt2 1 Diameter 9 Mm Depth Motor Servo Standard 01 Shaft 36 Teeth Extra](none)<br><br>'
+markdown_short: '[oobb_part_pulley_gt2_1_diameter_9_mm_depth_motor_servo_standard_01_shaft_36_teeth_extra](none)<br><br>'
+md5: c97eaf9e3550d6201e768fb8d9b584d1
+md5_10: c97eaf9e35
+md5_10_upper: C97EAF9E35
+md5_5: c97ea
+md5_5_upper: C97EA
+md5_6: c97eaf
+md5_6_alpha: 7v167
+md5_6_alpha_upper: 7V167
+md5_6_upper: C97EAF
+name: Oobb Part Pulley Gt2 1 Diameter 9 Mm Depth Motor Servo Standard 01 Shaft 36
+    Teeth Extra
+name_no_class: Part Pulley Gt2 1 Diameter 9 Mm Depth Motor Servo Standard 01 Shaft
+    36 Teeth Extra
+name_no_size: 1 Diameter 9 Mm Depth Motor Servo Standard 01 Shaft 36 Teeth Extra
+name_no_size_short: 1 Diameter 9 Mm Depth Motor Servo Standard 01 Shaft 36 Teeth Extra
+name_no_type: Pulley Gt2 1 Diameter 9 Mm Depth Motor Servo Standard 01 Shaft 36 Teeth
+    Extra
+oomp_key: oomp_oobb_part_pulley_gt2_1_diameter_9_mm_depth_motor_servo_standard_01_shaft_36_teeth_extra
+oomp_word: lemon fax tophat
+oomp_word_emoji: ':lemon: :fax: :tophat:'
+oomp_word_emoji_list:
+- ':lemon:'
+- ':fax:'
+- ':tophat:'
+oomp_word_list:
+- lemon
+- fax
+- tophat
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: pulley_gt2
+size_capital: Pulley Gt2
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: '2'
+size_only_numbers_no_zeros: '2'
+size_upper: PULLEY_GT2
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

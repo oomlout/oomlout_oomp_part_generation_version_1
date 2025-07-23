@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 7_extra
+description_extra_capital: 7 Extra
+description_extra_first_letter: '7'
+description_extra_first_letter_upper: '7'
+description_extra_upper: 7_EXTRA
+description_main: 7_width_1_mm_depth
+description_main_capital: 7 Width 1 mm Depth
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 7_WIDTH_1_MM_DEPTH
+description_only_numbers: '71'
+description_only_numbers_short: '71'
+description_or_color: '71'
+description_or_color_upper: '71'
+directory: parts/oobb_part_bunting_alphabet_7_width_1_mm_depth_7_extra
+distributors: []
+id: oobb_part_bunting_alphabet_7_width_1_mm_depth_7_extra
+id_no_class: part_bunting_alphabet_7_width_1_mm_depth_7_extra
+id_no_size: 7_width_1_mm_depth_7_extra
+id_no_type: bunting_alphabet_7_width_1_mm_depth_7_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_7_width_1_mm_depth_7_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_7_width_1_mm_depth_7_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_7_width_1_mm_depth_7_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bunting_alphabet_7_width_1_mm_depth_7_extra](none)<br>[](none)<br>[Oobb
+    Part Bunting Alphabet 7 Width 1 Mm Depth 7 Extra](none)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_7_width_1_mm_depth_7_extra](none)<br><br>'
+md5: 0671706a35e60eb0ba476faf7f7961d3
+md5_10: 0671706a35
+md5_10_upper: 0671706A35
+md5_5: '06717'
+md5_5_upper: '06717'
+md5_6: '067170'
+md5_6_alpha: 91tc
+md5_6_alpha_upper: 91TC
+md5_6_upper: '067170'
+name: Oobb Part Bunting Alphabet 7 Width 1 Mm Depth 7 Extra
+name_no_class: Part Bunting Alphabet 7 Width 1 Mm Depth 7 Extra
+name_no_size: 7 Width 1 Mm Depth 7 Extra
+name_no_size_short: 7 Width 1 Mm Depth 7 Extra
+name_no_type: Bunting Alphabet 7 Width 1 Mm Depth 7 Extra
+oomp_key: oomp_oobb_part_bunting_alphabet_7_width_1_mm_depth_7_extra
+oomp_word: sleeping bamboo squirrel
+oomp_word_emoji: ':sleeping: :bamboo: :squirrel:'
+oomp_word_emoji_list:
+- ':sleeping:'
+- ':bamboo:'
+- ':squirrel:'
+oomp_word_list:
+- sleeping
+- bamboo
+- squirrel
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bunting_alphabet
+size_capital: Bunting Alphabet
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNTING_ALPHABET
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

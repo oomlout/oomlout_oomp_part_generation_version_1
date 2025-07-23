@@ -1,0 +1,89 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: tool_wrench_m21_extra
+description_extra_capital: Tool Wrench M21 Extra
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOOL_WRENCH_M21_EXTRA
+description_main: 5_width_5_height_12_mm_depth
+description_main_capital: 5 Width 5 Height 12 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5_WIDTH_5_HEIGHT_12_MM_DEPTH
+description_only_numbers: '5512'
+description_only_numbers_short: 5k5
+description_or_color: 5k5
+description_or_color_upper: 5K5
+directory: parts/oobb_part_tool_holder_vertical_5_width_5_height_12_mm_depth_tool_wrench_m21_extra
+distributors: []
+id: oobb_part_tool_holder_vertical_5_width_5_height_12_mm_depth_tool_wrench_m21_extra
+id_no_class: part_tool_holder_vertical_5_width_5_height_12_mm_depth_tool_wrench_m21_extra
+id_no_size: 5_width_5_height_12_mm_depth_tool_wrench_m21_extra
+id_no_type: tool_holder_vertical_5_width_5_height_12_mm_depth_tool_wrench_m21_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_5_width_5_height_12_mm_depth_tool_wrench_m21_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_5_width_5_height_12_mm_depth_tool_wrench_m21_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_5_width_5_height_12_mm_depth_tool_wrench_m21_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tool_holder_vertical_5_width_5_height_12_mm_depth_tool_wrench_m21_extra](none)<br>[](none)<br>[Oobb
+    Part Tool Holder Vertical 5 Width 5 Height 12 Mm Depth Tool Wrench M21 Extra](none)<br><br>'
+markdown_short: '[oobb_part_tool_holder_vertical_5_width_5_height_12_mm_depth_tool_wrench_m21_extra](none)<br><br>'
+md5: 98e91a5ebb98b06ad5fc82b0f68b854a
+md5_10: 98e91a5ebb
+md5_10_upper: 98E91A5EBB
+md5_5: 98e91
+md5_5_upper: 98E91
+md5_6: 98e91a
+md5_6_alpha: 5ysd6
+md5_6_alpha_upper: 5YSD6
+md5_6_upper: 98E91A
+name: Oobb Part Tool Holder Vertical 5 Width 5 Height 12 Mm Depth Tool Wrench M21
+    Extra
+name_no_class: Part Tool Holder Vertical 5 Width 5 Height 12 Mm Depth Tool Wrench
+    M21 Extra
+name_no_size: 5 Width 5 Height 12 Mm Depth Tool Wrench M21 Extra
+name_no_size_short: 5 Width 5 Height 12 Mm Depth Tool Wrench M21 Extra
+name_no_type: Tool Holder Vertical 5 Width 5 Height 12 Mm Depth Tool Wrench M21 Extra
+oomp_key: oomp_oobb_part_tool_holder_vertical_5_width_5_height_12_mm_depth_tool_wrench_m21_extra
+oomp_word: tennis bike clap
+oomp_word_emoji: ':tennis: :bike: :clap:'
+oomp_word_emoji_list:
+- ':tennis:'
+- ':bike:'
+- ':clap:'
+oomp_word_list:
+- tennis
+- bike
+- clap
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tool_holder_vertical
+size_capital: Tool Holder Vertical
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TOOL_HOLDER_VERTICAL
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

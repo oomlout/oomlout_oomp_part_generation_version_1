@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: paper_sheet_a3_extra
+description_extra_capital: Paper Sheet A3 Extra
+description_extra_first_letter: p
+description_extra_first_letter_upper: P
+description_extra_upper: PAPER_SHEET_A3_EXTRA
+description_main: 28_width_20_height_3_mm_depth
+description_main_capital: 28 Width 20 Height 3 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 28_WIDTH_20_HEIGHT_3_MM_DEPTH
+description_only_numbers: '28203'
+description_only_numbers_short: 28k
+description_or_color: 28k
+description_or_color_upper: 28K
+directory: parts/oobb_part_plate_28_width_20_height_3_mm_depth_paper_sheet_a3_extra
+distributors: []
+id: oobb_part_plate_28_width_20_height_3_mm_depth_paper_sheet_a3_extra
+id_no_class: part_plate_28_width_20_height_3_mm_depth_paper_sheet_a3_extra
+id_no_size: 28_width_20_height_3_mm_depth_paper_sheet_a3_extra
+id_no_type: plate_28_width_20_height_3_mm_depth_paper_sheet_a3_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_28_width_20_height_3_mm_depth_paper_sheet_a3_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_28_width_20_height_3_mm_depth_paper_sheet_a3_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_28_width_20_height_3_mm_depth_paper_sheet_a3_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_28_width_20_height_3_mm_depth_paper_sheet_a3_extra](none)<br>[](none)<br>[Oobb
+    Part Plate 28 Width 20 Height 3 Mm Depth Paper Sheet A3 Extra](none)<br><br>'
+markdown_short: '[oobb_part_plate_28_width_20_height_3_mm_depth_paper_sheet_a3_extra](none)<br><br>'
+md5: f4eabc4240e337cb62247d7079ab9450
+md5_10: f4eabc4240
+md5_10_upper: F4EABC4240
+md5_5: f4eab
+md5_5_upper: F4EAB
+md5_6: f4eabc
+md5_6_alpha: 9k0xo
+md5_6_alpha_upper: 9K0XO
+md5_6_upper: F4EABC
+name: Oobb Part Plate 28 Width 20 Height 3 Mm Depth Paper Sheet A3 Extra
+name_no_class: Part Plate 28 Width 20 Height 3 Mm Depth Paper Sheet A3 Extra
+name_no_size: 28 Width 20 Height 3 Mm Depth Paper Sheet A3 Extra
+name_no_size_short: 28 Width 20 Height 3 Mm Depth Paper Sheet A3 Extra
+name_no_type: Plate 28 Width 20 Height 3 Mm Depth Paper Sheet A3 Extra
+oomp_key: oomp_oobb_part_plate_28_width_20_height_3_mm_depth_paper_sheet_a3_extra
+oomp_word: three tractor sushi
+oomp_word_emoji: ':three: :tractor: :sushi:'
+oomp_word_emoji_list:
+- ':three:'
+- ':tractor:'
+- ':sushi:'
+oomp_word_list:
+- three
+- tractor
+- sushi
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

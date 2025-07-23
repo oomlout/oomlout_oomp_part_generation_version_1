@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: tray_vertical
+color_capital: Tray Vertical
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TRAY_VERTICAL
+description: category_oobb
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_oobb_part_tray_vertical_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_oobb_part_tray_vertical_tote
+id_no_class: oobb_part_tray_vertical_tote
+id_no_size: tray_vertical_tote
+id_no_type: part_tray_vertical_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_tray_vertical_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_tray_vertical_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_tray_vertical_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_tray_vertical_tote](none)<br>[](none)<br>[Category
+    Oobb Part Tray Vertical Tote](none)<br><br>'
+markdown_short: '[category_oobb_part_tray_vertical_tote](none)<br><br>'
+md5: d6a4c069d68954a56def94239565e763
+md5_10: d6a4c069d6
+md5_10_upper: D6A4C069D6
+md5_5: d6a4c
+md5_5_upper: D6A4C
+md5_6: d6a4c0
+md5_6_alpha: 8di2o
+md5_6_alpha_upper: 8DI2O
+md5_6_upper: D6A4C0
+name: Category Oobb Part Tray Vertical Tote
+name_no_class: Oobb Part Tray Vertical Tote
+name_no_size: Tray Vertical Tote
+name_no_size_short: Tray Vertical Tote
+name_no_type: Part Tray Vertical Tote
+oomp_key: oomp_category_oobb_part_tray_vertical_tote
+oomp_word: school book bread
+oomp_word_emoji: ':school: :book: :bread:'
+oomp_word_emoji_list:
+- ':school:'
+- ':book:'
+- ':bread:'
+oomp_word_list:
+- school
+- book
+- bread
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

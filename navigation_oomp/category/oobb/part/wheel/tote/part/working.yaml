@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: wheel
+color_capital: Wheel
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WHEEL
+description: category_oobb
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/category_oobb_part_wheel_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_oobb_part_wheel_tote
+id_no_class: oobb_part_wheel_tote
+id_no_size: wheel_tote
+id_no_type: part_wheel_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_wheel_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_wheel_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_wheel_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_wheel_tote](none)<br>[](none)<br>[Category Oobb
+    Part Wheel Tote](none)<br><br>'
+markdown_short: '[category_oobb_part_wheel_tote](none)<br><br>'
+md5: e32b4d1274a4df5851f2a28fe512eda5
+md5_10: e32b4d1274
+md5_10_upper: E32B4D1274
+md5_5: e32b4
+md5_5_upper: E32B4
+md5_6: e32b4d
+md5_6_alpha: 8v3gt
+md5_6_alpha_upper: 8V3GT
+md5_6_upper: E32B4D
+name: Category Oobb Part Wheel Tote
+name_no_class: Oobb Part Wheel Tote
+name_no_size: Wheel Tote
+name_no_size_short: Wheel Tote
+name_no_type: Part Wheel Tote
+oomp_key: oomp_category_oobb_part_wheel_tote
+oomp_word: rowboat cloud bug
+oomp_word_emoji: ':rowboat: :cloud: :bug:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':cloud:'
+- ':bug:'
+oomp_word_list:
+- rowboat
+- cloud
+- bug
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

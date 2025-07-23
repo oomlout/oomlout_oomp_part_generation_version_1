@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 3_width_3_height_15_mm_depth
+description_main_capital: 3 Width 3 Height 15 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_3_HEIGHT_15_MM_DEPTH
+description_only_numbers: '3315'
+description_only_numbers_short: 3k3
+description_or_color: 3k3
+description_or_color_upper: 3K3
+directory: parts/oobb_part_jig_screw_sorter_m3_03_03_3_width_3_height_15_mm_depth
+distributors: []
+id: oobb_part_jig_screw_sorter_m3_03_03_3_width_3_height_15_mm_depth
+id_no_class: part_jig_screw_sorter_m3_03_03_3_width_3_height_15_mm_depth
+id_no_size: 3_width_3_height_15_mm_depth
+id_no_type: jig_screw_sorter_m3_03_03_3_width_3_height_15_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_jig_screw_sorter_m3_03_03_3_width_3_height_15_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_jig_screw_sorter_m3_03_03_3_width_3_height_15_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_jig_screw_sorter_m3_03_03_3_width_3_height_15_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_jig_screw_sorter_m3_03_03_3_width_3_height_15_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Jig Screw Sorter M3 03 03 3 Width 3 Height 15 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_jig_screw_sorter_m3_03_03_3_width_3_height_15_mm_depth](none)<br><br>'
+md5: 5b9f1b9962b68957d49635553ba502ce
+md5_10: 5b9f1b9962
+md5_10_upper: 5B9F1B9962
+md5_5: 5b9f1
+md5_5_upper: 5B9F1
+md5_6: 5b9f1b
+md5_6_alpha: 3kp3v
+md5_6_alpha_upper: 3KP3V
+md5_6_upper: 5B9F1B
+name: Oobb Part Jig Screw Sorter M3 03 03 3 Width 3 Height 15 Mm Depth
+name_no_class: Part Jig Screw Sorter M3 03 03 3 Width 3 Height 15 Mm Depth
+name_no_size: 3 Width 3 Height 15 Mm Depth
+name_no_size_short: 3 Width 3 Height 15 Mm Depth
+name_no_type: Jig Screw Sorter M3 03 03 3 Width 3 Height 15 Mm Depth
+oomp_key: oomp_oobb_part_jig_screw_sorter_m3_03_03_3_width_3_height_15_mm_depth
+oomp_word: rooster diamonds muscle
+oomp_word_emoji: ':rooster: :diamonds: :muscle:'
+oomp_word_emoji_list:
+- ':rooster:'
+- ':diamonds:'
+- ':muscle:'
+oomp_word_list:
+- rooster
+- diamonds
+- muscle
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: jig_screw_sorter_m3_03_03
+size_capital: Jig Screw Sorter M3 03 03
+size_first_letter: j
+size_first_letter_upper: J
+size_only_numbers: '30303'
+size_only_numbers_no_zeros: '333'
+size_upper: JIG_SCREW_SORTER_M3_03_03
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 4_width_4_height
+description_main_capital: 4 Width 4 Height
+description_main_first_letter: '4'
+description_main_first_letter_upper: '4'
+description_main_upper: 4_WIDTH_4_HEIGHT
+description_only_numbers: '44'
+description_only_numbers_short: '44'
+description_or_color: '44'
+description_or_color_upper: '44'
+directory: parts/oobb_part_smd_magazine_lid_4_width_4_height
+distributors: []
+id: oobb_part_smd_magazine_lid_4_width_4_height
+id_no_class: part_smd_magazine_lid_4_width_4_height
+id_no_size: 4_width_4_height
+id_no_type: smd_magazine_lid_4_width_4_height
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_lid_4_width_4_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_lid_4_width_4_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_lid_4_width_4_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_smd_magazine_lid_4_width_4_height](none)<br>[](none)<br>[Oobb
+    Part Smd Magazine Lid 4 Width 4 Height](none)<br><br>'
+markdown_short: '[oobb_part_smd_magazine_lid_4_width_4_height](none)<br><br>'
+md5: faf71f99c888574c2e2cc4cb7314d474
+md5_10: faf71f99c8
+md5_10_upper: FAF71F99C8
+md5_5: faf71
+md5_5_upper: FAF71
+md5_6: faf71f
+md5_6_alpha: 9sisf
+md5_6_alpha_upper: 9SISF
+md5_6_upper: FAF71F
+name: Oobb Part Smd Magazine Lid 4 Width 4 Height
+name_no_class: Part Smd Magazine Lid 4 Width 4 Height
+name_no_size: 4 Width 4 Height
+name_no_size_short: 4 Width 4 Height
+name_no_type: Smd Magazine Lid 4 Width 4 Height
+oomp_key: oomp_oobb_part_smd_magazine_lid_4_width_4_height
+oomp_word: nine six princess
+oomp_word_emoji: ':nine: :six: :princess:'
+oomp_word_emoji_list:
+- ':nine:'
+- ':six:'
+- ':princess:'
+oomp_word_list:
+- nine
+- six
+- princess
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: smd_magazine_lid
+size_capital: Smd Magazine Lid
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SMD_MAGAZINE_LID
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

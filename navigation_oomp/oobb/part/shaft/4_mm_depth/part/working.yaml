@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 4_mm_depth
+description_main_capital: 4 mm Depth
+description_main_first_letter: '4'
+description_main_first_letter_upper: '4'
+description_main_upper: 4_MM_DEPTH
+description_only_numbers: '4'
+description_only_numbers_short: '4'
+description_or_color: '4'
+description_or_color_upper: '4'
+directory: parts/oobb_part_shaft_4_mm_depth
+distributors: []
+id: oobb_part_shaft_4_mm_depth
+id_no_class: part_shaft_4_mm_depth
+id_no_size: 4_mm_depth
+id_no_type: shaft_4_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_4_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_4_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_4_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_shaft_4_mm_depth](none)<br>[](none)<br>[Oobb Part Shaft
+    4 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_shaft_4_mm_depth](none)<br><br>'
+md5: c75cb2776a74e4fd75b05e470ca1d501
+md5_10: c75cb2776a
+md5_10_upper: C75CB2776A
+md5_5: c75cb
+md5_5_upper: C75CB
+md5_6: c75cb2
+md5_6_alpha: 7s1bm
+md5_6_alpha_upper: 7S1BM
+md5_6_upper: C75CB2
+name: Oobb Part Shaft 4 Mm Depth
+name_no_class: Part Shaft 4 Mm Depth
+name_no_size: 4 Mm Depth
+name_no_size_short: 4 Mm Depth
+name_no_type: Shaft 4 Mm Depth
+oomp_key: oomp_oobb_part_shaft_4_mm_depth
+oomp_word: honey_pot ox handbag
+oomp_word_emoji: ':honey_pot: :ox: :handbag:'
+oomp_word_emoji_list:
+- ':honey_pot:'
+- ':ox:'
+- ':handbag:'
+oomp_word_list:
+- honey_pot
+- ox
+- handbag
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: shaft
+size_capital: Shaft
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHAFT
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

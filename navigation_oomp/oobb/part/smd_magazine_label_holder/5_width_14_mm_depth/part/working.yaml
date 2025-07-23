@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 5_width_14_mm_depth
+description_main_capital: 5 Width 14 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5_WIDTH_14_MM_DEPTH
+description_only_numbers: '514'
+description_only_numbers_short: '514'
+description_or_color: '514'
+description_or_color_upper: '514'
+directory: parts/oobb_part_smd_magazine_label_holder_5_width_14_mm_depth
+distributors: []
+id: oobb_part_smd_magazine_label_holder_5_width_14_mm_depth
+id_no_class: part_smd_magazine_label_holder_5_width_14_mm_depth
+id_no_size: 5_width_14_mm_depth
+id_no_type: smd_magazine_label_holder_5_width_14_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_label_holder_5_width_14_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_label_holder_5_width_14_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_label_holder_5_width_14_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_smd_magazine_label_holder_5_width_14_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Smd Magazine Label Holder 5 Width 14 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_smd_magazine_label_holder_5_width_14_mm_depth](none)<br><br>'
+md5: 5746c1e9fef8df83b469d7bdcc3ccb3c
+md5_10: 5746c1e9fe
+md5_10_upper: 5746C1E9FE
+md5_5: 5746c
+md5_5_upper: 5746C
+md5_6: 5746c1
+md5_6_alpha: 3eldt
+md5_6_alpha_upper: 3ELDT
+md5_6_upper: 5746C1
+name: Oobb Part Smd Magazine Label Holder 5 Width 14 Mm Depth
+name_no_class: Part Smd Magazine Label Holder 5 Width 14 Mm Depth
+name_no_size: 5 Width 14 Mm Depth
+name_no_size_short: 5 Width 14 Mm Depth
+name_no_type: Smd Magazine Label Holder 5 Width 14 Mm Depth
+oomp_key: oomp_oobb_part_smd_magazine_label_holder_5_width_14_mm_depth
+oomp_word: rat bird doughnut
+oomp_word_emoji: ':rat: :bird: :doughnut:'
+oomp_word_emoji_list:
+- ':rat:'
+- ':bird:'
+- ':doughnut:'
+oomp_word_list:
+- rat
+- bird
+- doughnut
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: smd_magazine_label_holder
+size_capital: Smd Magazine Label Holder
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SMD_MAGAZINE_LABEL_HOLDER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

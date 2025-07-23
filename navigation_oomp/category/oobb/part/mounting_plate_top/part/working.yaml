@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: mounting_plate_top
+color_capital: Mounting Plate Top
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MOUNTING_PLATE_TOP
+description: category_oobb
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_oobb_part_mounting_plate_top
+distributors: []
+filter: ''
+from_yaml: false
+id: category_oobb_part_mounting_plate_top
+id_no_class: oobb_part_mounting_plate_top
+id_no_size: mounting_plate_top
+id_no_type: part_mounting_plate_top
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate_top
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate_top
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate_top
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_mounting_plate_top](none)<br>[](none)<br>[Category
+    Oobb Part Mounting Plate Top](none)<br><br>'
+markdown_short: '[category_oobb_part_mounting_plate_top](none)<br><br>'
+md5: d65a730c61acda0f38046261b4025bc9
+md5_10: d65a730c61
+md5_10_upper: D65A730C61
+md5_5: d65a7
+md5_5_upper: D65A7
+md5_6: d65a73
+md5_6_alpha: 8d3eb
+md5_6_alpha_upper: 8D3EB
+md5_6_upper: D65A73
+name: Category Oobb Part Mounting Plate Top
+name_no_class: Oobb Part Mounting Plate Top
+name_no_size: Mounting Plate Top
+name_no_size_short: Mounting Plate Top
+name_no_type: Part Mounting Plate Top
+oomp_key: oomp_category_oobb_part_mounting_plate_top
+oomp_word: school goat flags
+oomp_word_emoji: ':school: :goat: :flags:'
+oomp_word_emoji_list:
+- ':school:'
+- ':goat:'
+- ':flags:'
+oomp_word_list:
+- school
+- goat
+- flags
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

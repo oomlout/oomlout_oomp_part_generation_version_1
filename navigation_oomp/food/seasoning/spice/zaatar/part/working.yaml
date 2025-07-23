@@ -1,0 +1,90 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: zaatar
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: zaatar
+description_main_capital: Zaatar
+description_main_first_letter: z
+description_main_first_letter_upper: Z
+description_main_upper: ZAATAR
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_spice_zaatar
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_spice_zaatar
+id_no_class: seasoning_spice_zaatar
+id_no_size: zaatar
+id_no_type: spice_zaatar
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_zaatar
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_zaatar
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_zaatar
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_spice_zaatar](none)<br>[](none)<br>[Food Seasoning
+    Spice Zaatar](none)<br><br>'
+markdown_short: '[food_seasoning_spice_zaatar](none)<br><br>'
+md5: 24e5fb5924c23b65e2ba0217d1c37a93
+md5_10: 24e5fb5924
+md5_10_upper: 24E5FB5924
+md5_5: 24e5f
+md5_5_upper: 24E5F
+md5_6: 24e5fb
+md5_6_alpha: 1ftvf
+md5_6_alpha_upper: 1FTVF
+md5_6_upper: 24E5FB
+name: Food Seasoning Spice Zaatar
+name_no_class: Seasoning Spice Zaatar
+name_no_size: Zaatar
+name_no_size_short: Zaatar
+name_no_type: Spice Zaatar
+name_short: Zaatar
+oomp_key: oomp_food_seasoning_spice_zaatar
+oomp_word: droplet rocket ok
+oomp_word_emoji: ':droplet: :rocket: :ok:'
+oomp_word_emoji_list:
+- ':droplet:'
+- ':rocket:'
+- ':ok:'
+oomp_word_list:
+- droplet
+- rocket
+- ok
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: spice
+size_capital: Spice
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPICE
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

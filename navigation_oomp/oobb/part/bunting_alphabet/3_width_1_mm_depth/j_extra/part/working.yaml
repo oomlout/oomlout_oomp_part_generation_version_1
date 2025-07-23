@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: j_extra
+description_extra_capital: J Extra
+description_extra_first_letter: j
+description_extra_first_letter_upper: J
+description_extra_upper: J_EXTRA
+description_main: 3_width_1_mm_depth
+description_main_capital: 3 Width 1 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_1_MM_DEPTH
+description_only_numbers: '31'
+description_only_numbers_short: '31'
+description_or_color: '31'
+description_or_color_upper: '31'
+directory: parts/oobb_part_bunting_alphabet_3_width_1_mm_depth_j_extra
+distributors: []
+id: oobb_part_bunting_alphabet_3_width_1_mm_depth_j_extra
+id_no_class: part_bunting_alphabet_3_width_1_mm_depth_j_extra
+id_no_size: 3_width_1_mm_depth_j_extra
+id_no_type: bunting_alphabet_3_width_1_mm_depth_j_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_3_width_1_mm_depth_j_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_3_width_1_mm_depth_j_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_3_width_1_mm_depth_j_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bunting_alphabet_3_width_1_mm_depth_j_extra](none)<br>[](none)<br>[Oobb
+    Part Bunting Alphabet 3 Width 1 Mm Depth J Extra](none)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_3_width_1_mm_depth_j_extra](none)<br><br>'
+md5: 929046f5fe7ff00ae3eb02788d543579
+md5_10: 929046f5fe
+md5_10_upper: 929046F5FE
+md5_5: '92904'
+md5_5_upper: '92904'
+md5_6: '929046'
+md5_6_alpha: 5pveu
+md5_6_alpha_upper: 5PVEU
+md5_6_upper: '929046'
+name: Oobb Part Bunting Alphabet 3 Width 1 Mm Depth J Extra
+name_no_class: Part Bunting Alphabet 3 Width 1 Mm Depth J Extra
+name_no_size: 3 Width 1 Mm Depth J Extra
+name_no_size_short: 3 Width 1 Mm Depth J Extra
+name_no_type: Bunting Alphabet 3 Width 1 Mm Depth J Extra
+oomp_key: oomp_oobb_part_bunting_alphabet_3_width_1_mm_depth_j_extra
+oomp_word: paperclip scissors bird
+oomp_word_emoji: ':paperclip: :scissors: :bird:'
+oomp_word_emoji_list:
+- ':paperclip:'
+- ':scissors:'
+- ':bird:'
+oomp_word_list:
+- paperclip
+- scissors
+- bird
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bunting_alphabet
+size_capital: Bunting Alphabet
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNTING_ALPHABET
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

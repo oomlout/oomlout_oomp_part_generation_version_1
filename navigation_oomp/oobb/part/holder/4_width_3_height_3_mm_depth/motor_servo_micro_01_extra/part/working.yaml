@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: motor_servo_micro_01_extra
+description_extra_capital: Motor Servo Micro 01 Extra
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: MOTOR_SERVO_MICRO_01_EXTRA
+description_main: 4_width_3_height_3_mm_depth
+description_main_capital: 4 Width 3 Height 3 mm Depth
+description_main_first_letter: '4'
+description_main_first_letter_upper: '4'
+description_main_upper: 4_WIDTH_3_HEIGHT_3_MM_DEPTH
+description_only_numbers: '433'
+description_only_numbers_short: '433'
+description_or_color: '433'
+description_or_color_upper: '433'
+directory: parts/oobb_part_holder_4_width_3_height_3_mm_depth_motor_servo_micro_01_extra
+distributors: []
+id: oobb_part_holder_4_width_3_height_3_mm_depth_motor_servo_micro_01_extra
+id_no_class: part_holder_4_width_3_height_3_mm_depth_motor_servo_micro_01_extra
+id_no_size: 4_width_3_height_3_mm_depth_motor_servo_micro_01_extra
+id_no_type: holder_4_width_3_height_3_mm_depth_motor_servo_micro_01_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_4_width_3_height_3_mm_depth_motor_servo_micro_01_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_4_width_3_height_3_mm_depth_motor_servo_micro_01_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_4_width_3_height_3_mm_depth_motor_servo_micro_01_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_holder_4_width_3_height_3_mm_depth_motor_servo_micro_01_extra](none)<br>[](none)<br>[Oobb
+    Part Holder 4 Width 3 Height 3 Mm Depth Motor Servo Micro 01 Extra](none)<br><br>'
+markdown_short: '[oobb_part_holder_4_width_3_height_3_mm_depth_motor_servo_micro_01_extra](none)<br><br>'
+md5: ebd92dfaaf1c1b8f41bace25043350b7
+md5_10: ebd92dfaaf
+md5_10_upper: EBD92DFAAF
+md5_5: ebd92
+md5_5_upper: EBD92
+md5_6: ebd92d
+md5_6_alpha: 97act
+md5_6_alpha_upper: 97ACT
+md5_6_upper: EBD92D
+name: Oobb Part Holder 4 Width 3 Height 3 Mm Depth Motor Servo Micro 01 Extra
+name_no_class: Part Holder 4 Width 3 Height 3 Mm Depth Motor Servo Micro 01 Extra
+name_no_size: 4 Width 3 Height 3 Mm Depth Motor Servo Micro 01 Extra
+name_no_size_short: 4 Width 3 Height 3 Mm Depth Motor Servo Micro 01 Extra
+name_no_type: Holder 4 Width 3 Height 3 Mm Depth Motor Servo Micro 01 Extra
+oomp_key: oomp_oobb_part_holder_4_width_3_height_3_mm_depth_motor_servo_micro_01_extra
+oomp_word: car bank snowman
+oomp_word_emoji: ':car: :bank: :snowman:'
+oomp_word_emoji_list:
+- ':car:'
+- ':bank:'
+- ':snowman:'
+oomp_word_list:
+- car
+- bank
+- snowman
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: holder
+size_capital: Holder
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOLDER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

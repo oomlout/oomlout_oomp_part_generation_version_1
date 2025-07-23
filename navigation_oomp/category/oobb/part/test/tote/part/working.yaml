@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: test
+color_capital: Test
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TEST
+description: category_oobb
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_oobb_part_test_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_oobb_part_test_tote
+id_no_class: oobb_part_test_tote
+id_no_size: test_tote
+id_no_type: part_test_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_test_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_test_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_test_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_test_tote](none)<br>[](none)<br>[Category Oobb
+    Part Test Tote](none)<br><br>'
+markdown_short: '[category_oobb_part_test_tote](none)<br><br>'
+md5: 33397f0e62f9d167fdef92e7d2f93d02
+md5_10: 33397f0e62
+md5_10_upper: 33397F0E62
+md5_5: '33397'
+md5_5_upper: '33397'
+md5_6: 33397f
+md5_6_alpha: 1zybj
+md5_6_alpha_upper: 1ZYBJ
+md5_6_upper: 33397F
+name: Category Oobb Part Test Tote
+name_no_class: Oobb Part Test Tote
+name_no_size: Test Tote
+name_no_size_short: Test Tote
+name_no_type: Part Test Tote
+oomp_key: oomp_category_oobb_part_test_tote
+oomp_word: dog tiger speaker
+oomp_word_emoji: ':dog: :tiger: :speaker:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':tiger:'
+- ':speaker:'
+oomp_word_list:
+- dog
+- tiger
+- speaker
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: c_extra
+description_extra_capital: C Extra
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: C_EXTRA
+description_main: 5_width_1_mm_depth
+description_main_capital: 5 Width 1 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5_WIDTH_1_MM_DEPTH
+description_only_numbers: '51'
+description_only_numbers_short: '51'
+description_or_color: '51'
+description_or_color_upper: '51'
+directory: parts/oobb_part_bunting_alphabet_5_width_1_mm_depth_c_extra
+distributors: []
+id: oobb_part_bunting_alphabet_5_width_1_mm_depth_c_extra
+id_no_class: part_bunting_alphabet_5_width_1_mm_depth_c_extra
+id_no_size: 5_width_1_mm_depth_c_extra
+id_no_type: bunting_alphabet_5_width_1_mm_depth_c_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_5_width_1_mm_depth_c_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_5_width_1_mm_depth_c_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_5_width_1_mm_depth_c_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bunting_alphabet_5_width_1_mm_depth_c_extra](none)<br>[](none)<br>[Oobb
+    Part Bunting Alphabet 5 Width 1 Mm Depth C Extra](none)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_5_width_1_mm_depth_c_extra](none)<br><br>'
+md5: c884450373d6dd9b31717ab2cb0d1d8b
+md5_10: c884450373
+md5_10_upper: C884450373
+md5_5: c8844
+md5_5_upper: C8844
+md5_6: c88445
+md5_6_alpha: 7tnph
+md5_6_alpha_upper: 7TNPH
+md5_6_upper: C88445
+name: Oobb Part Bunting Alphabet 5 Width 1 Mm Depth C Extra
+name_no_class: Part Bunting Alphabet 5 Width 1 Mm Depth C Extra
+name_no_size: 5 Width 1 Mm Depth C Extra
+name_no_size_short: 5 Width 1 Mm Depth C Extra
+name_no_type: Bunting Alphabet 5 Width 1 Mm Depth C Extra
+oomp_key: oomp_oobb_part_bunting_alphabet_5_width_1_mm_depth_c_extra
+oomp_word: apple key snake
+oomp_word_emoji: ':apple: :key: :snake:'
+oomp_word_emoji_list:
+- ':apple:'
+- ':key:'
+- ':snake:'
+oomp_word_list:
+- apple
+- key
+- snake
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bunting_alphabet
+size_capital: Bunting Alphabet
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNTING_ALPHABET
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

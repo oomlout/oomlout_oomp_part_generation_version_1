@@ -1,0 +1,93 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: electronic_potentiometer_17_mm_shaft_24_teeth_extra
+description_extra_capital: Electronic Potentiometer 17 mm Shaft 24 Teeth Extra
+description_extra_first_letter: e
+description_extra_first_letter_upper: E
+description_extra_upper: ELECTRONIC_POTENTIOMETER_17_MM_SHAFT_24_TEETH_EXTRA
+description_main: 3_diameter_6_mm_depth
+description_main_capital: 3 Diameter 6 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_DIAMETER_6_MM_DEPTH
+description_only_numbers: '36'
+description_only_numbers_short: '36'
+description_or_color: '36'
+description_or_color_upper: '36'
+directory: parts/oobb_part_gear_3_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_24_teeth_extra
+distributors: []
+id: oobb_part_gear_3_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_24_teeth_extra
+id_no_class: part_gear_3_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_24_teeth_extra
+id_no_size: 3_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_24_teeth_extra
+id_no_type: gear_3_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_24_teeth_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_3_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_24_teeth_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_3_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_24_teeth_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_3_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_24_teeth_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_gear_3_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_24_teeth_extra](none)<br>[](none)<br>[Oobb
+    Part Gear 3 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 24 Teeth
+    Extra](none)<br><br>'
+markdown_short: '[oobb_part_gear_3_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_24_teeth_extra](none)<br><br>'
+md5: f3059459b2272bd66dfd35c56c968797
+md5_10: f3059459b2
+md5_10_upper: F3059459B2
+md5_5: f3059
+md5_5_upper: F3059
+md5_6: f30594
+md5_6_alpha: 9hd3o
+md5_6_alpha_upper: 9HD3O
+md5_6_upper: F30594
+name: Oobb Part Gear 3 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 24
+    Teeth Extra
+name_no_class: Part Gear 3 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft
+    24 Teeth Extra
+name_no_size: 3 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 24 Teeth
+    Extra
+name_no_size_short: 3 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 24
+    Teeth Extra
+name_no_type: Gear 3 Diameter 6 Mm Depth Electronic Potentiometer 17 Mm Shaft 24 Teeth
+    Extra
+oomp_key: oomp_oobb_part_gear_3_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_24_teeth_extra
+oomp_word: two kissing microscope
+oomp_word_emoji: ':two: :kissing: :microscope:'
+oomp_word_emoji_list:
+- ':two:'
+- ':kissing:'
+- ':microscope:'
+oomp_word_list:
+- two
+- kissing
+- microscope
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: gear
+size_capital: Gear
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GEAR
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

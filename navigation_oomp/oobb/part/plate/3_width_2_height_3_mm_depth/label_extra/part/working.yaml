@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: label_extra
+description_extra_capital: Label Extra
+description_extra_first_letter: l
+description_extra_first_letter_upper: L
+description_extra_upper: LABEL_EXTRA
+description_main: 3_width_2_height_3_mm_depth
+description_main_capital: 3 Width 2 Height 3 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_2_HEIGHT_3_MM_DEPTH
+description_only_numbers: '323'
+description_only_numbers_short: '323'
+description_or_color: '323'
+description_or_color_upper: '323'
+directory: parts/oobb_part_plate_3_width_2_height_3_mm_depth_label_extra
+distributors: []
+id: oobb_part_plate_3_width_2_height_3_mm_depth_label_extra
+id_no_class: part_plate_3_width_2_height_3_mm_depth_label_extra
+id_no_size: 3_width_2_height_3_mm_depth_label_extra
+id_no_type: plate_3_width_2_height_3_mm_depth_label_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_3_width_2_height_3_mm_depth_label_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_3_width_2_height_3_mm_depth_label_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_3_width_2_height_3_mm_depth_label_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_3_width_2_height_3_mm_depth_label_extra](none)<br>[](none)<br>[Oobb
+    Part Plate 3 Width 2 Height 3 Mm Depth Label Extra](none)<br><br>'
+markdown_short: '[oobb_part_plate_3_width_2_height_3_mm_depth_label_extra](none)<br><br>'
+md5: 861ec0079d1ac0029be009ce691155b8
+md5_10: 861ec0079d
+md5_10_upper: 861EC0079D
+md5_5: 861ec
+md5_5_upper: 861EC
+md5_6: 861ec0
+md5_6_alpha: 58e68
+md5_6_alpha_upper: 58E68
+md5_6_upper: 861EC0
+name: Oobb Part Plate 3 Width 2 Height 3 Mm Depth Label Extra
+name_no_class: Part Plate 3 Width 2 Height 3 Mm Depth Label Extra
+name_no_size: 3 Width 2 Height 3 Mm Depth Label Extra
+name_no_size_short: 3 Width 2 Height 3 Mm Depth Label Extra
+name_no_type: Plate 3 Width 2 Height 3 Mm Depth Label Extra
+oomp_key: oomp_oobb_part_plate_3_width_2_height_3_mm_depth_label_extra
+oomp_word: bath angel bread
+oomp_word_emoji: ':bath: :angel: :bread:'
+oomp_word_emoji_list:
+- ':bath:'
+- ':angel:'
+- ':bread:'
+oomp_word_list:
+- bath
+- angel
+- bread
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

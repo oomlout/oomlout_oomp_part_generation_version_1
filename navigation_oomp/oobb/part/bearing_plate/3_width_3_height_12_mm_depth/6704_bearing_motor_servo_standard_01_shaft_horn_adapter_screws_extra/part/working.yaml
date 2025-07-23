@@ -1,0 +1,94 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 6704_bearing_motor_servo_standard_01_shaft_horn_adapter_screws_extra
+description_extra_capital: 6704 Bearing Motor Servo Standard 01 Shaft Horn Adapter
+    Screws Extra
+description_extra_first_letter: '6'
+description_extra_first_letter_upper: '6'
+description_extra_upper: 6704_BEARING_MOTOR_SERVO_STANDARD_01_SHAFT_HORN_ADAPTER_SCREWS_EXTRA
+description_main: 3_width_3_height_12_mm_depth
+description_main_capital: 3 Width 3 Height 12 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_3_HEIGHT_12_MM_DEPTH
+description_only_numbers: '3312'
+description_only_numbers_short: 3k3
+description_or_color: 3k3
+description_or_color_upper: 3K3
+directory: parts/oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_screws_extra
+distributors: []
+id: oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_screws_extra
+id_no_class: part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_screws_extra
+id_no_size: 3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_screws_extra
+id_no_type: bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_screws_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_screws_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_screws_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_screws_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_screws_extra](none)<br>[](none)<br>[Oobb
+    Part Bearing Plate 3 Width 3 Height 12 Mm Depth 6704 Bearing Motor Servo Standard
+    01 Shaft Horn Adapter Screws Extra](none)<br><br>'
+markdown_short: '[oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_screws_extra](none)<br><br>'
+md5: 64d9bf90012a4ef4dd71b11d1d94e58c
+md5_10: 64d9bf9001
+md5_10_upper: 64D9BF9001
+md5_5: 64d9b
+md5_5_upper: 64D9B
+md5_6: 64d9bf
+md5_6_alpha: 3xnsv
+md5_6_alpha_upper: 3XNSV
+md5_6_upper: 64D9BF
+name: Oobb Part Bearing Plate 3 Width 3 Height 12 Mm Depth 6704 Bearing Motor Servo
+    Standard 01 Shaft Horn Adapter Screws Extra
+name_no_class: Part Bearing Plate 3 Width 3 Height 12 Mm Depth 6704 Bearing Motor
+    Servo Standard 01 Shaft Horn Adapter Screws Extra
+name_no_size: 3 Width 3 Height 12 Mm Depth 6704 Bearing Motor Servo Standard 01 Shaft
+    Horn Adapter Screws Extra
+name_no_size_short: 3 Width 3 Height 12 Mm Depth 6704 Bearing Motor Servo Standard
+    01 Shaft Horn Adapter Screws Extra
+name_no_type: Bearing Plate 3 Width 3 Height 12 Mm Depth 6704 Bearing Motor Servo
+    Standard 01 Shaft Horn Adapter Screws Extra
+oomp_key: oomp_oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_screws_extra
+oomp_word: sunflower bank egg
+oomp_word_emoji: ':sunflower: :bank: :egg:'
+oomp_word_emoji_list:
+- ':sunflower:'
+- ':bank:'
+- ':egg:'
+oomp_word_list:
+- sunflower
+- bank
+- egg
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bearing_plate
+size_capital: Bearing Plate
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING_PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

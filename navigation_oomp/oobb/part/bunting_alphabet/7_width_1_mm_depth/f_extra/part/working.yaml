@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: f_extra
+description_extra_capital: F Extra
+description_extra_first_letter: f
+description_extra_first_letter_upper: F
+description_extra_upper: F_EXTRA
+description_main: 7_width_1_mm_depth
+description_main_capital: 7 Width 1 mm Depth
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 7_WIDTH_1_MM_DEPTH
+description_only_numbers: '71'
+description_only_numbers_short: '71'
+description_or_color: '71'
+description_or_color_upper: '71'
+directory: parts/oobb_part_bunting_alphabet_7_width_1_mm_depth_f_extra
+distributors: []
+id: oobb_part_bunting_alphabet_7_width_1_mm_depth_f_extra
+id_no_class: part_bunting_alphabet_7_width_1_mm_depth_f_extra
+id_no_size: 7_width_1_mm_depth_f_extra
+id_no_type: bunting_alphabet_7_width_1_mm_depth_f_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_7_width_1_mm_depth_f_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_7_width_1_mm_depth_f_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_7_width_1_mm_depth_f_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bunting_alphabet_7_width_1_mm_depth_f_extra](none)<br>[](none)<br>[Oobb
+    Part Bunting Alphabet 7 Width 1 Mm Depth F Extra](none)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_7_width_1_mm_depth_f_extra](none)<br><br>'
+md5: 459a2f9a79fbfabc3620e53e17e825c9
+md5_10: 459a2f9a79
+md5_10_upper: 459A2F9A79
+md5_5: 459a2
+md5_5_upper: 459A2
+md5_6: 459a2f
+md5_6_alpha: 2prn3
+md5_6_alpha_upper: 2PRN3
+md5_6_upper: 459A2F
+name: Oobb Part Bunting Alphabet 7 Width 1 Mm Depth F Extra
+name_no_class: Part Bunting Alphabet 7 Width 1 Mm Depth F Extra
+name_no_size: 7 Width 1 Mm Depth F Extra
+name_no_size_short: 7 Width 1 Mm Depth F Extra
+name_no_type: Bunting Alphabet 7 Width 1 Mm Depth F Extra
+oomp_key: oomp_oobb_part_bunting_alphabet_7_width_1_mm_depth_f_extra
+oomp_word: snake golf cyclone
+oomp_word_emoji: ':snake: :golf: :cyclone:'
+oomp_word_emoji_list:
+- ':snake:'
+- ':golf:'
+- ':cyclone:'
+oomp_word_list:
+- snake
+- golf
+- cyclone
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bunting_alphabet
+size_capital: Bunting Alphabet
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNTING_ALPHABET
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: doughnut_3_extra
+description_extra_capital: Doughnut 3 Extra
+description_extra_first_letter: d
+description_extra_first_letter_upper: D
+description_extra_upper: DOUGHNUT_3_EXTRA
+description_main: 21_diameter_3_mm_depth
+description_main_capital: 21 Diameter 3 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 21_DIAMETER_3_MM_DEPTH
+description_only_numbers: '213'
+description_only_numbers_short: '213'
+description_or_color: '213'
+description_or_color_upper: '213'
+directory: parts/oobb_part_circle_21_diameter_3_mm_depth_doughnut_3_extra
+distributors: []
+id: oobb_part_circle_21_diameter_3_mm_depth_doughnut_3_extra
+id_no_class: part_circle_21_diameter_3_mm_depth_doughnut_3_extra
+id_no_size: 21_diameter_3_mm_depth_doughnut_3_extra
+id_no_type: circle_21_diameter_3_mm_depth_doughnut_3_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_circle_21_diameter_3_mm_depth_doughnut_3_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_circle_21_diameter_3_mm_depth_doughnut_3_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_circle_21_diameter_3_mm_depth_doughnut_3_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_circle_21_diameter_3_mm_depth_doughnut_3_extra](none)<br>[](none)<br>[Oobb
+    Part Circle 21 Diameter 3 Mm Depth Doughnut 3 Extra](none)<br><br>'
+markdown_short: '[oobb_part_circle_21_diameter_3_mm_depth_doughnut_3_extra](none)<br><br>'
+md5: f5876b65daf1743888993879549023f2
+md5_10: f5876b65da
+md5_10_upper: F5876B65DA
+md5_5: f5876
+md5_5_upper: F5876
+md5_6: f5876b
+md5_6_alpha: 9kvvv
+md5_6_alpha_upper: 9KVVV
+md5_6_upper: F5876B
+name: Oobb Part Circle 21 Diameter 3 Mm Depth Doughnut 3 Extra
+name_no_class: Part Circle 21 Diameter 3 Mm Depth Doughnut 3 Extra
+name_no_size: 21 Diameter 3 Mm Depth Doughnut 3 Extra
+name_no_size_short: 21 Diameter 3 Mm Depth Doughnut 3 Extra
+name_no_type: Circle 21 Diameter 3 Mm Depth Doughnut 3 Extra
+oomp_key: oomp_oobb_part_circle_21_diameter_3_mm_depth_doughnut_3_extra
+oomp_word: four toilet chestnut
+oomp_word_emoji: ':four: :toilet: :chestnut:'
+oomp_word_emoji_list:
+- ':four:'
+- ':toilet:'
+- ':chestnut:'
+oomp_word_list:
+- four
+- toilet
+- chestnut
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: circle
+size_capital: Circle
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CIRCLE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

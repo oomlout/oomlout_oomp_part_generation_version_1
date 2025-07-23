@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: t_extra
+description_extra_capital: T Extra
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: T_EXTRA
+description_main: 3_width_1_mm_depth
+description_main_capital: 3 Width 1 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_WIDTH_1_MM_DEPTH
+description_only_numbers: '31'
+description_only_numbers_short: '31'
+description_or_color: '31'
+description_or_color_upper: '31'
+directory: parts/oobb_part_bunting_alphabet_3_width_1_mm_depth_t_extra
+distributors: []
+id: oobb_part_bunting_alphabet_3_width_1_mm_depth_t_extra
+id_no_class: part_bunting_alphabet_3_width_1_mm_depth_t_extra
+id_no_size: 3_width_1_mm_depth_t_extra
+id_no_type: bunting_alphabet_3_width_1_mm_depth_t_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_3_width_1_mm_depth_t_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_3_width_1_mm_depth_t_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_3_width_1_mm_depth_t_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bunting_alphabet_3_width_1_mm_depth_t_extra](none)<br>[](none)<br>[Oobb
+    Part Bunting Alphabet 3 Width 1 Mm Depth T Extra](none)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_3_width_1_mm_depth_t_extra](none)<br><br>'
+md5: e4e287ece2c61540ca0f7281bf448f06
+md5_10: e4e287ece2
+md5_10_upper: E4E287ECE2
+md5_5: e4e28
+md5_5_upper: E4E28
+md5_6: e4e287
+md5_6_alpha: 8xi87
+md5_6_alpha_upper: 8XI87
+md5_6_upper: E4E287
+name: Oobb Part Bunting Alphabet 3 Width 1 Mm Depth T Extra
+name_no_class: Part Bunting Alphabet 3 Width 1 Mm Depth T Extra
+name_no_size: 3 Width 1 Mm Depth T Extra
+name_no_size_short: 3 Width 1 Mm Depth T Extra
+name_no_type: Bunting Alphabet 3 Width 1 Mm Depth T Extra
+oomp_key: oomp_oobb_part_bunting_alphabet_3_width_1_mm_depth_t_extra
+oomp_word: anchor sailboat toilet
+oomp_word_emoji: ':anchor: :sailboat: :toilet:'
+oomp_word_emoji_list:
+- ':anchor:'
+- ':sailboat:'
+- ':toilet:'
+oomp_word_list:
+- anchor
+- sailboat
+- toilet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bunting_alphabet
+size_capital: Bunting Alphabet
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNTING_ALPHABET
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: m6_shaft_ptfe_tube_holder_extra
+description_extra_capital: M6 Shaft Ptfe Tube Holder Extra
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: M6_SHAFT_PTFE_TUBE_HOLDER_EXTRA
+description_main: 1_width_3_height_14_mm_depth
+description_main_capital: 1 Width 3 Height 14 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 1_WIDTH_3_HEIGHT_14_MM_DEPTH
+description_only_numbers: '1314'
+description_only_numbers_short: 1k3
+description_or_color: 1k3
+description_or_color_upper: 1K3
+directory: parts/oobb_part_other_1_width_3_height_14_mm_depth_m6_shaft_ptfe_tube_holder_extra
+distributors: []
+id: oobb_part_other_1_width_3_height_14_mm_depth_m6_shaft_ptfe_tube_holder_extra
+id_no_class: part_other_1_width_3_height_14_mm_depth_m6_shaft_ptfe_tube_holder_extra
+id_no_size: 1_width_3_height_14_mm_depth_m6_shaft_ptfe_tube_holder_extra
+id_no_type: other_1_width_3_height_14_mm_depth_m6_shaft_ptfe_tube_holder_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_other_1_width_3_height_14_mm_depth_m6_shaft_ptfe_tube_holder_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_other_1_width_3_height_14_mm_depth_m6_shaft_ptfe_tube_holder_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_other_1_width_3_height_14_mm_depth_m6_shaft_ptfe_tube_holder_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_other_1_width_3_height_14_mm_depth_m6_shaft_ptfe_tube_holder_extra](none)<br>[](none)<br>[Oobb
+    Part Other 1 Width 3 Height 14 Mm Depth M6 Shaft Ptfe Tube Holder Extra](none)<br><br>'
+markdown_short: '[oobb_part_other_1_width_3_height_14_mm_depth_m6_shaft_ptfe_tube_holder_extra](none)<br><br>'
+md5: d447881c6d9ecf4cd09b7a2ea6e27d2a
+md5_10: d447881c6d
+md5_10_upper: D447881C6D
+md5_5: d4478
+md5_5_upper: D4478
+md5_6: d44788
+md5_6_alpha: 8a6iw
+md5_6_alpha_upper: 8A6IW
+md5_6_upper: D44788
+name: Oobb Part Other 1 Width 3 Height 14 Mm Depth M6 Shaft Ptfe Tube Holder Extra
+name_no_class: Part Other 1 Width 3 Height 14 Mm Depth M6 Shaft Ptfe Tube Holder Extra
+name_no_size: 1 Width 3 Height 14 Mm Depth M6 Shaft Ptfe Tube Holder Extra
+name_no_size_short: 1 Width 3 Height 14 Mm Depth M6 Shaft Ptfe Tube Holder Extra
+name_no_type: Other 1 Width 3 Height 14 Mm Depth M6 Shaft Ptfe Tube Holder Extra
+oomp_key: oomp_oobb_part_other_1_width_3_height_14_mm_depth_m6_shaft_ptfe_tube_holder_extra
+oomp_word: corn baby_chick wrench
+oomp_word_emoji: ':corn: :baby_chick: :wrench:'
+oomp_word_emoji_list:
+- ':corn:'
+- ':baby_chick:'
+- ':wrench:'
+oomp_word_list:
+- corn
+- baby_chick
+- wrench
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: other
+size_capital: Other
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OTHER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

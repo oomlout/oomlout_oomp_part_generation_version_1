@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 6_width_2.5_height_21_mm_depth
+description_main_capital: 6 Width 2.5 Height 21 mm Depth
+description_main_first_letter: '6'
+description_main_first_letter_upper: '6'
+description_main_upper: 6_WIDTH_2.5_HEIGHT_21_MM_DEPTH
+description_only_numbers: '62521'
+description_only_numbers_short: 63k
+description_or_color: 63k
+description_or_color_upper: 63K
+directory: parts/oobb_part_tray_6_width_2.5_height_21_mm_depth
+distributors: []
+id: oobb_part_tray_6_width_2.5_height_21_mm_depth
+id_no_class: part_tray_6_width_2.5_height_21_mm_depth
+id_no_size: 6_width_2.5_height_21_mm_depth
+id_no_type: tray_6_width_2.5_height_21_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_6_width_2.5_height_21_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_6_width_2.5_height_21_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_6_width_2.5_height_21_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_6_width_2.5_height_21_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray 6 Width 2.5 Height 21 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_6_width_2.5_height_21_mm_depth](none)<br><br>'
+md5: ac081f2f277fe73c2489c1d450633b18
+md5_10: ac081f2f27
+md5_10_upper: AC081F2F27
+md5_5: ac081
+md5_5_upper: AC081
+md5_6: ac081f
+md5_6_alpha: 6pna7
+md5_6_alpha_upper: 6PNA7
+md5_6_upper: AC081F
+name: Oobb Part Tray 6 Width 2.5 Height 21 Mm Depth
+name_no_class: Part Tray 6 Width 2.5 Height 21 Mm Depth
+name_no_size: 6 Width 2.5 Height 21 Mm Depth
+name_no_size_short: 6 Width 2.5 Height 21 Mm Depth
+name_no_type: Tray 6 Width 2.5 Height 21 Mm Depth
+oomp_key: oomp_oobb_part_tray_6_width_2.5_height_21_mm_depth
+oomp_word: shirt scream princess
+oomp_word_emoji: ':shirt: :scream: :princess:'
+oomp_word_emoji_list:
+- ':shirt:'
+- ':scream:'
+- ':princess:'
+oomp_word_list:
+- shirt
+- scream
+- princess
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

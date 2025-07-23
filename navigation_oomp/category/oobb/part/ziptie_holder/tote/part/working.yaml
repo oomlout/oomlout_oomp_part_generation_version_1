@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ziptie_holder
+color_capital: Ziptie Holder
+color_first_letter: z
+color_first_letter_upper: Z
+color_upper: ZIPTIE_HOLDER
+description: category_oobb
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'Z '
+description_or_color_upper: 'Z '
+directory: parts/category_oobb_part_ziptie_holder_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_oobb_part_ziptie_holder_tote
+id_no_class: oobb_part_ziptie_holder_tote
+id_no_size: ziptie_holder_tote
+id_no_type: part_ziptie_holder_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_ziptie_holder_tote](none)<br>[](none)<br>[Category
+    Oobb Part Ziptie Holder Tote](none)<br><br>'
+markdown_short: '[category_oobb_part_ziptie_holder_tote](none)<br><br>'
+md5: 396f885ce0aa5850bffe474c490016b4
+md5_10: 396f885ce0
+md5_10_upper: 396F885CE0
+md5_5: 396f8
+md5_5_upper: 396F8
+md5_6: 396f88
+md5_6_alpha: 28oeg
+md5_6_alpha_upper: 28OEG
+md5_6_upper: 396F88
+name: Category Oobb Part Ziptie Holder Tote
+name_no_class: Oobb Part Ziptie Holder Tote
+name_no_size: Ziptie Holder Tote
+name_no_size_short: Ziptie Holder Tote
+name_no_type: Part Ziptie Holder Tote
+oomp_key: oomp_category_oobb_part_ziptie_holder_tote
+oomp_word: tiger moon wrench
+oomp_word_emoji: ':tiger: :moon: :wrench:'
+oomp_word_emoji_list:
+- ':tiger:'
+- ':moon:'
+- ':wrench:'
+oomp_word_list:
+- tiger
+- moon
+- wrench
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

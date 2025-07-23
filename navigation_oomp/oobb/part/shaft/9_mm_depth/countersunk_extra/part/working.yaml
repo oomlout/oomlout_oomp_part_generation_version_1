@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: countersunk_extra
+description_extra_capital: Countersunk Extra
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: COUNTERSUNK_EXTRA
+description_main: 9_mm_depth
+description_main_capital: 9 mm Depth
+description_main_first_letter: '9'
+description_main_first_letter_upper: '9'
+description_main_upper: 9_MM_DEPTH
+description_only_numbers: '9'
+description_only_numbers_short: '9'
+description_or_color: '9'
+description_or_color_upper: '9'
+directory: parts/oobb_part_shaft_9_mm_depth_countersunk_extra
+distributors: []
+id: oobb_part_shaft_9_mm_depth_countersunk_extra
+id_no_class: part_shaft_9_mm_depth_countersunk_extra
+id_no_size: 9_mm_depth_countersunk_extra
+id_no_type: shaft_9_mm_depth_countersunk_extra
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_9_mm_depth_countersunk_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_9_mm_depth_countersunk_extra
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_shaft_9_mm_depth_countersunk_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_shaft_9_mm_depth_countersunk_extra](none)<br>[](none)<br>[Oobb
+    Part Shaft 9 Mm Depth Countersunk Extra](none)<br><br>'
+markdown_short: '[oobb_part_shaft_9_mm_depth_countersunk_extra](none)<br><br>'
+md5: 1ba985c5c9062917158a7c3893094f97
+md5_10: 1ba985c5c9
+md5_10_upper: 1BA985C5C9
+md5_5: 1ba98
+md5_5_upper: 1BA98
+md5_6: 1ba985
+md5_6_alpha: 12uth
+md5_6_alpha_upper: 12UTH
+md5_6_upper: 1BA985
+name: Oobb Part Shaft 9 Mm Depth Countersunk Extra
+name_no_class: Part Shaft 9 Mm Depth Countersunk Extra
+name_no_size: 9 Mm Depth Countersunk Extra
+name_no_size_short: 9 Mm Depth Countersunk Extra
+name_no_type: Shaft 9 Mm Depth Countersunk Extra
+oomp_key: oomp_oobb_part_shaft_9_mm_depth_countersunk_extra
+oomp_word: muscle sandal bulb
+oomp_word_emoji: ':muscle: :sandal: :bulb:'
+oomp_word_emoji_list:
+- ':muscle:'
+- ':sandal:'
+- ':bulb:'
+oomp_word_list:
+- muscle
+- sandal
+- bulb
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: shaft
+size_capital: Shaft
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHAFT
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,87 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 4_width_13_height_30_mm_depth
+description_main_capital: 4 Width 13 Height 30 mm Depth
+description_main_first_letter: '4'
+description_main_first_letter_upper: '4'
+description_main_upper: 4_WIDTH_13_HEIGHT_30_MM_DEPTH
+description_only_numbers: '41330'
+description_only_numbers_short: 41k
+description_or_color: 41k
+description_or_color_upper: 41K
+directory: parts/oobb_part_tray_4_width_13_height_30_mm_depth
+distributors: []
+id: oobb_part_tray_4_width_13_height_30_mm_depth
+id_no_class: part_tray_4_width_13_height_30_mm_depth
+id_no_size: 4_width_13_height_30_mm_depth
+id_no_type: tray_4_width_13_height_30_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_4_width_13_height_30_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_4_width_13_height_30_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_4_width_13_height_30_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_4_width_13_height_30_mm_depth](none)<br>[](none)<br>[Oobb
+    Part Tray 4 Width 13 Height 30 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_4_width_13_height_30_mm_depth](none)<br><br>'
+md5: d5972988f2a2c57451af44d3949f0413
+md5_10: d5972988f2
+md5_10_upper: D5972988F2
+md5_5: d5972
+md5_5_upper: D5972
+md5_6: d59729
+md5_6_alpha: 8c0tl
+md5_6_alpha_upper: 8C0TL
+md5_6_upper: D59729
+name: Oobb Part Tray 4 Width 13 Height 30 Mm Depth
+name_no_class: Part Tray 4 Width 13 Height 30 Mm Depth
+name_no_size: 4 Width 13 Height 30 Mm Depth
+name_no_size_short: 4 Width 13 Height 30 Mm Depth
+name_no_type: Tray 4 Width 13 Height 30 Mm Depth
+oomp_key: oomp_oobb_part_tray_4_width_13_height_30_mm_depth
+oomp_word: house baseball sunny
+oomp_word_emoji: ':house: :baseball: :sunny:'
+oomp_word_emoji_list:
+- ':house:'
+- ':baseball:'
+- ':sunny:'
+oomp_word_list:
+- house
+- baseball
+- sunny
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

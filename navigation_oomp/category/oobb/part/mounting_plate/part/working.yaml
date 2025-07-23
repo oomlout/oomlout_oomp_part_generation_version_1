@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: mounting_plate
+color_capital: Mounting Plate
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MOUNTING_PLATE
+description: category_oobb
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_oobb_part_mounting_plate
+distributors: []
+filter: ''
+from_yaml: false
+id: category_oobb_part_mounting_plate
+id_no_class: oobb_part_mounting_plate
+id_no_size: mounting_plate
+id_no_type: part_mounting_plate
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_mounting_plate](none)<br>[](none)<br>[Category
+    Oobb Part Mounting Plate](none)<br><br>'
+markdown_short: '[category_oobb_part_mounting_plate](none)<br><br>'
+md5: 5cbb4cb79586da023b5db50721625938
+md5_10: 5cbb4cb795
+md5_10_upper: 5CBB4CB795
+md5_5: 5cbb4
+md5_5_upper: 5CBB4
+md5_6: 5cbb4c
+md5_6_alpha: 3m98s
+md5_6_alpha_upper: 3M98S
+md5_6_upper: 5CBB4C
+name: Category Oobb Part Mounting Plate
+name_no_class: Oobb Part Mounting Plate
+name_no_size: Mounting Plate
+name_no_size_short: Mounting Plate
+name_no_type: Part Mounting Plate
+oomp_key: oomp_category_oobb_part_mounting_plate
+oomp_word: ox curry turtle
+oomp_word_emoji: ':ox: :curry: :turtle:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':curry:'
+- ':turtle:'
+oomp_word_list:
+- ox
+- curry
+- turtle
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

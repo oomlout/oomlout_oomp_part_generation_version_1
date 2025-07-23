@@ -1,0 +1,89 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: basil
+description_extra: 44_mm_diameter_100_mm_height_bottle
+description_extra_capital: 44 mm Diameter 100 mm Height Bottle
+description_extra_first_letter: '4'
+description_extra_first_letter_upper: '4'
+description_extra_upper: 44_MM_DIAMETER_100_MM_HEIGHT_BOTTLE
+description_main: basil
+description_main_capital: Basil
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BASIL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_pantry_herb_basil_44_mm_diameter_100_mm_height_bottle_schwartz
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_herb_basil_44_mm_diameter_100_mm_height_bottle_schwartz
+id: food_pantry_herb_basil_44_mm_diameter_100_mm_height_bottle_schwartz
+id_no_class: pantry_herb_basil_44_mm_diameter_100_mm_height_bottle_schwartz
+id_no_size: basil_44_mm_diameter_100_mm_height_bottle_schwartz
+id_no_type: herb_basil_44_mm_diameter_100_mm_height_bottle_schwartz
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_herb_basil_44_mm_diameter_100_mm_height_bottle_schwartz
+manufacturer: schwartz
+manufacturer_capital: Schwartz
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_upper: SCHWARTZ
+manufacturers: []
+markdown_full: '[food_pantry_herb_basil_44_mm_diameter_100_mm_height_bottle_schwartz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_herb_basil_44_mm_diameter_100_mm_height_bottle_schwartz)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_herb_basil_44_mm_diameter_100_mm_height_bottle_schwartz)<br>[Food
+    Pantry Herb Basil 44 Mm Diameter 100 Mm Height Bottle Schwartz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_herb_basil_44_mm_diameter_100_mm_height_bottle_schwartz)<br><br>'
+markdown_short: '[food_pantry_herb_basil_44_mm_diameter_100_mm_height_bottle_schwartz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_herb_basil_44_mm_diameter_100_mm_height_bottle_schwartz)<br><br>'
+md5: d0f7b2ad2d2668e0685922c53b64264f
+md5_10: d0f7b2ad2d
+md5_10_upper: D0F7B2AD2D
+md5_5: d0f7b
+md5_5_upper: D0F7B
+md5_6: d0f7b2
+md5_6_alpha: 85j1u
+md5_6_alpha_upper: 85J1U
+md5_6_upper: D0F7B2
+name: Food Pantry Herb Basil 44 Mm Diameter 100 Mm Height Bottle Schwartz
+name_no_class: Pantry Herb Basil 44 Mm Diameter 100 Mm Height Bottle Schwartz
+name_no_size: Basil 44 Mm Diameter 100 Mm Height Bottle Schwartz
+name_no_size_short: Basil 44 Mm Diameter 100 Mm Height Bottle Schwartz
+name_no_type: Herb Basil 44 Mm Diameter 100 Mm Height Bottle Schwartz
+name_short: Basil
+oomp_key: oomp_food_pantry_herb_basil_44_mm_diameter_100_mm_height_bottle_schwartz
+oomp_word: banana six handbag
+oomp_word_emoji: ':banana: :six: :handbag:'
+oomp_word_emoji_list:
+- ':banana:'
+- ':six:'
+- ':handbag:'
+oomp_word_list:
+- banana
+- six
+- handbag
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: herb
+size_capital: Herb
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HERB
+type: pantry
+type_capital: Pantry
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PANTRY
