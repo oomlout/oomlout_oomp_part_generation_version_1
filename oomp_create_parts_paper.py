@@ -69,6 +69,17 @@ def load_parts(**kwargs):
 
     base_letter = part_details.copy()   
 
+    #postcard 100 x 150 mm
+    part_details = base.copy()
+    part_details["size"] = "postcard_100_mm_width_150_mm_height"
+    part_details["width"] = "100 mm"
+    part_details["height"] = "150 mm"
+    parts.append(part_details)
+
+    base_postcard = part_details.copy()
+
+
+
     
     # 100 gram bright white
     if True:
@@ -499,7 +510,20 @@ def load_parts(**kwargs):
         parts.append(part_details)
 
 
-
+    #postcard
+    if True:
+        description_extras = ["","factory_second_grade"]
+        description_mains = []
+        description_mains.append("180_grams_per_meter_square")
+        description_mains.append("230_grams_per_meter_square")
+        
+        for description_main in description_mains:
+            for description_extra in description_extras:
+                part_details = base_postcard.copy()
+                part_details["description_main"] = description_main
+                part_details["description_extra"] = description_extra
+                #distributor
+                parts.append(part_details)
 
 
 
