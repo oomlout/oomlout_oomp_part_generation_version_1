@@ -9,6 +9,9 @@ def main(**kwargs):
     mode = 'full'
     #mode = 'fast'
 
+    filt = ""
+    filt = "warehouse"
+
     repo_names = {}
     current_names = []
     current_names.append('oomlout_oomp_version_1_only_yaml')
@@ -78,8 +81,14 @@ def main(**kwargs):
 
         #run the build
         if True:
-            os.chdir(directory_current)
-            subprocess.run(['python', 'action_build_oomp.py'])
+            if filt == "":
+                print('Running build without filter')
+                os.chdir(directory_current)
+                subprocess.run(['python', 'action_build_oomp.py'])
+            else:
+                print(f'Running build with filter: {filt}')
+                os.chdir(directory_current)
+                subprocess.run(['python', 'action_build_oomp.py', '-f', filt])
 
         #commit
         if True:

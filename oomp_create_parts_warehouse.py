@@ -12,7 +12,7 @@ def load_parts(**kwargs):
     # tote    
     if True:
         sizes = ["oomlout_owner"]
-        colors = ["tote_burgundy", "box_cubby_short", "box_cubby_long", "box_cube"]
+        colors = ["tote_burgundy", "box_cubby_short", "box_cubby_long", "box_cube","tote_small"]
     
         description_mains = []
         count = 200
