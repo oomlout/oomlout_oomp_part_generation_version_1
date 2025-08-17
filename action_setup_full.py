@@ -1,5 +1,6 @@
 import oomp
 import oom_git
+import copy
 
 def main(**kwargs):
     filter = kwargs.get("filter", "")
@@ -79,7 +80,8 @@ def main(**kwargs):
 
     #oom_git.push_to_git(comment=comment)
 
-if __name__ == "__main__":
+
+if __name__ == "old__main__":
     #boolean_generate_releases = True
     boolean_generate_releases = False
 
@@ -114,3 +116,13 @@ if __name__ == "__main__":
     if boolean_generate_releases:
         import action_generate_releases
         action_generate_releases.main()
+
+
+if __name__ == "__main__":        
+    import argparse
+    parser = argparse.ArgumentParser(description="Run OOMP setup with optional filter.")
+    parser.add_argument("-f", "--filter", type=str, default="", help="Filter for parts to load (default: all parts).")
+    args = parser.parse_args()
+    kwargs = copy.deepcopy(vars(args))
+    print(f"Running with filter: {kwargs['filter']}")
+    main(**kwargs)

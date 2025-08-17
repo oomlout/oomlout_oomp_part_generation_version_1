@@ -38,7 +38,12 @@ def main(**kwargs):
     if True and mode == 'full':
         pass
         os.chdir('C:\\gh\\oomlout_oomp_part_generation_version_1')
-        subprocess.run(['python', 'action_setup_full.py'])
+        if filt == "":
+            print('Running full setup without filter')
+            subprocess.run(['python', 'action_setup_full.py'])
+        else:
+            print(f'Running full setup with filter: {filt}')
+            subprocess.run(['python', 'action_setup_full.py', '-f', filt])
         subprocess.run(['git', 'add', '*'])
         subprocess.run(['git', 'commit', '-a', '-m', 'Full run through'])
         subprocess.run(['git', 'push'])
