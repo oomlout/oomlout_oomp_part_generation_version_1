@@ -32,7 +32,7 @@ def main(**kwargs):
 
 
     # Store the start time 
-    start_time = time.time()
+    start_time = time.time() 
 
     # Run the creation process skip of going fast
     if True and mode == 'full':
