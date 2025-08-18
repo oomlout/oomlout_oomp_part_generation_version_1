@@ -24,7 +24,7 @@ description_or_color: '180'
 description_or_color_upper: '180'
 directory: parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
 distributors: []
-filter: ''
+filter: paper
 from_yaml: false
 height: 150 mm
 id: paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade

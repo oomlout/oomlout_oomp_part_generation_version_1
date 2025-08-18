@@ -24,7 +24,7 @@ description_or_color: '90'
 description_or_color_upper: '90'
 directory: parts/paper_sheet_a3_297_mm_width_420_mm_height_90_grams_per_meter_square_blue_light_color
 distributors: []
-filter: ''
+filter: paper
 from_yaml: false
 height: 420 mm
 id: paper_sheet_a3_297_mm_width_420_mm_height_90_grams_per_meter_square_blue_light_color

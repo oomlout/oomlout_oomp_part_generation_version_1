@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/paper_sheet_postcard_100_mm_width_150_mm_height
 distributors: []
-filter: ''
+filter: paper
 from_yaml: false
 height: 150 mm
 id: paper_sheet_postcard_100_mm_width_150_mm_height

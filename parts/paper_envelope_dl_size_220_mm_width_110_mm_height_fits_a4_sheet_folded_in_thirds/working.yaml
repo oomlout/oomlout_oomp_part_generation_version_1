@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
 distributors: []
-filter: ''
+filter: paper
 from_yaml: false
 height: 110 mm
 id: paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds

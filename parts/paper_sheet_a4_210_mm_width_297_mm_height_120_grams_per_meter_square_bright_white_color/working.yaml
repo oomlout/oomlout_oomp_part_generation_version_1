@@ -24,7 +24,7 @@ description_or_color: '120'
 description_or_color_upper: '120'
 directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_120_grams_per_meter_square_bright_white_color
 distributors: []
-filter: ''
+filter: paper
 from_yaml: false
 height: 297 mm
 id: paper_sheet_a4_210_mm_width_297_mm_height_120_grams_per_meter_square_bright_white_color

@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet
 distributors: []
-filter: ''
+filter: paper
 from_yaml: false
 height: 81 mm
 id: paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet

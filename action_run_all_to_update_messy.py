@@ -9,8 +9,8 @@ def main(**kwargs):
     mode = 'full'
     #mode = 'fast'
 
-    filt = ""
-    #filt = "warehouse"
+    #filt = ""
+    filt = "paper"
 
     repo_names = {}
     current_names = []
@@ -49,8 +49,8 @@ def main(**kwargs):
         subprocess.run(['git', 'push'])
 
 
-    #delete the old oomp
-    if True:
+    #delete the old oomp if no filter
+    if filt == "":
         print('Deleting old oomp')
         #directory_to_delete = []
         #directory_to_delete.append('z:\\oomlout_oomp_current_version_messy')

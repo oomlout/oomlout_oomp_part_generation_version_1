@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/paper_sheet_a4_210_mm_width_297_mm_height
 distributors: []
-filter: ''
+filter: paper
 from_yaml: false
 height: 297 mm
 id: paper_sheet_a4_210_mm_width_297_mm_height

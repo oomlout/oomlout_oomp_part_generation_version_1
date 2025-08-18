@@ -583,6 +583,29 @@ def load_parts(**kwargs):
             part_details["manufacturer"] = "barilla"
             parts.append(part_details)
             
+            #farfalle
+            part_details = copy.deepcopy(current_default)
+            part_details["size"] = "pasta"
+            part_details["color"] = "farfalle"
+            part_details["description"] = "pasta_farfalle"
+            part_details["name_short"] = "Pasta Farfalle"
+            parts.append(part_details)
+
+            farfalle_default = copy.deepcopy(part_details)
+
+            #500 g bag garofalo
+            part_details = copy.deepcopy(farfalle_default)
+            part_details["description_extra"] = "bag_500_gram"
+            part_details["manufacturer"] = "garofalo"
+            part_details["name_short"] = "Pasta Farfalle Bag"
+            parts.append(part_details)
+
+            #1000 g bag
+            part_details = copy.deepcopy(farfalle_default)
+            part_details["description_extra"] = "bag_1000_gram"
+            part_details["manufacturer"] = "garofalo"
+            part_details["name_short"] = "Pasta Farfalle Bag 1000g"
+
 
 
         # rice

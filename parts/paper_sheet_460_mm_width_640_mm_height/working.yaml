@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/paper_sheet_460_mm_width_640_mm_height
 distributors: []
-filter: ''
+filter: paper
 from_yaml: false
 height: 640 mm
 id: paper_sheet_460_mm_width_640_mm_height

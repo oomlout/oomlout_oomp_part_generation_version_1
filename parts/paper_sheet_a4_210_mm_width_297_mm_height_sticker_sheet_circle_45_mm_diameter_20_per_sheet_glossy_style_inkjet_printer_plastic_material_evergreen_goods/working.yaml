@@ -26,7 +26,7 @@ directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_
 distributor_amazon: B09314D2F5
 distributor_manufacturer: A4INKGW-C-45mm
 distributors: []
-filter: ''
+filter: paper
 from_yaml: false
 height: 297 mm
 id: paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
