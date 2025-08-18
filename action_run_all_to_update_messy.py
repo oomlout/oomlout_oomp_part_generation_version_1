@@ -10,7 +10,7 @@ def main(**kwargs):
     #mode = 'fast'
 
     filt = ""
-    filt = "warehouse"
+    #filt = "warehouse"
 
     repo_names = {}
     current_names = []
