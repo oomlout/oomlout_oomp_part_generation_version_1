@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/paper_sheet_a8_52_mm_width_74_mm_height
 distributors: []
-filter: paper
+filter: ''
 from_yaml: false
 height: 74 mm
 id: paper_sheet_a8_52_mm_width_74_mm_height

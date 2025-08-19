@@ -25,7 +25,7 @@ description_or_color_upper: ' '
 directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_glossy_style_inkjet_printer_plastic_material_gmcraft
 distributor_amazon: B0BMLTJDQK
 distributors: []
-filter: paper
+filter: ''
 from_yaml: false
 height: 297 mm
 id: paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_glossy_style_inkjet_printer_plastic_material_gmcraft

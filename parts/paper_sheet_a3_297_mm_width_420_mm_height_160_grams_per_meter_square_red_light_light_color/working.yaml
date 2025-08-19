@@ -24,7 +24,7 @@ description_or_color: '160'
 description_or_color_upper: '160'
 directory: parts/paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_red_light_light_color
 distributors: []
-filter: paper
+filter: ''
 from_yaml: false
 height: 420 mm
 id: paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_red_light_light_color

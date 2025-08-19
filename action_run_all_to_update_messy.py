@@ -6,11 +6,14 @@ import time
 
 def main(**kwargs):
 
+    #delay 3 hours
+    #time.sleep(3 * 60 * 60)  # 3 hours in seconds
+
     mode = 'full'
     #mode = 'fast'
 
-    #filt = ""
-    filt = "paper"
+    filt = ""
+    #filt = "paper"
 
     repo_names = {}
     current_names = []

@@ -25,7 +25,7 @@ description_or_color_upper: '140'
 directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_140_grams_per_meter_square_double_sided_matte_style_inkjet_printer_koala
 distributor_amazon: B07KN4HVQS
 distributors: []
-filter: paper
+filter: ''
 from_yaml: false
 height: 297 mm
 id: paper_sheet_a4_210_mm_width_297_mm_height_140_grams_per_meter_square_double_sided_matte_style_inkjet_printer_koala

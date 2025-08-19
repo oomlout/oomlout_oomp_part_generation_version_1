@@ -26,7 +26,7 @@ directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_full_gl
 distributor_amazon: B075SHD6K4
 distributor_manufacturer: INK-GW-10
 distributors: []
-filter: paper
+filter: ''
 from_yaml: false
 height: 297 mm
 id: paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_full_glossy_style_inkjet_printer_plastic_material_evergreen_goods

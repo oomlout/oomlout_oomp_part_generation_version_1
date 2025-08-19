@@ -24,7 +24,7 @@ description_or_color: '100'
 description_or_color_upper: '100'
 directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_red_light_color
 distributors: []
-filter: paper
+filter: ''
 from_yaml: false
 height: 297 mm
 id: paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_red_light_color

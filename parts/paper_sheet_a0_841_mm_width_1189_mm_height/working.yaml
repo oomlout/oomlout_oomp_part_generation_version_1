@@ -24,7 +24,7 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/paper_sheet_a0_841_mm_width_1189_mm_height
 distributors: []
-filter: paper
+filter: ''
 from_yaml: false
 height: 1189 mm
 id: paper_sheet_a0_841_mm_width_1189_mm_height
