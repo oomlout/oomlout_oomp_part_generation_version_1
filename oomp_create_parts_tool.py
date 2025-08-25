@@ -227,6 +227,40 @@ def load_parts(**kwargs):
     # screwdriver
     #define a part 
     if True:
+        
+        #multi_driver
+        if True:
+            part_details = copy.deepcopy(default_empty)
+            part_details["type"] = "screw_driver_multi_driver"
+            part_details["size"] = "full_size"
+            part_details["manufacturer"] = "picquic"
+            part_details_base_current = copy.deepcopy(part_details)
+            
+            #picquic
+            if True:     
+                description_mains = ["", "sixpac_plus_model", "hex_calibre_sae_model", "hex_calibre_metric_model",  "super_eight_plus_model",]
+                for description_main in description_mains:
+                    part_details = copy.deepcopy(part_details_base_current)
+                    part_details["description_main"] = description_main
+                    parts.append(part_details)
+            
+            #precision
+            part_details = copy.deepcopy(part_details_base_current)
+            part_details["size"] = "precision_size"
+            part_details_base_current = copy.deepcopy(part_details)
+            if True:
+                description_mains = ["teeny_turner_model"]
+                for description_main in description_mains:
+                    part_details = copy.deepcopy(part_details_base_current)
+                    part_details["description_main"] = description_main
+                    parts.append(part_details)
+                
+
+                
+
+
+
+        
 
         #precision
         if True:

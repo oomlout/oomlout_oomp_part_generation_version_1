@@ -23,7 +23,7 @@ def load_parts(**kwargs):
 
     #mixeds
     if True:
-        types = ["","personal","family","business"]
+        types = ["","personal","family","business","paper","money","sticker","pin"]
 
         for type in types:
             part_details = copy.deepcopy(default_empty)        

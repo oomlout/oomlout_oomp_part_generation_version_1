@@ -82,6 +82,8 @@ def load_parts(**kwargs):
     extras = []
     extras.append("tote")
     extras.append("cubby_box")
+    extras.append("to_sort")
+    extras.append("old")
     #extras.append("cube_box_cardboard")
     #extras.append("takeaway_container_1000_ml")
     #extras.append("takeaway_container_500_ml")

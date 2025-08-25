@@ -76,6 +76,7 @@ part_types.append("electronic_resistor")
 part_types.append("electronic_screw_terminal")
 part_types.append("electronic_socket")
 part_types.append("electronic_voltage_converter")
+part_types.append("electronic_wire_cable")
 part_types.append("electronic_wire_pigtail")
 
 part_types.append("exercise_equipment")

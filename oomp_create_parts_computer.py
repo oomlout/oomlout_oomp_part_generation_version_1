@@ -335,8 +335,75 @@ def load_parts(**kwargs):
         part_details["link_distributor_cisco"] = ""
         parts.append(part_details)
 
+    #cables
+    if True:
+        part_details = copy.deepcopy(default_empty)
+        part_details["classification"] = "computer"
+        part_details["type"] = "cable"
 
-        
+        #usb 
+        if True:
+            part_details["size"] = "usb"
+            part_details_base_current = copy.deepcopy(part_details)
+            colors = ["a_to_b", "a_to_micro_b", "a_to_c", "c_to_c", "a_to_micro"]
+            description_mains = ["", "short", "long"]
+            description_extras = [""]
+            for color in colors:
+                for description_main in description_mains:
+                    for description_extra in description_extras:
+                        part_details = copy.deepcopy(part_details_base_current)
+                        part_details["color"] = color
+                        part_details["description_main"] = description_main
+                        part_details["description_extra"] = description_extra
+                        parts.append(part_details)
+
+        #hdmi
+        if True:
+            part_details["size"] = "hdmi"
+            part_details_base_current = copy.deepcopy(part_details)
+            colors = [""]
+            description_mains = ["", "short", "long"]
+            description_extras = [""]
+            for color in colors:
+                for description_main in description_mains:
+                    for description_extra in description_extras:
+                        part_details = copy.deepcopy(part_details_base_current)
+                        part_details["color"] = color
+                        part_details["description_main"] = description_main
+                        part_details["description_extra"] = description_extra
+                        parts.append(part_details)
+            
+        #power
+        if True:
+            part_details["size"] = "power"
+            part_details_base_current = copy.deepcopy(part_details)
+            colors = ["uk_mains_to_iec_c13_kettle_lead", "uk_mains_to_c7_figure_of_eight", "uk_mains_to_c5_clover_leaf"]
+            description_mains = ["", "short", "long"]
+            description_extras = [""]
+            for color in colors:
+                for description_main in description_mains:
+                    for description_extra in description_extras:
+                        part_details = copy.deepcopy(part_details_base_current)
+                        part_details["color"] = color
+                        part_details["description_main"] = description_main
+                        part_details["description_extra"] = description_extra
+                        parts.append(part_details)
+
+        #headphone
+        if True:
+            part_details["size"] = "headphone"
+            part_details_base_current = copy.deepcopy(part_details)
+            colors = ["3_5_mm_jack", "usb"]
+            description_mains = [""]
+            description_extras = [""]
+            for color in colors:
+                for description_main in description_mains:
+                    for description_extra in description_extras:
+                        part_details = copy.deepcopy(part_details_base_current)
+                        part_details["color"] = color
+                        part_details["description_main"] = description_main
+                        part_details["description_extra"] = description_extra
+                        parts.append(part_details)
 
     
     oomp.add_parts(parts, **kwargs)
