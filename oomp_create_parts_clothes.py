@@ -60,7 +60,8 @@ def load_parts(**kwargs):
                 parts.append(part_details.copy())
             
 
-        # hanger
+    # hanger
+    if True:
         #item
         part_details = {}
         part_details["classification"] = "clothes"
@@ -90,5 +91,27 @@ def load_parts(**kwargs):
             part_details["link_distributor_sos_cintres"] = "http://www.sos-cintres.com/produit/auad-hangery/"
             parts.append(part_details.copy())
 
+
+    # dressup
+    if True:
+        part_details = {}
+        part_details["classification"] = "clothes"
+        part_details["type"] = "dressup"
+        part_details["size"] = ""                       #type of garment
+        part_details["color"] = ""                      #size
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+
+        default_empty = part_details.copy()
+
+        sizes = ["", "too_small"]
+        for size in sizes:
+            part_details = default_empty.copy()
+            part_details["size"] = size
+            part_details["color"] = "color_various"
+            part_details["description_main"] = "various"
+            parts.append(part_details.copy())
 
     oomp.add_parts(parts, **kwargs)

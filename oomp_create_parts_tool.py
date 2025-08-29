@@ -49,7 +49,27 @@ def load_parts(**kwargs):
         part_details["part_number"] = "cw4000"
         parts.append(part_details)
 
-    
+
+    # pplastiv prying tool
+    if True:
+        part_details = {}
+        part_details["classification"] = "tool"
+        part_details["type"] = "plastic_prying_tool"
+        part_details["size"] = ""
+        part_details["color"] = ""
+
+        current_default = copy.deepcopy(part_details)
+
+        description_mains = []
+        description_mains = ["small", "medium", "large"]
+
+        for description_main in description_mains:
+            part_details["description_main"] = description_main
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = ""
+            part_details["part_number"] = ""
+            parts.append(part_details)
+
     # diy tool
     if True:
         #   drill and imact driver

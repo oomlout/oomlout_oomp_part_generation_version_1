@@ -20,6 +20,7 @@ part_types.append("archive")
 part_types.append("book")
 
 part_types.append("camera")
+part_types.append("camping")
 
 part_types.append("clothes")
 
@@ -127,7 +128,8 @@ part_types.append("remote_control")
 part_types.append("robot_arm")
 part_types.append("robot_vacuum")
 
-#stationary
+
+part_types.append("scent")
 part_types.append("stationery")
 
 part_types.append("storage")

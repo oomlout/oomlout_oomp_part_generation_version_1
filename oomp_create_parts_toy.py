@@ -294,19 +294,75 @@ def load_parts(**kwargs):
         part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
         parts.append(part_details) 
 
-    #mechano
+    #building
     if True:
         part_details = {}
         part_details["classification"] = "toy"
-        part_details["type"] = "mechano"
-        part_details["size"] = "car_remote_control"
-        part_details["color"] = ""
-        part_details["description_main"] = "lambourghini_huracan_green"
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = "mechano"
-        part_details["part_number"] = ""
-        part_details["short_name"] = ""  
-        parts.append(part_details)    
+        part_details["type"] = "building"
+
+        current_default = copy.deepcopy(part_details)
+
+        #mechano 
+        if True:
+            part_details = copy.deepcopy(current_default)
+            part_details["size"] = "mechano"
+            part_details["color"] = "car_remote_control"
+            part_details["description_main"] = "lambourghini_huracan_green"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "mechano"
+            part_details["part_number"] = ""
+            part_details["short_name"] = ""  
+            parts.append(part_details)    
+
+        #lego
+        if True:
+            part_details = copy.deepcopy(current_default)
+            part_details["size"] = "lego"
+
+            current_default = copy.deepcopy(part_details)
+
+            colors = ["technic","old","not_great","current"]
+
+            for col in colors:
+                part_details = copy.deepcopy(current_default)
+                part_details["color"] = ""
+                part_details["description_main"] = ""
+                part_details["description_extra"] = ""
+                part_details["manufacturer"] = "lego"
+                part_details["part_number"] = ""
+                part_details["short_name"] = ""  
+                parts.append(part_details)
+
+        #duplo
+        if True:
+            part_details = copy.deepcopy(current_default)
+            part_details["size"] = "duplo"
+            part_details["color"] = ""
+            part_details["description_main"] = ""
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "lego"
+            part_details["part_number"] = ""
+            part_details["short_name"] = ""  
+            parts.append(part_details)
+
+        #brio train
+        if True:
+            part_details = copy.deepcopy(current_default)
+            part_details["size"] = "brio"
+
+            current_default = copy.deepcopy(part_details)
+
+            colors = ["track","train","accessory"]
+
+            for col in colors:
+                part_details = copy.deepcopy(current_default)
+                part_details["color"] = col
+                part_details["description_main"] = ""
+                part_details["description_extra"] = ""
+                part_details["manufacturer"] = "brio"
+                part_details["part_number"] = ""
+                part_details["short_name"] = ""  
+                parts.append(part_details)
 
     #stuffie
     if True:
@@ -320,6 +376,8 @@ def load_parts(**kwargs):
         part_details["manufacturer"] = ""
         part_details["part_number"] = ""
         part_details["short_name"] = ""  
+
+        parts.append(part_details)
 
 
     oomp.add_parts(parts, make_files=make_files)

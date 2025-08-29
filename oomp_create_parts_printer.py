@@ -224,5 +224,27 @@ def load_parts(**kwargs):
                 part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
                 parts.append(copy.deepcopy(part_details))
 
+        #ecosolvent
+        if True:
+            description_mains = []
+            description_mains.append("multipack")
+            description_mains.append("cyan_bottle_70_ml")
+            description_mains.append("magenta_bottle_70_ml")
+            description_mains.append("yellow_bottle_70_ml")
+            description_mains.append("black_bottle_70_ml")
+
+
+            for desc_main in description_mains:
+                part_details = {}
+                part_details["classification"] = "printer"
+                part_details["type"] = "ink"
+                part_details["size"] = "ecosolvent"
+                part_details["color"] = ""
+                part_details["description_main"] = desc_main
+                part_details["description_extra"] = ""
+                part_details["manufacturer"] = "ocbestjet"                
+                part_details["part_number"] = ""
+                parts.append(copy.deepcopy(part_details))
+
     oomp.add_parts(parts, make_files=make_files)
     
