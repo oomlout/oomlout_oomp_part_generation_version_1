@@ -11,7 +11,7 @@ def load_parts(**kwargs):
     part_details = {}
     part_details["classification"] = "scent"
 
-    current_default = copy.deepcopy(oomp.default_part_details)
+    current_default = copy.deepcopy(part_details)
 
     #accesories, storage, scents
     types = []

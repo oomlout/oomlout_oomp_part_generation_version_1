@@ -10,6 +10,14 @@ def load_parts(**kwargs):
 
     part_details = {}
     part_details["classification"] = "camping"
+    part_details["type"] = ""
+    part_details["color"] = ""
+    part_details["size"] = ""
+    part_details["description_main"] = ""
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+
 
     current_default = copy.deepcopy(part_details)
 
