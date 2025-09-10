@@ -130,6 +130,7 @@ part_types.append("robot_vacuum")
 
 
 part_types.append("scent")
+part_types.append("sheet_stock")
 part_types.append("stationery")
 
 part_types.append("storage")

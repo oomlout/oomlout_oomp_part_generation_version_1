@@ -153,11 +153,31 @@ def main(**kwargs):
     seconds = int(elapsed_time - hours * 3600 - minutes * 60)
 
     print(f'Elapsed time: {hours} hours, {minutes} minutes, {seconds} seconds')
+        
+
 
 import shutil
 import os
 import subprocess
 import time
+
+def reload_labels():
+    print('Reloading labels on servers')
+    #launch the label reload pages
+    sites = []
+    sites.append("http://192.168.1.55:1112")
+    sites.append("http://192.168.1.107:1112")
+    sites.append("http://192.168.1.242:1112")
+
+    for site in sites:
+        print(f'Reloading labels on {site}')
+        #add "reload" to the text box label in post data
+        post_data = 'label=reload'
+        #launch in external cmd window
+        #subprocess.Popen(['start', 'cmd', f'curl -X POST -d "{post_data}" {site}'], shell=True)
+        subprocess.run(['curl', '-X', 'POST', '-d', post_data, site])
+
+    print('All done reloading labels on servers')
 
 def delete_directory(directory_to_delete):
     # If not an array, make it one
@@ -203,3 +223,4 @@ def delete_directory(directory_to_delete):
 if __name__ == '__main__':
     kwargs = {}
     main(**kwargs)
+    reload_labels()

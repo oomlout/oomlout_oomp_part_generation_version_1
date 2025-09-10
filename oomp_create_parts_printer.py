@@ -54,6 +54,7 @@ def load_parts(**kwargs):
         #ecotank
         if True:
             part_numbers = []
+            part_numbers.append("et_2650")
             part_numbers.append("et_2750")
             part_numbers.append("et_2810")
 

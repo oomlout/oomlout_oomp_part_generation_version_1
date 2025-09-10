@@ -728,6 +728,36 @@ def load_parts(**kwargs):
         part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/gp/product/{part_details['part_number_distributor_amazon']}"
         parts.append(part_details)
 
+    #trolley
+    if True:    
+        part_details = {}
+        part_details["classification"] = "tool"
+        part_details["type"] = "trolley"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = "dw50"
+
+        default_current = copy.deepcopy(part_details)
+
+        part_details = copy.deepcopy(default_current)
+        #size 200_kilogram_capacity
+        part_details["size"] = "200_kilogram_capacity"
+        #description_main = 590 mm x 290 mm
+        part_details["description_main"] = "590_mm_width_290_mm_height_75_mm_depth"
+        #manufacturer unibos
+        part_details["manufacturer"] = "unibos"
+        #part_number exact UNI-0015
+        part_details["part_number_exact"] = "UNI-0015"
+        part_details["part_number"] = part_details["part_number_exact"].replace("-", "_").lower()
+        part_details["link_distributor_unibox"] = "https://www.unibos.co.uk/200kg-heavy-duty-anti-slip-hand-dolly-trolley-cart-furniture-moving.html"
+        #ebay link https://www.ebay.co.uk/itm/355741479607
+        part_details["part_number_distributor_ebay"] = "355741479607"
+        part_details["link_distributor_ebay"] = f"https://www.ebay.co.uk/itm/{part_details['part_number_distributor_ebay']}"
+        parts.append(part_details)
+
     # vibratory_bowl
     if True:
         part_details = {}
