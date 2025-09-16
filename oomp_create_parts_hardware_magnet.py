@@ -63,7 +63,7 @@ def load_parts(**kwargs):
             part_details["depth"] = magnet_size[1]
             parts.append(part_details.copy())
 
-    # rectangular magnet
+    # rectangule magnet
     if True:
         size_list = []
         size_list.append([20,3,1.5])
@@ -79,8 +79,8 @@ def load_parts(**kwargs):
 
         for magnet_size in size_list:
             part_details = default_empty.copy()
-            part_details["size"] = "rectangular"
-            part_details["color"] = "m3_rectangular"
+            part_details["size"] = "rectangle"
+            part_details["color"] = ""
             part_details["description_main"] = f"{str(magnet_size[0]).replace(".","_")}_mm_length_{str(magnet_size[1]).replace(".","_")}_mm_width_{str(magnet_size[2]).replace(".","_")}_mm_depth"
             part_details["length"] = magnet_size[0]
             part_details["width"] = magnet_size[1]

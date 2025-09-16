@@ -145,6 +145,18 @@ def load_parts(**kwargs):
         part_details["distributor_part_number_amazon"] = "B01A78UJUU"
         part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_part_number_amazon']}"
 
+        #sharpie
+        if True:
+            description_extras = ["black_color","blue_color","red_color","green_color","orange_color","purple_color","pink_color","yellow_color","turquoise_color","lime_green_color"]
+            for description_extra in description_extras:
+                part_details = copy.deepcopy(default_current)
+                part_details["type"] = "felt_tip_pen"            
+                part_details["description_main"] = "13_mm_diameter_137_mm_length"            
+                part_details["description_extra"] = f"sharpie_style_{description_extra}"
+                part_details["manufacturer"] = "sharpie"
+                part_details["part_number"] = ""
+                parts.append(part_details)
+
     #glue
     if True:
         part_details = {}

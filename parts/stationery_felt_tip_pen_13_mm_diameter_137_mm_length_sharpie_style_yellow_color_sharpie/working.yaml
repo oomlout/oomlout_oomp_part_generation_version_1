@@ -1,0 +1,89 @@
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STATIONERY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: sharpie_style_yellow_color
+description_extra_capital: Sharpie Style Yellow Color
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SHARPIE_STYLE_YELLOW_COLOR
+description_main: 13_mm_diameter_137_mm_length
+description_main_capital: 13 mm Diameter 137 mm Length
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 13_MM_DIAMETER_137_MM_LENGTH
+description_only_numbers: '13137'
+description_only_numbers_short: 13k
+description_or_color: 13k
+description_or_color_upper: 13K
+directory: parts/stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_yellow_color_sharpie
+distributors: []
+id: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_yellow_color_sharpie
+id_no_class: felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_yellow_color_sharpie
+id_no_size: 13mmdiameter137mmlengthsharpiestyleyellowcolorsharpie
+id_no_type: 13_mm_diameter_137_mm_length_sharpie_style_yellow_color_sharpie
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_yellow_color_sharpie
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_yellow_color_sharpie
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_yellow_color_sharpie
+manufacturer: sharpie
+manufacturer_capital: Sharpie
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_upper: SHARPIE
+manufacturers: []
+markdown_full: '[stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_yellow_color_sharpie](none)<br>[](none)<br>[Stationery
+    Felt Tip Pen 13 Mm Diameter 137 Mm Length Sharpie Style Yellow Color Sharpie](none)<br><br>'
+markdown_short: '[stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_yellow_color_sharpie](none)<br><br>'
+md5: 7c0d89cc88d2abe8d7211201f3b9d65d
+md5_10: 7c0d89cc88
+md5_10_upper: 7C0D89CC88
+md5_5: 7c0d8
+md5_5_upper: 7C0D8
+md5_6: 7c0d89
+md5_6_alpha: 4u93d
+md5_6_alpha_upper: 4U93D
+md5_6_upper: 7C0D89
+name: Stationery Felt Tip Pen 13 Mm Diameter 137 Mm Length Sharpie Style Yellow Color
+    Sharpie
+name_no_class: Felt Tip Pen 13 Mm Diameter 137 Mm Length Sharpie Style Yellow Color
+    Sharpie
+name_no_size: 13Mmdiameter137Mmlengthsharpiestyleyellowcolorsharpie
+name_no_size_short: 13Mmdiameter137Mmlengthsharpiestyleyellowcolorsharpie
+name_no_type: 13 Mm Diameter 137 Mm Length Sharpie Style Yellow Color Sharpie
+oomp_key: oomp_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_yellow_color_sharpie
+oomp_word: tv heart hammer
+oomp_word_emoji: ':tv: :heart: :hammer:'
+oomp_word_emoji_list:
+- ':tv:'
+- ':heart:'
+- ':hammer:'
+oomp_word_list:
+- tv
+- heart
+- hammer
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: felt_tip_pen
+type_capital: Felt Tip Pen
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FELT_TIP_PEN

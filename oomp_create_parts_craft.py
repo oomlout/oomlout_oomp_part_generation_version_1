@@ -118,6 +118,36 @@ def load_parts(**kwargs):
             parts.append(part_details)
 
 
+    #ribbon
+    if True:
+        part_details = copy.deepcopy(default_craft)
+        part_details["type"] = "ribbon"
+        
+        default_ribbon = copy.deepcopy(part_details)
+
+        sizes = []
+        sizes.append("fabric")
+        sizes.append("florist")
+        sizes.append("elastic")
+        sizes.append("lacey")
+
+        colors = ["red","orange","yellow","green","blue","purple","pink","white","black","brown","grey","mixed"]
+
+        description_mains = [""]
+
+        description_extras = ["","roll","1_meter"]
+
+        for size in sizes:
+            for color in colors:
+                for description_main in description_mains:
+                    for description_extra in description_extras:
+                        part_details = copy.deepcopy(default_ribbon)
+                        part_details["type"] = "ribbon"
+                        part_details["size"] = size
+                        part_details["color"] = color
+                        part_details["description_main"] = description_main
+                        part_details["description_extra"] = description_extra
+                        parts.append(part_details)
     #rubber stamp
     if True:
         part_details = copy.deepcopy(default_craft)

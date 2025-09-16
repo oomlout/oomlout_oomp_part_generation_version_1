@@ -1,0 +1,89 @@
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STATIONERY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: sharpie_style_blue_color
+description_extra_capital: Sharpie Style Blue Color
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SHARPIE_STYLE_BLUE_COLOR
+description_main: 13_mm_diameter_137_mm_length
+description_main_capital: 13 mm Diameter 137 mm Length
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 13_MM_DIAMETER_137_MM_LENGTH
+description_only_numbers: '13137'
+description_only_numbers_short: 13k
+description_or_color: 13k
+description_or_color_upper: 13K
+directory: parts/stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_blue_color_sharpie
+distributors: []
+id: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_blue_color_sharpie
+id_no_class: felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_blue_color_sharpie
+id_no_size: 13mmdiameter137mmlengthsharpiestylebluecolorsharpie
+id_no_type: 13_mm_diameter_137_mm_length_sharpie_style_blue_color_sharpie
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_blue_color_sharpie
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_blue_color_sharpie
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_blue_color_sharpie
+manufacturer: sharpie
+manufacturer_capital: Sharpie
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_upper: SHARPIE
+manufacturers: []
+markdown_full: '[stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_blue_color_sharpie](none)<br>[](none)<br>[Stationery
+    Felt Tip Pen 13 Mm Diameter 137 Mm Length Sharpie Style Blue Color Sharpie](none)<br><br>'
+markdown_short: '[stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_blue_color_sharpie](none)<br><br>'
+md5: be12ccdf961dbc920a4ee058823ad504
+md5_10: be12ccdf96
+md5_10_upper: BE12CCDF96
+md5_5: be12c
+md5_5_upper: BE12C
+md5_6: be12cc
+md5_6_alpha: 7ezm4
+md5_6_alpha_upper: 7EZM4
+md5_6_upper: BE12CC
+name: Stationery Felt Tip Pen 13 Mm Diameter 137 Mm Length Sharpie Style Blue Color
+    Sharpie
+name_no_class: Felt Tip Pen 13 Mm Diameter 137 Mm Length Sharpie Style Blue Color
+    Sharpie
+name_no_size: 13Mmdiameter137Mmlengthsharpiestylebluecolorsharpie
+name_no_size_short: 13Mmdiameter137Mmlengthsharpiestylebluecolorsharpie
+name_no_type: 13 Mm Diameter 137 Mm Length Sharpie Style Blue Color Sharpie
+oomp_key: oomp_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_blue_color_sharpie
+oomp_word: ramen anger watermelon
+oomp_word_emoji: ':ramen: :anger: :watermelon:'
+oomp_word_emoji_list:
+- ':ramen:'
+- ':anger:'
+- ':watermelon:'
+oomp_word_list:
+- ramen
+- anger
+- watermelon
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: felt_tip_pen
+type_capital: Felt Tip Pen
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FELT_TIP_PEN

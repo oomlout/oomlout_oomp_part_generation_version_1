@@ -78,6 +78,15 @@ def load_parts(**kwargs):
 
     base_postcard = part_details.copy()
 
+    #art paper roll
+    part_details = base.copy()
+    part_details["size"] = "art_paper"
+    parts.append(part_details)
+
+    base_art_paper_roll = part_details.copy()
+
+    
+
 
 
     
@@ -103,6 +112,34 @@ def load_parts(**kwargs):
         # current price
         part_details["price_1"] = part_details["price_1_distributor_viking_direct"]
         parts.append(part_details)
+
+    #fadeless art paper
+    if True:
+        #flame, canary, brite blue, violet, emerald, brown
+        colors = ["flame","canary","brite_blue","violet","emerald","brown"]
+        
+        description_mains = []
+        description_mains.append("")
+        
+        description_extras = []
+        description_extras.append("")
+        description_extras.append("roll_610_mm_width_18000_mm_length")
+
+        manufacturers = []
+        manufacturers.append("fadeless")
+
+        for color in colors:
+            for description_main in description_mains:
+                for description_extra in description_extras:
+                    for manufacturer in manufacturers:
+                        part_details = base_art_paper_roll.copy()
+                        part_details["color"] = f"color_{color}"
+                        part_details["description_main"] = description_main
+                        part_details["description_extra"] = description_extra
+                        part_details["manufacturer"] = manufacturer
+                        part_details["part_number"] = "" 
+                        
+
 
     #sublimation paper
     if True:
