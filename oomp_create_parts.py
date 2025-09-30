@@ -163,6 +163,8 @@ part_types.append("project_github")
 for type in part_types:    
     importlib.import_module(f'oomp_create_parts_{type}')
 
+pass
+
 def load_parts(**kwargs):
     print("loading parts from modules")
     filter = kwargs.get('filter', "")
@@ -188,7 +190,7 @@ def load_parts(**kwargs):
                         print("project_github not available")
                         import time
                         time.sleep(10)
-                        return
+                        #return
                 importlib.import_module(f'oomp_create_parts_{type}').load_parts(**kwargs)
     
     #add category making last

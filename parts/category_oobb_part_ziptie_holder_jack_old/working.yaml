@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ziptie_holder_jack
+color_capital: Ziptie Holder Jack
+color_first_letter: z
+color_first_letter_upper: Z
+color_upper: ZIPTIE_HOLDER_JACK
+description: category_oobb
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'Z '
+description_or_color_upper: 'Z '
+directory: parts/category_oobb_part_ziptie_holder_jack_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_oobb_part_ziptie_holder_jack_old
+id_no_class: oobb_part_ziptie_holder_jack_old
+id_no_size: ziptie_holder_jack_old
+id_no_type: part_ziptie_holder_jack_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_ziptie_holder_jack_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_ziptie_holder_jack_old](none)<br>[](none)<br>[Category
+    Oobb Part Ziptie Holder Jack Old](none)<br><br>'
+markdown_short: '[category_oobb_part_ziptie_holder_jack_old](none)<br><br>'
+md5: bd6d818d477ed7ba9fa3ca48fa7c1646
+md5_10: bd6d818d47
+md5_10_upper: BD6D818D47
+md5_5: bd6d8
+md5_5_upper: BD6D8
+md5_6: bd6d81
+md5_6_alpha: 7e2yp
+md5_6_alpha_upper: 7E2YP
+md5_6_upper: BD6D81
+name: Category Oobb Part Ziptie Holder Jack Old
+name_no_class: Oobb Part Ziptie Holder Jack Old
+name_no_size: Ziptie Holder Jack Old
+name_no_size_short: Ziptie Holder Jack Old
+name_no_type: Part Ziptie Holder Jack Old
+oomp_key: oomp_category_oobb_part_ziptie_holder_jack_old
+oomp_word: rice shell watch
+oomp_word_emoji: ':rice: :shell: :watch:'
+oomp_word_emoji_list:
+- ':rice:'
+- ':shell:'
+- ':watch:'
+oomp_word_list:
+- rice
+- shell
+- watch
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

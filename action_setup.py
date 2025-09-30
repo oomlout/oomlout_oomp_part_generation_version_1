@@ -48,6 +48,7 @@ if __name__ == "__main__":
     #filter = "craft"
     #filter = "computer"
     #filter = ["category","ikea"]
+    #filter = "category"
     #filter = "decorating"
     #filter = "electrical"
     #filter = "electronic_consumer"
@@ -73,13 +74,14 @@ if __name__ == "__main__":
     #filter = "packaging"
     #filter = "printer"
     #filter = "project"
+    filter = "project_github"
     #filter = "paper"
     #filter = "remote_control"
     #filter = "robot_vacuum"
     #filter = "robot_arm"
     
     #filter = "sheet_stock"
-    filter = "stationery"
+    #filter = "stationery"
     #filter = "task"
     #filter = "three_d_printer"
     #'filter = "tool"

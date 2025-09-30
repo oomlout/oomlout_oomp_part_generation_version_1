@@ -33,9 +33,10 @@ def load_parts(**kwargs):
             print("GITHUB_TOKEN not set")
         url_base = f"https://api.github.com/users/{username_github}/repos"
         url = f"{url_base}?page={page}"      
-        headers = {
-            "Authorization": f"token {token_github}"
-        }
+        #headers = {
+        #    "Authorization": f"token {token_github}"
+        #}
+        headers = {}
         response = requests.get(url, headers=headers)
         repos = response.json()
         pass
@@ -60,7 +61,12 @@ def load_parts(**kwargs):
                 part_details["link_redirect"] = url
                 part_details["link_github"] = url
                 parts.append(part_details)
+                print(".", end="", flush=True)
         page += 1
+        #delay 60 seconds
+        import time
+        print("waiting 120 seconds to avoid rate limit")
+        time.sleep(120)
         
 
 

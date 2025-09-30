@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: mounting_plate
+color_capital: Mounting Plate
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MOUNTING_PLATE
+description: category_oobb
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_oobb_part_mounting_plate_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_oobb_part_mounting_plate_to_sort
+id_no_class: oobb_part_mounting_plate_to_sort
+id_no_size: mounting_plate_to_sort
+id_no_type: part_mounting_plate_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_oobb_part_mounting_plate_to_sort](none)<br>[](none)<br>[Category
+    Oobb Part Mounting Plate To Sort](none)<br><br>'
+markdown_short: '[category_oobb_part_mounting_plate_to_sort](none)<br><br>'
+md5: f0e41b491c9811f239033cf290603ba8
+md5_10: f0e41b491c
+md5_10_upper: F0E41B491C
+md5_5: f0e41
+md5_5_upper: F0E41
+md5_6: f0e41b
+md5_6_alpha: 9edcr
+md5_6_alpha_upper: 9EDCR
+md5_6_upper: F0E41B
+name: Category Oobb Part Mounting Plate To Sort
+name_no_class: Oobb Part Mounting Plate To Sort
+name_no_size: Mounting Plate To Sort
+name_no_size_short: Mounting Plate To Sort
+name_no_type: Part Mounting Plate To Sort
+oomp_key: oomp_category_oobb_part_mounting_plate_to_sort
+oomp_word: train anchor muscle
+oomp_word_emoji: ':train: :anchor: :muscle:'
+oomp_word_emoji_list:
+- ':train:'
+- ':anchor:'
+- ':muscle:'
+oomp_word_list:
+- train
+- anchor
+- muscle
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryoobb
+size: part
+size_capital: Part
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PART
+type: oobb
+type_capital: Oobb
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: OOBB

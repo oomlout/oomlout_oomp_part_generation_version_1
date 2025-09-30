@@ -1,0 +1,88 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: printer_test_pattern
+color_capital: Printer Test Pattern
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PRINTER_TEST_PATTERN
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/project_github_oomlout_printer_test_pattern
+distributors: []
+filter: ''
+from_yaml: false
+id: project_github_oomlout_printer_test_pattern
+id_no_class: github_oomlout_printer_test_pattern
+id_no_size: printer_test_pattern
+id_no_type: oomlout_printer_test_pattern
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_printer_test_pattern
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_printer_test_pattern
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_printer_test_pattern
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_printer_test_pattern](none)<br>[](none)<br>[Project
+    Github Oomlout Printer Test Pattern](none)<br><br>'
+markdown_short: '[project_github_oomlout_printer_test_pattern](none)<br><br>'
+md5: a855668fd93fccfe29a2d760338c369a
+md5_10: a855668fd9
+md5_10_upper: A855668FD9
+md5_5: a8556
+md5_5_upper: A8556
+md5_6: a85566
+md5_6_alpha: 6kg9y
+md5_6_alpha_upper: 6KG9Y
+md5_6_upper: A85566
+name: Project Github Oomlout Printer Test Pattern
+name_no_class: Github Oomlout Printer Test Pattern
+name_no_size: Printer Test Pattern
+name_no_size_short: Printer Test Pattern
+name_no_type: Oomlout Printer Test Pattern
+oomp_key: oomp_project_github_oomlout_printer_test_pattern
+oomp_word: shoe dolphin leaves
+oomp_word_emoji: ':shoe: :dolphin: :leaves:'
+oomp_word_emoji_list:
+- ':shoe:'
+- ':dolphin:'
+- ':leaves:'
+oomp_word_list:
+- shoe
+- dolphin
+- leaves
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

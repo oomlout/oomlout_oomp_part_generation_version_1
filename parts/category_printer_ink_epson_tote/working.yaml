@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: epson
+color_capital: Epson
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EPSON
+description: category_printer
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/category_printer_ink_epson_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_printer_ink_epson_tote
+id_no_class: printer_ink_epson_tote
+id_no_size: epson_tote
+id_no_type: ink_epson_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_epson_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_epson_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_epson_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_printer_ink_epson_tote](none)<br>[](none)<br>[Category Printer
+    Ink Epson Tote](none)<br><br>'
+markdown_short: '[category_printer_ink_epson_tote](none)<br><br>'
+md5: eb68436320d595dd691c8789161c33f5
+md5_10: eb68436320
+md5_10_upper: EB68436320
+md5_5: eb684
+md5_5_upper: EB684
+md5_6: eb6843
+md5_6_alpha: 96o1v
+md5_6_alpha_upper: 96O1V
+md5_6_upper: EB6843
+name: Category Printer Ink Epson Tote
+name_no_class: Printer Ink Epson Tote
+name_no_size: Epson Tote
+name_no_size_short: Epson Tote
+name_no_type: Ink Epson Tote
+oomp_key: oomp_category_printer_ink_epson_tote
+oomp_word: car mushroom elephant
+oomp_word_emoji: ':car: :mushroom: :elephant:'
+oomp_word_emoji_list:
+- ':car:'
+- ':mushroom:'
+- ':elephant:'
+oomp_word_list:
+- car
+- mushroom
+- elephant
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryprinter
+size: ink
+size_capital: Ink
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INK
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

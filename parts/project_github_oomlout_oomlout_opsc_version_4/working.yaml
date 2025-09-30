@@ -1,0 +1,88 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_opsc_version_4
+color_capital: Oomlout Opsc Version 4
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_OPSC_VERSION_4
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_opsc_version_4
+distributors: []
+filter: ''
+from_yaml: false
+id: project_github_oomlout_oomlout_opsc_version_4
+id_no_class: github_oomlout_oomlout_opsc_version_4
+id_no_size: opsc_version_4
+id_no_type: oomlout_oomlout_opsc_version_4
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_opsc_version_4
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_opsc_version_4
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_opsc_version_4
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_opsc_version_4](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Opsc Version 4](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_opsc_version_4](none)<br><br>'
+md5: 7951241d2c3cf9ff865b35115a4e5768
+md5_10: 7951241d2c
+md5_10_upper: 7951241D2C
+md5_5: '79512'
+md5_5_upper: '79512'
+md5_6: '795124'
+md5_6_alpha: 4qeqs
+md5_6_alpha_upper: 4QEQS
+md5_6_upper: '795124'
+name: Project Github Oomlout Oomlout Opsc Version 4
+name_no_class: Github Oomlout Oomlout Opsc Version 4
+name_no_size: Opsc Version 4
+name_no_size_short: Opsc Version 4
+name_no_type: Oomlout Oomlout Opsc Version 4
+oomp_key: oomp_project_github_oomlout_oomlout_opsc_version_4
+oomp_word: balloon snail droplet
+oomp_word_emoji: ':balloon: :snail: :droplet:'
+oomp_word_emoji_list:
+- ':balloon:'
+- ':snail:'
+- ':droplet:'
+oomp_word_list:
+- balloon
+- snail
+- droplet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

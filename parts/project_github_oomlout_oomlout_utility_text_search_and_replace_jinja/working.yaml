@@ -1,0 +1,88 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_utility_text_search_and_replace_jinja
+color_capital: Oomlout Utility Text Search And Replace Jinja
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_UTILITY_TEXT_SEARCH_AND_REPLACE_JINJA
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_utility_text_search_and_replace_jinja
+distributors: []
+filter: ''
+from_yaml: false
+id: project_github_oomlout_oomlout_utility_text_search_and_replace_jinja
+id_no_class: github_oomlout_oomlout_utility_text_search_and_replace_jinja
+id_no_size: utility_text_search_and_replace_jinja
+id_no_type: oomlout_oomlout_utility_text_search_and_replace_jinja
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_utility_text_search_and_replace_jinja
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_utility_text_search_and_replace_jinja
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_utility_text_search_and_replace_jinja
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_utility_text_search_and_replace_jinja](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Utility Text Search And Replace Jinja](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_utility_text_search_and_replace_jinja](none)<br><br>'
+md5: fd0fee7aefe84911f1c47a09c58dbc24
+md5_10: fd0fee7aef
+md5_10_upper: FD0FEE7AEF
+md5_5: fd0fe
+md5_5_upper: FD0FE
+md5_6: fd0fee
+md5_6_alpha: 9vgtq
+md5_6_alpha_upper: 9VGTQ
+md5_6_upper: FD0FEE
+name: Project Github Oomlout Oomlout Utility Text Search And Replace Jinja
+name_no_class: Github Oomlout Oomlout Utility Text Search And Replace Jinja
+name_no_size: Utility Text Search And Replace Jinja
+name_no_size_short: Utility Text Search And Replace Jinja
+name_no_type: Oomlout Oomlout Utility Text Search And Replace Jinja
+oomp_key: oomp_project_github_oomlout_oomlout_utility_text_search_and_replace_jinja
+oomp_word: parking sparkles ambulance
+oomp_word_emoji: ':parking: :sparkles: :ambulance:'
+oomp_word_emoji_list:
+- ':parking:'
+- ':sparkles:'
+- ':ambulance:'
+oomp_word_list:
+- parking
+- sparkles
+- ambulance
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

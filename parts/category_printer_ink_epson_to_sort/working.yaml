@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: epson
+color_capital: Epson
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EPSON
+description: category_printer
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/category_printer_ink_epson_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_printer_ink_epson_to_sort
+id_no_class: printer_ink_epson_to_sort
+id_no_size: epson_to_sort
+id_no_type: ink_epson_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_epson_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_epson_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_epson_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_printer_ink_epson_to_sort](none)<br>[](none)<br>[Category
+    Printer Ink Epson To Sort](none)<br><br>'
+markdown_short: '[category_printer_ink_epson_to_sort](none)<br><br>'
+md5: b565921e6eb8d5f917d6f8ca837f690a
+md5_10: b565921e6e
+md5_10_upper: B565921E6E
+md5_5: b5659
+md5_5_upper: B5659
+md5_6: b56592
+md5_6_alpha: 72suq
+md5_6_alpha_upper: 72SUQ
+md5_6_upper: B56592
+name: Category Printer Ink Epson To Sort
+name_no_class: Printer Ink Epson To Sort
+name_no_size: Epson To Sort
+name_no_size_short: Epson To Sort
+name_no_type: Ink Epson To Sort
+oomp_key: oomp_category_printer_ink_epson_to_sort
+oomp_word: tea maple_leaf paperclip
+oomp_word_emoji: ':tea: :maple_leaf: :paperclip:'
+oomp_word_emoji_list:
+- ':tea:'
+- ':maple_leaf:'
+- ':paperclip:'
+oomp_word_list:
+- tea
+- maple_leaf
+- paperclip
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryprinter
+size: ink
+size_capital: Ink
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INK
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

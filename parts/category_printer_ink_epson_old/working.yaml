@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: epson
+color_capital: Epson
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EPSON
+description: category_printer
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/category_printer_ink_epson_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_printer_ink_epson_old
+id_no_class: printer_ink_epson_old
+id_no_size: epson_old
+id_no_type: ink_epson_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_epson_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_epson_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_epson_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_printer_ink_epson_old](none)<br>[](none)<br>[Category Printer
+    Ink Epson Old](none)<br><br>'
+markdown_short: '[category_printer_ink_epson_old](none)<br><br>'
+md5: 74ff152d1885295e90792e958d674c67
+md5_10: 74ff152d18
+md5_10_upper: 74FF152D18
+md5_5: 74ff1
+md5_5_upper: 74FF1
+md5_6: 74ff15
+md5_6_alpha: 4kc9h
+md5_6_alpha_upper: 4KC9H
+md5_6_upper: 74FF15
+name: Category Printer Ink Epson Old
+name_no_class: Printer Ink Epson Old
+name_no_size: Epson Old
+name_no_size_short: Epson Old
+name_no_type: Ink Epson Old
+oomp_key: oomp_category_printer_ink_epson_old
+oomp_word: fireworks trident poop
+oomp_word_emoji: ':fireworks: :trident: :poop:'
+oomp_word_emoji_list:
+- ':fireworks:'
+- ':trident:'
+- ':poop:'
+oomp_word_list:
+- fireworks
+- trident
+- poop
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryprinter
+size: ink
+size_capital: Ink
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INK
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER
