@@ -1,0 +1,88 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_oomp_storage_gridfinity
+color_capital: Oomlout Oomp Storage Gridfinity
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_OOMP_STORAGE_GRIDFINITY
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_oomp_storage_gridfinity
+distributors: []
+filter: ''
+from_yaml: false
+id: project_github_oomlout_oomlout_oomp_storage_gridfinity
+id_no_class: github_oomlout_oomlout_oomp_storage_gridfinity
+id_no_size: oomp_storage_gridfinity
+id_no_type: oomlout_oomlout_oomp_storage_gridfinity
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_storage_gridfinity
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_storage_gridfinity
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_storage_gridfinity
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_oomp_storage_gridfinity](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Oomp Storage Gridfinity](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_oomp_storage_gridfinity](none)<br><br>'
+md5: 004de99ac2aaf79755915b0609542522
+md5_10: 004de99ac2
+md5_10_upper: 004DE99AC2
+md5_5: 004de
+md5_5_upper: 004DE
+md5_6: 004de9
+md5_6_alpha: fe1
+md5_6_alpha_upper: FE1
+md5_6_upper: 004DE9
+name: Project Github Oomlout Oomlout Oomp Storage Gridfinity
+name_no_class: Github Oomlout Oomlout Oomp Storage Gridfinity
+name_no_size: Oomp Storage Gridfinity
+name_no_size_short: Oomp Storage Gridfinity
+name_no_type: Oomlout Oomlout Oomp Storage Gridfinity
+oomp_key: oomp_project_github_oomlout_oomlout_oomp_storage_gridfinity
+oomp_word: bowtie bug bike
+oomp_word_emoji: ':bowtie: :bug: :bike:'
+oomp_word_emoji_list:
+- ':bowtie:'
+- ':bug:'
+- ':bike:'
+oomp_word_list:
+- bowtie
+- bug
+- bike
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

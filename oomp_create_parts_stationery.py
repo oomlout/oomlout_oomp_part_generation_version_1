@@ -145,17 +145,19 @@ def load_parts(**kwargs):
         part_details["distributor_part_number_amazon"] = "B01A78UJUU"
         part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_part_number_amazon']}"
 
-        #sharpie
+        #felt_tip_full
         if True:
-            description_extras = ["black_color","blue_color","red_color","green_color","orange_color","purple_color","pink_color","yellow_color","turquoise_color","lime_green_color"]
-            for description_extra in description_extras:
-                part_details = copy.deepcopy(default_current)
-                part_details["type"] = "felt_tip_pen"            
-                part_details["description_main"] = "13_mm_diameter_137_mm_length"            
-                part_details["description_extra"] = f"sharpie_style_{description_extra}"
-                part_details["manufacturer"] = "sharpie"
-                part_details["part_number"] = ""
-                parts.append(part_details)
+            description_mains = ["sharpie_standard_tip_style_13_mm_diameter_137_mm_length","sharpie_fine_tip_style_12_mm_diameter_137_mm_length", "bic_mark_it_style_12_mm_diameter_140_mm_length"]
+            description_extras = ["","black_color","blue_color","red_color","green_color","orange_color","purple_color","pink_color","yellow_color","turquoise_color","lime_green_color"]
+            for description_main in description_mains:
+                for description_extra in description_extras:
+                    part_details = copy.deepcopy(default_current)
+                    part_details["type"] = "felt_tip_pen"            
+                    part_details["description_main"] = description_main             
+                    part_details["description_extra"] = f"{description_extra}"
+                    part_details["manufacturer"] = "sharpie"
+                    part_details["part_number"] = ""
+                    parts.append(part_details)
 
     #glue
     if True:
@@ -253,7 +255,7 @@ def load_parts(**kwargs):
     if True:
         part_details = copy.deepcopy(default_empty)        
         part_details["type"] = "pen"
-        part_details["size"] = "9_5_mm_diagonal_140_mm_length_uniball_157_style"
+        part_details["size"] = "9_5_mm_diameter_140_mm_length_uniball_157_style"
         colors = ["black","blue","red","orange","green","pink","purple","light_blue","light_green","wine"]
         colors.append(["mixed","B096FYFJT3"])
 
@@ -266,7 +268,6 @@ def load_parts(**kwargs):
                 color = color[0]
                 amazon_id = color[1]
             part_details = copy.deepcopy(default_current)
-            part_details["color"] = color
             part_details["description_main"] = color
             part_details["manufacturer"] = "uniball"
             part_details["part_number"] = ""
@@ -274,6 +275,22 @@ def load_parts(**kwargs):
                 part_details["distributor_part_number_amazon"] = amazon_id
                 part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_part_number_amazon']}"
             parts.append(part_details)
+
+            #acroball 12 mm x 140 mm red black blue pen_clickey
+            part_details = copy.deepcopy(default_current)
+            part_details["type"] = "pen_ballpoint_clicky"
+            part_details["size"] = "12_mm_diameter_140_mm_length_acroball_style"
+            colors = ["black","blue","red"]
+
+            default_current = copy.deepcopy(part_details)
+            for color in colors:
+                part_details = copy.deepcopy(default_current)                
+                part_details["description_main"] = color
+                part_details["manufacturer"] = "pilot"
+                part_details["part_number"] = ""
+                parts.append(part_details)
+
+
 
     #pencil
     if True:

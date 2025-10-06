@@ -171,10 +171,10 @@ def load_parts(**kwargs):
         part_details = {}
         part_details["classification"] = "tool"
         part_details["type"] = "knife_utility"
-        part_details["size"] = [""]
-        part_details["color"] = [""]
-        part_details["description_main"] = ["17_mm_blade"]
-        part_details["description_extra"] = [""]
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_main"] = "17_mm_blade"
+        part_details["description_extra"] = ""
         part_details["manufacturer"] = ""
         part_details["part_number"] = ""
         parts.append(part_details)

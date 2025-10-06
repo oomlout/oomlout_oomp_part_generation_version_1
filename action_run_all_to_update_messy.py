@@ -18,7 +18,7 @@ def main(**kwargs):
     repo_names = {}
     current_names = []
     current_names.append('oomlout_oomp_version_1_only_yaml')
-    #current_names.append('oomlout_oomp_current_version_messy')    
+    current_names.append('oomlout_oomp_current_version_messy')    
     repo_names['full'] = current_names
 
     current_names = []
