@@ -247,5 +247,781 @@ def load_parts(**kwargs):
                 part_details["part_number"] = ""
                 parts.append(copy.deepcopy(part_details))
 
+
+    #chad ecotank research
+    if True:
+        
+
+        # --- First-generation EcoTank / L-series (UK) ---
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "l_355",
+            "short_name": "EcoTank L355",
+            "description_chat_gpt": "A4 3-in-1 printer (Print/Scan/Copy).",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 249.99,
+            "compatible_ink_bottles": ["664"],
+            "ink_type": "dye",
+            "features": []
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "l_555",
+            "short_name": "EcoTank L555",
+            "description_chat_gpt": "A4 4-in-1 (Print/Scan/Copy/Fax).",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 329.99,
+            "compatible_ink_bottles": ["664"],
+            "ink_type": "dye",
+            "features": ["fax", "adf"]
+        })
+
+        # --- Early ET-2000 / ET-4000 series ---
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_2500",
+            "short_name": "EcoTank ET-2500",
+            "description_chat_gpt": "A4 3-in-1 (Print/Scan/Copy).",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 229.99,
+            "compatible_ink_bottles": ["664"],
+            "ink_type": "dye",
+            "features": []
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_2550",
+            "short_name": "EcoTank ET-2550",
+            "description_chat_gpt": "A4 3-in-1 (Print/Scan/Copy).",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 249.00,
+            "compatible_ink_bottles": ["664"],
+            "ink_type": "dye",
+            "features": ["wifi"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_4500",
+            "short_name": "EcoTank ET-4500",
+            "description_chat_gpt": "A4 4-in-1 (Print/Scan/Copy/Fax) with ADF.",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 269.00,
+            "compatible_ink_bottles": ["664"],
+            "ink_type": "dye",
+            "features": ["fax", "adf", "wifi"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_4550",
+            "short_name": "EcoTank ET-4550",
+            "description_chat_gpt": "A4 4-in-1 (Print/Scan/Copy/Fax) with duplex and ADF.",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 369.00,
+            "compatible_ink_bottles": ["664"],
+            "ink_type": "dye",
+            "features": ["fax", "adf", "duplex", "ethernet", "wifi"]
+        })
+
+        # --- ET-2600 / 2700 / 3600 family ---
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_2600",
+            "short_name": "EcoTank ET-2600",
+            "description_chat_gpt": "A4 3-in-1 (Print/Scan/Copy).",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 199.00,
+            "compatible_ink_bottles": ["664"],
+            "ink_type": "dye",
+            "features": ["wifi"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_2650",
+            "short_name": "EcoTank ET-2650",
+            "description_chat_gpt": "A4 3-in-1 (Print/Scan/Copy).",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 249.00,
+            "compatible_ink_bottles": ["664"],
+            "ink_type": "dye",
+            "features": ["wifi"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_3600",
+            "short_name": "EcoTank ET-3600",
+            "description_chat_gpt": "A4 3-in-1 (Print/Scan/Copy) with duplex.",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 399.00,
+            "compatible_ink_bottles": ["664"],
+            "ink_type": "dye",
+            "features": ["duplex", "ethernet", "wifi"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_2700",
+            "short_name": "EcoTank ET-2700",
+            "description_chat_gpt": "A4 3-in-1 (Print/Scan/Copy).",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 229.00,
+            "compatible_ink_bottles": ["102"],
+            "ink_type": "dye",
+            "features": ["wifi"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_2750",
+            "short_name": "EcoTank ET-2750",
+            "description_chat_gpt": "A4 3-in-1 (Print/Scan/Copy) with duplex.",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 299.00,
+            "compatible_ink_bottles": ["102"],
+            "ink_type": "dye",
+            "features": ["duplex", "wifi"]
+        })
+
+        # --- ET-2710 / 28xx family (EcoFit 104 bottles) ---
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_2710",
+            "short_name": "EcoTank ET-2710",
+            "description_chat_gpt": "A4 3-in-1 (Print/Scan/Copy).",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 199.00,
+            "compatible_ink_bottles": ["104"],
+            "ink_type": "dye",
+            "features": ["wifi"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_2810",
+            "short_name": "EcoTank ET-2810",
+            "description_chat_gpt": "A4 3-in-1 (Print/Scan/Copy).",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 179.00,
+            "compatible_ink_bottles": ["104"],
+            "ink_type": "dye",
+            "features": ["wifi"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_2820",
+            "short_name": "EcoTank ET-2820",
+            "description_chat_gpt": "A4 3-in-1 (Print/Scan/Copy).",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 239.99,
+            "compatible_ink_bottles": ["104"],
+            "ink_type": "dye",
+            "features": ["wifi", "lcd"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_2850",
+            "short_name": "EcoTank ET-2850",
+            "description_chat_gpt": "A4 3-in-1 (Print/Scan/Copy) with duplex.",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 269.00,
+            "compatible_ink_bottles": ["104"],
+            "ink_type": "dye",
+            "features": ["duplex", "wifi", "lcd"]
+        })
+
+        # --- ET-3700 / 4700 family ---
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_3700",
+            "short_name": "EcoTank ET-3700",
+            "description_chat_gpt": "A4 3-in-1 with duplex and larger tanks.",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 400,
+            "nozzle_count_per_colour": 128,
+            "total_colours": 4,
+            "original_rrp_gbp": 349.00,
+            "compatible_ink_bottles": ["102"],
+            "ink_type": "dye",
+            "features": ["duplex", "ethernet", "wifi", "lcd"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_3750",
+            "short_name": "EcoTank ET-3750",
+            "description_chat_gpt": "A4 3-in-1 with duplex and ADF.",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 400,
+            "nozzle_count_per_colour": 128,
+            "total_colours": 4,
+            "original_rrp_gbp": 429.00,
+            "compatible_ink_bottles": ["102"],
+            "ink_type": "dye",
+            "features": ["duplex", "adf", "ethernet", "wifi", "lcd"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_4700",
+            "short_name": "EcoTank ET-4700",
+            "description_chat_gpt": "A4 4-in-1 with ADF and fax.",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 229.00,
+            "compatible_ink_bottles": ["104"],
+            "ink_type": "dye",
+            "features": ["fax", "adf", "wifi", "lcd"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_4750",
+            "short_name": "EcoTank ET-4750",
+            "description_chat_gpt": "A4 4-in-1 with ADF, fax, and duplex.",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 400,
+            "nozzle_count_per_colour": 128,
+            "total_colours": 4,
+            "original_rrp_gbp": 449.00,
+            "compatible_ink_bottles": ["102"],
+            "ink_type": "dye",
+            "features": ["fax", "adf", "duplex", "ethernet", "wifi", "touchscreen"]
+        })
+
+        # --- ET-4800/4850/4950 (2021+) ---
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_4800",
+            "short_name": "EcoTank ET-4800",
+            "description_chat_gpt": "A4 4-in-1 with ADF and fax (entry).",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 249.00,
+            "compatible_ink_bottles": ["104"],
+            "ink_type": "dye",
+            "features": ["fax", "adf", "wifi", "lcd"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_4850",
+            "short_name": "EcoTank ET-4850",
+            "description_chat_gpt": "A4 4-in-1 with ADF, fax, duplex, touchscreen.",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 400,
+            "nozzle_count_per_colour": 128,
+            "total_colours": 4,
+            "original_rrp_gbp": 399.00,
+            "compatible_ink_bottles": ["102"],
+            "ink_type": "dye",
+            "features": ["fax", "adf", "duplex", "ethernet", "wifi", "touchscreen"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_4950",
+            "short_name": "EcoTank ET-4950",
+            "description_chat_gpt": "A4 4-in-1 with ADF, fax, duplex (newer variant).",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 400,
+            "nozzle_count_per_colour": 128,
+            "total_colours": 4,
+            "original_rrp_gbp": 429.00,
+            "compatible_ink_bottles": ["102"],
+            "ink_type": "dye",
+            "features": ["fax", "adf", "duplex", "ethernet", "wifi", "touchscreen"]
+        })
+
+        # --- Business A4 EcoTank Pro (pigment 113 inks) ---
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_5150",
+            "short_name": "EcoTank ET-5150",
+            "description_chat_gpt": "A4 business 3-in-1 (duplex, high speed, pigment).",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 800,
+            "nozzle_count_per_colour": 800,
+            "total_colours": 4,
+            "original_rrp_gbp": 349.00,
+            "compatible_ink_bottles": ["113"],
+            "ink_type": "pigment",
+            "features": ["duplex", "ethernet", "wifi", "lcd"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_5170",
+            "short_name": "EcoTank ET-5170",
+            "description_chat_gpt": "A4 business 3-in-1 (duplex, higher speed, pigment).",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 800,
+            "nozzle_count_per_colour": 800,
+            "total_colours": 4,
+            "original_rrp_gbp": 379.00,
+            "compatible_ink_bottles": ["113"],
+            "ink_type": "pigment",
+            "features": ["duplex", "ethernet", "wifi", "touchscreen"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_5180",
+            "short_name": "EcoTank ET-5180",
+            "description_chat_gpt": "A4 business 3-in-1 (fast, duplex, pigment).",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 800,
+            "nozzle_count_per_colour": 800,
+            "total_colours": 4,
+            "original_rrp_gbp": 399.00,
+            "compatible_ink_bottles": ["113"],
+            "ink_type": "pigment",
+            "features": ["duplex", "ethernet", "wifi", "touchscreen", "adf"]
+        })
+
+        # --- Business A4 Pro high-duty (5800/5850/5880) ---
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_5800",
+            "short_name": "EcoTank ET-5800",
+            "description_chat_gpt": "A4 high-speed 4-in-1 business model (pigment).",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 800,
+            "nozzle_count_per_colour": 800,
+            "total_colours": 4,
+            "original_rrp_gbp": 699.00,
+            "compatible_ink_bottles": ["113"],
+            "ink_type": "pigment",
+            "features": ["duplex", "adf", "ethernet", "wifi", "touchscreen", "dual_tray"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_5850",
+            "short_name": "EcoTank ET-5850",
+            "description_chat_gpt": "A4 high-speed 4-in-1 business with higher duty.",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 800,
+            "nozzle_count_per_colour": 800,
+            "total_colours": 4,
+            "original_rrp_gbp": 799.00,
+            "compatible_ink_bottles": ["113"],
+            "ink_type": "pigment",
+            "features": ["duplex", "adf", "ethernet", "wifi", "touchscreen", "dual_tray"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_5880",
+            "short_name": "EcoTank ET-5880",
+            "description_chat_gpt": "A4 high-speed 4-in-1 with extra capacity.",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 800,
+            "nozzle_count_per_colour": 800,
+            "total_colours": 4,
+            "original_rrp_gbp": 899.00,
+            "compatible_ink_bottles": ["113"],
+            "ink_type": "pigment",
+            "features": ["duplex", "adf", "ethernet", "wifi", "touchscreen", "dual_tray"]
+        })
+
+        # --- Photo EcoTank (5- and 6-colour) ---
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_7700",
+            "short_name": "EcoTank ET-7700",
+            "description_chat_gpt": "A4 photo 5-colour all-in-one (pigment BK + dye CMY + photo BK).",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 360,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 5,
+            "original_rrp_gbp": 549.00,
+            "compatible_ink_bottles": ["105", "106"],
+            "ink_type": "mixed",
+            "features": ["sd_slot", "duplex", "lcd", "wifi"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a3",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_7750",
+            "short_name": "EcoTank ET-7750",
+            "description_chat_gpt": "A3 photo 5-colour all-in-one (pigment BK + dye CMY + photo BK).",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 360,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 5,
+            "original_rrp_gbp": 699.00,
+            "compatible_ink_bottles": ["105", "106"],
+            "ink_type": "mixed",
+            "features": ["duplex", "sd_slot", "lcd", "wifi"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_8500",
+            "short_name": "EcoTank ET-8500",
+            "description_chat_gpt": "A4 photo 6-colour all-in-one (pigment BK + dye PBK, C, M, Y, Gray).",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 360,  # per colour bank
+            "nozzle_count_per_colour": 360,
+            "total_colours": 6,
+            "original_rrp_gbp": 699.00,
+            "compatible_ink_bottles": ["114"],
+            "ink_type": "mixed",
+            "features": ["duplex", "sd_slot", "touchscreen", "wifi", "cd_dvd_print"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a3",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_8550",
+            "short_name": "EcoTank ET-8550",
+            "description_chat_gpt": "A3+ photo 6-colour all-in-one (pigment BK + dye PBK, C, M, Y, Gray).",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 360,
+            "nozzle_count_per_colour": 360,
+            "total_colours": 6,
+            "original_rrp_gbp": 799.00,
+            "compatible_ink_bottles": ["114"],
+            "ink_type": "mixed",
+            "features": ["duplex", "sd_slot", "touchscreen", "wifi", "cd_dvd_print"]
+        })
+
+        # --- Wide-format office (A3+) ---
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a3",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_14000",
+            "short_name": "EcoTank ET-14000",
+            "description_chat_gpt": "A3+ single-function printer (print-only).",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 360,
+            "nozzle_count_per_colour": 59,
+            "total_colours": 4,
+            "original_rrp_gbp": 429.00,
+            "compatible_ink_bottles": ["664"],
+            "ink_type": "dye",
+            "features": ["a3_plus"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a3",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_15000",
+            "short_name": "EcoTank ET-15000",
+            "description_chat_gpt": "A3+ 4-in-1 (Print/Scan/Copy/Fax) compact.",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 400,
+            "nozzle_count_per_colour": 128,
+            "total_colours": 4,
+            "original_rrp_gbp": 599.00,
+            "compatible_ink_bottles": ["102"],
+            "ink_type": "dye",
+            "features": ["a3_plus", "duplex", "adf", "fax", "ethernet", "wifi", "lcd"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a3",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_16150",
+            "short_name": "EcoTank ET-16150",
+            "description_chat_gpt": "A3+ single-function (print-only) high-speed, pigment.",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 800,
+            "nozzle_count_per_colour": 800,
+            "total_colours": 4,
+            "original_rrp_gbp": 619.00,
+            "compatible_ink_bottles": ["113"],
+            "ink_type": "pigment",
+            "features": ["a3_plus", "duplex", "ethernet", "wifi", "lcd"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a3",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_16600",
+            "short_name": "EcoTank ET-16600",
+            "description_chat_gpt": "A3+ 4-in-1 office model (pigment) with ADF and duplex.",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 800,
+            "nozzle_count_per_colour": 256,
+            "total_colours": 4,
+            "original_rrp_gbp": 1099.99,
+            "compatible_ink_bottles": ["113"],
+            "ink_type": "pigment",
+            "features": ["a3_plus", "duplex", "adf", "fax", "ethernet", "wifi", "touchscreen"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a3",
+            "color": "color",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_16650",
+            "short_name": "EcoTank ET-16650",
+            "description_chat_gpt": "A3+ 4-in-1 office (pigment) higher-speed variant.",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 800,
+            "nozzle_count_per_colour": 256,
+            "total_colours": 4,
+            "original_rrp_gbp": 1299.00,
+            "compatible_ink_bottles": ["113"],
+            "ink_type": "pigment",
+            "features": ["a3_plus", "duplex", "adf", "fax", "ethernet", "wifi", "touchscreen"]
+        })
+
+        # --- Monochrome EcoTank ---
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "mono",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_m1120",
+            "short_name": "EcoTank ET-M1120",
+            "description_chat_gpt": "A4 mono print-only (ultra low running cost).",
+            "printhead_technology": "Micro Piezo",
+            "nozzle_count_black": 180,
+            "nozzle_count_per_colour": 0,
+            "total_colours": 1,
+            "original_rrp_gbp": 199.99,
+            "compatible_ink_bottles": ["110"],
+            "ink_type": "pigment",
+            "features": ["wifi"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "mono",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_m2170",
+            "short_name": "EcoTank ET-M2170",
+            "description_chat_gpt": "A4 mono 3-in-1 (Print/Scan/Copy) with duplex.",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 400,
+            "nozzle_count_per_colour": 0,
+            "total_colours": 1,
+            "original_rrp_gbp": 249.00,
+            "compatible_ink_bottles": ["111"],
+            "ink_type": "pigment",
+            "features": ["duplex", "ethernet", "wifi", "lcd"]
+        })
+
+        parts.append({
+            "classification": "printer",
+            "type": "inkjet",
+            "size": "a4",
+            "color": "mono",
+            "manufacturer": "epson_ecotank",
+            "part_number": "et_m3170",
+            "short_name": "EcoTank ET-M3170",
+            "description_chat_gpt": "A4 mono 4-in-1 (Print/Scan/Copy/Fax) with duplex.",
+            "printhead_technology": "PrecisionCore",
+            "nozzle_count_black": 800,
+            "nozzle_count_per_colour": 0,
+            "total_colours": 1,
+            "original_rrp_gbp": 349.00,
+            "compatible_ink_bottles": ["111"],
+            "ink_type": "pigment",
+            "features": ["fax", "adf", "duplex", "ethernet", "wifi", "lcd"]
+        })
+
     oomp.add_parts(parts, make_files=make_files)
     
