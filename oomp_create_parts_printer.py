@@ -1023,5 +1023,7 @@ def load_parts(**kwargs):
             "features": ["fax", "adf", "duplex", "ethernet", "wifi", "lcd"]
         })
 
+        
+
     oomp.add_parts(parts, make_files=make_files)
     

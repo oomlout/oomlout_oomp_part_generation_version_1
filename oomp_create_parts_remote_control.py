@@ -8,33 +8,67 @@ def load_parts(**kwargs):
     
     parts = []
 
-    
+    part_details = {}
+    part_details["classification"] = "remote_control"
+    part_details["type"] = ""
+    part_details["size"] = ""
+    part_details["color"] = ""
+    part_details["description_main"] = ""
+    part_details["description_extra"] = ""
+    part_details["manufacturer"] = ""
+    part_details["part_number"] = ""
+
+    default_empty = part_details.copy()
 
     #define a part 
 
        
     #escs
     if True:
-        part_details = {}
-        part_details["classification"] = "remote_control"
+        part_details = copy.deepcopy(default_empty)
         part_details["type"] = "electronic_speed_controller"
-        part_details["size"] = ""
-        part_details["color"] = ""
-        part_details["description_main"] = "1_amp_12_mm_width_8_5_mm_height_green_pcb"
-        part_details["description_extra"] = ""
-        part_details["manufacturer"] = "aliexpress"
-        part_details["part_number"] = ""        
-        part_details["part_number_distributor_aliexpress"] = "1005006080168104"
-        part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details["part_number_distributor_aliexpress"]}.html"
-        part_details["short_name"] = "ESC 1 amp"  
+
+        default_local = copy.deepcopy(part_details)
+
+        #old style
+        if True:
+            part_details = {}
+            part_details["classification"] = "remote_control"
+            part_details["type"] = "electronic_speed_controller"
+            part_details["size"] = "brushed_style"
+            part_details["color"] = "1_amp_maximum_current"
+            part_details["description_main"] = "12_mm_width_8_5_mm_height_green_pcb"
+            part_details["description_extra"] = ""
+            part_details["manufacturer"] = "aliexpress"
+            part_details["part_number"] = ""        
+            part_details["part_number_distributor_aliexpress"] = "1005006080168104"
+            part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details["part_number_distributor_aliexpress"]}.html"
+            part_details["short_name"] = "ESC 1 amp"  
 
 
-        description_extras = ["","wire_attached"]
+            description_extras = ["","wire_attached"]
 
-        for description_extra in description_extras:
-            part_details = copy.deepcopy(part_details)
-            part_details["description_extra"] = description_extra
-            parts.append(part_details)
+            for description_extra in description_extras:
+                part_details = copy.deepcopy(part_details)
+                part_details["description_extra"] = description_extra
+                parts.append(part_details)
+
+        #new style
+        if True:
+            #kingmodel
+            if True:
+                part_details = copy.deepcopy(default_local)
+                part_details["size"] = "brushed_style"
+                part_details["color"] = "10_amp_maximum_current"
+                part_details["description_main"] = "25_mm_width_45_mm_height_black_pcb"
+                part_details["description_extra"] = "6s_22_volt_maximum"
+                part_details["manufacturer"] = "kingmodel"
+                part_details["part_number_exact"] = "10AX2"
+                part_details["part_number"] = part_details["part_number_exact"].lower()
+                parts.append(part_details)
+
+
+
 
         
     
