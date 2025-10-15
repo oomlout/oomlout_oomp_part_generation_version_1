@@ -1,0 +1,106 @@
+classification: WorkForce
+classification_capital: Workforce
+classification_first_letter: W
+classification_first_letter_upper: W
+classification_upper: WORKFORCE
+color: color
+color_capital: Color
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COLOR
+compatible_ink_bottles:
+- '16'
+- 16XL
+description_chat_gpt: Compact duplex 4-in-1 with LCD screen for home offices.
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/WorkForce_All-in-One Inkjet_a4_color_epson_wf_2750dwf
+distributors: []
+features:
+- duplex
+- wifi
+- lcd
+- adf
+- fax
+id: WorkForce_All-in-One Inkjet_a4_color_epson_wf_2750dwf
+id_no_class: All-in-One Inkjet_a4_color_epson_wf_2750dwf
+id_no_size: color_epson_wf_2750dwf
+id_no_type: a4_color_epson_wf_2750dwf
+ink_type: pigment
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce_All-in-One
+    Inkjet_a4_color_epson_wf_2750dwf
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce_All-in-One
+    Inkjet_a4_color_epson_wf_2750dwf
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce_All-in-One
+    Inkjet_a4_color_epson_wf_2750dwf
+manufacturer: epson
+manufacturer_capital: Epson
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON
+manufacturers: []
+markdown_full: '[WorkForce_All-in-One Inkjet_a4_color_epson_wf_2750dwf](none)<br>[](none)<br>[Workforce
+    All-In-One Inkjet A4 Color Epson Wf 2750Dwf](none)<br><br>'
+markdown_short: '[WorkForce_All-in-One Inkjet_a4_color_epson_wf_2750dwf](none)<br><br>'
+md5: f8caa86456d24c7fb475d8b1c759e34c
+md5_10: f8caa86456
+md5_10_upper: F8CAA86456
+md5_5: f8caa
+md5_5_upper: F8CAA
+md5_6: f8caa8
+md5_6_alpha: 9pgvc
+md5_6_alpha_upper: 9PGVC
+md5_6_upper: F8CAA8
+name: Workforce All-In-One Inkjet A4 Color Epson Wf 2750Dwf
+name_no_class: All-In-One Inkjet A4 Color Epson Wf 2750Dwf
+name_no_size: Color Epson Wf 2750Dwf
+name_no_size_short: Color Epson Wf 2750Dwf
+name_no_type: A4 Color Epson Wf 2750Dwf
+nozzle_count_black: 180
+nozzle_count_per_colour: 59
+oomp_key: oomp_WorkForce_All-in-One Inkjet_a4_color_epson_wf_2750dwf
+oomp_word: seven cherries shoe
+oomp_word_emoji: ':seven: :cherries: :shoe:'
+oomp_word_emoji_list:
+- ':seven:'
+- ':cherries:'
+- ':shoe:'
+oomp_word_list:
+- seven
+- cherries
+- shoe
+original_rrp_gbp: 99.99
+part_number: wf_2750dwf
+part_number_capital: Wf 2750Dwf
+part_number_first_letter: w
+part_number_first_letter_upper: W
+part_number_upper: WF_2750DWF
+printhead_technology: Micro Piezo
+short_code: ''
+short_code_upper: ''
+short_name: Epson WorkForce WF-2750DWF
+size: a4
+size_capital: A4
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: A4
+total_colours: 4
+type: All-in-One Inkjet
+type_capital: All-In-One Inkjet
+type_first_letter: A
+type_first_letter_upper: A
+type_upper: ALL-IN-ONE INKJET

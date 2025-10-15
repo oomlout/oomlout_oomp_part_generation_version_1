@@ -1,0 +1,94 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: a4
+color_capital: A4
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: A4
+description: category_WorkForce
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_WorkForce_Single-Function Inkjet_a4_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_WorkForce_Single-Function Inkjet_a4_old
+id_no_class: WorkForce_Single-Function Inkjet_a4_old
+id_no_size: a4_old
+id_no_type: Single-Function Inkjet_a4_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_Single-Function
+    Inkjet_a4_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_Single-Function
+    Inkjet_a4_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_Single-Function
+    Inkjet_a4_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_WorkForce_Single-Function Inkjet_a4_old](none)<br>[](none)<br>[Category
+    Workforce Single-Function Inkjet A4 Old](none)<br><br>'
+markdown_short: '[category_WorkForce_Single-Function Inkjet_a4_old](none)<br><br>'
+md5: ec7d2731a31ea0e305bbc6943709a8d1
+md5_10: ec7d2731a3
+md5_10_upper: EC7D2731A3
+md5_5: ec7d2
+md5_5_upper: EC7D2
+md5_6: ec7d27
+md5_6_alpha: 986qv
+md5_6_alpha_upper: 986QV
+md5_6_upper: EC7D27
+name: Category Workforce Single-Function Inkjet A4 Old
+name_no_class: Workforce Single-Function Inkjet A4 Old
+name_no_size: A4 Old
+name_no_size_short: A4 Old
+name_no_type: Single-Function Inkjet A4 Old
+oomp_key: oomp_category_WorkForce_Single-Function Inkjet_a4_old
+oomp_word: taxi phone nose
+oomp_word_emoji: ':taxi: :phone: :nose:'
+oomp_word_emoji_list:
+- ':taxi:'
+- ':phone:'
+- ':nose:'
+oomp_word_list:
+- taxi
+- phone
+- nose
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryworkforce
+size: Single-Function Inkjet
+size_capital: Single-Function Inkjet
+size_first_letter: S
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SINGLE-FUNCTION INKJET
+type: WorkForce
+type_capital: Workforce
+type_first_letter: W
+type_first_letter_upper: W
+type_upper: WORKFORCE

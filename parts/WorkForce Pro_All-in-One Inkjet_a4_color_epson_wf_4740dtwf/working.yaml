@@ -1,0 +1,107 @@
+classification: WorkForce Pro
+classification_capital: Workforce Pro
+classification_first_letter: W
+classification_first_letter_upper: W
+classification_upper: WORKFORCE PRO
+color: color
+color_capital: Color
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COLOR
+compatible_ink_bottles:
+- '34'
+- 34XL
+- 34XXL
+description_chat_gpt: Top A4 Pro with 50-sheet duplex ADF and 10.9cm touchscreen.
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/WorkForce Pro_All-in-One Inkjet_a4_color_epson_wf_4740dtwf
+distributors: []
+features:
+- dual_trays
+- duplex_adf_50
+- touchscreen
+- nfc
+- ethernet
+id: WorkForce Pro_All-in-One Inkjet_a4_color_epson_wf_4740dtwf
+id_no_class: All-in-One Inkjet_a4_color_epson_wf_4740dtwf
+id_no_size: color_epson_wf_4740dtwf
+id_no_type: a4_color_epson_wf_4740dtwf
+ink_type: pigment
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce
+    Pro_All-in-One Inkjet_a4_color_epson_wf_4740dtwf
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce
+    Pro_All-in-One Inkjet_a4_color_epson_wf_4740dtwf
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce
+    Pro_All-in-One Inkjet_a4_color_epson_wf_4740dtwf
+manufacturer: epson
+manufacturer_capital: Epson
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON
+manufacturers: []
+markdown_full: '[WorkForce Pro_All-in-One Inkjet_a4_color_epson_wf_4740dtwf](none)<br>[](none)<br>[Workforce
+    Pro All-In-One Inkjet A4 Color Epson Wf 4740Dtwf](none)<br><br>'
+markdown_short: '[WorkForce Pro_All-in-One Inkjet_a4_color_epson_wf_4740dtwf](none)<br><br>'
+md5: 5322369d9e89582b5bf705d9d369f95c
+md5_10: 5322369d9e
+md5_10_upper: 5322369D9E
+md5_5: '53223'
+md5_5_upper: '53223'
+md5_6: '532236'
+md5_6_alpha: 38rw6
+md5_6_alpha_upper: 38RW6
+md5_6_upper: '532236'
+name: Workforce Pro All-In-One Inkjet A4 Color Epson Wf 4740Dtwf
+name_no_class: All-In-One Inkjet A4 Color Epson Wf 4740Dtwf
+name_no_size: Color Epson Wf 4740Dtwf
+name_no_size_short: Color Epson Wf 4740Dtwf
+name_no_type: A4 Color Epson Wf 4740Dtwf
+nozzle_count_black: 800
+nozzle_count_per_colour: 800
+oomp_key: oomp_WorkForce Pro_All-in-One Inkjet_a4_color_epson_wf_4740dtwf
+oomp_word: fish lips rabbit
+oomp_word_emoji: ':fish: :lips: :rabbit:'
+oomp_word_emoji_list:
+- ':fish:'
+- ':lips:'
+- ':rabbit:'
+oomp_word_list:
+- fish
+- lips
+- rabbit
+original_rrp_gbp: 249.99
+part_number: wf_4740dtwf
+part_number_capital: Wf 4740Dtwf
+part_number_first_letter: w
+part_number_first_letter_upper: W
+part_number_upper: WF_4740DTWF
+printhead_technology: PrecisionCore
+short_code: ''
+short_code_upper: ''
+short_name: Epson WorkForce Pro WF-4740DTWF
+size: a4
+size_capital: A4
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: A4
+total_colours: 4
+type: All-in-One Inkjet
+type_capital: All-In-One Inkjet
+type_first_letter: A
+type_first_letter_upper: A
+type_upper: ALL-IN-ONE INKJET

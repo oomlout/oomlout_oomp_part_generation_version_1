@@ -1,0 +1,94 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_WorkForce
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_WorkForce_All-in-One Inkjet_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_WorkForce_All-in-One Inkjet_cubby_box
+id_no_class: WorkForce_All-in-One Inkjet_cubby_box
+id_no_size: cubby_box
+id_no_type: All-in-One Inkjet_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_All-in-One
+    Inkjet_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_All-in-One
+    Inkjet_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_All-in-One
+    Inkjet_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_WorkForce_All-in-One Inkjet_cubby_box](none)<br>[](none)<br>[Category
+    Workforce All-In-One Inkjet Cubby Box](none)<br><br>'
+markdown_short: '[category_WorkForce_All-in-One Inkjet_cubby_box](none)<br><br>'
+md5: 63f1de96cf81159c624e1282c563ce21
+md5_10: 63f1de96cf
+md5_10_upper: 63F1DE96CF
+md5_5: 63f1d
+md5_5_upper: 63F1D
+md5_6: 63f1de
+md5_6_alpha: 3wdzy
+md5_6_alpha_upper: 3WDZY
+md5_6_upper: 63F1DE
+name: Category Workforce All-In-One Inkjet Cubby Box
+name_no_class: Workforce All-In-One Inkjet Cubby Box
+name_no_size: Cubby Box
+name_no_size_short: Cubby Box
+name_no_type: All-In-One Inkjet Cubby Box
+oomp_key: oomp_category_WorkForce_All-in-One Inkjet_cubby_box
+oomp_word: rose ticket rainbow
+oomp_word_emoji: ':rose: :ticket: :rainbow:'
+oomp_word_emoji_list:
+- ':rose:'
+- ':ticket:'
+- ':rainbow:'
+oomp_word_list:
+- rose
+- ticket
+- rainbow
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryworkforce
+size: All-in-One Inkjet
+size_capital: All-In-One Inkjet
+size_first_letter: A
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ALL-IN-ONE INKJET
+type: WorkForce
+type_capital: Workforce
+type_first_letter: W
+type_first_letter_upper: W
+type_upper: WORKFORCE

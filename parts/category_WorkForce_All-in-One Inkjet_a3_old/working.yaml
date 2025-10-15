@@ -1,0 +1,94 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: a3
+color_capital: A3
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: A3
+description: category_WorkForce
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_WorkForce_All-in-One Inkjet_a3_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_WorkForce_All-in-One Inkjet_a3_old
+id_no_class: WorkForce_All-in-One Inkjet_a3_old
+id_no_size: a3_old
+id_no_type: All-in-One Inkjet_a3_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_All-in-One
+    Inkjet_a3_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_All-in-One
+    Inkjet_a3_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_All-in-One
+    Inkjet_a3_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_WorkForce_All-in-One Inkjet_a3_old](none)<br>[](none)<br>[Category
+    Workforce All-In-One Inkjet A3 Old](none)<br><br>'
+markdown_short: '[category_WorkForce_All-in-One Inkjet_a3_old](none)<br><br>'
+md5: 88980fbb59b0b499ed81834a129af92b
+md5_10: 88980fbb59
+md5_10_upper: 88980FBB59
+md5_5: '88980'
+md5_5_upper: '88980'
+md5_6: 88980f
+md5_6_alpha: 5bv9r
+md5_6_alpha_upper: 5BV9R
+md5_6_upper: 88980F
+name: Category Workforce All-In-One Inkjet A3 Old
+name_no_class: Workforce All-In-One Inkjet A3 Old
+name_no_size: A3 Old
+name_no_size_short: A3 Old
+name_no_type: All-In-One Inkjet A3 Old
+oomp_key: oomp_category_WorkForce_All-in-One Inkjet_a3_old
+oomp_word: wrench tennis sparkles
+oomp_word_emoji: ':wrench: :tennis: :sparkles:'
+oomp_word_emoji_list:
+- ':wrench:'
+- ':tennis:'
+- ':sparkles:'
+oomp_word_list:
+- wrench
+- tennis
+- sparkles
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryworkforce
+size: All-in-One Inkjet
+size_capital: All-In-One Inkjet
+size_first_letter: A
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ALL-IN-ONE INKJET
+type: WorkForce
+type_capital: Workforce
+type_first_letter: W
+type_first_letter_upper: W
+type_upper: WORKFORCE

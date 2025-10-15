@@ -1,0 +1,106 @@
+classification: WorkForce
+classification_capital: Workforce
+classification_first_letter: W
+classification_first_letter_upper: W
+classification_upper: WORKFORCE
+color: color
+color_capital: Color
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COLOR
+compatible_ink_bottles:
+- '604'
+- 604XL
+description_chat_gpt: Retail variant of WF-2930 with same core features.
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/WorkForce_All-in-One Inkjet_a4_color_epson_wf_2935dwf
+distributors: []
+features:
+- duplex
+- wifi
+- adf
+- fax
+- lcd
+id: WorkForce_All-in-One Inkjet_a4_color_epson_wf_2935dwf
+id_no_class: All-in-One Inkjet_a4_color_epson_wf_2935dwf
+id_no_size: color_epson_wf_2935dwf
+id_no_type: a4_color_epson_wf_2935dwf
+ink_type: pigment_black_dye_colour
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce_All-in-One
+    Inkjet_a4_color_epson_wf_2935dwf
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce_All-in-One
+    Inkjet_a4_color_epson_wf_2935dwf
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce_All-in-One
+    Inkjet_a4_color_epson_wf_2935dwf
+manufacturer: epson
+manufacturer_capital: Epson
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON
+manufacturers: []
+markdown_full: '[WorkForce_All-in-One Inkjet_a4_color_epson_wf_2935dwf](none)<br>[](none)<br>[Workforce
+    All-In-One Inkjet A4 Color Epson Wf 2935Dwf](none)<br><br>'
+markdown_short: '[WorkForce_All-in-One Inkjet_a4_color_epson_wf_2935dwf](none)<br><br>'
+md5: e7eba2e69dc8e6b5fa860f2a19f53598
+md5_10: e7eba2e69d
+md5_10_upper: E7EBA2E69D
+md5_5: e7eba
+md5_5_upper: E7EBA
+md5_6: e7eba2
+md5_6_alpha: 91rqa
+md5_6_alpha_upper: 91RQA
+md5_6_upper: E7EBA2
+name: Workforce All-In-One Inkjet A4 Color Epson Wf 2935Dwf
+name_no_class: All-In-One Inkjet A4 Color Epson Wf 2935Dwf
+name_no_size: Color Epson Wf 2935Dwf
+name_no_size_short: Color Epson Wf 2935Dwf
+name_no_type: A4 Color Epson Wf 2935Dwf
+nozzle_count_black: 180
+nozzle_count_per_colour: 59
+oomp_key: oomp_WorkForce_All-in-One Inkjet_a4_color_epson_wf_2935dwf
+oomp_word: helicopter car violin
+oomp_word_emoji: ':helicopter: :car: :violin:'
+oomp_word_emoji_list:
+- ':helicopter:'
+- ':car:'
+- ':violin:'
+oomp_word_list:
+- helicopter
+- car
+- violin
+original_rrp_gbp: 89.99
+part_number: wf_2935dwf
+part_number_capital: Wf 2935Dwf
+part_number_first_letter: w
+part_number_first_letter_upper: W
+part_number_upper: WF_2935DWF
+printhead_technology: Micro Piezo
+short_code: ''
+short_code_upper: ''
+short_name: Epson WorkForce WF-2935DWF
+size: a4
+size_capital: A4
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: A4
+total_colours: 4
+type: All-in-One Inkjet
+type_capital: All-In-One Inkjet
+type_first_letter: A
+type_first_letter_upper: A
+type_upper: ALL-IN-ONE INKJET

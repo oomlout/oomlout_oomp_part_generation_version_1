@@ -1,0 +1,106 @@
+classification: WorkForce Pro
+classification_capital: Workforce Pro
+classification_first_letter: W
+classification_first_letter_upper: W
+classification_upper: WORKFORCE PRO
+color: color
+color_capital: Color
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COLOR
+compatible_ink_bottles:
+- '34'
+- 34XL
+description_chat_gpt: Compact Pro 4-in-1 with fast 18ppm and 250-sheet tray.
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/WorkForce Pro_All-in-One Inkjet_a4_color_epson_wf_4720dwf
+distributors: []
+features:
+- duplex
+- wifi
+- nfc
+- 250_sheet_tray
+- adf
+id: WorkForce Pro_All-in-One Inkjet_a4_color_epson_wf_4720dwf
+id_no_class: All-in-One Inkjet_a4_color_epson_wf_4720dwf
+id_no_size: color_epson_wf_4720dwf
+id_no_type: a4_color_epson_wf_4720dwf
+ink_type: pigment
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce
+    Pro_All-in-One Inkjet_a4_color_epson_wf_4720dwf
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce
+    Pro_All-in-One Inkjet_a4_color_epson_wf_4720dwf
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce
+    Pro_All-in-One Inkjet_a4_color_epson_wf_4720dwf
+manufacturer: epson
+manufacturer_capital: Epson
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON
+manufacturers: []
+markdown_full: '[WorkForce Pro_All-in-One Inkjet_a4_color_epson_wf_4720dwf](none)<br>[](none)<br>[Workforce
+    Pro All-In-One Inkjet A4 Color Epson Wf 4720Dwf](none)<br><br>'
+markdown_short: '[WorkForce Pro_All-in-One Inkjet_a4_color_epson_wf_4720dwf](none)<br><br>'
+md5: b29148ec8f7e2499f936454f30335e9e
+md5_10: b29148ec8f
+md5_10_upper: B29148EC8F
+md5_5: b2914
+md5_5_upper: B2914
+md5_6: b29148
+md5_6_alpha: 6yts8
+md5_6_alpha_upper: 6YTS8
+md5_6_upper: B29148
+name: Workforce Pro All-In-One Inkjet A4 Color Epson Wf 4720Dwf
+name_no_class: All-In-One Inkjet A4 Color Epson Wf 4720Dwf
+name_no_size: Color Epson Wf 4720Dwf
+name_no_size_short: Color Epson Wf 4720Dwf
+name_no_type: A4 Color Epson Wf 4720Dwf
+nozzle_count_black: 800
+nozzle_count_per_colour: 800
+oomp_key: oomp_WorkForce Pro_All-in-One Inkjet_a4_color_epson_wf_4720dwf
+oomp_word: handbag pushpin hatched_chick
+oomp_word_emoji: ':handbag: :pushpin: :hatched_chick:'
+oomp_word_emoji_list:
+- ':handbag:'
+- ':pushpin:'
+- ':hatched_chick:'
+oomp_word_list:
+- handbag
+- pushpin
+- hatched_chick
+original_rrp_gbp: 149.99
+part_number: wf_4720dwf
+part_number_capital: Wf 4720Dwf
+part_number_first_letter: w
+part_number_first_letter_upper: W
+part_number_upper: WF_4720DWF
+printhead_technology: PrecisionCore
+short_code: ''
+short_code_upper: ''
+short_name: Epson WorkForce Pro WF-4720DWF
+size: a4
+size_capital: A4
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: A4
+total_colours: 4
+type: All-in-One Inkjet
+type_capital: All-In-One Inkjet
+type_first_letter: A
+type_first_letter_upper: A
+type_upper: ALL-IN-ONE INKJET

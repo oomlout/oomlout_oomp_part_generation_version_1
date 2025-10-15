@@ -1,0 +1,94 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_WorkForce Pro
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_WorkForce Pro_All-in-One Inkjet_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_WorkForce Pro_All-in-One Inkjet_old
+id_no_class: WorkForce Pro_All-in-One Inkjet_old
+id_no_size: old
+id_no_type: All-in-One Inkjet_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce
+    Pro_All-in-One Inkjet_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce
+    Pro_All-in-One Inkjet_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce
+    Pro_All-in-One Inkjet_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_WorkForce Pro_All-in-One Inkjet_old](none)<br>[](none)<br>[Category
+    Workforce Pro All-In-One Inkjet Old](none)<br><br>'
+markdown_short: '[category_WorkForce Pro_All-in-One Inkjet_old](none)<br><br>'
+md5: 841c5f2c6f14627d60dbfef276ab569d
+md5_10: 841c5f2c6f
+md5_10_upper: 841C5F2C6F
+md5_5: 841c5
+md5_5_upper: 841C5
+md5_6: 841c5f
+md5_6_alpha: 55kkf
+md5_6_alpha_upper: 55KKF
+md5_6_upper: 841C5F
+name: Category Workforce Pro All-In-One Inkjet Old
+name_no_class: Workforce Pro All-In-One Inkjet Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: All-In-One Inkjet Old
+oomp_key: oomp_category_WorkForce Pro_All-in-One Inkjet_old
+oomp_word: key dancer leopard
+oomp_word_emoji: ':key: :dancer: :leopard:'
+oomp_word_emoji_list:
+- ':key:'
+- ':dancer:'
+- ':leopard:'
+oomp_word_list:
+- key
+- dancer
+- leopard
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryworkforce pro
+size: All-in-One Inkjet
+size_capital: All-In-One Inkjet
+size_first_letter: A
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ALL-IN-ONE INKJET
+type: WorkForce Pro
+type_capital: Workforce Pro
+type_first_letter: W
+type_first_letter_upper: W
+type_upper: WORKFORCE PRO

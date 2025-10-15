@@ -1,0 +1,94 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_WorkForce
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_WorkForce_Single-Function Inkjet_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_WorkForce_Single-Function Inkjet_to_sort
+id_no_class: WorkForce_Single-Function Inkjet_to_sort
+id_no_size: to_sort
+id_no_type: Single-Function Inkjet_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_Single-Function
+    Inkjet_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_Single-Function
+    Inkjet_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_Single-Function
+    Inkjet_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_WorkForce_Single-Function Inkjet_to_sort](none)<br>[](none)<br>[Category
+    Workforce Single-Function Inkjet To Sort](none)<br><br>'
+markdown_short: '[category_WorkForce_Single-Function Inkjet_to_sort](none)<br><br>'
+md5: 730d603ccf8e10d79b5e49e5f7077e15
+md5_10: 730d603ccf
+md5_10_upper: 730D603CCF
+md5_5: 730d6
+md5_5_upper: 730D6
+md5_6: 730d60
+md5_6_alpha: 4hly8
+md5_6_alpha_upper: 4HLY8
+md5_6_upper: 730D60
+name: Category Workforce Single-Function Inkjet To Sort
+name_no_class: Workforce Single-Function Inkjet To Sort
+name_no_size: To Sort
+name_no_size_short: To Sort
+name_no_type: Single-Function Inkjet To Sort
+oomp_key: oomp_category_WorkForce_Single-Function Inkjet_to_sort
+oomp_word: flags heart poodle
+oomp_word_emoji: ':flags: :heart: :poodle:'
+oomp_word_emoji_list:
+- ':flags:'
+- ':heart:'
+- ':poodle:'
+oomp_word_list:
+- flags
+- heart
+- poodle
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryworkforce
+size: Single-Function Inkjet
+size_capital: Single-Function Inkjet
+size_first_letter: S
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SINGLE-FUNCTION INKJET
+type: WorkForce
+type_capital: Workforce
+type_first_letter: W
+type_first_letter_upper: W
+type_upper: WORKFORCE

@@ -45,6 +45,24 @@ def load_parts(**kwargs):
         parts.append(part_details)    
 
     
+    #ryobi
+    if True:
+        
+        part_details = {}
+        part_details["classification"] = "electronic"
+        part_details["type"] = "battery_box"
+        part_details["size"] = "ryobi_one_plus"
+        part_details["color"] = ""
+        part_details["description_main"] = "partial_top_cover_bare_wire_style"
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "aliexpress"
+        part_details["part_number"] = ""
+        part_details["part_number_exact"] = ""
+        part_details["part_number_distributor_aliexpress"] = "1005004221410788"
+        part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details["part_number_distributor_aliexpress"]}.html"
+        part_details["short_name"] = "Ryobi Plus One Battery Holder"  
+        parts.append(part_details)   
+
     #pcb mount 16340
     part_details = {}
     part_details["classification"] = "electronic"

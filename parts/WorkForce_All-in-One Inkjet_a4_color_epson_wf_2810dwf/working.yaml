@@ -1,0 +1,106 @@
+classification: WorkForce
+classification_capital: Workforce
+classification_first_letter: W
+classification_first_letter_upper: W
+classification_upper: WORKFORCE
+color: color
+color_capital: Color
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COLOR
+compatible_ink_bottles:
+- '603'
+- 603XL
+description_chat_gpt: Basic 4-in-1 with LCD, Wi-Fi, and auto duplex.
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/WorkForce_All-in-One Inkjet_a4_color_epson_wf_2810dwf
+distributors: []
+features:
+- duplex
+- wifi
+- lcd
+- fax
+- adf
+id: WorkForce_All-in-One Inkjet_a4_color_epson_wf_2810dwf
+id_no_class: All-in-One Inkjet_a4_color_epson_wf_2810dwf
+id_no_size: color_epson_wf_2810dwf
+id_no_type: a4_color_epson_wf_2810dwf
+ink_type: pigment_black_dye_colour
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce_All-in-One
+    Inkjet_a4_color_epson_wf_2810dwf
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce_All-in-One
+    Inkjet_a4_color_epson_wf_2810dwf
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce_All-in-One
+    Inkjet_a4_color_epson_wf_2810dwf
+manufacturer: epson
+manufacturer_capital: Epson
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON
+manufacturers: []
+markdown_full: '[WorkForce_All-in-One Inkjet_a4_color_epson_wf_2810dwf](none)<br>[](none)<br>[Workforce
+    All-In-One Inkjet A4 Color Epson Wf 2810Dwf](none)<br><br>'
+markdown_short: '[WorkForce_All-in-One Inkjet_a4_color_epson_wf_2810dwf](none)<br><br>'
+md5: 4b8f831756ba724bfe7799f21fd1039b
+md5_10: 4b8f831756
+md5_10_upper: 4B8F831756
+md5_5: 4b8f8
+md5_5_upper: 4B8F8
+md5_6: 4b8f83
+md5_6_alpha: 2y4xv
+md5_6_alpha_upper: 2Y4XV
+md5_6_upper: 4B8F83
+name: Workforce All-In-One Inkjet A4 Color Epson Wf 2810Dwf
+name_no_class: All-In-One Inkjet A4 Color Epson Wf 2810Dwf
+name_no_size: Color Epson Wf 2810Dwf
+name_no_size_short: Color Epson Wf 2810Dwf
+name_no_type: A4 Color Epson Wf 2810Dwf
+nozzle_count_black: 180
+nozzle_count_per_colour: 59
+oomp_key: oomp_WorkForce_All-in-One Inkjet_a4_color_epson_wf_2810dwf
+oomp_word: penguin calendar lock
+oomp_word_emoji: ':penguin: :calendar: :lock:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':calendar:'
+- ':lock:'
+oomp_word_list:
+- penguin
+- calendar
+- lock
+original_rrp_gbp: 79.99
+part_number: wf_2810dwf
+part_number_capital: Wf 2810Dwf
+part_number_first_letter: w
+part_number_first_letter_upper: W
+part_number_upper: WF_2810DWF
+printhead_technology: Micro Piezo
+short_code: ''
+short_code_upper: ''
+short_name: Epson WorkForce WF-2810DWF
+size: a4
+size_capital: A4
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: A4
+total_colours: 4
+type: All-in-One Inkjet
+type_capital: All-In-One Inkjet
+type_first_letter: A
+type_first_letter_upper: A
+type_upper: ALL-IN-ONE INKJET

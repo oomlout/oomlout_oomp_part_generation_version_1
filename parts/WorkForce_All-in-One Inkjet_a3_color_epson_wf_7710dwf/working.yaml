@@ -1,0 +1,106 @@
+classification: WorkForce
+classification_capital: Workforce
+classification_first_letter: W
+classification_first_letter_upper: W
+classification_upper: WORKFORCE
+color: color
+color_capital: Color
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COLOR
+compatible_ink_bottles:
+- 27XL
+- 27XXL
+description_chat_gpt: A3+ 4-in-1 with 35-sheet duplex ADF and touchscreen.
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/WorkForce_All-in-One Inkjet_a3_color_epson_wf_7710dwf
+distributors: []
+features:
+- a3_plus
+- duplex_scan_copy
+- wifi_direct
+- ethernet
+- touchscreen
+id: WorkForce_All-in-One Inkjet_a3_color_epson_wf_7710dwf
+id_no_class: All-in-One Inkjet_a3_color_epson_wf_7710dwf
+id_no_size: color_epson_wf_7710dwf
+id_no_type: a3_color_epson_wf_7710dwf
+ink_type: pigment
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce_All-in-One
+    Inkjet_a3_color_epson_wf_7710dwf
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce_All-in-One
+    Inkjet_a3_color_epson_wf_7710dwf
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/WorkForce_All-in-One
+    Inkjet_a3_color_epson_wf_7710dwf
+manufacturer: epson
+manufacturer_capital: Epson
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON
+manufacturers: []
+markdown_full: '[WorkForce_All-in-One Inkjet_a3_color_epson_wf_7710dwf](none)<br>[](none)<br>[Workforce
+    All-In-One Inkjet A3 Color Epson Wf 7710Dwf](none)<br><br>'
+markdown_short: '[WorkForce_All-in-One Inkjet_a3_color_epson_wf_7710dwf](none)<br><br>'
+md5: 35085c54ff91950e74c40e45973a5786
+md5_10: 35085c54ff
+md5_10_upper: 35085C54FF
+md5_5: '35085'
+md5_5_upper: '35085'
+md5_6: 35085c
+md5_6_alpha: 22hr0
+md5_6_alpha_upper: 22HR0
+md5_6_upper: 35085C
+name: Workforce All-In-One Inkjet A3 Color Epson Wf 7710Dwf
+name_no_class: All-In-One Inkjet A3 Color Epson Wf 7710Dwf
+name_no_size: Color Epson Wf 7710Dwf
+name_no_size_short: Color Epson Wf 7710Dwf
+name_no_type: A3 Color Epson Wf 7710Dwf
+nozzle_count_black: 800
+nozzle_count_per_colour: 256
+oomp_key: oomp_WorkForce_All-in-One Inkjet_a3_color_epson_wf_7710dwf
+oomp_word: hamster scream ox
+oomp_word_emoji: ':hamster: :scream: :ox:'
+oomp_word_emoji_list:
+- ':hamster:'
+- ':scream:'
+- ':ox:'
+oomp_word_list:
+- hamster
+- scream
+- ox
+original_rrp_gbp: 199.99
+part_number: wf_7710dwf
+part_number_capital: Wf 7710Dwf
+part_number_first_letter: w
+part_number_first_letter_upper: W
+part_number_upper: WF_7710DWF
+printhead_technology: PrecisionCore
+short_code: ''
+short_code_upper: ''
+short_name: Epson WorkForce WF-7710DWF
+size: a3
+size_capital: A3
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: A3
+total_colours: 4
+type: All-in-One Inkjet
+type_capital: All-In-One Inkjet
+type_first_letter: A
+type_first_letter_upper: A
+type_upper: ALL-IN-ONE INKJET

@@ -89,6 +89,7 @@ def load_parts(**kwargs):
 
         #aliexpress 1
         part_details = copy.deepcopy(current_default)
+        part_details["color"] = "car_style_grip_black"
         part_details["manufacturer"] = "aliexpress"
         part_details["part_number"] = "ga_4h_tx"   
         part_details["part_number_exact"] = "GA-4H-TX"   
@@ -127,8 +128,9 @@ def load_parts(**kwargs):
         kits.append(copy.deepcopy(part_details))
 
         #hobbyking
-        part_details = copy.deepcopy(current_default)
+        part_details = copy.deepcopy(current_default)        
         part_details["size"] = "2_4_ghz_6_channel"
+        part_details["color"] = "dual_joystick_style"        
         part_details["manufacturer"] = "turnigy"
         part_details["part_number"] = "t6a_v2"
         part_details["part_number_exact"] = "T6A-V2"
@@ -138,6 +140,19 @@ def load_parts(**kwargs):
         parts.append(part_details)
         kits.append(copy.deepcopy(part_details))
         
+        #radiolink at9
+        part_details = copy.deepcopy(current_default)
+        part_details["size"] = "2_4_ghz_10_channel"
+        part_details["color"] = "dual_joystick_style"
+        part_details["manufacturer"] = "radiolink"
+        part_details["part_number"] = "at9"
+        part_details["part_number_exact"] = "AT9"
+        part_details["part_number_distributor_radiolink"] = "AT9SPro"
+        part_details["link_distributor_radiolink"] = f"https://www.radiolink.com.cn/at9spro_firmwares"
+        part_details["short_name"] = "Transmitter Kit 10 Channel"
+        parts.append(part_details)
+        kits.append(copy.deepcopy(part_details))
+
         for kit in kits:
             current_default = copy.deepcopy(kit)
             #receiver

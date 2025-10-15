@@ -1,0 +1,94 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_WorkForce
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_WorkForce_Mobile Inkjet Printer_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_WorkForce_Mobile Inkjet Printer_cubby_box
+id_no_class: WorkForce_Mobile Inkjet Printer_cubby_box
+id_no_size: cubby_box
+id_no_type: Mobile Inkjet Printer_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_Mobile
+    Inkjet Printer_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_Mobile
+    Inkjet Printer_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_Mobile
+    Inkjet Printer_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_WorkForce_Mobile Inkjet Printer_cubby_box](none)<br>[](none)<br>[Category
+    Workforce Mobile Inkjet Printer Cubby Box](none)<br><br>'
+markdown_short: '[category_WorkForce_Mobile Inkjet Printer_cubby_box](none)<br><br>'
+md5: d470ad22ac144e03c2990e0625982bf1
+md5_10: d470ad22ac
+md5_10_upper: D470AD22AC
+md5_5: d470a
+md5_5_upper: D470A
+md5_6: d470ad
+md5_6_alpha: 8aenh
+md5_6_alpha_upper: 8AENH
+md5_6_upper: D470AD
+name: Category Workforce Mobile Inkjet Printer Cubby Box
+name_no_class: Workforce Mobile Inkjet Printer Cubby Box
+name_no_size: Cubby Box
+name_no_size_short: Cubby Box
+name_no_type: Mobile Inkjet Printer Cubby Box
+oomp_key: oomp_category_WorkForce_Mobile Inkjet Printer_cubby_box
+oomp_word: corn squirrel dress
+oomp_word_emoji: ':corn: :squirrel: :dress:'
+oomp_word_emoji_list:
+- ':corn:'
+- ':squirrel:'
+- ':dress:'
+oomp_word_list:
+- corn
+- squirrel
+- dress
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryworkforce
+size: Mobile Inkjet Printer
+size_capital: Mobile Inkjet Printer
+size_first_letter: M
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MOBILE INKJET PRINTER
+type: WorkForce
+type_capital: Workforce
+type_first_letter: W
+type_first_letter_upper: W
+type_upper: WORKFORCE

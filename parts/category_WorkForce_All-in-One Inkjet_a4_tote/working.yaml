@@ -1,0 +1,94 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: a4
+color_capital: A4
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: A4
+description: category_WorkForce
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_WorkForce_All-in-One Inkjet_a4_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_WorkForce_All-in-One Inkjet_a4_tote
+id_no_class: WorkForce_All-in-One Inkjet_a4_tote
+id_no_size: a4_tote
+id_no_type: All-in-One Inkjet_a4_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_All-in-One
+    Inkjet_a4_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_All-in-One
+    Inkjet_a4_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_WorkForce_All-in-One
+    Inkjet_a4_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_WorkForce_All-in-One Inkjet_a4_tote](none)<br>[](none)<br>[Category
+    Workforce All-In-One Inkjet A4 Tote](none)<br><br>'
+markdown_short: '[category_WorkForce_All-in-One Inkjet_a4_tote](none)<br><br>'
+md5: 8bdf35194c800488a16f750599c1a68b
+md5_10: 8bdf35194c
+md5_10_upper: 8BDF35194C
+md5_5: 8bdf3
+md5_5_upper: 8BDF3
+md5_6: 8bdf35
+md5_6_alpha: 5gh11
+md5_6_alpha_upper: 5GH11
+md5_6_upper: 8BDF35
+name: Category Workforce All-In-One Inkjet A4 Tote
+name_no_class: Workforce All-In-One Inkjet A4 Tote
+name_no_size: A4 Tote
+name_no_size_short: A4 Tote
+name_no_type: All-In-One Inkjet A4 Tote
+oomp_key: oomp_category_WorkForce_All-in-One Inkjet_a4_tote
+oomp_word: door fountain hamster
+oomp_word_emoji: ':door: :fountain: :hamster:'
+oomp_word_emoji_list:
+- ':door:'
+- ':fountain:'
+- ':hamster:'
+oomp_word_list:
+- door
+- fountain
+- hamster
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryworkforce
+size: All-in-One Inkjet
+size_capital: All-In-One Inkjet
+size_first_letter: A
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ALL-IN-ONE INKJET
+type: WorkForce
+type_capital: Workforce
+type_first_letter: W
+type_first_letter_upper: W
+type_upper: WORKFORCE
