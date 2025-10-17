@@ -58,7 +58,7 @@ def load_parts(**kwargs):
             #kingmodel
             if True:
                 part_details = copy.deepcopy(default_local)
-                part_details["size"] = "brushed_style"
+                part_details["size"] = "brushed_style_dual_motor_tank"
                 part_details["color"] = "10_amp_maximum_current"
                 part_details["description_main"] = "25_mm_width_45_mm_height_black_pcb"
                 part_details["description_extra"] = "6s_22_volt_maximum"
