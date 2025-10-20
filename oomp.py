@@ -75,6 +75,7 @@ def load_parts(**kwargs):
     else:
         print ("loading parts from module")
         oomp_create_parts.load_parts(**kwargs)
+    return parts
 
 def load_parts_from_folders(**kwargs):
     global parts
