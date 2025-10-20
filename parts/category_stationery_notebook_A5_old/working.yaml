@@ -3,9 +3,9 @@ classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
 classification_upper: CATEGORY
-color: A5
+color: a5
 color_capital: A5
-color_first_letter: A
+color_first_letter: a
 color_first_letter_upper: A
 color_upper: A5
 description: category_stationery
@@ -23,51 +23,51 @@ description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'A '
 description_or_color_upper: 'A '
-directory: parts/category_stationery_notebook_A5_old
+directory: parts/category_stationery_notebook_a5_old
 distributors: []
 filter: ''
 from_yaml: false
-id: category_stationery_notebook_A5_old
-id_no_class: stationery_notebook_A5_old
-id_no_size: A5_old
-id_no_type: notebook_A5_old
-link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_A5_old
-link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_A5_old
-link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_A5_old
+id: category_stationery_notebook_a5_old
+id_no_class: stationery_notebook_a5_old
+id_no_size: a5_old
+id_no_type: notebook_a5_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5_old
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_stationery_notebook_A5_old](none)<br>[](none)<br>[Category
+markdown_full: '[category_stationery_notebook_a5_old](none)<br>[](none)<br>[Category
     Stationery Notebook A5 Old](none)<br><br>'
-markdown_short: '[category_stationery_notebook_A5_old](none)<br><br>'
-md5: 3e4c784df6aad7185e623b692150f5b1
-md5_10: 3e4c784df6
-md5_10_upper: 3E4C784DF6
-md5_5: 3e4c7
-md5_5_upper: 3E4C7
-md5_6: 3e4c78
-md5_6_alpha: 2fibc
-md5_6_alpha_upper: 2FIBC
-md5_6_upper: 3E4C78
+markdown_short: '[category_stationery_notebook_a5_old](none)<br><br>'
+md5: e25e203c4ab16554e43afaf1b7757bca
+md5_10: e25e203c4a
+md5_10_upper: E25E203C4A
+md5_5: e25e2
+md5_5_upper: E25E2
+md5_6: e25e20
+md5_6_alpha: 8tyxs
+md5_6_alpha_upper: 8TYXS
+md5_6_upper: E25E20
 name: Category Stationery Notebook A5 Old
 name_no_class: Stationery Notebook A5 Old
 name_no_size: A5 Old
 name_no_size_short: A5 Old
 name_no_type: Notebook A5 Old
-oomp_key: oomp_category_stationery_notebook_A5_old
-oomp_word: monkey turtle bell
-oomp_word_emoji: ':monkey: :turtle: :bell:'
+oomp_key: oomp_category_stationery_notebook_a5_old
+oomp_word: sailboat crocodile skull
+oomp_word_emoji: ':sailboat: :crocodile: :skull:'
 oomp_word_emoji_list:
-- ':monkey:'
-- ':turtle:'
-- ':bell:'
+- ':sailboat:'
+- ':crocodile:'
+- ':skull:'
 oomp_word_list:
-- monkey
-- turtle
-- bell
+- sailboat
+- crocodile
+- skull
 part_number: ''
 part_number_capital: ''
 part_number_exact: ''

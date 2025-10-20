@@ -3,9 +3,9 @@ classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
 classification_upper: CATEGORY
-color: A5
+color: a5
 color_capital: A5
-color_first_letter: A
+color_first_letter: a
 color_first_letter_upper: A
 color_upper: A5
 description: category_stationery
@@ -23,51 +23,51 @@ description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'A '
 description_or_color_upper: 'A '
-directory: parts/category_stationery_notebook_A5_cubby_box
+directory: parts/category_stationery_notebook_a5_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-id: category_stationery_notebook_A5_cubby_box
-id_no_class: stationery_notebook_A5_cubby_box
-id_no_size: A5_cubby_box
-id_no_type: notebook_A5_cubby_box
-link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_A5_cubby_box
-link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_A5_cubby_box
-link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_A5_cubby_box
+id: category_stationery_notebook_a5_cubby_box
+id_no_class: stationery_notebook_a5_cubby_box
+id_no_size: a5_cubby_box
+id_no_type: notebook_a5_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_stationery_notebook_A5_cubby_box](none)<br>[](none)<br>[Category
+markdown_full: '[category_stationery_notebook_a5_cubby_box](none)<br>[](none)<br>[Category
     Stationery Notebook A5 Cubby Box](none)<br><br>'
-markdown_short: '[category_stationery_notebook_A5_cubby_box](none)<br><br>'
-md5: 2ae62ff9d70c14e111baec42aac5e10b
-md5_10: 2ae62ff9d7
-md5_10_upper: 2AE62FF9D7
-md5_5: 2ae62
-md5_5_upper: 2AE62
-md5_6: 2ae62f
-md5_6_alpha: 1o9bj
-md5_6_alpha_upper: 1O9BJ
-md5_6_upper: 2AE62F
+markdown_short: '[category_stationery_notebook_a5_cubby_box](none)<br><br>'
+md5: 80649ce17409d8e31d1e7f4e5891bd23
+md5_10: 80649ce174
+md5_10_upper: 80649CE174
+md5_5: '80649'
+md5_5_upper: '80649'
+md5_6: 80649c
+md5_6_alpha: 50ckc
+md5_6_alpha_upper: 50CKC
+md5_6_upper: 80649C
 name: Category Stationery Notebook A5 Cubby Box
 name_no_class: Stationery Notebook A5 Cubby Box
 name_no_size: A5 Cubby Box
 name_no_size_short: A5 Cubby Box
 name_no_type: Notebook A5 Cubby Box
-oomp_key: oomp_category_stationery_notebook_A5_cubby_box
-oomp_word: umbrella airplane cyclone
-oomp_word_emoji: ':umbrella: :airplane: :cyclone:'
+oomp_key: oomp_category_stationery_notebook_a5_cubby_box
+oomp_word: hourglass sunflower spades
+oomp_word_emoji: ':hourglass: :sunflower: :spades:'
 oomp_word_emoji_list:
-- ':umbrella:'
-- ':airplane:'
-- ':cyclone:'
+- ':hourglass:'
+- ':sunflower:'
+- ':spades:'
 oomp_word_list:
-- umbrella
-- airplane
-- cyclone
+- hourglass
+- sunflower
+- spades
 part_number: ''
 part_number_capital: ''
 part_number_exact: ''

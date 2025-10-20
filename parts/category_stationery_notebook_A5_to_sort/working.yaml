@@ -3,9 +3,9 @@ classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
 classification_upper: CATEGORY
-color: A5
+color: a5
 color_capital: A5
-color_first_letter: A
+color_first_letter: a
 color_first_letter_upper: A
 color_upper: A5
 description: category_stationery
@@ -23,51 +23,51 @@ description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'A '
 description_or_color_upper: 'A '
-directory: parts/category_stationery_notebook_A5_to_sort
+directory: parts/category_stationery_notebook_a5_to_sort
 distributors: []
 filter: ''
 from_yaml: false
-id: category_stationery_notebook_A5_to_sort
-id_no_class: stationery_notebook_A5_to_sort
-id_no_size: A5_to_sort
-id_no_type: notebook_A5_to_sort
-link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_A5_to_sort
-link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_A5_to_sort
-link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_A5_to_sort
+id: category_stationery_notebook_a5_to_sort
+id_no_class: stationery_notebook_a5_to_sort
+id_no_size: a5_to_sort
+id_no_type: notebook_a5_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5_to_sort
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_stationery_notebook_A5_to_sort](none)<br>[](none)<br>[Category
+markdown_full: '[category_stationery_notebook_a5_to_sort](none)<br>[](none)<br>[Category
     Stationery Notebook A5 To Sort](none)<br><br>'
-markdown_short: '[category_stationery_notebook_A5_to_sort](none)<br><br>'
-md5: cffa2e8546278d49ecafe0ea4e279407
-md5_10: cffa2e8546
-md5_10_upper: CFFA2E8546
-md5_5: cffa2
-md5_5_upper: CFFA2
-md5_6: cffa2e
-md5_6_alpha: 844z2
-md5_6_alpha_upper: 844Z2
-md5_6_upper: CFFA2E
+markdown_short: '[category_stationery_notebook_a5_to_sort](none)<br><br>'
+md5: 49ce981ceba43147d61352b81b406961
+md5_10: 49ce981ceb
+md5_10_upper: 49CE981CEB
+md5_5: 49ce9
+md5_5_upper: 49CE9
+md5_6: 49ce98
+md5_6_alpha: 2vo9k
+md5_6_alpha_upper: 2VO9K
+md5_6_upper: 49CE98
 name: Category Stationery Notebook A5 To Sort
 name_no_class: Stationery Notebook A5 To Sort
 name_no_size: A5 To Sort
 name_no_size_short: A5 To Sort
 name_no_type: Notebook A5 To Sort
-oomp_key: oomp_category_stationery_notebook_A5_to_sort
-oomp_word: melon nine zap
-oomp_word_emoji: ':melon: :nine: :zap:'
+oomp_key: oomp_category_stationery_notebook_a5_to_sort
+oomp_word: hatching_chick peach tennis
+oomp_word_emoji: ':hatching_chick: :peach: :tennis:'
 oomp_word_emoji_list:
-- ':melon:'
-- ':nine:'
-- ':zap:'
+- ':hatching_chick:'
+- ':peach:'
+- ':tennis:'
 oomp_word_list:
-- melon
-- nine
-- zap
+- hatching_chick
+- peach
+- tennis
 part_number: ''
 part_number_capital: ''
 part_number_exact: ''

@@ -391,6 +391,18 @@ def load_parts(**kwargs):
         part_details["description_main"] = "mixed"
         default_current =  copy.deepcopy(part_details)
         parts.append(part_details)
-        
+
+
+    #notebook
+    if True:
+        #pukka pad
+        if True:
+            part_details = copy.deepcopy(default_empty)        
+            part_details["type"] = "notebook"
+            part_details["size"] = "a5"
+            part_details["color"] = "pukka_pad"
+            part_details["description_main"] = "200_sheet_lined_style_80_gsm"
+            parts.append(part_details)
+
     oomp.add_parts(parts, make_files=make_files)
     

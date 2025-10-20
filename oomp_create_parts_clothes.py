@@ -40,6 +40,7 @@ def load_parts(**kwargs):
         sizes.append("pajama_top")
         sizes.append("pajama_bottom")
         sizes.append("sweater")
+        sizes.append("hoodie")
 
         colors = []
         colors.append("small")
@@ -51,13 +52,19 @@ def load_parts(**kwargs):
         colors.append("triple_extra_large")
         
 
+        description_mains = []
+        #colors
+        description_mains.extend(["red", "blue", "green", "yellow", "black", "white", "gray", "pink", "purple", "orange", "brown", "beige", "navy", "maroon", "teal", "olive", "lime", "cyan", "magenta"]) 
+
         for size in sizes:
             for color in colors:
-                part_details = default_empty.copy()
-                part_details["size"] = size
-                part_details["color"] = f"color_{color}"
-                part_details["description_main"] = f""
-                parts.append(part_details.copy())
+                for description_main in description_mains:
+                    part_details = default_empty.copy()
+                    part_details["size"] = size
+                    part_details["color"] = color
+                    part_details["description_main"] = description_main
+                    parts.append(part_details.copy())   
+                
             
 
     # hanger

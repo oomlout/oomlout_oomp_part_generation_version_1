@@ -126,6 +126,7 @@ part_types.append("printer")
 
 part_types.append("remote_control")
 
+part_types.append("robot_dog")
 part_types.append("robot_arm")
 part_types.append("robot_vacuum")
 

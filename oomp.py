@@ -57,6 +57,7 @@ def load_parts(**kwargs):
     global add_part_filter
     from_yaml = kwargs.get("from_yaml", True)
     from_pickle = kwargs.get("from_pickle", False)
+    from_folders = kwargs.get("from_folders", False)
     filter = kwargs.get("filter", "")
     add_part_filter = filter
     if from_pickle:
@@ -64,13 +65,35 @@ def load_parts(**kwargs):
         oomp_create_parts.load_parts_from_pickle(**kwargs)
         #load extra dicts
         load_extra_dicts()
+    elif from_folders:
+        directory = kwargs.get("directory", "parts")
+        load_parts_from_folders(directory=directory)
     elif from_yaml:
         print ("loading parts from yaml")
         oomp_create_parts.load_parts_from_yaml(**kwargs)
+    
     else:
         print ("loading parts from module")
         oomp_create_parts.load_parts(**kwargs)
-        
+
+def load_parts_from_folders(**kwargs):
+    global parts
+    print("loading parts from folders")
+    directory = kwargs.get("directory", "parts")
+    #go through each folder in the parts directory
+    for folder in os.listdir(directory):
+        folder_path = os.path.join(directory, folder)
+        if os.path.isdir(folder_path):
+            #look for working.yaml in the folder
+            working_yaml_path = os.path.join(folder_path, "working.yaml")
+            if os.path.isfile(working_yaml_path):
+                import yaml
+                with open(working_yaml_path, "r") as infile:
+                    part = yaml.load(infile, Loader=yaml.FullLoader)
+                    parts[part["id"]] = part
+    parts = parts
+    return parts
+
 def load_extra_dicts():
     global parts_md5
     global parts_md5_5
