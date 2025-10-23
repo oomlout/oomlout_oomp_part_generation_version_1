@@ -74,7 +74,7 @@ if __name__ == "__main__":
     #filter = "lighting"
     #filter = "mechanical_motor"
     #filter = "packaging"
-    #filter = "printer"
+    filter = "printer"
     #filter = "project"
     #filter = "project_github"
     #filter = "paper"
@@ -84,7 +84,7 @@ if __name__ == "__main__":
     #filter = "robot_dog"
     
     #filter = "sheet_stock"
-    filter = "stationery"
+    #filter = "stationery"
     #filter = "task"
     #filter = "three_d_printer"
     #'filter = "tool"

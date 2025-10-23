@@ -228,6 +228,7 @@ cnt = 1
 def add_part(**kwargs):
     global cnt
     global add_part_filter
+    global parts
     make_files = kwargs.get("make_files", True)
 
     #pop out the not_main_elements from kwargs
@@ -531,6 +532,7 @@ def add_part(**kwargs):
     cnt += 1
     if cnt % 100 == 0:
         print(f".", end="")
+    return kwargs
 
 def hex_to_base36(hex_value):
     # Convert the hex value to an integer

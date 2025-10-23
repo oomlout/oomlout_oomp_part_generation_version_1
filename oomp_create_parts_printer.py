@@ -108,7 +108,7 @@ def load_parts(**kwargs):
         part_details["classification"] = "printer"
         part_details["type"] = "inkjet"
         part_details["size"] = "a2"
-        part_details["color"] = ""
+        part_details["color"] = "color_8"
         part_details["description_main"] = ""
         part_details["description_extra"] = ""
         part_details["manufacturer"] = "epson"
@@ -117,13 +117,26 @@ def load_parts(**kwargs):
         part_details["short_name"] = "Epson Stylus Pro 4800"
         parts.append(part_details)
 
-        
+        #expson styylus pro 7900 600 mm roll
+        part_details = {}
+        part_details["classification"] = "printer"
+        part_details["type"] = "inkjet"
+        part_details["size"] = "600_mm_roll"
+        part_details["color"] = "color_10"
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "epson"
+        part_details["part_number_exact"] = "Stylus Pro 7900"
+        part_details["part_number"] = part_details["part_number_exact"].replace("-", "_").replace(" ", "_").lower()
+        part_details["short_name"] = "Epson Stylus Pro 7900"
+        parts.append(part_details)
+
         #add the parts to oomp\hewlet packard designjet 650c
         part_details = {}
         part_details["classification"] = "printer"
         part_details["type"] = "inkjet"
         part_details["size"] = "reel"
-        part_details["color"] = ""
+        part_details["color"] = "color_4"
         part_details["description_main"] = ""
         part_details["description_extra"] = ""
         part_details["manufacturer"] = "hewlett_packard"
@@ -163,7 +176,7 @@ def load_parts(**kwargs):
                 part_details = {}
                 part_details["classification"] = "printer"
                 part_details["type"] = "ink"
-                part_details["size"] = "epson"
+                part_details["size"] = "inkjet_paper"
                 part_details["color"] = "ecotank"
                 part_details["description_main"] = desc_main
                 part_details["description_extra"] = ""
@@ -199,6 +212,30 @@ def load_parts(**kwargs):
                 part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
                 parts.append(copy.deepcopy(part_details))
 
+        #epson_stylus_photo_1400_bulk_ink
+        if True:
+            description_mains = []
+            description_mains.append("multipack")
+            description_mains.append("black_bottle_100_ml_e830bk_part_number")
+            description_mains.append("cyan_bottle_100_ml_e830c_part_number")
+            description_mains.append("magenta_bottle_100_ml_e830m_part_number")
+            description_mains.append("yellow_bottle_100_ml_e830y_part_number")
+            description_mains.append("cyan_light_bottle_100_ml_e830lc_part_number")
+            description_mains.append("magenta_light_bottle_100_ml_e830lm_part_number")
+            
+
+            for desc_main in description_mains:
+                part_details = {}
+                part_details["classification"] = "printer"
+                part_details["type"] = "ink"
+                part_details["size"] = "inkjet_paper"
+                part_details["color"] = "epson_clairia"
+                part_details["description_main"] = desc_main
+                part_details["description_extra"] = ""
+                part_details["manufacturer"] = ""
+                part_details["part_number"] = ""
+                parts.append(copy.deepcopy(part_details))
+                
 
         #sublimation ink
         if True:
@@ -1932,6 +1969,7 @@ def load_parts(**kwargs):
     
 
     #epson photo range
+    
     
 
     oomp.add_parts(parts, make_files=make_files)
