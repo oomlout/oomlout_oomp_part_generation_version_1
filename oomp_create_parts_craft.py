@@ -60,6 +60,19 @@ def load_parts(**kwargs):
         part_details["description_main"] = ""        
         parts.append(part_details)
 
+    #glitter
+    if True:
+        part_details = copy.deepcopy(default_craft)
+        part_details["type"] = "glitter"
+        part_details["size"] = ""
+
+        default_current = copy.deepcopy(part_details)
+
+        #mixed
+        part_details = copy.deepcopy(default_current)
+        part_details["description_main"] = ""        
+        parts.append(part_details)
+
     #loom band
     if True:
         part_details = copy.deepcopy(default_empty)

@@ -24,6 +24,7 @@ def load_parts(**kwargs):
     #mixeds
     if True:
         types = [""]
+        types.append("wire_chain")
 
         for type in types:
             part_details = copy.deepcopy(default_empty)        

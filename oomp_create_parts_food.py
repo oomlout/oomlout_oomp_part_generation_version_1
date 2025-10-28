@@ -157,6 +157,25 @@ def load_parts(**kwargs):
         parts.append(part_details)
 
         
+        #nut
+        if True:
+            nuts = []
+            nuts.append("almond_ground")
+            nuts.append("almond_whole")
+            nuts.append("almond_flake")
+            nuts.append("peanut_raw")
+            nuts.append("peaunut_roasted")
+            nuts.append("walnut_parts")
+            nuts.append("walnut_whole")
+
+            for nut in nuts:
+                part_details = copy.deepcopy(current_default)
+                part_details["size"] = "nut"
+                part_details["color"] = nut
+                part_details["description"] = f"nut_{nut}"
+                part_details["name_short"] = f"Nut {nut.replace('_',' ').title()}"
+                parts.append(part_details)
+
         # sugar
 
         part_details = copy.deepcopy(current_default)

@@ -212,6 +212,23 @@ def load_parts(**kwargs):
                 part_details["link_distributor_amazon"] = f"https://www.amazon.co.uk/dp/{part_details['distributor_amazon']}"
                 parts.append(copy.deepcopy(part_details))
 
+            #aliexpress pigment
+        if True:
+            description_mains = []
+            description_mains.append("multipack")
+
+            for desc_main in description_mains:
+                part_details = {}
+                part_details["classification"] = "printer"
+                part_details["type"] = "ink"
+                part_details["size"] = "inkjet_paper"
+                part_details["color"] = "pigment"
+                part_details["description_main"] = desc_main
+                part_details["description_extra"] = ""
+                part_details["manufacturer"] = "sliexpress"
+                part_details["part_number"] = ""
+                parts.append(copy.deepcopy(part_details))
+
         #epson_stylus_photo_1400_bulk_ink
         if True:
             description_mains = []
@@ -1968,7 +1985,27 @@ def load_parts(**kwargs):
             })
     
 
-    #epson photo range
+    #oki a4 laser es 7131
+    if True:
+        parts.append({
+            "classification": "printer",
+            "type": "laser",
+            "size": "a4",
+            "color": "mono",
+            "manufacturer": "oki",
+            "part_number": "es_7131",
+            "short_name": "OKI ES 7131",
+            "description_chat_gpt": "Compact A4 mono laser printer with fast printing and mobile support.",
+            "printhead_technology": "LED Laser",
+            "nozzle_count_black": None,
+            "nozzle_count_per_colour": None,
+            "total_colours": 1,
+            "original_rrp_gbp": 149.99,
+            "compatible_ink_bottles": ["toner_cartridge"],
+            "ink_type": "toner",
+            "features": ["mobile_printing", "fast_print_speed", "compact_design", "energy_efficient"]
+        })
+
     
     
 
