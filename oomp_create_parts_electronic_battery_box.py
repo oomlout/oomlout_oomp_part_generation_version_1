@@ -27,6 +27,22 @@ def load_parts(**kwargs):
         part_details["part_number_distributor_aliexpress"] = "1005005544254172"
         part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details["part_number_distributor_aliexpress"]}.html"
         part_details["short_name"] = "Dewalt XR Battery Holder"  
+        parts.append(part_details)  
+
+        
+        part_details = {}
+        part_details["classification"] = "electronic"
+        part_details["type"] = "battery_box"
+        part_details["size"] = "dewalt_tower_style"
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "aliexpress"
+        part_details["part_number"] = ""
+        part_details["part_number_exact"] = ""
+        part_details["part_number_distributor_aliexpress"] = "1005006020674006"
+        part_details["link_distributor_aliexpress"] = f"https://www.aliexpress.com/item/{part_details["part_number_distributor_aliexpress"]}.html"
+        part_details["short_name"] = "Dewalt Tower Style Battery Holder"  
         parts.append(part_details)    
         
         part_details = {}
