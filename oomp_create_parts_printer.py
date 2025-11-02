@@ -301,6 +301,26 @@ def load_parts(**kwargs):
                 part_details["part_number"] = ""
                 parts.append(copy.deepcopy(part_details))
 
+        #cleaning supplies
+        if True:
+            description_mains = []
+            description_mains.append("")
+            description_mains.append("supply")
+            description_mains.append("wiping")
+            description_mains.append("flushing_fluid")
+            description_mains.append("flushing_fluid_ecosolvent")
+
+            for desc_main in description_mains:
+                part_details = {}
+                part_details["classification"] = "printer"
+                part_details["type"] = "ink"
+                part_details["size"] = "cleaning"
+                part_details["color"] = ""
+                part_details["description_main"] = desc_main
+                part_details["description_extra"] = ""
+                part_details["manufacturer"] = "epson"
+                part_details["part_number"] = ""
+                parts.append(copy.deepcopy(part_details))
 
     #chad ecotank research
     if True:
