@@ -15,7 +15,7 @@ def load_parts(**kwargs):
         colors = ["tote_burgundy", "box_cubby_short", "box_cubby_long", "box_cube","tote_small"]
     
         description_mains = []
-        count = 200
+        count = 400
         for i in range(count):
             description_mains.append(f"{i}")
 
