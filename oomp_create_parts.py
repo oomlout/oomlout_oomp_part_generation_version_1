@@ -22,6 +22,8 @@ part_types.append("book")
 part_types.append("camera")
 part_types.append("camping")
 
+part_types.append("card")
+
 part_types.append("clothes")
 
 part_types.append("computer")
@@ -45,6 +47,7 @@ part_types.append("hardware_spacer")
 part_types.append("hardware_standoff")
 part_types.append("hardware_washer")
 part_types.append("hardware_variety_pack")
+part_types.append("hardware_ziptie")
 
 part_types.append("industrial")
 

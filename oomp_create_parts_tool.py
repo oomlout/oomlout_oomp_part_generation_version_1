@@ -166,6 +166,36 @@ def load_parts(**kwargs):
         part_details["part_number"] = "st180"
         parts.append(part_details)
 
+    # electronic
+    if True:
+        part_details = {}
+        part_details["classification"] = "tool"
+        part_details["type"] = "electronic"
+        part_details["size"] = ""
+        part_details["color"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = ""
+        part_details["part_number"] = ""
+        
+        current_default = copy.deepcopy(part_details)
+
+        sizes = ["soldering"]
+        for size in sizes:
+            part_details = copy.deepcopy(current_default)
+            part_details["size"] = size
+
+            description_mains = ["", "self_feeding"]
+            for description_main in description_mains:
+                part_details_current = copy.deepcopy(part_details)
+                part_details_current["description_main"] = description_main
+                if description_main == "self_feeding":
+                    part_details_current["manufacturer"] = "aliexpress"
+                parts.append(part_details_current)
+
+        #soldering
+
+
     # knife
     if True:
         part_details = {}

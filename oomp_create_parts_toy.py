@@ -152,6 +152,14 @@ def load_parts(**kwargs):
         part_details["description_main"] = "dominoes_mixed"
         parts.append(part_details)
 
+        #guess_who
+        dexcription_extras = ["classic","travel","card"]
+        for description_extra in dexcription_extras:
+            part_details = copy.deepcopy(default_current)
+            part_details["description_main"] = "guess_who"
+            part_details["description_extra"] = description_extra
+            parts.append(part_details)
+
     #gem and rock and mineral
     if True:
         part_details = {}

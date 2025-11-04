@@ -1,0 +1,88 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_decorative_photo_chain_link_display
+color_capital: Oomlout Decorative Photo Chain Link Display
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_DECORATIVE_PHOTO_CHAIN_LINK_DISPLAY
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_decorative_photo_chain_link_display
+distributors: []
+filter: ''
+from_yaml: false
+id: project_github_oomlout_oomlout_decorative_photo_chain_link_display
+id_no_class: github_oomlout_oomlout_decorative_photo_chain_link_display
+id_no_size: decorative_photo_chain_link_display
+id_no_type: oomlout_oomlout_decorative_photo_chain_link_display
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_photo_chain_link_display
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_photo_chain_link_display
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_photo_chain_link_display
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_decorative_photo_chain_link_display](none)<br>[](none)<br>[Project
+    Github Oomlout Oomlout Decorative Photo Chain Link Display](none)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_decorative_photo_chain_link_display](none)<br><br>'
+md5: a30eca62cd491cf4c17903d7f157d642
+md5_10: a30eca62cd
+md5_10_upper: A30ECA62CD
+md5_5: a30ec
+md5_5_upper: A30EC
+md5_6: a30eca
+md5_6_alpha: 6d1hm
+md5_6_alpha_upper: 6D1HM
+md5_6_upper: A30ECA
+name: Project Github Oomlout Oomlout Decorative Photo Chain Link Display
+name_no_class: Github Oomlout Oomlout Decorative Photo Chain Link Display
+name_no_size: Decorative Photo Chain Link Display
+name_no_size_short: Decorative Photo Chain Link Display
+name_no_type: Oomlout Oomlout Decorative Photo Chain Link Display
+oomp_key: oomp_project_github_oomlout_oomlout_decorative_photo_chain_link_display
+oomp_word: pencil cupid cherries
+oomp_word_emoji: ':pencil: :cupid: :cherries:'
+oomp_word_emoji_list:
+- ':pencil:'
+- ':cupid:'
+- ':cherries:'
+oomp_word_list:
+- pencil
+- cupid
+- cherries
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB
