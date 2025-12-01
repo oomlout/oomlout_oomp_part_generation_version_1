@@ -60,6 +60,28 @@ def load_parts(**kwargs):
         part_details["description_main"] = ""        
         parts.append(part_details)
 
+    #embroidery
+    if True:
+        part_details = copy.deepcopy(default_craft)
+        part_details["type"] = "embroidery"
+        
+        default_current = copy.deepcopy(part_details)
+        parts.append( copy.deepcopy(default_current) )
+
+
+        #thead        
+        part_details = copy.deepcopy(default_current)
+        part_details["size"] = "thread"
+
+        description_mains = []
+        description_mains.append("")
+        description_mains.append("mixed")
+        for description_main in description_mains:
+            part_details = copy.deepcopy(default_current)
+            part_details["size"] = "thread"
+            part_details["description_main"] = description_main                
+            parts.append(part_details)
+
     #glitter
     if True:
         part_details = copy.deepcopy(default_craft)
@@ -67,6 +89,7 @@ def load_parts(**kwargs):
         part_details["size"] = ""
 
         default_current = copy.deepcopy(part_details)
+        parts.append( copy.deepcopy(default_current) )
 
         #mixed
         part_details = copy.deepcopy(default_current)
@@ -173,6 +196,65 @@ def load_parts(**kwargs):
         part_details = copy.deepcopy(default_current)
         part_details["description_main"] = "mixed"
         
+        parts.append(part_details)
+
+    #sewing
+    if True:
+        part_details = copy.deepcopy(default_craft)
+        part_details["type"] = "sewing"
+        
+        default_current = copy.deepcopy(part_details)
+
+        #needle
+        if True:
+            part_details = copy.deepcopy(default_current)
+            part_details["size"] = "needle"
+
+            default_current = copy.deepcopy(part_details)
+
+            description_mains = []
+            description_mains.append("hand")
+            description_mains.append("machine")
+            for description_main in description_mains:
+                part_details = copy.deepcopy(default_current)
+                part_details["description_main"] = description_main                
+                parts.append(part_details)
+
+        #pins
+        if True:
+            part_details = copy.deepcopy(default_current)
+            part_details["size"] = "pins"
+            
+            default_current = copy.deepcopy(part_details)
+
+            description_mains = []
+            description_mains.append("mixed")
+            description_mains.append("headed")
+            for description_main in description_mains:
+                part_details = copy.deepcopy(default_current)
+                part_details["description_main"] = description_main                
+                parts.append(part_details)
+
+        #thread
+        if True:
+            part_details = copy.deepcopy(default_current)
+            part_details["size"] = "thread"
+
+            default_current = copy.deepcopy(part_details)
+
+            description_mains = []
+            description_mains.append("")
+            description_mains.append("mixed")
+
+            for description_main in description_mains:
+                part_details = copy.deepcopy(default_current)
+                part_details["description_main"] = description_main                
+                parts.append(part_details)
+
+
+        #mixed
+        part_details = copy.deepcopy(default_current)
+        part_details["description_main"] = "mixed"        
         parts.append(part_details)
 
     #sticker

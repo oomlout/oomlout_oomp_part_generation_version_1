@@ -82,7 +82,26 @@ def load_parts(**kwargs):
                         part["description_main"] = description_main
                         part["manufacturer"] = manufacturer
                         parts.append(copy.deepcopy(part))
-            
+
+    #plywood
+    if True:
+        current_item = {"type": "plywood"}
+        sizes = []
+        sizes.append("3mm_depth")
+        sizes.append("6mm_depth")
+        sizes.append("12mm_depth")
+        sizes.append("18mm_depth")
+        
+        description_mains = copy.deepcopy(description_mains_default)
+        
+
+        for size in sizes:
+            for description_main in description_mains:                
+                part = copy.deepcopy(default_empty)
+                part.update(current_item)            
+                part["size"] = size
+                part["description_main"] = description_main                
+                parts.append(copy.deepcopy(part))       
 
 
    

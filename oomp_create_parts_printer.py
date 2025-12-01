@@ -117,6 +117,36 @@ def load_parts(**kwargs):
         part_details["short_name"] = "Epson Stylus Pro 4800"
         parts.append(part_details)
 
+        #epson stylus photo 1400
+        part_details = {}
+        part_details["classification"] = "printer"
+        part_details["type"] = "inkjet"
+        part_details["size"] = "a3"
+        part_details["color"] = "color_6"
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "epson"
+        part_details["part_number_exact"] = "Stylus Photo 1400"
+        part_details["part_number"] = part_details["part_number_exact"].replace("-", "_").replace(" ", "_").lower()
+        part_details["short_name"] = "Epson Stylus Photo 1400"
+        parts.append(part_details)
+
+        #epson stylus photo r300
+        part_details = {}
+        part_details["classification"] = "printer"
+        part_details["type"] = "inkjet"
+        part_details["size"] = "a4"
+        part_details["color"] = "color_6"
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "epson"
+        part_details["part_number_exact"] = "Stylus Photo R300"
+        part_details["part_number"] = part_details["part_number_exact"].replace("-", "_").replace(" ", "_").lower()
+        part_details["short_name"] = "Epson Stylus Photo R300"
+        parts.append(part_details)
+
+
+
         #expson styylus pro 7900 600 mm roll
         part_details = {}
         part_details["classification"] = "printer"
@@ -129,6 +159,20 @@ def load_parts(**kwargs):
         part_details["part_number_exact"] = "Stylus Pro 7900"
         part_details["part_number"] = part_details["part_number_exact"].replace("-", "_").replace(" ", "_").lower()
         part_details["short_name"] = "Epson Stylus Pro 7900"
+        parts.append(part_details)
+
+        #epson 9700
+        part_details = {}
+        part_details["classification"] = "printer"
+        part_details["type"] = "inkjet"
+        part_details["size"] = "1118_mm_roll"
+        part_details["color"] = "color_4"
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""
+        part_details["manufacturer"] = "epson"
+        part_details["part_number_exact"] = "Stylus Pro 9700"
+        part_details["part_number"] = part_details["part_number_exact"].replace("-", "_").replace(" ", "_").lower()
+        part_details["short_name"] = "Epson Stylus Pro 9700"
         parts.append(part_details)
 
         #add the parts to oomp\hewlet packard designjet 650c
