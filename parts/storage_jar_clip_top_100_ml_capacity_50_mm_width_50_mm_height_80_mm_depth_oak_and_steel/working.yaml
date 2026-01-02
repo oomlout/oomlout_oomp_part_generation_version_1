@@ -1,0 +1,88 @@
+classification: storage
+classification_capital: Storage
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STORAGE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth
+description_main_capital: 100 Ml Capacity 50 mm Width 50 mm Height 80 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 100_ML_CAPACITY_50_MM_WIDTH_50_MM_HEIGHT_80_MM_DEPTH
+description_only_numbers: '100505080'
+description_only_numbers_short: 1M
+description_or_color: 1M
+description_or_color_upper: 1M
+directory: parts/storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+distributors: []
+id: storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+id_no_class: jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+id_no_size: 100mlcapacity50mmwidth50mmheight80mmdepthoakandsteel
+id_no_type: 100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+manufacturer: oak_and_steel
+manufacturer_capital: Oak And Steel
+manufacturer_first_letter: o
+manufacturer_first_letter_upper: O
+manufacturer_upper: OAK_AND_STEEL
+manufacturers: []
+markdown_full: '[storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel](none)<br>[](none)<br>[Storage
+    Jar Clip Top 100 Ml Capacity 50 Mm Width 50 Mm Height 80 Mm Depth Oak And Steel](none)<br><br>'
+markdown_short: '[storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel](none)<br><br>'
+md5: fb6e341df7eeeab0cbc7f5356a4321e6
+md5_10: fb6e341df7
+md5_10_upper: FB6E341DF7
+md5_5: fb6e3
+md5_5_upper: FB6E3
+md5_6: fb6e34
+md5_6_alpha: 9t6b8
+md5_6_alpha_upper: 9T6B8
+md5_6_upper: FB6E34
+name: Storage Jar Clip Top 100 Ml Capacity 50 Mm Width 50 Mm Height 80 Mm Depth Oak
+    And Steel
+name_no_class: Jar Clip Top 100 Ml Capacity 50 Mm Width 50 Mm Height 80 Mm Depth Oak
+    And Steel
+name_no_size: 100Mlcapacity50Mmwidth50Mmheight80Mmdepthoakandsteel
+name_no_size_short: 100Mlcapacity50Mmwidth50Mmheight80Mmdepthoakandsteel
+name_no_type: 100 Ml Capacity 50 Mm Width 50 Mm Height 80 Mm Depth Oak And Steel
+oomp_key: oomp_storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+oomp_word: ok new_moon mouse
+oomp_word_emoji: ':ok: :new_moon: :mouse:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':new_moon:'
+- ':mouse:'
+oomp_word_list:
+- ok
+- new_moon
+- mouse
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: jar_clip_top
+type_capital: Jar Clip Top
+type_first_letter: j
+type_first_letter_upper: J
+type_upper: JAR_CLIP_TOP
